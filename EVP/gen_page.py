@@ -9,6 +9,7 @@ items = []
 with zipfile.ZipFile('us_words.zip','r') as zf:
     for name in zf.namelist()[:]:
         html = zf.open(name,'r').read().decode('utf-8')
+        html = re.sub(r'<b\s+class="b".*?>(.+?)</b>',r'[\1]',html,flags=re.DOTALL)
         doc = requests_html.HTML(html=html)
         #doc = pyquery.PyQuery(html)
         #print(repr(doc.find('.head h1')))
