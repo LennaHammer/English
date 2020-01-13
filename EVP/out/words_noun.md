@@ -213,13 +213,13 @@
 - I saw an ad for a part-time job that you might like.
 
 ## 30. address ## noun [C]
-nan BUILDING DETAILS
+ BUILDING DETAILS
 [A1]the details of where a building is, including the building number, street name, city or town, etc.
 - her business/home address
 - a change of address
 
 ## 31. address ## noun [C]
-nan ELECTRONIC
+ ELECTRONIC
 [A1]a series of letters, numbers or punctuation marks referring to a Web site or e-mail destination
 - Do you have their Web address?
 
@@ -1687,7 +1687,7 @@ nan ELECTRONIC
 - mashed potato/potatoes
 
 ## 247. present ## noun
-nan the present
+ the present
 [A1]the form of the verb that is used to show what happens or exists now
 - All the verbs in this text are in the present.
 
@@ -3417,6 +3417,7 @@ nan the present
 ## 526. department store ## noun [C]
 /dɪˈpɑrt.məntˌstɔːr/ 
 [A2]a large shop divided into several different parts, each of which sells different things
+- 
 
 ## 527. desert ## noun [C or U]
 /ˈdez.ərt/ 
@@ -3580,6 +3581,7 @@ nan the present
 ## 555. elephant ## noun [C]
 /ˈel.ə.fənt/ 
 [A2]a very large, gray animal with big ears and a very long nose with which it picks things up
+- 
 
 ## 556. elevator ## noun [C]
 /ˈel.əˌveɪt̬.ər/ 
@@ -3931,7 +3933,7 @@ nan the present
 - Jackie is in the sixth grade.
 
 ## 615. graduate ## noun [C]
-nan 
+ 
 [A2]a person who has successfully completed studies at a school or received a degree from a college or university
 - high-school graduates
 - a graduate of Oberlin College
@@ -3959,6 +3961,7 @@ nan
 ## 620. granddaughter ## noun [C]
 /ˈgrænˌdɔːt̬.ər/ 
 [A2]the daughter of a person's son or daughter
+- 
 
 ## 621. grandfather ## noun [C]
 /ˈgrændˌfɑð.ər/ 
@@ -4309,10 +4312,12 @@ nan
 ## 682. kilogram ## noun [C]
 /ˈkɪl.əˌgræm/ 
 [A2]a unit of mass equal to 1000 grams, or 2.2 pounds
+- 
 
 ## 683. kilometer ## noun [C]
 /ˈkɪ.lə.miː.t̬̬̬ər/ 
 [A2]a unit of measurement equal to 1000 meters
+- 
 
 ## 684. kind ## noun [C]
 /kɑɪnd/ all kinds of sth
@@ -5217,7 +5222,7 @@ nan
 - Are you coming to softball practice after work?
 
 ## 834. present ## noun
-nan SOMETHING GIVEN
+ SOMETHING GIVEN
 [A2]something that you give to someone, usually for a particular occasion
 - a birthday/Christmas/wedding present
 - They gave me theater tickets as a present.
@@ -6353,7 +6358,7 @@ nan SOMETHING GIVEN
 - a nurse's uniform
 
 ## 1017. use ## noun
-nan USING
+ USING
 [A2]when you use something, or when something is being used
 - an increase in the use of mobile phones
 - Guests have free use of the swimming pool.
@@ -7040,6 +7045,7 @@ nan USING
 ## 1134. baker ## noun [C]
 /ˈbeɪ.kər/ 
 [B1]someone who makes and sells bread, cakes, etc.
+- 
 
 ## 1135. balcony ## noun [C]
 /ˈbæl.kə.ni/ HOUSE ETC.
@@ -7316,6 +7322,7 @@ nan USING
 ## 1184. builder ## noun [C]
 /ˈbɪl.dər/ 
 [B1]a person whose job it is to make buildings
+- 
 
 ## 1185. bulb ## noun [C]
 /bʌlb/ 
@@ -7350,6 +7357,7 @@ nan USING
 ## 1191. butcher ## noun [C]
 /ˈbʊtʃ.ər/ 
 [B1]a person who sells meat in a store
+- 
 
 ## 1192. butterfly ## noun [C]
 /ˈbʌt̬.ərˌflɑɪ/ 
@@ -7959,6 +7967,7 @@ nan USING
 ## 1292. consonant ## noun [C]
 /ˈkɑn.sə.nənt/ 
 [B1]one of the speech sounds or letters of the alphabet which is not a vowel
+- 
 
 ## 1293. contact ## noun
 /ˈkɑn.tækt/ COMMUNICATION
@@ -8333,7 +8342,7 @@ nan USING
 - We need to take a lot of factors into account in our decision-making.
 
 ## 1354. decrease ## noun [C or U]
-nan 
+ 
 [B1]a reduction
 - There has been a steady decrease in the number of visitors.
 
@@ -8678,7 +8687,7 @@ nan
 - There is no doubt (that) he's a good player.
 
 ## 1412. download ## noun [C]
-nan 
+ 
 [B1]a computer program, music or other information that has been or can be downloaded
 - a free download
 
@@ -8982,7 +8991,7 @@ nan
 - If you want excitement, you should try parachuting.
 
 ## 1462. excuse ## noun [C]
-nan REASON
+ REASON
 [B1]a reason that you give to explain why you did something wrong
 - What was his excuse for being late?
 - He'd better have a good excuse for not being here!
@@ -8990,7 +8999,7 @@ nan REASON
 - There's no excuse for that sort of behavior.
 
 ## 1463. excuse ## noun [C]
-nan FALSE REASON
+ FALSE REASON
 [B1]a false reason that you give to explain why you do something
 - Nick was just looking for an excuse to call her.
 - He'll give any excuse for taking a day off.
@@ -9023,7 +9032,7 @@ nan FALSE REASON
 - My trip to Australia was an experience I'll never forget.
 
 ## 1468. experiment ## noun [C]
-nan 
+ 
 [B1]a test, especially a scientific one, that you do in order to learn something or to discover whether something is true
 - Some people believe that experiments on animals should be banned.
 - Scientists are carrying out/doing experiments to test the effectiveness of the new drug.
@@ -10000,6 +10009,7 @@ nan
 ## 1636. indefinite article ## noun [C]
 /ɪnˌdef.ə.nət̬ˈɑr.t̬ɪ.kəl/ 
 [B1]the grammatical name for the words "a" and "an" in English or words in other languages that have a similar use
+- 
 
 ## 1637. industry ## noun
 /ˈɪn.də.stri/ TYPE OF BUSINESS
@@ -10194,6 +10204,7 @@ nan
 ## 1668. kettle ## noun [C]
 /ˈket̬.əl/ 
 [B1]a covered container used for boiling water that has a handle and an opening for pouring
+- 
 
 ## 1669. key ## noun [C]
 /kiː/ METHOD
@@ -10939,13 +10950,13 @@ nan
 - A large number of people were contacted.
 
 ## 1789. object ## noun [C]
-nan THING
+ THING
 [B1]a thing that you can see or touch but that is usually not alive
 - a bright, shiny object
 - There were various objects on display.
 
 ## 1790. object ## noun [C]
-nan GRAMMAR
+ GRAMMAR
 [B1]in grammar, the person or thing that is affected by the action of the verb or the person or thing that comes after a preposition
 - In the sentence "I like ice cream," "ice cream" is the object of the verb "like."
 
@@ -11279,6 +11290,7 @@ nan GRAMMAR
 ## 1845. period ## noun [C]
 /ˈpɪr.iː.əd/ MARK
 [B1]a mark (.) that is put at the end of a sentence, or at the end of a word that has been shortened
+- 
 
 ## 1846. permission ## noun [U]
 /pərˈmɪʃ.ən/ 
@@ -11343,6 +11355,7 @@ nan GRAMMAR
 ## 1856. pillow ## noun [C]
 /ˈpɪl.oʊ/ FOR CHAIR
 [B1]a cloth bag filled with something soft which you sit on or lean against to make you comfortable
+- 
 
 ## 1857. pin ## noun [C]
 /pɪn/ 
@@ -11577,7 +11590,7 @@ nan GRAMMAR
 - My insurance has a very low co-pay for prescription drugs.
 
 ## 1895. present ## noun
-nan the present
+ the present
 [B1]the period of time that is happening now
 - The play is set in the present.
 - We have no positions available at the present time.
@@ -11638,7 +11651,7 @@ nan the present
 - a sociology professor
 
 ## 1905. progress ## noun [U]
-nan IMPROVEMENT
+ IMPROVEMENT
 [B1]development and improvement of skills, knowledge, etc.
 - I don't feel that I'm making much progress in learning Spanish.
 
@@ -11750,6 +11763,7 @@ nan IMPROVEMENT
 ## 1923. question mark ## noun [C]
 /ˈkwes.tʃənˌmɑrk/ 
 [B1]the ? punctuation mark that is put at the end of a phrase or sentence to show that it is a question
+- 
 
 ## 1924. questionnaire ## noun [C]
 /ˌkwes.tʃəˈner/ 
@@ -11813,12 +11827,12 @@ nan IMPROVEMENT
 - When I make pies, I don’t need to follow a recipe.
 
 ## 1934. record ## noun
-nan SONG/MUSIC
+ SONG/MUSIC
 [B1]a song or music which has been recorded and which is available for the public to buy
 - I like their new record.
 
 ## 1935. record ## noun
-nan BEST
+ BEST
 [B1]the best, biggest, longest, tallest, etc.
 - He ran the 100 meters in 9.79 seconds and broke the world record.
 - He holds the world record for 100 meters.
@@ -11944,7 +11958,7 @@ nan BEST
 - an unsuccessful rescue attempt
 
 ## 1956. research ## noun [U]
-nan 
+ 
 [B1]the study of a subject in detail to find information or to gain a better understanding of it
 - scientific/medical research
 - a research center
@@ -13593,14 +13607,14 @@ nan
 - Is there intelligent life elsewhere in the universe?
 
 ## 2226. use ## noun
-nan PURPOSE
+ PURPOSE
 [B1]a purpose for which something is used
 - A food processor has a variety of uses in the kitchen.
 - I'd have no use for a boat.
 - The land was no good for farming, but he found other uses for it.
 
 ## 2227. use ## noun
-nan WORD
+ WORD
 [B1]one of the meanings of a word, or the way that a particular word is used
 - Can you list all the uses of the word "point"?
 
@@ -13757,6 +13771,7 @@ nan WORD
 ## 2251. waterfall ## noun [C]
 /ˈwɔːt̬.ərˌfɔːl/ 
 [B1]water, especially from a river or stream, dropping from a higher to a lower point, sometimes from a great height
+- 
 
 ## 2252. wave ## noun [C]
 /weɪv/ WATER
@@ -13833,6 +13848,7 @@ nan WORD
 ## 2264. whale ## noun [C]
 /weɪl/ 
 [B1]a very large sea mammal that breathes air through a hole at the top of its head
+- 
 
 ## 2265. wheelchair ## noun [C]
 /ˈwiːl.tʃer/ 
@@ -14847,6 +14863,7 @@ nan WORD
 ## 2444. bra ## noun [C]
 /brɑ/ 
 [B2]a piece of women's underwear that supports the breasts
+- 
 
 ## 2445. branch ## noun [C]
 /bræntʃ/ SUBJECT
@@ -15012,6 +15029,7 @@ nan WORD
 ## 2475. camp ## noun [C or U]
 /kæmp/ an army/prison/refugee, etc. camp
 [B2]an area containing temporary buildings or tents used for soldiers/prisoners/refugees
+- 
 
 ## 2476. campus ## noun [C or U]
 /ˈkæm.pəs/ 
@@ -15457,6 +15475,7 @@ nan WORD
 ## 2554. comedian ## noun
 /kəˈmiːd.iː.ən/ 
 [B2]someone who entertains people by telling jokes
+- 
 
 ## 2555. comfort ## noun
 /ˈkʌm.fərt/ NO PAIN
@@ -15670,6 +15689,7 @@ nan WORD
 ## 2589. conjunction ## noun [C]
 /kənˈdʒʌŋk.ʃən/ GRAMMAR
 [B2]a word such as 'and', 'but', 'while' or 'although' that connects words, phrases and clauses in a sentence
+- 
 
 ## 2590. connection ## noun
 /kəˈnek.ʃən/ INVOLVEMENT
@@ -15762,7 +15782,7 @@ nan WORD
 - a plastic drinks container
 
 ## 2605. content ## noun [no plural]
-nan IDEAS
+ IDEAS
 [B2]the ideas that are contained in a piece of writing, a speech or a film
 - the content of the article
 - It's a very beautiful film, but it seems to me to lack content.
@@ -15785,13 +15805,13 @@ nan IDEAS
 - You're a vegetarian, aren't you? "On the contrary, I love meat."
 
 ## 2609. contrast ## noun [C or U]
-nan DIFFERENCE
+ DIFFERENCE
 [B2]an obvious difference between two or more things
 - The contrast between their lifestyles couldn't be greater.
 - The busy north coast of the island is in sharp contrast to the peaceful south.
 
 ## 2610. contrast ## noun [C or U]
-nan by/in contrast
+ by/in contrast
 [B2]used to show that someone or something is completely different
 - Their economy has expanded enormously, while ours, by contrast, has declined.
 - She's quite short, in contrast to her tall sister.
@@ -16083,6 +16103,7 @@ nan by/in contrast
 ## 2659. dash ## noun
 /dæʃ/ PUNCTUATION
 [B2]a mark (-) that can be used to separate parts of a sentence
+- 
 
 ## 2660. data ## noun [U]
 /ˈdeɪt̬.ə/ FACTS
@@ -16199,6 +16220,7 @@ nan by/in contrast
 ## 2679. decade ## noun [C]
 /ˈdek.eɪd/ 
 [B2]a period of ten years, especially a period such as 1860 to 1869, or 2000 to 2009
+- 
 
 ## 2680. deck ## noun [C]
 /dek/ SHIP
@@ -16353,6 +16375,7 @@ nan by/in contrast
 ## 2706. devil ## noun [C]
 /ˈdev.əl/ EVIL BEING
 [B2]an evil being, often represented in human form but with a tail and horns
+- 
 
 ## 2707. dialogue ## noun [C or U]
 /ˈdɑɪ.əˌlɔːg/ IN BOOK, ETC.
@@ -16592,6 +16615,7 @@ nan by/in contrast
 ## 2749. dream ## noun [C]
 /driːm/ be in a dream
 [B2]to not notice things that are around you because you are thinking about something else
+- 
 
 ## 2750. drop ## noun
 /drɑp/ REDUCTION
@@ -16632,6 +16656,7 @@ nan by/in contrast
 ## 2756. eagle ## noun [C]
 /ˈiː.gəl/ 
 [B2]a large, strong bird with a curved beak that hunts smaller animals
+- 
 
 ## 2757. ear ## noun [C]
 /ɪr/ not believe your ears
@@ -16672,6 +16697,7 @@ nan by/in contrast
 ## 2764. economist ## noun [C]
 /ɪˈkɑn.ə.mɪst/ 
 [B2]a person who studies or has a special knowledge of economics
+- 
 
 ## 2765. economy ## noun [C]
 /ɪˈkɑn.ə.mi/ 
@@ -16985,7 +17011,7 @@ nan by/in contrast
 - The fire was thought to have been caused by a gas explosion.
 
 ## 2817. export ## noun [C or U]
-nan 
+ 
 [B2]a product that you sell in another country or the business of selling products in another country
 - Coffee is one of Brazil's main exports.
 - The export of ivory is now strictly controlled.
@@ -17048,7 +17074,7 @@ nan
 - I agree with you to a certain extent.
 
 ## 2827. extract ## noun [C]
-nan 
+ 
 [B2]a short part of a book, poem, etc.
 - They published an extract from his autobiography.
 
@@ -17716,7 +17742,7 @@ nan
 - The ground was frozen hard and was impossible to dig.
 
 ## 2949. grown-up ## noun [C]
-nan 
+ 
 [B2]an adult, used especially when talking to children
 - Ask a grown-up to cut the shape out for you.
 
@@ -18156,7 +18182,7 @@ nan
 - There are strict limits on immigration (into the country).
 
 ## 3027. impact ## noun [C usually no plural or U]
-nan EFFECT
+ EFFECT
 [B2]the effect that a person, event or situation has on someone or something
 - These charges will have a damaging impact on the governor’s reputation.
 - The environmental impact of this project will be enormous.
@@ -18200,7 +18226,7 @@ nan EFFECT
 - personal/household/family income
 
 ## 3034. increase ## noun [C or U]
-nan RISE
+ RISE
 [B2]a rise in the amount or size of something
 - price/tax increases
 - There were 39, 000 new cases last year - an increase of 7 per cent.
@@ -18284,13 +18310,13 @@ nan RISE
 - Data input is carried out by a team based overseas.
 
 ## 3048. inside ## noun [C usually no plural]
-nan INNER PART
+ INNER PART
 [B2]the inner part, space or side of something
 - Did you clean the inside of the car?
 - The hotel looked shabby from the street, but it was fine on the inside.
 
 ## 3049. inside ## noun [C usually no plural]
-nan inside out
+ inside out
 [B2]If a piece of clothing is inside out, the part that is usually outside is on the inside.
 - She had her sweater on inside out.
 
@@ -18302,6 +18328,7 @@ nan inside out
 ## 3051. inspector ## noun [C]
 /ɪnˈspek.tər/ OFFICER
 [B2]a police officer of high rank
+- 
 
 ## 3052. inspiration ## noun
 /ˌɪn.spəˈreɪ.ʃən/ IDEAS
@@ -18326,7 +18353,7 @@ nan inside out
 - a young offenders' institution
 
 ## 3056. insult ## noun [C]
-nan RUDE REMARK
+ RUDE REMARK
 [B2]a rude and offensive remark or action
 - They were shouting insults at each other.
 
@@ -19679,7 +19706,7 @@ nan RUDE REMARK
 - Some novelists start by writing an outline.
 
 ## 3283. outside ## noun
-nan the outside
+ the outside
 [B2]the outer part or side of something
 - The outside of the house needs to be painted.
 - The house is much bigger than it looked from the outside.
@@ -19939,7 +19966,7 @@ nan the outside
 - Interest rates have risen by two percentage points.
 
 ## 3327. perfect ## noun [no plural]
-nan the perfect (tense)
+ the perfect (tense)
 [B2]the tense of a verb that shows action that has happened in the past or before another time or event
 - the present/past perfect
 - In English, the perfect is formed with a form of the verb "have" and the past participle of the verb - for example, "She has visited Mexico."
@@ -20387,6 +20414,7 @@ nan the perfect (tense)
 ## 3404. prime minister ## noun [C usually no plural]
 /ˌprɑɪmˈmɪn.ə.stər/ 
 [B2]the leader of the government in some countries
+- 
 
 ## 3405. priority ## noun [C or U]
 /prɑɪˈɔːr.ət̬.i/ 
@@ -20488,7 +20516,7 @@ nan the perfect (tense)
 - We learned how to do programming.
 
 ## 3421. progress ## noun [U]
-nan in progress
+ in progress
 [B2]happening or being done now
 - Repair work is in progress on several roads including I-78, and will continue until June.
 
@@ -20812,7 +20840,7 @@ nan in progress
 - She suddenly left, for no reason.
 
 ## 3474. rebel ## noun [C]
-nan 
+ 
 [B2]someone who fights against the government in their country, especially a soldier
 - The rebels took over the capital and set up a new government.
 - Rebels seized control of the airport.
@@ -20841,7 +20869,7 @@ nan
 - I bought this computer on John's recommendation.
 
 ## 3479. record ## noun
-nan INFORMATION
+ INFORMATION
 [B2]information that is written on paper or stored on computer so that it can be used in the future
 - medical/dental records
 - My teacher keeps a record of absences.
@@ -22923,13 +22951,13 @@ nan INFORMATION
 - a mountain/nature trail
 
 ## 3837. transfer ## noun [C or U]
-nan 
+ 
 [B2]when something or someone moves or is moved from one place, position, etc. to another
 - the transfer of information
 - Black's transfer to an Italian soccer team came as a shock to Coventry supporters.
 
 ## 3838. transport ## noun [U]
-nan GOODS/PEOPLE
+ GOODS/PEOPLE
 [B2]when people or goods are moved from one place to another
 - the transport of live animals
 
@@ -23119,12 +23147,12 @@ nan GOODS/PEOPLE
 - her middle-class upbringing
 
 ## 3869. update ## noun [C]
-nan NEW INFORMATION
+ NEW INFORMATION
 [B2]new information
 - I'll need regular updates on your progress.
 
 ## 3870. update ## noun [C]
-nan NEW FORM
+ NEW FORM
 [B2]a new form of something that existed at an earlier time
 - a software update
 - It's an update of an old 1960s movie.
@@ -23136,22 +23164,22 @@ nan NEW FORM
 - The upgrade to version 5.0 costs $395.
 
 ## 3872. use ## noun
-nan be (of) any/some use
+ be (of) any/some use
 [B2]to be useful
 - Is this bag of any use to you?
 
 ## 3873. use ## noun
-nan be (of) no use
+ be (of) no use
 [B2]to not be useful
 - His advice turned out to be no use at all.
 
 ## 3874. use ## noun
-nan be no use doing sth
+ be no use doing sth
 [B2]used to say that trying to do something has no effect
 - It was no use talking to him - he just wouldn't listen.
 
 ## 3875. use ## noun
-nan make use of sth
+ make use of sth
 [B2]to use something that is available
 - We were encouraged to make use of all the facilities.
 
@@ -24326,7 +24354,7 @@ nan make use of sth
 - They will be paid on completion of the job.
 
 ## 4090. complex ## noun
-nan BUILDINGS
+ BUILDINGS
 [C1]a group of buildings or rooms that are used for a particular purpose
 - a sports/housing/apartment complex
 
@@ -24648,7 +24676,7 @@ nan BUILDINGS
 - There will be some loss of definition when you copy the video.
 
 ## 4152. delegate ## noun [C]
-nan 
+ 
 [C1]someone who is sent somewhere to represent a group of people, especially at a meeting
 - The delegates were all given badges to wear.
 
@@ -25061,7 +25089,7 @@ nan
 - a slight/gross exaggeration of the facts
 
 ## 4232. excess ## noun
-nan 
+ 
 [C1]more of something than is usual or needed
 - The company’s losses are in excess of more than $5 million.
 - An excess of inventory resulted in a drop in prices.
@@ -25695,7 +25723,7 @@ nan
 - Closing this school will have major implications for the neighborhood.
 
 ## 4352. import ## noun
-nan PRODUCT
+ PRODUCT
 [C1]a product that is imported from another country
 - food/oil imports
 - Imports of foreign cars are at an all-time high.
@@ -25722,7 +25750,7 @@ nan PRODUCT
 - Having to wait for ten minutes was a minor inconvenience.
 
 ## 4357. increase ## noun [C or U]
-nan on the increase
+ on the increase
 [C1]If something is on the increase, it is happening more often.
 - Homelessness is on the increase in many cities.
 
@@ -25782,7 +25810,7 @@ nan on the increase
 - the latest innovations in education
 
 ## 4368. inside ## noun [C usually no plural]
-nan know sth inside out
+ know sth inside out
 [C1]to know everything about something
 - He knows the system inside out.
 
@@ -26364,7 +26392,7 @@ nan know sth inside out
 - He had the misfortune to fall in love with a married woman.
 
 ## 4477. misuse ## noun [C or U]
-nan 
+ 
 [C1]the use of something in the wrong way or for the wrong purpose
 - They accused him of misuse of power.
 
@@ -26574,7 +26602,7 @@ nan
 - The government is concerned about childhood obesity.
 
 ## 4517. object ## noun [C]
-nan the object of sth
+ the object of sth
 [C1]the purpose of something
 - The object of this game is to score more points than the opposing team.
 - The object of the exercise is to complete the task within the time limit.
@@ -26823,7 +26851,7 @@ nan the object of sth
 - Free child care for preschool children of employees was a popular perk.
 
 ## 4563. permit ## noun [C]
-nan 
+ 
 [C1]an official document that allows you to do something
 - a work permit
 - You need a permit to park your car here.
@@ -28671,7 +28699,7 @@ nan
 - Many adolescents are secretive.
 
 ## 4911. advocate ## noun [C]
-nan 
+ 
 [C2]someone who supports a particular idea or way of doing things
 - He has always been an advocate of space exploration.
 
@@ -28922,7 +28950,7 @@ nan
 - We had a strong mutual attraction.
 
 ## 4959. attribute ## noun [C]
-nan 
+ 
 [C2]a quality or characteristic that someone or something has
 - Her hair is her best attribute.
 
@@ -29768,7 +29796,7 @@ nan
 - I don't care what color her friend is.
 
 ## 5124. combat ## noun [C or U]
-nan 
+ 
 [C2]a fight, especially during a war
 - The aircraft was shot down in combat.
 
@@ -29804,7 +29832,7 @@ nan
 - Will you be running for Congress? "No comment."
 
 ## 5131. complex ## noun
-nan MENTAL
+ MENTAL
 [C2]a mental problem which makes someone anxious or frightened about something
 - an inferiority complex
 
@@ -29824,17 +29852,17 @@ nan MENTAL
 - Eye problems can be a complication of diabetes.
 
 ## 5135. compliment ## noun
-nan PRAISE
+ PRAISE
 [C2]something that you say or do to show praise or admiration for someone
 - Thank you for the compliment, but many people helped me along the way.
 
 ## 5136. compliment ## noun
-nan pay sb a compliment
+ pay sb a compliment
 [C2]to tell someone that you admire something about them
 - He paid her several compliments about her painting.
 
 ## 5137. compliment ## noun
-nan with the compliments of sb
+ with the compliments of sb
 [C2]used by someone to express good wishes when they give you something free, for example in a restaurant
 - Please accept this champagne with the compliments of the manager.
 
@@ -29963,7 +29991,7 @@ nan with the compliments of sb
 - He has utter contempt for anyone with power.
 
 ## 5162. content ## noun [no plural]
-nan AMOUNT
+ AMOUNT
 [C2]the amount of a particular substance that something contains
 - Most soft drinks have a high sugar content.
 
@@ -30468,7 +30496,7 @@ nan AMOUNT
 - a cheerful/nervous disposition
 
 ## 5261. dispute ## noun [C or U]
-nan 
+ 
 [C2]a disagreement, especially one that lasts a long time
 - He and his neighbor have a long-running dispute over noise.
 - Her skills are not in dispute, but she doesn't produce enough.
@@ -30805,7 +30833,7 @@ nan
 - This is a prime example of what happens when communication is poor.
 
 ## 5327. excess ## noun
-nan do sth to excess
+ do sth to excess
 [C2]to do something too much
 - It is best to avoid eating any one type of food to excess.
 
@@ -31873,7 +31901,7 @@ nan do sth to excess
 - Healthy eating will help boost your immune system.
 
 ## 5536. impact ## noun [C usually no plural or U]
-nan HITTING
+ HITTING
 [C2]the force or action of one object hitting another
 - The impact of the crash reduced the car to a third of its original length.
 - The bullet explodes on impact.
@@ -31899,7 +31927,7 @@ nan HITTING
 - His career was ruined by his implication in the financial scandal.
 
 ## 5541. import ## noun
-nan ACTIVITY
+ ACTIVITY
 [C2]the activity of importing something into a country
 - The FDA oversees the import of seafood, fruits, and vegetables.
 
@@ -32096,7 +32124,7 @@ nan ACTIVITY
 - The Internet is a very powerful instrument of communication.
 
 ## 5579. insult ## noun [C]
-nan add insult to injury
+ add insult to injury
 [C2]to make someone's bad situation worse by doing something else to upset them
 - To add insult to injury, we had to pay for the damage!
 
@@ -35587,7 +35615,7 @@ nan add insult to injury
 - She has an air of superiority.
 
 ## 6249. supplement ## noun [C]
-nan 
+ 
 [C2]an extra amount or part added to something
 - to take a vitamin supplement
 - a newspaper with a color supplement
@@ -36235,7 +36263,7 @@ nan
 - I resisted the urge to slap him.
 
 ## 6372. use ## noun
-nan the use of sth
+ the use of sth
 [C2]permission to use something, or the ability to use something
 - Martin has offered me the use of his car.
 - He lost the use of his left arm in the accident.
@@ -36559,7 +36587,7 @@ nan the use of sth
 - The family had to go on welfare.
 
 ## 6434. whereabouts ## noun
-nan sb's whereabouts
+ sb's whereabouts
 [C2]the place where someone or something is
 - His whereabouts are unknown.
 

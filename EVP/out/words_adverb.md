@@ -207,7 +207,7 @@
 - It's only four o'clock and it's already getting dark.
 
 ## 31. outside ## adverb
-nan NOT IN BUILDING
+ NOT IN BUILDING
 [A1]not inside a building
 - It's cold outside!
 - Why don't you go outside and play for a little while?
@@ -685,7 +685,7 @@ nan NOT IN BUILDING
 - I bent down to look under the bed.
 
 ## 104. downstairs ## adverb
-nan 
+ 
 [A2]to or on a lower floor of a building, especially the ground floor
 - I ran downstairs to see who was at the door.
 
@@ -874,7 +874,7 @@ nan
 - Cut the pastry into a square and turn in the corners.
 
 ## 134. inside ## adverb
-nan CONTAINER
+ CONTAINER
 [A2]in or into a room, building, container, etc.
 - I'm freezing, let's go back inside.
 
@@ -1095,7 +1095,7 @@ nan CONTAINER
 - Once a year we all meet up.
 
 ## 169. online ## adverb
-nan 
+ 
 [A2]bought, used, etc. using the Internet
 - I ordered them online.
 - Why don't you go online and see what you can find?
@@ -1120,7 +1120,7 @@ nan
 - Someone called looking for you while you were out.
 
 ## 173. outside ## adverb
-nan NEAR
+ NEAR
 [A2]not in a particular room or building but near it
 - I'll wait outside while you get changed.
 - She knocked on his door of his room and left the tray outside.
@@ -1319,7 +1319,7 @@ nan NEAR
 - The water was up to the level of the windows.
 
 ## 203. upstairs ## adverb
-nan 
+ 
 [A2]on or to a higher level of a building
 - He ran upstairs to answer the phone.
 
@@ -1629,7 +1629,7 @@ nan
 - Clearly, he's very talented.
 
 ## 255. close ## adverb
-nan 
+ 
 [B1]near in distance
 - Come a bit closer.
 - He stayed close to his mother.
@@ -3636,7 +3636,7 @@ nan
 - He said he had obtained the television innocently, not knowing it had been stolen.
 
 ## 605. inside ## adverb
-nan FEELING
+ FEELING
 [B2]If you have a feeling inside, you have a feeling although you might not show it to other people.
 - She couldn't cope with the grief she felt inside.
 
@@ -6449,7 +6449,7 @@ nan FEELING
 - The Senator has made it clear where she stands on these issues.
 
 ## 1124. whereabouts ## adverb
-nan 
+ 
 [C2]used to ask in what place or area someone or something is
 - Whereabouts does he live?
 

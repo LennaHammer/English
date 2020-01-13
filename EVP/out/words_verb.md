@@ -143,7 +143,7 @@
 - He asked her to help him clean out the cupboards.
 
 ## 21. close ## verb
-nan DOOR/WINDOW
+ DOOR/WINDOW
 [A1]If something closes, it moves so that it is not open, and if you close something, you make it move so that it is not open.
 - Could you close the door/window please?
 - Close your eyes - I've got a surprise for you.
@@ -286,7 +286,7 @@ nan DOOR/WINDOW
 - I enjoy meeting people and seeing new places.
 
 ## 40. excuse ## verb [T]
-nan Excuse me
+ Excuse me
 [A1]used to politely get someone's attention
 - Excuse me, does this bus go to Oxford Street?
 
@@ -519,7 +519,7 @@ nan Excuse me
 - Listen to this! You can win a holiday for two in the south of France just by answering three simple questions.
 
 ## 72. live ## verb
-nan live in/at, etc.
+ live in/at, etc.
 [A1]to have your home somewhere
 - Where do you live?
 - We live in Seattle.
@@ -926,7 +926,7 @@ nan live in/at, etc.
 - Is there anyone here who understands Arabic?
 
 ## 123. use ## verb [T]
-nan PURPOSE
+ PURPOSE
 [A1]If you use something, you do something with it for a particular purpose.
 - Can I use your pen, please?
 - Do you use your computer much?
@@ -1305,7 +1305,7 @@ nan PURPOSE
 - She climbed up on a chair to change the light bulb.
 
 ## 179. close ## verb
-nan PUBLIC PLACE
+ PUBLIC PLACE
 [A2]When a store, restaurant or public place closes, people cannot go into it.
 - The banks had already closed.
 - The museum closes at 5:30.
@@ -1474,7 +1474,7 @@ nan PUBLIC PLACE
 - She does yoga in her spare time.
 
 ## 205. download ## verb [I or T]
-nan 
+ 
 [A2]to copy computer programs, music or other information electronically, especially from the Internet or a larger computer
 - I've downloaded the program.
 
@@ -1538,12 +1538,12 @@ nan
 - She is accused of entering the country illegally.
 
 ## 215. excuse ## verb [T]
-nan Excuse me
+ Excuse me
 [A2]used to say you are sorry for something that you do without intending to
 - Oh, excuse me, did I take your seat?
 
 ## 216. excuse ## verb [T]
-nan Excuse me
+ Excuse me
 [A2]used to politely ask someone to repeat something they said because you have not heard it
 - Did you see the movie? "Excuse me? What was that?" "I asked if you saw the movie."
 
@@ -2369,7 +2369,7 @@ nan Excuse me
 - She received a number of awards during her lifetime.
 
 ## 343. record ## verb
-nan STORE SOUND/PICTURES
+ STORE SOUND/PICTURES
 [A2]to store sounds or pictures using electronic equipment, a camera, etc., so that you can listen to them or see them again
 - They've just recorded a new album.
 - I recorded that program for you.
@@ -3021,6 +3021,7 @@ nan STORE SOUND/PICTURES
 ## 446. attach ## verb [T]
 /əˈtætʃ/ COMPUTING
 [B1]to connect a file, such as a document, picture or computer program, to an e-mail
+- 
 
 ## 447. attack ## verb
 /əˈtæk/ TRY TO HURT
@@ -3749,7 +3750,7 @@ nan STORE SOUND/PICTURES
 - They decorated the hall with balloons and colorful flags.
 
 ## 568. decrease ## verb [I or T]
-nan 
+ 
 [B1]to become less, or to make something become less
 - During the summer months, rainfall decreases.
 
@@ -4051,7 +4052,7 @@ nan
 - We exchanged addresses and telephone numbers.
 
 ## 618. excuse ## verb [T]
-nan FORGIVE
+ FORGIVE
 [B1]to forgive someone
 - Please excuse me for arriving late - my flight was delayed.
 - Please excuse my appearance - I've been painting.
@@ -4924,7 +4925,7 @@ nan FORGIVE
 - I don't hear anything - you must be imagining it.
 
 ## 767. increase ## verb [I or T]
-nan 
+ 
 [B1]to get bigger or to make something bigger in amount or size
 - Sales of laptops have increased over the last few years.
 - The cost of the project has increased dramatically/significantly since it began.
@@ -5291,7 +5292,7 @@ nan
 - I told you she wouldn't like it but you wouldn't listen to me!
 
 ## 826. live ## verb
-nan SPEND LIFE
+ SPEND LIFE
 [B1]to spend your life in a particular way
 - After a while you get used to living alone.
 - When you retire, you want to live a comfortable life.
@@ -5300,7 +5301,7 @@ nan SPEND LIFE
 - She certainly lived her life to the full.
 
 ## 827. live ## verb
-nan BE ALIVE
+ BE ALIVE
 [B1]to be alive
 - He only lived a few days after the accident.
 - Her grandmother lived to the ripe old age of 94.
@@ -5736,7 +5737,7 @@ nan BE ALIVE
 - A major Hollywood star will be performing on stage tonight.
 
 ## 896. permit ## verb
-nan 
+ 
 [B1]to allow something
 - Photography is not permitted inside the museum.
 - The prison authorities permit visiting only once a month.
@@ -7053,7 +7054,7 @@ nan
 - He's been training hard for the race for several weeks now.
 
 ## 1100. transfer ## verb
-nan MOVE
+ MOVE
 [B1]to move someone or something from one place to another
 - He has been transferred to a psychiatric hospital.
 - Police are investigating how $20 million was illegally transferred from the Trust's bank account.
@@ -7155,7 +7156,7 @@ nan MOVE
 - I haven't even had time to unpack my suitcase/clothes/bag.
 
 ## 1117. update ## verb [T]
-nan ADD INFORMATION
+ ADD INFORMATION
 [B1]to add new information
 - The website has just been updated.
 - We'll update you on this news story throughout the day.
@@ -7166,7 +7167,7 @@ nan ADD INFORMATION
 - All the files have been uploaded to the server.
 
 ## 1119. use ## verb [T]
-nan REDUCE
+ REDUCE
 [B1]to take an amount from a supply of something
 - Taking a shower uses less water than taking a bath.
 - These bulbs use a lot of electricity.
@@ -8287,13 +8288,13 @@ nan REDUCE
 - The sun climbed higher in the sky.
 
 ## 1310. close ## verb
-nan STOP OPERATING
+ STOP OPERATING
 [B2]If a business or organization closes, or if someone or something closes it, it stops operating.
 - The factory closed over ten years ago.
 - A lot of restaurants/stores are closing because they can't afford the rent.
 
 ## 1311. close ## verb
-nan 
+ 
 [B2]If a business or organization closes down or someone closes it down, it stops operating.
 - All the mines in this area were closed down in the 80s.
 - Our local butcher is closing down.
@@ -9274,7 +9275,7 @@ nan
 - The group meets every month to exchange their views on a book they have all read.
 
 ## 1483. excuse ## verb [T]
-nan EXPLAIN
+ EXPLAIN
 [B2]to be given as a reason for someone's bad behavior, so that it does not seem so bad
 - Nothing can excuse that sort of behavior.
 
@@ -9295,7 +9296,7 @@ nan EXPLAIN
 - I'm expecting our first baby in May.
 
 ## 1487. experiment ## verb [I]
-nan TRY
+ TRY
 [B2]to try something in order to discover what it is like
 - Did he ever experiment with drugs?
 
@@ -9315,7 +9316,7 @@ nan TRY
 - We're exploring the possibility of buying a vacation home.
 
 ## 1491. export ## verb [I or T]
-nan 
+ 
 [B2]to send goods to another country for sale
 - French cheeses are exported to many different countries.
 - Our clothes sell so well in this country that we have no need to export.
@@ -9348,7 +9349,7 @@ nan
 - I need to extend my visa.
 
 ## 1496. extract ## verb [T]
-nan 
+ 
 [B2]to remove or take out something
 - The oil which is extracted from olives is used mainly for cooking.
 - The tooth was eventually extracted.
@@ -9995,7 +9996,7 @@ nan
 - Let’s grab a sandwich before we leave.
 
 ## 1613. graduate ## verb
-nan 
+ 
 [B2]to successfully complete studies at a school, or to complete a degree at a college or university
 - After he graduated high school, he joined the army.
 - Tyler graduated from Oberlin with high honors in musicology.
@@ -10262,7 +10263,7 @@ nan
 - The bill that would implement tax reforms was not passed.
 
 ## 1660. import ## verb [T]
-nan 
+ 
 [B2]to buy or bring in products from another country
 - We import a large number of cars from Japan.
 
@@ -10311,7 +10312,7 @@ nan
 - This television drama was inspired by a true story.
 
 ## 1669. insult ## verb [T]
-nan 
+ 
 [B2]to say or do something to someone that is rude and offensive
 - How dare you insult me in front of my friends!
 
@@ -10715,32 +10716,32 @@ nan
 - I've listed some useful reading material on the handout.
 
 ## 1742. live ## verb
-nan 
+ 
 [B2]to have something or someone as the most important thing in your life
 - She just lives for music.
 
 ## 1743. live ## verb
-nan MONEY
+ MONEY
 [B2]If you live on an amount of money, that is the money that you use to buy the things that you need.
 - We lived on very little when we first got married.
 
 ## 1744. live ## verb
-nan FOOD
+ FOOD
 [B2]to only eat a particular type of food
 - I more or less live on pasta.
 
 ## 1745. live ## verb
-nan 
+ 
 [B2]If two people live together, they share a home.
 - Nowadays many young people live together.
 
 ## 1746. live ## verb
-nan 
+ 
 [B2]to be as good as someone hopes
 - Did the trip live up to your expectations?
 
 ## 1747. live ## verb
-nan 
+ 
 [B2]to share a home with someone
 - How do you like living with your parents?
 - They live in a three-bedroom house with two other people.
@@ -11153,7 +11154,7 @@ nan
 - People failing to obey the law will be fined.
 
 ## 1819. object ## verb [I]
-nan 
+ 
 [B2]to feel or say that you do not like or do not approve of something or someone
 - He objects to the label "magician," which he is often called.
 - Would anyone object if we started the meeting now?
@@ -11463,14 +11464,14 @@ nan
 - We're praying for good weather for the parade tomorrow.
 
 ## 1873. present ## verb [T]
-nan GIVE
+ GIVE
 [B2]to give, provide or make known
 - The winners were presented with medals.
 - He presented the report to his colleagues at the meeting.
 - The documentary presented an interesting point of view.
 
 ## 1874. present ## verb [T]
-nan PLAY/MOVIE
+ PLAY/MOVIE
 [B2]to show a play, movie, concert, etc.
 - The school is presenting "West Side Story" this term.
 
@@ -11511,7 +11512,7 @@ nan PLAY/MOVIE
 - If used on delicate skin, this cream may produce a stinging sensation.
 
 ## 1881. progress ## verb [I]
-nan IMPROVE
+ IMPROVE
 [B2]to improve or develop in skills, knowledge, etc.
 - My Spanish never really progressed to fluency.
 
@@ -11789,7 +11790,7 @@ nan IMPROVE
 - I've rearranged the furniture in my office.
 
 ## 1930. rebel ## verb [I]
-nan 
+ 
 [B2]to refuse to obey rules that you disagree with or do not like
 - Children often rebel against eating certain foods - Rory won't eat vegetables.
 
@@ -11821,7 +11822,7 @@ nan
 - She has been recommended for promotion.
 
 ## 1935. record ## verb
-nan STORE INFORMATION
+ STORE INFORMATION
 [B2]to write down information or store it on a computer so that it can be used in the future
 - He recorded details of their conversation in his diary.
 
@@ -11992,7 +11993,7 @@ nan STORE INFORMATION
 - Can we reschedule the meeting for Monday?
 
 ## 1965. research ## verb [I or T]
-nan 
+ 
 [B2]to study a subject in detail or to try to find information about a subject
 - He spent several years researching a rare African dialect.
 - She's researching possible cures for malaria.
@@ -12357,7 +12358,7 @@ nan
 - He was sentenced to 3 months in jail and fined $5000.
 
 ## 2027. separate ## verb
-nan DIVIDE
+ DIVIDE
 [B2]to divide into parts, or to make something divide into parts
 - I separated the class into three groups.
 - The north and south of the country are separated by a mountain range.
@@ -12365,14 +12366,14 @@ nan DIVIDE
 - The top and bottom sections are difficult to separate.
 
 ## 2028. separate ## verb
-nan MOVE APART
+ MOVE APART
 [B2]to move apart, or to make people move apart
 - I'll have to separate you two if you don't stop talking.
 - Somehow, in the rush to get out of the building, I got separated from my mother.
 - Perhaps we should separate now and meet up later.
 
 ## 2029. separate ## verb
-nan HUSBAND/WIFE
+ HUSBAND/WIFE
 [B2]to start to live in a different place from your husband or wife because the relationship has ended
 - My parents separated when I was four.
 
@@ -13532,7 +13533,7 @@ nan HUSBAND/WIFE
 - He trained as a lawyer in Vienna.
 
 ## 2228. transfer ## verb
-nan CHANGE JOB/TEAM
+ CHANGE JOB/TEAM
 [B2]to change to a different job, team, place of work, etc., or to make someone do this
 - After a year he transferred to Harvard University.
 - Some very high-profile British players have transferred to teams abroad.
@@ -13545,7 +13546,7 @@ nan CHANGE JOB/TEAM
 - The reorganization will transform the entertainment industry.
 
 ## 2230. transport ## verb [T]
-nan 
+ 
 [B2]to move people or goods from one place to another
 - The goods are packed in boxes and transported overseas.
 - The pipeline was constructed to transport oil to ports on the coast.
@@ -13696,7 +13697,7 @@ nan
 - I untied my shoelaces and kicked off my shoes.
 
 ## 2255. update ## verb [T]
-nan MAKE MORE MODERN
+ MAKE MORE MODERN
 [B2]to make something more modern
 - They need to update their image.
 
@@ -13714,12 +13715,12 @@ nan MAKE MORE MODERN
 - Don't upset yourself by thinking about what might have happened.
 
 ## 2258. use ## verb [T]
-nan WORD
+ WORD
 [B2]to say or write a particular word or phrase
 - Autumn is used in British English, but "fall" is the usual word in American English.
 
 ## 2259. use ## verb [T]
-nan 
+ 
 [B2]to finish a supply of something
 - Don't use up all the milk - we need some for breakfast.
 - The Earth's resources are being used up at an alarming rate.
@@ -13970,7 +13971,7 @@ nan
 - He sent a letter acknowledging receipt of her application.
 
 ## 2304. address ## verb [T]
-nan DEAL WITH
+ DEAL WITH
 [C1]to deal with a problem
 - We have to address the issue/problem before it gets worse.
 
@@ -14008,7 +14009,7 @@ nan DEAL WITH
 - The extra money will allow me to upgrade my computer.
 
 ## 2311. alternate ## verb
-nan 
+ 
 [C1]If two things alternate, one thing happens, then the other thing happens, then the first thing happens again, etc.
 - She alternates between cheerfulness and boredom.
 
@@ -14336,7 +14337,7 @@ nan
 - We need to clear away these tree branches that were knocked down in the storm
 
 ## 2373. close ## verb
-nan 
+ 
 [C1]to put something across the entrance to a place in order to keep people from entering it
 - Police quickly closed off the area.
 
@@ -14467,7 +14468,7 @@ nan
 - These new regulations just complicate matters further.
 
 ## 2398. compliment ## verb [T]
-nan 
+ 
 [C1]to praise or express admiration for someone
 - He complimented me on my writing.
 
@@ -15325,7 +15326,7 @@ nan
 - He imitated her accent perfectly.
 
 ## 2565. impact ## verb
-nan 
+ 
 [C1]to affect something or someone
 - Rising interest rates are sure to impact (on) the housing market.
 
@@ -15737,7 +15738,7 @@ nan
 - She claims the public was misled by the government.
 
 ## 2642. misuse ## verb [T]
-nan 
+ 
 [C1]to use something in the wrong way or for the wrong purpose
 - He misused his position to obtain money dishonestly.
 
@@ -15891,7 +15892,7 @@ nan
 - The British are often perceived as being very formal.
 
 ## 2670. permit ## verb
-nan MAKE POSSIBLE
+ MAKE POSSIBLE
 [C1]to make something possible
 - The game starts at 3 pm, weather permitting.
 - We could stop in to see Ryan on the way home, if time permits.
@@ -15943,7 +15944,7 @@ nan MAKE POSSIBLE
 - Keep me posted on anything that happens while I'm away.
 
 ## 2680. present ## verb [T]
-nan present a problem/conflict/danger, etc.
+ present a problem/conflict/danger, etc.
 [C1]to cause a problem/conflict/danger, etc.
 - Falling tax revenues present a problem for the city.
 - Those loose wires could present a danger.
@@ -16106,6 +16107,7 @@ nan present a problem/conflict/danger, etc.
 ## 2710. recruit ## verb
 /rɪˈkruːt/ 
 [C1]to try to persuade someone to work for a company or to join an organization
+- 
 
 ## 2711. rectify ## verb [T]
 /ˈrek.tə.fɑɪ/ 
@@ -17061,17 +17063,17 @@ nan present a problem/conflict/danger, etc.
 - To add insult to injury, we had to pay for the damage!
 
 ## 2891. address ## verb [T]
-nan SPEAK
+ SPEAK
 [C2]to speak to someone, or to give a speech to an audience
 - He addressed the crowd after receiving the award.
 
 ## 2892. address ## verb [T]
-nan BUILDING DETAILS
+ BUILDING DETAILS
 [C2]to write a name and address on an envelope or package
 - I spent the morning addressing wedding invitations.
 
 ## 2893. advocate ## verb [T]
-nan 
+ 
 [C2]to express support for a particular idea or way of doing things
 - I certainly wouldn't advocate the use of violence.
 
@@ -17109,6 +17111,7 @@ nan
 ## 2900. anchor ## verb
 /ˈæŋ.kər / BOAT
 [C2]to stop a boat from moving by dropping a heavy metal object into the water
+- 
 
 ## 2901. anchor ## verb
 /ˈæŋ.kər / FASTEN
@@ -17216,7 +17219,7 @@ nan
 - The virus attacks the central nervous system.
 
 ## 2922. attribute ## verb
-nan 
+ 
 [C2]to say that something is caused by something else
 - He attributes his success to hard work.
 
@@ -17683,12 +17686,12 @@ nan
 - He clung to power for ten more years.
 
 ## 3012. close ## verb
-nan END
+ END
 [C2]to end, or to end something
 - She closed the meeting with a short speech.
 
 ## 3013. close ## verb
-nan 
+ 
 [C2]to gradually get nearer to someone, usually in order to attack them or stop them from escaping
 - Police closed in on the demonstrators.
 
@@ -17733,7 +17736,7 @@ nan
 - The report is colored by the fiscal crises of the last four years.
 
 ## 3022. combat ## verb [T]
-nan 
+ 
 [C2]to try to stop something unpleasant or harmful from happening or increasing
 - new measures to combat the rise in crime
 
@@ -18053,12 +18056,12 @@ nan
 - His account of the accident contradicts the official government report.
 
 ## 3084. contrast ## verb
-nan DIFFERENCE
+ DIFFERENCE
 [C2]If one thing contrasts with another, it is very different from it.
 - The sharpness of the lemons contrasts with the sweetness of the honey.
 
 ## 3085. contrast ## verb
-nan COMPARE
+ COMPARE
 [C2]to compare two people or things in order to show the differences between them
 - If you contrast his early novels with his later work, you can see how his writing has developed.
 
@@ -18285,7 +18288,7 @@ nan COMPARE
 - His success has defied expectations.
 
 ## 3130. delegate ## verb [I or T]
-nan 
+ 
 [C2]to give someone else part of your work or some of your responsibilities
 - He needs to learn to delegate or he'll never get everything done.
 
@@ -18370,7 +18373,7 @@ nan
 - He doesn’t display much emotion.
 
 ## 3147. dispute ## verb [T]
-nan 
+ 
 [C2]to disagree with something someone says
 - I don’t dispute that his films are entertaining.
 
@@ -18692,7 +18695,7 @@ nan
 - The crew exhibited great courage when the plane crashed.
 
 ## 3210. experiment ## verb [I]
-nan DO TESTS
+ DO TESTS
 [C2]to do an experiment
 - Experimenting on mice can give us an idea of the effect of the disease in humans.
 
@@ -19810,13 +19813,13 @@ nan DO TESTS
 - Do you think he's been listening in on our conversations?
 
 ## 3427. live ## verb
-nan STAY ALIVE
+ STAY ALIVE
 [C2]to keep yourself alive
 - She’s so poor – I wonder how she lives.
 - He’s living off the money he inherited from his father.
 
 ## 3428. live ## verb
-nan 
+ 
 [C2]to experience a difficult situation or event
 - My grandparents lived through two world wars.
 
@@ -20092,7 +20095,7 @@ nan
 - He's always moaning about something.
 
 ## 3481. moderate ## verb [T]
-nan LESS EXTREME
+ LESS EXTREME
 [C2]to make something less extreme
 - He's trying to moderate his drinking.
 
@@ -20359,7 +20362,7 @@ nan LESS EXTREME
 - We perceived a faint light in the distance.
 
 ## 3533. perfect ## verb
-nan 
+ 
 [C2]to make something as good as it can be
 - I've spent hours perfecting my speech.
 
@@ -20513,12 +20516,12 @@ nan
 - Painkillers are the most common drugs prescribed by doctors.
 
 ## 3563. present ## verb [T]
-nan INFORMATION
+ INFORMATION
 [C2]to give people information in a formal way
 - He presented the report to his colleagues.
 
 ## 3564. present ## verb [T]
-nan OPPORTUNITY
+ OPPORTUNITY
 [C2]If an opportunity presents itself, it becomes possible.
 - I'd be happy to go to New York, if the opportunity presented itself.
 
@@ -20550,7 +20553,7 @@ nan OPPORTUNITY
 - She sat down and proceeded to tell me about her skiing trip.
 
 ## 3570. progress ## verb [I]
-nan CONTINUE
+ CONTINUE
 [C2]to continue gradually
 - I began to feel more relaxed as the evening progressed.
 
@@ -21930,7 +21933,7 @@ nan CONTINUE
 - She summoned up all her strength and pushed against the door.
 
 ## 3832. supplement ## verb [T]
-nan 
+ 
 [C2]to add to something to make it larger or better
 - He supplements his income by working in a bar in the evenings.
 
@@ -22484,7 +22487,7 @@ nan
 - The crowd was cheering and urging her on.
 
 ## 3940. use ## verb [T]
-nan PERSON
+ PERSON
 [C2]to treat someone badly in order to get what you want
 - He was just using me to so he could meet the director.
 

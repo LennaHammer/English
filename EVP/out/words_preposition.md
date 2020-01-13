@@ -172,7 +172,7 @@
 - I haven't had a decent night's sleep in years/ages.
 
 ## 25. inside ## preposition
-nan 
+ 
 [A1]in or into a room, building, container, etc.
 - There were some keys inside the box.
 
@@ -633,7 +633,7 @@ nan
 - The temperature fell to minus 20 overnight.
 
 ## 94. next to ## preposition
-nan 
+ 
 [A2]very close to something or someone, with nothing in between
 - Come and sit next to me.
 - The factory is right next to a residential area.
@@ -719,7 +719,7 @@ nan
 - He has been out of the country for a long time.
 
 ## 108. outside ## preposition
-nan 
+ 
 [A2]not in a particular room, building, or place, but near it
 - She waited outside his room for nearly two hours.
 - He lives just outside Birmingham.
@@ -1200,7 +1200,7 @@ nan
 - We keep a bucket of water backstage, in case of fire.
 
 ## 190. instead of ## preposition
-nan 
+ 
 [B1]in place of
 - You can go instead of me, if you want.
 - We should book the flights now instead of waiting until next week.

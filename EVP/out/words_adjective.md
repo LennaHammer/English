@@ -125,7 +125,7 @@
 - Make sure your hands are clean before you sit down to dinner.
 
 ## 18. close ## adjective
-nan NEAR
+ NEAR
 [A1]near in distance, position or time
 - His house is close to the sea.
 - Don't get too close to the dog, Rosie.
@@ -959,7 +959,7 @@ nan NEAR
 - The water in the lake is so clear that you can see the bottom.
 
 ## 139. close ## adjective
-nan FRIENDLY
+ FRIENDLY
 [A2]describes people who know each other very well and like each other a lot, or who see and talk to each other a lot
 - Mira is one of my closest friends.
 - Her relationship isn't good with her father, but she's very close to her mother.
@@ -1591,7 +1591,7 @@ nan FRIENDLY
 - I saw an old friend who I went to high school with.
 
 ## 238. online ## adjective
-nan 
+ 
 [A2]describes products, services or information that can be bought or used on the Internet
 - online banking/shopping
 - an online newspaper/magazine/dictionary
@@ -1620,7 +1620,7 @@ nan
 - She wore a pale blue hat.
 
 ## 242. perfect ## adjective
-nan WITHOUT FAULT
+ WITHOUT FAULT
 [A2]without fault, or as good as possible
 - a perfect day/evening
 - You have a perfect English accent.
@@ -2543,7 +2543,7 @@ nan WITHOUT FAULT
 - I've got a clever little gadget for opening jars.
 
 ## 385. close ## adjective
-nan RELATIVE
+ RELATIVE
 [B1]A close relative is someone who is directly related to you, for example, your mother, father or brother.
 - There weren't many people at the funeral - just close family/relatives.
 
@@ -2795,7 +2795,7 @@ nan RELATIVE
 - They got divorced after only six months of marriage.
 
 ## 426. downstairs ## adjective
-nan 
+ 
 [B1]on or at a lower floor of a building, especially the ground floor
 - The burglars got in through a downstairs window.
 
@@ -3555,7 +3555,7 @@ nan
 - She gets really upset by every little thing.
 
 ## 552. live ## adjective
-nan AS IT HAPPENS
+ AS IT HAPPENS
 [B1]A live radio or television program or performance is seen or heard as it happens.
 - This evening there will be a live broadcast of the debate.
 - There will be live music at the party.
@@ -3961,7 +3961,7 @@ nan AS IT HAPPENS
 - a peaceful afternoon/place
 
 ## 615. perfect ## adjective
-nan SUITABLE
+ SUITABLE
 [B1]exactly right for someone or something
 - You'd be perfect for the job.
 - The weather's just perfect for a picnic.
@@ -4055,7 +4055,7 @@ nan SUITABLE
 - They were prepared for the worst.
 
 ## 630. present ## adjective [never before noun]
-nan 
+ 
 [B1]in a particular place
 - The whole family was present.
 - There were no children present.
@@ -4366,13 +4366,13 @@ nan
 - It would be sensible to take an umbrella.
 
 ## 682. separate ## adjective
-nan NOT JOINED
+ NOT JOINED
 [B1]not connected to or touching anything else
 - a separate compartment
 - I try to keep meat separate from other food in the fridge.
 
 ## 683. separate ## adjective
-nan DIFFERENT
+ DIFFERENT
 [B1]different or new
 - Use a separate sheet of paper.
 - The art department and the music school are in two separate buildings.
@@ -4978,7 +4978,7 @@ nan DIFFERENT
 - The office building's upper floors were being repainted.
 
 ## 780. upstairs ## adjective [always before noun]
-nan 
+ 
 [B1]on or at a higher level of a building
 - an upstairs window
 
@@ -5687,7 +5687,7 @@ nan
 - a classic film/novel/story
 
 ## 902. close ## adjective
-nan RELATIONSHIP
+ RELATIONSHIP
 [B2]seeing or communicating with someone a lot
 - I'm still in close contact with my school friends.
 - Our school has close links with a school in China.
@@ -5745,7 +5745,7 @@ nan RELATIONSHIP
 - They offer high quality merchandise at competitive prices.
 
 ## 913. complex ## adjective
-nan 
+ 
 [B2]involving a lot of different but connected parts in a way that is difficult to understand
 - a complex network of roads
 - a complex procedure
@@ -5812,7 +5812,7 @@ nan
 - Although it was written hundreds of years ago, it still has a contemporary feel to it.
 
 ## 924. content ## adjective [never before noun]
-nan 
+ 
 [B2]pleased with your situation and not hoping for change or improvement
 - He seems fairly content with life.
 - They're content to socialize with a very small circle of people.
@@ -6747,7 +6747,7 @@ nan
 - There is a growing awareness of the seriousness of this disease.
 
 ## 1085. grown-up ## adjective
-nan 
+ 
 [B2]If you say that someone is grown-up, you mean that they are an adult or that they behave in a responsible way.
 - She has two grown-up children who work in the family business.
 
@@ -6995,7 +6995,7 @@ nan
 - Several innocent civilians were killed in the bombing.
 
 ## 1128. inside ## adjective [always before noun]
-nan UNDER SURFACE
+ UNDER SURFACE
 [B2]in or on the part of something under its surface
 - He put the documents carefully in his inside pocket.
 
@@ -7670,7 +7670,7 @@ nan UNDER SURFACE
 - They're charging an outrageous amount of money.
 
 ## 1240. outside ## adjective [always before noun]
-nan NOT IN BUILDING
+ NOT IN BUILDING
 [B2]not in a building
 - an outside light
 
@@ -8397,7 +8397,7 @@ nan NOT IN BUILDING
 - In the movie, he plays a concerned and sensitive father trying to bring up two teenage children on his own.
 
 ## 1365. separate ## adjective
-nan NOT RELATED
+ NOT RELATED
 [B2]not affecting or related to each other
 - I asked him to turn his music down on three separate occasions.
 - I have my professional life and my private life and I try to keep them separate.
@@ -9593,7 +9593,7 @@ nan NOT RELATED
 - You couldn't trust her to look after your dog, let alone your child.
 
 ## 1569. alternate ## adjective
-nan alternate days/weeks/years, etc.
+ alternate days/weeks/years, etc.
 [C1]one out of every two days, weeks, years, etc.
 - I work alternate Saturdays.
 
@@ -9803,19 +9803,19 @@ nan alternate days/weeks/years, etc.
 - clinical trials/research
 
 ## 1610. close ## adjective
-nan SIMILAR
+ SIMILAR
 [C1]having only a small difference
 - The election results were so close they had to vote again.
 - He came second in the race, but it was very close.
 - The youngest boys are so close in age they look like twins.
 
 ## 1611. close ## adjective
-nan be/come close to doing sth
+ be/come close to doing sth
 [C1]to almost achieve or do something
 - We are close to reaching an agreement.
 
 ## 1612. close ## adjective
-nan be close to sth
+ be close to sth
 [C1]If someone or something is close to a particular state, they are almost in that state.
 - She was close to tears.
 
@@ -10178,7 +10178,7 @@ nan be close to sth
 - She loves ethnic foods, especially Greek and Ethiopian.
 
 ## 1681. excess ## adjective [always before noun]
-nan 
+ 
 [C1]more than is usual or allowed
 - We had to pay $50 for excess baggage.
 
@@ -10911,7 +10911,7 @@ nan
 - If you think you can behave like that, you are mistaken.
 
 ## 1819. moderate ## adjective
-nan 
+ 
 [C1]average in size or amount and not too much
 - a moderate income
 - The company was of moderate size, with about 50 employees.
@@ -11132,7 +11132,7 @@ nan
 - Anne is very outgoing, but her sister's quite shy.
 
 ## 1860. outside ## adjective [always before noun]
-nan DIFFERENT ORGANIZATION
+ DIFFERENT ORGANIZATION
 [C1]coming from another place or organization
 - The company has called in outside experts.
 
@@ -12570,7 +12570,7 @@ nan DIFFERENT ORGANIZATION
 - a clinical approach/attitude
 
 ## 2130. close ## adjective
-nan CAREFUL
+ CAREFUL
 [C2]looking at or listening to someone or something very carefully
 - On close inspection, you could see that the painting was a fake.
 - Keep a close watch on the children.
@@ -13877,7 +13877,7 @@ nan CAREFUL
 - The two girls got on very well and soon became inseparable.
 
 ## 2383. inside ## adjective [always before noun]
-nan inside information/knowledge, etc.
+ inside information/knowledge, etc.
 [C2]information that is only known by people who are part of an organization, group, etc.
 - I needed someone with inside knowledge to back up my story.
 
@@ -14458,7 +14458,7 @@ nan inside information/knowledge, etc.
 - a perceptive writer
 
 ## 2491. perfect ## adjective
-nan TO EMPHASIZE
+ TO EMPHASIZE
 [C2]used to emphasize a noun
 - His suggestion makes perfect sense.
 
