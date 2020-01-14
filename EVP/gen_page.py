@@ -29,7 +29,7 @@ with zipfile.ZipFile('us_words.zip','r') as zf:
             #assert len(posblock.find('.posgram'))>=1, [word, pos]
             #pos = posblock.find('.posgram')[0].text if poses else '' 
             #print(pos)
-            for gwblock in posblock.find('.gwblock'):
+            for gwblock in posblock.find('.posblock > .gwblock, .phrasal_verb > .gwblock'):
                 if 'class="phraserec"' in gwblock.html:
                     # inclined to do sth http://vocabulary.englishprofile.org/dictionary/show/us/US3375947
                     pass
