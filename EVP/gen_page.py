@@ -29,7 +29,8 @@ with zipfile.ZipFile('us_words.zip','r') as zf:
             #assert len(posblock.find('.posgram'))>=1, [word, pos]
             #pos = posblock.find('.posgram')[0].text if poses else '' 
             #print(pos)
-            for gwblock in posblock.find('.posblock > .gwblock, .phrasal_verb > .gwblock'):
+            
+            def ff(gwblock):
                 if 'class="phraserec"' in gwblock.html:
                     # inclined to do sth http://vocabulary.englishprofile.org/dictionary/show/us/US3375947
                     pass
@@ -45,6 +46,15 @@ with zipfile.ZipFile('us_words.zip','r') as zf:
                     define = sense.find('.def')[0].text
                     examples = '|'.join(x.text.strip() for x in sense.find('.examp'))
                     items.append({'word':word,'pos':pos,'pron':pron, 'gw':gw,'freq':freq,'def':define,'example':examples})
+            for gwblock in posblock.find('.posblock > .gwblock'):
+                ff(gwblock)
+            oword = word
+            pos = 'phrasal verb'
+            for pv in posblock.find('.posblock > .phrasal_verb'):
+                word = pv.find('h3')[0].text
+                for gwblock in pv.find('.gwblock'):
+                    ff(gwblock)
+            word = oword
         #items.append(item)
 
 df = pd.DataFrame(items)
