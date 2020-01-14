@@ -1,17 +1,17 @@
 ## 1. answer ## verb
 /ˈæn.sər/ REACT
 [A1]to speak or write back to someone who has asked you a question
-- You haven't answered my question.
+- You haven't answered my `question`.
 - I wrote asking whether he'd be coming to the party but he hasn't answered yet.
-- She answered that she wouldn't be able to come before nine o'clock.
+- She answered `that` she wouldn't be able to come before nine o'clock.
 
 ## 2. ask ## verb
 /æsk/ QUESTION
 [A1]to say a question to someone which you want them to answer
-- She asked me a question.
+- She asked me a `question`.
 - Can I ask you something?
-- She asked me about my parents.
-- I asked why the plane was so late.
+- She asked me `about` my parents.
+- I asked `why` the plane was so late.
 - "Why is Sara crying?" he asked.
 
 ## 3. be ## verb
@@ -49,15 +49,15 @@
 /bɪˈgɪn/ START TO HAPPEN
 [A1]to start to happen
 - What time does the concert begin?
-- The film they want to watch begins at seven.
+- The film they want to watch begins `at` seven.
 
 ## 7. buy ## verb [T]
 /bɑɪ/ 
 [A1]to get something by paying money for it
 - Eventually she had saved enough money to buy a small car.
-- They bought the house for $240,000.
-- He's buying flowers for his mother.
-- I bought my camera from a friend of mine.
+- They bought the house `for` $240,000.
+- He's buying flowers `for` his mother.
+- I bought my camera `from` a friend of mine.
 
 ## 8. call ## verb
 /kɔːl/ be called sth
@@ -102,7 +102,7 @@
 ## 15. catch ## verb
 /kætʃ/ TAKE HOLD
 [A1]to take hold of something, especially something that is moving through the air
-- Try to catch the ball.
+- Try to catch the `ball`.
 - She fell backwards but he caught her in his arms.
 
 ## 16. catch ## verb
@@ -114,7 +114,7 @@
 ## 17. change ## verb
 /tʃeɪndʒ/ START SOMETHING NEW
 [A1]to stop having or using one thing, and start having or using another
-- She's just changed jobs.
+- She's just changed `jobs`.
 - I hope they can change the time of my interview.
 - The doctor has recommended changing my diet.
 
@@ -127,26 +127,26 @@
 /tʃuːz/ 
 [A1]to decide what you want from two or more things or possibilities
 - Danny, come here and choose your ice cream.
-- I had to choose between fish or lamb.
-- There were so many colors to choose from.
-- It's difficult choosing where to live.
-- I've chosen a present for Luis.
-- He's been chosen as the team's new captain.
-- The company's directors chose Emma to be the new production manager.
-- Katie chose to stay away from work that day.
+- I had to choose `between` fish or lamb.
+- There were so many colors to choose `from`.
+- It's difficult choosing `where` to live.
+- I've chosen a present `for` Luis.
+- He's been chosen `as` the team's new captain.
+- The company's directors chose Emma `to` be the new production manager.
+- Katie chose `to` stay away from work that day.
 
 ## 20. clean ## verb [T]
 /kliːn/ REMOVE DIRT
 [A1]to remove dirt from something
 - I'm going to clean the windows this morning.
 - You should clean that scrape so it doesn't get infected.
-- He asked her to help him clean out the cupboards.
+- He asked her to help him clean `out` the cupboards.
 
 ## 21. close ## verb
  DOOR/WINDOW
 [A1]If something closes, it moves so that it is not open, and if you close something, you make it move so that it is not open.
-- Could you close the door/window please?
-- Close your eyes - I've got a surprise for you.
+- Could you close the `door/window` please?
+- Close your `eyes` - I've got a surprise for you.
 
 ## 22. color ## verb [T]
 /ˈkʌl.ər/ APPEARANCE
@@ -195,21 +195,21 @@
 [A1]to prepare food and usually heat it
 - I don't cook meat very often.
 - Who's cooking this evening?
-- He cooked us an enormous meal./He cooked an enormous meal for us.
+- He cooked us an enormous meal./He cooked an enormous meal `for` us.
 
 ## 28. dance ## verb [I or T]
 /dæns/ 
 [A1]to move your feet and body to the rhythm of music
 - We danced all night.
-- Who were you dancing with at the party last night?
+- Who were you dancing `with` at the party last night?
 - Can you dance the tango?
 
 ## 29. die ## verb [I]
 /dɑɪ/ STOP LIVING
 [A1]to stop living or existing
 - Twelve people died in the accident.
-- She died of/from hunger/cancer/a heart attack/her injuries.
-- It is a brave person who will die for their beliefs.
+- She died `of/from` hunger/cancer/a heart attack/her injuries.
+- It is a brave person who will die `for` their beliefs.
 - Our love will never die.
 
 ## 30. do ## auxiliary verb
@@ -230,7 +230,7 @@
 - What are you doing tonight?
 - Have you done your homework?
 - We did a lot of talking.
-- I've got nothing to do.
+- I've got `nothing to` do.
 
 ## 32. do ## verb
 /duː/ do the cleaning/cooking, etc.
@@ -240,7 +240,7 @@
 ## 33. do ## verb
 /duː/ what does sb do?
 [A1]used to ask what someone's job is
-- What do you do (for a living)? "I'm a doctor."
+- What do you do (`for a living`)? "I'm a doctor."
 - What does Antonio do - does he teach?
 - I don't know what his wife does.
 
@@ -264,7 +264,7 @@
 - "Are you going by train?" "No, I'm driving."
 - She drives a red sports car.
 - They're driving to Nashville on Tuesday.
-- We saw their car outside the house and drove past/away.
+- We saw their car outside the house and drove `past/away`.
 - I drove my daughter to school.
 
 ## 37. eat ## verb
@@ -272,7 +272,7 @@
 [A1]to put food into your mouth and then swallow it
 - Who ate all the cake?
 - I haven't eaten since breakfast.
-- Let's have something to eat.
+- Let's have `something to` eat.
 
 ## 38. eat ## verb
 /iːt/ HAVE MEAL
@@ -310,7 +310,7 @@
 [A1]to complete something, or come to the end of an activity
 - I'll call you when I've finished my homework.
 - Please place your questionnaire in the box when you've finished.
-- She finished the concert with a song from her first album.
+- She finished the concert `with` a song from her first album.
 - Have you finished reading that magazine?
 
 ## 44. finish ## verb
@@ -322,15 +322,15 @@
 ## 45. fly ## verb
 /flɑɪ/ TRAVEL
 [A1]to travel through the air in an aircraft
-- I'm flying to Mumbai tomorrow.
-- We fly out of Kennedy, but fly back into Newark.
+- I'm flying `to` Mumbai tomorrow.
+- We fly `out of` Kennedy, but fly `back into` Newark.
 
 ## 46. forget ## verb
 /fərˈget/ Don't forget...
 [A1]remember
 - Don't forget your homework!
-- Don't forget to lock the door.
-- Don't forget that classes start at 2:00 this afternoon.
+- Don't forget `to` lock the door.
+- Don't forget `that` classes start at 2:00 this afternoon.
 
 ## 47. get ## verb
 /get/ OBTAIN
@@ -342,7 +342,7 @@
 /get/ RECEIVE
 [A1]to receive or be given something
 - I got some very nice presents for my birthday.
-- I got a letter from Stefano.
+- I got a letter `from` Stefano.
 - Did you get my e-mail?
 
 ## 49. get ## verb
@@ -367,23 +367,23 @@
 [A1]to provide someone with something
 - Her parents gave her a car for her birthday.
 - Can you give me a date for another appointment?
-- Can you give this book to Andrea?
+- Can you give this book `to` Andrea?
 
 ## 53. go ## verb
 /goʊ/ MOVE/TRAVEL
 [A1]to move or travel somewhere
-- I'd like to go to Japan.
-- He went into the house.
-- Are you going by train?
+- I'd like to go `to` Japan.
+- He went `into` the house.
+- Are you going `by` train?
 - Does this train go to Newcastle?
 - Where did Helena go?
 
 ## 54. go ## verb
 /goʊ/ DO SOMETHING
 [A1]to move or travel somewhere in order to do something
-- Let's go for a walk.
+- Let's go `for` a walk.
 - We're going camping on Friday.
-- I have to go and pick the kids up now.
+- I have to go `and` pick the kids up now.
 
 ## 55. go ## verb
 /goʊ/ go shopping
@@ -433,19 +433,19 @@
 [A1]to make it easier for someone to do something by doing part of the work yourself
 - Thank you for helping.
 - Can I help you make dinner?
-- Dad always helps me with my homework.
+- Dad always helps me `with` my homework.
 
 ## 62. invite ## verb [T]
 /ɪnˈvɑɪt/ SOCIAL
 [A1]to ask someone to come to a social event or to spend time with you socially
-- We're invited to Lola's party.
-- Her family invited me to stay with them for a few weeks.
+- We're invited `to` Lola's party.
+- Her family invited me `to` stay with them for a few weeks.
 
 ## 63. kick ## verb [I or T]
 /kɪk/ HIT
 [A1]to hit someone or something with the foot, or to move the feet and legs suddenly and violently
 - I kicked the ball as hard as I could.
-- He was accused of kicking a man in the face.
+- He was accused of kicking a man `in` the face.
 
 ## 64. know ## verb
 /noʊ/ HAVE INFORMATION
@@ -453,25 +453,25 @@
 - Where did he go? - "I don't know."
 - "What does it cost?" - "Ask Kate. She'll know."
 - She knows the name of every kid in the school.
-- I don't know anything about this.
+- I don't know anything `about` this.
 - We don't know when he's arriving.
 - I don't know what all the fuss is about.
-- I just knew (that) it was going to be a disaster.
+- I just knew `(that)` it was going to be a disaster.
 
 ## 65. know ## verb
 /noʊ/ ASK FOR INFORMATION
 [A1]used to ask someone to tell you a piece of information
 - Do you know the time?
-- Do you know where the Post Office is?
+- Do you know `where` the Post Office is?
 
 ## 66. learn ## verb
 /lɜrn/ GET KNOWLEDGE
 [A1]to get knowledge or skill in a new subject or activity
 - They learn Russian at school.
 - "Can you drive?" "I'm learning."
-- I learned a lot about computers since I started work here.
-- I'm learning to play the piano.
-- First you'll learn (how)to use this machine.
+- I learned a lot `about` computers since I started work here.
+- I'm learning `to` play the piano.
+- First you'll learn `(how)``to` use this machine.
 
 ## 67. leave ## verb
 /liːv/ GO AWAY
@@ -490,8 +490,8 @@
 - Do you like fish?
 - I like it when a book is so good that you can't put it down.
 - I don't like upsetting people.
-- He's very well-liked at work.
-- He likes to spend his evenings in front of the television.
+- He's very `well-`liked at work.
+- He likes `to` spend his evenings in front of the television.
 - I like taking my time in the morning.
 
 ## 69. like ## verb
@@ -511,12 +511,12 @@
 ## 71. listen ## verb [I]
 /ˈlɪs.ən/ HEAR
 [A1]to give attention to someone or something in order to hear them
-- What kind of music do you listen to?
+- What kind of music do you listen `to`?
 - She does all the talking - I just sit and listen.
 - You haven't listened to a word I've said!
 - We listened in silence as their names were read out.
 - Listen, if you need money, I'm happy to lend you some.
-- Listen to this! You can win a holiday for two in the south of France just by answering three simple questions.
+- Listen `to this`! You can win a holiday for two in the south of France just by answering three simple questions.
 
 ## 72. live ## verb
  live in/at, etc.
@@ -524,23 +524,23 @@
 - Where do you live?
 - We live in Seattle.
 - Most students live on campus.
-- She lived her whole life in a little town in New Mexico.
+- She lived her `whole` life in a little town in New Mexico.
 - He lives in a house with four other students.
 
 ## 73. look ## verb
 /lʊk/ SEE
 [A1]to turn your eyes in the direction of something or someone so that you can see them
 - Look! There's grandma.
-- They looked at the picture and laughed.
-- Look at all this stuff on the floor.
-- She looked up from her book and smiled at me.
-- I looked out (of) the window.
+- They looked `at` the picture and laughed.
+- Look `at` all this stuff on the floor.
+- She looked `up` from her book and smiled at me.
+- I looked `out (of)` the window.
 - Look over there - there's a rainbow!
 
 ## 74. look ## verb
 /lʊk/ SEARCH
 [A1]to try to find someone or something
-- I'm looking for my keys.
+- I'm looking `for` my keys.
 - I've looked everywhere but I can't find my glasses.
 - I looked down the list but didn't see his name.
 
@@ -589,7 +589,7 @@
 - We agreed to meet on Tuesday to discuss the project.
 - I met my old English teacher while hiking in the Alps.
 - We met our old neighbors in town last Saturday.
-- Each student meets with an adviser at the start of the school year.
+- Each student meets `with` an adviser at the start of the school year.
 
 ## 81. need ## verb [T]
 /niːd/ MUST HAVE
@@ -597,8 +597,8 @@
 - I need some new shoes.
 - Babies need constant care.
 - He needs an operation.
-- I need you to help me choose an outfit.
-- I badly need a break from all this.
+- I need you `to` help me choose an outfit.
+- I `badly` need a break from all this.
 
 ## 82. need ## verb [T]
 /niːd/ need to do sth
@@ -610,7 +610,7 @@
 ## 83. open ## verb
 /ˈoʊ.pən/ NOT CLOSED
 [A1]to move something to a position that is not closed, or to make something change to a position that is not closed
-- to open a door/window
+- to open a `door/window`
 - The gate won't open.
 - You can open your eyes now.
 
@@ -622,23 +622,23 @@
 ## 85. pay ## verb
 /peɪ/ GIVE MONEY
 [A1]to give money to someone for something you are buying or using, or because you owe them money
-- Helena paid for the meal.
-- He paid $200 for the tickets.
-- Do you want to pay by cash or card?
-- Did you pay the telephone bill?
+- Helena paid `for` the meal.
+- He paid $200 `for` the tickets.
+- Do you want to pay `by` cash or card?
+- Did you pay the telephone `bill`?
 
 ## 86. play ## verb
 /pleɪ/ CHILDREN
 [A1]When children play, they spend time enjoying themselves with toys and games.
 - The children are playing outside.
-- She likes playing with her dolls.
+- She likes playing `with` her dolls.
 
 ## 87. play ## verb
 /pleɪ/ SPORTS
 [A1]When you play a sport or game, you take part in it.
 - You play tennis, don't you Sam?
 - We often play cards.
-- He plays for the Pittsburgh Pirates.
+- He plays `for` the Pittsburgh Pirates.
 
 ## 88. practice ## verb [I or T]
 /ˈpræk.təs/ 
@@ -660,16 +660,16 @@
 /reɪn/ it rains/it is raining
 [A1]If it rains, water falls from the sky in small drops.
 - It's starting to rain.
-- It rained hard last night.
+- It rained `hard` last night.
 - It was raining all weekend.
 
 ## 91. read ## verb [I or T]
 /riːd/ WORDS
 [A1]to look at words and understand what they mean
-- I've read three books this month.
-- I read about the family's success in the local paper.
+- I've read three `books` this month.
+- I read `about` the family's success in the local paper.
 - I can't read his handwriting.
-- I read that there are plans to update the community swimming pool.
+- I read `that` there are plans to update the community swimming pool.
 - Some children can read by the age of four.
 
 ## 92. remember ## verb
@@ -678,16 +678,16 @@
 - I can't remember his name.
 - I don't remember signing a contract.
 - I’ve been a baseball fan for as long as I can remember.
-- Just as the door closed he remembered that his keys were inside the room.
+- Just as the door closed he remembered `that` his keys were inside the room.
 - "Where did you park the car?" "I can't remember."
-- Williams will be remembered for his generosity.
+- Williams will be remembered `for` his generosity.
 
 ## 93. ride ## verb [I or T]
 /rɑɪd/ 
 [A1]to travel by sitting on a horse, bicycle, or motorcycle and controlling it
-- I learned to ride a bike when I was four.
+- I learned to ride `a bike` when I was four.
 - I ride my bicycle to work.
-- I've ridden on a donkey.
+- I've ridden `on` a donkey.
 - My aunt kept horses and she taught me to ride.
 
 ## 94. run ## verb
@@ -703,18 +703,18 @@
 [A1]to speak words
 - I'd like to go home, she said.
 - How do you say this word?
-- She said goodbye to all her friends and left.
-- "How do you say 'goodbye' in French?"
-- I couldn't hear what they were saying.
-- Do you know what she said to him?
-- I've got something to say to you.
+- She said `goodbye` to all her friends and left.
+- "How do you say 'goodbye' `in` French?"
+- I couldn't hear `what` they were saying.
+- Do you know what she said `to` him?
+- I've got `something` to say to you.
 
 ## 96. see ## verb
 /siː/ USE EYES
 [A1]to notice people and things with your eyes
 - Turn the light on so I can see.
-- "I can see you!"
-- The teacher could see (that) the children had been fighting.
+- "I `can` see you!"
+- The teacher could see `(that)` the children had been fighting.
 - Jacqui saw the car drive up outside the station.
 - From the window we could see the children playing in the yard.
 - See p. 23 for prices and flight details.
@@ -733,8 +733,8 @@
 /siː/ MEET
 [A1]to meet or visit someone
 - We're seeing friends on Friday.
-- No one has seen much of Daryl since he got married.
-- They see a lot of each other on weekends.
+- No one has seen `much of` Daryl since he got married.
+- They see `a lot of` each other on weekends.
 - My mother is seeing the doctor again next week.
 
 ## 100. send ## verb [T]
@@ -743,7 +743,7 @@
 - Juan has just sent me a text message.
 - Send me an e-mail with the information.
 - I'll send her a letter/fax/package/postcard next week.
-- We'll send it by mail.
+- We'll send it `by` mail.
 - They sent her flowers for her birthday.
 - Maggie sends her love and hopes you'll feel better soon.
 
@@ -752,33 +752,33 @@
 [A1]to let someone look at something
 - I want to show you this new book I just bought.
 - He’s starting to show his age.
-- You should show that rash to your doctor.
-- Why won't you show me what you have in your hand?
-- These trees show the effects of acid rain.
-- He began to show signs of recovery.
+- You should show that rash `to` your doctor.
+- Why won't you show me `what` you have in your hand?
+- These trees show the `effects` of acid rain.
+- He began to show `signs of` recovery.
 
 ## 102. sing ## verb [I or T]
 /sɪŋ/ 
 [A1]to make musical sounds with your voice
 - The children sang two songs by Schubert at the school concert.
 - The singing of the birds woke us early this morning.
-- Will you sing us a song/sing a song for us?
-- We sang along to a CD as we drove.
+- Will you sing us a song/sing a song `for` us?
+- We sang along `to` a CD as we drove.
 
 ## 103. sit ## verb [I]
 /sɪt/ BODY POSITION
 [A1]to be in a position with the weight of your body on your bottom and the top part of your body up, for example, on a chair
-- Emma was sitting on a stool.
-- The children sat at the table by the window.
-- We sat by the river and had a picnic.
+- Emma was sitting `on` a stool.
+- The children sat `at` the table by the window.
+- We sat `by` the river and had a picnic.
 
 ## 104. sleep ## verb [I]
 /sliːp/ NOT AWAKE
 [A1]to be in the state of rest when your eyes are closed, your body is not active, and your mind is unconscious
 - Sleep well!
 - I couldn't sleep because of all the noise next door.
-- I slept late on Sunday morning.
-- How can Jayne sleep at night with everything she has on her mind!
+- I slept `late` on Sunday morning.
+- How can Jayne sleep `at night` with everything she has on her mind!
 
 ## 105. smoke ## verb [I or T]
 /smoʊk/ 
@@ -789,21 +789,21 @@
 /spiːk/ SAY WORDS
 [A1]to say something using your voice
 - Would you mind speaking more slowly, please?
-- If she tells Julie what I said, I'll never speak to her again.
-- She spoke of her sadness over her father's death.
-- Everyone speaks very highly of the new director.
-- He's old enough to speak for himself.
-- I went with Alex - speaking of Alex, have you seen his new haircut?
-- Speaking as a mother of four, I can tell you that children are exhausting.
-- Sue speaks with an American accent.
-- For five whole minutes, neither of them spoke a word.
+- If she tells Julie what I said, I'll never speak `to` her again.
+- She spoke `of` her sadness over her father's death.
+- Everyone speaks very `highly of` the new director.
+- He's old enough to speak `for` himself.
+- I went with Alex - speaking `of` Alex, have you seen his new haircut?
+- Speaking `as` a mother of four, I can tell you that children are exhausting.
+- Sue speaks `with an` American `accent`.
+- For five whole minutes, neither of them spoke `a word`.
 
 ## 107. speak ## verb
 /spiːk/ LANGUAGE
 [A1]to be able to talk in a language
 - He speaks fluent French.
 - How many foreign languages do you speak?
-- I couldn't speak a word of Spanish when I got there.
+- I couldn't speak `a word of` Spanish when I got there.
 - I couldn't figure out what language they were speaking.
 
 ## 108. start ## verb [I or T]
@@ -813,19 +813,19 @@
 - We'll be starting (the class) at six o'clock.
 - Can you start on Monday?
 - They started building the house in January.
-- I'd just started to make my lunch when the phone rang.
-- The speaker started with a description of her journey to China.
-- You could start by cleaning the kitchen.
-- He started his working life as an engineer but later became a teacher.
+- I'd just started `to` make my lunch when the phone rang.
+- The speaker started `with` a description of her journey to China.
+- You could start `by` cleaning the kitchen.
+- He started his working life `as` an engineer but later became a teacher.
 
 ## 109. stay ## verb [I]
 /steɪ/ NOT LEAVE
 [A1]to remain in a place, job, etc. and not leave
 - I have a meeting at three so I can’t stay long.
 - James had to stay after school to complete the assignment.
-- They need an assistant who is willing to stay for six months.
+- They need an assistant who is willing to stay `for` six months.
 - She’s come back home to stay.
-- Because of the snow, schools have been closed and children told to stay home.
+- Because of the snow, schools have been closed and children told to stay `home`.
 
 ## 110. stop ## verb
 /stɑp/ FINISH
@@ -843,7 +843,7 @@
 - to study biology/chemistry
 - Next semester we’ll be studying plants in biology.
 - I’ve got to study tonight.
-- She's been studying for her exams.
+- She's been studying `for` her exams.
 
 ## 112. swim ## verb [I or T]
 /swɪm/ 
@@ -854,14 +854,14 @@
 ## 113. take ## verb [T]
 /teɪk/ CARRY
 [A1]to get and carry something with you when you go somewhere
-- I take my cellphone with me everywhere I go.
+- I take my cellphone `with` me everywhere I go.
 - I'd take your umbrella if I were you.
 
 ## 114. take ## verb [T]
 /teɪk/ GO WITH SOMEONE
 [A1]to go somewhere with someone, often paying for them or being responsible for them
-- I took the kids to the park.
-- I thought I'd take her to that nice Italian restaurant.
+- I took the kids `to` the park.
+- I thought I'd take her `to` that nice Italian restaurant.
 
 ## 115. take ## verb [T]
 /teɪk/ take a picture/photo(graph)
@@ -873,33 +873,33 @@
 ## 116. talk ## verb [I]
 /tɔːk/ SAY
 [A1]to say things to someone
-- We were just talking about Simon's new girlfriend.
+- We were just talking `about` Simon's new girlfriend.
 - The teacher's always telling him to stop talking.
-- It was nice talking to/with you.
+- It was nice talking `to/with` you.
 
 ## 117. teach ## verb
 /tiːtʃ/ GIVE LESSONS
 [A1]to give lessons in a particular subject at a school, university, etc.
 - She teaches chemistry.
-- He teaches English to foreign students.
+- He teaches English `to` foreign students.
 - Both her parents taught.
 
 ## 118. tell ## verb
 /tel/ SPEAK
 [A1]to say something to someone, usually giving them information
-- Did she tell you about her vacation?
+- Did she tell you `about` her vacation?
 - Can you tell me the way to the station?
 - Can you tell me what time the next bus leaves?
-- I told him (that) I was coming to see you.
+- I told him `(that)` I was coming to see you.
 - "I'm leaving you," she told him.
-- Please can you tell us a story?
+- Please can you tell us a `story`?
 
 ## 119. think ## verb
 /θɪŋk/ BELIEVE TO BE TRUE
 [A1]to believe that something is true, or to expect that something will happen, although you are not sure
 - I think she's called Joanna.
-- "Does this train stop at Oxford?" "Yes, I think so."
-- I never thought (that) I would see Steven again.
+- "Does this train stop at Oxford?" "Yes, I think `so`."
+- I never thought `(that)` I would see Steven again.
 - I think we've met before.
 - Do you think it's going to rain?
 - I don't think Emma will get the job.
@@ -907,16 +907,16 @@
 ## 120. think ## verb
 /θɪŋk/ OPINION
 [A1]to have an opinion about something or someone
-- What did you think of the movie?
-- What do you think about modern art?
+- What did you think `of` the movie?
+- What do you think `about` modern art?
 
 ## 121. travel ## verb
 /ˈtræv.əl/ MAKE JOURNEY
 [A1]to make a trip
 - After leaving school, she spent a year traveling, mostly in Africa and Asia.
-- I travel to work by train.
+- I travel `to` work `by` train.
 - He traveled over 100 miles to be at the wedding.
-- As a young man he had traveled the world.
+- As a young man he had traveled `the world`.
 
 ## 122. understand ## verb [I or T]
 /ˌʌn.dərˈstænd/ KNOW MEANING
@@ -931,9 +931,9 @@
 - Can I use your pen, please?
 - Do you use your computer much?
 - I paid for the tickets using my credit card.
-- She uses her car for work.
-- Nick used the money to buy a CD player.
-- Use scissors to cut the shapes out.
+- She uses her car `for` work.
+- Nick used the money `to` buy a CD player.
+- Use scissors `to` cut the shapes out.
 - It gave me a chance to use my skills.
 - The old hospital isn't used any more.
 
@@ -951,8 +951,8 @@
 ## 126. wait ## verb [I]
 /weɪt/ STAY
 [A1]to stay in a place until someone or something arrives, or until someone or something is ready for you
-- I waited for her in the corridor while she went in to see the doctor.
-- There were a lot of people waiting to use the telephone.
+- I waited `for` her in the corridor while she went in to see the doctor.
+- There were a lot of people waiting `to` use the telephone.
 
 ## 127. wake ## verb [I or T]
 /weɪk/ 
@@ -974,16 +974,16 @@
 [A1]to hope to have or do something, or to wish for something
 - I want some chocolate.
 - She wants a word with you.
-- What do you want to eat?
-- Do you want me to take you to the station?
+- What do you want `to` eat?
+- Do you want me `to` take you to the station?
 
 ## 130. wash ## verb
 /wɑʃ/ CLEAN THING
 [A1]to clean something using water
-- wash your hands/hair
-- wash the dishes/clothes/car
+- wash your `hands/hair`
+- wash the `dishes/clothes/car`
 - These sheets need washing.
-- I'll wash the jar out and use it again.
+- I'll wash the jar `out` and use it again.
 
 ## 131. wash ## verb
 /wɑʃ/ 
@@ -1002,7 +1002,7 @@
 /wer/ CLOTHES
 [A1]to have clothing, jewelery, etc. on your body
 - Tracey is wearing a simple black dress.
-- What are you wearing to Caroline's wedding?
+- What are you wearing `to` Caroline's wedding?
 - Some musicians don't like to wear rings when they're playing.
 - He wears glasses for reading.
 - She wears very little makeup.
@@ -1017,8 +1017,8 @@
 ## 135. work ## verb
 /wɜrk/ DO JOB
 [A1]to do a job, especially the job you do to earn money
-- She worked as a cleaner at the hospital.
-- Mike works for a computer company.
+- She worked `as` a cleaner at the hospital.
+- Mike works `for` a computer company.
 - My dad works very long hours.
 
 ## 136. worry ## verb
@@ -1043,60 +1043,60 @@
 /rɑɪt/ PRODUCE
 [A1]to produce letters, words or numbers on a surface or computer
 - Write your name at the top of the page.
-- When you fill in the form, please write clearly in black ink.
+- When you fill in the form, please write `clearly` in black ink.
 - Can I borrow your laptop tonight - I need to write my essay.
 
 ## 140. add ## verb
 /æd/ PUT WITH
 [A2]to put something with something else
 - Beat the butter and sugar together and slowly add the eggs.
-- She's added a Picasso to her collection.
+- She's added a Picasso `to` her collection.
 
 ## 141. add ## verb
 /æd/ CALCULATE
 [A2]to put two or more numbers or amounts together to get a total
 - If you add three and four you get seven.
-- The restaurant will add 10% to your bill for service.
+- The restaurant will add 10% `to` your bill for service.
 
 ## 142. agree ## verb
 /əˈgriː/ SAME OPINION
 [A2]to have the same opinion as someone
-- I agree with you.
-- My father and I don't agree about/on very much.
-- We all agreed that mistakes had been made.
+- I agree `with` you.
+- My father and I don't agree `about/on` very much.
+- We all agreed `that` mistakes had been made.
 - "You're absolutely right," agreed Jake.
 
 ## 143. answer ## verb
 /ˈæn.sər/ DOOR/PHONE
 [A2]to open the door to someone or pick up the telephone
-- Could someone answer the phone?
+- Could someone answer `the phone`?
 - Someone's at the door - would you answer it, please?
 
 ## 144. arrive ## verb [I]
 /əˈrɑɪv/ REACH A PLACE
 [A2]to reach a place, especially at the end of a journey
 - What time does your train arrive?
-- It was dark by the time we arrived at the station.
-- We arrived in Prague later that day.
+- It was dark by the time we arrived `at` the station.
+- We arrived `in` Prague later that day.
 - I ordered some DVDs over a month ago, but they still haven't arrived.
 
 ## 145. ask ## verb
 /æsk/ INVITE
 [A2]to invite someone to do something
-- I've asked David to the party.
-- I've asked David to come to the party.
+- I've asked David `to` the party.
+- I've asked David `to come to` the party.
 - "Are you going to Muriel's party?" "No, I haven't been asked."
-- Ian's asked us over for dinner next Friday.
-- Ian's asked us to dinner next Friday.
-- In fact they've asked us to stay for the whole weekend.
+- Ian's asked us `over for` dinner next Friday.
+- Ian's asked us `to` dinner next Friday.
+- In fact they've asked us `to` stay for the whole weekend.
 
 ## 146. bake ## verb [I or T]
 /beɪk/ 
 [A2]to cook something such as bread or a cake with dry heat in an oven
 - I baked a cake.
 - freshly baked bread
-- Bake at 375 degrees for about 20 minutes.
-- Bake for 5-7 minutes in a preheated oven.
+- Bake `at` 375 degrees for about 20 minutes.
+- Bake `for` 5-7 minutes in a preheated oven.
 
 ## 147. be ## verb
 /biː/ have/has been to
@@ -1131,20 +1131,20 @@
 ## 151. begin ## verb
 /bɪˈgɪn/ START TO DO
 [A2]to start to do something
-- The children began to cry.
+- The children began `to` cry.
 - Have they begun building the new bridge yet?
 
 ## 152. believe ## verb [T]
 /bɪˈliːv/ TRUE
 [A2]to think that something is true, or that what someone says is true
-- They believe that their health has suffered because of the chemicals.
+- They believe `that` their health has suffered because of the chemicals.
 - I can't believe she wants to go out with me.
 - I told you she was there but you wouldn't believe me.
 
 ## 153. believe ## verb [T]
 /bɪˈliːv/ THINK
 [A2]to think something, without being completely sure
-- Is she coming alone? "I believe so."
+- Is she coming alone? "I believe `so`."
 - All the crew are missing, believed dead.
 
 ## 154. belong ## verb [I]
@@ -1156,27 +1156,27 @@
 ## 155. born ## verb
 /bɔːrn/ be born
 [A2]When a person or animal is born, they come out of their mother's body and start to exist.
-- Ellen was born in 1984.
-- Archie was born in Miami.
+- Ellen was born `in` 1984.
+- Archie was born `in` Miami.
 
 ## 156. borrow ## verb
 /ˈbɑr.oʊ/ GET
 [A2]to get or receive something from someone with the intention of giving it back after a period of time
-- I've borrowed some CDs from Mike.
+- I've borrowed some CDs `from` Mike.
 - She used to borrow money and not bother to pay it back.
 
 ## 157. bother ## verb
 /ˈbɑð.ər/ ANNOY
 [A2]to annoy or cause problems for someone
-- I'm sorry to bother you, but could you direct me to the station?
-- I didn't want to bother her about/with work on her day off.
+- I'm `sorry to` bother `you`, but could you direct me to the station?
+- I didn't want to bother her `about/with` work on her day off.
 
 ## 158. break ## verb
 /breɪk/ SEPARATE
 [A2]to separate into two or more pieces or to make something do this
 - The dish fell to the floor and broke.
 - They had to break a window to get in.
-- I dropped the vase and it broke into pieces.
+- I dropped the vase and it broke `into pieces`.
 
 ## 159. break ## verb
 /breɪk/ break your arm/leg, etc.
@@ -1192,8 +1192,8 @@
 /brɪŋ/ TAKE WITH YOU
 [A2]to take someone or something with you when you go somewhere
 - I'm definitely coming to the party - can I bring anything?
-- Bring me that knife/Bring that knife to me.
-- Did you bring an umbrella with you?
+- Bring me that knife/Bring that knife `to` me.
+- Did you bring an umbrella `with` you?
 
 ## 162. bring ## verb [T]
 /brɪŋ/ 
@@ -1203,14 +1203,14 @@
 ## 163. brush ## verb
 /brʌʃ/ CLEAN/ARRANGE
 [A2]to use a brush to clean or arrange something
-- Could you brush your hair?
-- Brush your teeth after meals.
+- Could you brush your `hair`?
+- Brush your `teeth` after meals.
 
 ## 164. build ## verb [I or T]
 /bɪld/ 
 [A2]to make something by putting materials and parts together
 - They're building new houses by the river.
-- These old houses are built of stone.
+- These old houses are built `of` stone.
 - Contractors have started building on waste land near the town.
 
 ## 165. call ## verb
@@ -1240,8 +1240,8 @@
 ## 169. catch ## verb
 /kætʃ/ ILLNESS
 [A2]to get an illness, especially one caused by bacteria or a virus
-- He's caught a cold.
-- He caught the flu while we were on vacation.
+- He's caught `a cold`.
+- He caught `the flu` while we were on vacation.
 
 ## 170. change ## verb
 /tʃeɪndʒ/ DIFFERENT
@@ -1255,8 +1255,8 @@
 /tʃeɪndʒ/ CLOTHES
 [A2]to take off your clothes and put on different ones
 - You don't need to change - you look great as you are.
-- I'll just change into something a little fancier.
-- Give me five minutes to change out of my work clothes and I'll come out with you.
+- I'll just change `into` something a little fancier.
+- Give me five minutes to change `out of` my work clothes and I'll come out with you.
 - How often do you think he changes his shirt?
 
 ## 172. change ## verb
@@ -1269,15 +1269,15 @@
 ## 173. change ## verb
 /tʃeɪndʒ/ MONEY
 [A2]to get or give someone money in exchange for money of a different type
-- Could you change a twenty for two tens?
-- I need to change my dollars for/into pounds.
+- Could you change a twenty `for` two tens?
+- I need to change my dollars `for/into` pounds.
 
 ## 174. chat ## verb [I]
 /tʃæt/ TALK
 [A2]to talk to someone in a friendly and informal way
-- She spends hours on the phone chatting with her friends.
-- We were just chatting about what we did last weekend.
-- Whenever I walk in, I always find the two of them chatting away.
+- She spends hours on the phone chatting `with` her friends.
+- We were just chatting `about` what we did last weekend.
+- Whenever I walk in, I always find the two of them chatting `away`.
 
 ## 175. chat ## verb [I]
 /tʃæt/ COMMUNICATE ONLINE
@@ -1288,27 +1288,27 @@
 /tʃek/ EXAMINE
 [A2]to examine something to make sure it is correct or the way it should be
 - Always check your oil, water and tires before taking your car on a long trip.
-- I always check (that) I've shut the windows before I leave the house.
-- I finished the exam then I checked my answers for mistakes.
+- I always check `(that)` I've shut the windows before I leave the house.
+- I finished the exam then I checked my answers `for` mistakes.
 
 ## 177. click ## verb
 /klɪk/ COMPUTER
 [A2]to press on part of a computer mouse to make the computer do something
-- If you want to open a file, click twice on the icon for it.
+- If you want to open a file, click twice `on` the icon for it.
 - When you have selected the file you want, click "Open."
 
 ## 178. climb ## verb
 /klɑɪm/ PERSON
 [A2]to use your legs, or your legs and hands, to go up or onto the top of something
-- climb a ladder/mountain/tree
-- He slowly climbed the stairs.
+- climb a `ladder/mountain/tree`
+- He slowly climbed the `stairs`.
 - She climbed up on a chair to change the light bulb.
 
 ## 179. close ## verb
  PUBLIC PLACE
 [A2]When a store, restaurant or public place closes, people cannot go into it.
 - The banks had already closed.
-- The museum closes at 5:30.
+- The museum closes `at` 5:30.
 
 ## 180. collect ## verb
 /kəˈlekt/ KEEP
@@ -1319,14 +1319,14 @@
 ## 181. come ## verb [I]
 /kʌm/ BE AVAILABLE
 [A2]to be available to buy in a particular color, size, etc.
-- Do these slacks come in any other color?
-- This cuddly baby doll comes with her own blanket and bottle.
+- Do these slacks come `in` any other color?
+- This cuddly baby doll comes `with` her own blanket and bottle.
 
 ## 182. come ## verb [I]
 /kʌm/ 
 [A2]to return to a place
 - I'll come back and pick you up in half an hour.
-- We've just come back from Mexico.
+- We've just come back `from` Mexico.
 
 ## 183. come ## verb [I]
 /kʌm/ ENTER
@@ -1356,12 +1356,12 @@
 /ˈkɑn.tækt/ 
 [A2]to communicate with someone by telephoning them or sending them a letter, e-mail, etc.
 - I tried to contact him at his office, but he wasn't in.
-- You can contact me on my cell.
+- You can contact me `on` my cell.
 
 ## 188. copy ## verb
 /ˈkɑp.i/ PRODUCE
 [A2]to produce something that is similar or exactly the same as something else
-- They've copied the basic design from the Japanese model and added a few of their own refinements.
+- They've copied the basic design `from` the Japanese model and added a few of their own refinements.
 - Copy the file onto disk.
 
 ## 189. cost ## verb [T]
@@ -1369,7 +1369,7 @@
 [A2]If something costs an amount of money, you must pay that amount to buy or do it.
 - How much did your bike cost?
 - The trip will cost you $1000.
-- It costs a lot to buy a house in this part of London.
+- `It` costs a lot `to` buy a house in this part of London.
 - It cost me £200 just to get it fixed.
 
 ## 190. could ## modal verb
@@ -1388,12 +1388,12 @@
 /ˈkʌv.ər/ PUT
 [A2]to put something over something else, in order to protect or hide it
 - The light was so bright that I had to cover my eyes.
-- She covered him (up)with a blanket.
+- She covered him `(up)``with` a blanket.
 
 ## 193. cross ## verb
 /krɔːs/ OTHER SIDE
 [A2]to go across from one side of something to the other
-- It's not a good place to cross the road.
+- It's not a good place to cross the `road`.
 - Look both ways before crossing (the street).
 - Cross the bridge and turn right at the first traffic light.
 
@@ -1403,24 +1403,24 @@
 - I could hear someone crying in the next room.
 - "There, there, don't cry," she said.
 - We all laughed until we cried.
-- He cried for joy when he heard that his son had been found alive and well.
+- He cried `for joy` when he heard that his son had been found alive and well.
 
 ## 195. cut ## verb
 /kʌt/ USE KNIFE
 [A2]to use a knife or other sharp tool to divide something, remove part of something, or make a hole in something
 - She cut herself a slice of bread.
-- He cut the cake into six pieces and gave each child a slice.
-- Cut the meat up into small pieces.
-- I usually cut off any fat when I'm preparing meat.
-- Who cuts your hair?
+- He cut the cake `into` six pieces and gave each child a slice.
+- Cut the meat `up` into small pieces.
+- I usually cut `off` any fat when I'm preparing meat.
+- Who cuts your `hair`?
 
 ## 196. decide ## verb
 /dɪˈsɑɪd/ CHOOSE
 [A2]to choose something after thinking about several possibilities
 - They have to decide by next Friday.
 - I don't care which one we have - you decide.
-- In the end, we decided to go to the theater.
-- She decided (that) she would retire to Florida.
+- In the end, we decided `to` go to the theater.
+- She decided `(that)` she would retire to Florida.
 - I can't decide what to do.
 - He can't decide whether to buy it.
 
@@ -1434,9 +1434,9 @@
 /dəˈskrɑɪb/ 
 [A2]to say or write what someone or something is like
 - Can you describe your bag?
-- He described the painting in detail.
-- Let me describe (to you) how it happened.
-- She described Gary as shy.
+- He described the painting `in detail`.
+- Let me describe (`to` you) `how` it happened.
+- She described Gary `as` shy.
 
 ## 199. discuss ## verb [T]
 /dɪˈskʌs/ 
@@ -1454,7 +1454,7 @@
 ## 201. do ## auxiliary verb
 /duː/ Do you mind ...?
 [A2]something you say when politely asking if you can do something, or when asking someone else to do something
-- Do you mind if I turn on the television?
+- Do you mind `if` I turn on the television?
 
 ## 202. do ## verb
 /duː/ MAKE
@@ -1465,8 +1465,8 @@
 ## 203. do ## verb
 /duː/ HEALTHY/HAPPY
 [A2]used for talking or asking about someone and whether they are healthy, happy, or succeeding
-- Hi, how are you doing?
-- "How is Freya doing?" "She's doing really well, thanks."
+- Hi, `how are` you doing?
+- "`How is` Freya doing?" "She's doing really `well`, thanks."
 
 ## 204. do ## verb
 /duː/ SPORT, ETC.
@@ -1481,9 +1481,9 @@
 ## 206. dream ## verb [I or T]
 /driːm/ SLEEP
 [A2]to experience events and images in your mind while you are sleeping
-- What did you dream about last night?
-- I often dream about/of flying.
-- I dreamed that I was having a baby.
+- What did you dream `about` last night?
+- I often dream `about/of` flying.
+- I dreamed `that` I was having a baby.
 
 ## 207. dress ## verb
 /dres/ PUT ON CLOTHES
@@ -1521,8 +1521,8 @@
 [A2]to finish or stop, or to make something finish or stop
 - When is your meeting due to end?
 - Their marriage ended in 1991.
-- The match ended in a draw.
-- I'd like to end with a song from my first album.
+- The match ended `in` a draw.
+- I'd like to end `with` a song from my first album.
 - The talks were aimed at ending the war between the two countries.
 
 ## 213. enjoy ## verb [T]
@@ -1534,8 +1534,8 @@
 ## 214. enter ## verb
 /ˈent.ər/ PLACE
 [A2]to come or go into a place
-- The police entered through/by the back door.
-- She is accused of entering the country illegally.
+- The police entered `through/by` the back door.
+- She is accused of entering the country `illegally`.
 
 ## 215. excuse ## verb [T]
  Excuse me
@@ -1551,18 +1551,18 @@
 /ɪkˈspleɪn/ 
 [A2]to make something clear or easy to understand by giving reasons for it or details about it
 - If there's anything you don't understand, I'll be happy to explain.
-- The teacher explained the rules to the children.
-- Our guide explained where the cathedral was.
-- He explained how the machine worked.
-- Could you please explain why you're so late?
-- She explained that she was going to stay with her sister.
+- The teacher explained the rules `to` the children.
+- Our guide explained `where` the cathedral was.
+- He explained `how` the machine worked.
+- Could you please explain `why` you're so late?
+- She explained `that` she was going to stay with her sister.
 - No one has been able to explain the accident.
 
 ## 218. fail ## verb
 /feɪl/ EXAM
 [A2]to not pass a test or exam
-- A lot of people fail their driving test the first time.
-- If she doesn't study she'll fail all her exams.
+- A lot of people fail their driving `test` the first time.
+- If she doesn't study she'll fail all her `exams`.
 - "How was your chemistry exam?" "Awful! I think I failed."
 
 ## 219. fall ## verb [I]
@@ -1570,21 +1570,21 @@
 [A2]to move down toward the ground, sometimes by accident
 - The path's very steep, so be careful you don't fall.
 - He fell and broke his leg.
-- I fell down the stairs and injured my back.
-- He fell to his death climbing the Matterhorn.
+- I fell `down` the stairs and injured my back.
+- He fell `to` his `death` climbing the Matterhorn.
 - By winter, all the leaves had fallen off the trees.
 - The snow had been falling steadily all day.
 
 ## 220. fill ## verb
 /fɪl/ MAKE FULL
 [A2]to make a container or space full, or to become full
-- I filled the bucket with water.
+- I filled the bucket `with` water.
 - I drank my tea while the bath was filling.
 
 ## 221. fill ## verb
 /fɪl/ 
 [A2]to write the necessary information on an official document
-- to fill in/out a form/questionnaire
+- to fill in/out a `form/questionnaire`
 
 ## 222. find ## verb [T]
 /fɑɪnd/ DISCOVER UNEXPECTEDLY
@@ -1595,23 +1595,23 @@
 ## 223. find ## verb [T]
 /fɑɪnd/ 
 [A2]to get information about something, or to learn a fact for the first time
-- How did you find out about the party?
-- I'll go find out what's going on outside.
-- We need to find out why he's late.
-- Too late, she found out that the train had been cancelled.
+- How did you find out `about` the party?
+- I'll go find out `what`'s going on outside.
+- We need to find out `why` he's late.
+- Too late, she found out `that` the train had been cancelled.
 
 ## 224. fly ## verb
 /flɑɪ/ MOVE THROUGH AIR
 [A2]When a bird, insect or aircraft flies, it moves through the air.
 - The plane was flying at 5000 feet.
 - The poor bird couldn't fly because it had a broken wing.
-- As soon as it saw us, the bird flew away/off.
+- As soon as it saw us, the bird flew `away/off`.
 
 ## 225. follow ## verb
 /ˈfɑl.oʊ/ GO
 [A2]to move behind someone or something and go where they go
 - A dog followed us home.
-- She followed me into the kitchen.
+- She followed me `into` the kitchen.
 - He had the feeling he was being followed.
 
 ## 226. follow ## verb
@@ -1640,13 +1640,13 @@
 /get/ 
 [A2]to have a good relationship
 - She and her new roommate are getting along.
-- He doesn't get along with his daughter.
-- I get along well with most of her friends.
+- He doesn't get along `with` his daughter.
+- I get along `well` with most of her friends.
 
 ## 231. get ## verb
 /get/ 
 [A2]to return to a place after you have been somewhere else
-- When we got back to the hotel, Ann had already left.
+- When we got back `to` the hotel, Ann had already left.
 - If you get back in time, you can come with us.
 
 ## 232. get ## verb
@@ -1663,7 +1663,7 @@
 /gɪv/ PUT NEAR
 [A2]to put something near someone or in their hand so that they can use it or look at it
 - Can you give me that pen?
-- He poured a cup of coffee and gave it to Isabel.
+- He poured a cup of coffee and gave it `to` Isabel.
 
 ## 235. give ## verb [T]
 /gɪv/ give sb a call/ring
@@ -1673,7 +1673,7 @@
 ## 236. give ## verb [T]
 /gɪv/ TELL
 [A2]to tell someone something
-- Can you give Jo a message?
+- Can you give Jo `a message`?
 - The woman refused to give her name.
 - She gave me some really useful advice.
 
@@ -1752,7 +1752,7 @@
 ## 250. happen ## verb [I]
 /ˈhæp.ən/ RESULT
 [A2]to be the result of an action, situation, or event that someone or something experiences
-- Did you hear what happened to us last night?
+- Did you hear what happened `to` us last night?
 - What happens if we can't get enough tickets?
 
 ## 251. hate ## verb [T]
@@ -1817,7 +1817,7 @@
 /help/ PROVIDE WHAT IS NEEDED
 [A2]to provide advice, money, support, etc. to make it possible or easier for someone to do something
 - I wonder if you could help me - I'd like some information about flights to New Zealand.
-- My dad said he would help with the cost of buying a car.
+- My dad said he would help `with` the cost of buying a car.
 - I feel that learning English will help my chances of promotion at work.
 
 ## 260. hit ## verb [T]
@@ -1831,30 +1831,30 @@
 [A2]to have something in your hand or arms
 - He was holding a glass of wine.
 - She held the baby in her arms.
-- They were holding hands and kissing.
+- They were holding `hands` and kissing.
 - Can you hold the bag while I open the door?
 
 ## 262. hope ## verb [I or T]
 /hoʊp/ WANT TO HAPPEN
 [A2]to want something to happen or be true
-- I hope (that) the bus won't be late.
-- We had hoped for better weather than this.
-- "Do you think it's going to rain?" "I hope not!"
-- "Is he coming?" "I hope so."
+- I hope `(that)` the bus won't be late.
+- We had hoped `for` better weather than this.
+- "Do you think it's going to rain?" "I hope `not`!"
+- "Is he coming?" "I hope `so`."
 
 ## 263. hurry ## verb [I or T]
 /ˈhɜr.i/ 
 [A2]to move or do things more quickly than normal, or to make someone do this
 - Hurry, or you'll be late.
-- She hurried to answer the phone.
+- She hurried `to` answer the phone.
 - I'm sorry to hurry you, but I have to leave in a few minutes.
-- After spending her lunch hour shopping, she hurried back to work.
+- After spending her lunch hour shopping, she hurried `back` to work.
 
 ## 264. hurt ## verb
 /hɜrt/ CAUSE PAIN
 [A2]to cause pain
 - Sam hurt his knee playing football.
-- Beth hurt herself when she fell off her bike.
+- Beth hurt `herself` when she fell off her bike.
 
 ## 265. hurt ## verb
 /hɜrt/ BE PAINFUL
@@ -1872,7 +1872,7 @@
 /ɪnˈkluːd/ 
 [A2]to contain something or someone as a part, or to make something or someone part of something
 - The bill includes tax and tip.
-- Tax and tip are included in the bill.
+- Tax and tip are included `in` the bill.
 - Sheila asked to be included among the people going on the tour.
 - Your responsibilities will include making appointments on my behalf.
 
@@ -1886,19 +1886,19 @@
 /dʒɔɪn/ DO TOGETHER
 [A2]to do something or go somewhere with someone
 - I don't have time for a drink now, but I'll join you later.
-- Why don't you ask your sister if she would like to join us for dinner?
+- Why don't you ask your sister if she would like to join us `for` dinner?
 
 ## 270. jump ## verb
 /dʒʌmp/ INTO AIR
 [A2]to push your body up and away from the ground using your feet and legs
-- The children were jumping up and down with excitement.
-- She ran across the grass and jumped into the water.
-- He had to jump out of an upstairs window to escape.
+- The children were jumping `up and down` with excitement.
+- She ran across the grass and jumped `into` the water.
+- He had to jump `out of` an upstairs window to escape.
 
 ## 271. jump ## verb
 /dʒʌmp/ GO OVER
 [A2]to go over something by moving up into the air
-- Can you jump over/across this stream?
+- Can you jump `over/across` this stream?
 - All the horses are finding it difficult to jump the last fence.
 
 ## 272. keep ## verb
@@ -1915,13 +1915,13 @@
 ## 274. keep ## verb
 /kiːp/ STAY
 [A2]to (cause to) stay in a particular place or condition
-- I wish you'd keep quiet.
-- I like to keep busy.
-- Keep left/right at the traffic light.
-- It was difficult for us to keep warm because the house had no heating.
-- He goes jogging twice a week to keep in shape.
-- John keeps the car spotlessly clean.
-- The noise from their party kept me awake half the night.
+- I wish you'd keep `quiet`.
+- I like to keep `busy`.
+- Keep `left/right` at the traffic light.
+- It was difficult for us to keep `warm` because the house had no heating.
+- He goes jogging twice a week to keep `in shape`.
+- John keeps the car spotlessly `clean`.
+- The noise from their party kept me `awake` half the night.
 
 ## 275. kill ## verb [T]
 /kɪl/ 
@@ -1944,7 +1944,7 @@
 ## 278. know ## verb
 /noʊ/ BE CERTAIN
 [A2]to be certain
-- I know (that) she'll be really pleased to hear the news.
+- I know `(that)` she'll be really pleased to hear the news.
 - I don't know whether I should tell her or not.
 
 ## 279. know ## verb
@@ -1955,12 +1955,12 @@
 ## 280. laugh ## verb [I]
 /læf/ 
 [A2]to smile while making sounds with your voice that show you are happy or think something is funny
-- They laughed at her jokes.
+- They laughed `at` her jokes.
 - I couldn't stop laughing.
 - I said he'd have to give a talk and he laughed nervously.
-- She's so funny - she really makes me laugh.
-- It's very rare that a book is so good you actually laugh out loud.
-- It was so funny, I burst out laughing.
+- She's so funny - she really `makes` me laugh.
+- It's very rare that a book is so good you actually laugh `out loud`.
+- It was so funny, I `burst out` laughing.
 
 ## 281. leave ## verb
 /liːv/ FORGET
@@ -1972,13 +1972,13 @@
 /liːv/ PUT
 [A2]to put something in a place where it will stay
 - You can leave your bags by the desk.
-- Why don't you leave the kids with me on Friday?
+- Why don't you leave the kids `with` me on Friday?
 
 ## 283. leave ## verb
 /liːv/ FOR SOMEONE
 [A2]to put something somewhere for another person to have later
 - I left some sandwiches for them to have later.
-- Can I leave a message for Sue?
+- Can I leave a message `for` Sue?
 
 ## 284. leave ## verb
 /liːv/ NOT USE ALL
@@ -1991,7 +1991,7 @@
 /lend/ GIVE
 [A2]to give something to someone for a short period of time, expecting it to be given back
 - She doesn't like lending her books.
-- If you need a sweater I can lend you one/lend one to you.
+- If you need a sweater I can lend you one/lend one `to` you.
 
 ## 286. let ## verb
 /let/ let's
@@ -2008,11 +2008,11 @@
 ## 288. lie ## verb [I]
 /lɑɪ/ BODY
 [A2]to be in or move your body into a horizontal position
-- to lie in bed
-- to lie on a beach
-- to lie on your side/back
+- to lie `in` bed
+- to lie `on` a beach
+- to lie `on` your side/back
 - A cat lay in front of the fire.
-- He lies awake at night, worrying.
+- He lies `awake` at night, worrying.
 
 ## 289. lie ## verb [I]
 /lɑɪ/ 
@@ -2061,21 +2061,21 @@
 ## 296. make ## verb [T]
 /meɪk/ be made from/(out) of sth
 [A2]to be produced from a substance or material
-- Butter is made from milk.
-- There were bowls made of pure gold.
-- They make furniture out of steel.
+- Butter is made `from` milk.
+- There were bowls made `of` pure gold.
+- They make furniture `out of` steel.
 
 ## 297. make ## verb [T]
 /meɪk/ PERFORM
 [A2]to perform an action
 - I must make a telephone call.
 - Have you made a doctor's appointment?
-- Have you made a decision about your job yet?
-- Someone's made a mistake.
-- Can I make a suggestion?
-- He's not making any effort.
-- She made a short speech.
-- Shall we make a start on the work?
+- Have you made a `decision` about your job yet?
+- Someone's made a `mistake`.
+- Can I make a `suggestion`?
+- He's not making any `effort`.
+- She made a short `speech`.
+- Shall we make a `start` on the work?
 
 ## 298. make ## verb [T]
 /meɪk/ make sure
@@ -2087,9 +2087,9 @@
 /ˈmæt̬.ər/ 
 [A2]to be important, or to affect what happens
 - We were late but it didn't seem to matter.
-- "What did you say?" "Oh, it doesn't matter."
-- It doesn't matter what you wear - just as long as you come.
-- I know Charles doesn't think this project is important, but it matters to me.
+- "What did you say?" "Oh, `it doesn't` matter."
+- It doesn't matter `what` you wear - just as long as you come.
+- I know Charles doesn't think this project is important, but it matters `to` me.
 
 ## 300. may ## modal verb
 /meɪ/ POSSIBLY HAPPEN
@@ -2123,13 +2123,13 @@
 ## 305. mind ## verb
 /mɑɪnd/ Do you mind ...?
 [A2]something you say when politely asking if you can do something, or when asking someone else to do something
-- Do you mind if I turn the television on?
+- Do you mind `if` I turn the television on?
 
 ## 306. mind ## verb
 /mɑɪnd/ I don't mind
 [A2]used to say the choice is not important when responding to an offer or suggestion
 - Would you like tea or coffee? "I don't mind - either."
-- "Shall we take the train or go by bus?" "I don't mind which, you choose."
+- "Shall we take the train or go by bus?" "I don't mind `which`, you choose."
 
 ## 307. mind ## verb
 /mɑɪnd/ never mind
@@ -2149,7 +2149,7 @@
 - I really missed her when she went away.
 - She will be sadly missed by all who knew her.
 - I still miss my old car.
-- What did you miss most about England when you were living in France?
+- What did you miss most `about` England when you were living in France?
 - I really miss cycling.
 
 ## 310. miss ## verb
@@ -2161,17 +2161,17 @@
 /mɪks/ COMBINE SUBSTANCES
 [A2]If two or more substances mix, they combine to make one substance, and if you mix two or more substances, you combine them to make one substance.
 - Oil and water don't mix.
-- Mix the powder with water to form a paste.
-- In a large bowl, mix together the flour, sugar and raisins.
+- Mix the powder `with` water to form a paste.
+- In a large bowl, mix `together` the flour, sugar and raisins.
 
 ## 312. move ## verb
 /muːv/ CHANGE POSITION
 [A2]to change place or position, or to make something change place or position
 - I'm so cold I can't move my fingers.
-- Will you help me move this table to the back room?
+- Will you help me move this table `to` the back room?
 - Don't move! Stay right where you are.
-- I thought I could hear someone moving about/around upstairs.
-- If you move along/over/up a bit, Tess can sit next to me.
+- I thought I could hear someone moving `about/around` upstairs.
+- If you move `along/over/up` a bit, Tess can sit next to me.
 
 ## 313. must ## modal verb
 /mʌst/ NECESSARY
@@ -2189,7 +2189,7 @@
 ## 315. offer ## verb
 /ˈɔː.fər/ SAY YOU WILL DO
 [A2]to say that you are willing to do something
-- Paul has offered to help us pack.
+- Paul has offered `to` help us pack.
 - "I'll do the cooking," he offered.
 
 ## 316. open ## verb
@@ -2197,7 +2197,7 @@
 [A2]to remove or separate part of a container or package so that you can see or use what it contains
 - Shall I open another bottle of water?
 - I haven't even opened the letter yet.
-- She can't wait to open all her presents.
+- She can't wait to open all her `presents`.
 - He opened the box and a kitten jumped out.
 
 ## 317. open ## verb
@@ -2210,28 +2210,28 @@
 /ˈɔːrd.ər/ REQUEST
 [A2]to ask for food, goods, etc.
 - I ordered the pasta and a mixed salad.
-- There are no shirts left in this size but we could order one for you/order you one.
+- There are no shirts left in this size but we could order one `for` you/order you one.
 
 ## 319. pack ## verb [I or T]
 /pæk/ 
 [A2]to put your things into suitcases, boxes, etc. when you are going on vacation or leaving the place where you live
 - We're leaving early tomorrow morning, so you'd better pack tonight.
 - I haven't packed my clothes yet.
-- She packed a small suitcase for the weekend.
-- These books need to be packed in those boxes.
+- She packed a small `suitcase` for the weekend.
+- These books need to be packed `in` those boxes.
 
 ## 320. paint ## verb
 /peɪnt/ COVER SURFACE
 [A2]to cover a surface with paint in order to decorate it
 - We painted the bedroom blue.
 - I've been painting all morning.
-- I need to paint over these marks on the wall.
+- I need to paint `over` these marks on the wall.
 
 ## 321. park ## verb
 /pɑrk/ 
 [A2]to leave a vehicle in a particular place for a period of time
 - Where did you park?
-- You can park your car over there.
+- You can park your `car` over there.
 
 ## 322. pass ## verb
 /pæs/ SUCCEED
@@ -2273,35 +2273,35 @@
 ## 328. point ## verb
 /pɔɪnt/ SHOW
 [A2]to show where someone or something is by holding your finger or a thin object toward it
-- She pointed at/to a bird flying overhead.
+- She pointed `at/to` a bird flying overhead.
 
 ## 329. pray ## verb [I]
 /preɪ/ TO GOD
 [A2]to speak to a god in order to show your feelings or to ask for something
 - She knelt and prayed silently.
-- Let us pray for the victims of this terrible disaster.
+- Let us pray `for` the victims of this terrible disaster.
 
 ## 330. prefer ## verb [T]
 /prɪˈfɜr/ CHOOSE
 [A2]to like someone or something more than another person or thing
-- Do you prefer hot or cold weather?
-- I prefer cats to dogs.
-- She prefers watching tennis to playing it.
+- Do you prefer hot `or` cold weather?
+- I prefer cats `to` dogs.
+- She prefers watching tennis `to` playing it.
 
 ## 331. prefer ## verb [T]
 /prɪˈfɜr/ WANT
 [A2]used to say what you want, or to ask someone what they want
-- I prefer not to discuss this issue.
-- He said he would prefer to leave early.
+- I prefer not `to` discuss this issue.
+- He said he `would` prefer `to` leave early.
 - Which jacket do you prefer?
-- I prefer the green one.
+- I prefer `the` green one.
 
 ## 332. prepare ## verb [I or T]
 /prɪˈper/ GET READY
 [A2]to make or get something or someone ready for something that will happen in the future
-- Do you feel prepared for your interview?
-- This course is intended to prepare students for management positions.
-- Are the players mentally and physically prepared to play a tough game?
+- Do you feel prepared `for` your interview?
+- This course is intended to prepare students `for` management positions.
+- Are the players mentally and physically prepared `to` play a tough game?
 
 ## 333. prepare ## verb [I or T]
 /prɪˈper/ MAKE FOOD
@@ -2326,10 +2326,10 @@
 /pʊʃ/ MOVE SOMEONE/SOMETHING
 [A2]to move someone or something by pressing them with your hands or body
 - Can you help me move this table? You push and I'll pull.
-- The window sticks - you have to push hard to open it.
-- I tried to push the door open but it was stuck.
-- Could you push that door shut, please?
-- A boy had pushed her over in the playground.
+- The window sticks - you have to push `hard` to open it.
+- I tried to push the door `open` but it was stuck.
+- Could you push that door `shut`, please?
+- A boy had pushed her `over` in the playground.
 
 ## 337. put ## verb [T]
 /pʊt/ WRITE
@@ -2358,14 +2358,14 @@
 ## 341. read ## verb [I or T]
 /riːd/ SAY
 [A2]to look at words that are written and say them aloud for other people to listen to
-- Do you want me to read the directions to you?
-- I read him a story at bedtime.
-- She read her poem out loud.
+- Do you want me to read the directions `to` you?
+- I read him a `story` at bedtime.
+- She read her poem `out loud`.
 
 ## 342. receive ## verb [T]
 /rɪˈsiːv/ GET
 [A2]to get something that someone has given or sent to you
-- Occasionally, he still receives letters from fans.
+- Occasionally, he still receives letters `from` fans.
 - She received a number of awards during her lifetime.
 
 ## 343. record ## verb
@@ -2373,7 +2373,7 @@
 [A2]to store sounds or pictures using electronic equipment, a camera, etc., so that you can listen to them or see them again
 - They've just recorded a new album.
 - I recorded that program for you.
-- a recorded message
+- a recorded `message`
 
 ## 344. remember ## verb
 /rəˈmem.bər/ remember to do sth
@@ -2395,7 +2395,7 @@
 /rɪˈper/ FIX
 [A2]to fix something that is broken or damaged
 - They're repairing the holes in the road at last.
-- I need to have/get my bike repaired.
+- I need to `have/get` my bike repaired.
 - The mechanic said the car was so old it wasn't worth repairing.
 
 ## 348. repeat ## verb [T]
@@ -2409,16 +2409,16 @@
 ## 349. return ## verb
 /rɪˈtɜrn/ GO BACK
 [A2]to go or come back to a place where you were before
-- He returned to Nigeria in 2009.
-- She'll return home from a business trip tomorrow.
+- He returned `to` Nigeria in 2009.
+- She'll return home `from` a business trip tomorrow.
 - She left Sweden at the age of 25 and never returned.
 
 ## 350. return ## verb
 /rɪˈtɜrn/ PUT BACK
 [A2]to give, send, or put something back where it came from
 - I have to return the book by Friday.
-- He immediately returned the records to the files.
-- The new TV broke so they returned it to the store.
+- He immediately returned the records `to` the files.
+- The new TV broke so they returned it `to` the store.
 
 ## 351. ride ## verb [I or T]
 /rɑɪd/ TRAVEL
@@ -2439,7 +2439,7 @@
 ## 354. save ## verb
 /seɪv/ KEEP
 [A2]to keep something to use in the future
-- I've saved some food for you.
+- I've saved some food `for` you.
 - She saved her black dress for special occasions.
 - I save all my old letters in case I want to read them again.
 
@@ -2457,8 +2457,8 @@
 ## 357. sell ## verb
 /sel/ FOR MONEY
 [A2]to give something to someone else in return for money
-- I sold him my car/I sold my car to him for $2000.
-- We'll be selling the tickets for $50 each.
+- I sold him my car/I sold my car to him `for` $2000.
+- We'll be selling the tickets `for` $50 each.
 
 ## 358. sell ## verb
 /sel/ OFFER
@@ -2477,20 +2477,20 @@
 - Do they serve brunch on the weekend?
 - Breakfast is served between 7 and 9.
 - All recipes in this book will serve 4 to 5 people.
-- Serve the pie with vanilla ice cream.
+- Serve the pie `with` vanilla ice cream.
 
 ## 361. share ## verb [I or T]
 /ʃer/ HAVE AT SAME TIME
 [A2]to have or use something at the same time as someone else
 - Bill and I shared an office for years.
-- I share a house with four other people.
+- I share a house `with` four other people.
 - She's very possessive about her toys and finds it hard to share.
 
 ## 362. share ## verb [I or T]
 /ʃer/ DIVIDE
 [A2]to divide something between two or more people
-- Do you want to a piece of pie with me?
-- We should share (in) the reward.
+- Do you want to a piece of pie `with` me?
+- We should share `(in)` the reward.
 
 ## 363. should ## modal verb
 /ʃʊd/ ADVICE
@@ -2503,12 +2503,12 @@
 /ʃɑʊt/ 
 [A2]to say something very loudly
 - Look out! she shouted.
-- I was angry and I shouted at him.
-- I shouted out her name but she didn't hear me.
-- I heard them shouting for help, but there was nothing I could do.
+- I was angry and I shouted `at` him.
+- I shouted `out` her name but she didn't hear me.
+- I heard them shouting `for help`, but there was nothing I could do.
 - You don't have to shout, I can hear you.
 - "Is anybody home?" he shouted.
-- He shouted from the garage that he'd be finished in about half an hour.
+- He shouted from the garage `that` he'd be finished in about half an hour.
 
 ## 365. shut ## verb [I or T]
 /ʃʌt/ CLOSE
@@ -2520,21 +2520,21 @@
 ## 366. sit ## verb [I]
 /sɪt/ MOVE BODY
 [A2]to move your body into a sitting position after you have been standing
-- She came over and sat beside me.
-- She sat down on the grass.
+- She came over and sat `beside` me.
+- She sat `down on` the grass.
 
 ## 367. snow ## verb [I]
 /snoʊ/ WEATHER
 [A2]If it snows, snow falls from the sky.
-- It's snowing.
-- It's starting to snow.
-- It had snowed overnight and a thick white layer covered the ground.
+- `It's` snowing.
+- `It's` starting to snow.
+- `It` had snowed overnight and a thick white layer covered the ground.
 
 ## 368. sound ## verb
 /sɑʊnd/ sound good/interesting/strange, etc.
 [A2]to seem good, interesting, strange, etc. from what is said or written
 - Your job sounds really interesting.
-- I know it sounds silly, but I'll miss him when he's gone.
+- I know `it` sounds silly, but I'll miss him when he's gone.
 - You're going skiing with three friends? That sounds like fun.
 
 ## 369. spell ## verb [I or T]
@@ -2542,16 +2542,16 @@
 [A2]to write down or tell someone the correct letters that are used to make a word
 - How do you spell 'receive'? "R E C E I V E."
 - Shakespeare did not always spell his own name the same way.
-- Our address is 1520 Main Street, Albuquerque - shall I spell that (out) for you?
+- Our address is 1520 Main Street, Albuquerque - shall I spell that `(out)` for you?
 - I think it's important that children are taught to spell.
 
 ## 370. spend ## verb [T]
 /spend/ TIME
 [A2]to use time doing something or being somewhere
 - You need to spend at least 20 minutes on each exercise.
-- We like spending time together.
+- We like spending `time` together.
 - I spent an hour waiting for the bus.
-- How long do you spend on your homework?
+- How long do you spend `on` your homework?
 - I spent the weekend studying.
 - You can spend the night here if you like.
 
@@ -2559,16 +2559,16 @@
 /spend/ MONEY
 [A2]to use money to buy or pay for something
 - How much did you spend?
-- Young people seem to spend a lot of money on clothes.
-- We spent a fortune when we were in New York.
-- We spent a lot of money on our vacation but we had a great time.
+- Young people seem to spend a lot of `money on` clothes.
+- We spent `a fortune` when we were in New York.
+- We spent a lot of money `on` our vacation but we had a great time.
 
 ## 372. stand ## verb
 /stænd/ VERTICAL
 [A2]to be in a vertical position on your feet
 - He's standing over there, next to Karen.
-- Granny says if she stands (up) for a long time her ankles hurt.
-- Stand still and be quiet!
+- Granny says if she stands `(up)` for a long time her ankles hurt.
+- Stand `still` and be quiet!
 
 ## 373. stand ## verb
 /stænd/ RISE
@@ -2580,28 +2580,28 @@
 ## 374. stay ## verb [I]
 /steɪ/ LIVE
 [A2]to live or be in a place for a short time as a visitor
-- I stayed in Montreal for two weeks then flew home.
+- I stayed `in` Montreal for two weeks then flew home.
 - I’ll be staying overnight at my sister’s house.
-- My sister is staying with us this weekend.
-- They said they'd stay at/in a hotel.
+- My sister is staying `with` us this weekend.
+- They said they'd stay `at/in` a hotel.
 
 ## 375. steal ## verb [I or T]
 /stiːl/ 
 [A2]to secretly take something that does not belong to you, without intending to return it
-- She admitted stealing the money from her employers.
+- She admitted stealing the money `from` her employers.
 - The number of cars which are stolen every year has risen.
 
 ## 376. stop ## verb
 /stɑp/ BUS/TRAIN
 [A2]If a bus, train, etc. stops at a particular place, it pauses at that place so that people can get on and off.
-- Does this bus stop at Thirty-fourth Street?
+- Does this bus stop `at` Thirty-fourth Street?
 
 ## 377. stop ## verb
 /stɑp/ PAUSE
 [A2]to stop a trip or an activity for a short time
 - He stopped at a coffee shop for lunch.
 - Why don't you just stop somewhere and ask for directions?
-- I stopped to pick up a letter that I'd dropped.
+- I stopped `to` pick up a letter that I'd dropped.
 
 ## 378. suppose ## verb
 /səˈpoʊz/ I suppose
@@ -2621,7 +2621,7 @@
 ## 381. take ## verb [T]
 /teɪk/ NEEDS TIME
 [A2]If something takes a particular amount of time, you need that amount of time in order to be able to do it.
-- It took me three days to finish the job.
+- It took me three days `to` finish the job.
 - I'll just finish off this report - it won't take long.
 
 ## 382. take ## verb [T]
@@ -2658,8 +2658,8 @@
 ## 388. teach ## verb
 /tiːtʃ/ SHOW HOW TO
 [A2]to show or explain to someone how to do something
-- My dad taught me to drive.
-- Can you teach me how to knit?
+- My dad taught me `to` drive.
+- Can you teach me `how to` knit?
 
 ## 389. telephone ## verb [I or T]
 /ˈtel.əˌfoʊn/ 
@@ -2680,32 +2680,32 @@
 ## 392. thank ## verb [T]
 /θæŋk/ 
 [A2]to tell someone that you are grateful for something they have done or given you
-- Did you thank her for your present?
-- He thanked me for taking him home.
+- Did you thank her `for` your present?
+- He thanked me `for` taking him home.
 
 ## 393. think ## verb
 /θɪŋk/ CONSIDER DOING
 [A2]to consider doing something
-- I'm thinking of taking up running.
-- I think (that) I'll go swimming after lunch.
-- I'm thinking about buying a new car.
+- I'm thinking `of` taking up running.
+- I think `(that)` I'll go swimming after lunch.
+- I'm thinking `about` buying a new car.
 
 ## 394. throw ## verb [I or T]
 /θroʊ/ IN AIR
 [A2]to make something move through the air by pushing it out of your hand
-- She threw the ball back over the fence.
-- I threw the ball to the dog.
+- She threw the `ball` back over the fence.
+- I threw the ball `to` the dog.
 - Could you throw me an apple?
 
 ## 395. try ## verb
 /trɑɪ/ ATTEMPT
 [A2]to attempt to do something
-- I tried to open the window but I couldn't.
+- I tried `to` open the window but I couldn't.
 - Keep trying and you'll find a job eventually.
-- Try not to upset her.
-- If I don't get into the football academy this year, I'll try again next year.
-- I've tried really hard but I can't persuade him to come.
-- I'm trying my best/hardest, but I just can't do it.
+- Try `not to` upset her.
+- If I don't get into the football academy this year, I'll try `again` next year.
+- I've tried really `hard` but I can't persuade him to come.
+- I'm trying my `best/hardest`, but I just can't do it.
 
 ## 396. try ## verb
 /trɑɪ/ 
@@ -2731,13 +2731,13 @@
 ## 400. understand ## verb [I or T]
 /ˌʌn.dərˈstænd/ KNOW WHY/HOW
 [A2]to know why or how something happens or works, or how to do something
-- We still don't fully understand how the brain works.
-- I don't understand why my computer crashes so often.
+- We still don't fully understand `how` the brain works.
+- I don't understand `why` my computer crashes so often.
 
 ## 401. visit ## verb
 /ˈvɪz.ɪt/ INTERNET
 [A2]to look at a website
-- There's the usual invitation to visit their website.
+- There's the usual invitation to visit their `website`.
 
 ## 402. wait ## verb [I]
 /weɪt/ can't wait
@@ -2782,13 +2782,13 @@
 /wɜrk/ OPERATE
 [A2]If a machine or piece of equipment works, it is not broken.
 - Our telephone isn't working.
-- I can't get the radio to work.
+- I can't `get` the radio `to` work.
 
 ## 409. worry ## verb
 /ˈwɜr.i/ FEEL ANXIOUS
 [A2]to think about problems or unpleasant things that might happen in a way that makes you feel anxious
 - Try not to worry - there's nothing you can do to change the situation.
-- It's silly worrying about things that are outside your control.
+- It's silly worrying `about` things that are outside your control.
 
 ## 410. would ## modal verb
 /wʊd/ would love sth
@@ -2805,15 +2805,15 @@
 ## 412. write ## verb [I or T]
 /rɑɪt/ COMMUNICATE
 [A2]to send a letter or email to someone, giving them information or expressing your thoughts or feelings
-- James hasn't written to me recently.
+- James hasn't written `to` me recently.
 - I wrote my sister a letter.
-- My mother wrote to give me details about the party.
+- My mother wrote `to` give me details about the party.
 - The travel company has written giving information about the trip.
 
 ## 413. accept ## verb
 /əkˈsept/ AGREE TO TAKE
 [B1]to agree to take something that is offered to you
-- to accept an apology/invitation/offer
+- to accept an `apology/invitation/offer`
 - I've been invited to their wedding, but I haven't decided whether to accept.
 - She won't accept advice from anyone.
 
@@ -2826,37 +2826,37 @@
 ## 415. accompany ## verb [T]
 /əˈkʌm.pə.ni/ HAPPEN TOGETHER
 [B1]to happen or exist at the same time as something else
-- The course books are accompanied by four CDs.
-- The salmon was accompanied by a fresh green salad.
+- The course books are accompanied `by` four CDs.
+- The salmon was accompanied `by` a fresh green salad.
 
 ## 416. achieve ## verb [T]
 /əˈtʃiːv/ 
 [B1]to succeed in doing something good, usually by working hard
-- She finally achieved her goal to visit South America.
-- The program, he claimed, was achieving its objectives.
+- She finally achieved her `goal` to visit South America.
+- The program, he claimed, was achieving its `objectives`.
 
 ## 417. act ## verb
 /ækt/ PERFORM
 [B1]to perform in a movie, play, etc.
-- Have you ever acted in a play before?
-- Andrew Pike was chosen to act the part of the lawyer in the film.
+- Have you ever acted `in` a play before?
+- Andrew Pike was chosen to act the `part` of the lawyer in the film.
 
 ## 418. act ## verb
 /ækt/ BEHAVE
 [B1]to behave in a particular way
-- He acted as if he'd never met me before.
-- Don't be so silly - you're acting like a child!
+- He acted `as if` he'd never met me before.
+- Don't be so silly - you're acting `like` a child!
 
 ## 419. add ## verb
 /æd/ SAY MORE
 [B1]to say another thing
-- She was sad, she said, but added that she felt she had made the right decision.
+- She was sad, she said, but added `that` she felt she had made the right decision.
 
 ## 420. add ## verb
 /æd/ 
 [B1]to calculate the total of two or more numbers
 - I added everything up and it comes to $45.80.
-- So what do the numbers add up to?
+- So what do the numbers add up `to`?
 
 ## 421. admire ## verb [T]
 /ədˈmɑɪr/ LOOK AT
@@ -2867,8 +2867,8 @@
 ## 422. admit ## verb [I or T]
 /ədˈmɪt/ 
 [B1]to agree that something is true, especially unwillingly
-- He admitted his mistake.
-- She admitted (that) she would rather just stay at home.
+- He admitted his `mistake`.
+- She admitted `(that)` she would rather just stay at home.
 - I wasn't entirely honest with him, I admit, but I didn't actually tell him any lies.
 
 ## 423. advertise ## verb
@@ -2879,30 +2879,30 @@
 ## 424. advertise ## verb
 /ˈæd.vərˌtɑɪz/ ASK FOR
 [B1]to put information in a newspaper, on the Internet, etc. asking for someone or something that you need
-- The university is advertising for catering staff.
+- The university is advertising `for` catering staff.
 
 ## 425. advise ## verb
 /ədˈvɑɪz/ 
 [B1]to make a suggestion about what you think someone should do or how they should do something
-- I think I'd advise him to leave the company.
-- I'd strongly advise against making a sudden decision.
-- They're advising that children be kept out of the sun altogether.
+- I think I'd advise him `to` leave the company.
+- I'd strongly advise `against` making a sudden decision.
+- They're advising `that` children be kept out of the sun altogether.
 - I'd advise waiting until tomorrow.
-- She advised us when to come.
+- She advised us `when` to come.
 
 ## 426. afford ## verb
 /əˈfɔːrd/ can afford
 [B1]to be able to buy or do something because you have enough money or time
 - I don't know how he can afford a new car on his salary.
 - Few people are able to afford cars like that.
-- I'd love to go away for a few days but I can't afford the time.
-- I can't afford to buy a house.
+- I'd love to go away for a few days but I can't afford `the time`.
+- I can't afford `to` buy a house.
 
 ## 427. agree ## verb
 /əˈgriː/ DECIDE
 [B1]to decide something with someone
-- We agreed to meet on Sunday.
-- We couldn't agree on what to buy.
+- We agreed `to` meet on Sunday.
+- We couldn't agree `on` what to buy.
 
 ## 428. aim ## verb
 /eɪm/ aim to do sth
@@ -2912,15 +2912,15 @@
 ## 429. allow ## verb
 /əˈlɑʊ/ GIVE PERMISSION
 [B1]to give someone permission for something
-- You're not allowed to talk during the exam.
+- You're not allowed `to` talk during the exam.
 - Pets aren't allowed in this hotel.
 - The referee decided to allow the goal.
 
 ## 430. announce ## verb [T]
 /əˈnɑʊns/ 
 [B1]to tell people about something officially or with force or confidence
-- The Prime Minister has just announced that public spending will be increased next year.
-- The company has announced plans to open six new stores.
+- The Prime Minister has just announced `that` public spending will be increased next year.
+- The company has announced `plans` to open six new stores.
 - After dinner, they announced the winner of the competition.
 
 ## 431. annoy ## verb [T]
@@ -2928,19 +2928,19 @@
 [B1]to make someone angry
 - Tim really annoyed me in the meeting this morning.
 - I'm sorry - is my cough annoying you?
-- It annoys me that she just expects us to help.
-- It really annoys me when people expect me to tip as well as pay a service charge in a restaurant.
+- `It` annoys me `that` she just expects us to help.
+- `It` really annoys me when people expect me to tip as well as pay a service charge in a restaurant.
 
 ## 432. answer ## verb
 /ˈæn.sər/ TEST
 [B1]to write or say something as a reply to a question in a test, exercise, competition, etc.
-- I couldn't answer the last three questions.
+- I couldn't answer the last three `questions`.
 
 ## 433. apologize ## verb [I]
 /əˈpɑl.əˌdʒɑɪz/ 
 [B1]to tell someone that you are sorry about something you have done
-- I must apologize to Isobel for my behavior.
-- Trains may be subject to delay - we apologize for any inconvenience.
+- I must apologize `to` Isobel for my behavior.
+- Trains may be subject to delay - we apologize `for` any inconvenience.
 - She apologized for leaving early.
 
 ## 434. appear ## verb [I]
@@ -2958,54 +2958,54 @@
 /əˈpɪr/ SEEM
 [B1]to seem
 - He appeared calm and relaxed.
-- There appears to be some mistake.
+- `There` appears `to be` some mistake.
 - The governor appeared confident of another election.
 
 ## 437. apply ## verb
 /əˈplɑɪ/ REQUEST
 [B1]to request something, usually officially, especially by writing or sending in a form
 - By the time I saw the job advertised it was already too late to apply.
-- I've applied for a job there.
-- Please apply in writing to the address below.
+- I've applied `for` a job there.
+- Please apply in writing `to` the address below.
 
 ## 438. approve ## verb
 /əˈpruːv/ AGREE
 [B1]to allow or officially agree to something
-- The town has approved plans for a new shopping center.
+- The town has approved `plans` for a new shopping center.
 - The court approved the sale of the property.
 
 ## 439. argue ## verb
 /ˈɑr.gjuː/ DISAGREE
 [B1]to speak angrily to someone, telling them that you disagree with them
 - My parents are always arguing.
-- Kids, will you stop arguing with each other?
-- They were arguing over/about which movie to go see.
+- Kids, will you stop arguing `with` each other?
+- They were arguing `over/about` which movie to go see.
 
 ## 440. arrange ## verb
 /əˈreɪndʒ/ PLAN
 [B1]to make the necessary plans and preparations for something to happen
-- We've arranged a meeting for Wednesday.
-- They arranged to have dinner the following month.
-- I've already arranged with him where to meet.
-- She's arranged for her son to have swimming lessons.
-- I'd arranged that they should arrive at the same time.
+- We've arranged a meeting `for` Wednesday.
+- They arranged `to` have dinner the following month.
+- I've already arranged `with` him where to meet.
+- She's arranged `for` her son `to` have swimming lessons.
+- I'd arranged `that` they should arrive at the same time.
 
 ## 441. arrest ## verb [T]
 /əˈrest/ 
 [B1]If the police arrest someone, they take them away to ask them about a crime which they might have committed.
-- She was arrested for drinking and driving.
+- She was arrested `for` drinking and driving.
 - He was arrested when customs officers found drugs in his bag.
 
 ## 442. ask ## verb
 /æsk/ REQUEST
 [B1]to say something to someone because you want them to do something
-- They've asked me to look after their dog while they're away.
+- They've asked me `to` look after their dog while they're away.
 
 ## 443. ask ## verb
 /æsk/ WANT SOMETHING
 [B1]to say something to someone because you want them to give you something
-- He's asked for a bike for his birthday.
-- He's asked us for a new bike.
+- He's asked `for` a bike for his birthday.
+- He's asked us `for` a new bike.
 
 ## 444. ask ## verb
 /æsk/ WANT PERMISSION
@@ -3015,8 +3015,8 @@
 ## 445. attach ## verb [T]
 /əˈtætʃ/ CONNECT
 [B1]to connect or fix one thing to another
-- I attached a photo to my application form.
-- Use this cable to attach the printer to the computer.
+- I attached a photo `to` my application form.
+- Use this cable to attach the printer `to` the computer.
 
 ## 446. attach ## verb [T]
 /əˈtætʃ/ COMPUTING
@@ -3032,7 +3032,7 @@
 ## 448. attempt ## verb [T]
 /əˈtemt/ 
 [B1]to try to do something, especially something difficult
-- He attempted to escape through a window.
+- He attempted `to` escape through a window.
 - There's no point in even attempting an explanation - he'll never listen.
 
 ## 449. attend ## verb
@@ -3050,8 +3050,8 @@
 /əˈtrækt/ ENCOURAGE INTEREST
 [B1]to make people come to a place or do a particular thing by being interesting, enjoyable, etc.
 - The castle attracts more than 300,000 visitors a year.
-- The circus is attracting huge crowds/audiences.
-- We need to attract more bright young people to teaching.
+- The circus is attracting huge `crowds/audiences`.
+- We need to attract more bright young people `to` teaching.
 
 ## 452. attract ## verb
 /əˈtrækt/ attract attention/interest, etc.
@@ -3082,10 +3082,10 @@
 ## 457. beat ## verb
 /biːt/ DEFEAT
 [B1]to defeat or do better than
-- Simon always beats me at tennis.
-- Holland beat Belgium (by) 3-1.
-- The nationalists were narrowly beaten in the local election.
-- She has beaten her own record of three minutes ten seconds.
+- Simon always beats me `at` tennis.
+- Holland beat Belgium (`by`) 3-1.
+- The nationalists were `narrowly` beaten in the local election.
+- She has beaten her own `record` of three minutes ten seconds.
 
 ## 458. beat ## verb
 /biːt/ HEART
@@ -3105,9 +3105,9 @@
 ## 461. behave ## verb
 /bəˈheɪv/ IN A PARTICULAR WAY
 [B1]to do or say things in a particular way
-- She always behaves badly at bedtime.
+- She always behaves `badly` at bedtime.
 - He's been behaving very strangely recently.
-- You behaved like an idiot!
+- You behaved `like` an idiot!
 
 ## 462. behave ## verb
 /bəˈheɪv/ BE POLITE
@@ -3138,22 +3138,22 @@
 /bet/ I bet (you)
 [B1]something that you say to show that you believe that something is true or will happen
 - I bet you she's missed the bus.
-- I bet that he won't come.
+- I bet `that` he won't come.
 
 ## 468. bite ## verb
 /bɑɪt/ 
 [B1]to cut something using your teeth
-- He bit into the apple.
+- He bit `into` the apple.
 - I was bitten by a dog.
 
 ## 469. blame ## verb [T]
 /bleɪm/ RESPONSIBLE
 [B1]to say or think that someone or something is responsible for something bad that has happened
 - Don't blame me if you miss the bus!
-- Many people blame him for Tony's death.
-- Hugh blames his lack of confidence on his mother.
-- Poor housing is to blame for many of their health problems.
-- You can't really blame Helen for not wanting to get involved.
+- Many people blame him `for` Tony's death.
+- Hugh blames his lack of confidence `on` his mother.
+- Poor housing `is to` blame for many of their health problems.
+- You can't really blame Helen `for` not wanting to get involved.
 
 ## 470. bleed ## verb [I]
 /bliːd/ 
@@ -3220,7 +3220,7 @@
 ## 481. boil ## verb
 /bɔɪl/ HEAT LIQUID
 [B1]If a liquid boils, or if you boil it, it reaches the temperature where bubbles rise up in it and it produces steam.
-- I had to boil the water before drinking it.
+- I had to boil the `water` before drinking it.
 
 ## 482. boil ## verb
 /bɔɪl/ COOK
@@ -3240,9 +3240,9 @@
 ## 485. book ## verb [I or T]
 /bʊk/ 
 [B1]to arrange to use or do something at a particular time in the future
-- You need to book your flight before the fares go up.
-- Book early/in advance to get a good room.
-- The hotel is booked solid / fully booked for the next three weeks.
+- You need to book your `flight` before the fares go up.
+- Book `early/in advance` to get a good room.
+- The hotel is booked `solid` / `fully` booked for the next three weeks.
 
 ## 486. book ## verb [I or T]
 /bʊk/ 
@@ -3252,15 +3252,15 @@
 ## 487. bounce ## verb
 /bɑʊns/ MOVE UP
 [B1]to move up or away after hitting a surface, or to make something move this way
-- The basketball bounced off the rim of the basket.
+- The basketball bounced `off` the rim of the basket.
 - bounce a ball
-- The kids were bouncing up and down on the bed.
+- The kids were bouncing `up and down` on the bed.
 - We bounced along the dirt road in and old truck.
 
 ## 488. break ## verb
 /breɪk/ INTERRUPT
 [B1]to stop doing something for a short time
-- Let's break for lunch.
+- Let's break `for` lunch.
 - If you sit at a desk all day, try to break your routine with a walk or a swim.
 
 ## 489. break ## verb
@@ -3278,14 +3278,14 @@
 /breɪk/ 
 [B1]If two people break up, they stop having a relationship.
 - Jenny and George have broken up.
-- She's just broken up with her boyfriend.
+- She's just broken up `with` her boyfriend.
 
 ## 492. breathe ## verb [I or T]
 /briːð/ 
 [B1]to take air into and out of your lungs
 - It's so airless in here - I can hardly breathe.
-- Breathe in and now breathe out.
-- Keep breathing deeply.
+- Breathe `in` and now breathe `out`.
+- Keep breathing `deeply`.
 
 ## 493. bring ## verb [T]
 /brɪŋ/ bring (sb) happiness/luck/peace, etc.
@@ -3297,7 +3297,7 @@
 /brɪŋ/ 
 [B1]to care for a child until it is an adult
 - She was brought up by her grandmother.
-- David was brought up to respect authority.
+- David was brought up `to` respect authority.
 
 ## 495. burn ## verb
 /bɜrn/ DESTROY
@@ -3310,7 +3310,7 @@
 /bɜrn/ PRODUCE FLAMES
 [B1]to be on fire, or to produce flames
 - The wood was wet and would not burn.
-- A fire was burning brightly in the fireplace.
+- A `fire` was burning brightly in the fireplace.
 
 ## 497. burn ## verb
 /bɜrn/ COOK TOO LONG
@@ -3325,7 +3325,7 @@
 ## 499. bury ## verb [T]
 /ˈber.i/ DEAD BODY
 [B1]to put a dead body into the ground
-- His father was buried in the churchyard.
+- His father was buried `in` the churchyard.
 
 ## 500. call ## verb
 /kɔːl/ NAME
@@ -3337,8 +3337,8 @@
 /kɔːl/ SHOUT
 [B1]to say something in a loud voice, especially in order to attract someone's attention
 - Did you call?
-- I thought I heard someone call my name.
-- Someone in the crowd called (out) his name.
+- I thought I heard someone call my `name`.
+- Someone in the crowd called `(out)` his name.
 - "Hey, come over here!" she called.
 
 ## 502. call ## verb
@@ -3362,20 +3362,20 @@
 [B1]to decide that an organized event will not now happen, or to stop an order for goods or services that you no longer want
 - They had to cancel tonight's game because of the bad weather.
 - The concert was cancelled.
-- I've cancelled the order.
+- I've cancelled the `order`.
 
 ## 506. care ## verb
 /ker/ WORRY
 [B1]to think that something is important and to feel interested in it or worried about it
-- She's never cared very much about her appearance.
-- I really don't care whether we go out or not.
-- I don't care how much it costs, just buy it.
+- She's never cared very much `about` her appearance.
+- I really don't care `whether` we go out or not.
+- I don't care `how` much it costs, just buy it.
 
 ## 507. care ## verb
 /ker/ LOVE
 [B1]to love someone
-- Your parents are only doing this because they care about you.
-- I knew that Amy still cared for me.
+- Your parents are only doing this because they care `about` you.
+- I knew that Amy still cared `for` me.
 
 ## 508. carry ## verb [T]
 /ˈkær.i/ HAVE WITH YOU
@@ -3387,23 +3387,23 @@
 /ˈkær.i/ 
 [B1]to continue doing something, or to cause something to continue
 - Let's carry on this discussion at some other time.
-- Carry on with your work while I'm gone.
+- Carry on `with` your work while I'm gone.
 - Just carry on as if nothing happened.
 - Steve just carried on talking even after the orchestra started to play.
 
 ## 510. carry ## verb [T]
 /ˈkær.i/ 
 [B1]to do or complete something, especially something that you have said you would do or that you have been told to do
-- Nigel is carrying out research on early Christian art.
-- The hospital is carrying out tests to find out what's wrong with her.
-- It is hoped that the kidnappers will not carry out their threat to kill the hostages.
-- Don't blame me, I'm only carrying out my orders/instructions.
+- Nigel is carrying out `research` on early Christian art.
+- The hospital is carrying out `tests` to find out what's wrong with her.
+- It is hoped that the kidnappers will not carry out their `threat` to kill the hostages.
+- Don't blame me, I'm only carrying out my `orders/instructions`.
 
 ## 511. catch ## verb
 /kætʃ/ STOP ESCAPING
 [B1]to find and stop a person or animal that is trying to escape
 - Did they ever catch the terrorists?
-- They caught a lot of fish that day.
+- They caught a lot of `fish` that day.
 
 ## 512. catch ## verb
 /kætʃ/ catch fire
@@ -3425,7 +3425,7 @@
 ## 515. change ## verb
 /tʃeɪndʒ/ IN STORE
 [B1]to take something you have bought back to a store and exchange it for something else
-- I had to change the shirt I bought for a bigger size.
+- I had to change the shirt I bought `for` a bigger size.
 
 ## 516. change ## verb
 /tʃeɪndʒ/ change your mind
@@ -3436,7 +3436,7 @@
 ## 517. charge ## verb
 /tʃɑrdʒ/ MONEY
 [B1]to ask an amount of money for something, especially a service or activity
-- How much/What do you charge for delivery?
+- How much/What do you charge `for` delivery?
 - The bank charged a commission to change my traveler's checks.
 - They charge you $20 just to get into the nightclub.
 - The local museum doesn't charge for admission.
@@ -3444,8 +3444,8 @@
 ## 518. check ## verb
 /tʃek/ FIND OUT
 [B1]to find out about something
-- I called them yesterday to check when they will arrive.
-- Would you check if the cake is ready when the timer rings?
+- I called them yesterday to check `when` they will arrive.
+- Would you check `if` the cake is ready when the timer rings?
 
 ## 519. check ## verb
 /tʃek/ 
@@ -3455,12 +3455,12 @@
 ## 520. check ## verb
 /tʃek/ 
 [B1]to say who you are when you arrive at a hotel so that you can be given a key for your room
-- Check in at the reception desk when you arrive.
+- Check in `at` the reception desk when you arrive.
 
 ## 521. check ## verb
 /tʃek/ 
 [B1]to leave a hotel after paying and returning your room key
-- We checked out of our hotel at 5 a.m. to catch a 7 a.m. flight.
+- We checked out `of` our hotel at 5 a.m. to catch a 7 a.m. flight.
 
 ## 522. circle ## verb
 /ˈsɜr.kəl/ DRAW
@@ -3482,8 +3482,8 @@
 ## 525. comb ## verb [T]
 /koʊm/ 
 [B1]to use a comb to make your hair neat
-- She combed her hair and put on some lipstick.
-- I've been trying to comb out the knots in her hair.
+- She combed her `hair` and put on some lipstick.
+- I've been trying to comb `out` the knots in her hair.
 
 ## 526. come ## verb [I]
 /kʌm/ come after/first/last, etc.
@@ -3497,7 +3497,7 @@
 /kʌm/ come true
 [B1]If a dream or hope comes true, it really happens.
 - I'd always dreamed of owning my own house, but I never thought it would come true.
-- After all the problems I'd had, Oliver's birth was a dream come true.
+- After all the problems I'd had, Oliver's birth was a `dream` come true.
 
 ## 528. come ## verb [I]
 /kʌm/ GO WITH SOMEONE
@@ -3522,31 +3522,31 @@
 ## 532. communicate ## verb
 /kəˈmjuː.nəˌkeɪt/ SHARE INFORMATION
 [B1]to share information with others by speaking, writing, moving your body or using other signals
-- We can now communicate instantly with people on the other side of the world.
-- Has the news been communicated to the staff yet?
-- Unable to speak a word of the language, he communicated with his hands.
+- We can now communicate instantly `with` people on the other side of the world.
+- Has the news been communicated `to` the staff yet?
+- Unable to speak a word of the language, he communicated `with` his hands.
 
 ## 533. compare ## verb
 /kəmˈper/ EXAMINE DIFFERENCES
 [B1]to examine the ways in which two people or things are different
 - If you compare house prices in the two areas, it's surprising how different they are.
-- That seems expensive - have you compared prices in other stores?
-- Compare some recent work with your older stuff and you'll see how much you've improved.
-- Teachers always used to compare me with my sister.
+- That seems expensive - have you compared `prices` in other stores?
+- Compare some recent work `with` your older stuff and you'll see how much you've improved.
+- Teachers always used to compare me `with` my sister.
 
 ## 534. compete ## verb [I]
 /kəmˈpiːt/ SPORTS
 [B1]to take part in a race or competition
-- She's competing for a spot on next year's Olympic team.
-- Are you competing in the 100 metres?
+- She's competing `for` a spot on next year's Olympic team.
+- Are you competing `in` the 100 metres?
 
 ## 535. complain ## verb [I]
 /kəmˈpleɪn/ 
 [B1]to say that something is wrong or that you are annoyed about something
-- Lots of people have complained about the noise.
+- Lots of people have complained `about` the noise.
 - He's always complaining!
-- He complained that she never listened to him.
-- If the service was so bad why didn't you complain to the manager?
+- He complained `that` she never listened to him.
+- If the service was so bad why didn't you complain `to` the manager?
 
 ## 536. complain ## verb [I]
 /kəmˈpleɪn/ 
@@ -3557,29 +3557,29 @@
 /ˈkɑn.sənˌtreɪt/ THINK CAREFULLY
 [B1]to think very carefully about something you are doing and nothing else
 - Come on, concentrate! We haven't got all day to do this.
-- I can't concentrate on my work with all that noise.
-- I'm going to concentrate on my writing for a while.
+- I can't concentrate `on` my work with all that noise.
+- I'm going to concentrate `on` my writing for a while.
 
 ## 538. confirm ## verb
 /kənˈfɜrm/ MAKE ARRANGEMENT CERTAIN
 [B1]to make an arrangement or meeting certain, often by telephone or in writing
-- Six people have confirmed that they will be attending and ten haven't replied yet.
+- Six people have confirmed `that` they will be attending and ten haven't replied yet.
 - Flights should be confirmed 48 hours before departure.
 - I've accepted the job over the phone, but I haven't confirmed in writing yet.
 
 ## 539. connect ## verb
 /kəˈnekt/ JOIN
 [B1]to join or be joined with something else
-- Can I connect my printer to your computer?
-- Where does the cooker connect (up)to the electricity?
+- Can I connect my printer `to` your computer?
+- Where does the cooker connect `(up)``to` the electricity?
 - Has the water/electricity/gas/telephone been connected in your new place yet?
 
 ## 540. consider ## verb
 /kənˈsɪd.ər/ THINK CAREFULLY
 [B1]to think carefully about something, often before you decide what to do
-- Have you considered what you'll do if you don't get the job?
+- Have you considered `what` you'll do if you don't get the job?
 - We're considering selling the house.
-- She's being considered for the job.
+- She's being considered `for` the job.
 - I'd like some time to consider before I make a decision.
 
 ## 541. consist ## verb
@@ -3598,12 +3598,12 @@
 ## 543. continue ## verb [I or T]
 /kənˈtɪn.juː/ NEVER STOP
 [B1]to keep happening, existing or doing something
-- It continued to snow heavily for two days.
+- It continued `to` snow heavily for two days.
 - If the rain continues, we'll have to cancel tonight's plans.
 - The article continues on page ten.
 - I'll continue working until the end of June.
-- Should I continue with this job?
-- Sally Palmer will be continuing as chairperson this fall.
+- Should I continue `with` this job?
+- Sally Palmer will be continuing `as` chairperson this fall.
 
 ## 544. continue ## verb [I or T]
 /kənˈtɪn.juː/ BEGIN AGAIN
@@ -3622,14 +3622,14 @@
 ## 546. control ## verb [T]
 /kənˈtroʊl/ STAY CALM
 [B1]to stop yourself expressing strong emotions or behaving in a silly way
-- You're going to have to learn to control your temper.
+- You're going to have to learn to control your `temper`.
 
 ## 547. convince ## verb [T]
 /kənˈvɪns/ 
 [B1]to persuade someone or make them certain
-- She tried to convince me that I needed a new car.
-- I hope this will convince you to change your mind.
-- He managed to convince the jury of his innocence.
+- She tried to convince me `that` I needed a new car.
+- I hope this will convince you `to` change your mind.
+- He managed to convince the jury `of` his innocence.
 
 ## 548. cough ## verb [I]
 /kɔːf/ 
@@ -3641,7 +3641,7 @@
 /kʊd/ SUGGESTION
 [B1]used for making a suggestion
 - We could go for a drink after work tomorrow, if you like.
-- You could always call Susie and see if she would babysit.
+- You could `always` call Susie and see if she would babysit.
 
 ## 550. could ## modal verb
 /kʊd/ POSSIBLY HAPPEN
@@ -3672,8 +3672,8 @@
 /ˈkʌv.ər/ LAYER
 [B1]to form a layer on the surface of something
 - Snow covered the hillside.
-- Cover the pasta with a layer of sauce.
-- The bandages were covered with/in blood.
+- Cover the pasta `with` a layer of sauce.
+- The bandages were covered `with/in` blood.
 
 ## 555. cover ## verb [T]
 /ˈkʌv.ər/ DEAL WITH
@@ -3684,8 +3684,8 @@
 ## 556. crash ## verb
 /kræʃ/ VEHICLE
 [B1]to have an accident in a vehicle
-- He skidded on the ice and crashed into another car.
-- The plane crashed into a field.
+- He skidded on the ice and crashed `into` another car.
+- The plane crashed `into` a field.
 - Her brother borrowed her motorbike and crashed it.
 
 ## 557. create ## verb [T]
@@ -3720,8 +3720,8 @@
 ## 562. damage ## verb [T]
 /ˈdæm.ɪdʒ/ 
 [B1]to harm, break or spoil something
-- Many buildings were badly damaged during the war.
-- Smoking can seriously damage your health.
+- Many buildings were `badly` damaged during the war.
+- Smoking can `seriously` damage your health.
 
 ## 563. date ## verb
 /deɪt/ WRITE DATE ON
@@ -3736,7 +3736,7 @@
 ## 565. deal ## verb
 /diːl/ 
 [B1]to take action in order to achieve something or in order to solve a problem
-- How do you intend to deal with this problem?
+- How do you intend to deal with this `problem`?
 - The building manager dealt with the heating problem.
 
 ## 566. declare ## verb [T]
@@ -3747,7 +3747,7 @@
 ## 567. decorate ## verb [T]
 /ˈdek.əˌreɪt/ 
 [B1]to add something to or change an object or place to make it attractive
-- They decorated the hall with balloons and colorful flags.
+- They decorated the hall `with` balloons and colorful flags.
 
 ## 568. decrease ## verb [I or T]
  
@@ -3757,7 +3757,7 @@
 ## 569. defeat ## verb [T]
 /dəˈfiːt/ WIN
 [B1]to win a victory over someone in a fight, war or competition
-- Napoleon was defeated by the Duke of Wellington at the battle of Waterloo.
+- Napoleon was defeated `by` the Duke of Wellington at the battle of Waterloo.
 - If we can defeat the Chicago Cubs, we'll be in the playoffs.
 
 ## 570. defend ## verb
@@ -3765,7 +3765,7 @@
 [B1]to protect someone or something from being attacked, especially by fighting
 - How can we defend our homeland if we don't have an army?
 - I'm going to karate lessons to learn how to defend myself.
-- White blood cells help defend the body against infection.
+- White blood cells help defend the body `against` infection.
 
 ## 571. delay ## verb
 /dɪˈleɪ/ CAUSE LATENESS
@@ -3775,76 +3775,76 @@
 ## 572. delete ## verb [T]
 /dəˈliːt/ 
 [B1]to remove something, especially from a computer's memory
-- All names have been deleted from the report.
+- All names have been deleted `from` the report.
 
 ## 573. deliver ## verb
 /dɪˈlɪv.ər/ TAKE
 [B1]to take things such as goods, letters, or packages to people's houses or places of work
-- Express packages are delivered to our office several times a day.
+- Express packages are delivered `to` our office several times a day.
 - The store is delivering our new table on Thursday.
 
 ## 574. demand ## verb [T]
 /dɪˈmænd/ REQUEST
 [B1]to ask for something in a way that shows that you do not expect to be refused
 - I demanded an explanation.
-- I demand to see the manager.
-- She demanded that he return the books he borrowed from her.
+- I demand `to` see the manager.
+- She demanded `that` he return the books he borrowed from her.
 
 ## 575. depart ## verb [I]
 /dɪˈpɑrt/ 
 [B1]to go away or leave, especially on a journey
 - The plane departs at 6.00 a.m.
-- The train for Buffalo departs from platform 2.
+- The train for Buffalo departs `from` platform 2.
 
 ## 576. depend ## verb
 /dəˈpend/ it/that depends
 [B1]used to say that you are not certain about something because other things affect your answer
-- Are you coming out tonight? "It depends (on) what you're planning to do."
+- Are you coming out tonight? "It depends (`on`) what you're planning to do."
 
 ## 577. depend ## verb
 /dəˈpend/ BE INFLUENCED BY
 [B1]If something depends on someone or something, it is influenced by them, or changes because of them.
 - Which phone you can buy depends on how much you're willing to spend.
-- I'm not sure if we'll go to the beach - it depends on the weather.
+- I'm not sure if we'll go to the beach - `it` depends on the weather.
 
 ## 578. deserve ## verb [T]
 /dɪˈzɜrv/ 
 [B1]If you deserve something good or bad, it should happen to you because of the way you have behaved.
 - After all that hard work, you deserve a holiday.
-- Chris deserves our special thanks for all his efforts.
-- I hope they get the punishment they deserve.
-- They certainly deserved to win that match.
+- Chris deserves our special `thanks` for all his efforts.
+- I hope they get the `punishment` they deserve.
+- They certainly deserved `to` win that match.
 
 ## 579. design ## verb
 /dəˈzɑɪn/ PLAN
 [B1]to draw or plan something before making it
-- Who designed this building/dress/furniture?
-- This line of clothing is specially designed for shorter women.
+- Who designed this `building/dress/furniture`?
+- This line of clothing is specially designed `for` shorter women.
 
 ## 580. destroy ## verb [T]
 /dəˈstrɔɪ/ 
 [B1]to damage something so badly that it does not exist or cannot be used
 - Most of the old part of the city was destroyed by bombs during the war.
-- The accident seemed to have completely/totally destroyed his confidence.
+- The accident seemed to have `completely/totally` destroyed his confidence.
 
 ## 581. develop ## verb
 /dɪˈvel.əp/ CHANGE
 [B1]to (cause something to) grow or change and become more advanced
 - The baby develops inside the mother for nine months.
-- Over time, their acquaintance developed into a lasting friendship.
+- Over time, their acquaintance developed `into` a lasting friendship.
 - This exercise is designed to develop the shoulder and back muscles.
-- I'm looking for a job which will enable me to develop my skills/talents.
+- I'm looking for a job which will enable me to develop my `skills/talents`.
 
 ## 582. develop ## verb
 /dɪˈvel.əp/ MAKE
 [B1]to make something new such as a product
 - Scientists are developing new drugs all the time.
-- The company is spending $650 million on developing new products/technology.
+- The company is spending $650 million on developing `new products/technology`.
 
 ## 583. dial ## verb [I or T]
 /dɑɪl/ 
 [B1]to make a telephone call to a particular number
-- Can I dial this number direct, or do I have to go through the operator?
+- Can I dial this number `direct`, or do I have to go through the operator?
 - Dial 0 for the switchboard.
 
 ## 584. die ## verb [I]
@@ -3867,27 +3867,27 @@
 ## 587. direct ## verb
 /dəˈrekt/ ROUTE
 [B1]to show or tell someone how to get to a place
-- Can you direct me to the manager's office please?
+- Can you direct me `to` the manager's office please?
 
 ## 588. disagree ## verb [I]
 /ˌdɪs.əˈgriː/ 
 [B1]to have a different opinion than someone else about something
-- I disagree with most of what he said.
-- Experts disagree about/on the causes of the disease.
-- Few people would disagree that something should be done to reduce the level of crime in the area.
-- I strongly disagree with the decision.
+- I disagree `with` most of what he said.
+- Experts disagree `about/on` the causes of the disease.
+- Few people would disagree `that` something should be done to reduce the level of crime in the area.
+- I `strongly` disagree `with` the decision.
 
 ## 589. disappear ## verb [I]
 /ˌdɪs.əˈpɪr/ NOT SEE
 [B1]to become impossible to see
-- The sun disappeared behind a cloud.
-- We looked for her but she had disappeared into the crowd.
+- The sun disappeared `behind` a cloud.
+- We looked for her but she had disappeared `into` the crowd.
 
 ## 590. disappear ## verb [I]
 /ˌdɪs.əˈpɪr/ NOT FIND
 [B1]to become impossible to find
-- She disappeared from her home over a month ago.
-- I can't find my keys anywhere - they've just disappeared.
+- She disappeared `from` her home over a month ago.
+- I can't find my keys anywhere - they've `just` disappeared.
 
 ## 591. disappoint ## verb [T]
 /ˌdɪs.əˈpɔɪnt/ 
@@ -3899,9 +3899,9 @@
 /dɪˈskʌv.ər/ 
 [B1]to find out something or to find a place or an object, especially for the first time
 - Who discovered America?
-- Scientists have discovered how to predict an earthquake.
+- Scientists have discovered `how` to predict an earthquake.
 - We searched all morning for the missing papers and finally discovered them in a drawer.
-- She discovered (that) her husband was having an affair.
+- She discovered (`that`) her husband was having an affair.
 
 ## 593. dislike ## verb [T]
 /dɪsˈlɑɪk/ 
@@ -3917,9 +3917,9 @@
 ## 595. dive ## verb [I]
 /dɑɪv/ ENTER WATER
 [B1]If you dive into water, you enter it headfirst with your arms held out above your head.
-- They ran to the pool, dove in, and swam to the other side.
-- Look at those children diving for oysters over there!
-- Mark dived off the bridge into the river.
+- They ran to the pool, dove `in`, and swam to the other side.
+- Look at those children diving `for` oysters over there!
+- Mark dived `off` the bridge `into` the river.
 
 ## 596. dive ## verb [I]
 /dɑɪv/ SWIM UNDER WATER
@@ -3929,8 +3929,8 @@
 ## 597. divide ## verb
 /dɪˈvɑɪd/ SEPARATE
 [B1]to separate into parts or groups or to make people or things do this
-- At the end of the lecture, I'd like all the students to divide into small discussion groups.
-- After World War II, Germany was divided into two separate countries.
+- At the end of the lecture, I'd like all the students to divide `into` small discussion groups.
+- After World War II, Germany was divided `into` two separate countries.
 
 ## 598. do ## auxiliary verb
 /duː/ do badly/well
@@ -3942,8 +3942,8 @@
 [B1]used to avoid repeating a verb that has just been used
 - She runs much faster than he does.
 - Maria looks much healthier than she did.
-- "I hate that song!" "So do I."
-- "I don't like the heat." "Neither do I."
+- "I hate that song!" "`So` do I."
+- "I don't like the heat." "`Neither` do I."
 - "May I join you?" "Please do!"
 
 ## 600. do ## verb
@@ -3969,21 +3969,21 @@
 ## 604. dream ## verb [I or T]
 /driːm/ IMAGINE
 [B1]to imagine something that you would like to happen
-- He never dreamed that one day he would become President.
+- He `never` dreamed that one day he would become President.
 
 ## 605. dress ## verb
 /dres/ WEAR PARTICULAR CLOTHES
 [B1]to wear a particular type of clothes
 - I have to dress nicely for work.
-- Patricia always dresses in black.
+- Patricia always dresses `in` black.
 
 ## 606. drop ## verb
 /drɑp/ FALL
 [B1]to fall or to allow something to fall
 - She dropped her keys.
 - I'm always dropping things.
-- Amanda dropped her sunglasses in/into the fountain.
-- The book dropped from/off the shelf.
+- Amanda dropped her sunglasses `in/into` the fountain.
+- The book dropped `from/off` the shelf.
 - Don't drop it!/Don't let it drop!
 
 ## 607. drop ## verb
@@ -4000,14 +4000,14 @@
 /ɪmˈplɔɪ/ JOB
 [B1]to have someone work or do a job for you and pay them for it
 - How many people does your company employ?
-- Can't we employ someone as an assistant to help with all this paperwork?
-- We've employed a market researcher to find out what people really want from a cable TV system.
+- Can't we employ someone `as` an assistant to help with all this paperwork?
+- We've employed a market researcher `to` find out what people really want from a cable TV system.
 - More people are now employed in service industries than in manufacturing.
 
 ## 610. encourage ## verb [T]
 /enˈkɜr.ɪdʒ/ MAKE MORE LIKELY
 [B1]to make someone more likely to do something, or to make something more likely to happen
-- We were encouraged to learn foreign languages in school.
+- We were encouraged `to` learn foreign languages in school.
 - Cutting back plants will encourage new growth.
 
 ## 611. encourage ## verb [T]
@@ -4018,15 +4018,15 @@
 ## 612. end ## verb [I or T]
 /end/ 
 [B1]to finally be in a particular place or situation
-- They're traveling across Europe by train and are planning to end up in Moscow.
-- Much of this meat will probably end up as dog food.
+- They're traveling across Europe by train and are planning to end up `in` Moscow.
+- Much of this meat will probably end up `as` dog food.
 - After working her way around the world, she ended up teaching English as a foreign language.
 
 ## 613. enter ## verb
 /ˈent.ər/ COMPETITION
 [B1]to take part in a competition, race or examination
-- Are you going to enter the photography competition?
-- Both men have been entered for/in the 100 meters in Paris next month.
+- Are you going to enter the photography `competition`?
+- Both men have been entered `for/in` the 100 meters in Paris next month.
 
 ## 614. enter ## verb
 /ˈent.ər/ INFORMATION
@@ -4042,8 +4042,8 @@
 ## 616. escape ## verb
 /ɪˈskeɪp/ GET AWAY
 [B1]to succeed in getting away from a place where you do not want to be
-- The two prisoners escaped from prison last night.
-- There were reports that a lion had escaped from its cage at a nearby zoo.
+- The two prisoners escaped `from` prison last night.
+- There were reports that a lion had escaped `from` its cage at a nearby zoo.
 
 ## 617. exchange ## verb [T]
 /ɪksˈtʃeɪndʒ/ GIVING
@@ -4054,7 +4054,7 @@
 ## 618. excuse ## verb [T]
  FORGIVE
 [B1]to forgive someone
-- Please excuse me for arriving late - my flight was delayed.
+- Please excuse me `for` arriving late - my flight was delayed.
 - Please excuse my appearance - I've been painting.
 
 ## 619. exercise ## verb
@@ -4078,8 +4078,8 @@
 /ɪkˈspekt/ THINK
 [B1]to think or believe that something will happen
 - We are expecting a lot of applicants for the job.
-- I expect (that) she'll be very angry.
-- He didn't expect to see me.
+- I expect `(that)` she'll be very angry.
+- He didn't expect `to` see me.
 
 ## 623. expect ## verb
 /ɪkˈspekt/ be expecting sb/sth
@@ -4095,7 +4095,7 @@
 ## 625. explode ## verb [I or T]
 /ɪkˈsploʊd/ 
 [B1]If something such as a bomb explodes, it bursts with noise and force, and if you explode it, you make it burst with noise and force.
-- A bomb exploded at one of London's busiest railway stations this morning.
+- A `bomb` exploded at one of London's busiest railway stations this morning.
 - He put too much air in the tire and it exploded.
 
 ## 626. explore ## verb
@@ -4107,19 +4107,19 @@
 ## 627. face ## verb
 /feɪs/ DIRECTION
 [B1]to be or turn in a particular direction
-- Our house faces north/south/east/west.
+- Our house faces `north/south/east/west`.
 - She turned to face him.
-- The café faces (towards) the sea.
+- The café faces `(towards)` the sea.
 
 ## 628. fall ## verb [I]
 /fɔːl/ BECOME LOWER
 [B1]to become lower in size, amount or strength
 - Demand for new cars has fallen recently.
 - The quality of his work has fallen during the year.
-- The temperature could fall below zero tonight.
-- Average temperatures fell by ten degrees.
-- The pound has fallen to its lowest-ever level against the dollar.
-- Stock prices fell sharply this week.
+- The temperature could fall `below` zero tonight.
+- Average temperatures fell `by` ten degrees.
+- The pound has fallen `to` its lowest-ever level against the dollar.
+- Stock prices fell `sharply` this week.
 
 ## 629. fall ## verb [I]
 /fɔːl/ fall asleep
@@ -4146,20 +4146,20 @@
 ## 633. fasten ## verb
 /ˈfæs.ən/ CLOSE/ATTACH
 [B1]to close or attach something together, or to become closed or attached together
-- Fasten your seat belt.
+- Fasten your `seat belt`.
 - This shirt fastens at the back.
 
 ## 634. fax ## verb [T]
 /fæks/ 
 [B1]to send a document using a fax machine
-- Fax me your reply/Fax your reply to me.
+- Fax me your reply/Fax your reply `to` me.
 
 ## 635. feed ## verb
 /fiːd/ GIVE FOOD
 [B1]to give food to a person, group or animal
 - I usually feed the neighbor's cat while she's away.
 - Let's feed the kids first and have our dinner after.
-- If you feed your dog on cake and cookies, it's not surprising he's so fat.
+- If you feed your dog `on` cake and cookies, it's not surprising he's so fat.
 
 ## 636. feel ## verb
 /fiːl/ feel like/as if
@@ -4172,7 +4172,7 @@
 [B1]to have a wish for something, or to want to do something, at a particular moment
 - I feel like going for a swim.
 - I feel like a nice cool glass of lemonade.
-- "Are you coming to aerobics?" "No, I don't feel like it today."
+- "Are you coming to aerobics?" "No, I don't feel like `it` today."
 - He was so rude I felt like hitting him.
 
 ## 638. feel ## verb
@@ -4184,8 +4184,8 @@
 ## 639. feel ## verb
 /fiːl/ THINK/HAVE OPINION
 [B1]to think something or have an opinion
-- I feel (that) I should be doing more to help her.
-- Do you feel very strongly about this?
+- I feel `(that)` I should be doing more to help her.
+- Do you feel very `strongly` about this?
 - I feel certain I'm right.
 
 ## 640. feel ## verb
@@ -4202,19 +4202,19 @@
 /fɑɪt/ USE FORCE
 [B1]to use physical force to try to defeat another person or group of people
 - Two men were fighting outside the park.
-- Sam's always fighting with his little brother.
+- Sam's always fighting `with` his little brother.
 
 ## 643. figure ## verb
 /ˈfɪg.jər/ THINK
 [B1]to decide something or expect something to happen after thinking about it
-- They figured (that) about twenty people would be there.
+- They figured `(that)` about twenty people would be there.
 - You can’t figure you'll back in under two hours.
 
 ## 644. fill ## verb
 /fɪl/ TAKE SPACE
 [B1]If people or things fill a space, there are a lot of them in it.
 - Dark clouds filled the sky.
-- The streets were filled with tourists.
+- The streets were filled `with` tourists.
 
 ## 645. fill ## verb
 /fɪl/ BE NOTICEABLE
@@ -4236,8 +4236,8 @@
 ## 648. find ## verb [T]
 /fɑɪnd/ BECOME AWARE
 [B1]to become aware that something exists or has happened
-- We came home to find (that) the cat had had kittens.
-- I found (that) I could easily swim 1000 meters.
+- We came home to find `(that)` the cat had had kittens.
+- I found `(that)` I could easily swim 1000 meters.
 
 ## 649. find ## verb [T]
 /fɑɪnd/ find sb/sth easy/boring/funny, etc.
@@ -4261,12 +4261,12 @@
 ## 652. fish ## verb [I]
 /fɪʃ/ 
 [B1]to try to catch fish
-- They're fishing for tuna.
+- They're fishing `for` tuna.
 
 ## 653. fit ## verb
 /fɪt/ CORRECT SIZE
 [B1]to be the right size or shape for someone or something
-- That jacket fits you perfectly.
+- That jacket fits you `perfectly`.
 - These jeans don't fit me any more.
 - I can't find a lid to fit this jar.
 
@@ -4294,14 +4294,14 @@
 ## 658. float ## verb
 /floʊt/ NOT SINK
 [B1]to stay on the surface of a liquid and not sink, or to make something do this
-- Leaves were floating on the surface.
-- We spent a lazy afternoon floating along/down the river.
+- Leaves were floating `on` the surface.
+- We spent a lazy afternoon floating `along/down` the river.
 - He tossed the bottle into the waves and watched it float out to sea.
 
 ## 659. float ## verb
 /floʊt/ MOVE IN AIR
 [B1]to stay in the air, or move gently through the air
-- Fluffy white clouds were floating across the sky.
+- Fluffy white clouds were floating `across` the sky.
 - The sound of piano-playing floated out through the open window.
 
 ## 660. flood ## verb [I or T]
@@ -4313,22 +4313,22 @@
 ## 661. fold ## verb [I or T]
 /foʊld/ 
 [B1]If you fold paper, cloth, etc., you bend it so that one part of it lies flat on top of another part.
-- I folded the letter in half and put it in an envelope.
-- Will you help me to fold up the sheets?
-- He had a neatly folded handkerchief in his jacket pocket.
+- I folded the letter `in half` and put it in an envelope.
+- Will you help me to fold `up` the sheets?
+- He had a `neatly` folded handkerchief in his jacket pocket.
 
 ## 662. follow ## verb
 /ˈfɑl.oʊ/ HAPPEN AFTER
 [B1]to happen or come after something
-- There was a bang, followed by a cloud of smoke.
-- The meal consisted of smoked salmon, followed by Welsh lamb.
+- There was a bang, followed `by` a cloud of smoke.
+- The meal consisted of smoked salmon, followed `by` Welsh lamb.
 - We were not prepared for the events that followed.
 
 ## 663. follow ## verb
 /ˈfɑl.oʊ/ OBEY
 [B1]to do what someone or something says you should do
-- Follow the instructions on the back of the package carefully.
-- I decided to follow her advice and go to bed early.
+- Follow the `instructions` on the back of the package carefully.
+- I decided to follow her `advice` and go to bed early.
 - If you follow the signs, you won't get lost.
 
 ## 664. follow ## verb
@@ -4339,17 +4339,17 @@
 ## 665. forget ## verb
 /fərˈget/ NOT DO
 [B1]to not remember to do something
-- I forgot to phone Jan.
-- Dad's always forgetting to take his pills.
+- I forgot `to` phone Jan.
+- Dad's always forgetting `to` take his pills.
 
 ## 666. forget ## verb
 /fərˈget/ NOT REMEMBER
 [B1]to be unable to remember a fact, something that happened, or how to do something
 - I'm sorry, I've forgotten your name.
-- I completely forgot about Gemma's party.
-- I've forgotten what you do next.
-- I've forgotten how to operate this thing.
-- She'd forgotten that Lucy was coming over.
+- I completely forgot `about` Gemma's party.
+- I've forgotten `what` you do next.
+- I've forgotten `how` to operate this thing.
+- She'd forgotten `that` Lucy was coming over.
 
 ## 667. forget ## verb
 /fərˈget/ STOP THINKING
@@ -4359,9 +4359,9 @@
 ## 668. forgive ## verb [I or T]
 /fərˈgɪv/ NOT BE ANGRY
 [B1]to decide not to be angry with someone for something they have done, or not to punish them for something they have done
-- She never forgave her mother for lying to her.
+- She never forgave her mother `for` lying to her.
 - He had betrayed her and she never forgave him.
-- I'd never forgive myself if anything happened to the kids.
+- I'd never forgive `myself` if anything happened to the kids.
 
 ## 669. form ## verb
 /fɔːrm/ COMBINE
@@ -4372,8 +4372,8 @@
 /friːz/ ICE
 [B1]If something freezes or is frozen, it becomes hard and solid because it is very cold.
 - Water freezes at a temperature of 0°C.
-- The ground had frozen hard/solid.
-- When the lake freezes (over), we can go skating on it.
+- The ground had frozen `hard/solid`.
+- When the lake freezes `(over)`, we can go skating on it.
 
 ## 671. freeze ## verb
 /friːz/ FOOD
@@ -4389,15 +4389,15 @@
 ## 673. gain ## verb
 /geɪn/ GET
 [B1]to get something useful or positive, especially over a period of time
-- After you've gained some experience teaching abroad you can come home and get a job.
-- What do you hope to gain from the course?
+- After you've gained some `experience` teaching abroad you can come home and get a job.
+- What do you hope to gain `from` the course?
 - So who will gain from the venture?
 
 ## 674. gain ## verb
 /geɪn/ INCREASE
 [B1]to increase in something such as size, weight, or amount
-- He's gained a lot of weight in the last few months.
-- The car gained speed going down the hill.
+- He's gained a lot of `weight` in the last few months.
+- The car gained `speed` going down the hill.
 
 ## 675. get ## verb
 /get/ get cancer/flu, etc.
@@ -4414,7 +4414,7 @@
 /get/ get worse
 [B1]to become more ill, unpleasant, difficult, severe, etc. than before
 - My cold seems to be getting worse.
-- If the rain gets any worse, we'll have to stop walking.
+- If the rain gets `any` worse, we'll have to stop walking.
 
 ## 678. get ## verb
 /get/ get caught/killed/told off, etc.
@@ -4570,8 +4570,8 @@
 ## 705. go ## verb
 /goʊ/ MATCH
 [B1]If two things go, they match each other.
-- That top doesn't go with these pants.
-- This jacket and skirt don't go together do they?
+- That top doesn't go `with` these pants.
+- This jacket and skirt don't go `together` do they?
 
 ## 706. go ## verb
 /goʊ/ go bald/blind/gray, etc.
@@ -4581,7 +4581,7 @@
 ## 707. go ## verb
 /goʊ/ LEAD
 [B1]If a road, path, etc. goes in a particular direction, it leads there.
-- This road goes north to Vermont.
+- This road goes north `to` Vermont.
 
 ## 708. go ## verb
 /goʊ/ to go
@@ -4601,8 +4601,8 @@
 ## 711. go ## verb
 /goʊ/ 
 [B1]to return to a place where you were or where you have been before
-- When are you going back to Paris?
-- It had started to rain so I went back for my keys.
+- When are you going back `to` Paris?
+- It had started to rain so I went back `for` my keys.
 - Is she well enough to go back to work?
 
 ## 712. go ## verb
@@ -4635,12 +4635,12 @@
 ## 717. go ## verb
 /goʊ/ HAPPEN
 [B1]to happen
-- Why aren't they here yet? What's going on?
+- Why aren't they here yet? `What's` going on?
 
 ## 718. go ## verb
 /goʊ/ RELATIONSHIP
 [B1]If two people go out together, they have a romantic relationship with each other.
-- I've been going out with Peter for a year.
+- I've been going out `with` Peter for a year.
 - Dan and I have been going out for over two years now.
 
 ## 719. go ## verb
@@ -4693,7 +4693,7 @@
 /hænd/ GIVE
 [B1]to give someone something
 - She handed him the letter.
-- He handed the car keys to her.
+- He handed the car keys `to` her.
 - Could you hand me that book, please?
 
 ## 729. hand ## verb [T]
@@ -4710,16 +4710,16 @@
 ## 731. handle ## verb [T]
 /ˈhæn.dəl/ DEAL WITH
 [B1]to deal with something
-- I thought he handled the problem/situation very well.
+- I thought he handled the `problem/situation` very well.
 - If you can't handle the job I'll get someone else to do it.
 - Who handles the marketing in your company?
 
 ## 732. hang ## verb
 /hæŋ/ FASTEN
 [B1]to fasten or support something at the top leaving the other parts free to move, or to be held in this way
-- A heavy gold necklace hung around her neck.
-- Hang your coat and hat on the rack over there.
-- The curtains hung in thick folds.
+- A heavy gold necklace hung `around` her neck.
+- Hang your coat and hat `on` the rack over there.
+- The curtains hung `in` thick folds.
 
 ## 733. hang ## verb
 /hæŋ/ 
@@ -4736,8 +4736,8 @@
 ## 735. hang ## verb
 /hæŋ/ 
 [B1]to spend a lot of time in a place or with someone
-- We like hanging out at the mall.
-- I've been hanging out backstage with the band.
+- We like hanging out `at` the mall.
+- I've been hanging out backstage `with` the band.
 
 ## 736. hang ## verb
 /hæŋ/ 
@@ -4771,7 +4771,7 @@
 ## 741. have ## verb [T]
 /hæv/ CAUSE
 [B1]to cause something to be in a particular state
-- He had dinner ready by the time we got home.
+- He had dinner `ready` by the time we got home.
 - We had the tent up within ten minutes.
 
 ## 742. have ## verb [T]
@@ -4796,8 +4796,8 @@
 [B1]to be told some information
 - Have you heard the news?
 - If you haven't heard by Friday, assume I'm not coming.
-- Have you heard about what happened?
-- I hear (that) you're leaving.
+- Have you heard `about` what happened?
+- I hear `(that)` you're leaving.
 
 ## 746. hear ## verb
 /hɪr/ 
@@ -4833,7 +4833,7 @@
 /hɑɪd/ FEELING/INFORMATION
 [B1]to keep a feeling or information secret
 - He couldn't hide his embarrassment.
-- There's something about her past that she's trying to hide from me.
+- There's something about her past that she's trying to hide `from` me.
 
 ## 752. hit ## verb [T]
 /hɪt/ TOUCH
@@ -4855,7 +4855,7 @@
 ## 755. hold ## verb [T]
 /hoʊld/ ORGANIZE
 [B1]to organize an event
-- to hold talks/an election
+- to hold `talks/an election`
 - A music festival is held there in July.
 
 ## 756. hold ## verb [T]
@@ -4884,8 +4884,8 @@
 /hʌg/ 
 [B1]to put your arms around someone and hold them tightly, usually because you love or like them
 - They hugged each other when they met at the station.
-- Emily hugged her teddy bear tightly to her chest.
-- She sat on the floor hugging her knees.
+- Emily hugged her teddy bear `tightly` to her chest.
+- She sat on the floor hugging her `knees`.
 
 ## 761. hunt ## verb [I or T]
 /hʌnt/ CHASE
@@ -4903,57 +4903,57 @@
 [B1]to cause emotional pain to someone
 - She called me stupid and fat, and that really hurt.
 - He was badly hurt by the end of his marriage.
-- I didn't mean to hurt your feelings.
+- I didn't mean to hurt your `feelings`.
 
 ## 764. imagine ## verb [T]
 /ɪˈmædʒ.ən/ FORM PICTURE
 [B1]to form an idea or picture of something in your mind
 - Imagine Bob when he was young - that's what John looks like.
-- Imagine (that) you're eating an ice cream - try to feel how cold it is.
+- Imagine `(that)` you're eating an ice cream - try to feel how cold it is.
 - She imagined herself sitting in her favorite armchair back home.
 
 ## 765. imagine ## verb [T]
 /ɪˈmædʒ.ən/ FORM IDEA
 [B1]to have an idea of what something is like or might be like
-- Imagine how it feels to be away from home for the first time.
+- Imagine `how` it feels to be away from home for the first time.
 - I can't imagine going anywhere in this rain.
 
 ## 766. imagine ## verb [T]
 /ɪˈmædʒ.ən/ THINK
 [B1]to think that you hear or see something that does not really exist
-- Did you hear a noise? "No, you're imagining things."
+- Did you hear a noise? "No, you're imagining `things`."
 - I don't hear anything - you must be imagining it.
 
 ## 767. increase ## verb [I or T]
  
 [B1]to get bigger or to make something bigger in amount or size
 - Sales of laptops have increased over the last few years.
-- The cost of the project has increased dramatically/significantly since it began.
-- Gradually increase the temperature to the boiling point.
+- The cost of the project has increased `dramatically/significantly` since it began.
+- Gradually increase the temperature `to` the boiling point.
 
 ## 768. inform ## verb [T]
 /ɪnˈfɔːrm/ TELL
 [B1]to tell someone about something
 - If he calls me again, I shall inform the police.
-- I informed my boss that I was going to be away next week.
+- I informed my boss `that` I was going to be away next week.
 
 ## 769. inform ## verb [T]
 /ɪnˈfɔːrm/ GIVE INFORMATION
 [B1]to give someone information about something
-- Patients should be informed about the risks.
+- Patients should be informed `about` the risks.
 
 ## 770. injure ## verb [T]
 /ˈɪn.dʒər/ 
 [B1]to hurt a person, animal or part of your body
 - A bomb exploded at the embassy, injuring several people.
 - She fell and injured her shoulder.
-- He was badly/seriously injured in the crash.
+- He was `badly/seriously` injured in the crash.
 
 ## 771. insist ## verb [I]
 /ɪnˈsɪst/ DEMAND
 [B1]to demand that something must be done or that you must have a particular thing
 - He insists we leave at 8:30.
-- She insisted on seeing her lawyer.
+- She insisted `on` seeing her lawyer.
 - Please go first - I insist!
 
 ## 772. install ## verb [T]
@@ -4969,10 +4969,10 @@
 ## 774. intend ## verb [T]
 /ɪnˈtend/ HAVE PLAN
 [B1]to have as a plan or purpose
-- We intend to go to Australia next year.
+- We intend `to` go to Australia next year.
 - Somehow I offended him, which wasn't what I'd intended.
-- I don't think she intended me to hear the remark.
-- It was intended as a compliment, honestly!
+- I don't think she intended me `to` hear the remark.
+- It was intended `as` a compliment, honestly!
 
 ## 775. interest ## verb [T]
 /ˈɪn.trəst/ 
@@ -4995,7 +4995,7 @@
 /ˌɪn.trəˈduːs/ MEETING PEOPLE
 [B1]to tell someone another person's name the first time that they meet
 - I'd like to introduce my younger son, Mark.
-- Have you two been introduced (to each other)?
+- Have you two been introduced (`to` each other)?
 
 ## 779. invent ## verb [T]
 /ɪnˈvent/ NEW DESIGN
@@ -5013,7 +5013,7 @@
 /ɪnˈvɑlv/ AFFECT/INCLUDE
 [B1]to affect or include someone or something in an activity
 - The second accident involved two cars and a truck.
-- It would be difficult not to involve the child's father in the arrangements.
+- It would be difficult not to involve the child's father `in` the arrangements.
 
 ## 782. iron ## verb [I or T]
 /ˈɑɪ.ərn/ 
@@ -5029,8 +5029,8 @@
 /dʒɔɪn/ CONNECT
 [B1]to fasten or connect things together
 - A bridge joins the two islands.
-- Join the two pieces together using a strong glue.
-- The island is joined to the mainland by a bridge.
+- Join the two pieces `together` using a strong glue.
+- The island is joined `to` the mainland by a bridge.
 
 ## 785. join ## verb
 /dʒɔɪn/ MEET
@@ -5042,27 +5042,27 @@
 /dʒɔɪn/ 
 [B1]to become involved in an activity with other people
 - We only need one more person to be able to play a game - can you persuade your sister to join in?
-- If you know the song, we'd like everyone to join in on the chorus.
+- If you know the song, we'd like everyone to join in `on` the chorus.
 
 ## 787. joke ## verb [I]
 /dʒoʊk/ 
 [B1]to say funny things, or not be serious
 - They joked and laughed as they looked at the photos.
-- It's more serious than you think, so please don't joke about it.
+- It's more serious than you think, so please don't joke `about` it.
 
 ## 788. judge ## verb
 /dʒʌdʒ/ DEVELOP OPINION
 [B1]to have or develop an opinion about something or someone, especially after thinking carefully
 - So far, he seems to be handling the job well, but it's really too soon to judge.
 - It's difficult to judge whether the new system really is an improvement.
-- The meeting was judged to have been a success.
-- I'm hopeless at judging distance(s).
+- The meeting was judged `to` have been a success.
+- I'm hopeless at judging `distance(s)`.
 
 ## 789. jump ## verb
 /dʒʌmp/ jump in/into/up, etc.
 [B1]to move or act suddenly or quickly
 - She jumped in/into a taxi and rushed to the station.
-- He suddenly jumped to his feet/jumped up and left.
+- He suddenly jumped `to his feet`/jumped up and left.
 
 ## 790. keep ## verb
 /kiːp/ keep doing sth
@@ -5080,7 +5080,7 @@
 [B1]to delay someone or prevent them from doing something
 - He's very late, what's keeping him?
 - She kept me talking on the phone for half an hour.
-- Don't let me keep you from your work.
+- Don't let me keep you `from` your work.
 
 ## 793. keep ## verb
 /kiːp/ keep a/sth secret
@@ -5095,7 +5095,7 @@
 ## 795. keep ## verb
 /kiːp/ 
 [B1]to not go onto an area, or to stop someone or something going onto an area
-- Keep off the grass.
+- Keep off `the grass`.
 
 ## 796. keep ## verb
 /kiːp/ 
@@ -5110,13 +5110,13 @@
 ## 798. keep ## verb
 /kiːp/ 
 [B1]to continue doing something or not allow it to fall to a lower level
-- Keep up the good work.
-- Make sure you eat - you've got to keep your strength up.
+- Keep up `the good work`.
+- Make sure you eat - you've got to keep your `strength` up.
 
 ## 799. kid ## verb [I or T]
 /kɪd/ 
 [B1]to say something as a joke
-- You're just kidding me, aren't you?
+- You're `just` kidding me, aren't you?
 
 ## 800. kid ## verb [I or T]
 /kɪd/ Are you kidding?/You're kidding!
@@ -5128,21 +5128,21 @@
 [B1]to make clothes, etc. by using two long needles to connect wool or another type of thread into joined rows
 - She's forever knitting.
 - She's busy knitting baby clothes.
-- My granny knitted me some gloves/knitted some gloves for me.
+- My granny knitted me some gloves/knitted some gloves `for` me.
 
 ## 802. knock ## verb
 /nɑk/ MAKE NOISE
 [B1]to repeatedly hit something, making a noise
-- She knocked on the window to attract his attention.
-- There's someone knocking on/at the door.
+- She knocked `on` the window to attract his attention.
+- There's someone knocking `on/at` the door.
 - Please knock before entering.
 
 ## 803. knock ## verb
 /nɑk/ HIT
 [B1]to hit, especially forcefully, and cause to move or fall
-- He accidentally knocked the vase off the table.
-- She knocked her head against the wall as she fell.
-- She took a hammer and knocked a hole in the wall.
+- He accidentally knocked the vase `off` the table.
+- She knocked her head `against` the wall as she fell.
+- She took a hammer and knocked `a hole in` the wall.
 
 ## 804. knock ## verb
 /nɑk/ 
@@ -5161,14 +5161,14 @@
 [B1]to be familiar with or have experience and understanding of
 - I've known Daniel since we were in school together.
 - She grew up in Paris so she knows it well.
-- I've seen the film "Casablanca" so many times that I know a lot of it by heart.
+- I've seen the film "Casablanca" so many times that I know a lot of it `by heart`.
 - Knowing Sarah, she'll do a good job.
 
 ## 807. know ## verb
 /noʊ/ UNDERSTAND A SUBJECT
 [B1]If you know a subject, you are familiar with it and understand it.
-- Do you know about computers?
-- She knows her subject inside out.
+- Do you know `about` computers?
+- She knows her subject `inside out`.
 
 ## 808. know ## verb
 /noʊ/ get to know sb/sth
@@ -5189,16 +5189,16 @@
 ## 811. land ## verb
 /lænd/ ARRIVE
 [B1]to arrive at a place in a plane or a boat, or to make a plane or a boat reach the land
-- We should land in Madrid at 7:00 a.m.
-- The pilot said we would land in about 20 minutes.
-- We’d been sailing for three weeks by the time we landed at Miami.
+- We should land `in` Madrid at 7:00 a.m.
+- The pilot said we would land `in` about 20 minutes.
+- We’d been sailing for three weeks by the time we landed `at` Miami.
 - We landed at Port Said in the early evening.
 
 ## 812. last ## verb [I ]
 /læst/ CONTINUE
 [B1]to continue to happen, exist, or be useful
 - How long will the meeting last?
-- We don't get much sun - enjoy it while it lasts!
+- We don't get much sun - `enjoy it while it` lasts!
 - Most sessions last about an hour.
 - The batteries only last about five hours.
 
@@ -5222,14 +5222,14 @@
 /lɜrn/ REMEMBER
 [B1]to make yourself remember a piece of writing by reading it or repeating it many times
 - I don't know how actors manage to learn all their lines.
-- We were told to learn Portia's speech by heart for homework.
+- We were told to learn Portia's speech `by heart` for homework.
 
 ## 816. learn ## verb
 /lɜrn/ BE TOLD INFORMATION
 [B1]to be told facts or information that you did not know
-- Parents learned of the schedule change in a letter from the teacher.
-- I later learned (that) the message had never arrived.
-- I only learned about the accident later.
+- Parents learned `of` the schedule change in a letter from the teacher.
+- I later learned `(that)` the message had never arrived.
+- I only learned `about` the accident later.
 
 ## 817. leave ## verb
 /liːv/ END RELATIONSHIP
@@ -5268,16 +5268,16 @@
 ## 822. lie ## verb [I]
 /lɑɪ/ 
 [B1]to say or write something which is not true in order to deceive someone
-- Are you lying to me?
+- Are you lying `to` me?
 - Don't trust her - she's lying.
-- I suspect he lies about his age.
+- I suspect he lies `about` his age.
 
 ## 823. lift ## verb [T]
 /lɪft/ 
 [B1]to move something from a lower to a higher position
 - Could you help me lift this table, please?
 - Could you lift your chair a bit - I've got my bag caught under it.
-- She lifted the cup (up)to her lips.
+- She lifted the cup `(up)``to` her lips.
 
 ## 824. light ## verb
 /lɑɪt/ START FLAMES
@@ -5296,15 +5296,15 @@
 [B1]to spend your life in a particular way
 - After a while you get used to living alone.
 - When you retire, you want to live a comfortable life.
-- On his income, they can afford to live well.
-- They lived happily ever after.
-- She certainly lived her life to the full.
+- On his income, they can afford to live `well`.
+- They lived `happily ever after`.
+- She certainly lived her life `to the full`.
 
 ## 827. live ## verb
  BE ALIVE
 [B1]to be alive
 - He only lived a few days after the accident.
-- Her grandmother lived to the ripe old age of 94.
+- Her grandmother lived `to` the ripe old age of 94.
 - This oak tree has been living for over 200 years.
 - Boccaccio lived in the 14th century.
 
@@ -5350,7 +5350,7 @@
 ## 835. look ## verb
 /lʊk/ 
 [B1]to try to find a piece of information by looking in a book or on a computer
-- If you don't know what the word means, look it up in a dictionary.
+- If you don't know what the word means, look it up `in` a dictionary.
 
 ## 836. lose ## verb
 /luːz/ NOT HAVE
@@ -5364,24 +5364,24 @@
 [B1]to fail to succeed in a game, competition, etc.
 - If we lose this game, we're out of the championship.
 - They're losing 3-1.
-- They lost to the Blue Jays.
+- They lost `to` the Blue Jays.
 - Everyone hates losing an argument.
 - They hadn't lost an election in fifteen years.
 
 ## 838. lose ## verb
 /luːz/ HAVE LESS
 [B1]to have less of something than you had before
-- I'm trying to lose weight.
+- I'm trying to lose `weight`.
 - He's losing his hair.
 - She lost a lot of blood in the accident.
-- to lose your memory/sight
+- to lose your `memory/sight`
 
 ## 839. mail ## verb [T]
 /meɪl/ 
 [B1]to send a letter or package by mail
-- Did you remember to mail me that letter / to mail that letter to me?
-- Please sign the form and mail it to the address below.
-- I have to get to the post office and mail (off) this package.
+- Did you remember `to` mail me that letter / `to` mail that letter `to` me?
+- Please sign the form and mail `it to` the address below.
+- I have to get to the post office and mail `(off)` this package.
 
 ## 840. make ## verb [T]
 /meɪk/ CAUSE
@@ -5401,14 +5401,14 @@
 ## 842. make ## verb [T]
 /meɪk/ make up your mind or make your mind up
 [B1]to make a decision
-- I haven't made up my mind whether to apply for the job yet.
-- They couldn't make their minds up about where to go on holiday.
+- I haven't made up my mind `whether` to apply for the job yet.
+- They couldn't make their minds up `about` where to go on holiday.
 
 ## 843. make ## verb [T]
 /meɪk/ ARRIVE
 [B1]to manage to arrive at a place
 - I'm afraid I can't make the meeting this afternoon.
-- She made it to the airport just in time to catch her plane.
+- She made `it` to the airport just in time to catch her plane.
 
 ## 844. make ## verb [T]
 /meɪk/ make a face
@@ -5424,9 +5424,9 @@
 ## 846. manage ## verb
 /ˈmæn.ɪdʒ/ SUCCEED
 [B1]to do something or deal with something successfully
-- Did you manage to get any bread?
-- Anyway, we managed to get there on time.
-- I only just managed to finish on time.
+- Did you manage `to` get any bread?
+- Anyway, we managed `to` get there on time.
+- I `only just` managed to finish on time.
 - Will you be able to manage without me?
 - I can't manage all this work on my own.
 - Don't worry about us - we'll manage!
@@ -5473,15 +5473,15 @@
 ## 853. mean ## verb [T]
 /miːn/ EXPRESS
 [B1]to intend to express a fact or opinion
-- I didn't mean that as a criticism.
+- I didn't mean that `as` a criticism.
 - That's what I meant when I said he's been acting oddly.
-- What exactly do you mean by "old-fashioned"?
+- What exactly do you mean `by` "old-fashioned"?
 
 ## 854. mean ## verb [T]
 /miːn/ HAVE IMPORTANCE
 [B1]to have an important emotional effect on someone
-- It wasn't a valuable picture but it meant a lot to me.
-- Possessions mean nothing to him.
+- It wasn't a valuable picture but it meant `a lot to` me.
+- Possessions mean `nothing to` him.
 
 ## 855. mean ## verb [T]
 /miːn/ INTEND
@@ -5499,7 +5499,7 @@
 [B1]to have or need a particular result
 - Lower costs mean lower prices.
 - These changes will mean better health care for everyone.
-- Advances in electronics mean that the technology is already available.
+- Advances in electronics mean `that` the technology is already available.
 - If we want to catch the 7:30 train, that will mean leaving the house at 6:00.
 
 ## 858. meet ## verb
@@ -5517,9 +5517,9 @@
 /ˈmen.tʃən/ 
 [B1]to briefly speak or write about something or someone
 - She didn't mention her daughter.
-- I'll mention your ideas to Jacinta.
-- He casually mentioned that he was leaving his job.
-- Did she happen to mention whether she would be coming?
+- I'll mention your ideas `to` Jacinta.
+- He casually mentioned `that` he was leaving his job.
+- Did she happen to mention `whether` she would be coming?
 
 ## 861. might ## modal verb
 /mɑɪt/ POSSIBLY TRUE
@@ -5557,7 +5557,7 @@
 [B1]to not see or hear something
 - Sorry, I missed that, could you repeat it please?
 - We missed the first five minutes of the movie.
-- My office is first on the right with a bright red door. You can't miss it.
+- My office is first on the right with a bright red door. You `can't` miss `it`.
 
 ## 867. mix ## verb
 /mɪks/ COMBINE QUALITIES/ACTIVITIES
@@ -5568,13 +5568,13 @@
 /muːv/ CHANGE PLACE
 [B1]If a person or an organization moves, they go to a different place to live or work.
 - We're thinking of moving - perhaps to the country.
-- We're moving to Paris.
-- A lot of businesses are moving out of London because it's too expensive.
+- We're moving `to` Paris.
+- A lot of businesses are moving `out of` London because it's too expensive.
 
 ## 869. move ## verb
 /muːv/ 
 [B1]to begin living in a new home
-- She's just moved in with some friends.
+- She's just moved in `with` some friends.
 
 ## 870. move ## verb
 /muːv/ 
@@ -5585,7 +5585,7 @@
 /ˈmɜrd.ər/ 
 [B1]to kill someone intentionally and illegally
 - He was murdered by a former employee.
-- She was accused/found guilty of murdering her husband.
+- She was `accused/found guilty` of murdering her husband.
 
 ## 872. name ## verb [T]
 /neɪm/ GIVE NAME
@@ -5610,16 +5610,16 @@
 /noʊt/ 
 [B1]to notice something
 - They noted the consumers' growing demand for quicker service.
-- Please note (that) we will be closed on Saturday.
-- Note how easy it is to release the catch quickly.
+- Please note `(that)` we will be closed on Saturday.
+- Note `how` easy it is to release the catch quickly.
 
 ## 876. notice ## verb [I or T]
 /ˈnoʊt̬.ɪs/ 
 [B1]to see something and be aware of it
 - I noticed a crack in the ceiling.
 - Mary waved at the man but he didn't seem to notice.
-- He noticed (that) the woman was staring at him.
-- Did you notice how she did that?
+- He noticed `(that)` the woman was staring at him.
+- Did you notice `how` she did that?
 
 ## 877. offer ## verb
 /ˈɔː.fər/ ASK
@@ -5632,8 +5632,8 @@
 ## 878. offer ## verb
 /ˈɔː.fər/ PROVIDE
 [B1]to give or provide something
-- to offer advice
-- We are now offering you the chance/opportunity to buy the complete set of DVDs at half price.
+- to offer `advice`
+- We are now offering you the `chance/opportunity` to buy the complete set of DVDs at half price.
 - Did he offer any explanation for his strange behavior?
 
 ## 879. open ## verb
@@ -5644,14 +5644,14 @@
 ## 880. operate ## verb
 /ˈɑp.əˌreɪt/ TREATMENT
 [B1]to treat an illness or injury by cutting someone's body and removing or repairing part of it
-- Did they have to operate on him?
+- Did they have to operate `on` him?
 
 ## 881. organize ## verb [T]
 /ˈɔːr.gəˌnɑɪz/ PLAN
 [B1]to plan or arrange something
 - He organized the whole event.
 - They organized a meeting between the teachers and students.
-- She had organized a car to meet me at the airport.
+- She had organized a car `to` meet me at the airport.
 
 ## 882. ought to ## modal verb
 /ɔːt.tuː/ BEST THING
@@ -5689,7 +5689,7 @@
 /pæs/ GIVE
 [B1]to give something to someone
 - Could you pass the salt, please?
-- Gerald passed me a note./Gerald passed a note to me.
+- Gerald passed me a note./Gerald passed a note `to` me.
 
 ## 888. pass ## verb
 /pæs/ TIME
@@ -5700,24 +5700,24 @@
 ## 889. pass ## verb
 /pæs/ TELL
 [B1]to tell someone something that another person has told you
-- Will you pass the message on to Edward?
+- Will you pass the message on `to` Edward?
 
 ## 890. pass ## verb
 /pæs/ GIVE
 [B1]to give something to someone else
-- Could you pass the book on to Lara when you finished with it?
+- Could you pass the book on `to` Lara when you finished with it?
 
 ## 891. pause ## verb
 /pɔːz/ PERSON
 [B1]to stop doing something for a short time
-- He paused for a moment.
+- He paused `for` a moment.
 - She paused to catch her breath back and hurried away.
 
 ## 892. pay ## verb
 /peɪ/ WORK
 [B1]to give someone money for the work that they do
-- She gets paid twice a month.
-- Accounting may be boring but at least it pays well.
+- She `gets` paid twice a month.
+- Accounting may be boring but at least it pays `well`.
 - Most of these women are very poorly paid and work in terrible conditions.
 
 ## 893. pay ## verb
@@ -5739,24 +5739,24 @@
 ## 896. permit ## verb
  
 [B1]to allow something
-- Photography is not permitted inside the museum.
+- Photography is `not` permitted inside the museum.
 - The prison authorities permit visiting only once a month.
-- The security system will not permit you to enter without the correct password.
+- The security system will not permit you `to` enter without the correct password.
 
 ## 897. persuade ## verb [T]
 /pərˈsweɪd/ MAKE SOMEONE AGREE
 [B1]to make someone agree to do something by talking to them a lot about it
 - If she doesn't want to go, nothing you can say will persuade her.
-- I persuaded her (that) it was the right thing to do.
-- He is trying to persuade local and foreign businesses to invest in the project.
+- I persuaded her `(that)` it was the right thing to do.
+- He is trying to persuade local and foreign businesses `to` invest in the project.
 - Using a bunch of bananas, the zoo-keeper persuaded the monkey back into its cage.
 
 ## 898. pick ## verb [T]
 /pɪk/ CHOOSE
 [B1]to choose something or someone
 - Pick a card from the box to send to your sister.
-- She was picked for the Olympic team.
-- She was picked to play for the team.
+- She was picked `for` the Olympic team.
+- She was picked `to` play for the team.
 
 ## 899. pick ## verb [T]
 /pɪk/ FLOWERS/FRUIT
@@ -5767,19 +5767,19 @@
 ## 900. pin ## verb [T]
 /pɪn/ 
 [B1]to fasten something with a pin
-- You can pin the notice to/(up) on the bulletin board.
+- You can pin the notice `to/(up) on` the bulletin board.
 
 ## 901. plan ## verb
 /plæn/ DECIDE
 [B1]to think about and decide what you are going to do or how you are going to do something
 - She helped them plan their route.
 - If we plan carefully, we should be able to stay within our budget.
-- She's already planning how to spend her prize money.
+- She's already planning `how` to spend her prize money.
 
 ## 902. plant ## verb [T]
 /plænt/ TREES/FLOWERS, ETC.
 [B1]to put a plant into the ground or into a container of earth so that it will grow
-- We planted trees and bushes in our new garden.
+- We planted trees and bushes `in` our new garden.
 - Hyacinth bulbs planted in pots now will bloom early in the spring.
 
 ## 903. play ## verb
@@ -5797,18 +5797,18 @@
 /pliːz/ MAKE HAPPY
 [B1]to make someone feel happy
 - I only got married to please my parents.
-- He was always a good boy, very friendly and eager to please.
+- He was always a good boy, very friendly and `eager` to please.
 
 ## 906. point ## verb
 /pɔɪnt/ AIM
 [B1]to hold something so that it faces toward someone or something
-- He said that the man had pointed a knife at him.
+- He said that the man had pointed a knife `at` him.
 
 ## 907. point ## verb
 /pɔɪnt/ DIRECTION
 [B1]If something points in a particular direction, it is turned toward that direction.
 - The street sign points left.
-- There was an arrow pointing to the door.
+- There was an arrow pointing `to` the door.
 
 ## 908. post ## verb [T]
 /poʊst/ WEB SITE
@@ -5818,14 +5818,14 @@
 ## 909. postpone ## verb [T]
 /poʊstˈpoʊn/ 
 [B1]to arrange for something to happen at a later time
-- They decided to postpone their trip to Mexico until next year.
+- They decided to postpone their trip to Mexico `until` next year.
 - We had to postpone visiting my sister because our children were sick.
 
 ## 910. pour ## verb
 /pɔːr/ LIQUID
 [B1]to make a liquid flow from or into a container
-- I poured the milk into the glasses.
-- Can I pour you a cup of coffee?
+- I poured the milk `into` the glasses.
+- Can I pour you `a cup of` coffee?
 
 ## 911. pour ## verb
 /pɔːr/ RAIN
@@ -5835,23 +5835,23 @@
 ## 912. predict ## verb [T]
 /prɪˈdɪkt/ 
 [B1]to say that an event or action will happen in the future, especially as a result of knowledge or experience
-- It's still not possible to accurately predict when an earthquake will occur.
-- Who could have predicted that within ten years he'd be in charge of the whole company?
-- The hurricane is predicted to reach the coast tomorrow morning.
-- No one can predict when/where the disease will strike next.
+- It's still not possible to `accurately` predict when an earthquake will occur.
+- Who could have predicted `that` within ten years he'd be in charge of the whole company?
+- The hurricane is predicted `to` reach the coast tomorrow morning.
+- No one can predict `when/where` the disease will strike next.
 
 ## 913. press ## verb
 /pres/ PUSH
 [B1]to push something firmly, often without causing it to move permanently further away from you
 - Press the button to start the machine.
 - He pressed his face against the window.
-- Press down hard on the pedal.
+- Press `down` hard on the pedal.
 
 ## 914. prevent ## verb [T]
 /prɪˈvent/ 
 [B1]to stop something from happening or someone from doing something
-- to prevent accidents/crime
-- Members of the public were prevented from entering the building.
+- to prevent `accidents/crime`
+- Members of the public were prevented `from` entering the building.
 
 ## 915. produce ## verb [T]
 /prəˈduːs/ MAKE
@@ -5864,9 +5864,9 @@
 ## 916. promise ## verb
 /ˈprɑm.əs/ SAY
 [B1]to say that you will certainly do something or that something will certainly happen
-- She promised to write to me every week.
-- He promised faithfully to call me every week.
-- Paul promised me that he'd cook dinner tonight.
+- She promised `to` write to me every week.
+- He promised `faithfully` to call me every week.
+- Paul promised me `that` he'd cook dinner tonight.
 - "I'll come by and see you every day," she promised.
 
 ## 917. promise ## verb
@@ -5880,7 +5880,7 @@
 /prəˈmoʊt/ JOB
 [B1]to give someone a more important job in the same organization
 - If I'm not promoted within the next two years, I'm going to change jobs.
-- She's just been promoted to senior sales rep.
+- She's just been promoted `to` senior sales rep.
 
 ## 919. pronounce ## verb [T]
 /prəˈnɑʊns/ 
@@ -5892,22 +5892,22 @@
 ## 920. protect ## verb [I or T]
 /prəˈtekt/ 
 [B1]to keep someone or something safe from something dangerous or bad
-- clothing that protects you against the cold
-- It's important to protect your skin from the harmful effects of the sun.
+- clothing that protects you `against` the cold
+- It's important to protect your skin `from` the harmful effects of the sun.
 - Public pressure to protect the environment is strong and growing.
 
 ## 921. prove ## verb [T]
 /pruːv/ SHOW TRUTH
 [B1]to show that something is true
-- Can you prove that you weren't there?
-- They proved his innocence.
+- Can you prove `that` you weren't there?
+- They proved his `innocence`.
 - That theory was never proven.
 - He's always trying to prove something.
 
 ## 922. provide ## verb [T]
 /prəˈvɑɪd/ 
 [B1]to give someone something that they need
-- This brochure provides useful information about/on the new health insurance plans.
+- This brochure provides useful `information about/on` the new health insurance plans.
 - Coffee and tea are provided during the break.
 
 ## 923. publish ## verb [T often passive]
@@ -5929,15 +5929,15 @@
 /ˈpʌn.ɪʃ/ 
 [B1]to make someone suffer because they have done something bad
 - Those responsible for these crimes must be brought to court and punished.
-- He punished the class by giving them extra work.
+- He punished the class `by` giving them extra work.
 
 ## 926. push ## verb
 /pʊʃ/ MOVE YOURSELF
 [B1]to move somewhere by moving someone or something away from you
 - Please, no pushing! There's plenty of room on the bus for everyone.
-- She pushed through the crowd.
-- He pushed past the waiting journalists, refusing to speak to them.
-- They pushed their way to the front of the line.
+- She pushed `through` the crowd.
+- He pushed `past` the waiting journalists, refusing to speak to them.
+- They pushed `their way` to the front of the line.
 
 ## 927. push ## verb
 /pʊʃ/ PRESS
@@ -5984,7 +5984,7 @@
 ## 935. put ## verb [T]
 /pʊt/ 
 [B1]to connect someone using a telephone to the person they want to speak to
-- Can you put me through to customer service, please?
+- Can you put me through `to` customer service, please?
 
 ## 936. put ## verb [T]
 /pʊt/ RAISE
@@ -6002,7 +6002,7 @@
 /kwɪt/ STOP WORK
 [B1]to leave a job
 - I hated the work so much that I quit.
-- Would you quit your job if you inherited lots of money?
+- Would you quit your `job` if you inherited lots of money?
 
 ## 939. quit ## verb
 /kwɪt/ STOP SOMETHING
@@ -6015,20 +6015,20 @@
 /reɪs/ 
 [B1]to compete in a race
 - He has been racing for over ten years.
-- I used to race against him in college.
+- I used to race `against` him in college.
 
 ## 941. raise ## verb [T]
 /reɪz/ LIFT
 [B1]to lift something to a higher position
-- Would all those in favor please raise their hands?
+- Would all those in favor please raise their `hands`?
 - She raised the cup and took a sip.
 
 ## 942. raise ## verb [T]
 /reɪz/ INCREASE
 [B1]to increase an amount or level
-- The city council plans to raise taxes.
-- They've certainly raised standards at the school.
-- One solution would be to raise prices.
+- The city council plans to raise `taxes`.
+- They've certainly raised `standards` at the school.
+- One solution would be to raise `prices`.
 
 ## 943. reach ## verb
 /riːtʃ/ ARRIVE
@@ -6039,10 +6039,10 @@
 ## 944. realize ## verb [I or T]
 /ˈriː.əˌlɑɪz/ 
 [B1]to notice or understand something that you did not notice or understand before
-- I didn't realize how unhappy she was.
-- I suddenly realized I'd met her before.
+- I didn't realize `how` unhappy she was.
+- I `suddenly` realized I'd met her before.
 - They didn't realize the danger they were in.
-- Do you realize that this is the third time you've forgotten?
+- Do you realize `that` this is the third time you've forgotten?
 
 ## 945. rebuild ## verb [T]
 /riːˈbɪld/ BUILD AGAIN
@@ -6061,13 +6061,13 @@
 /ˌrek.əˈmend/ SUITABLE
 [B1]to say that someone or something is good or suitable for a particular purpose
 - Can you recommend a good hotel?
-- Peter had recommended a restaurant to us.
+- Peter had recommended a restaurant `to` us.
 
 ## 948. recover ## verb [I]
 /rəˈkʌv.ər/ HEALTH
 [B1]to become healthy or happy again after an illness, injury, or period of sadness
-- It took a long time to recover after my knee surgery.
-- She never recovered from the death of her husband.
+- It took a long time to recover `after` my knee surgery.
+- She never recovered `from` the death of her husband.
 
 ## 949. recycle ## verb [I or T]
 /riːˈsɑɪ.kəl/ 
@@ -6079,14 +6079,14 @@
 /rɪˈduːs/ 
 [B1]to make something less
 - to reduce air pollution
-- Prices have been reduced by almost 50 percent.
-- The number of employees was reduced from 500 to 300.
-- Do nuclear weapons really reduce the risk of war?
+- Prices have been reduced `by` almost 50 percent.
+- The number of employees was reduced `from` 500 `to` 300.
+- Do nuclear weapons really reduce the `risk` of war?
 
 ## 951. refuse ## verb [I or T]
 /rɪˈfjuːz/ 
 [B1]to say that you will not do or accept something
-- Cathy refuses to walk instead of riding her bike to school.
+- Cathy refuses `to` walk instead of riding her bike to school.
 - We were refused admission to the movie.
 - She asked me to lend her some money, but I refused.
 - He's in trouble, but he refused all my offers of help.
@@ -6094,23 +6094,23 @@
 ## 952. register ## verb [I or T]
 /ˈredʒ.ə.stər/ 
 [B1]to put information about someone or something, especially a name, on an official list
-- Please register with the conference organizers when you arrive.
-- Students have to register for summer classes by the end of April.
+- Please register `with` the conference organizers when you arrive.
+- Students have to register `for` summer classes by the end of April.
 - I registered the car in my name.
 
 ## 953. regret ## verb [T]
 /rɪˈgret/ BAD DECISION
 [B1]to feel sorry about a situation, especially something that you wish you had not done
 - He regretted his decision to leave school.
-- I'm beginning to regret that I didn't pay more attention in class.
-- I ate all the corn chips and now I regret it!
+- I'm beginning to regret `that` I didn't pay more attention in class.
+- I ate all the corn chips and now I regret `it`!
 - It was a decision that he later regretted.
 
 ## 954. relax ## verb [I or T]
 /rɪˈlæks/ BECOME HAPPY
 [B1]to become happy and comfortable because nothing is worrying you, or to make someone do this
 - I find it difficult to relax.
-- After work I relax with a cup of tea and the newspaper.
+- After work I relax `with` a cup of tea and the newspaper.
 - The wine had relaxed him and he began to talk.
 
 ## 955. remain ## verb
@@ -6123,9 +6123,9 @@
 ## 956. remind ## verb [T]
 /rəˈmɑɪnd/ 
 [B1]to make someone remember something, or remember to do something
-- Remind me to mail this package.
-- Could you remind Paul about dinner on Saturday?
-- I called Gemma and reminded her that the conference was cancelled.
+- Remind me `to` mail this package.
+- Could you remind Paul `about` dinner on Saturday?
+- I called Gemma and reminded her `that` the conference was cancelled.
 
 ## 957. remind ## verb [T]
 /rəˈmɑɪnd/ 
@@ -6137,25 +6137,25 @@
 /rɪˈmuːv/ TAKE AWAY
 [B1]to take something away
 - Club soda will remove that stain.
-- Please remove your books from the counter.
-- He was removed from office.
+- Please remove your books `from` the counter.
+- He was removed `from` office.
 
 ## 959. rent ## verb
 /rent/ RECEIVE MONEY
 [B1]to allow someone to pay you money to live in your building
 - I rented out my house and went travelling for a year.
-- My Dad has a cabin that he rents to skiers.
+- My Dad has a cabin that he rents `to` skiers.
 
 ## 960. repeat ## verb [T]
 /rəˈpiːt/ TELL
 [B1]to tell someone something that someone else has told you
-- Please don't repeat what I've just told you to anyone else.
+- Please don't repeat what I've just told you `to` anyone else.
 
 ## 961. replace ## verb [T]
 /rəˈpleɪs/ USE INSTEAD
 [B1]to start using another thing or person instead of the one that you are using now
-- We're thinking of replacing our old TV with a new one.
-- The factory replaced most of its workers with robots.
+- We're thinking of replacing our old TV `with` a new one.
+- The factory replaced most of its workers `with` robots.
 
 ## 962. replace ## verb [T]
 /rəˈpleɪs/ GET SOMETHING NEW
@@ -6168,29 +6168,29 @@
 [B1]to answer
 - Where are you going? I asked. "Home," he replied.
 - "I don't understand," she replied.
-- I replied that it was 12 o'clock.
-- He didn't reply to my e-mail.
+- I replied `that` it was 12 o'clock.
+- He didn't reply `to` my e-mail.
 
 ## 964. report ## verb
 /rəˈpɔːrt/ DESCRIBE
 [B1]to describe a recent event or situation, especially on television, radio, or in a newspaper
-- Jo Smith reports on recent developments.
-- She reported that the situation had changed dramatically.
+- Jo Smith reports `on` recent developments.
+- She reported `that` the situation had changed dramatically.
 - A woman nearby reported seeing the accident.
 - The damage caused by the violent storm damage was reported on all the news programs.
 
 ## 965. report ## verb
 /rəˈpɔːrt/ TELL
 [B1]to tell someone in authority that something has happened, especially an accident or crime
-- He should have reported the accident immediately.
-- Have you reported the problem to a technician?
+- He should have reported the `accident` immediately.
+- Have you reported the problem `to` a technician?
 
 ## 966. request ## verb [T]
 /rəˈkwest/ 
 [B1]to politely or officially ask for something
 - We've requested two more computers.
-- They requested that no photographs be taken in the museum.
-- Visitors are requested not to walk on the grass.
+- They requested `that` no photographs be taken in the museum.
+- Visitors are requested not `to` walk on the grass.
 
 ## 967. require ## verb [T]
 /rəˈkwɑɪr/ NEED
@@ -6204,8 +6204,8 @@
 ## 968. rescue ## verb [T]
 /ˈres.kjuː/ 
 [B1]to save someone from a dangerous or unpleasant situation
-- Fifty passengers had to be rescued from a sinking ship.
-- The government has refused to rescue the company from bankruptcy.
+- Fifty passengers had to be rescued `from` a sinking ship.
+- The government has refused to rescue the company `from` bankruptcy.
 
 ## 969. reserve ## verb [I or T]
 /rɪˈzɜrv/ ARRANGE TO HAVE
@@ -6217,15 +6217,15 @@
 ## 970. reserve ## verb [I or T]
 /rɪˈzɜrv/ KEEP
 [B1]to not allow people to use something because it is only for a particular person or for a particular purpose
-- This space is reserved for ambulances only.
-- These seats are reserved for the elderly and the disabled.
+- This space is reserved `for` ambulances only.
+- These seats are reserved `for` the elderly and the disabled.
 - He reserved the right to veto any future plans.
 
 ## 971. respect ## verb [T]
 /rəˈspekt/ ADMIRE
 [B1]to admire someone because of their knowledge, achievements, etc.
-- I respect him for his honesty.
-- I deeply respect David for what he has achieved.
+- I respect him `for` his honesty.
+- I deeply respect David `for` what he has achieved.
 
 ## 972. rest ## verb
 /rest/ RELAX/SLEEP
@@ -6236,8 +6236,8 @@
 ## 973. retire ## verb [I]
 /rɪˈtɑɪr/ 
 [B1]to leave your job and stop working, usually because you are old
-- She retired from the company in 1990.
-- He is due to retire as chief executive next year.
+- She retired `from` the company in 1990.
+- He is due to retire `as` chief executive next year.
 
 ## 974. review ## verb
 /rɪˈvjuː/ STUDY
@@ -6248,37 +6248,37 @@
 ## 975. ring ## verb [I or T]
 /rɪŋ/ SOUND
 [B1]If something rings, it makes the sound of a bell, and if you ring a bell, you cause it to make a sound.
-- The phone's ringing.
-- I rang the doorbell.
+- The `phone`'s ringing.
+- I rang the `doorbell`.
 
 ## 976. rise ## verb [I]
 /rɑɪz/ SUN/MOON
 [B1]When the sun or moon rises, it appears in the sky.
-- The sun rises in the east.
+- The `sun` rises in the east.
 
 ## 977. rise ## verb [I]
 /rɑɪz/ MOVE UP
 [B1]to move up
-- The balloon rose up into the air.
+- The balloon rose `up` into the air.
 
 ## 978. rob ## verb [T]
 /rɑb/ STEAL
 [B1]to steal from someone or somewhere, often using violence
 - The store was robbed last night.
-- to rob a bank
+- to rob a `bank`
 - Two tourists were robbed in midtown last night.
-- They robbed the company of $2 million.
+- They robbed the company `of` $2 million.
 
 ## 979. run ## verb
 /rʌn/ ORGANIZE
 [B1]to organize or control something
 - She ran her own restaurant for five years.
-- The school's lunchtime café is run by the students themselves.
+- The school's lunchtime café is run `by` the students themselves.
 
 ## 980. run ## verb
 /rʌn/ USE ALL
 [B1]to finish, use or sell all of something, so that there is none left
-- I've run out of money/ideas/patience.
+- I've run out `of` money/ideas/patience.
 - "Have you got any milk?" "Sorry, I ran out."
 
 ## 981. sail ## verb
@@ -6301,20 +6301,20 @@
 ## 984. save ## verb
 /seɪv/ MAKE SAFE
 [B1]to stop someone or something from being killed, injured or destroyed
-- Wearing seat belts has saved many lives.
-- He fell in the river but his friend saved him from drowning.
+- Wearing seat belts has saved many `lives`.
+- He fell in the river but his friend saved him `from` drowning.
 - He had to borrow money to save his business.
 - He was desperately trying to save their failing marriage.
-- We all need to do our part to save the planet.
+- We all need to do our part to save `the planet`.
 
 ## 985. say ## verb [T]
 /seɪ/ TELL
 [B1]to tell someone about a fact, thought, or opinion
 - Did she say where she was going?
 - Officials refused to say what had happened.
-- What did they say about the house?
-- The doctors say (that) it will take him a few weeks to recover.
-- She didn't say whether she was coming or not.
+- What did they say `about` the house?
+- The doctors say `(that)` it will take him a few weeks to recover.
+- She didn't say `whether` she was coming or not.
 - "Who do you think will get the job?" "I'd rather not say."
 - What are you saying, exactly ?
 
@@ -6323,15 +6323,15 @@
 [B1]to give information in writing, numbers or signs
 - My watch says 3 o'clock.
 - Can you read what that notice says?
-- It says in the paper (that) they've found the man who did it.
-- It says on the bottle to take the medicine three times a day.
+- It says in the paper `(that)` they've found the man who did it.
+- It says on the bottle `to` take the medicine three times a day.
 
 ## 987. say ## verb [T]
 /seɪ/ THINK
 [B1]to think or believe
-- People/They say (that) he's over 100.
-- "It's going to be a very hot summer." "So they say ."
-- She is a firm leader, too firm, some might say.
+- People/They say `(that)` he's over 100.
+- "It's going to be a very hot summer." "`So` they say ."
+- She is a firm leader, too firm, `some might` say.
 
 ## 988. score ## verb [I or T]
 /skɔːr/ 
@@ -6344,10 +6344,10 @@
 /skriːm/ 
 [B1]to make a loud, high noise with your voice, or to shout something in a loud, high voice because you are afraid, hurt, or angry
 - A spider landed on her pillow and she screamed.
-- Through the smoke, the rescuers could hear people screaming for help.
-- The children screamed in/with delight as they sledded down the hill.
-- Ken screamed (out) a warning to people to get out of the way.
-- I've never found screaming (and shouting)at someone to be useful.
+- Through the smoke, the rescuers could hear people screaming `for` help.
+- The children screamed `in/with` delight as they sledded down the hill.
+- Ken screamed `(out)` a warning to people to get out of the way.
+- I've never found screaming `(and shouting)``at` someone to be useful.
 - "I wish you would leave!" she screamed.
 
 ## 990. search ## verb
@@ -6355,10 +6355,10 @@
 [B1]to try to find someone or something
 - I've searched my bedroom but I can't find my watch.
 - He searched in his pockets for some change.
-- Rescue workers continue to search the area for survivors.
-- He searched (in/through) his pockets for some change.
-- I've searched high and low, but I can't find my birth certificate.
-- We searched the house from top to bottom, but we can't find that book.
+- Rescue workers continue to search the area `for` survivors.
+- He searched `(in/through)` his pockets `for` some change.
+- I've searched `high and low`, but I can't find my birth certificate.
+- We searched the house `from top to bottom`, but we can't find that book.
 
 ## 991. search ## verb
 /sɜrtʃ/ USE COMPUTER
@@ -6368,9 +6368,9 @@
 ## 992. see ## verb
 /siː/ UNDERSTAND
 [B1]to understand something
-- I see (that) the club is planning a picnic.
-- I see what you mean.
-- They didn't see the need/any need to notify their members in writing.
+- I see `(that)` the club is planning a picnic.
+- I see `what` you mean.
+- They didn't see `the need/any need` to notify their members in writing.
 
 ## 993. seem ## verb
 /siːm/ seem happy/a nice person, etc.
@@ -6383,16 +6383,16 @@
 [B1]to appear to be a particular thing or to have a particular quality
 - It seemed like a good idea at the time.
 - The graphics were so good that the people seemed as if they were real.
-- There doesn't seem to be any real solution.
+- There doesn't seem to `be` any real solution.
 - I seem to know more about him than anyone else.
 
 ## 995. select ## verb [I or T]
 /səˈlekt/ 
 [B1]to choose someone or something from a group
 - There was a choice of four prizes, and the winner could select one of them.
-- You can select from among the offerings shown on this screen.
+- You can select `from` among the offerings shown on this screen.
 - They have the option of selecting the school that they want their kids to go to.
-- He was selected to play for Australia at the age of only 18.
+- He was selected `to` play for Australia at the age of only 18.
 
 ## 996. send ## verb [T]
 /send/ 
@@ -6407,13 +6407,13 @@
 ## 998. set ## verb
 /set/ STORY/MOVIE
 [B1]If a story, movie, etc. is set in a particular time or place, the action in it happens in that time or place.
-- West Side Story is set in New York in the late 1950s.
+- West Side Story is set `in` New York `in` the late 1950s.
 
 ## 999. set ## verb
 /set/ set a date/time (for sth)
 [B1]to fix a date or time for something
 - Juan and Maria have set a date for their wedding - it's August 31.
-- Was a time set for the meeting yet?
+- Was a `time` set for the meeting yet?
 
 ## 1000. set ## verb
 /set/ SUN
@@ -6423,13 +6423,13 @@
 ## 1001. set ## verb
 /set/ 
 [B1]to start a journey
-- What time do we have to set off for the airport tomorrow?
-- They just set off on an around-the-world cruise.
+- What time do we have to set off `for` the airport tomorrow?
+- They just set off `on` an around-the-world cruise.
 
 ## 1002. set ## verb
 /set/ TRIP
 [B1]to begin a trip
-- Martin set out on his bike ride before dawn.
+- Martin set out `on` his bike ride before dawn.
 - When do you want to set out?
 
 ## 1003. set ## verb
@@ -6443,9 +6443,9 @@
 /soʊ/ 
 [B1]to make or repair clothes by joining pieces of cloth using a needle and thread
 - My grandmother taught me to sew.
-- I made this skirt just by sewing two pieces of material together.
+- I made this skirt just by sewing two pieces of material `together`.
 - She sews all her children's clothes.
-- He sewed the badge neatly onto his uniform.
+- He sewed the badge neatly `onto` his uniform.
 
 ## 1005. shake ## verb
 /ʃeɪk/ SMALL MOVEMENTS
@@ -6453,41 +6453,41 @@
 - A young boy climbed into the apple tree and shook the branches so that the fruit fell down.
 - Babies like toys that make a noise when you shake them.
 - Cory shook some powdered sugar on her French toast.
-- She shook her hair loose from its ribbon.
+- She shook her hair `loose` from its ribbon.
 - Every time one of these big trucks goes through the village, all the houses shake.
 
 ## 1006. shake ## verb
 /ʃeɪk/ shake hands
 [B1]to hold someone's hand and move it up and down when you meet them for the first time, or when you make an agreement with them
 - The two leaders smiled and shook hands for the photographers.
-- I shook hands with him.
+- I shook hands `with` him.
 
 ## 1007. share ## verb [I or T]
 /ʃer/ FEELING/EXPERIENCE, ETC.
 [B1]If two or more people or things share a feeling, quality or experience, they both or all have the same feeling, quality or experience.
-- We share an interest in sailing.
+- We share an interest `in` sailing.
 - All hospitals share some common characteristics.
 - I have an idea I’d like to share with you.
-- I don't share your views.
-- She knew that he was the person she wanted to share her life with.
+- I don't share your `views`.
+- She knew that he was the person she wanted to share her life `with`.
 
 ## 1008. shave ## verb [I or T]
 /ʃeɪv/ 
 [B1]to cut hair off your face or body with a razor
 - John shaves twice a day.
-- I was surprised to see he had shaved off his beard
+- I was surprised to see he had shaved `off` his beard
 
 ## 1009. shine ## verb
 /ʃɑɪn/ PRODUCE LIGHT
 [B1]to produce bright light
-- The sun was shining brightly through the window.
-- Is that light shining in your eyes?
+- The `sun` was shining brightly through the window.
+- Is that light shining `in` your eyes?
 
 ## 1010. shoot ## verb
 /ʃuːt/ WEAPON
 [B1]to fire a weapon or injure or kill a person or animal by firing a weapon at them
 - If he's not armed, don't shoot.
-- The kids were shooting arrows at a target.
+- The kids were shooting arrows `at` a target.
 - An unidentified man was shot yesterday afternoon.
 - A policeman was shot last night.
 
@@ -6499,8 +6499,8 @@
 ## 1012. shop ## verb [I]
 /ʃɑp/ 
 [B1]to buy things in stores
-- I like to shop at the Gap for clothes.
-- If I'm just shopping for food, I go to the local supermarket.
+- I like to shop `at` the Gap for clothes.
+- If I'm just shopping `for` food, I go to the local supermarket.
 
 ## 1013. should ## modal verb
 /ʃʊd/ BEST
@@ -6508,7 +6508,7 @@
 - Should I apologize to him?
 - Where should we meet tonight?
 - There should be an investigation into the cause of the disaster.
-- I should have written to her but I haven't had any time.
+- I should `have` written to her but I haven't had any time.
 - It's getting cold in here. Should I turn the heat up?
 
 ## 1014. should ## modal verb
@@ -6524,7 +6524,7 @@
 [B1]to give information in a book, on a website, on a piece of equipment, etc.
 - The pictures show two different sports. Talk to your partner about which you would prefer and why.
 - The display shows the temperature on the right; air pressure is shown on the left.
-- Urban areas are shown in gray on the map.
+- Urban areas are shown `in` gray on the map.
 - The latest figures show a rise in home sales.
 
 ## 1016. show ## verb
@@ -6553,7 +6553,7 @@
 ## 1020. sign ## verb [I or T]
 /sɑɪn/ 
 [B1]to write your name on something to show that you created it or to show that you agree to it
-- to sign a letter/form/check/contract/agreement
+- to sign a `letter/form/check/contract/agreement`
 - Sign here, please.
 - Jesse signed her name at the end of the letter.
 - He signed himself "Andrew Mahat."
@@ -6562,25 +6562,25 @@
 ## 1021. sign ## verb [I or T]
 /sɑɪn/ 
 [B1]to arrange to take part in an organized activity
-- I've signed up for evening classes at the community college.
+- I've signed up `for` evening classes at the community college.
 
 ## 1022. sink ## verb
 /sɪŋk/ GO DOWN BELOW
 [B1]to go down or make something go down below the surface of water or a soft substance and not come back up
 - The Titanic was a passenger ship which sank to the bottom of the ocean in 1912.
 - The boat filled with water and began to sink.
-- The legs of the garden chair sank into the soft ground.
-- The dog sank its teeth into the ball and ran off with it.
+- The legs of the garden chair sank `into` the soft ground.
+- The dog sank its teeth `into` the ball and ran off with it.
 
 ## 1023. skate ## verb [I]
 /skeɪt/ 
 [B1]to move using skates
-- The ice on the river is frozen enough to skate on.
+- The ice on the river is frozen enough to skate `on`.
 
 ## 1024. ski ## verb [I]
 /skiː/ 
 [B1]to move over snow on skis
-- He skied down the hill.
+- He skied `down` the hill.
 
 ## 1025. slip ## verb
 /slɪp/ SLIDE
@@ -6599,7 +6599,7 @@
 /smel/ USE NOSE
 [B1]to notice something by using your nose
 - Come and smell these flowers!
-- Do you smell something burning?
+- Do you smell something `burning`?
 
 ## 1028. smell ## verb
 /smel/ UNPLEASANT
@@ -6610,26 +6610,26 @@
 /smɑɪl/ 
 [B1]to make a happy or friendly expression in which the corners of your mouth curve up
 - He smiled and shook my hand.
-- When he smiled at me I knew everything was all right.
+- When he smiled `at` me I knew everything was all right.
 - I couldn't help smiling when I thought of how pleased she was going to be.
-- He smiled politely as Mary apologized for being late.
-- He smiled to himself.
+- He smiled `politely` as Mary apologized for being late.
+- He smiled `to` himself.
 
 ## 1030. solve ## verb [T]
 /sɑlv/ 
 [B1]to find the answer to something
-- to solve a problem
-- to solve a mystery/puzzle
+- to solve a `problem`
+- to solve a `mystery/puzzle`
 - Just calm down - shouting won't solve anything!
 - This strategy could cause more problems than it solves.
-- Police are still no nearer to solving the crime.
+- Police are still no nearer to solving the `crime`.
 
 ## 1031. sound ## verb
 /sɑʊnd/ sound like/as if/as though
 [B1]to seem like something, from what you have heard or read
 - That sounds like a really good idea.
-- It sounds like you've got a sore throat.
-- It sounds as if they had a good holiday.
+- `It` sounds like you've got a sore throat.
+- `It` sounds as if they had a good holiday.
 
 ## 1032. speak ## verb
 /spiːk/ speak about/of sth
@@ -6640,10 +6640,10 @@
 ## 1033. spill ## verb [I or T]
 /spɪl/ 
 [B1]to pour liquid or another substance somewhere without intending to, or to fall or flow out of a container in a way that is not intended
-- I spilled coffee on my silk shirt.
-- You spilled something down your tie.
+- I spilled coffee `on` my silk shirt.
+- You spilled something `down` your tie.
 - Let's see if I can pour the juice into the glass without spilling it.
-- He dropped a bag of sugar and it spilled all over the floor.
+- He dropped a bag of sugar and it spilled all `over` the floor.
 
 ## 1034. split ## verb
 /splɪt/ 
@@ -6655,8 +6655,8 @@
 [B1]to stop something from being enjoyable or successful
 - He tried not to let the bad news spoil his evening.
 - The oil spill spoiled five miles of coastline.
-- I haven't seen the movie yet, so don't spoil it for me by telling me what happens.
-- You'll spoil your appetite if you have cake now.
+- I haven't seen the movie yet, so don't spoil it `for` me by telling me what happens.
+- You'll spoil your `appetite` if you have cake now.
 
 ## 1036. stand ## verb
 /stænd/ can't stand sb/sth
@@ -6667,7 +6667,7 @@
 ## 1037. star ## verb [I or T]
 /stɑr/ 
 [B1]If a film, play, etc. stars someone, or if someone stars in a film, play, etc., they are the main actor in it.
-- Ben Kingsley starred in the film "Gandhi."
+- Ben Kingsley starred `in` the film "Gandhi."
 - The novel was turned into a film starring Meryl Streep.
 - The school play stars children in the seventh and eighth grades.
 
@@ -6695,30 +6695,30 @@
 /step/ step back/forward/over, etc.
 [B1]to move somewhere by lifting your foot and putting it down in a different place
 - She stepped carefully over the dog.
-- She stepped backward and fell over a chair.
-- They stepped out onto the balcony.
+- She stepped `backward` and fell over a chair.
+- They stepped `out` onto the balcony.
 
 ## 1042. step ## verb
 /step/ step on/in sth
 [B1]to put your foot on or in something
 - I accidentally stepped on her foot.
-- Be careful not to step in the mud.
+- Be careful not to step `in` the mud.
 
 ## 1043. stick ## verb
 /stɪk/ ATTACH
 [B1]to become joined to something else or to make something become joined to something else, usually with a substance like glue
 - Stick the tape on the back of the picture.
-- My car's stuck in the mud.
-- The cupcakes stuck to the pan.
-- It was so hot that my clothes stuck to me.
-- My book got wet and now the pages are stuck together.
+- My car's stuck `in` the mud.
+- The cupcakes stuck `to` the pan.
+- It was so hot that my clothes stuck `to` me.
+- My book got wet and now the pages are stuck `together`.
 
 ## 1044. stir ## verb
 /stɜr/ MIX
 [B1]to mix food or liquid by moving a spoon around and around in it
 - Stir the sauce gently until it begins to boil.
-- Stir the egg yolks into the warm milk.
-- She paused to stir some sugar into her coffee.
+- Stir the egg yolks `into` the warm milk.
+- She paused to stir some sugar `into` her coffee.
 - Slowly add the flour, stirring until completely blended.
 
 ## 1045. stop ## verb
@@ -6745,14 +6745,14 @@
 [B1]to hit someone or something
 - Two climbers were struck by falling rocks.
 - His car went out of control and struck a tree.
-- I don't know anyone who was struck by lightning.
+- I don't know anyone who was struck `by lightning`.
 
 ## 1049. succeed ## verb [I]
 /səkˈsiːd/ 
 [B1]to achieve what you are trying to achieve
 - She’s been trying to pass her driving test for months and she finally succeeded.
-- She succeeded in passing the exam.
-- You need to be pretty tough to succeed in today's business world.
+- She succeeded `in` passing the exam.
+- You need to be pretty tough to succeed `in` today's business world.
 
 ## 1050. suffer ## verb
 /ˈsʌf.ər/ suffer from sth
@@ -6763,8 +6763,8 @@
 ## 1051. suggest ## verb [T]
 /səgˈdʒest/ IDEA
 [B1]to express an idea or plan for someone to consider
-- I suggest that we ask someone for directions, or we’ll never find the place.
-- Liz suggested (that) I try the shop on Mill Road.
+- I suggest `that` we ask someone for directions, or we’ll never find the place.
+- Liz suggested `(that)` I try the shop on Mill Road.
 - He suggested having the meeting at his house.
 
 ## 1052. suggest ## verb [T]
@@ -6786,7 +6786,7 @@
 ## 1055. support ## verb [T]
 /səˈpɔːrt/ HELP
 [B1]to help someone, often when they are having problems
-- My family has always supported me in whatever I've wanted to do.
+- My family has always supported me `in` whatever I've wanted to do.
 
 ## 1056. support ## verb [T]
 /səˈpɔːrt/ SPORTS
@@ -6816,15 +6816,15 @@
 /sərˈprɑɪz/ 
 [B1]to make someone feel surprise
 - The news surprised everyone.
-- It doesn't surprise me that she wants to leave.
-- It won't surprise anyone to learn that the offer has been rejected.
+- It doesn't surprise me `that` she wants to leave.
+- It won't surprise anyone `to` learn that the offer has been rejected.
 
 ## 1061. surround ## verb [T]
 /səˈrɑʊnd/ GO AROUND
 [B1]to be or go everywhere around something or someone
 - Snow-capped mountains surround the city.
 - Dense woods surrounded the house.
-- Jeanne sat at her desk, surrounded by books and papers.
+- Jeanne sat at her desk, surrounded `by` books and papers.
 - She's surrounded by the people she loves.
 
 ## 1062. switch ## verb [I]
@@ -6858,24 +6858,24 @@
 ## 1067. take ## verb [T]
 /teɪk/ PERFORM ACTION
 [B1]used with some nouns to say that someone performs an action
-- I need to take a shower.
-- Would you like to take a swim?
-- Take a look at this.
-- I thought we could take a walk after lunch.
-- Take a deep breath.
+- I need to take `a shower`.
+- Would you like to take `a swim`?
+- Take `a look` at this.
+- I thought we could take `a walk` after lunch.
+- Take `a deep breath`.
 
 ## 1068. take ## verb [T]
 /teɪk/ take care of sb/sth
 [B1]to look after someone or something
-- I'll take good care of her.
+- I'll take `good` care of her.
 - Don't worry about me, I can take care of myself.
 
 ## 1069. take ## verb [T]
 /teɪk/ WRITE
 [B1]to write something
-- Did you take their number?
-- I took notes during the talk.
-- Alice isn't here at the moment. Can I take a message?
+- Did you take their `number`?
+- I took `notes` during the talk.
+- Alice isn't here at the moment. Can I take a `message`?
 
 ## 1070. take ## verb [T]
 /teɪk/ STUDY
@@ -6886,7 +6886,7 @@
 ## 1071. take ## verb [T]
 /teɪk/ take part
 [B1]to be involved in an activity with other people
-- She doesn't usually take part in any of the class activities.
+- She doesn't usually take part `in` any of the class activities.
 
 ## 1072. take ## verb [T]
 /teɪk/ take place
@@ -6919,7 +6919,7 @@
 /teɪk/ NUMBERS
 [B1]to remove one number from another number
 - Four take away two is two.
-- If you take 4 away from 12 you get 8.
+- If you take 4 away `from` 12 you get 8.
 
 ## 1078. take ## verb [T]
 /teɪk/ 
@@ -6930,8 +6930,8 @@
 ## 1079. take ## verb [T]
 /teɪk/ 
 [B1]to go somewhere with someone and pay for them
-- My dad's taking the whole family out to the theater.
-- Our boss took us out for a meal.
+- My dad's taking the whole family out `to` the theater.
+- Our boss took us out `for` a meal.
 
 ## 1080. take ## verb [T]
 /teɪk/ REMOVE
@@ -6954,8 +6954,8 @@
 /teɪst/ taste good/bad/sweet, etc.
 [B1]to have a particular flavor
 - This sauce tastes strange.
-- The bread tastes of onions.
-- This coffee tastes like dishwater!
+- The bread tastes `of` onions.
+- This coffee tastes `like` dishwater!
 
 ## 1084. taste ## verb [T]
 /teɪst/ FOOD/DRINK
@@ -6966,7 +6966,7 @@
 ## 1085. teach ## verb
 /tiːtʃ/ GET EXPERIENCE
 [B1]If a situation teaches you something, it gives you new knowledge or helps you to understand something.
-- The whole experience taught him to be more careful with money.
+- The whole experience taught him `to` be more careful with money.
 
 ## 1086. tear ## verb [I or T]
 /ter/ BREAK
@@ -6989,7 +6989,7 @@
 ## 1089. test ## verb [T]
 /test/ EXAM
 [B1]to give someone a set of questions, in order to measure their knowledge or ability
-- You'll be tested on all the areas you've studied this semester.
+- You'll be tested `on` all the areas you've studied this semester.
 
 ## 1090. thank ## verb [T]
 /θæŋk/ thank God
@@ -7000,7 +7000,7 @@
 /θɪŋk/ USE BRAIN
 [B1]to use the brain to plan something, solve a problem, understand a situation, etc.
 - He thought for a few seconds before answering.
-- You should think about where you want to live.
+- You should think `about` where you want to live.
 - I'm so sorry I upset you - I just wasn't thinking.
 
 ## 1092. think ## verb
@@ -7012,8 +7012,8 @@
 ## 1093. think ## verb
 /θɪŋk/ REMEMBER
 [B1]to remember someone or something
-- I was just thinking about you when you phoned.
-- I often think of our time in Egypt.
+- I was just thinking `about` you when you phoned.
+- I often think `of` our time in Egypt.
 
 ## 1094. throw ## verb [I or T]
 /θroʊ/ 
@@ -7023,28 +7023,28 @@
 ## 1095. tie ## verb
 /tɑɪ/ FASTEN
 [B1]to fasten something with string, rope, etc.
-- The dog was tied to a tree.
+- The dog was tied `to` a tree.
 - This skirt ties at the waist.
-- She tied the ribbon tightly in a bow/knot.
-- I tie my hair back when it's hot.
+- She tied the ribbon tightly `in` a bow/knot.
+- I tie my hair `back` when it's hot.
 
 ## 1096. tie ## verb
 /tɑɪ/ MAKE A KNOT
 [B1]to make a knot in a piece of string, rope, etc.
 - She tied the scarf.
 - Could you tie this piece of string for me?
-- Tie (up) your shoelaces, or you'll trip over.
+- Tie `(up)` your shoelaces, or you'll trip over.
 
 ## 1097. touch ## verb
 /tʌtʃ/ PUT HAND ON
 [B1]to put your hand on something
 - That paint is wet - don't touch it.
-- He touched the girl on the arm to get her attention.
+- He touched the girl `on` the arm to get her attention.
 
 ## 1098. tour ## verb [I or T]
 /tʊr/ 
 [B1]to go on a tour somewhere
-- We spent a month touring (around) Kenya.
+- We spent a month touring `(around)` Kenya.
 - The New Zealand team will be touring in Europe this winter.
 - The band is currently touring to promote its new album.
 
@@ -7056,15 +7056,15 @@
 ## 1100. transfer ## verb
  MOVE
 [B1]to move someone or something from one place to another
-- He has been transferred to a psychiatric hospital.
-- Police are investigating how $20 million was illegally transferred from the Trust's bank account.
-- The objective is to transfer power/control/responsibility to self-governing regional councils.
+- He has been transferred `to` a psychiatric hospital.
+- Police are investigating how $20 million was illegally transferred `from` the Trust's bank account.
+- The objective is to transfer `power/control/responsibility` to self-governing regional councils.
 
 ## 1101. translate ## verb [I or T]
 /trænˈzleɪt/ LANGUAGE
 [B1]to change written or spoken words from one language to another
 - We were asked to translate a list of sentences.
-- She works for the EU, translating from English into French.
+- She works for the EU, translating `from` English `into` French.
 
 ## 1102. travel ## verb
 /ˈtræv.əl/ MOVE
@@ -7077,9 +7077,9 @@
 [B1]to believe that someone is good and honest and will not harm you, or that something is safe and reliable
 - My sister warned me not to trust him.
 - Trust me - I know about these things.
-- I trust her to make the right decision.
-- That man is not to be trusted.
-- I wouldn't trust him with my car.
+- I trust her `to` make the right decision.
+- That man is `not to be` trusted.
+- I wouldn't trust him `with` my car.
 
 ## 1104. try ## verb
 /trɑɪ/ TEST
@@ -7092,7 +7092,7 @@
 /tɜrn/ MOVE YOUR BODY
 [B1]to move your body so that you are facing a different direction
 - Ricky turned and saw Sue standing in the doorway.
-- She put out the light, turned over and went to sleep.
+- She put out the light, turned `over` and went to sleep.
 
 ## 1106. turn ## verb
 /tɜrn/ CHANGE POSITION
@@ -7102,9 +7102,9 @@
 ## 1107. turn ## verb
 /tɜrn/ PAGE
 [B1]to move a page in a book or magazine in order to see the next one
-- Now turn the page, please, and start Exercise 2.
-- He turned over two or three pages.
-- Now turn to page 23 and look at the first paragraph.
+- Now turn `the page`, please, and start Exercise 2.
+- He turned `over` two or three pages.
+- Now turn `to` page 23 and look at the first paragraph.
 
 ## 1108. turn ## verb
 /tɜrn/ 
@@ -7115,7 +7115,7 @@
 /tɜrn/ 
 [B1]to change and become someone or something different, or to make someone or something do this
 - The council was hoping to turn a children's home into a residence for adolescent girls.
-- The town turned from a small seaside resort into a major commercial center when oil was discovered.
+- The town turned `from` a small seaside resort into a major commercial center when oil was discovered.
 
 ## 1110. turn ## verb
 /tɜrn/ 
@@ -7127,7 +7127,7 @@
 [B1]to write something using a keyboard
 - She asked me to type a couple of letters.
 - He can type very quickly.
-- I was typing away into the early hours of the morning just to get the thing finished.
+- I was typing `away` into the early hours of the morning just to get the thing finished.
 
 ## 1112. type ## verb [I or T]
 /tɑɪp/ 
@@ -7137,13 +7137,13 @@
 ## 1113. underline ## verb [T]
 /ˌʌn.dərˈlɑɪn/ DRAW LINE
 [B1]to draw a line under a word or sentence, especially in order to show its importance
-- All the technical words have been underlined in red.
+- All the technical words have been underlined `in` red.
 
 ## 1114. understand ## verb [I or T]
 /ˌʌn.dərˈstænd/ KNOW FEELINGS
 [B1]to know how someone feels or why they behave in a particular way
 - I don't understand James sometimes.
-- I understand why she's so angry.
+- I understand `why` she's so angry.
 
 ## 1115. undress ## verb [I or T]
 /ʌnˈdres/ 
@@ -7153,18 +7153,18 @@
 ## 1116. unpack ## verb [I or T]
 /ʌnˈpæk/ 
 [B1]to remove things from a suitcase, bag or box
-- I haven't even had time to unpack my suitcase/clothes/bag.
+- I haven't even had time to unpack my `suitcase/clothes/bag`.
 
 ## 1117. update ## verb [T]
  ADD INFORMATION
 [B1]to add new information
 - The website has just been updated.
-- We'll update you on this news story throughout the day.
+- We'll update you `on` this news story throughout the day.
 
 ## 1118. upload ## verb [T]
 /ˈʌp.loʊd/ 
 [B1]to send a computer program or a document electronically from your computer, using the Internet
-- All the files have been uploaded to the server.
+- All the files have been uploaded `to` the server.
 
 ## 1119. use ## verb [T]
  REDUCE
@@ -7183,17 +7183,17 @@
 ## 1121. vote ## verb [I or T]
 /voʊt/ 
 [B1]to show your choice or opinion in an election or meeting by doing something such as writing a mark on an official piece of paper, using a special machine to record your choice, or putting your hand up
-- Who did you vote for?
-- The union voted against going on strike.
-- The city council has voted to reject the development plan.
-- She was too young to vote in the national election.
-- The committee voted on the proposal and accepted it.
+- Who did you vote `for`?
+- The union voted `against` going on strike.
+- The city council has voted `to` reject the development plan.
+- She was too young to vote `in` the national election.
+- The committee voted `on` the proposal and accepted it.
 
 ## 1122. wait ## verb [I]
 /weɪt/ keep sb waiting
 [B1]to be late so that someone has to wait for you
 - I'm sorry to have kept you waiting.
-- The dentist kept me waiting for a long time.
+- The dentist kept me waiting `for` a long time.
 
 ## 1123. wait ## verb [I]
 /weɪt/ wait (a minute)
@@ -7214,25 +7214,25 @@
 ## 1126. warn ## verb [T]
 /wɔːrn/ 
 [B1]to make someone realize a possible danger or problem, especially one in the future
-- We were warned not to eat the fish.
-- Have you warned them (that) there will be an extra person for dinner?
-- I was warned against/off going to the east coast because it was so full of tourists.
-- This particular curry is extremely hot - be warned!
+- We were warned not `to` eat the fish.
+- Have you warned them `(that)` there will be an extra person for dinner?
+- I was warned `against/off` going to the east coast because it was so full of tourists.
+- This particular curry is extremely hot - `be` warned!
 - Put that ball down and come over here, Laura - I'm warning you!
 
 ## 1127. waste ## verb [T]
 /weɪst/ USE TOO MUCH
 [B1]to use too much of something or use something badly when there is a limited amount of it
 - You waste a lot of water by taking a bath instead of a shower.
-- Come on, let's get started - we've wasted enough time already.
-- Don't waste your money on designer jeans.
+- Come on, let's get started - we've wasted enough `time` already.
+- Don't waste your `money on` designer jeans.
 
 ## 1128. wave ## verb [I or T]
 /weɪv/ 
 [B1]to raise your hand and move it from side to side in order to attract someone's attention or to say goodbye
-- I waved to/at him, and he waved back.
-- She was so mad she wouldn't even wave goodbye to us.
-- She waves her hands around a lot when she's talking.
+- I waved `to/at` him, and he waved back.
+- She was so mad she wouldn't even wave `goodbye to` us.
+- She waves her hands `around` a lot when she's talking.
 
 ## 1129. wear ## verb [T]
 /wer/ 
@@ -7251,7 +7251,7 @@
 /ˈwel.kəm/ MEET
 [B1]to greet someone who has arrived in a place
 - Both families were there to welcome us.
-- The visitors to the college were warmly welcomed by the Dean.
+- The visitors to the college were `warmly` welcomed by the Dean.
 
 ## 1132. win ## verb
 /wɪn/ ELECTION
@@ -7261,37 +7261,37 @@
 ## 1133. wish ## verb
 /wɪʃ/ wish (that)
 [B1]to want a situation that is different from the one that exists
-- I wish that I was/were a bit taller.
-- I wish I didn't have to go to work today.
-- I wish he would leave.
-- I wish I had been there.
+- I wish that I `was/were` a bit taller.
+- I wish I `didn't have to` go to work today.
+- I wish he `would` leave.
+- I wish I `had` been there.
 
 ## 1134. wish ## verb
 /wɪʃ/ wish sb luck
 [B1]to say that you hope someone will be lucky, successful, etc.
-- I wished him luck on his test.
+- I wished him luck `on` his test.
 - I'm running in the relay - wish me luck!
 
 ## 1135. wonder ## verb [I or T]
 /ˈwʌn.dər/ QUESTION
 [B1]to ask yourself questions or express a wish to know about something
-- Shouldn't you call home? Your parents will be wondering where you are.
-- He's starting to wonder whether he did the right thing in accepting this job.
+- Shouldn't you call home? Your parents will be wondering `where` you are.
+- He's starting to wonder `whether` he did the right thing in accepting this job.
 - Will this turkey be big enough for eight, I wonder?
-- "Have you decided where you're going next summer?" "I've been wondering about going to Florida."
+- "Have you decided where you're going next summer?" "I've been wondering `about` going to Florida."
 
 ## 1136. wonder ## verb [I or T]
 /ˈwʌn.dər/ POLITE REQUEST
 [B1]used in phrases, at the beginning of a request, to make it more formal and polite
 - I wonder - could you help me carry these books?
-- I wonder whether you could pass me the butter?
-- I was wondering if you could give me some information about places to visit in the area?
+- I wonder `whether` you could pass me the butter?
+- I was wondering `if` you could give me some information about places to visit in the area?
 
 ## 1137. work ## verb
 /wɜrk/ SUCCEED
 [B1]If something works, it is effective or successful.
 - Her plan to increase sales worked.
-- The pills will start to work in a few minutes.
+- The pills will start to work `in` a few minutes.
 
 ## 1138. work ## verb
 /wɜrk/ EXERCISE
@@ -7337,7 +7337,7 @@
 /ræp/ COVER
 [B1]to cover or surround something with paper, cloth or other material
 - She wrapped the present and tied it with ribbon.
-- Wrap the chicken in foil and cook it for two hours.
+- Wrap the chicken `in` foil and cook it for two hours.
 
 ## 1146. wrap ## verb [T]
 /ræp/ 
@@ -7348,7 +7348,7 @@
 /rɑɪt/ CREATE
 [B1]to create a book, story, article, etc. or a piece of music
 - He's writing a book on Colombia.
-- She writes for Time magazine.
+- She writes `for` Time magazine.
 - Walton wrote the Cello Concerto in 1956.
 
 ## 1148. write ## phrasal verb
@@ -7364,9 +7364,9 @@
 ## 1150. abandon ## verb [T]
 /əˈbæn.dən/ LEAVE
 [B2]to leave someone or something somewhere, sometimes not returning to get them
-- They were forced to abandon the car.
+- They were `forced to` abandon the car.
 - My sister abandoned me at the station, so I went home alone.
-- We were sinking fast, and the captain gave the order to abandon ship.
+- We were sinking fast, and the captain gave the order to abandon `ship`.
 
 ## 1151. abolish ## verb [T]
 /əˈbɑl.ɪʃ/ 
@@ -7378,7 +7378,7 @@
 /əbˈzɔːrb/ TAKE IN
 [B2]to take something in, especially gradually
 - Plants absorb carbon dioxide.
-- The drug is quickly absorbed into the bloodstream.
+- The drug is quickly absorbed `into` the bloodstream.
 
 ## 1153. absorb ## verb [T]
 /əbˈzɔːrb/ be absorbed in sth
@@ -7388,14 +7388,14 @@
 ## 1154. accept ## verb
 /əkˈsept/ ADMIT
 [B2]to admit that something is true, often something unpleasant
-- He refuses to accept that he's made a mistake.
-- I can't accept that there's nothing we can do.
+- He refuses to accept `that` he's made a mistake.
+- I can't accept `that` there's nothing we can do.
 
 ## 1155. accept ## verb
 /əkˈsept/ ALLOW TO JOIN
 [B2]to allow someone to join an organization or become part of a group
-- She was accepted to two of the universities she applied to.
-- He was accepted as a full member of the society.
+- She was accepted `to` two of the universities she applied to.
+- He was accepted `as` a full member of the society.
 - His fellow workers refused to accept him.
 
 ## 1156. accept ## verb
@@ -7411,14 +7411,14 @@
 ## 1158. accuse ## verb [T]
 /əˈkjuːz/ 
 [B2]to say that someone has done something bad
-- He's been accused of robbery/murder.
-- Are you accusing me of lying?
+- He's been accused `of` robbery/murder.
+- Are you accusing me `of` lying?
 
 ## 1159. ache ## verb [I]
 /eɪk/ 
 [B2]to have a continuous pain that is unpleasant but not strong
 - My head/tooth/back aches.
-- I ache/I'm aching all over.
+- I ache/I'm aching `all over`.
 
 ## 1160. acquire ## verb [T]
 /əˈkwɑɪr/ GET
@@ -7429,13 +7429,13 @@
 ## 1161. acquire ## verb [T]
 /əˈkwɑɪr/ LEARN
 [B2]to learn something
-- to acquire knowledge/skills
+- to acquire `knowledge/skills`
 
 ## 1162. act ## verb
 /ækt/ DO SOMETHING
 [B2]to do something, especially in order to solve a problem
 - She acted without thinking.
-- We have to act now to stop the spread of this disease.
+- We have to act now `to` stop the spread of this disease.
 
 ## 1163. act ## verb
 /ækt/ 
@@ -7445,13 +7445,13 @@
 ## 1164. adapt ## verb
 /əˈdæpt/ CHANGE BEHAVIOR
 [B2]to change your behavior so that it is suitable for a new situation
-- It takes time to adapt to a new environment.
+- It takes time to adapt `to` a new environment.
 
 ## 1165. adapt ## verb
 /əˈdæpt/ CHANGE SOMETHING
 [B2]to change something so that it is suitable for a different use or situation
-- Many companies have adapted popular applications to the smartphones and tablets.
-- Davies is busy adapting Brinkworth's latest novel for television.
+- Many companies have adapted popular applications `to` the smartphones and tablets.
+- Davies is busy adapting Brinkworth's latest novel `for` television.
 
 ## 1166. add ## verb
 /æd/ 
@@ -7467,12 +7467,12 @@
 ## 1168. adjust ## verb
 /əˈdʒʌst/ CHANGE BEHAVIOR
 [B2]to change the way you behave or think in order to suit a new situation
-- They found it hard to adjust to life in a new country.
+- They found it hard to adjust `to` life in a new country.
 
 ## 1169. admire ## verb [T]
 /ədˈmɑɪr/ RESPECT
 [B2]to respect or approve of someone or something
-- I admired him for his determination.
+- I admired him `for` his determination.
 - I really admire people who can work in such difficult conditions.
 
 ## 1170. adopt ## verb
@@ -7484,7 +7484,7 @@
 ## 1171. adopt ## verb
 /əˈdɑpt/ START
 [B2]to accept or start to use something new
-- We've adopted a new approach to the problem.
+- We've adopted a new `approach` to the problem.
 - The new tax would force companies to adopt energy-saving measures.
 - He's adopted a remarkably light-hearted attitude towards the situation.
 
@@ -7502,8 +7502,8 @@
 ## 1174. agree ## verb
 /əˈgriː/ SAY YES
 [B2]to say you will do something that someone asks you to
-- She agreed to help him.
-- The bank has agreed to lend me $5000.
+- She agreed `to` help him.
+- The bank has agreed `to` lend me $5000.
 
 ## 1175. agree ## verb
 /əˈgriː/ 
@@ -7525,24 +7525,24 @@
 /əˈmjuːz/ MAKE LAUGH
 [B2]to make someone laugh or smile
 - The video clips on that website always amuse me.
-- I think it amuses him to see people make fools of themselves.
+- I think `it` amuses him `to` see people make fools of themselves.
 
 ## 1179. amuse ## verb [T]
 /əˈmjuːz/ KEEP INTERESTED
 [B2]to keep someone interested and help them to have an enjoyable time
-- I bought a book of crosswords to amuse myself while I was on the train.
+- I bought a book of crosswords to amuse `myself` while I was on the train.
 
 ## 1180. analyze ## verb [T]
 /ˈæn.əlˌɑɪz/ 
 [B2]to examine the details of something carefully, in order to understand or explain it
 - Researchers analyzed purchases made by 6300 households.
-- Water samples taken from streams were analyzed for chemical contaminants.
+- Water samples taken from streams were analyzed `for` chemical contaminants.
 
 ## 1181. appeal ## verb [I]
 /əˈpiːl/ ATTRACT
 [B2]to attract or interest someone
-- Cycling has never really appealed to me.
-- It's a program designed to appeal mainly to 16 to 25 year-olds.
+- Cycling has never really appealed `to` me.
+- It's a program designed to appeal mainly `to` 16 to 25 year-olds.
 
 ## 1182. appear ## verb [I]
 /əˈpɪr/ it appears (that)
@@ -7552,30 +7552,30 @@
 ## 1183. appear ## verb [I]
 /əˈpɪr/ BECOME AVAILABLE
 [B2]to start to exist or become available
-- Laptop computers first appeared in the 1980s.
+- Laptop computers `first` appeared in the 1980s.
 - The story appeared in all the major newspapers.
 
 ## 1184. apply ## verb
 /əˈplɑɪ/ AFFECT
 [B2]to relate to a particular person or situation
-- The same rules apply to everybody.
+- The same rules apply `to` everybody.
 - Those were old regulations - they don't apply any more.
 
 ## 1185. appreciate ## verb [T]
 /əˈpriː.ʃiˌeɪt/ VALUE
 [B2]to understand how good something is or how difficult it was
 - There's no point buying him expensive clothes - he doesn't appreciate them.
-- I don't think you appreciate how much time I spent preparing this meal.
+- I don't think you appreciate `how` much time I spent preparing this meal.
 
 ## 1186. appreciate ## verb [T]
 /əˈpriː.ʃiˌeɪt/ would appreciate
 [B2]used when you are politely requesting something
-- I would appreciate it if you could let me know in advance whether or not you will be coming.
+- I would appreciate `it` if you could let me know in advance whether or not you will be coming.
 
 ## 1187. appreciate ## verb [T]
 /əˈpriː.ʃiˌeɪt/ I/We appreciate...
 [B2]used when you are thanking someone or showing that you are grateful
-- Thanks for all the help you gave us last weekend. We really appreciate it.
+- Thanks for all the help you gave us last weekend. We really appreciate `it`.
 - I appreciate your making the effort to come.
 
 ## 1188. approach ## verb
@@ -7592,16 +7592,16 @@
 ## 1190. approve ## verb
 /əˈpruːv/ GOOD OPINION
 [B2]to think that something is good or right
-- She doesn't approve of my friends.
-- He doesn't approve of smoking.
+- She doesn't approve `of` my friends.
+- He doesn't approve `of` smoking.
 - The head of the department seems to approve of what I am doing.
 
 ## 1191. argue ## verb
 /ˈɑr.gjuː/ GIVE REASONS
 [B2]to give reasons to support or oppose an idea, action, etc.
-- Several people argued in favor of creating bike lanes on the avenue.
-- She argued against tax cuts.
-- The mayor argued that cuts in all departments are needed to balance the budget.
+- Several people argued `in favor of` creating bike lanes on the avenue.
+- She argued `against` tax cuts.
+- The mayor argued `that` cuts in all departments are needed to balance the budget.
 
 ## 1192. arrange ## verb
 /əˈreɪndʒ/ PUT IN POSITION
@@ -7624,14 +7624,14 @@
 /əˈses/ 
 [B2]to make a judgement about the quality, size or value, etc. of something
 - Examinations are a way of assessing a student's ability.
-- They assessed the cost of the flood damage at £1500.
-- We need to assess whether the project is worth doing.
+- They assessed the cost of the flood damage `at` £1500.
+- We need to assess `whether` the project is worth doing.
 
 ## 1196. assist ## verb [I or T]
 /əˈsɪst/ 
 [B2]to help
-- The army arrived to assist in the search.
-- You will be expected to assist the editor with the selection of illustrations for the book.
+- The army arrived to assist `in` the search.
+- You will be expected to assist the editor `with` the selection of illustrations for the book.
 
 ## 1197. associate ## verb
 /əˈsoʊ.ʃiːˌeɪt/ be associated with sth
@@ -7641,13 +7641,13 @@
 ## 1198. assume ## verb [T]
 /əˈsuːm/ 
 [B2]to think that something is true, without question or proof
-- I assumed (that) you knew each other because you went to the same school.
+- I assumed `(that)` you knew each other because you went to the same school.
 - I invited her just assuming she would want to come.
 
 ## 1199. assure ## verb [T]
 /əˈʃʊr/ 
 [B2]to tell someone confidently that something is true, especially so that they do not worry
-- She assured him (that) the car would be ready the next day.
+- She assured him `(that)` the car would be ready the next day.
 
 ## 1200. attract ## verb
 /əˈtrækt/ be attracted to sb
@@ -7658,8 +7658,8 @@
 /əˈvɔɪd/ PREVENT
 [B2]to prevent something from happening
 - I left the room to avoid a fight.
-- Unnecessary paperwork should be avoided at all costs.
-- The plane narrowly avoided disaster when one of the engines failed on take-off.
+- Unnecessary paperwork should be avoided `at all costs`.
+- The plane `narrowly` avoided disaster when one of the engines failed on take-off.
 
 ## 1202. avoid ## verb [T]
 /əˈvɔɪd/ avoid doing sth
@@ -7675,7 +7675,7 @@
 ## 1204. back ## verb
 /bæk/ 
 [B2]to support or help someone
-- My family backed me up in my fight for compensation.
+- My family backed me up `in` my fight for compensation.
 - The last witness backed up what other people had said happened.
 
 ## 1205. back ## verb
@@ -7686,8 +7686,8 @@
 ## 1206. balance ## verb
 /ˈbæl.əns/ NOT FALLING
 [B2]to be in a position where you will not fall to either side, or to put something in this position
-- She was trying to balance a book on her head.
-- The flamingoes balanced gracefully on one leg.
+- She was trying to balance a book `on` her head.
+- The flamingoes balanced gracefully `on` one leg.
 
 ## 1207. balance ## verb
 /ˈbæl.əns/ EQUAL IMPORTANCE
@@ -7698,14 +7698,14 @@
 /bæn/ 
 [B2]to forbid something, especially officially
 - The film was banned in several countries.
-- She was banned from driving for two years.
+- She was banned `from` driving for two years.
 
 ## 1209. bang ## verb
 /bæŋ/ 
 [B2]to make a sudden loud noise or to cause something to do this
 - She banged her fist angrily on the table.
 - Outside a door was banging in the wind.
-- He could hear someone banging at the door.
+- He could hear someone banging `at` the door.
 
 ## 1210. bark ## verb
 /bɑrk/ DOG
@@ -7721,7 +7721,7 @@
 /biːt/ HIT
 [B2]to hit a person or animal repeatedly
 - They saw him beating his dog with a stick.
-- She was beaten to death.
+- She was beaten `to death`.
 
 ## 1213. beat ## verb
 /biːt/ BETTER THAN
@@ -7736,15 +7736,15 @@
 ## 1215. beg ## verb [I or T]
 /beg/ STRONG REQUEST
 [B2]to make a very strong and urgent request
-- They begged for mercy.
+- They begged `for` mercy.
 - "Please, please forgive me!" she begged (him).
-- He begged her to stay.
+- He begged her `to` stay.
 
 ## 1216. beg ## verb [I or T]
 /beg/ VERY POOR
 [B2]to ask someone for food or money, because you do not have any
-- There are more and more homeless people begging on the streets these days.
-- She had to beg for money and food for her children.
+- There are more and more homeless people begging `on the streets` these days.
+- She had to beg `for` money and food for her children.
 
 ## 1217. begin ## verb
 /bɪˈgɪn/ to begin with
@@ -7771,8 +7771,8 @@
 /bend/ BODY
 [B2]to move your body or part of your body so that it is not straight
 - Bend your knees when lifting heavy objects.
-- She bent down to pick up the pen.
-- Now, bend forwards/over and touch your toes!
+- She bent `down` to pick up the pen.
+- Now, bend `forwards/over` and touch your toes!
 
 ## 1222. bend ## verb [I or T]
 /bend/ CURVE
@@ -7782,7 +7782,7 @@
 ## 1223. benefit ## verb [I or T]
 /ˈben.ə.fɪt/ 
 [B2]to be helped by something or to help someone
-- I feel that I have benefited greatly from her experience.
+- I feel that I have benefited greatly `from` her experience.
 - How can we benefit those who most need our help?
 
 ## 1224. betray ## verb [T]
@@ -7806,14 +7806,14 @@
 /blʌʃ/ 
 [B2]to become pink in the face, usually from embarrassment
 - He blushes every time she speaks to him.
-- I blush to think what a fool I made of myself.
+- I blush `to think` what a fool I made of myself.
 
 ## 1228. boast ## verb
 /boʊst/ PRIDE
 [B2]to talk with too much pride about what you have done or what you own
 - He didn't talk about his exam score because other people might think he was boasting.
-- Parents enjoy boasting about their children's achievements.
-- They boasted that they had never lost a single game.
+- Parents enjoy boasting `about` their children's achievements.
+- They boasted `that` they had never lost a single game.
 
 ## 1229. bookmark ## verb [T]
 /ˈbʊk.mɑrk/ 
@@ -7825,23 +7825,23 @@
 [B2]to improve or increase something
 - The theater managed to boost its audiences by cutting ticket prices.
 - Everyone's spirits were boosted by Mom's recovery.
-- Getting the job had really boosted her confidence.
+- Getting the job had really boosted her `confidence`.
 
 ## 1231. bother ## verb
 /ˈbɑð.ər/ WORRY
 [B2]to make someone feel worried or upset
-- Does it bother you that he's out so much of the time?
-- It bothers me that he doesn't seem to notice.
+- Does it bother you `that` he's out so much of the time?
+- It bothers me `that` he doesn't seem to notice.
 - Living on my own has never bothered me.
 - I don't care if he doesn't come - it doesn't bother me.
 
 ## 1232. bother ## verb
 /ˈbɑð.ər/ MAKE AN EFFORT
 [B2]to make the effort to do something
-- He hasn't even bothered to write.
+- He hasn't even bothered `to` write.
 - Don't bother making the bed - I'll do it later.
 - You'd have found it if you'd bothered looking.
-- You won't get any credit for doing it, so why bother?
+- You won't get any credit for doing it, so `why` bother?
 
 ## 1233. bother ## verb
 /ˈbɑð.ər/ can't be bothered
@@ -7856,7 +7856,7 @@
 ## 1235. break ## verb
 /breɪk/ END
 [B2]to come to an end or make something come to an end
-- Eventually someone spoke, breaking the silence.
+- Eventually someone spoke, breaking `the silence`.
 - Bad habits are hard to break.
 
 ## 1236. break ## verb
@@ -7889,14 +7889,14 @@
 /breɪk/ 
 [B2]to end (something) suddenly
 - She broke off in the middle of a sentence.
-- She broke off the engagement just two weeks before the wedding.
+- She broke off the `engagement` just two weeks before the wedding.
 
 ## 1242. break ## verb
 /breɪk/ 
 [B2]If something dangerous or unpleasant breaks out, it suddenly starts.
-- War broke out in 1914.
-- The fire broke out in the early morning.
-- Fighting has broken out all over the city.
+- `War` broke out in 1914.
+- The `fire` broke out in the early morning.
+- `Fighting` has broken out all over the city.
 
 ## 1243. break ## verb
 /breɪk/ 
@@ -7922,13 +7922,13 @@
 ## 1247. broadcast ## verb [I or T]
 /ˈbrɔːd.kæst/ 
 [B2]to send out a program on television, radio or the Internet
-- The game is being broadcast on ESPN.
-- Today, we are broadcasting livefrom Denver.
+- The game is being broadcast `on` ESPN.
+- Today, we are broadcasting `live``from` Denver.
 
 ## 1248. browse ## verb
 /brɑʊz/ LOOK
 [B2]to look through a book or magazine without reading everything, or to walk around a shop looking at several things without intending to buy any of them
-- I was just browsing through some magazines.
+- I was just browsing `through` some magazines.
 - "Are you looking for anything in particular, ma'am?" "No, I'm just browsing."
 
 ## 1249. browse ## verb
@@ -7939,13 +7939,13 @@
 ## 1250. brush ## verb
 /brʌʃ/ TOUCH
 [B2]to lightly touch someone or something as you move past
-- Charlotte brushed against him as she left the room.
+- Charlotte brushed `against` him as she left the room.
 - His lips gently brushed her cheek and he was gone.
 
 ## 1251. bump ## verb
 /bʌmp/ HURT
 [B2]to hurt part of your body by hitting it against something hard
-- I bumped my head on the shelf as I stood up.
+- I bumped my head `on` the shelf as I stood up.
 
 ## 1252. bump ## verb
 /bʌmp/ bump into sth
@@ -7955,7 +7955,7 @@
 ## 1253. burn ## verb
 /bɜrn/ COPY
 [B2]to copy music, information or images onto a CD
-- He's burned all his favorite music onto a CD.
+- He's burned all his favorite music `onto` a CD.
 
 ## 1254. burn ## verb
 /bɜrn/ PRODUCE ENERGY
@@ -7978,7 +7978,7 @@
 /bɜrst/ BREAK APART
 [B2]to break open or apart suddenly, or to make something do this
 - The balloon burst and frightened the children.
-- Suddenly the door burst open and police officers carrying guns rushed in.
+- Suddenly the door burst `open` and police officers carrying guns rushed in.
 - If I eat any more cake I'll burst!
 
 ## 1258. burst ## verb [I or T]
@@ -7989,26 +7989,26 @@
 ## 1259. burst ## verb [I or T]
 /bɜrst/ MAKE A NOISE
 [B2]to suddenly start to make a noise, especially to start crying
-- She put the phone down and burst into tears.
+- She put the phone down and burst into `tears`.
 - The children gathered on the stage suddenly burst into song.
 
 ## 1260. burst ## verb [I or T]
 /bɜrst/ 
 [B2]to suddenly start laughing/crying/shouting, etc.
-- He took one look at the hat she was wearing and burst out laughing.
+- He took one look at the hat she was wearing and burst out `laughing`.
 
 ## 1261. bury ## verb [T]
 /ˈber.i/ HIDE
 [B2]to put something into a hole in the ground and cover it
 - The dog trotted off to bury its bone.
-- buried treasure
+- buried `treasure`
 
 ## 1262. calculate ## verb [T]
 /ˈkæl.kjəˌleɪt/ MATH
 [B2]to discover an amount or number using mathematics
 - Have you calculated the cost of the project?
-- He's calculated that it would take him two years to save up enough for a car.
-- At some stage we need to calculate when the project will be finished.
+- He's calculated `that` it would take him two years to save up enough for a car.
+- At some stage we need to calculate `when` the project will be finished.
 
 ## 1263. call ## verb
 /kɔːl/ DESCRIBE
@@ -8019,10 +8019,10 @@
 ## 1264. call ## verb
 /kɔːl/ ASK TO COME
 [B2]to ask someone to come somewhere
-- She called me into her office.
-- He called me over to where he was sitting.
-- I keep the bedroom door open in case the children call for me during the night.
-- I was called to an emergency meeting this morning.
+- She called me `into` her office.
+- He called me `over` to where he was sitting.
+- I keep the bedroom door open in case the children call `for` me during the night.
+- I was called `to` an emergency meeting this morning.
 
 ## 1265. call ## verb
 /kɔːl/ call in sick
@@ -8083,10 +8083,10 @@
 /ˈkær.i/ TRANSPORT
 [B2]to move someone or something from one place to another
 - The plane was carrying 300 passengers.
-- The bus was carrying children to school.
-- Underground cables carry electricity to all parts of the city.
-- Police think that the body was carried down the river.
-- Trash left on the beach during the day is carried away at night by the tide.
+- The bus was carrying children `to` school.
+- Underground cables carry electricity `to` all parts of the city.
+- Police think that the body was carried `down` the river.
+- Trash left on the beach during the day is carried `away` at night by the tide.
 
 ## 1276. carry ## verb [T]
 /ˈkær.i/ 
@@ -8096,7 +8096,7 @@
 ## 1277. cast ## verb [T often passive]
 /kæst/ ACTORS
 [B2]to choose an actor for a particular part in a movie or play
-- Why is he always cast as a criminal?
+- Why is he always cast `as` a criminal?
 
 ## 1278. catch ## verb
 /kætʃ/ catch sb's attention, interest, etc.
@@ -8117,13 +8117,13 @@
 ## 1281. catch ## verb
 /kætʃ/ REACH SOMEONE
 [B2]to reach someone in front of you by going faster than them
-- I ran after her and managed to catch up with her.
+- I ran after her and managed to catch up `with` her.
 - You go on ahead - I'll catch up later.
 
 ## 1282. catch ## verb
 /kætʃ/ 
 [B2]to learn and discuss the newest facts about something
-- I'll call you tonight to catch up on all the gossip.
+- I'll call you tonight to catch up `on` all the gossip.
 
 ## 1283. catch ## verb
 /kætʃ/ 
@@ -8134,15 +8134,15 @@
 /kɔːz/ 
 [B2]to make something happen, especially something bad
 - The difficult driving conditions caused several accidents.
-- Most heart attacks are caused by blood clots.
-- The bright light caused her to look away.
+- Most heart attacks are caused `by` blood clots.
+- The bright light caused her `to` look away.
 
 ## 1285. cease ## verb [I or T]
 /siːs/ 
 [B2]to stop
 - He ordered his men to cease firing.
 - The company has decided to cease all UK operations after this year.
-- She never ceases to amaze me.
+- She never ceases `to` amaze me.
 
 ## 1286. challenge ## verb [T]
 /ˈtʃæl.əndʒ/ 
@@ -8157,13 +8157,13 @@
 ## 1288. charge ## verb
 /tʃɑrdʒ/ ACCUSE
 [B2]If the police charge someone, they accuse them officially of a crime.
-- She's been charged with murder.
+- She's been charged `with` murder.
 
 ## 1289. charge ## verb
 /tʃɑrdʒ/ ATTACK
 [B2]to attack someone or something by moving forward quickly
 - The bull lowered its horns and charged.
-- The violence began when the police charged at a crowd of demonstrators.
+- The violence began when the police charged `at` a crowd of demonstrators.
 
 ## 1290. charge ## verb
 /tʃɑrdʒ/ ELECTRICITY
@@ -8174,7 +8174,7 @@
 /tʃeɪs/ RUN AFTER
 [B2]to run after someone or something in order to catch them
 - The dog was chasing a rabbit.
-- She was chasing after her two-year-old son.
+- She was chasing `after` her two-year-old son.
 
 ## 1292. chase ## verb
 /tʃeɪs/ chase sb/sth away/off/out, etc.
@@ -8190,8 +8190,8 @@
 /tʃiːt/ 
 [B2]to behave in a dishonest way in order to get what you want
 - Anyone caught cheating during the test will be immediately disqualified.
-- She was caught cheating on her French exam.
-- He cheats at cards.
+- She was caught cheating `on` her French exam.
+- He cheats `at` cards.
 
 ## 1295. cheat ## verb [I or T]
 /tʃiːt/ 
@@ -8201,13 +8201,13 @@
 ## 1296. check ## verb
 /tʃek/ ASK
 [B2]to ask someone for permission to do something
-- I'd like to stay overnight, but I need to check with my parents.
+- I'd like to stay overnight, but I need to check `with` my parents.
 
 ## 1297. cheer ## verb [I]
 /tʃɪr/ 
 [B2]to give a loud shout of approval or encouragement
 - Everyone cheered as the winners received their medals.
-- He was cheering for the other side.
+- He was cheering `for` the other side.
 
 ## 1298. cheer ## verb [I]
 /tʃɪr/ 
@@ -8225,9 +8225,9 @@
 ## 1300. chew ## verb [I or T]
 /tʃuː/ BITE
 [B2]to repeatedly bite something without swallowing it
-- She was chewing gum.
-- Our dog loves a bone to chew (on).
-- She sat in the dentist's waiting room, nervously chewing (at) her nails.
+- She was chewing `gum`.
+- Our dog loves a bone to chew `(on)`.
+- She sat in the dentist's waiting room, nervously chewing `(at)` her nails.
 
 ## 1301. chill ## verb [I or T]
 /tʃɪl/ 
@@ -8239,14 +8239,14 @@
 [B2]to cut something into pieces with an axe, knife, or other sharp instrument
 - He was chopping wood in the yard.
 - Add some fresh parsley, finely chopped.
-- Chop (up) the onions and carrots.
+- Chop `(up)` the onions and carrots.
 
 ## 1303. claim ## verb
 /kleɪm/ SAY
 [B2]to say that something is true or is a fact, although you cannot prove it and other people might not believe it
-- The company claims (that) it is not responsible for pollution of the river.
-- He claims to have met the President, but I don't believe him.
-- An unknown terrorist group has claimed responsibility for this morning's bomb attack.
+- The company claims `(that)` it is not responsible for pollution of the river.
+- He claims `to` have met the President, but I don't believe him.
+- An unknown terrorist group has claimed `responsibility` for this morning's bomb attack.
 - All parties have claimed success in yesterday's elections.
 
 ## 1304. claim ## verb
@@ -8260,9 +8260,9 @@
 /klɪr/ 
 [B2]to remove all the objects or people from a place
 - It took several hours to clear the road after the accident.
-- I'll make the coffee if you'll clear the table.
-- I cleared the snow off the path.
-- Could you clear your things from the couch?
+- I'll make the coffee if you'll clear the `table`.
+- I cleared the snow `off` the path.
+- Could you clear your things `from` the couch?
 
 ## 1306. clear ## verb [T]
 /klɪr/ 
@@ -8283,15 +8283,15 @@
 ## 1309. climb ## verb
 /klɑɪm/ MOVE HIGHER
 [B2]to go up, or to go toward the top of something
-- The plane climbed quickly to a height of 30,000 feet.
-- As it leaves the village, the road climbs steeply up the mountain.
+- The plane climbed quickly `to` a height of 30,000 feet.
+- As it leaves the village, the road climbs steeply `up` the mountain.
 - The sun climbed higher in the sky.
 
 ## 1310. close ## verb
  STOP OPERATING
 [B2]If a business or organization closes, or if someone or something closes it, it stops operating.
-- The factory closed over ten years ago.
-- A lot of restaurants/stores are closing because they can't afford the rent.
+- The `factory` closed over ten years ago.
+- A lot of `restaurants/stores` are closing because they can't afford the rent.
 
 ## 1311. close ## verb
  
@@ -8302,13 +8302,13 @@
 ## 1312. coach ## verb [I or T]
 /koʊtʃ/ 
 [B2]to teach someone so they improve at a sport, skill, or a school subject
-- She coaches students in French, usually for exams.
+- She coaches students `in` French, usually for exams.
 
 ## 1313. collapse ## verb [I]
 /kəˈlæps/ OBJECT
 [B2]to fall down suddenly because of pressure or having no strength or support
 - Thousands of buildings collapsed in the earthquake.
-- The chair collapsed under her weight.
+- The chair collapsed `under` her `weight`.
 
 ## 1314. collapse ## verb [I]
 /kəˈlæps/ PERSON
@@ -8319,19 +8319,19 @@
 /kəˈlekt/ MONEY
 [B2]to ask people to give you money for something, for example a charity
 - I'm collecting on behalf of Oxfam.
-- We're collecting (money) for the homeless.
+- We're collecting (money) `for` the homeless.
 
 ## 1316. combine ## verb [I or T]
 /kəmˈbɑɪn/ 
 [B2]to become mixed or joined, or to mix or join things together
-- My wages combined with your savings should just about pay for it.
+- My wages combined `with` your savings should just about pay for it.
 - The band combines jazz rhythms and romantic lyrics.
 
 ## 1317. come ## verb [I]
 /kʌm/ HAPPEN
 [B2]to happen
 - Spring has come early.
-- The worst problems are still/yet to come.
+- The worst problems are `still/yet to` come.
 - The announcement came at a bad time.
 
 ## 1318. come ## verb [I]
@@ -8389,7 +8389,7 @@
 ## 1327. come ## verb [I]
 /kʌm/ MOVE TOWARD
 [B2]to move toward someone
-- A young girl came up to me and asked for money.
+- A young girl came up `to` me and asked for money.
 
 ## 1328. come ## verb [I]
 /kʌm/ BE MENTIONED
@@ -8414,21 +8414,21 @@
 ## 1332. comment ## verb [I or T]
 /ˈkɑm.ent/ 
 [B2]to make a comment
-- My mom always comments on what I'm wearing.
-- He commented that the two essays were very similar.
-- The official refused to comment on the matter.
+- My mom always comments `on` what I'm wearing.
+- He commented `that` the two essays were very similar.
+- The official `refused to` comment on the matter.
 
 ## 1333. commit ## verb [T]
 /kəˈmɪt/ DO
 [B2]to do something that is considered wrong, or that is illegal
 - He was sent to prison for a crime that he didn't commit.
-- to commit suicide
-- to commit a crime/an offense/murder
+- to commit `suicide`
+- to commit `a crime/an offense/murder`
 
 ## 1334. communicate ## verb
 /kəˈmjuː.nəˌkeɪt/ BE UNDERSTOOD
 [B2]to be understood by someone when you tell them about your feelings and thoughts
-- He can't communicate with his parents.
+- He can't communicate `with` his parents.
 
 ## 1335. compare ## verb
 /kəmˈper/ compared to/with sb/sth
@@ -8439,24 +8439,24 @@
 ## 1336. compete ## verb [I]
 /kəmˈpiːt/ SUCCESS
 [B2]to try to be more successful than someone or something else
-- It's difficult for a small grocery store to compete against/with the big supermarkets.
-- The girls compete for their father's attention.
+- It's difficult for a small grocery store to compete `against/with` the big supermarkets.
+- The girls compete `for` their father's attention.
 
 ## 1337. compose ## verb
 /kəmˈpoʊz/ BE MADE OF
 [B2]to be the parts that something consists of
-- The committee was composed of elected leaders and citizens.
+- The committee was composed `of` elected leaders and citizens.
 
 ## 1338. compose ## verb
 /kəmˈpoʊz/ MUSIC
 [B2]to write a piece of music
-- Who composed the music for the film?
+- Who composed the `music` for the film?
 
 ## 1339. compromise ## verb
 /ˈkɑm.prəˌmɑɪz/ AGREE
 [B2]to agree to something that is not exactly what you want
 - In a relationship, both people have to compromise.
-- I'm not going to compromise on quality.
+- I'm not going to compromise `on` quality.
 
 ## 1340. concern ## verb [T]
 /kənˈsɜrn/ INVOLVE
@@ -8472,27 +8472,27 @@
 ## 1342. conduct ## verb
 /kənˈdʌkt/ ORGANIZE
 [B2]to organize and perform a particular activity
-- We are conducting a survey to find out what our customers think of their local bus service.
+- We are conducting a `survey` to find out what our customers think of their local bus service.
 - The experiments were conducted by scientists in New York.
 
 ## 1343. conduct ## verb
 /kənˈdʌkt/ MUSIC
 [B2]to stand in front of a group of musicians and control their performance
-- The orchestra was conducted by Charles Miller.
+- The `orchestra` was conducted by Charles Miller.
 
 ## 1344. confess ## verb [I or T]
 /kənˈfes/ 
 [B2]to admit that you have done something wrong or something that you feel guilty or bad about
-- She confessed to her husband that she had sold her wedding ring.
-- He has confessed to the murder.
-- He confessed to sleeping through most of the film.
-- I have to confess, I was a little confused at first.
-- I found it all very confusing, I must confess.
+- She confessed `to` her husband that she had sold her wedding ring.
+- He has confessed `to` the murder.
+- He confessed `to` sleeping through most of the film.
+- `I have to` confess, I was a little confused at first.
+- I found it all very confusing, `I must` confess.
 
 ## 1345. confirm ## verb
 /kənˈfɜrm/ PROVE TRUE
 [B2]to say or show that something is true
-- His wife confirmed that he had left the house that morning.
+- His wife confirmed `that` he had left the house that morning.
 - The leader's speech was impressive and confirmed her faith in the party.
 
 ## 1346. confuse ## verb [T]
@@ -8504,13 +8504,13 @@
 ## 1347. confuse ## verb [T]
 /kənˈfjuːz/ THINK ONE IS ANOTHER
 [B2]to think that one person or thing is another person or thing
-- I think you're confusing me with my sister - we look quite similar.
+- I think you're confusing me `with` my sister - we look quite similar.
 - It's easy to confuse his films, because he tends to use the same actors.
 
 ## 1348. congratulate ## verb [T]
 /kənˈgrætʃ.əˌleɪt/ 
 [B2]to tell someone that you are happy because they have done something good or something good has happened to them
-- I was just congratulating Ceri on winning her race.
+- I was just congratulating Ceri `on` winning her race.
 
 ## 1349. consider ## verb
 /kənˈsɪd.ər/ consider sb/sth (to be) sth
@@ -8521,8 +8521,8 @@
 /kənˈstrʌkt/ 
 [B2]to build something from several parts
 - The building was constructed in 1930.
-- The walls are constructed of concrete.
-- You need this information to construct a basic sentence.
+- The walls are constructed `of` concrete.
+- You need this information to construct a basic `sentence`.
 
 ## 1351. consume ## verb [T]
 /kənˈsuːm/ EAT OR DRINK
@@ -8534,12 +8534,12 @@
 [B2]to have something as a part
 - Does this drink contain alcohol?
 - Try to avoid foods which contain a lot of fat.
-- The allegations contained in this report are very serious.
+- The allegations contained `in` this report are very serious.
 
 ## 1353. contribute ## verb [I or T]
 /kənˈtrɪb.juːt/ GIVE
 [B2]to give something, especially money, in order to provide or achieve something together with other people
-- Her family contributed $50,000 to the fund.
+- Her family contributed $50,000 `to` the fund.
 - You should come to the meeting if you feel you have something you want to contribute.
 
 ## 1354. control ## verb [T]
@@ -8556,8 +8556,8 @@
 ## 1356. convert ## verb [I or T]
 /kənˈvɜrt/ CHANGE
 [B2]to change the appearance, form, or purpose of something
-- Could we convert the small bedroom into a second bathroom?
-- What's the formula for converting pounds into kilos?
+- Could we convert the small bedroom `into` a second bathroom?
+- What's the formula for converting pounds `into` kilos?
 
 ## 1357. cool ## verb [I or T]
 /kuːl/ 
@@ -8578,8 +8578,8 @@
 ## 1360. cooperate ## verb [I]
 /koʊˈɑp.əˌreɪt/ WORK TOGETHER
 [B2]to work together with someone in order to achieve the same aim
-- The Spanish authorities cooperated with the British police in finding the terrorists.
-- Several companies are cooperating in the relief effort.
+- The Spanish authorities cooperated `with` the British police in finding the terrorists.
+- Several companies are cooperating `in` the relief effort.
 
 ## 1361. cooperate ## verb [I]
 /koʊˈɑp.əˌreɪt/ HELP
@@ -8589,14 +8589,14 @@
 ## 1362. cope ## verb [I]
 /koʊp/ 
 [B2]to deal successfully with a difficult situation
-- How does she cope with three small children and a job?
+- How does she cope `with` three small children and a job?
 - It was too stressful and eventually he just couldn't cope.
 - Tires generally don't cope well on wet roads.
 
 ## 1363. copy ## verb
 /ˈkɑp.i/ CHEAT
 [B2]to cheat by looking at and using someone else's work
-- He was always copying from/off other children, but never got caught.
+- He was always copying `from/off` other children, but never got caught.
 
 ## 1364. copy ## verb
 /ˈkɑp.i/ BEHAVE
@@ -8616,9 +8616,9 @@
 ## 1367. correspond ## verb [I]
 /ˌkɔːr.əˈspɑnd/ BE SIMILAR
 [B2]to be the same or very similar
-- The money I've saved corresponds roughly to the amount I need for my course.
-- The American FBI corresponds to the British MI5.
-- His story of what happened that night didn't correspond with the witness's version.
+- The money I've saved corresponds roughly `to` the amount I need for my course.
+- The American FBI corresponds `to` the British MI5.
+- His story of what happened that night didn't correspond `with` the witness's version.
 
 ## 1368. correspond ## verb [I]
 /ˌkɔːr.əˈspɑnd/ WRITE
@@ -8647,7 +8647,7 @@
 /kɑʊnt/ BE IMPORTANT
 [B2]to be important
 - I've always believed that happiness counts more than money.
-- My opinion doesn't count for anything around here.
+- My opinion doesn't count `for anything` around here.
 
 ## 1373. count ## verb
 /kɑʊnt/ 
@@ -8667,7 +8667,7 @@
 ## 1376. cover ## verb [T]
 /ˈkʌv.ər/ AREA
 [B2]to be a particular size or area
-- The town covers an area of 5 square miles.
+- The town covers `an area` of 5 square miles.
 
 ## 1377. crack ## verb [I or T]
 /kræk/ BREAK
@@ -8684,14 +8684,14 @@
 ## 1379. crawl ## verb [I]
 /krɔːl/ HANDS AND KNEES
 [B2]to move on your hands and knees
-- The child crawled across the floor.
+- The child crawled `across` the floor.
 - The injured soldier crawled to safety.
 
 ## 1380. criticize ## verb [I or T often passive]
 /ˈkrɪt̬.əˌsɑɪz/ 
 [B2]to say that someone or something is bad
-- The government is being criticized by the press for failing to pass air pollution legislation.
-- The film was criticized for being too violent.
+- The government is being criticized by the press `for` failing to pass air pollution legislation.
+- The film was criticized `for` being too violent.
 
 ## 1381. cross ## verb
 /krɔːs/ cross your mind
@@ -8711,8 +8711,8 @@
 ## 1384. cut ## verb
 /kʌt/ REDUCE
 [B2]to reduce the size or amount of something
-- cut prices/costs
-- The company is cutting 300 jobs.
+- cut `prices/costs`
+- The company is cutting 300 `jobs`.
 
 ## 1385. cut ## verb
 /kʌt/ FILM/WRITING
@@ -8737,7 +8737,7 @@
 ## 1389. cut ## verb
 /kʌt/ DIET
 [B2]to eat or drink less of a particular thing, usually in order to improve your health
-- I'm trying to cut down on the amount of sugar I eat.
+- I'm trying to cut down `on` the amount of sugar I eat.
 
 ## 1390. cut ## verb
 /kʌt/ STOP PROVIDING
@@ -8759,13 +8759,13 @@
 ## 1393. dash ## verb [I]
 /dæʃ/ 
 [B2]to go somewhere quickly
-- I've been dashing around all day.
+- I've been dashing `around` all day.
 - Mary’s always dashing from one meeting to another.
 
 ## 1394. date ## verb
 /deɪt/ 
 [B2]to have existed a particular length of time or since a particular time
-- This house dates back to 1650.
+- This house dates back `to` 1650.
 
 ## 1395. date ## verb
 /deɪt/ 
@@ -8792,14 +8792,14 @@
 /dəˈsiːv/ 
 [B2]to make someone believe something that is not true
 - The company deceived customers by selling old computers as new ones.
-- The sound of the door closing deceived me into thinking they had gone out.
+- The sound of the door closing deceived me `into` thinking they had gone out.
 
 ## 1400. declare ## verb [T]
 /dɪˈkler/ EXPRESS
 [B2]to announce something publicly or officially
 - They declared their support for the proposal.
-- The US declared waron Japan in 1941.
-- The country declared independence in 1952.
+- The US declared `war``on` Japan in 1941.
+- The country declared `independence` in 1952.
 
 ## 1401. decline ## verb
 /dɪˈklɑɪn/ GET LESS
@@ -8816,20 +8816,20 @@
 ## 1403. defeat ## verb [T]
 /dəˈfiːt/ CAUSE TO FAIL
 [B2]to cause someone or something to fail
-- The proposal to change the rules was narrowly defeated by 201 votes to 196.
+- The proposal to change the rules was `narrowly` defeated by 201 votes to 196.
 - I'm afraid anything that involves language learning has always defeated me.
 
 ## 1404. defend ## verb
 /dəˈfend/ SUPPORT
 [B2]to support someone or something that is being criticized
-- The newspaper's editor defended his decision to publish the photos.
-- They are fighting to defend their beliefs/interests/rights.
+- The newspaper's editor defended his `decision` to publish the photos.
+- They are fighting to defend their `beliefs/interests/rights`.
 
 ## 1405. define ## verb [T]
 /dəˈfɑɪn/ 
 [B2]to say exactly what something means, or what someone or something is like
-- In the dictionary "reality" is defined as "the state of things as they are, rather than as they are imagined to be."
-- Your duties are clearly defined in the contract.
+- In the dictionary "reality" is defined `as` "the state of things as they are, rather than as they are imagined to be."
+- Your duties are `clearly` defined in the contract.
 
 ## 1406. deliver ## verb
 /dɪˈlɪv.ər/ deliver a speech/talk, etc.
@@ -8850,18 +8850,18 @@
 /ˈdem.ənˌstreɪt/ PROVE
 [B2]to show or prove that something exists or is true
 - These problems demonstrate the importance of strategic planning.
-- These figures clearly demonstrate the size of the economic problem facing the country.
-- Research has demonstrated that babies can recognize their mother's voice very soon after birth.
+- These figures `clearly` demonstrate the size of the economic problem facing the country.
+- Research has demonstrated `that` babies can recognize their mother's voice very soon after birth.
 
 ## 1410. demonstrate ## verb
 /ˈdem.ənˌstreɪt/ MARCH
 [B2]to march or stand with a group of people to show that you disagree with or support someone or something
-- Thousands of people gathered to demonstrate against the war.
+- Thousands of people gathered to demonstrate `against` the war.
 
 ## 1411. deny ## verb [T]
 /dɪˈnɑɪ/ NOT TRUE
 [B2]to say that something is not true
-- Neil denies that he broke the window, but I'm sure he did.
+- Neil denies `that` he broke the window, but I'm sure he did.
 - Neil denies breaking the window.
 
 ## 1412. deny ## verb [T]
@@ -8875,20 +8875,20 @@
 /dəˈpend/ NEED
 [B2]to need the help and support of someone or something in order to exist or continue as before
 - She depends on her son for everything.
-- The country depends heavily on foreign aid.
+- The country depends `heavily` on foreign aid.
 
 ## 1414. depend ## verb
 /dəˈpend/ RELY
 [B2]to trust someone or something and know that they will help you or do what you want or expect them to do
-- You can always depend on Michael in a crisis.
-- I'm depending on you to keep your promise.
-- You can't depend on the train being on time.
+- You can always depend `on` Michael in a crisis.
+- I'm depending on you `to` keep your promise.
+- You can't depend `on` the train being on time.
 
 ## 1415. deprive ## verb [T]
 /dəˈprɑɪv/ 
 [B2]to take something, especially something necessary or pleasant, away from someone
-- He claimed that he had been deprived of his freedom/rights.
-- You can't function properly when you're deprived of sleep.
+- He claimed that he had been deprived `of` his freedom/rights.
+- You can't function properly when you're deprived `of` sleep.
 
 ## 1416. descend ## verb [I or T]
 /dəˈsend/ 
@@ -8926,9 +8926,9 @@
 ## 1422. differ ## verb [I]
 /ˈdɪf.ər/ 
 [B2]to be not like something or someone else, either physically or in another way
-- The twins look alike, but they differ in other ways.
-- His views differ considerably from those of his parents.
-- The findings of the various studies differ greatly/widely.
+- The twins look alike, but they differ `in` other ways.
+- His views differ considerably `from` those of his parents.
+- The findings of the various studies differ `greatly/widely`.
 
 ## 1423. dig ## verb
 /dɪg/ dig a hole/tunnel
@@ -8939,25 +8939,25 @@
 ## 1424. dip ## verb
 /dɪp/ PUT INTO LIQUID
 [B2]to put something into a liquid for a short time
-- Dip the fish in the batter, then drop it into the hot oil.
-- She dipped her toe into the pool to see how cold it was.
+- Dip the fish `in` the batter, then drop it into the hot oil.
+- She dipped her toe `into` the pool to see how cold it was.
 
 ## 1425. dip ## verb
 /dɪp/ BECOME LOWER
 [B2]to become lower in level or amount
-- The number of students taking classes in the sciences has dipped sharply.
+- The number of students taking classes in the sciences has dipped `sharply`.
 
 ## 1426. disappear ## verb [I]
 /ˌdɪs.əˈpɪr/ STOP EXISTING
 [B2]to no longer exist
-- These flowers are disappearing from our countryside.
+- These flowers are disappearing `from` our countryside.
 - This is a way of life that is fast disappearing.
 
 ## 1427. disapprove ## verb [I]
 /ˌdɪs.əˈpruːv/ 
 [B2]to feel that something or someone is bad or wrong
 - The survey showed that 32% of respondents approve, 54% disapprove and the rest are undecided.
-- I strongly disapprove of under-age drinking.
+- I `strongly` disapprove `of` under-age drinking.
 
 ## 1428. discourage ## verb [T]
 /dɪˈskɜr.ɪdʒ/ MAKE LESS CONFIDENT
@@ -8972,14 +8972,14 @@
 ## 1430. disguise ## verb [T]
 /dəsˈgɑɪz/ DIFFERENT APPEARANCE
 [B2]to give a new appearance to a person or thing, especially in order to hide its true form
-- He disguised himself by shaving his head and wearing a false beard.
+- He disguised `himself` by shaving his head and wearing a false beard.
 - Minor skin imperfections can usually be disguised with makeup.
-- We tried to disguise the fact that it was just a school auditorium by putting up colored lights and balloons.
+- We tried to disguise `the fact` that it was just a school auditorium by putting up colored lights and balloons.
 
 ## 1431. display ## verb
 /dɪˈspleɪ/ ON SCREEN
 [B2]to show something electronically such as on a computer screen
-- The text can be displayed and edited on screen.
+- The `text` can `be` displayed and edited on screen.
 
 ## 1432. disrupt ## verb [T]
 /dɪsˈrʌpt/ 
@@ -8990,15 +8990,15 @@
 ## 1433. distinguish ## verb
 /dɪsˈtɪŋ.gwɪʃ/ RECOGNIZE DIFFERENCES
 [B2]to recognize the differences between two people, ideas or things
-- He's colorblind and can't distinguish (the difference) between red and green easily.
-- I sometimes have difficulty distinguishing Spanish from Portuguese.
-- It's important to distinguish between business and pleasure.
-- It's not the beauty so much as the range of his voice that distinguishes him from other tenors.
+- He's colorblind and can't distinguish (the difference) `between` red and green easily.
+- I sometimes have difficulty distinguishing Spanish `from` Portuguese.
+- It's important to distinguish `between` business and pleasure.
+- It's not the beauty so much as the range of his voice that distinguishes him `from` other tenors.
 
 ## 1434. distinguish ## verb
 /dɪsˈtɪŋ.gwɪʃ/ SHOW DIFFERENCES
 [B2]to make one person or thing seem different from another
-- His great skill distinguishes him from the rest of the team.
+- His great skill distinguishes him `from` the rest of the team.
 
 ## 1435. distinguish ## verb
 /dɪsˈtɪŋ.gwɪʃ/ SEE/HEAR
@@ -9008,14 +9008,14 @@
 ## 1436. distract ## verb [T]
 /dɪˈstrækt/ 
 [B2]to make someone stop giving their attention to something
-- Don't distract her from her studies.
-- He tried to distract attentionfrom his own illegal activities.
+- Don't distract her `from` her studies.
+- He tried to distract `attention``from` his own illegal activities.
 
 ## 1437. distribute ## verb [T]
 /dɪˈstrɪb.juːt/ GIVE OUT
 [B2]to give something out to several people
-- The books will be distributed free to local schools.
-- Several people were arrested for distributing racist leaflets to the spectators.
+- The books will be distributed free `to` local schools.
+- Several people were arrested for distributing racist leaflets `to` the spectators.
 
 ## 1438. disturb ## verb [T]
 /dɪˈstɜrb/ INTERRUPT
@@ -9026,7 +9026,7 @@
 ## 1439. divide ## verb
 /dɪˈvɑɪd/ PLACE
 [B2]to separate a place into two areas
-- There's a narrow alley which divides our house from the one next door.
+- There's a narrow alley which divides our house `from` the one next door.
 
 ## 1440. divorce ## verb [I or T]
 /dəˈvɔːrs/ 
@@ -9073,7 +9073,7 @@
 ## 1448. donate ## verb [I or T]
 /ˈdoʊ.neɪt/ GIVE MONEY
 [B2]to give money or goods to help a person or organization
-- An anonymous businesswoman donated one million dollars to the charity.
+- An anonymous businesswoman donated one million dollars `to` the charity.
 - Please donate generously.
 
 ## 1449. double ## verb [I or T]
@@ -9085,9 +9085,9 @@
 ## 1450. doubt ## verb [T]
 /dɑʊt/ FEEL UNCERTAIN
 [B2]to feel uncertain about something or to think that something is not probable
-- I doubt whether/if I can finish the work on time.
-- I doubt (that) I'll get the job.
-- He may come back tomorrow with the money, but I very much doubt it.
+- I doubt `whether`/`if` I can finish the work on time.
+- I doubt `(that)` I'll get the job.
+- He may come back tomorrow with the money, but I very much doubt `it`.
 
 ## 1451. drag ## verb
 /dræg/ PULL
@@ -9100,7 +9100,7 @@
 [B2]to move in a particular direction, especially in a vehicle
 - The train slowly drew into the station/drew in.
 - As we drew alongside the black car, I suddenly recognized my ex-boyfriend at the wheel.
-- Montgomery drew level with Greene in the 100 meters final, but never passed him.
+- Montgomery drew `level with` Greene in the 100 meters final, but never passed him.
 
 ## 1453. draw ## verb
 /drɔː/ ATTRACT
@@ -9133,7 +9133,7 @@
 /drɑp/ LOWER
 [B2]to move to a lower level, or cause something to move to a lower level
 - The water level in the flooded region has finally begun to drop.
-- The land drops (away) sharply behind the house.
+- The land drops `(away)` sharply behind the house.
 - We've had to drop our prices because of the recession.
 
 ## 1459. drop ## verb
@@ -9150,7 +9150,7 @@
 ## 1461. earn ## verb
 /ɜrn/ earn a living
 [B2]to have enough money for the things you need from doing your work
-- You can't expect to earn a living from your painting.
+- You can't expect to earn `a living` from your painting.
 
 ## 1462. eat ## verb
 /iːt/ 
@@ -9161,7 +9161,7 @@
 /ˈed.ɪt/ 
 [B2]to prepare text, film, etc. by deciding what to include and by correcting mistakes
 - Janet edited books for a variety of publishers.
-- The film's 129 minutes were edited down from 150 hours of footage.
+- The film's 129 minutes were edited `down` from 150 hours of footage.
 
 ## 1464. educate ## verb [T]
 /ˈedʒ.ʊ.keɪt/ TEACH
@@ -9172,31 +9172,31 @@
 ## 1465. educate ## verb [T]
 /ˈedʒ.ʊ.keɪt/ GIVE INFORMATION
 [B2]to give people information about something so that they understand it better
-- The government said it is trying to do more to educate the public about the consequences of drug abuse.
+- The government said it is trying to do more to educate the public `about` the consequences of drug abuse.
 
 ## 1466. elect ## verb [T often passive]
 /ɪˈlekt/ 
 [B2]to choose someone for a particular job or position by voting
 - He was elected president in 1997.
-- She was elected to the US Senate in 2004.
-- We elected him as our representative.
+- She was elected `to` the US Senate in 2004.
+- We elected him `as` our representative.
 
 ## 1467. emerge ## verb [I]
 /ɪˈmɜrdʒ/ APPEAR
 [B2]to appear from somewhere or come out from somewhere
-- She emerged from the sea, blue with cold.
+- She emerged `from` the sea, blue with cold.
 
 ## 1468. emphasize ## verb [T]
 /ˈem.fəˌsɑɪz/ 
 [B2]to show that something is especially important or needs special attention
 - She emphasized the need for a better diet.
-- He emphasized that the driver was not to blame for the accident.
+- He emphasized `that` the driver was not to blame for the accident.
 - You can use italics or capitals to emphasize a word in a piece of writing.
 
 ## 1469. enable ## verb [T]
 /ɪˈneɪ.bəl/ 
 [B2]to make someone able to do something, or to make something possible
-- Computerization should enable us to cut production costs by half.
+- Computerization should enable us `to` cut production costs by half.
 
 ## 1470. enclose ## verb [T]
 /ɪnˈkloʊz/ SEND
@@ -9206,7 +9206,7 @@
 ## 1471. encounter ## verb [T]
 /enˈkɑʊnt.ər/ 
 [B2]to experience something unpleasant
-- We encountered quite a few problems at the beginning.
+- We encountered quite a few `problems` at the beginning.
 
 ## 1472. endure ## verb [T]
 /ɪnˈdʊr/ 
@@ -9217,8 +9217,8 @@
 ## 1473. entitle ## verb [T often passive]
 /enˈtɑɪ.t̬əl/ 
 [B2]to give someone the right to do or have something
-- I'm entitled to apply for citizenship.
-- Becoming unemployed entitles you to collect unemployment insurance payments.
+- I'm entitled `to` apply for citizenship.
+- Becoming unemployed entitles you `to` collect unemployment insurance payments.
 
 ## 1474. envy ## verb [T]
 /ˈen.vi/ 
@@ -9240,7 +9240,7 @@
 ## 1477. escape ## verb
 /ɪˈskeɪp/ AVOID
 [B2]to avoid a dangerous or unpleasant situation
-- She was lucky to escape serious injury.
+- She was lucky to escape serious `injury`.
 - We only just escaped defeat in the second round of the tournament.
 
 ## 1478. establish ## verb [T often passive]
@@ -9252,22 +9252,22 @@
 /ˈes.tə.meɪt/ 
 [B2]to guess the cost, size, value, etc. of something
 - Sources estimate a long-term 50% increase in train fares.
-- They estimate that the trip will take at least two weeks.
-- It was difficult to estimate how many trees had been destroyed.
-- The number of dead is estimated at over three hundred.
+- They estimate `that` the trip will take at least two weeks.
+- It was difficult to estimate `how` many trees had been destroyed.
+- The number of dead is estimated `at` over three hundred.
 
 ## 1480. examine ## verb [T]
 /ɪgˈzæm.ən/ LOOK AT
 [B2]to look at or consider a person or thing carefully and in detail in order to discover something about them
 - She picked up the knife and examined it closely.
 - He was examined by a doctor as soon as he arrived.
-- Experts are examining the wreckage for clues about the cause of the explosion.
+- Experts are examining the wreckage `for` clues about the cause of the explosion.
 
 ## 1481. exchange ## verb [T]
 /ɪksˈtʃeɪndʒ/ SHOP
 [B2]to take something back to the shop where you bought it and change it for something else
 - Your purchase can only be exchanged if you have the original receipt.
-- Could I exchange this shirt for a larger size?
+- Could I exchange this shirt `for` a larger size?
 
 ## 1482. exchange ## verb [T]
 /ɪksˈtʃeɪndʒ/ exchange looks, opinions, views, etc.
@@ -9288,7 +9288,7 @@
 ## 1485. expect ## verb
 /ɪkˈspekt/ BEHAVE
 [B2]to think that someone should behave in a particular way or do a particular thing
-- You will be expected to work some weekends.
+- You will be expected `to` work some weekends.
 
 ## 1486. expect ## verb
 /ɪkˈspekt/ be expecting (a baby)
@@ -9298,7 +9298,7 @@
 ## 1487. experiment ## verb [I]
  TRY
 [B2]to try something in order to discover what it is like
-- Did he ever experiment with drugs?
+- Did he ever experiment `with` drugs?
 
 ## 1488. exploit ## verb [T]
 /ɪkˈsplɔɪt/ USE UNFAIRLY
@@ -9308,24 +9308,24 @@
 ## 1489. exploit ## verb [T]
 /ɪkˈsplɔɪt/ USE WELL
 [B2]to use or develop something to your advantage
-- We need to make sure that we exploit our resources as fully as possible.
+- We need to make sure that we exploit our `resources` as fully as possible.
 
 ## 1490. explore ## verb
 /ɪkˈsplɔːr/ LOOK INTO
 [B2]to find out more about something, often something that you might do in the future
-- We're exploring the possibility of buying a vacation home.
+- We're exploring the `possibility` of buying a vacation home.
 
 ## 1491. export ## verb [I or T]
  
 [B2]to send goods to another country for sale
-- French cheeses are exported to many different countries.
+- French cheeses are exported `to` many different countries.
 - Our clothes sell so well in this country that we have no need to export.
 
 ## 1492. expose ## verb [T]
 /ɪkˈspoʊz/ MAKE PUBLIC
 [B2]to make public something bad or dishonest
 - The review exposed widespread corruption in the police force.
-- The newspaper story exposed him as a liar.
+- The newspaper story exposed him `as` a liar.
 
 ## 1493. expose ## verb [T]
 /ɪkˈspoʊz/ be exposed to sth
@@ -9351,15 +9351,15 @@
 ## 1496. extract ## verb [T]
  
 [B2]to remove or take out something
-- The oil which is extracted from olives is used mainly for cooking.
+- The oil which is extracted `from` olives is used mainly for cooking.
 - The tooth was eventually extracted.
 
 ## 1497. face ## verb
 /feɪs/ PROBLEM
 [B2]If you face a problem, or a problem faces you, you have to deal with it.
-- This is one of the many problems faced by working mothers.
+- This is one of the many `problems` faced by working mothers.
 - Passengers could face long delays.
-- You're faced with a very difficult choice there.
+- You're faced `with` a very difficult choice there.
 
 ## 1498. face ## verb
 /feɪs/ can't face sb/sth/doing sth
@@ -9371,9 +9371,9 @@
 ## 1499. face ## verb
 /feɪs/ ACCEPT
 [B2]to accept that something unpleasant is true and start to deal with the situation
-- I think Phil has to face the fact that she no longer loves him.
-- We have to face facts here - we simply don't have enough money.
-- He's dying but he refuses to face the truth.
+- I think Phil has to face `the fact` that she no longer loves him.
+- We have to face `facts` here - we simply don't have enough money.
+- He's dying but he refuses to face `the truth`.
 
 ## 1500. face ## verb
 /feɪs/ 
@@ -9404,8 +9404,8 @@
 /feɪl/ NOT SUCCEED
 [B2]to not be successful
 - She moved to London in the hope of finding work as a model, but failed.
-- He failed in his attempt to break the record.
-- This method of growing tomatoes never fails.
+- He failed `in` his attempt to break the record.
+- This method of growing tomatoes `never` fails.
 
 ## 1505. fail ## verb
 /feɪl/ STOP WORKING
@@ -9437,13 +9437,13 @@
 ## 1510. fall ## verb [I]
 /fɔːl/ 
 [B2]to argue with someone and stop being friendly with them
-- She's fallen out with her sister.
-- They fell out over money.
+- She's fallen out `with` her sister.
+- They fell out `over` money.
 
 ## 1511. fall ## verb [I]
 /fɔːl/ 
 [B2]If a plan or agreement falls through, it fails to happen.
-- Our plans to go on vacation together fell through when Jamie got sick.
+- Our `plans` to go on vacation together fell through when Jamie got sick.
 
 ## 1512. fasten ## verb
 /ˈfæs.ən/ fasten sth on/to/together, etc.
@@ -9453,8 +9453,8 @@
 ## 1513. fear ## verb [T]
 /fɪr/ BE WORRIED
 [B2]to be worried or frightened that something bad might happen or might have happened
-- Police fear (that) the couple may have drowned.
-- It is feared (that) as many as two hundred passengers may have died in the crash.
+- Police fear `(that)` the couple may have drowned.
+- `It is` feared `(that)` as many as two hundred passengers may have died in the crash.
 
 ## 1514. fear ## verb [T]
 /fɪr/ BE FRIGHTENED OF
@@ -9472,8 +9472,8 @@
 /fiːl/ TOUCH
 [B2]to touch something, especially with your hands, in order to examine it
 - I felt his head and it was hot.
-- Just feel how cold my hands are!
-- I was feeling around in my bag for the keys.
+- Just feel `how` cold my hands are!
+- I was feeling `around` in my bag for the keys.
 
 ## 1517. feel ## verb
 /fiːl/ feel different/strange, etc.
@@ -9499,14 +9499,14 @@
 ## 1521. fight ## verb
 /fɑɪt/ TRY TO STOP
 [B2]to try hard to stop something bad happening
-- He fought against racism.
-- New measures have been introduced to fight crime.
+- He fought `against` racism.
+- New measures have been introduced to fight `crime`.
 
 ## 1522. fight ## verb
 /fɑɪt/ TRY TO ACHIEVE
 [B2]to try hard to achieve something you want or think is right
-- They are fighting for their freedom.
-- He had to fight hard to keep his job.
+- They are fighting `for` their freedom.
+- He had to fight hard `to` keep his job.
 
 ## 1523. figure ## verb
 /ˈfɪg.jər/ 
@@ -9538,13 +9538,13 @@
 ## 1528. find ## verb [T]
 /fɑɪnd/ find sb guilty/not guilty
 [B2]to judge that someone is guilty or not guilty in a law court
-- She was found guilty of murder.
+- She was found guilty `of` murder.
 
 ## 1529. fine ## verb [T]
 /fɑɪn/ 
 [B2]to charge someone an amount of money as a punishment for not obeying a rule or law
-- Drivers who break the speed limit can expect to be fined heavily.
-- They fined him $100 for speeding on the highway.
+- Drivers who break the speed limit can expect to be fined `heavily`.
+- They fined him $100 `for` speeding on the highway.
 
 ## 1530. finish ## verb
 /ˈfɪn.ɪʃ/ 
@@ -9554,22 +9554,22 @@
 ## 1531. fire ## verb
 /fɑɪr/ SHOOT
 [B2]to cause a weapon to shoot bullets, arrows or missiles
-- He fired his gun into the air.
-- He fired three shots.
-- Someone started firing at us.
-- Without warning he started firing into the crowd.
+- He fired his `gun` into the air.
+- He fired three `shots`.
+- Someone started firing `at` us.
+- Without warning he started firing `into` the crowd.
 
 ## 1532. fire ## verb
 /fɑɪr/ REMOVE FROM A JOB
 [B2]to tell someone they must leave their job
 - She was fired after she was caught stealing from her employer.
-- He was fired from his last job for poor performance.
+- He was fired `from` his last job for poor performance.
 - She has just been fired as editor of the newspaper.
 
 ## 1533. fit ## verb
 /fɪt/ 
 [B2]to feel that you belong to a particular group and are accepted by them
-- He doesn't fit in with the other pupils in his class.
+- He doesn't fit in `with` the other pupils in his class.
 
 ## 1534. fit ## verb
 /fɪt/ 
@@ -9584,8 +9584,8 @@
 ## 1536. fix ## verb [T]
 /fɪks/ DECIDE
 [B2]to decide a certain and exact date, time, or place
-- Should we fix a time for our next meeting?
-- They haven't fixed a date for the wedding yet.
+- Should we fix a `time` for our next meeting?
+- They haven't fixed a `date` for the wedding yet.
 
 ## 1537. fix ## verb [T]
 /fɪks/ fix sth onto/to/under, etc.
@@ -9595,21 +9595,21 @@
 ## 1538. flash ## verb
 /flæʃ/ SHINE
 [B2]to shine brightly and suddenly, or to make something shine in this way
-- Stop flashing that light in my eyes!
+- Stop flashing that light `in` my eyes!
 - The lightning flashed and distant thunder rolled.
-- You'd better slow down, that car was flashing (its lights) at you.
+- You'd better slow down, that car was flashing (its lights) `at` you.
 
 ## 1539. flood ## verb [I or T]
 /flʌd/ ARRIVE OR FILL
 [B2]to fill or enter a place in large numbers or amounts
-- She drew back the curtains and the sunlight came flooding in.
-- Shoppers flooded into the store on the first morning of the sale.
+- She drew back the curtains and the sunlight came flooding `in`.
+- Shoppers flooded `into` the store on the first morning of the sale.
 
 ## 1540. flow ## verb [I]
 /floʊ/ 
 [B2]If something such as a liquid flows, it moves somewhere in a smooth, continuous way.
-- The river flows from the Andes into the Pacific Ocean.
-- With fewer cars on the roads, traffic is flowing more smoothly than usual.
+- The river flows from the Andes `into` the Pacific Ocean.
+- With fewer cars on the roads, `traffic` is flowing more smoothly than usual.
 
 ## 1541. fly ## verb
 /flɑɪ/ CONTROL AIRCRAFT
@@ -9620,7 +9620,7 @@
 /ˈfoʊ.kəs/ 
 [B2]to give a lot of attention to one particular person, subject or thing
 - Tonight's program focuses on the way that homelessness affects the young.
-- When the kitchen is finished I'm going to focus my attention on the garden and get that fixed up.
+- When the kitchen is finished I'm going to focus `my attention` on the garden and get that fixed up.
 
 ## 1543. follow ## verb
 /ˈfɑl.oʊ/ as follows
@@ -9637,21 +9637,21 @@
 [B2]to trick someone
 - Don't be fooled by his appearance.
 - She said she was doing it to help me but I wasn't fooled.
-- Tim was fooled into believing that he'd won a lot of money.
+- Tim was fooled `into` believing that he'd won a lot of money.
 
 ## 1546. forbid ## verb [T]
 /fərˈbɪd/ 
 [B2]to order someone not to do something, or to say that something must not happen
-- I forbid you to see that boy again!
+- I forbid you `to` see that boy again!
 - The law forbids the sale of cigarettes to underage people.
-- He is forbidden from leaving the country.
+- He is forbidden `from` leaving the country.
 
 ## 1547. force ## verb [T]
 /fɔːrs/ GIVE NO CHOICE
 [B2]to make someone do something that they do not want to do
-- You can't force her to make a decision.
-- I had to force myself to finish the game.
-- I didn't actually want any more dessert, but Julia forced it on me.
+- You can't force her `to` make a decision.
+- I had to force `myself` to finish the game.
+- I didn't actually want any more dessert, but Julia forced it `on` me.
 
 ## 1548. forget ## verb
 /fərˈget/ forget it
@@ -9688,7 +9688,7 @@
 ## 1554. freeze ## verb
 /friːz/ PERSON
 [B2]to feel very cold
-- Without a sleeping bag, you would freeze to death out there on the mountainside.
+- Without a sleeping bag, you would freeze `to death` out there on the mountainside.
 
 ## 1555. freeze ## verb
 /friːz/ NOT MOVE
@@ -9699,7 +9699,7 @@
 /ˈfraɪ.tən/ 
 [B2]to make someone feel fear
 - He frightens me when he drives so fast.
-- The noise frightened me to death.
+- The noise frightened me `to death`.
 
 ## 1557. gather ## verb
 /ˈgæð.ər/ COME TOGETHER
@@ -9711,7 +9711,7 @@
 ## 1558. gather ## verb
 /ˈgæð.ər/ COLLECT
 [B2]to collect several things, often from different places or people
-- We gathered our things together and left quickly.
+- We gathered our things `together` and left quickly.
 
 ## 1559. gaze ## verb
 /geɪz/ gaze at/into/out of, etc.
@@ -9723,12 +9723,12 @@
 /ˈdʒen.əˌreɪt/ CREATE
 [B2]to cause something to exist
 - The new development will generate 1500 new jobs.
-- This film has generated a lot of interest.
+- This film has generated a lot of `interest`.
 
 ## 1561. generate ## verb [T]
 /ˈdʒen.əˌreɪt/ MAKE ENERGY
 [B2]to produce energy
-- The wind farm may be able to generate enough electricity for 2000 homes.
+- The wind farm may be able to generate enough `electricity` for 2000 homes.
 
 ## 1562. get ## verb
 /get/ get rid of sth
@@ -9764,8 +9764,8 @@
 ## 1568. get ## verb
 /get/ 
 [B2]to manage to make someone understand or believe something
-- We tried to get our point across, but he just wouldn't listen.
-- This is the message that we want to get across to the public.
+- We tried to get our `point` across, but he just wouldn't listen.
+- This is the `message` that we want to get across to the public.
 
 ## 1569. get ## verb
 /get/ 
@@ -9780,7 +9780,7 @@
 ## 1571. get ## verb
 /get/ ESCAPE
 [B2]to leave or escape from a place or person, often when it is difficult to do this
-- We walked to the next beach to get away from the crowds.
+- We walked to the next beach to get away` from` the crowds.
 
 ## 1572. get ## verb
 /get/ GO SOMEWHERE
@@ -9806,7 +9806,7 @@
 ## 1576. get ## verb
 /get/ 
 [B2]to start doing something seriously and with a lot of attention and effort
-- Before we get down to business, I'd like to thank you all for coming today.
+- Before we get down to `business`, I'd like to thank you all for coming today.
 
 ## 1577. get ## verb
 /get/ BE CHOSEN
@@ -9929,7 +9929,7 @@
 ## 1600. go ## verb
 /goʊ/ START
 [B2]to start to do something
-- We now have permission to go ahead with the project.
+- We now have permission to go ahead `with` the project.
 - The vote will go ahead today as planned.
 
 ## 1601. go ## verb
@@ -9983,7 +9983,7 @@
 /ˈgɑs.əp/ 
 [B2]to talk about other people's private lives
 - Stop gossiping and get back to work!
-- People have started to gossip about us.
+- People have started to gossip `about` us.
 
 ## 1611. govern ## verb [I or T]
 /ˈgʌv.ərn/ 
@@ -9999,8 +9999,8 @@
  
 [B2]to successfully complete studies at a school, or to complete a degree at a college or university
 - After he graduated high school, he joined the army.
-- Tyler graduated from Oberlin with high honors in musicology.
-- Casey is graduating with an honors degree in philosophy.
+- Tyler graduated `from` Oberlin `with` high honors in musicology.
+- Casey is graduating `with` an honors degree in philosophy.
 
 ## 1614. grant ## verb
 /grænt/ GIVE
@@ -10015,7 +10015,7 @@
 ## 1616. grant ## verb
 /grænt/ take it for granted
 [B2]to believe that something is true without checking or thinking about it
-- I took it for granted that we'd be invited to the wedding.
+- I took it for granted `that` we'd be invited to the wedding.
 
 ## 1617. grip ## verb [T]
 /grɪp/ HOLD
@@ -10032,7 +10032,7 @@
 /ˌgær.ənˈtiː/ 
 [B2]to promise or make sure that something is true or will happen
 - Every child is guaranteed a place at a public school.
-- They guarantee that it will arrive on time.
+- They guarantee `that` it will arrive on time.
 
 ## 1620. guard ## verb [T]
 /gɑrd/ PROTECT
@@ -10052,14 +10052,14 @@
 ## 1623. hand ## verb [T]
 /hænd/ 
 [B2]to give someone or something to someone else
-- The hijacker was handed over to the French police.
+- The hijacker was handed over `to` the French police.
 - They were ordered to hand over their weapons.
 
 ## 1624. hang ## verb
 /hæŋ/ KILL
 [B2]to kill someone by dropping them with a rope tied around their neck, or to die in this way
 - He was found guilty and hanged later that year.
-- The woman tried to hang herself with a sheet.
+- The woman tried to hang `herself` with a sheet.
 
 ## 1625. harm ## verb [T often passive]
 /hɑrm/ 
@@ -10070,7 +10070,7 @@
 ## 1626. haunt ## verb [T]
 /hɔːnt/ GHOST
 [B2]If a ghost haunts a place, it appears there often.
-- They say that the house is haunted by the soldier's ghost.
+- They say that the house is haunted `by` the soldier's ghost.
 
 ## 1627. haunt ## verb [T]
 /hɔːnt/ MEMORY/FEELING
@@ -10086,7 +10086,7 @@
 ## 1629. have ## verb [T]
 /hæv/ not have a clue
 [B2]to be completely unable to guess, understand, or deal with something
-- I don't have a clue what you're talking about.
+- I don't have a clue `what` you're talking about.
 
 ## 1630. have ## verb [T]
 /hæv/ have nothing to do with sb/sth
@@ -10101,10 +10101,10 @@
 ## 1632. head ## verb
 /hed/ head back/down/for, etc.
 [B2]to move in a particular direction
-- I was heading out of the room when she called me back.
-- He headed straight for the refrigerator.
-- We were heading toward Orlando when our truck broke down.
-- I think we ought to head back/home now, before it gets too dark.
+- I was heading `out of` the room when she called me back.
+- He headed straight `for` the refrigerator.
+- We were heading `toward` Orlando when our truck broke down.
+- I think we ought to head `back/home` now, before it gets too dark.
 
 ## 1633. head ## verb
 /hed/ LEADER
@@ -10121,7 +10121,7 @@
 ## 1635. heal ## verb [I or T]
 /hiːl/ 
 [B2]If a wound or broken bone heals, it becomes healthy again, and if something heals it, it makes it healthy again.
-- The wound on his head had begun to heal (up).
+- The wound on his head had begun to heal `(up)`.
 
 ## 1636. hear ## verb
 /hɪr/ 
@@ -10160,19 +10160,19 @@
 ## 1642. highlight ## verb [T]
 /ˈhɑɪ.lɑɪt/ 
 [B2]to emphasize something or make people notice something
-- to highlight a problem/danger
-- The report highlights the need for stricter regulations.
+- to highlight a `problem/danger`
+- The report highlights `the need for` stricter regulations.
 
 ## 1643. highlight ## verb [T]
 /ˈhɑɪ.lɑɪt/ NOTICE
 [B2]to make something a different color so that is is more easily noticed, especially written words
-- The spelling mistakes in the text had been highlighted in yellow.
+- The spelling mistakes in the text had been highlighted `in` yellow.
 
 ## 1644. hire ## verb [T]
 /hɑɪr/ EMPLOY
 [B2]to begin to to employ someone
 - I was hired by the first company I applied to.
-- We ought to hire a public relations consultant to help improve our image.
+- We ought to hire a public relations consultant `to` help improve our image.
 
 ## 1645. hit ## verb [T]
 /hɪt/ AFFECT
@@ -10187,8 +10187,8 @@
 ## 1647. hold ## verb [T]
 /hoʊld/ PRISONER
 [B2]to keep someone in a place so that they cannot leave
-- The terrorists held him hostage for 18 months.
-- I was held prisoner in a tiny attic room.
+- The terrorists held him `hostage` for 18 months.
+- I was held `prisoner` in a tiny attic room.
 
 ## 1648. hold ## verb [T]
 /hoʊld/ hold your breath
@@ -10198,8 +10198,8 @@
 ## 1649. hold ## verb [T]
 /hoʊld/ COMPETITION
 [B2]to have a particular position in a competition
-- to hold the world record
-- The team held the lead until the 89th minute.
+- to hold the world `record`
+- The team held the `lead` until the 89th minute.
 
 ## 1650. hook ## verb [T]
 /hʊk/ be/get hooked on sth
@@ -10210,8 +10210,8 @@
 /hʌnt/ SEARCH
 [B2]to search for something or someone
 - I've hunted all over the place, but I can't find that book.
-- They are still hunting for the missing child.
-- I've hunted high and lowfor my gloves.
+- They are still hunting `for` the missing child.
+- I've hunted `high and low``for` my gloves.
 - Police are hunting the terrorists who planted the bomb.
 
 ## 1652. hurry ## verb [I or T]
@@ -10254,8 +10254,8 @@
 /ɪˈmædʒ.ən/ GUESS
 [B2]to guess that something is probably true or real
 - I imagine they charge extra for dessert.
-- I don't imagine (that) they can visits for more than a day or two.
-- "Will they change it?" "I imagine so."
+- I don't imagine `(that)` they can visits for more than a day or two.
+- "Will they change it?" "I imagine `so`."
 
 ## 1659. implement ## verb [T]
 /ˈɪm.pləˌment/ 
@@ -10265,41 +10265,41 @@
 ## 1660. import ## verb [T]
  
 [B2]to buy or bring in products from another country
-- We import a large number of cars from Japan.
+- We import a large number of cars `from` Japan.
 
 ## 1661. impress ## verb [T]
 /ɪmˈpres/ 
 [B2]to cause someone to admire or respect you
-- She impressed us with her sincerity.
+- She impressed us `with` her sincerity.
 
 ## 1662. indicate ## verb [T]
 /ˈɪn.dəˌkeɪt/ SAY
 [B2]to say something or give a signal to show what you mean or what you intend to do
-- Please indicate which free gift you would like to receive.
-- She indicated to me (that) she didn't want me to say anything.
+- Please indicate `which` free gift you would like to receive.
+- She indicated `to` me `(that)` she didn't want me to say anything.
 
 ## 1663. influence ## verb [T often passive]
 /ˈɪn.fluː.əns/ 
 [B2]to affect or change how someone or something develops, behaves or thinks
 - Were you influenced by anybody at the beginning of your career?
-- What influenced you to choose a career in nursing?
+- What influenced you `to` choose a career in nursing?
 
 ## 1664. inquire ## verb [I or T]
 /ɪnˈkwɑɪr/ 
 [B2]to ask for information
-- Should I inquire about the price of tickets?
-- She called to inquire whether her car would be ready by 5.
+- Should I inquire `about` the price of tickets?
+- She called to inquire `whether` her car would be ready by 5.
 - "Where are we going?" he inquired.
 
 ## 1665. insist ## verb [I]
 /ɪnˈsɪst/ SAY FIRMLY
 [B2]to say firmly that something is true
-- Greg still insists (that) he did nothing wrong.
+- Greg still insists `(that)` he did nothing wrong.
 
 ## 1666. inspire ## verb [T]
 /ɪnˈspɑɪr/ ENCOURAGE
 [B2]to make someone feel that they want to do something and can do it
-- A drama teacher at school had inspired Sam to become an actor.
+- A drama teacher at school had inspired Sam `to` become an actor.
 
 ## 1667. inspire ## verb [T]
 /ɪnˈspɑɪr/ FEELING
@@ -10319,18 +10319,18 @@
 ## 1670. insure ## verb [T]
 /ɪnˈʃʊr/ 
 [B2]to make something certain to happen
-- Please insure that your name is at the top of your examination paper.
+- Please insure `that` your name is at the top of your examination paper.
 
 ## 1671. interact ## verb [I]
 /ˌɪn.t̬əˈrækt/ 
 [B2]to talk and do things with other people
-- At school, teachers said he interacted well with other students.
+- At school, teachers said he interacted well `with` other students.
 
 ## 1672. interfere ## verb [I]
 /ˌɪn.t̬ərˈfɪr/ TRY TO CONTROL
 [B2]to try to control or become involved in a situation, in a way that is annoying
 - I know he's worried about us, but I wish he wouldn't interfere.
-- You shouldn't interfere in other people's business.
+- You shouldn't interfere `in` other people's business.
 
 ## 1673. interpret ## verb
 /ɪnˈtɜr.prət/ LANGUAGE
@@ -10361,24 +10361,24 @@
 ## 1678. invest ## verb [I or T]
 /ɪnˈvest/ MONEY
 [B2]to give money to a bank, business, etc., or buy something, because you hope to get a profit
-- The institute will invest 5 million in the project.
-- He's not certain whether to invest in the real estate market.
+- The institute will invest 5 million `in` the project.
+- He's not certain whether to invest `in` the real estate market.
 
 ## 1679. invest ## verb [I or T]
 /ɪnˈvest/ TIME/ENERGY, ETC.
 [B2]to use a lot of time, effort, or emotions because you want to succeed
-- You have all invested significant amounts of time and energy in making this project the success that it is.
+- You have all invested significant amounts of time and energy `in` making this project the success that it is.
 
 ## 1680. investigate ## verb [I or T]
 /ɪnˈves.təˌgeɪt/ 
 [B2]to try to discover all the facts about something, especially a crime or accident
 - Police are investigating allegations of corruption involving senior executives.
-- We are of course investigating how an error like this could have occurred.
+- We are of course investigating `how` an error like this could have occurred.
 
 ## 1681. involve ## verb [T]
 /ɪnˈvɑlv/ TAKE PART
 [B2]to make someone be part of an activity or process
-- I prefer teaching methods that actively involve students in learning.
+- I prefer teaching methods that actively involve students `in` learning.
 
 ## 1682. itch ## verb
 /ɪtʃ/ SKIN
@@ -10393,7 +10393,7 @@
 ## 1684. jump ## verb
 /dʒʌmp/ MOVE SUDDENLY
 [B2]to make a sudden movement because you are surprised or frightened
-- The thunder made me jump.
+- The thunder `made me` jump.
 
 ## 1685. justify ## verb [T]
 /ˈdʒʌs.təˌfɑɪ/ GIVE/BE REASON
@@ -10404,13 +10404,13 @@
 ## 1686. justify ## verb [T]
 /ˈdʒʌs.təˌfɑɪ/ justify yourself
 [B2]If you justify yourself, you give a good reason for what you have done.
-- It was the only thing that I could do - I don't have to justify myself to anyone.
+- It was the only thing that I could do - I don't have to justify myself `to` anyone.
 
 ## 1687. keep ## verb
 /kiːp/ keep sb waiting
 [B2]to be late so that someone has to wait for you
 - I'm sorry to have kept you waiting.
-- The dentist kept me waiting for hours.
+- The dentist kept me waiting `for` hours.
 
 ## 1688. keep ## verb
 /kiːp/ keep a/your promise
@@ -10492,7 +10492,7 @@
 ## 1703. kneel ## verb [I]
 /niːl/ 
 [B2]to go down into, or stay in, a position where one or both knees are on the ground
-- She knelt (down) beside the child.
+- She knelt `(down)` beside the child.
 - He knelt in front of the altar and prayed.
 
 ## 1704. knock ## verb
@@ -10552,7 +10552,7 @@
 /lɔːntʃ/ BEGIN
 [B2]to start an important plan or activity, or begin something
 - The program was launched a year ago.
-- He launched into a verbal attack on her handling of the finances.
+- He launched `into` a verbal attack on her handling of the finances.
 
 ## 1715. launch ## verb [T]
 /lɔːntʃ/ NEW PRODUCT
@@ -10573,20 +10573,20 @@
 ## 1718. lead ## verb
 /liːd/ lead into/to/toward, etc.
 [B2]If something, for example a path or road, leads somewhere, it goes in that direction.
-- That path leads to the beach.
-- A flight of narrow stairs leads to the kitchen.
-- There's a road that leads toward the reservoir.
+- That path leads `to` the beach.
+- A flight of narrow stairs leads `to` the kitchen.
+- There's a road that leads `toward` the reservoir.
 
 ## 1719. lead ## verb
 /liːd/ BE WINNING
 [B2]to be winning a game or a competition
-- Ngomo led by less than two seconds.
+- Ngomo led `by` less than two seconds.
 - With only three minutes remaining, New Orleans led (Dallas), 24 to 21.
 
 ## 1720. lead ## verb
 /liːd/ CONTROL
 [B2]to be in control of a group, country, or situation
-- I think we've chosen the right person to lead the expedition.
+- I think we've chosen the right person to lead the `expedition`.
 - I've asked George to lead the discussion.
 - Her sister is leading an effort to change this law.
 
@@ -10603,8 +10603,8 @@
 ## 1723. leak ## verb
 /liːk/ COME OUT
 [B2]If a liquid or gas leaks, it comes out of a hole or space by accident, and if a container leaks, it allows liquid or gas to come out when it should not.
-- Water was leaking from the pipe.
-- Oil leaked out of the car.
+- Water was leaking `from` the pipe.
+- Oil leaked `out` of the car.
 - The can is leaking.
 - The car leaked oil all over the drive.
 
@@ -10625,8 +10625,8 @@
 /lɜrn/ CHANGE BEHAVIOR
 [B2]to start to understand that you must change the way you behave
 - She'll have to learn that she can't have everything she wants.
-- She soon learned not to be late.
-- He's not afraid to learn from his mistakes.
+- She soon learned not `to` be late.
+- He's not afraid to learn `from his mistakes`.
 
 ## 1727. leave ## verb
 /liːv/ STAY IN SAME CONDITION
@@ -10651,7 +10651,7 @@
 ## 1730. lend ## verb
 /lend/ BANK
 [B2]If a bank lends money, it gives money to someone who then pays the money back in small amounts over a period of time.
-- Does the bank lend to small businesses?
+- Does the bank lend `to` small businesses?
 
 ## 1731. let ## verb
 /let/ let sb/sth in/past/through, etc.
@@ -10672,8 +10672,8 @@
 ## 1734. let ## verb
 /let/ 
 [B2]to not punish someone who has done something wrong, or to not punish them severely
-- Instead of a prison sentence they were let off with a fine.
-- You won't be let off so lightly the next time.
+- Instead of a prison sentence they were let off `with` a fine.
+- You won't be let off so `lightly` the next time.
 
 ## 1735. let ## verb
 /let/ 
@@ -10689,13 +10689,13 @@
 ## 1737. light ## verb
 /lɑɪt/ MAKE BRIGHT
 [B2]to produce light somewhere so that you can see things
-- Fireworks lit up the sky.
+- Fireworks lit `up` the sky.
 - A lantern hanging from a tree branch lit our campsite.
 
 ## 1738. limit ## verb [T]
 /ˈlɪm.ət/ 
 [B2]to control something so that it is less than a particular amount or number
-- I've been asked to limit my talk to ten minutes.
+- I've been asked to limit my talk `to` ten minutes.
 - Having so little money to spend on an apartment does limit your choices.
 
 ## 1739. line ## verb [T]
@@ -10707,7 +10707,7 @@
 ## 1740. link ## verb [T]
 /lɪŋk/ 
 [B2]to make a connection between two or more people, things, or ideas
-- The use of CFCs has been linked to the hole in the ozone layer.
+- The use of CFCs has been linked `to` the hole in the ozone layer.
 - This is the only bridge linking the island with the mainland.
 
 ## 1741. list ## verb [T]
@@ -10738,7 +10738,7 @@
 ## 1746. live ## verb
  
 [B2]to be as good as someone hopes
-- Did the trip live up to your expectations?
+- Did the trip live up to your `expectations`?
 
 ## 1747. live ## verb
  
@@ -10749,8 +10749,8 @@
 ## 1748. load ## verb [I or T]
 /loʊd/ PUT IN VEHICLE/MACHINE
 [B2]to put a lot of things into a vehicle or machine
-- He could load more hay into the wagon.
-- Let's load up the car and then we can go.
+- He could load more hay `into` the wagon.
+- Let's load `up` the car and then we can go.
 - load the dishwasher/washing machine
 
 ## 1749. load ## verb [I or T]
@@ -10815,7 +10815,7 @@
 /lʊk/ 
 [B2]to think about something that happened in the past
 - Looking back, I can see where we went wrong.
-- It wasn't such a bad experience when I look back on it.
+- It wasn't such a bad experience when I look back `on` it.
 
 ## 1761. look ## verb
 /lʊk/ 
@@ -10825,7 +10825,7 @@
 ## 1762. look ## verb
 /lʊk/ LETTER
 [B2]used at the end of a formal letter to say you hope to hear from or see someone soon, or that you expect something from them
-- I look forward to hearing from you.
+- I look forward to `hearing from you`.
 
 ## 1763. look ## verb
 /lʊk/ 
@@ -10918,8 +10918,8 @@
 /meɪk/ EARN
 [B2]to earn
 - She makes around $80,000 a year as a doctor.
-- How do you make a living as a painter?
-- Both companies have made huge profits/losses.
+- How do you make `a living` as a painter?
+- Both companies have made huge `profits/losses`.
 
 ## 1779. make ## verb [T]
 /meɪk/ make the/sb's bed
@@ -10940,7 +10940,7 @@
 ## 1782. make ## verb [T]
 /meɪk/ make a (big) difference
 [B2]to improve a situation (a lot)
-- Exercise can make a big difference to your health.
+- Exercise can make a big difference `to` your health.
 
 ## 1783. make ## verb [T]
 /meɪk/ to make matters worse
@@ -10965,12 +10965,12 @@
 ## 1787. make ## verb [T]
 /meɪk/ make sense
 [B2]to have a meaning or reason that you can understand
-- He's written me this note but it doesn't make any sense.
+- He's written me this note but it doesn't make `any` sense.
 
 ## 1788. make ## verb [T]
 /meɪk/ make sense
 [B2]to be a good thing to do
-- It makes sense to buy now while prices are low.
+- It makes sense `to` buy now while prices are low.
 
 ## 1789. make ## verb [T]
 /meɪk/ 
@@ -10991,8 +10991,8 @@
 ## 1792. make ## verb [T]
 /meɪk/ 
 [B2]to say or write something that is not true
-- I made up an excuse about having to look after the kids.
-- My dad was always really good at making up stories.
+- I made up an `excuse` about having to look after the kids.
+- My dad was always really good at making up `stories`.
 
 ## 1793. make ## verb [T]
 /meɪk/ 
@@ -11005,13 +11005,13 @@
 /ˌmæn.jəˈfæk.tʃər/ 
 [B2]to produce goods in large numbers, usually in a factory using machines
 - He works for a company that manufactures car parts.
-- The report notes a rapid decline in manufactured goods.
+- The report notes a rapid decline in manufactured `goods`.
 
 ## 1795. mark ## verb
 /mɑrk/ PIECE OF WORK
 [B2]to check a piece of work or an exam, showing mistakes and giving a letter or number to say how good it is
 - I was up half the night marking exam papers.
-- You'll be marked down for poor spelling and punctuation.
+- You'll be marked `down` for poor spelling and punctuation.
 
 ## 1796. mark ## verb
 /mɑrk/ TO SHOW
@@ -11080,7 +11080,7 @@
 ## 1806. miss ## verb
 /mɪs/ 
 [B2]to not do or have something that you would enjoy or something that other people do or have
-- I got to the party too late and missed out on all the fun.
+- I got to the party too late and missed out `on` all the fun.
 
 ## 1807. misunderstand ## verb [T]
 /mɪsˌʌn.dərˈstænd/ NOT UNDERSTAND
@@ -11090,7 +11090,7 @@
 ## 1808. mix ## verb
 /mɪks/ MEET
 [B2]to meet and talk to people
-- She enjoys going to parties and mixing with people.
+- She enjoys going to parties and mixing `with` people.
 
 ## 1809. mix ## verb
 /mɪks/ 
@@ -11106,12 +11106,12 @@
 /muːv/ FEELING
 [B2]to make someone have strong feelings of sadness or sympathy
 - I was deeply moved by his speech.
-- Many people were moved to tears.
+- Many people were moved `to tears`.
 
 ## 1812. mumble ## verb [I or T]
 /ˈmʌm.bəl/ 
 [B2]to speak too quietly and not clearly enough for someone to understand you
-- He mumbled something about it being a waste of time.
+- He mumbled `something about` it being a waste of time.
 
 ## 1813. must ## modal verb
 /mʌst/ LIKELY
@@ -11124,20 +11124,20 @@
 ## 1814. mutter ## verb [I or T]
 /ˈmʌt̬.ər/ 
 [B2]to speak quietly so that your voice is difficult to hear, often when complaining about something
-- He was muttering (away) to himself.
-- He muttered something about the restaurant being too expensive.
+- He was muttering `(away) to himself`.
+- He muttered `something about` the restaurant being too expensive.
 
 ## 1815. name ## verb [T]
 /neɪm/ CHOOSE
 [B2]to choose someone or something
 - Just name the time and the place and I'll be there.
-- Name your conditions/terms/price.
-- Ms Martinez has been named (as) the new Democratic candidate.
+- Name your `conditions/terms/price`.
+- Ms Martinez has been named `(as)` the new Democratic candidate.
 
 ## 1816. nod ## verb [I or T]
 /nɑd/ 
 [B2]to move your head up and down as a way of agreeing, to give someone a sign, or to point to something
-- Many people in the audience nodded in agreement.
+- Many people in the audience nodded `in` agreement.
 - When I suggested a walk, Elena nodded enthusiastically.
 - She looked up and nodded for me to come in.
 
@@ -11149,15 +11149,15 @@
 ## 1818. obey ## verb [I or T]
 /oʊˈbeɪ/ 
 [B2]to do what you are told to do by a person, rule, or instruction
-- The soldiers refused to obey (orders).
-- They must obey the rules of international law.
-- People failing to obey the law will be fined.
+- The soldiers refused to obey `(orders)`.
+- They must obey the `rules` of international law.
+- People failing to obey the `law` will be fined.
 
 ## 1819. object ## verb [I]
  
 [B2]to feel or say that you do not like or do not approve of something or someone
-- He objects to the label "magician," which he is often called.
-- Would anyone object if we started the meeting now?
+- He objects `to` the label "magician," which he is often called.
+- Would anyone object `if` we started the meeting now?
 - No one objected when the boss said it was time to go home.
 
 ## 1820. oblige ## verb
@@ -11175,23 +11175,23 @@
 ## 1822. obtain ## verb [T]
 /əbˈteɪn/ 
 [B2]to get something
-- to obtain information
+- to obtain `information`
 - First editions of these books are now almost impossible to obtain.
 - Under the new law, everyone will be required to obtain health insurance.
-- The documents and e-mails were obtained by the local newspaper.
+- The documents and e-mails were obtained `by` the local newspaper.
 
 ## 1823. occupy ## verb [T]
 /ˈɑk.jəˌpɑɪ/ FILL
 [B2]to fill or use a place or period of time
 - His book collection occupies most of the room.
 - All the seats were occupied.
-- The babies seem to occupy all our time.
+- The babies seem to occupy all our `time`.
 
 ## 1824. occupy ## verb [T]
 /ˈɑk.jəˌpɑɪ/ KEEP BUSY
 [B2]to keep someone busy or interested
 - On long car trips I occupy myself with puzzles.
-- The new video game kept the kids occupied for hours.
+- The new video game `kept` the kids occupied for hours.
 
 ## 1825. occur ## verb [I]
 /əˈkɜr/ 
@@ -11203,7 +11203,7 @@
 ## 1826. offend ## verb [T]
 /əˈfend/ 
 [B2]to make someone upset or angry
-- I think she was a bit offended that she hadn't been invited to the party.
+- I think she was a bit offended `that` she hadn't been invited to the party.
 - He looked a offended when you called him middle-aged.
 - If the sight of a few dirty dishes offends you, then I think you've got problems!
 
@@ -11212,7 +11212,7 @@
 [B2]If a business or activity opens, it starts officially for the first time, and if you open it, you make it start officially for the first time.
 - That restaurant's new - it only opened last month.
 - The Olympic Games open tomorrow.
-- The new hospital will be officially opened by the mayor on Tuesday.
+- The new hospital will be `officially` opened by the mayor on Tuesday.
 
 ## 1828. open ## verb
 /ˈoʊ.pən/ 
@@ -11244,7 +11244,7 @@
 [B2]to give someone an instruction that they must obey
 - The management has ordered a cutback in spending.
 - "Wait over there," she ordered.
-- They ordered him to leave the room.
+- They ordered him `to` leave the room.
 
 ## 1833. organize ## verb [T]
 /ˈɔːr.gəˌnɑɪz/ ARRANGE
@@ -11265,7 +11265,7 @@
 ## 1836. overcome ## verb [T]
 /ˌoʊ.vərˈkʌm/ DEAL WITH
 [B2]to deal with and control a problem or feeling
-- I admire the way she has overcome her difficulties/problems and made a success of her life.
+- I admire the way she has overcome her `difficulties/problems` and made a success of her life.
 - Eventually he managed to overcome his shyness in class.
 
 ## 1837. overlook ## verb [T]
@@ -11296,12 +11296,12 @@
 [B2]to suddenly feel so worried or frightened that you cannot think or behave calmly, or to make someone feel this way
 - Don't panic! We've got plenty of time.
 - The sound of gunfire panicked the crowd.
-- The boss panics over the budget every month.
+- The boss panics `over` the budget every month.
 
 ## 1842. participate ## verb [I]
 /pɑrˈtɪs.əˌpeɪt/ 
 [B2]to take part in or become involved in an activity
-- She never participates in any of our discussions, does she?
+- She never participates `in` any of our discussions, does she?
 
 ## 1843. pass ## verb
 /pæs/ pass (the) time
@@ -11364,7 +11364,7 @@
 /pərˈsweɪd/ MAKE SOMEONE BELIEVE
 [B2]to make someone believe that something is true
 - Their argument failed to persuade me.
-- It's no use trying to persuade him (that) you're innocent.
+- It's no use trying to persuade him `(that)` you're innocent.
 
 ## 1855. photograph ## verb [T]
 /ˈfoʊt̬.əˌgræf/ 
@@ -11416,8 +11416,8 @@
 ## 1864. point ## verb
 /pɔɪnt/ 
 [B2]to tell someone about some information, often because they do not know it or have forgotten it
-- He was planning a rock-climbing trip, till I pointed out that Carla is afraid of heights.
-- I feel I should point out how dangerous it is.
+- He was planning a rock-climbing trip, till I pointed out `that` Carla is afraid of heights.
+- I feel I should point out `how` dangerous it is.
 
 ## 1865. poison ## verb [T]
 /ˈpɔɪ.zən/ KILL
@@ -11438,8 +11438,8 @@
 /pɑʊnd/ 
 [B2]to hit or beat repeatedly with a lot of force, or to crush something by hitting it repeatedly
 - I could feel my heart pounding as I went on stage to receive the prize.
-- The city was pounded to rubble during the war.
-- He pounded on the door demanding to be let in.
+- The city was pounded `to` rubble during the war.
+- He pounded `on` the door demanding to be let in.
 
 ## 1869. pour ## verb
 /pɔːr/ pour into/out/from, etc.
@@ -11454,20 +11454,20 @@
 ## 1871. praise ## verb [T]
 /preɪz/ 
 [B2]to express admiration or approval about the achievements or characteristics of a person or thing
-- He should be praised for his honesty.
+- He should be praised `for` his honesty.
 - My parents always praised me when I did well at school.
-- He was highly praised for his research on heart disease.
+- He was `highly` praised for his research on heart disease.
 
 ## 1872. pray ## verb [I]
 /preɪ/ HOPE
 [B2]to hope for something very much
-- We're praying for good weather for the parade tomorrow.
+- We're praying `for` good weather for the parade tomorrow.
 
 ## 1873. present ## verb [T]
  GIVE
 [B2]to give, provide or make known
-- The winners were presented with medals.
-- He presented the report to his colleagues at the meeting.
+- The winners were presented `with` medals.
+- He presented the report `to` his colleagues at the meeting.
 - The documentary presented an interesting point of view.
 
 ## 1874. present ## verb [T]
@@ -11485,9 +11485,9 @@
 /prɪˈtend/ 
 [B2]to behave as if something is true when it is not
 - She's not really hurt - she's only pretending.
-- He pretended (that) he didn't mind, but I knew that he did.
-- Were you just pretending to be interested?
-- Of course I was angry - I can't pretend otherwise.
+- He pretended `(that)` he didn't mind, but I knew that he did.
+- Were you just pretending `to` be interested?
+- Of course I was angry - I can't pretend `otherwise`.
 
 ## 1877. print ## verb [T]
 /prɪnt/ BOOKS/NEWSPAPERS
@@ -11514,12 +11514,12 @@
 ## 1881. progress ## verb [I]
  IMPROVE
 [B2]to improve or develop in skills, knowledge, etc.
-- My Spanish never really progressed to fluency.
+- My Spanish never really progressed `to` fluency.
 
 ## 1882. prohibit ## verb [T often passive]
 /proʊˈhɪb.ɪt/ 
 [B2]to officially forbid something
-- Trucks are prohibited from driving on the parkways.
+- Trucks are prohibited `from` driving on the parkways.
 - Taking photographs inside the museum is prohibited.
 - State law prohibits the use of cell phones while driving.
 
@@ -11536,8 +11536,8 @@
 ## 1885. propose ## verb
 /prəˈpoʊz/ SUGGEST
 [B2]to suggest a plan or action
-- I propose that we delay our decision until we have more information.
-- proposed changes
+- I propose `that` we delay our decision until we have more information.
+- proposed `changes`
 
 ## 1886. propose ## verb
 /prəˈpoʊz/ propose to do sth
@@ -11547,7 +11547,7 @@
 ## 1887. propose ## verb
 /prəˈpoʊz/ MARRY
 [B2]to ask someone to marry you
-- He proposed to me on my birthday.
+- He proposed `to` me on my birthday.
 
 ## 1888. protest ## verb
 /ˈproʊ.test/ protest (about/against sth)
@@ -11559,14 +11559,14 @@
 /ˈproʊ.test/ COMPLAIN
 [B2]to say something forcefully or complain about something
 - They protested, but no one would listen.
-- The young child protested that she didn't want to leave her mother.
-- A lot of people protested to the city council about the proposed parking regulations.
+- The young child protested `that` she didn't want to leave her mother.
+- A lot of people protested `to` the city council `about` the proposed parking regulations.
 
 ## 1890. prove ## verb [T]
 /pruːv/ RESULT
 [B2]to show a particular result or quality after a period of time
 - The operation proved a complete success.
-- The new treatment has proved to be very effective.
+- The new treatment has proved `to be` very effective.
 
 ## 1891. pull ## verb
 /pʊl/ pull yourself along/up, etc.
@@ -11601,13 +11601,13 @@
 ## 1897. punch ## verb [T]
 /pʌntʃ/ 
 [B2]to hit someone or something with your fist
-- He punched him in the stomach.
+- He punched him `in` the stomach.
 
 ## 1898. purchase ## verb [T]
 /ˈpɜr.tʃəs/ 
 [B2]to buy
 - Tickets must be purchased two weeks in advance.
-- She purchased her first house with the money.
+- She purchased her first house `with` the money.
 
 ## 1899. push ## verb
 /pʊʃ/ push (sb) for sth/to do sth
@@ -11642,13 +11642,13 @@
 ## 1904. put ## verb [T]
 /pʊt/ 
 [B2]to write someone's name on a list or document, usually in order to arrange for them to do something
-- I've put you down for the trip to Rome next week.
+- I've put you down `for` the trip to Rome next week.
 
 ## 1905. put ## verb [T]
 /pʊt/ 
 [B2]to make someone dislike something or someone, or to discourage someone from doing something
 - I didn't enjoy the movie but don't let that put you off.
-- I was put off by his aggressive attitude.
+- I was put off `by` his aggressive attitude.
 
 ## 1906. put ## verb [T]
 /pʊt/ JOIN PARTS
@@ -11664,7 +11664,7 @@
 ## 1908. put ## verb [T]
 /pʊt/ 
 [B2]to let someone stay in your home for a short period
-- If you need somewhere to stay we can put you up for the night.
+- If you need somewhere to stay we can put you up `for` the night.
 
 ## 1909. put ## verb [T]
 /pʊt/ 
@@ -11675,54 +11675,54 @@
 ## 1910. qualify ## verb
 /ˈkwɑl.əˌfɑɪ/ REACH STANDARD
 [B2]to achieve or have the standard of knowledge, experience, education, or ability you need for a particular job
-- She was qualified to teach high school mathematics and physics.
-- James hopes to qualify as a nurse practitioner.
+- She was qualified `to` teach high school mathematics and physics.
+- James hopes to qualify `as` a nurse practitioner.
 
 ## 1911. qualify ## verb
 /ˈkwɑl.əˌfɑɪ/ BE ALLOWED
 [B2]If you qualify for something, you are allowed to do it or have it.
-- I hope I'll qualify for financial aid to help pay for school.
-- To qualify for the training program you need to be over 18.
+- I hope I'll qualify `for` financial aid to help pay for school.
+- To qualify `for` the training program you need to be over 18.
 
 ## 1912. qualify ## verb
 /ˈkwɑl.əˌfɑɪ/ SPORTS
 [B2]to succeed in getting into a competition or in reaching a particular stage in a competition
-- Derrick won his tennis match and qualified for the semifinals.
-- She failed to qualify for the 100 meters, but will take part in the long jump competition.
+- Derrick won his tennis match and qualified `for` the semifinals.
+- She `failed to` qualify for the 100 meters, but will take part in the long jump competition.
 
 ## 1913. quarrel ## verb [I]
 /ˈkwɑr.əl/ 
 [B2]to argue
-- I was always quarreling with my brother.
+- I was always quarreling `with` my brother.
 
 ## 1914. question ## verb [T often passive]
 /ˈkwes.tʃən/ ASK
 [B2]to ask a person about something, especially officially
-- What was she questioning you about? "Oh, just about the schedule changes."
+- What was she questioning you `about`? "Oh, just about the schedule changes."
 - Sixty-eight percent of people questioned in the survey thought noise levels had increased.
 
 ## 1915. question ## verb [T often passive]
 /ˈkwes.tʃən/ EXPRESS DOUBT
 [B2]to feel or express doubt about something
 - I'm not for a moment questioning your decision.
-- I'm just questioning whether we need the extra staff.
+- I'm just questioning `whether` we need the extra staff.
 
 ## 1916. raise ## verb [T]
 /reɪz/ raise a question/subject, etc.
 [B2]to start talking about a subject that you want other people to consider
 - You've raised an interesting question.
-- I thought I'd raise the issue with Sally at the meeting.
+- I thought I'd raise the issue `with` Sally at the meeting.
 
 ## 1917. raise ## verb [T]
 /reɪz/ MONEY
 [B2]to collect money from different people in order to do a particular thing
-- They were raising money for charity.
+- They were raising `money` for charity.
 
 ## 1918. raise ## verb [T]
 /reɪz/ CHILD
 [B2]to take care of a child until he or she is completely grown
 - Her parents died when she was a baby so she was raised by her grandparents.
-- She raised the family on her own.
+- She raised the `family` on her own.
 
 ## 1919. range ## verb
 /reɪndʒ/ range from sth to sth/between sth and sth
@@ -11745,17 +11745,17 @@
 /riːtʃ/ GET TO LEVEL
 [B2]to get to a particular level, situation, etc.
 - The temperature is expected to reach 30 degrees today.
-- He just reached the grand age of 95.
-- They reached their target/goal of raising $100,000.
-- I've reached the point where I can relax and take a vacation.
+- He just reached the grand `age` of 95.
+- They reached their `target/goal` of raising $100,000.
+- I've reached the `point` where I can relax and take a vacation.
 
 ## 1923. reach ## verb
 /riːtʃ/ STRETCH
 [B2]to stretch out your arm in order to get or touch something
 - Our little girl isn’t tall enough to reach the light switches.
-- He reached for the phone and knocked over a glass.
-- He reached down/over and picked up the kitten.
-- She reached across the table to take the book.
+- He reached `for` the phone and knocked over a glass.
+- He reached `down/over` and picked up the kitten.
+- She reached `across` the table to take the book.
 
 ## 1924. reach ## verb
 /riːtʃ/ can/can't/could, etc. reach (sth)
@@ -11771,7 +11771,7 @@
 ## 1926. react ## verb [I]
 /riːˈækt/ 
 [B2]to say, do, or feel something because of something else that has been said or done
-- He reacted angrily to her comments.
+- He reacted angrily `to` her comments.
 - How did she react when she heard the news?
 
 ## 1927. read ## verb [I or T]
@@ -11787,12 +11787,12 @@
 ## 1929. rearrange ## verb [T]
 /ˌriː.əˈreɪndʒ/ 
 [B2]to change the order or position of things
-- I've rearranged the furniture in my office.
+- I've rearranged the `furniture` in my office.
 
 ## 1930. rebel ## verb [I]
  
 [B2]to refuse to obey rules that you disagree with or do not like
-- Children often rebel against eating certain foods - Rory won't eat vegetables.
+- Children often rebel `against` eating certain foods - Rory won't eat vegetables.
 
 ## 1931. rebuild ## verb [T]
 /riːˈbɪld/ IMPROVE
@@ -11804,27 +11804,27 @@
 /rəˈkɔːl/ 
 [B2]to remember something
 - I couldn't recall our instructor's name.
-- Can you recall what happened last night?
-- I recall that he promised to send the documents.
+- Can you recall `what` happened last night?
+- I recall `that` he promised to send the documents.
 
 ## 1933. recognize ## verb [T]
 /ˈrek.əgˌnɑɪz/ ACCEPT
 [B2]to accept that something is legal, true or important
-- She recognized that she had been partly to blame.
+- She recognized `that` she had been partly to blame.
 - The international community has refused to recognize the newly independent nation-state.
-- Lack of exercise is recognized as contributing to many health problems.
+- Lack of exercise is recognized `as` contributing to many health problems.
 
 ## 1934. recommend ## verb [T]
 /ˌrek.əˈmend/ ADVISE
 [B2]to advise someone that something should be done
-- The committee recommended that we increase our fund-raising efforts.
+- The committee recommended `that` we increase our fund-raising efforts.
 - I recommend writing down these ideas so you don't forget them.
-- She has been recommended for promotion.
+- She has been recommended `for` promotion.
 
 ## 1935. record ## verb
  STORE INFORMATION
 [B2]to write down information or store it on a computer so that it can be used in the future
-- He recorded details of their conversation in his diary.
+- He recorded `details` of their conversation in his diary.
 
 ## 1936. recover ## verb [I]
 /rəˈkʌv.ər/ SITUATION
@@ -11840,43 +11840,43 @@
 ## 1938. reflect ## verb
 /rɪˈflekt/ IMAGE
 [B2]If a surface such as a mirror or water reflects something, you can see the image of that thing in the mirror, water, etc.
-- He saw himself reflected in the window.
+- He saw himself reflected `in` the window.
 
 ## 1939. reflect ## verb
 /rɪˈflekt/ SHOW
 [B2]to show or be a sign of something
 - The statistics reflect a change in people's spending habits.
-- The city's economic success is reflected in it's revitalized downtown.
+- The city's economic success is reflected `in` it's revitalized downtown.
 
 ## 1940. reflect ## verb
 /rɪˈflekt/ THINK
 [B2]to think in a serious and careful way
-- When she retired, she felt she needed time to reflect on what she would do next.
+- When she retired, she felt she needed time to reflect `on` what she would do next.
 - I need some time to reflect.
 
 ## 1941. regain ## verb [T]
 /rɪˈgeɪn/ 
 [B2]to get something back again
-- The party has regained control of Congress.
-- It was several hours before he regained consciousness.
+- The party has regained `control` of Congress.
+- It was several hours before he regained `consciousness`.
 
 ## 1942. regard ## verb [T often passive]
 /rɪˈgɑrd/ 
 [B2]to think of someone or something in a particular way
-- She is generally regarded as one of the greatest singers this century.
-- The plans were regarded with deep suspicion.
+- She is generally regarded `as` one of the greatest singers this century.
+- The plans were regarded `with` deep suspicion.
 
 ## 1943. regret ## verb [T]
 /rɪˈgret/ SORRY TO SAY
 [B2]used to say that you are sorry that you have to tell someone about a situation
-- We regret to inform you that the application has been refused.
-- My husband regrets that he couldn’t be here tonight.
+- We regret `to` inform you that the application has been refused.
+- My husband regrets `that` he couldn’t be here tonight.
 
 ## 1944. reject ## verb [T]
 /rɪˈdʒekt/ NOT ACCEPT
 [B2]to refuse to accept or agree with something
-- The committee rejected the proposal.
-- The appeal was rejected by the court.
+- The committee rejected the `proposal`.
+- The `appeal` was rejected by the court.
 - The prime minister rejected the suggestion that it was time for him to resign.
 
 ## 1945. reject ## verb [T]
@@ -11894,7 +11894,7 @@
 /rɪˈliːs/ MAKE FREE
 [B2]to allow a prisoner to be free
 - Six hostages were released shortly before noon.
-- He was released from prison last week.
+- He was released `from` prison last week.
 
 ## 1948. release ## verb [T]
 /rɪˈliːs/ RECORD/FILM
@@ -11934,8 +11934,8 @@
 ## 1954. remark ## verb [T]
 /rəˈmɑrk/ 
 [B2]to say something that shows your opinion or states a fact
-- He remarked that he'd be home late.
-- She remarked on how lovely the house is.
+- He remarked `that` he'd be home late.
+- She remarked `on` how lovely the house is.
 
 ## 1955. remove ## verb [T]
 /rɪˈmuːv/ TAKE OFF
@@ -11946,13 +11946,13 @@
 ## 1956. renew ## verb [T]
 /rɪˈnuː/ 
 [B2]to arrange to continue an official agreement that was going to end soon
-- I've decided not to renew my membership of the tennis club this year.
+- I've decided not to renew my `membership` of the tennis club this year.
 - I forgot to renew my season ticket.
 
 ## 1957. repay ## verb [T]
 /rəˈpeɪ/ MONEY
 [B2]to pay back money that you have borrowed
-- He had to sell his car to repay the loan.
+- He had to sell his car to repay the `loan`.
 
 ## 1958. repay ## verb [T]
 /rəˈpeɪ/ KINDNESS
@@ -11990,7 +11990,7 @@
 /riːˈskedʒ.uːl/ 
 [B2]to change the time of an event or meeting
 - I rescheduled my doctor’s appointment for later in the week.
-- Can we reschedule the meeting for Monday?
+- Can we reschedule the meeting `for` Monday?
 
 ## 1965. research ## verb [I or T]
  
@@ -12002,8 +12002,8 @@
 ## 1966. resign ## verb [I or T]
 /rɪˈzɑɪn/ LEAVE JOB
 [B2]to officially tell your employer that you are leaving your job
-- He resigned as chairman of the committee.
-- Two directors have resigned from the company.
+- He resigned `as` chairman `of` the committee.
+- Two directors have resigned `from` the company.
 
 ## 1967. resist ## verb
 /rɪˈzɪst/ NOT DO
@@ -12014,7 +12014,7 @@
 ## 1968. respect ## verb [T]
 /rəˈspekt/ ACCEPT IMPORTANCE
 [B2]If you respect someone's rights, customs, wishes, etc. you accept their importance and are careful not to do anything they would not want.
-- If you decide to do otherwise we will, of course, respect your wishes.
+- If you decide to do otherwise we will, of course, respect your `wishes`.
 
 ## 1969. respond ## verb [I]
 /rɪˈspɑnd/ 
@@ -12022,8 +12022,8 @@
 - To every question, he responded "I don't know."
 - I asked her what the time was, but she didn't respond.
 - The government has responded by sending food and medical supplies to the region.
-- How did she respond to the news?
-- The police respond to emergencies in just a few minutes.
+- How did she respond `to` the news?
+- The police respond `to` emergencies in just a few minutes.
 
 ## 1970. rest ## verb
 /rest/ rest your eyes/feet/legs, etc.
@@ -12044,8 +12044,8 @@
 ## 1973. return ## verb
 /rɪˈtɜrn/ return to sth
 [B2]to start doing an activity again or talking about something again
-- I returned to work three months after Susie was born.
-- We keep returning to the same subject.
+- I returned to `work` three months after Susie was born.
+- We keep returning to the same `subject`.
 
 ## 1974. return ## verb
 /rɪˈtɜrn/ HAPPEN AGAIN
@@ -12056,7 +12056,7 @@
 /rɪˈviːl/ TELL
 [B2]to give someone a piece of information that is surprising or that was previously secret
 - He was jailed for revealing secrets to the Russians.
-- It was revealed in this morning's papers that the couple intend to marry.
+- It was revealed in this morning's papers `that` the couple intend to marry.
 
 ## 1976. review ## verb
 /rɪˈvjuː/ REPORT
@@ -12071,8 +12071,8 @@
 ## 1978. reward ## verb [T]
 /rɪˈwɔːrd/ 
 [B2]to give someone a reward
-- She was rewarded for her bravery.
-- The company rewarded him for his years of service with a gold watch.
+- She was rewarded `for` her bravery.
+- The company rewarded him `for` his years of service `with` a gold watch.
 
 ## 1979. rewrite ## verb [T]
 /riːˈrɑɪt/ 
@@ -12084,25 +12084,25 @@
 [B2]to tear quickly and suddenly, or to tear something quickly and suddenly
 - His new shorts ripped when he fell down.
 - She ripped her dress getting off her bike.
-- He excitedly ripped open the package.
+- He excitedly ripped `open` the package.
 
 ## 1981. rise ## verb [I]
 /rɑɪz/ INCREASE
 [B2]to increase in level
 - rising temperatures
-- Prices rose by 10 percent.
+- Prices rose `by` 10 percent.
 - Real estate prices have risen rapidly.
 
 ## 1982. risk ## verb [T]
 /rɪsk/ DO SOMETHING
 [B2]If you risk something bad, you do something although that bad thing might happen.
 - I'd like to help you, but I can't risk losing my job.
-- "It's dangerous to cross here." "I'll just have to risk it."
+- "It's dangerous to cross here." "I'll just have to risk `it`."
 
 ## 1983. risk ## verb [T]
 /rɪsk/ POSSIBLY LOSE
 [B2]If you risk something important, you cause it to be in a dangerous situation where you might lose it.
-- He risked his life to save me.
+- He risked his `life` to save me.
 - She risked her job by giving me that information.
 
 ## 1984. roll ## verb
@@ -12115,9 +12115,9 @@
 ## 1985. roll ## verb
 /roʊl/ TURN OVER
 [B2]to turn something around itself to make the shape of a ball or tube
-- He was rolling a cigarette.
-- He rolled the clay into a ball in his hands.
-- As I got closer, the hedgehog rolled itself up into a ball.
+- He was rolling a `cigarette`.
+- He rolled the clay `into` a ball in his hands.
+- As I got closer, the hedgehog rolled itself `up into` a ball.
 
 ## 1986. roll ## verb
 /roʊl/ roll down/in/off, etc.
@@ -12165,7 +12165,7 @@
 [B2]If trains or buses are running, they are available to travel on.
 - Trains are still running, despite the snow.
 - A bus runs three times a day into town.
-- Buses are running an hour late, because of an earlier accident.
+- Buses are running an hour `late`, because of an earlier accident.
 
 ## 1994. run ## verb
 /rʌn/ LIQUID
@@ -12181,7 +12181,7 @@
 ## 1996. run ## verb
 /rʌn/ 
 [B2]to secretly leave a place because you are unhappy there
-- She ran away from home at the age of 13.
+- She ran away `from` home at the age of 13.
 
 ## 1997. run ## verb
 /rʌn/ 
@@ -12208,8 +12208,8 @@
 /rʌʃ/ HURRY
 [B2]to hurry or move quickly somewhere, or to make someone or something hurry or move quickly somewhere
 - We had to rush to catch the bus.
-- We rushed out into the street to see what all the noise was.
-- The UN has rushed medical supplies to the disaster area.
+- We rushed `out` into the street to see what all the noise was.
+- The UN has rushed medical supplies `to` the disaster area.
 
 ## 2002. rush ## verb
 /rʌʃ/ rush to do sth
@@ -12219,15 +12219,15 @@
 ## 2003. sail ## verb
 /seɪl/ MOVE ON WATER
 [B2]When a boat or a ship sails, it travels on the water.
-- The ship was sailing to China.
-- The boat sailed along/down the coast.
-- As the ship sailed by/past, everyone on deck waved.
+- The ship was sailing `to` China.
+- The boat sailed `along/down` the coast.
+- As the ship sailed `by/past`, everyone on deck waved.
 
 ## 2004. satisfy ## verb [T]
 /ˈsæt̬.əsˌfɑɪ/ PLEASE
 [B2]to please someone by giving them what they want or need
 - They have 31 flavors of ice cream - enough to satisfy everyone!
-- Come on, satisfy my curiosity, what happened last night?
+- Come on, satisfy my `curiosity`, what happened last night?
 
 ## 2005. say ## verb [T]
 /seɪ/ be said to be
@@ -12242,8 +12242,8 @@
 ## 2007. schedule ## verb [T often passive]
 /ˈskedʒ.uːl/ 
 [B2]to arrange that an event or activity will happen at a particular time
-- The meeting has been scheduled for tomorrow afternoon.
-- The train is scheduled to arrive at 8:45, but it's running twenty minutes late.
+- The `meeting` has been scheduled `for` tomorrow afternoon.
+- The train is scheduled `to` arrive at 8:45, but it's running twenty minutes late.
 
 ## 2008. scratch ## verb
 /skrætʃ/ RUB SKIN
@@ -12257,18 +12257,18 @@
 [B2]to make a slight cut or long, thin mark with a sharp object on a surface or on your skin
 - I scratched myself on the roses.
 - We scratched the frame of the door trying to get the bed into Martha's room.
-- People have been scratching their names on this rock for years.
+- People have been scratching their names `on` this rock for years.
 
 ## 2010. scratch ## verb
 /skrætʃ/ RUB SURFACE
 [B2]to rub a hard surface with a sharp object, often making a noise
-- The dog's scratching at the door - he wants to be let in.
+- The dog's scratching `at` the door - he wants to be let in.
 
 ## 2011. search ## verb
 /sɜrtʃ/ POLICE
 [B2]If the police search a place or a person, they look to see if they are hiding anything illegal.
 - They were searched at the airport.
-- The men were searched for and then released.
+- The men were searched `for` and then released.
 
 ## 2012. seat ## verb
 /siːt/ be seated
@@ -12284,10 +12284,10 @@
 ## 2014. see ## verb
 /siː/ CONSIDER
 [B2]to imagine or think about something or someone in a particular way
-- I’ll see how I feel tomorrow.
-- I can’t see my brother as a businessman.
-- As I see it/things/the situation, we'll have to get extra help.
-- "Do you think there’ll be time to stop for lunch?" "We’ll see .
+- I’ll see `how` I feel tomorrow.
+- I can’t see my brother `as` a businessman.
+- As I see `it/things/the situation`, we'll have to get extra help.
+- "Do you think there’ll be time to stop for lunch?" "`We’ll `see .
 
 ## 2015. see ## verb
 /siː/ 
@@ -12303,21 +12303,21 @@
 /siː/ 
 [B2]to deal with a person or task that needs to be dealt with
 - These letters need to be mailed. "I'll see to them later."
-- Please see to it that no one comes in without identification.
+- Please see to `it` that no one comes in without identification.
 
 ## 2018. seek ## verb [T]
 /siːk/ TRY TO FIND
 [B2]to try to find or get something
 - Are you actively seeking work? she asked.
 - The government is seeking ways to reduce the cost of health care.
-- Hundreds of people are seeking refuge/asylum in the embassy.
+- Hundreds of people are seeking `refuge/asylum` in the embassy.
 - They suggested she seek advice from the legal department.
 
 ## 2019. seem ## verb
 /siːm/ It seems...
 [B2]used for saying that something appears to exist or be true
-- It seems that the restaurants close early here.
-- It seems to me that she's in the wrong job.
+- It seems `that` the restaurants close early here.
+- It seems `to me` that she's in the wrong job.
 
 ## 2020. seize ## verb [T]
 /siːz/ HOLD
@@ -12342,9 +12342,9 @@
 ## 2024. send ## verb [T]
 /send/ MAKE GO
 [B2]to make someone go somewhere
-- We're sending the children to stay with my parents for a couple of weeks.
-- The UN sent relief workers to the region.
-- Who can afford to send their kids to college these days?
+- We're sending the children `to` stay with my parents for a couple of weeks.
+- The UN sent relief workers `to` the region.
+- Who can afford to send their kids `to` college these days?
 - He was trying to explain but she became impatient and sent him away.
 
 ## 2025. send ## verb [T]
@@ -12355,21 +12355,21 @@
 ## 2026. sentence ## verb [T]
 /ˈsen.t̬əns/ 
 [B2]to give a punishment to someone who has committed a crime
-- He was sentenced to 3 months in jail and fined $5000.
+- He was sentenced `to` 3 months in jail and fined $5000.
 
 ## 2027. separate ## verb
  DIVIDE
 [B2]to divide into parts, or to make something divide into parts
-- I separated the class into three groups.
-- The north and south of the country are separated by a mountain range.
-- You can get a special device for separating egg whites from yolks.
+- I separated the class `into` three groups.
+- The north and south of the country are separated `by` a mountain range.
+- You can get a special device for separating egg whites `from` yolks.
 - The top and bottom sections are difficult to separate.
 
 ## 2028. separate ## verb
  MOVE APART
 [B2]to move apart, or to make people move apart
 - I'll have to separate you two if you don't stop talking.
-- Somehow, in the rush to get out of the building, I got separated from my mother.
+- Somehow, in the rush to get out of the building, I got separated `from` my mother.
 - Perhaps we should separate now and meet up later.
 
 ## 2029. separate ## verb
@@ -12380,10 +12380,10 @@
 ## 2030. set ## verb
 /set/ EQUIPMENT
 [B2]to make a piece of equipment ready to be used
-- The dishwasher is set to go on in two hours.
+- The dishwasher is set `to` go on in two hours.
 - Did you set the timer?
 - I need to set the clock to the right time.
-- He set the alarm for 7:00 a.m.
+- He set the alarm `for` 7:00 a.m.
 
 ## 2031. set ## verb
 /set/ BE IN PLACE
@@ -12394,16 +12394,16 @@
 ## 2032. set ## verb
 /set/ CONDITION
 [B2]to cause something or someone to be in the stated condition or situation
-- Officials believed the building was set on fire deliberately.
-- She set fire to to the logs in the fireplace.
+- Officials believed the building was set `on fire` deliberately.
+- She set `fire to` to the logs in the fireplace.
 - What you said yesterday set me thinking.
-- The men who had wrongfully been found guilty were finally set free.
+- The men who had wrongfully been found guilty were finally set `free`.
 
 ## 2033. set ## verb
 /set/ ACHIEVE
 [B2]to give someone something to do or achieve
 - We were set a difficult task.
-- He's set himself the goal/target of making his first million by the time he's 30.
+- He's set himself the `goal/target` of making his first million by the time he's 30.
 
 ## 2034. set ## verb
 /set/ set an example
@@ -12413,7 +12413,7 @@
 ## 2035. set ## verb
 /set/ set a record
 [B2]to establish the best achievement so far in a sport or competition
-- Bolt has set a new world record.
+- Bolt has set a new world `record`.
 
 ## 2036. set ## verb
 /set/ 
@@ -12435,35 +12435,35 @@
 ## 2039. settle ## verb
 /ˈset̬.əl/ ARGUMENT
 [B2]If you settle an argument, you solve the problem and stop arguing.
-- My father and I have agreed finally to settle our differences.
-- It took months to settle the dispute.
+- My father and I have agreed finally to settle our `differences`.
+- It took months to settle the `dispute`.
 
 ## 2040. settle ## verb
 /ˈset̬.əl/ LIVE
 [B2]to start living somewhere that you are going to live for a long time
-- After they got married, they settled in Kentucky.
+- After they got married, they settled `in` Kentucky.
 - He traveled around Europe for a year before finally settling in Toronto.
 
 ## 2041. settle ## verb
 /ˈset̬.əl/ DECIDE
 [B2]to decide or arrange something
 - OK, that's settled. We're going to Spain.
-- They haven't yet settled when the wedding is going to be.
-- "The tickets are $60 each." "Well, that settles that - I can't afford that much."
-- I'd like to get this matter settled once and for all.
+- They haven't yet settled `when` the wedding is going to be.
+- "The tickets are $60 each." "Well, `that` settles `that` - I can't afford that much."
+- I'd like to get this matter settled `once and for all`.
 - The details of the contract have not yet been settled.
 
 ## 2042. settle ## verb
 /ˈset̬.əl/ FEEL COMFORTABLE
 [B2]to become familiar with a place and to feel happy and confident in it
-- She quickly settled down in her new house/job/school.
+- She quickly settled down `in` her new house/job/school.
 
 ## 2043. shake ## verb
 /ʃeɪk/ FEAR
 [B2]If you are shaking, your body makes quick short movements, or you feel as if it is doing so, because you are frightened or nervous.
 - She was shaking as she opened the letter.
 - Her voice shook as she spoke about the person who had jumped out at her.
-- I was shaking like a leaf.
+- I was shaking `like a leaf`.
 
 ## 2044. shake ## verb
 /ʃeɪk/ shake your head
@@ -12474,12 +12474,12 @@
 /ʃer/ DO TOGETHER
 [B2]If two or more people share an activity, they each do some of it.
 - It’s a long trip – why don’t we share the driving
-- We shared the preparation for the party between us, so it wasn't too much work.
+- We shared the preparation for the party `between` us, so it wasn't too much work.
 
 ## 2046. shiver ## verb [I]
 /ˈʃɪv.ər/ 
 [B2]to shake because you are cold or frightened
-- She shivered from the cold.
+- She shivered `from` the cold.
 - The poor dog - it's shivering!
 
 ## 2047. shock ## verb [I or T]
@@ -12498,12 +12498,12 @@
 ## 2049. show ## verb
 /ʃoʊ/ PROVE
 [B2]If numbers, results, facts, etc. show something, they prove that it is true.
-- Research shows that 40 percent of the program's viewers are aged over 55.
+- Research shows `that` 40 percent of the program's viewers are aged over 55.
 - Sales figures showed a significant increase last month.
 - Your writing shows you can be a good writer.
-- She has shown herself (to be) a highly competent manager.
-- The diaries show (that) he was very insecure.
-- Our research has shown (us) how little we know about this disease.
+- She has shown herself `(to be)` a highly competent manager.
+- The diaries show `(that)` he was very insecure.
+- Our research has shown (us) `how` little we know about this disease.
 
 ## 2050. show ## verb
 /ʃoʊ/ EXPRESS
@@ -12511,7 +12511,7 @@
 - He finds it difficult to show affection.
 - She showed enormous courage when she rescued him from the fire.
 - I do not know how to show my thanks for all your help.
-- You should show your parents more respect/show more respect to your parents.
+- You should show your parents more respect/show more respect `to` your parents.
 
 ## 2051. show ## verb
 /ʃoʊ/ 
@@ -12529,7 +12529,7 @@
 /ʃrɪŋk/ 
 [B2]to become smaller, or to make something smaller
 - Your sweater will shrink if you wash it at too high a temperature.
-- The company's profits have shrunk from £5.5 million to £1.25 million.
+- The company's profits have shrunk `from` £5.5 million `to` £1.25 million.
 
 ## 2054. shut ## verb [I or T]
 /ʃʌt/ 
@@ -12569,16 +12569,16 @@
 ## 2060. slam ## verb
 /slæm/ slam sth down/onto/into, etc. / slam down/onto/into, etc. sth
 [B2]to put something somewhere or to hit something with great force
-- She slammed the phone down.
-- He slammed on the brakes to avoid hitting a squirrel that had run out in front of his car.
+- She slammed `the phone` down.
+- He slammed on `the brakes` to avoid hitting a squirrel that had run out in front of his car.
 - The truck slammed into an oncoming car.
 
 ## 2061. slap ## verb [T]
 /slæp/ 
 [B2]to hit someone with the flat, inside part of your hand
 - She slapped his face.
-- She slapped him across the face.
-- His friends slapped him on the back when he said he was getting married .
+- She slapped him `across` the face.
+- His friends slapped him `on the back` when he said he was getting married .
 
 ## 2062. slice ## verb [T]
 /slɑɪs/ 
@@ -12608,7 +12608,7 @@
 /smæʃ/ 
 [B2]to break into a lot of pieces with a loud noise, or to make something break into a lot of pieces with a loud noise
 - Some kids smashed her window.
-- She dropped her cup and it smashed to pieces on the stone floor.
+- She dropped her cup and it smashed `to pieces` on the stone floor.
 
 ## 2067. smell ## verb
 /smel/ ABILITY
@@ -12646,15 +12646,15 @@
 ## 2073. socialize ## verb [I]
 /ˈsoʊ.ʃəˌlɑɪz/ 
 [B2]to spend time enjoying yourself with other people
-- I don't usually socialize with my colleagues.
+- I don't usually socialize `with` my colleagues.
 - I hope Alex is actually doing some work while in college - he seems to spend all his time socializing!
 
 ## 2074. sort ## verb [T]
 /sɔːrt/ ORDER
 [B2]to arrange things into different groups or types or into an order
 - Paper, plastic and cans are sorted for recycling.
-- I'm going to sort these books into ones to keep and ones to give away.
-- You can use the computer to sort the newspaper articles alphabetically, by date, or by subject.
+- I'm going to sort these books `into` ones to keep and ones to give away.
+- You can use the computer to sort the newspaper articles alphabetically, `by` date, or `by` subject.
 
 ## 2075. sort ## verb [T]
 /sɔːrt/ SOLVE PROBLEM
@@ -12691,8 +12691,8 @@
 ## 2081. specialize ## verb [I]
 /ˈspeʃ.əˌlɑɪz/ 
 [B2]to spend most of your time studying one particular subject or doing one type of business
-- She hired a lawyer who specializes in accident cases.
-- a restaurant that specializes in seafood
+- She hired a lawyer who specializes `in` accident cases.
+- a restaurant that specializes `in` seafood
 - I enjoy studying medicine, and I hope to be able to specialize in the future.
 
 ## 2082. specify ## verb [T]
@@ -12700,15 +12700,15 @@
 [B2]to state or describe something clearly and exactly
 - He said we should meet but didn't specify a time.
 - The peace treaty clearly specifies the terms for the withdrawal of troops.
-- He didn’t specify how much was spent on advertising.
-- My contract specifies (that) I must give a month's notice if I resign.
+- He didn’t specify `how much` was spent on advertising.
+- My contract specifies `(that)` I must give a month's notice if I resign.
 - The loan must be repaid within a specified period/by a specified date.
 
 ## 2083. splash ## verb
 /splæʃ/ LIQUID
 [B2]If a liquid splashes or you splash a liquid, drops of it hit or fall on something.
 - Water was splashing from a hole in the roof.
-- Unfortunately some paint splashed onto the rug.
+- Unfortunately some paint splashed `onto` the rug.
 - She splashed her face with cold water.
 
 ## 2084. splash ## verb
@@ -12719,16 +12719,16 @@
 ## 2085. split ## verb
 /splɪt/ DIVIDE
 [B2]to divide into smaller parts or groups, or to divide something into smaller parts or groups
-- The prize was split between Susan and Kate.
-- Split the grapefruit in half .
-- The teacher split the children (up)into three groups.
-- The woman split her head open when she was thrown from the horse.
+- The prize was split `between` Susan and Kate.
+- Split the grapefruit `in` half .
+- The teacher split the children `(up)``into` three groups.
+- The woman split her head `open` when she was thrown from the horse.
 
 ## 2086. sponsor ## verb [T]
 /ˈspɑn.sər/ 
 [B2]to give money to someone to support an activity, event, or organization, sometimes as a way to advertise your company or product
 - The Rotary Club sponsors Little League baseball in the summer.
-- She is doing a ten-mile walk to raise money for cancer research and she asked me if I'd sponsor her for $2 a mile.
+- She is doing a ten-mile walk to raise money for cancer research and she asked me if I'd sponsor her `for` $2 a mile.
 
 ## 2087. spot ## verb [T]
 /spɑt/ 
@@ -12736,12 +12736,12 @@
 - I've just spotted Malcolm - he's over there, near the entrance.
 - If you spot any mistakes in the article just mark them with a pencil.
 - Darryl spotted a woodpecker high on the tree.
-- I soon spotted what was wrong with the printer.
+- I soon spotted `what` was wrong with the printer.
 
 ## 2088. spray ## verb [T]
 /spreɪ/ 
 [B2]to force liquid out of a container in many small drops
-- The fields are sprayed with pesticides.
+- The fields are sprayed `with` pesticides.
 - She sprayed a little perfume on her wrists.
 - Vandals had sprayed graffiti on the wall.
 
@@ -12749,13 +12749,13 @@
 /spred/ GRADUALLY AFFECT
 [B2]to gradually affect a larger area
 - The fire spread very rapidly because of the strong wind.
-- It started off as cancer of the liver but it spread to other areas of the body.
+- It started off as cancer of the liver but it spread `to` other areas of the body.
 
 ## 2090. spread ## verb
 /spred/ INFORMATION
 [B2]If information spreads, or if someone spreads it, it is communicated to many people.
 - News of his victory spread quickly.
-- Have you been spreading gossip about them again?
+- Have you been spreading `gossip` about them again?
 
 ## 2091. spread ## verb
 /spred/ COVER AREA
@@ -12776,7 +12776,7 @@
 ## 2094. squash ## verb
 /skwɑʃ/ PUSH INTO
 [B2]to push someone or something into a small space
-- The kids were all squashed into the back seat.
+- The kids were all squashed `into` the back seat.
 
 ## 2095. squeeze ## verb [T]
 /skwiːz/ PRESS
@@ -12789,19 +12789,19 @@
 /skwiːz/ 
 [B2]to succeed in getting someone or something into a small space or object, often by pushing or forcing
 - We have four people in our car, but we could squeeze one more person in the back.
-- I must have put on some weight - I can only just squeeze into my jeans.
+- I must have put on some weight - I can only just squeeze `into` my jeans.
 
 ## 2097. stab ## verb [T]
 /stæb/ 
 [B2]to push a knife into someone
-- She was stabbed in the arm.
-- The victim had been stabbed to death.
+- She was stabbed `in` the arm.
+- The victim had been stabbed `to death`.
 
 ## 2098. stamp ## verb
 /stæmp/ MARK
 [B2]to put a mark on an object either by printing on it or pushing into it with a small tool
 - It is necessary to stamp your passport.
-- Milk containers are stamped with a sell-by date.
+- Milk containers are stamped `with` a sell-by date.
 
 ## 2099. stand ## verb
 /stænd/ stand (sth) in/against/by, etc. sth
@@ -12833,7 +12833,7 @@
 ## 2104. stand ## verb
 /stænd/ BE BETTER
 [B2]to be much better than other similar things or people
-- One candidate stood out from the rest.
+- One candidate stood out `from` the rest.
 
 ## 2105. stand ## verb
 /stænd/ EASY TO SEE
@@ -12854,7 +12854,7 @@
 ## 2108. stare ## verb [I]
 /ster/ 
 [B2]to look at someone or something for a long time and not move your eyes
-- Don't stare at people like that, it's rude.
+- Don't stare `at` people like that, it's rude.
 - Chuck sat quietly for hours staring into the distance, thinking of what might have been.
 
 ## 2109. start ## verb [I or T]
@@ -12878,13 +12878,13 @@
 /steɪt/ 
 [B2]to officially say or write something
 - Our warranty clearly states the limits of our liability.
-- His will states (that) the property is to be sold.
-- Please state why you are applying for this grant.
+- His will states `(that)` the property is to be sold.
+- Please state `why` you are applying for this grant.
 
 ## 2113. stay ## verb [I]
 /steɪ/ 
 [B2]to not come home at night, or to go home late
-- My folks don't let me stay out late.
+- My folks don't let me stay out `late`.
 
 ## 2114. stay ## verb [I]
 /steɪ/ 
@@ -12894,7 +12894,7 @@
 ## 2115. stay ## verb [I]
 /steɪ/ 
 [B2]to go to bed later than usual
-- We stayed up (late) to watch a movie on TV.
+- We stayed up `(late)` to watch a movie on TV.
 
 ## 2116. steer ## verb
 /stɪr/ CONTROL DIRECTION
@@ -12940,7 +12940,7 @@
 /ˈstɪm.jəˌleɪt/ MAKE EXCITED
 [B2]to make someone excited and interested about something
 - The film was intended to stimulate and entertain.
-- Good teachers should ask questions that stimulate students to think.
+- Good teachers should ask questions that stimulate students `to` think.
 
 ## 2124. stop ## verb
 /stɑp/ 
@@ -12950,13 +12950,13 @@
 ## 2125. store ## verb [T]
 /stɔːr/ KEEP
 [B2]to put or keep things in a special place for use in the future
-- I stored my things at my mother's house while I was away.
-- We store the garden tools in a shed in the backyard.
+- I stored my things `at` my mother's house while I was away.
+- We store the garden tools `in` a shed in the backyard.
 
 ## 2126. store ## verb [T]
 /stɔːr/ COMPUTER
 [B2]to keep information on a computer
-- The data is stored on a hard disk.
+- The data is stored `on` a hard disk.
 
 ## 2127. strain ## verb
 /streɪn/ INJURE
@@ -12974,8 +12974,8 @@
 ## 2129. stress ## verb [T]
 /stres/ EMPHASIZE
 [B2]to emphasize something in order to show that it is important
-- I stressed that this was our policy.
-- She stressed the importance of timing.
+- I stressed `that` this was our policy.
+- She stressed `the importance of` timing.
 
 ## 2130. stress ## verb [T]
 /stres/ PRONOUNCE
@@ -12998,7 +12998,7 @@
 ## 2133. strike ## verb
 /strɑɪk/ THINK
 [B2]If a thought or idea strikes you, you suddenly think of it.
-- It struck me that I had forgotten to order the champagne.
+- `It` struck `me` that I had forgotten to order the champagne.
 
 ## 2134. strike ## verb
 /strɑɪk/ what strikes me or the thing that strikes me...
@@ -13021,18 +13021,18 @@
 ## 2137. struggle ## verb [I]
 /ˈstrʌg.əl/ TRY HARD
 [B2]to try very hard to do something difficult
-- He's been struggling to pay off his debts.
-- Fish struggle for survival when the water level drops in the lake.
+- He's been struggling `to` pay off his debts.
+- Fish struggle `for` survival when the water level drops in the lake.
 
 ## 2138. struggle ## verb [I]
 /ˈstrʌg.əl/ FIGHT
 [B2]to fight someone when they are holding you
-- He struggled with the stranger who had suddenly grabbed his arm.
+- He struggled `with` the stranger who had suddenly grabbed his arm.
 
 ## 2139. study ## verb
 /ˈstʌd.i/ EXAMINE
 [B2]to examine a subject in detail in order to discover new information
-- Researchers have been studying how people under stress make decisions.
+- Researchers have been studying `how` people under stress make decisions.
 
 ## 2140. study ## verb
 /ˈstʌd.i/ LOOK AT
@@ -13044,29 +13044,29 @@
 /sʌbˈmɪt/ GIVE
 [B2]to send a document, plan, etc. to someone so that they can consider it
 - Applications must be submitted before January 1st.
-- Companies are required to submit monthly financial statements to the board.
+- Companies are required to submit monthly financial statements `to` the board.
 
 ## 2142. substitute ## verb [T]
 /ˈsʌb.stəˌtuːt/ 
 [B2]to use someone or something instead of another person or thing
-- You can substitute oil for butter in this recipe.
-- Dayton came in to substitute for Williams in the second half.
+- You can substitute oil `for` butter in this recipe.
+- Dayton came in to substitute `for` Williams in the second half.
 
 ## 2143. suffer ## verb
 /ˈsʌf.ər/ FEEL PAIN
 [B2]to experience pain or unpleasant emotions
 - She really suffers in the winter when it's cold and her joints get stiff.
 - About 50,000 bicyclists suffer serious head injuries each year.
-- If you're not happy with it, you should complain. Don't just suffer in silence.
+- If you're not happy with it, you should complain. Don't just suffer `in silence`.
 
 ## 2144. suffer ## verb
 /ˈsʌf.ər/ EXPERIENCE
 [B2]to experience something bad
-- The mayor suffered a crushing defeat in the last election.
-- Twenty-five people suffered minor injuries.
-- The local economy suffered another blow last month with the closing of the car assembly plant.
-- Block’s own farm has suffered large financial setbacks.
-- If you don't study, you'll suffer the consequences!
+- The mayor suffered a crushing `defeat` in the last election.
+- Twenty-five people suffered minor `injuries`.
+- The local economy suffered another `blow` last month with the closing of the car assembly plant.
+- Block’s own farm has suffered large financial `setbacks`.
+- If you don't study, you'll suffer `the consequences`!
 
 ## 2145. suggest ## verb [T]
 /səgˈdʒest/ SEEM TRUE
@@ -13079,7 +13079,7 @@
 [B2]to be convenient or suitable for a particular person, situation or occasion
 - We could go now or this afternoon - whatever time suits you best.
 - City life seems to suit her.
-- "How about eight o'clock outside the movie theater?" "That suits me fine."
+- "How about eight o'clock outside the movie theater?" "That suits me `fine`."
 
 ## 2147. suit ## verb [T]
 /suːt/ LOOK ATTRACTIVE
@@ -13101,14 +13101,14 @@
 ## 2150. supply ## verb [T]
 /səˈplɑɪ/ 
 [B2]to provide things that people want or need, often over a long period of time
-- Fran supplied the sandwiches for the party.
-- The dam supplies water and power to San Francisco.
-- At the beginning of term, students are supplied with a list of books that they are expected to read.
+- Fran supplied the sandwiches `for` the party.
+- The dam supplies water and power `to` San Francisco.
+- At the beginning of term, students are supplied `with` a list of books that they are expected to read.
 
 ## 2151. support ## verb [T]
 /səˈpɔːrt/ AGREE
 [B2]to agree with an idea, group, or person
-- Do you support their views on the environment?
+- Do you support their `views` on the environment?
 - The majority of people support the new basketball arena.
 
 ## 2152. support ## verb [T]
@@ -13140,45 +13140,45 @@
 - The baby was born with a heart problem and only survived for a few hours.
 - These plants cannot survive in very cold conditions.
 - The building survived the earthquake with little damage.
-- The family is struggling to survive on very little money.
+- The family is struggling to survive `on` very little money.
 
 ## 2157. suspect ## verb [T]
 /səˈspekt/ THINK LIKELY
 [B2]to think that something is probably true, or is likely to happen
-- They suspected (that) he was lying.
+- They suspected `(that)` he was lying.
 - I suspect she won't come - she's very busy.
 - Investigators suspect the outbreak was caused by contamination at the packing plant.
 
 ## 2158. suspect ## verb [T]
 /səˈspekt/ THINK GUILTY
 [B2]to think that someone may have committed a crime or done something bad
-- The police suspect him of stealing the car.
+- The police suspect him `of` stealing the car.
 - Authorities have the power to evict residents when they suspect criminal activity.
 
 ## 2159. suspend ## verb [T]
 /səˈspend/ NOT ALLOW
 [B2]to not allow someone to go to work or school for a period of time because they have done something wrong
-- Two students were suspended for damaging school property.
+- Two students were suspended `for` damaging school property.
 
 ## 2160. swallow ## verb
 /ˈswɑl.oʊ/ EAT
 [B2]to move your throat in order to make food or drink go down
 - My throat is so sore that it really hurts when I swallow.
-- The snake swallowed the bird whole.
+- The snake swallowed the bird `whole`.
 
 ## 2161. swear ## verb
 /swer/ RUDE WORDS
 [B2]to use language which people think is rude or offensive
 - He started swearing for no good reason.
-- When the taxi driver started to swear at him, he walked off.
+- When the taxi driver started to swear `at` him, he walked off.
 
 ## 2162. swear ## verb
 /swer/ PROMISE
 [B2]to make a serious promise
 - swear allegiance/to tell the truth
-- I don't know anything about what happened, I swear (it).
-- I swear to you I’ll take care of them.
-- I think she’s upstairs, but I wouldn’t swear to it.
+- I don't know anything about what happened, I swear `(it)`.
+- I swear `to` you I’ll take care of them.
+- I think she’s upstairs, but I wouldn’t swear `to it`.
 
 ## 2163. sweat ## verb [I]
 /swet/ 
@@ -13189,8 +13189,8 @@
 ## 2164. sweep ## verb
 /swiːp/ CLEAN
 [B2]to clean the floor using a brush
-- I swept the floor.
-- He swept up the pieces of broken glass.
+- I swept the `floor`.
+- He swept `up` the pieces of broken glass.
 
 ## 2165. sweep ## verb
 /swiːp/ be/get swept along/away, etc.
@@ -13206,15 +13206,15 @@
 ## 2167. switch ## verb [I]
 /swɪtʃ/ 
 [B2]to change from one thing to another
-- She started studying English at college, but switched to Business Studies in her second year.
+- She started studying English at college, but switched `to` Business Studies in her second year.
 - He's just switched jobs.
 
 ## 2168. tackle ## verb
 /ˈtæk.əl/ DEAL WITH
 [B2]to try to deal with a problem or to speak to someone about something bad that they have done
-- new ways to tackle crime
-- There are many ways of tackling this problem.
-- Have you tackled him about his attitude?
+- new ways to tackle `crime`
+- There are many ways of tackling this `problem`.
+- Have you tackled him `about` his attitude?
 
 ## 2169. tackle ## verb
 /ˈtæk.əl/ SPORT
@@ -13229,7 +13229,7 @@
 ## 2171. take ## verb [T]
 /teɪk/ REMOVE NUMBER
 [B2]to remove one number from another number
-- If you take 4 from 12 you get 8.
+- If you take 4 `from` 12 you get 8.
 
 ## 2172. take ## verb [T]
 /teɪk/ GRAMMAR
@@ -13260,7 +13260,7 @@
 ## 2177. take ## verb [T]
 /teɪk/ take into account sth
 [B2]to consider something when judging a situation
-- I think you have to take into account the fact that he's a good deal younger than the rest of us.
+- I think you have to take into account `the fact that` he's a good deal younger than the rest of us.
 
 ## 2178. take ## verb [T]
 /teɪk/ take advantage of sb/sth
@@ -13275,7 +13275,7 @@
 ## 2180. take ## verb [T]
 /teɪk/ take charge
 [B2]to take control of or make yourself responsible for something
-- I was happy to let her take charge of the vacation arrangements.
+- I was happy to let her take charge `of` the vacation arrangements.
 
 ## 2181. take ## verb [T]
 /teɪk/ take control
@@ -13300,7 +13300,7 @@
 ## 2185. take ## verb [T]
 /teɪk/ take it for granted
 [B2]to believe that something is true without checking or thinking about it
-- I took it for granted that we'd be invited to the wedding.
+- I took it for granted `that` we'd be invited to the wedding.
 
 ## 2186. take ## verb [T]
 /teɪk/ take the/this opportunity to do sth
@@ -13326,7 +13326,7 @@
 /teɪk/ REMOVE
 [B2]to remove something
 - A waiter came to take our plates away.
-- Supermarkets are taking business away from small local stores.
+- Supermarkets are taking business away `from` small local stores.
 
 ## 2191. take ## verb [T]
 /teɪk/ 
@@ -13352,7 +13352,7 @@
 ## 2195. take ## verb [T]
 /teɪk/ 
 [B2]to employ someone
-- She was taken on as a laboratory assistant.
+- She was taken on `as` a laboratory assistant.
 
 ## 2196. take ## verb [T]
 /teɪk/ MONEY
@@ -13362,8 +13362,8 @@
 ## 2197. take ## verb [T]
 /teɪk/ 
 [B2]to start doing a job or being responsible for something that another person did or had responsibility for before
-- He took over from the previous principal in February.
-- She took over as manager two weeks ago.
+- He took over `from` the previous principal in February.
+- She took over `as` manager two weeks ago.
 - Colin Lamb has taken over responsibility for this project.
 
 ## 2198. take ## verb [T]
@@ -13395,12 +13395,12 @@
 ## 2203. tap ## verb [I or T]
 /tæp/ 
 [B2]to knock or touch something gently
-- I tapped on the window to try to get her attention.
+- I tapped `on` the window to try to get her attention.
 
 ## 2204. tease ## verb [I or T]
 /tiːz/ 
 [B2]to laugh at someone or say unkind things about them, either because you are joking or because you want to upset them
-- I used to hate being teased about my red hair when I was at school.
+- I used to hate being teased `about` my red hair when I was at school.
 - I was only teasing, I didn't mean to upset you.
 
 ## 2205. tell ## verb
@@ -13412,18 +13412,18 @@
 ## 2206. tell ## verb
 /tel/ UNDERSTAND FROM
 [B2]If something tells you something, it gives you information.
-- What does the survey tell us about the lives of teenagers?
+- What does the survey tell us `about` the lives of teenagers?
 
 ## 2207. tell ## verb
 /tel/ 
 [B2]to speak angrily to someone because they have done something wrong
-- The teacher told me off for swearing.
+- The teacher told me off `for` swearing.
 
 ## 2208. tempt ## verb [T]
 /temt/ be tempted
 [B2]to want something or to want to do something
 - Did you apply for that job? "Well, I was very tempted but in the end I decided not to."
-- I was tempted to resign after my boss was so rude to me.
+- I was tempted `to` resign after my boss was so rude to me.
 
 ## 2209. tend ## verb
 /tend/ tend to do sth
@@ -13449,7 +13449,7 @@
 ## 2213. think ## verb
 /θɪŋk/ CONSIDER PEOPLE
 [B2]to consider a person's needs or wishes
-- She's always thinking of others.
+- She's always thinking `of` others.
 
 ## 2214. think ## verb
 /θɪŋk/ 
@@ -13464,8 +13464,8 @@
 ## 2216. threaten ## verb
 /ˈθret.ən/ HARM
 [B2]to tell someone that you will kill or hurt them, or cause problems for them if they do not do what you want
-- He threatened the staff with a gun and demanded money.
-- He threatened to report her to the police.
+- He threatened the staff `with` a gun and demanded money.
+- He threatened `to` report her to the police.
 
 ## 2217. throw ## verb [I or T]
 /θroʊ/ 
@@ -13490,7 +13490,7 @@
 - His hand tightened around her arm.
 - Tighten the straps so they don't rub.
 - As he struggled, the ropes tightened even more.
-- We tightened up all the screws.
+- We tightened `up` all the screws.
 
 ## 2221. time ## verb [T]
 /tɑɪm/ MEASURE
@@ -13516,90 +13516,90 @@
 ## 2225. trade ## verb [I or T]
 /treɪd/ 
 [B2]to buy and sell goods or services, especially between countries
-- For centuries, Native Americans traded with European settlers.
-- The company has been trading in oil for many years.
-- The two countries have become close trading partners.
+- For centuries, Native Americans traded `with` European settlers.
+- The company has been trading `in` oil for many years.
+- The two countries have become close trading `partners`.
 - Our books are traded right across Asia.
 
 ## 2226. train ## verb
 /treɪn/ TEACH
 [B2]to teach someone how to do something, usually a skill that is needed for a job
-- We are training all our staff in how to use the new computer system.
-- The aid workers trained local people to give the injections.
+- We are training all our staff `in` how to use the new computer system.
+- The aid workers trained local people `to` give the injections.
 
 ## 2227. train ## verb
 /treɪn/ LEARN
 [B2]to learn the skills you need to do a job
-- He trained as a lawyer in Vienna.
+- He trained `as` a lawyer in Vienna.
 
 ## 2228. transfer ## verb
  CHANGE JOB/TEAM
 [B2]to change to a different job, team, place of work, etc., or to make someone do this
-- After a year he transferred to Harvard University.
-- Some very high-profile British players have transferred to teams abroad.
+- After a year he transferred `to` Harvard University.
+- Some very high-profile British players have transferred `to` teams abroad.
 - He threatened to give up soccer if his team didn't transfer him.
 
 ## 2229. transform ## verb [T]
 /trænsˈfɔːrm/ 
 [B2]to change something completely, usually to improve it
-- Within weeks they had transformed the area into a beautiful garden.
+- Within weeks they had transformed the area `into` a beautiful garden.
 - The reorganization will transform the entertainment industry.
 
 ## 2230. transport ## verb [T]
  
 [B2]to move people or goods from one place to another
 - The goods are packed in boxes and transported overseas.
-- The pipeline was constructed to transport oil to ports on the coast.
+- The pipeline was constructed to transport oil `to` ports on the coast.
 - Such heavy items are expensive to transport by plane.
 
 ## 2231. trap ## verb [T]
 /træp/ be trapped
 [B2]If someone or something is trapped, they are unable to move or escape from a place or situation.
-- The two men died when they were trapped in a burning building.
+- The two men died when they were trapped `in` a burning building.
 - Fire officers used cutting equipment to free his legs, which were trapped under a steel beam.
 
 ## 2232. treat ## verb
 /triːt/ DEAL WITH
 [B2]to behave toward or deal with someone in a particular way
 - My parents treated us all the same when we were kids.
-- He treated his wife very badly.
-- They treat her like one of their own children.
-- She felt she'd been unfairly treated by her employer.
+- He treated his wife very `badly`.
+- They treat her `like` one of their own children.
+- She felt she'd been `unfairly` treated by her employer.
 
 ## 2233. treat ## verb
 /triːt/ MEDICAL
 [B2]to give medical care to someone for an illness or injury
-- He is being treated for a rare skin disease.
-- Western medicine tends to treat the symptoms and not the cause.
+- He is being treated `for` a rare skin disease.
+- Western medicine tends to treat `the symptoms` and not the cause.
 
 ## 2234. treat ## verb
 /triːt/ CONSIDER
 [B2]to consider something in a particular way
-- He treated my suggestion as a joke.
+- He treated my suggestion `as` a joke.
 
 ## 2235. treat ## verb
 /triːt/ SPECIAL
 [B2]to do or buy something special for someone
-- I’m going to treat myself to a new pair of sunglasses.
+- I’m going to treat myself `to` a new pair of sunglasses.
 - I'm going to treat them to dinner at that new restaurant.
 
 ## 2236. tremble ## verb [I]
 /ˈtrem.bəl/ 
 [B2]to shake slightly, usually because you are cold, frightened, or very emotional
-- When he came out of the water, he was trembling with cold.
+- When he came out of the water, he was trembling `with` cold.
 - Her bottom lip trembled and tears welled up in her eyes.
-- His voice started to tremble and I thought he was going to cry.
+- His `voice` started to tremble and I thought he was going to cry.
 
 ## 2237. trick ## verb [T]
 /trɪk/ 
 [B2]to deceive someone
-- They tricked him into signing the papers.
+- They tricked him `into` signing the papers.
 
 ## 2238. trip ## verb [I]
 /trɪp/ 
 [B2]to fall or almost fall because you hit your foot on something when you are walking or running
-- She nearly tripped on the rug.
-- He injured his ankle when he tripped over a water sprinkler while jogging.
+- She nearly tripped `on` the rug.
+- He injured his ankle when he tripped `over` a water sprinkler while jogging.
 
 ## 2239. try ## verb
 /trɑɪ/ 
@@ -13612,7 +13612,7 @@
 [B2]to move around a central point in a circle, or to make something do this
 - Turn the steering wheel as quickly as you can.
 - The Earth turns on its axis once every 24 hours.
-- The wheels started to turn (around).
+- The wheels started to turn `(around)`.
 - She turned the door knob and quietly opened the door.
 
 ## 2241. turn ## verb
@@ -13637,25 +13637,25 @@
 ## 2244. turn ## verb
 /tɜrn/ HAPPEN
 [B2]to happen in a particular way or to have a particular result, especially an unexpected one
-- The bomb warning turned out to be a false alarm.
+- The bomb warning turned out `to be` a false alarm.
 - How did the recipe turn out?
 
 ## 2245. turn ## verb
 /tɜrn/ BE DISCOVERED
 [B2]to be known or discovered finally and surprisingly
-- It turned out that we'd been to the same school.
+- `It` turned out `that` we'd been to the same school.
 
 ## 2246. turn ## verb
 /tɜrn/ GO
 [B2]If people turn out for an event, they go there.
 - Thousands of people turned out to welcome the team home.
-- Over 800 people turned out for the protest.
+- Over 800 people turned out `for` the protest.
 
 ## 2247. turn ## verb
 /tɜrn/ 
 [B2]to ask a person or organization for help or support
-- Eventually she turned to her aunt for help.
-- Her family lived a long way away, and she had no one to turn to.
+- Eventually she turned to her aunt `for` help.
+- Her family lived a long way away, and she had `no one to` turn to.
 
 ## 2248. turn ## verb
 /tɜrn/ 
@@ -13672,7 +13672,7 @@
 ## 2250. underline ## verb [T]
 /ˌʌn.dərˈlɑɪn/ EMPHASIZE
 [B2]to emphasize the truth or importance of something
-- The report underlines the need for more teachers in schools.
+- The report underlines `the need` for more teachers in schools.
 
 ## 2251. undo ## verb [T]
 /ʌnˈduː/ OPEN
@@ -13712,7 +13712,7 @@
 [B2]to make someone feel unhappy or worried
 - The phone call had clearly upset her.
 - It still upsets him when he thinks about the accident.
-- Don't upset yourself by thinking about what might have happened.
+- Don't upset `yourself` by thinking about what might have happened.
 
 ## 2258. use ## verb [T]
  WORD
@@ -13735,40 +13735,40 @@
 [B2]to disappear suddenly
 - The sun vanished behind the clouds.
 - The girl vanished while on her way home from school.
-- We rushed out of the store, but the thief had vanished into thin air.
+- We rushed out of the store, but the thief had vanished `into thin air`.
 
 ## 2262. vary ## verb
 /ˈver.i/ BE DIFFERENT
 [B2]If things of the same type vary, they are different from each other.
-- Car prices vary greatly/widely from one state to another.
-- The samples varied in quality but were generally acceptable.
+- Car prices vary `greatly/widely` from one state to another.
+- The samples varied `in` quality but were generally acceptable.
 
 ## 2263. vary ## verb
 /ˈver.i/ CHANGE
 [B2]to change or to cause something to change
-- Temperatures vary depending on/according to the time of year.
+- Temperatures vary `depending on/according to` the time of year.
 - I try to vary what I eat.
 
 ## 2264. wander ## verb [I]
 /ˈwɑn.dər/ 
 [B2]to walk around slowly in a relaxed way or without any clear purpose or direction
-- We spent the morning wandering around the market.
-- He was here a minute ago, but he's wandered off somewhere.
+- We spent the morning wandering `around` the market.
+- He was here a minute ago, but he's wandered `off` somewhere.
 
 ## 2265. warm ## verb [I or T]
 /wɔːrm/ 
 [B2]to become warm or make something become warm
-- When the weather warms up, we'll go camping.
+- When the weather warms `up`, we'll go camping.
 - Rub the oil between your hands to warm it.
-- It takes a little while to warm up the house.
+- It takes a little while to warm `up` the house.
 
 ## 2266. watch ## verb
 /wɑtʃ/ BE CAREFUL
 [B2]to be careful about something
-- I have to watch my weight now that I'm not exercising so much.
-- Watch how you cross the street!
-- Watch (that) you don't get glue on your fingers.
-- Watch what you're doing with that knife, Jim, it's sharp.
+- I have to watch my `weight` now that I'm not exercising so much.
+- Watch `how` you cross the street!
+- Watch `(that)` you don't get glue on your fingers.
+- Watch `what` you're doing with that knife, Jim, it's sharp.
 
 ## 2267. watch ## verb
 /wɑtʃ/ 
@@ -13794,7 +13794,7 @@
 /wer/ 
 [B2]to make someone extremely tired
 - Standing up all day is wearing me out.
-- They were all worn out by the time the game was over.
+- They were all `worn out` by the time the game was over.
 
 ## 2272. weigh ## verb [T]
 /weɪ/ CONSIDER CAREFULLY
@@ -13817,14 +13817,14 @@
 ## 2275. whistle ## verb [I or T]
 /ˈwɪs.əl/ 
 [B2]to make a sound by breathing air out through a small hole made with your lips, or through a whistle
-- On the days when she wore a skirt the men on the building site would whistle at her.
-- Someone was whistling Beatles tunes outside my window.
+- On the days when she wore a skirt the men on the building site would whistle `at` her.
+- Someone was whistling Beatles `tunes` outside my window.
 
 ## 2276. widen ## verb [I or T]
 /ˈwaɪ.dən/ MAKE WIDER
 [B2]to become wider, or to make something wider
 - They are widening the road.
-- As it approaches the sea, the river begins to widen (out).
+- As it approaches the sea, the river begins to widen `(out)`.
 
 ## 2277. widen ## verb [I or T]
 /ˈwaɪ.dən/ INCREASE
@@ -13867,8 +13867,8 @@
 ## 2284. wish ## verb
 /wɪʃ/ wish to do sth
 [B2]to want to do something
-- I wish to make a complaint.
-- Those wishing to learn more can visit the Resources section of the site.
+- I wish `to` make a complaint.
+- Those wishing `to` learn more can visit the Resources section of the site.
 
 ## 2285. witness ## verb [T]
 /ˈwɪt.nəs/ 
@@ -13898,7 +13898,7 @@
 ## 2290. worry ## verb
 /ˈwɜr.i/ MAKE SOMEONE ANXIOUS
 [B2]to make someone feel anxious because of problems or unpleasant things that might happen
-- It worries me that he hasn't called yet.
+- It worries me `that` he hasn't called yet.
 - The lack of rain is starting to worry people.
 
 ## 2291. would ## modal verb
@@ -13909,13 +13909,13 @@
 ## 2292. wound ## verb [T usually passive]
 /wuːnd/ 
 [B2]to injure someone, especially with a knife or gun
-- The police chief was badly wounded in the explosion.
+- The police chief was `badly` wounded in the explosion.
 
 ## 2293. wrap ## verb [T]
 /ræp/ PROTECT
 [B2]to cover someone with material in order to protect them
-- She wrapped the baby in a blanket.
-- He wrapped a towel around his shoulders.
+- She wrapped the baby `in` a blanket.
+- He wrapped a towel `around` his shoulders.
 
 ## 2294. yawn ## verb [I]
 /jɔːn/ 
@@ -13925,8 +13925,8 @@
 ## 2295. yell ## verb [I or T]
 /jel/ 
 [B2]to shout something very loudly
-- Our neighbors were yelling at each other this morning.
-- The child yelled out in pain.
+- Our neighbors were yelling `at` each other this morning.
+- The child yelled `out` in pain.
 - "Just get out of here!" she yelled.
 
 ## 2296. abandon ## verb [T]
@@ -13937,7 +13937,7 @@
 ## 2297. absorb ## verb [T]
 /əbˈzɔːrb/ REMEMBER
 [C1]to understand and remember facts that you read or hear
-- It's hard to absorb so much information.
+- It's hard to absorb so much `information`.
 
 ## 2298. accelerate ## verb
 /əkˈsel.ə.reɪt/ HAPPEN
@@ -13953,7 +13953,7 @@
 ## 2300. account ## verb
 /əˈkɑʊnt/ FORM PART OF
 [C1]to form part of a total amount or number of something
-- Senior citizens account for more than 25 percent of the state's population.
+- Senior citizens account for more than 25 percent `of` the state's population.
 
 ## 2301. accumulate ## verb [I or T]
 /əˈkjuː.mjə.leɪt/ 
@@ -13968,12 +13968,12 @@
 ## 2303. acknowledge ## verb [T]
 /əkˈnɑl.ɪdʒ/ SAY RECEIVED
 [C1]to say, usually in writing, that you have received something that someone sent you
-- He sent a letter acknowledging receipt of her application.
+- He sent a letter acknowledging `receipt of` her application.
 
 ## 2304. address ## verb [T]
  DEAL WITH
 [C1]to deal with a problem
-- We have to address the issue/problem before it gets worse.
+- We have to address the `issue/problem` before it gets worse.
 
 ## 2305. agree ## verb
 /əˈgriː/ BE THE SAME
@@ -13995,8 +13995,8 @@
 ## 2308. allocate ## verb [T]
 /ˈæl.ə.keɪt/ 
 [C1]to give some time, money, space, etc., to be used for a particular purpose
-- We are discussing how to allocate use of the sports fields to the various teams.
-- State funds will not be allocated for these programs next year.
+- We are discussing how to allocate use of the sports fields `to` the various teams.
+- State funds will not be allocated `for` these programs next year.
 
 ## 2309. allow ## verb
 /əˈlɑʊ/ TIME/MONEY
@@ -14011,19 +14011,19 @@
 ## 2311. alternate ## verb
  
 [C1]If two things alternate, one thing happens, then the other thing happens, then the first thing happens again, etc.
-- She alternates between cheerfulness and boredom.
+- She alternates `between` cheerfulness and boredom.
 
 ## 2312. anticipate ## verb [T]
 /ænˈtɪs.ə.peɪt/ 
 [C1]to expect something, or to prepare for something before it happens
-- to anticipate a problem
-- We anticipate that prices will fall next year.
+- to anticipate a `problem`
+- We anticipate `that` prices will fall next year.
 
 ## 2313. appeal ## verb [I]
 /əˈpiːl/ REQUEST
 [C1]to make a serious or formal request, especially for money or help
-- They're appealing for clothes and blankets to send to the devastated region.
-- The police are appealing to the public for any information about the missing girl.
+- They're appealing `for` clothes and blankets to send to the devastated region.
+- The police are appealing `to` the public for any information about the missing girl.
 
 ## 2314. appear ## verb [I]
 /əˈpɪr/ it would appear (that)
@@ -14038,35 +14038,35 @@
 ## 2316. apply ## verb
 /əˈplɑɪ/ USE
 [C1]to use something in a particular situation
-- The same method can be applied to other situations.
+- The same method can be applied `to` other situations.
 - As a translator, he was able to apply his knowledge of foreign languages.
 
 ## 2317. appoint ## verb [T]
 /əˈpɔɪnt/ 
 [C1]to officially choose someone for a job
-- She was appointed by the governor.
+- She was appointed `by` the governor.
 - He was appointed director last year.
 
 ## 2318. arise ## verb [I]
 /əˈrɑɪz/ 
 [C1]If a problem arises, it starts to happen.
-- The whole problem arose from a lack of communication.
+- The whole problem arose `from` a lack of communication.
 
 ## 2319. assert ## verb
 /əˈsɜrt/ 
 [C1]to say that something is certainly true
-- He asserts that she stole money from him.
+- He asserts `that` she stole money from him.
 
 ## 2320. assign ## verb [T]
 /əˈsɑɪn/ 
 [C1]to give someone a particular job or responsibility
 - UN forces were assigned the task of rebuilding the hospital.
-- The case has been assigned to our most senior officer.
+- The case has been assigned `to` our most senior officer.
 
 ## 2321. associate ## verb
 /əˈsoʊ.ʃiːˌeɪt/ TWO THINGS/PEOPLE
 [C1]to connect someone or something in your mind with someone or something else
-- Most people associate this brand with good quality.
+- Most people associate this brand `with` good quality.
 
 ## 2322. assure ## verb [T]
 /əˈʃʊr/ MAKE CERTAIN
@@ -14102,7 +14102,7 @@
 /ber/ ACCEPT
 [C1]to accept something unpleasant
 - Since you will bear most of the responsibility, you should get the rewards.
-- He couldn't bear to see the dog in pain.
+- He couldn't bear `to` see the dog in pain.
 
 ## 2329. bear ## verb
 /ber/ HAVE
@@ -14132,13 +14132,13 @@
 ## 2334. bet ## verb [I or T]
 /bet/ 
 [C1]to risk money on the result of a game, competition, etc.
-- He lost all his money betting on horses.
+- He lost all his money betting `on` horses.
 - I bet him a dollar that I was right.
 
 ## 2335. beware ## verb [I]
 /bɪˈwer / 
 [C1]used in order to warn someone to be careful
-- Beware of the dog.
+- Beware `of` the dog.
 - In grassy areas, beware of insects like ticks that bite carry disease.
 
 ## 2336. blame ## verb [T]
@@ -14187,7 +14187,7 @@
 /ˈbrɔːd.ən/ 
 [C1]to increase or make something increase and include more things or people
 - Going to college will broaden your interests.
-- Travel broadens your mind.
+- Travel broadens `your mind`.
 
 ## 2345. brush ## verb
 /brʌʃ/ brush sth away/off, etc.
@@ -14240,12 +14240,12 @@
 ## 2354. campaign ## verb [I]
 /kæmˈpeɪn/ 
 [C1]to organize a series of activities to try to achieve something
-- to campaign against/for something
+- to campaign `against/for` something
 
 ## 2355. cap ## verb [T]
 /kæp/ 
 [C1]to put a limit on an amount of money that can be borrowed, charged, etc.
-- The interest rate has been capped at 5%.
+- The interest rate has been capped `at` 5%.
 
 ## 2356. capture ## verb [T]
 /ˈkæp.tʃər/ capture sb's attention/ imagination/ interest
@@ -14270,12 +14270,12 @@
 ## 2360. catch ## verb
 /kætʃ/ BECOME POPULAR
 [C1]to become popular
-- I wonder if the game will catch on with young people?
+- I wonder if the game will catch on `with` young people?
 
 ## 2361. catch ## verb
 /kætʃ/ BE AS GOOD AS
 [C1]to reach the same level or quality as someone or something else
-- She's doing extra work to catch up with the rest of the class.
+- She's doing extra work to catch up `with` the rest of the class.
 
 ## 2362. cater ## verb [I or T]
 /ˈkeɪt̬.ər/ 
@@ -14311,13 +14311,13 @@
 ## 2368. class ## verb
 /klæs/ class sb/sth as sth
 [C1]to put someone or something in a particular group according to their qualities
-- The tower is classed as a historic monument.
+- The tower is classed `as` a historic monument.
 
 ## 2369. classify ## verb [T]
 /ˈklæs.əˌfɑɪ/ 
 [C1]to put people or things into groups by their type, size, etc.
-- A third of the population has been classified as poor.
-- The books are classified by subject.
+- A third of the population has been classified `as` poor.
+- The books are classified `by` subject.
 
 ## 2370. clean ## verb [T]
 /kliːn/ MAKE CLEAN
@@ -14344,7 +14344,7 @@
 ## 2374. collaborate ## verb [I]
 /kəˈlæb.ə.reɪt/ 
 [C1]When two or more people collaborate, they work together to create or achieve the same thing.
-- Didn't you collaborate with him on one of your books?
+- Didn't you collaborate `with` him `on` one of your books?
 
 ## 2375. come ## verb [I]
 /kʌm/ come easily/naturally
@@ -14374,7 +14374,7 @@
 ## 2380. come ## verb [I]
 /kʌm/ SEEM
 [C1]to seem to be a particular type of person or thing
-- He came across as shy.
+- He came across `as` shy.
 - Her confident manner can sometimes come across as arrogance.
 - All these promises just come across as a meaningless political stunt.
 
@@ -14398,7 +14398,7 @@
 /kʌm/ MOVE TOWARD
 [C1]to come to a place, move from one place to another, or move towards someone
 - Come over here and I'll do your hair for you.
-- Are your family coming over from Greece for the wedding?
+- Are your family coming over `from` Greece for the wedding?
 
 ## 2385. come ## verb [I]
 /kʌm/ 
@@ -14439,7 +14439,7 @@
 ## 2392. commute ## verb [I]
 /kəˈmjuːt/ 
 [C1]to regularly travel between work and home
-- He commutes to Boston every day.
+- He commutes `to` Boston every day.
 - My aunt commutes into the city.
 
 ## 2393. compare ## verb
@@ -14455,7 +14455,7 @@
 ## 2395. compensate ## verb
 /ˈkɑm.pən.seɪt/ MONEY
 [C1]to pay someone money because you are responsible for injuring them or damaging something
-- Victims of the crash will be compensated for their injuries.
+- Victims of the crash will be compensated `for` their injuries.
 
 ## 2396. compile ## verb [T]
 /kəmˈpɑɪl/ 
@@ -14470,17 +14470,17 @@
 ## 2398. compliment ## verb [T]
  
 [C1]to praise or express admiration for someone
-- He complimented me on my writing.
+- He complimented me `on` my writing.
 
 ## 2399. comply ## verb [I]
 /kəmˈplɑɪ/ 
 [C1]to obey an order, rule, or request
-- The pilot complied with instructions to descend.
+- The pilot complied `with` instructions to descend.
 
 ## 2400. comprise ## verb [T]
 /kəmˈprɑɪz/ CONSIST
 [C1]to consist of particular parts or members
-- The orchestra was comprised of amateur and professional musicians.
+- The orchestra `was` comprised `of` amateur and professional musicians.
 
 ## 2401. comprise ## verb [T]
 /kəmˈprɑɪz/ FORM
@@ -14505,8 +14505,8 @@
 ## 2405. conclude ## verb
 /kənˈkluːd/ END
 [C1]to end something such as a meeting, speech, or piece of writing by doing or saying one last thing
-- The concert concluded with fireworks.
-- I would like to conclude by thanking you all for attending.
+- The concert concluded `with` fireworks.
+- I would like to conclude `by` thanking you all for attending.
 
 ## 2406. conquer ## verb
 /ˈkɑŋ.kər/ 
@@ -14517,13 +14517,13 @@
 /kənˈsɪd.ər/ FACTS
 [C1]to give attention to a particular subject or fact when making a decision or judging something else
 - You've got to consider the time element when planning the whole project.
-- If you consider how long he's been learning the piano, he's not very good.
+- If you consider `how` long he's been learning the piano, he's not very good.
 - If you buy an old house, you have to consider the cost of repairs.
 
 ## 2408. consider ## verb
 /kənˈsɪd.ər/ MAY BE TRUE
 [C1]to think that something may exist or be true
-- Have you considered the possibility that he might be lying?
+- Have you considered `the possibility` that he might be lying?
 
 ## 2409. consider ## verb
 /kənˈsɪd.ər/ all things considered
@@ -14558,7 +14558,7 @@
 ## 2415. contribute ## verb [I or T]
 /kənˈtrɪb.juːt/ WRITE
 [C1]to write articles for a newspaper, magazine, or book
-- She contributes to several magazines.
+- She contributes `to` several magazines.
 
 ## 2416. convey ## verb [T]
 /kənˈveɪ/ 
@@ -14668,7 +14668,7 @@
 ## 2437. demonstrate ## verb
 /ˈdem.ənˌstreɪt/ SHOW HOW
 [C1]to show something and explain how it works
-- The teacher demonstrated how to use the equipment.
+- The teacher demonstrated `how` to use the equipment.
 - He's got a job demonstrating kitchen equipment in a department store.
 
 ## 2438. deposit ## verb [T]
@@ -14701,13 +14701,13 @@
 /dɪˈtɜr.mɪn/ FIND
 [C1]to discover the facts or truth about something
 - The doctors are still unable to determine what is wrong.
-- You can use a simple test to determine whether the paint contains lead.
+- You can use a simple test to determine `whether` the paint contains lead.
 
 ## 2444. determine ## verb [T]
 /dɪˈtɜr.mɪn/ DECIDE
 [C1]to decide what will happen
 - Her test scores will determine which class she is assigned to.
-- He determined to find out the real reason.
+- He determined `to` find out the real reason.
 
 ## 2445. devote ## verb
 /dɪˈvoʊt/ 
@@ -14722,7 +14722,7 @@
 ## 2447. differentiate ## verb
 /ˌdɪf.ərˈen.ʃi.eɪt/ SEE DIFFERENCE
 [C1]to understand or notice how two things or people are different from each other
-- He can't differentiate between blue and green.
+- He can't differentiate `between` blue and green.
 
 ## 2448. digest ## verb [T]
 /dɑɪˈdʒest/ FOOD
@@ -14752,7 +14752,7 @@
 ## 2453. discriminate ## verb [I]
 /dɪˈskrɪm.ɪ.neɪt/ TREAT UNFAIRLY
 [C1]to treat someone unfairly because of their sex, race, religion, etc.
-- The company was accused of discriminating against people on the basis of age.
+- The company was accused of discriminating `against` people on the basis of age.
 
 ## 2454. dismiss ## verb [T]
 /dɪsˈmɪs/ NOT CONSIDER
@@ -14782,7 +14782,7 @@
 ## 2459. distort ## verb [T]
 /dɪˈstɔːrt/ 
 [C1]to change information so that it is not true or realistic
-- Newspapers distorted the truth about their marriage.
+- Newspapers distorted `the truth` about their marriage.
 
 ## 2460. distribute ## verb [T]
 /dɪˈstrɪb.juːt/ SUPPLY
@@ -14802,12 +14802,12 @@
 ## 2463. divide ## verb
 /dɪˈvɑɪd/ NUMBERS
 [C1]to calculate how many times a number can go into another number
-- 12 divided by 6 equals 2.
+- 12 divided `by` 6 equals 2.
 
 ## 2464. divide ## verb
 /dɪˈvɑɪd/ DISAGREE
 [C1]to cause people to disagree about something
-- The city council was divided over plans to build a new stadium.
+- The city council was divided `over` plans to build a new stadium.
 
 ## 2465. do ## verb
 /duː/ easier said than done
@@ -14844,7 +14844,7 @@
 ## 2471. draft ## verb [T]
 /dræft/ 
 [C1]to produce a piece of writing or a plan that you intend to change later
-- to draft a letter
+- to draft a `letter`
 
 ## 2472. draw ## verb
 /drɔː/ 
@@ -14874,7 +14874,7 @@
 ## 2477. dwell ## verb
 /dwel/ 
 [C1]to keep thinking or talking about something, especially something bad or unpleasant
-- I don't want to dwell on the past.
+- I don't want to dwell on `the past`.
 
 ## 2478. eliminate ## verb [T]
 /ɪˈlɪm.əˌneɪt/ GET RID OF
@@ -14895,7 +14895,7 @@
 ## 2481. emerge ## verb [I]
 /ɪˈmɜrdʒ/ BECOME KNOWN
 [C1]to become known
-- It emerged that she had lied to her employers.
+- It emerged `that` she had lied to her employers.
 
 ## 2482. employ ## verb [T]
 /ɪmˈplɔɪ/ USE
@@ -14980,7 +14980,7 @@
 ## 2498. exclude ## verb [T]
 /ɪkˈskluːd/ KEEP OUT
 [C1]to not allow someone or something to take part in an activity or to enter a place
-- Two students were excluded from the class because they registered late and it was already full.
+- Two students were excluded `from` the class because they registered late and it was already full.
 
 ## 2499. exclude ## verb [T]
 /ɪkˈskluːd/ NOT INCLUDE
@@ -15025,7 +15025,7 @@
 ## 2507. feed ## verb
 /fiːd/ EAT FOOD
 [C1]If an animal or a baby feeds, it eats.
-- The caterpillars feed on cabbage leaves.
+- The caterpillars feed `on` cabbage leaves.
 
 ## 2508. feed ## verb
 /fiːd/ SUPPLY
@@ -15041,8 +15041,8 @@
 ## 2510. fill ## verb
 /fɪl/ JOB
 [C1]to give a job or position to someone
-- I'm sorry, the job/position/post/vacancy has already been filled.
-- We would prefer to fill the position with a recent graduate.
+- I'm sorry, the `job/position/post/vacancy` has already been filled.
+- We would prefer to fill the position `with` a recent graduate.
 
 ## 2511. filter ## verb
 /ˈfɪl.tər/ filter down/in/through, etc.
@@ -15082,7 +15082,7 @@
 ## 2518. foresee ## verb [T]
 /fɔːrˈsiː/ 
 [C1]to expect a future situation or event
-- I don't foresee any problems in the future.
+- I don't foresee any `problems` in the future.
 
 ## 2519. fulfill ## verb
 /fʊlˈfɪl/ fulfill a duty/promise/responsibility, etc.
@@ -15130,7 +15130,7 @@
 ## 2527. generalize ## verb [I]
 /ˈdʒen.rə.lɑɪz/ 
 [C1]to say something very basic that is often true but not always true
-- You can't generalize about a continent as varied as Europe.
+- You can't generalize `about` a continent as varied as Europe.
 
 ## 2528. get ## verb
 /get/ get a grip (on yourself)
@@ -15186,7 +15186,7 @@
 ## 2538. go ## verb
 /goʊ/ go hand in hand
 [C1]If two things go hand in hand, they exist together and are connected with each other.
-- Prosperity goes hand in hand with investment.
+- Prosperity goes hand in hand `with` investment.
 
 ## 2539. go ## verb
 /goʊ/ keep sb going
@@ -15207,7 +15207,7 @@
 ## 2542. grade ## verb
 /greɪd/ LEVEL
 [C1]to separate people or things into different levels of quality, size, importance, etc.
-- The fruit is washed and then graded by size.
+- The fruit is washed and then graded `by` size.
 
 ## 2543. grade ## verb
 /greɪd/ SCORE
@@ -15218,7 +15218,7 @@
 ## 2544. grasp ## verb [T]
 /græsp/ HOLD
 [C1]to take hold of something or someone firmly
-- He grasped my hand enthusiastically.
+- He grasped my `hand` enthusiastically.
 
 ## 2545. grasp ## verb [T]
 /græsp/ UNDERSTAND
@@ -15315,9 +15315,9 @@
 ## 2563. illustrate ## verb [T]
 /ˈɪl.əˌstreɪt/ EXPLAIN
 [C1]to give more information or examples to explain or prove something
-- To illustrate her point, she told a story about how her family felt when they moved here.
-- The speaker illustrated his thesis with three case studies.
-- She used recordings to illustrate how the music has been interpreted by different artists.
+- `To` illustrate her `point`, she told a story about how her family felt when they moved here.
+- The speaker illustrated his thesis `with` three case studies.
+- She used recordings to illustrate `how` the music has been interpreted by different artists.
 
 ## 2564. imitate ## verb [T]
 /ˈɪm.ə.teɪt/ 
@@ -15333,13 +15333,13 @@
 ## 2566. impose ## verb [T]
 /ɪmˈpoʊz/ CREATE RULE
 [C1]to create a rule, tax, law, etc., and force people to accept it
-- The city imposed a ban on outdoor water use during the drought.
+- The city imposed a ban `on` outdoor water use during the drought.
 - Banks are imposing stricter requirements for getting a loan.
 
 ## 2567. impose ## verb [T]
 /ɪmˈpoʊz/ FORCE
 [C1]to force someone to accept something, especially a belief or way of living
-- Settlers often imposed their culture on indigenous peoples.
+- Settlers often imposed their culture `on` indigenous peoples.
 - They have to make their own decisions - you shouldn't try to impose your ideas.
 
 ## 2568. imprison ## verb [T]
@@ -15350,13 +15350,13 @@
 ## 2569. indicate ## verb [T]
 /ˈɪn.dəˌkeɪt/ SHOW
 [C1]to show that something exists or is likely to be true
-- Recent evidence indicates that the skeleton is about 3 million years old.
+- Recent evidence indicates `that` the skeleton is about 3 million years old.
 - These statistics might indicate quality problems.
 
 ## 2570. infect ## verb [T]
 /ɪnˈfekt/ DISEASE
 [C1]to give someone a disease
-- Thousands of people were infected with the virus.
+- Thousands of people were infected `with` the virus.
 
 ## 2571. infect ## verb [T]
 /ɪnˈfekt/ COMPUTER
@@ -15383,7 +15383,7 @@
 /ɪnˈspekt/ 
 [C1]to look at something or someone carefully in order to discover information, especially about their quality or condition
 - After the crash, both drivers got out and inspected their cars for damage.
-- She held the bank note up to the light and inspected it carefully.
+- She held the bank note up to the light and inspected it `carefully`.
 
 ## 2576. instruct ## verb [T]
 /ɪnˈstrʌkt/ ORDER
@@ -15393,7 +15393,7 @@
 ## 2577. integrate ## verb [I or T]
 /ˈɪnt.ə.greɪt/ 
 [C1]to become part of a group or society, or to help someone do this
-- After a few weeks of training he was fully integrated into the team.
+- After a few weeks of training he was fully integrated `into` the team.
 
 ## 2578. intend ## verb [T]
 /ɪnˈtend/ be intended for
@@ -15404,13 +15404,13 @@
 ## 2579. interfere ## verb [I]
 /ˌɪn.t̬ərˈfɪr/ CAUSE PROBLEMS
 [C1]to prevent something from working effectively or from developing successfully
-- I try not to let my dancing classes interfere with my schoolwork.
+- I try not to let my dancing classes interfere `with` my schoolwork.
 
 ## 2580. interpret ## verb
 /ɪnˈtɜr.prət/ DECIDE MEANING
 [C1]to decide what the intended meaning of something is
 - It's difficult to interpret these statistics without knowing how they were obtained.
-- A jury should not interpret the silence of a defendant as a sign of guilt.
+- A jury should not interpret the silence of a defendant `as` a sign of guilt.
 
 ## 2581. invade ## verb
 /ɪnˈveɪd/ PLACE
@@ -15533,7 +15533,7 @@
 [C1]to put something down somewhere carefully
 - She laid the baby in the crib.
 - He laid the tray down on the table.
-- She laid her book on the table and went to answer the phone.
+- She laid her book `on the table` and went to answer the phone.
 
 ## 2604. lay ## verb [T]
 /leɪ/ EXPLAIN
@@ -15616,8 +15616,8 @@
 ## 2619. make ## verb [T]
 /meɪk/ make time
 [C1]to leave enough time to do something although you are busy
-- You have to make time to do your homework.
-- He never made enough time for family life.
+- You have to make time `to` do your homework.
+- He never made enough time `for` family life.
 
 ## 2620. make ## verb [T]
 /meɪk/ SUITABLE
@@ -15698,7 +15698,7 @@
 ## 2634. meet ## verb
 /miːt/ BE ENOUGH
 [C1]to be a big enough amount or of a good enough quality for something
-- We couldn't find a house that met our needs.
+- We couldn't find a house that met our `needs`.
 - This old building will never meet the new fire regulations.
 
 ## 2635. meet ## verb
@@ -15715,7 +15715,7 @@
 ## 2637. mingle ## verb
 /ˈmɪŋ.gəl/ TALK
 [C1]to meet and talk to other people in a place or at an event
-- The party will be a good opportunity to mingle with the other students.
+- The party will be a good opportunity to mingle `with` the other students.
 
 ## 2638. minimize ## verb [T]
 /ˈmɪn.ə.mɑɪz/ 
@@ -15767,7 +15767,7 @@
 ## 2647. move ## verb
 /muːv/ NEW SUBJECT
 [C1]to change from one subject to another when you are talking or writing
-- Let's move on to the next topic.
+- Let's move on `to` the next topic.
 
 ## 2648. move ## verb
 /muːv/ NEW ACTIVITY
@@ -15783,7 +15783,7 @@
 ## 2650. neglect ## verb [T]
 /nɪˈglekt/ NOT GIVE ATTENTION
 [C1]to not give enough care or attention to something or someone
-- to neglect your appearance
+- to neglect your `appearance`
 - She had neglected the program and allowed student interest in it to fall off.
 
 ## 2651. negotiate ## verb
@@ -15795,8 +15795,8 @@
 /ˈnɑm.ə.neɪt/ 
 [C1]to officially suggest a person for a job or a position in an organization, or to suggest a person or their work for a prize
 - Judges are nominated by the governor.
-- The film was nominated for an Academy Award.
-- He was nominated as best actor.
+- The film was nominated `for` an Academy Award.
+- He was nominated `as` best actor.
 
 ## 2653. notify ## verb [T]
 /ˈnoʊt̬.ə.fɑɪ/ 
@@ -15812,14 +15812,14 @@
 ## 2655. oblige ## verb
 /əˈblɑɪdʒ/ 
 [C1]to be helpful
-- The manager was only too happy to oblige.
+- The manager was only too `happy` to oblige.
 
 ## 2656. observe ## verb [T]
 /əbˈzɜrv/ NOTICE
 [C1]to notice something
 - Jack observed a look of anxiety on his brother's face.
-- The guards failed to observe who delivered the package.
-- In all these films one observes that directors are taking a new interest in Native American culture.
+- The guards failed to observe `who` delivered the package.
+- In all these films one observes `that` directors are taking a new interest in Native American culture.
 - Differences in speech styles may be observed between other social groups.
 
 ## 2657. occupy ## verb [T]
@@ -15836,14 +15836,14 @@
 ## 2659. omit ## verb [T]
 /oʊˈmɪt/ 
 [C1]to not include something
-- I’d be upset if my name were omitted from the list of contributors.
+- I’d be upset if my name were omitted `from` the list of contributors.
 
 ## 2660. opt ## verb [I]
 /ɑpt/ 
 [C1]to choose something or to decide to do something
-- Mike opted for early retirement.
-- Most people opt to have the operation.
-- He opted out of the health insurance plan.
+- Mike opted `for` early retirement.
+- Most people opt `to` have the operation.
+- He opted `out of` the health insurance plan.
 
 ## 2661. outnumber ## verb [T]
 /ˌɑʊtˈnʌm.bər/ 
@@ -15858,12 +15858,12 @@
 ## 2663. outweigh ## verb [T]
 /ˌɑʊtˈweɪ/ 
 [C1]to be greater or more important than something else
-- The benefits of this treatment far outweigh the risks.
+- The benefits of this treatment `far` outweigh the risks.
 
 ## 2664. overdo ## verb [T]
 /ˌoʊ.vərˈduː/ 
 [C1]to do or use too much of something
-- I went to the gym yesterday, but I think I overdid it a bit.
+- I went to the gym yesterday, but I think I overdid `it` a bit.
 
 ## 2665. overestimate ## verb [I or T]
 /ˌoʊ.vərˈes.tə.meɪt/ 
@@ -15879,7 +15879,7 @@
 /ˌoʊ.vərˈteɪk/ BIGGER
 [C1]to go past something by being a greater amount or degree
 - US sales have been overtaken by sales in Europe.
-- We planned to hold a meeting tomorrow, but events have overtaken us.
+- We planned to hold a meeting tomorrow, but `events` have overtaken us.
 
 ## 2668. overwhelm ## verb [T]
 /ˌoʊ.vərˈwelm/ 
@@ -15889,13 +15889,13 @@
 ## 2669. perceive ## verb [T]
 /pərˈsiːv/ THINK
 [C1]to think of something or someone in a particular way
-- The British are often perceived as being very formal.
+- The British are often perceived `as` being very formal.
 
 ## 2670. permit ## verb
  MAKE POSSIBLE
 [C1]to make something possible
-- The game starts at 3 pm, weather permitting.
-- We could stop in to see Ryan on the way home, if time permits.
+- The game starts at 3 pm, `weather` permitting.
+- We could stop in to see Ryan on the way home, if `time` permits.
 
 ## 2671. picture ## verb [T]
 /ˈpɪk.tʃər/ 
@@ -15920,7 +15920,7 @@
 ## 2675. populate ## verb
 /ˈpɑp.jə.leɪt/ be populated
 [C1]If an area is populated by people or animals, they live in that area.
-- The countryside is densely/sparsely populated.
+- The countryside is `densely/sparsely` populated.
 - The forest was populated by rare and colorful birds.
 
 ## 2676. pose ## verb
@@ -15931,7 +15931,7 @@
 ## 2677. pose ## verb
 /poʊz/ BE STILL
 [C1]to stay in a particular position so that someone can paint or photograph you
-- The two leaders posed for photographs outside the White House.
+- The two leaders posed `for` photographs outside the White House.
 
 ## 2678. possess ## verb
 /pəˈzes/ 
@@ -15954,8 +15954,8 @@
 [C1]to believe something to be true because it is very likely, although you are not certain
 - I presume they're not coming, since they haven't replied to the invitation.
 - You are Dr. Smith, I presume?
-- "Are we walking to the hotel?" "I presume not/so."
-- The universe is presumed to contain many other planets with some form of life.
+- "Are we walking to the hotel?" "I presume `not/so`."
+- The universe is presumed `to` contain many other planets with some form of life.
 
 ## 2682. privatize ## verb [T]
 /ˈprɑɪ.vəˌtɑɪz/ 
@@ -15965,7 +15965,7 @@
 ## 2683. proceed ## verb [I]
 /proʊˈsiːd/ CONTINUE
 [C1]to continue to happen
-- His lawyers have decided not to proceed with the case.
+- His lawyers have decided not to proceed `with` the case.
 
 ## 2684. produce ## verb [T]
 /prəˈduːs/ SHOW
@@ -15980,9 +15980,9 @@
 ## 2686. promote ## verb [T]
 /prəˈmoʊt/ ENCOURAGE
 [C1]to encourage something to happen or develop
-- to promote peace
+- to promote `peace`
 - It has long been known that regular exercise promotes all-around good health.
-- Greenpeace works to promote awareness of the dangers that threaten our planet today.
+- Greenpeace works to promote `awareness` of the dangers that threaten our planet today.
 
 ## 2687. pursue ## verb [T]
 /pərˈsuː/ 
@@ -16003,8 +16003,8 @@
 ## 2690. put ## verb [T]
 /pʊt/ put something into practice
 [C1]to do something in reality that has been planned or talked about
-- Next month we will have a chance to put these ideas into practice.
-- How do you intend to put these proposals into practice?
+- Next month we will have a chance to put these `ideas` into practice.
+- How do you intend to put these `proposals` into practice?
 
 ## 2691. put ## verb [T]
 /pʊt/ put your mind to it
@@ -16014,7 +16014,7 @@
 ## 2692. put ## verb [T]
 /pʊt/ put a stop to sth
 [C1]to end something unpleasant
-- We must put a stop to the violence.
+- We must `put a` stop `to` the violence.
 
 ## 2693. put ## verb [T]
 /pʊt/ 
@@ -16029,7 +16029,7 @@
 ## 2695. put ## verb [T]
 /pʊt/ PREPARE
 [C1]to prepare a piece of work by collecting several ideas and suggestions and organizing them
-- to put together a plan/proposal
+- to put together a `plan/proposal`
 
 ## 2696. puzzle ## verb
 /ˈpʌz.əl/ 
@@ -16039,9 +16039,9 @@
 ## 2697. quote ## verb [I or T]
 /kwoʊt/ REPEAT
 [C1]to repeat the words that someone else has said or written
-- He illustrated by quoting from Winston Churchill's speech.
-- Can I quote you on that?
-- She quoted him as saying he couldn’t care less.
+- He illustrated by quoting `from` Winston Churchill's speech.
+- Can I quote you `on that`?
+- She quoted him `as saying` he couldn’t care less.
 
 ## 2698. quote ## verb [I or T]
 /kwoʊt/ GIVE EXAMPLE
@@ -16062,7 +16062,7 @@
 ## 2701. rate ## verb [T]
 /reɪt/ 
 [C1]to judge the quality or ability of someone or something
-- How do you rate her as a singer?
+- How do you rate her `as` a singer?
 
 ## 2702. readjust ## verb
 /ˌriː.əˈdʒʌst/ SMALL CHANGE
@@ -16082,7 +16082,7 @@
 ## 2705. receive ## verb [T]
 /rɪˈsiːv/ REACT
 [C1]to react to a suggestion or piece of work in a particular way
-- His first book was not well received.
+- His first book was not `well` received.
 
 ## 2706. recharge ## verb [T]
 /riːˈtʃɑrdʒ/ 
@@ -16112,7 +16112,7 @@
 ## 2711. rectify ## verb [T]
 /ˈrek.tə.fɑɪ/ 
 [C1]to correct something or change it so that it is acceptable
-- The government has promised to rectify the situation.
+- The government has promised to rectify the `situation`.
 
 ## 2712. redevelop ## verb [T]
 /ˌriː.dəˈvel.əp/ 
@@ -16168,12 +16168,12 @@
 ## 2722. relocate ## verb [I or T]
 /riːˈloʊˌkeɪt/ 
 [C1]to move to another place
-- The company relocated to Tokyo.
+- The company relocated `to` Tokyo.
 
 ## 2723. render ## verb [T]
 /ˈren.dər/ GIVE
 [C1]to give someone a decision, opinion, help, etc
-- payment for services rendered
+- payment for `services` rendered
 
 ## 2724. renovate ## verb [T]
 /ˈren.ə.veɪt/ 
@@ -16225,20 +16225,20 @@
 ## 2733. restore ## verb [T]
 /rɪˈstɔːr/ MAKE EXIST
 [C1]to make something good exist again
-- Three wins in a row helped restore the team's confidence.
-- Peace has now been restored in the region.
+- Three wins in a row helped restore the team's `confidence`.
+- `Peace` has now been restored in the region.
 
 ## 2734. restrain ## verb [T]
 /rɪˈstreɪn/ 
 [C1]to control the actions or behavior of someone, sometimes by using force
-- He became violent and had to be physically restrained.
+- He became violent and had to be `physically` restrained.
 - I had to restrain myself from shouting at him.
 
 ## 2735. restrict ## verb [T]
 /rɪˈstrɪkt/ 
 [C1]to limit something
 - The state legislature voted to restrict development in the area.
-- I restrict myself to one cup of coffee a day.
+- I restrict myself `to` one cup of coffee a day.
 
 ## 2736. resume ## verb [I or T]
 /rɪˈzuːm/ 
@@ -16250,13 +16250,13 @@
 ## 2737. rethink ## verb [I or T]
 /riːˈθɪŋk/ 
 [C1]to change what you think about something or what you plan to do
-- We've had to rethink our strategy.
+- We've had to rethink our `strategy`.
 
 ## 2738. return ## verb
 /rɪˈtɜrn/ DO THE SAME
 [C1]to react to something that someone does or says by doing or saying the same
 - I returned his smile.
-- I have to return Michael's call.
+- I have to return Michael's `call`.
 
 ## 2739. return ## verb
 /rɪˈtɜrn/ return to normal
@@ -16267,7 +16267,7 @@
 /rɪˈvɜrs/ 
 [C1]to change a situation or change the order of things so that it becomes the opposite
 - Now that you have a job and I don't, our situations are reversed.
-- It is unlikely that the judge will reverse his decision.
+- It is unlikely that the judge will reverse his `decision`.
 - Let's reverse the order.
 
 ## 2741. review ## verb
@@ -16294,7 +16294,7 @@
 ## 2745. run ## verb
 /rʌn/ PUBLISH
 [C1]to publish something in a newspaper or magazine
-- All the papers are running this story on the front page.
+- All the papers are running this `story` on the front page.
 
 ## 2746. run ## verb
 /rʌn/ 
@@ -16320,7 +16320,7 @@
 ## 2750. sacrifice ## verb
 /ˈsæk.rəˌfɑɪs/ 
 [C1]to give up something that is valuable to you in order to achieve something or help someone
-- Many women sacrifice interesting careers for their family.
+- Many women sacrifice interesting careers `for` their family.
 
 ## 2751. satisfy ## verb [T]
 /ˈsæt̬.əsˌfɑɪ/ satisfy conditions/needs/requirements, etc.
@@ -16396,7 +16396,7 @@
 ## 2765. search ## verb
 /sɜrtʃ/ FIND ANSWER
 [C1]to try to find an answer to a problem
-- Doctors are still searching for a cure.
+- Doctors are still searching `for` a cure.
 
 ## 2766. see ## verb
 /siː/ I'll/we'll see
@@ -16422,22 +16422,22 @@
 ## 2770. serve ## verb
 /sɜrv/ BE USEFUL
 [C1]to be useful as something
-- It's a very entertaining movie but it also serves an educational purpose.
-- The study also serves as a spare bedroom.
-- Those discussions only served to reinforce her fears.
+- It's a very entertaining movie but it also serves an educational `purpose`.
+- The study also serves `as` a spare bedroom.
+- Those discussions only served `to` reinforce her fears.
 - He hopes his son's death will serve to warn others about the dangers of owning a gun.
 
 ## 2771. serve ## verb
 /sɜrv/ WORK
 [C1]to do work that helps society, for example in an organization such as the army or the government
-- to serve in the army
-- to serve on a committee/jury
-- He served as mayor for 5 years.
+- to serve `in` the army
+- to serve `on` a committee/jury
+- He served `as` mayor for 5 years.
 
 ## 2772. set ## verb
 /set/ LEVEL
 [C1]to decide the level of something
-- The interest rate has been set at 5%.
+- The interest rate has been set `at` 5%.
 
 ## 2773. set ## verb
 /set/ set foot in/on sth
@@ -16453,7 +16453,7 @@
 ## 2775. settle ## verb
 /ˈset̬.əl/ DUST/SAND, ETC.
 [C1]to move to a lower level and stay there
-- The house had been empty for years, and dust had settled on all the surfaces.
+- The house had been empty for years, and dust had settled `on` all the surfaces.
 - Sand blown by the high winds had settled on the streets and lawns of the seaside town.
 - The contents of this package may settle.
 
@@ -16480,24 +16480,24 @@
 ## 2780. shed ## verb
 /ʃed/ shed tears
 [C1]to cry
-- I shed a few tears when he left.
+- I shed `a few` tears when he left.
 
 ## 2781. shield ## verb [T]
 /ʃiːld/ 
 [C1]to protect someone or something from something dangerous or unpleasant
-- to shield your eyes from the sun
+- to shield your `eyes` from the sun
 
 ## 2782. shift ## verb
 /ʃɪft/ CHANGE
 [C1]to change an idea, attitude, etc.
-- We are trying to shift the emphasis from curing illness to preventing it.
-- Media attention has shifted recently onto environmental issues.
+- We are trying to shift the emphasis `from` curing illness `to` preventing it.
+- Media attention has shifted recently `onto` environmental issues.
 
 ## 2783. shift ## verb
 /ʃɪft/ MOVE
 [C1]to move to another place or position
-- The wind shifted to the east.
-- She shifted her weight from one foot to the other.
+- The wind shifted `to` the east.
+- She shifted her weight `from` one foot to the other.
 
 ## 2784. shine ## verb
 /ʃɑɪn/ REFLECT
@@ -16508,7 +16508,7 @@
 /ʃuːt/ MOVIE
 [C1]to use a camera to record a movie or video or to take a photograph
 - We shot four reels of film in Egypt.
-- The movie was shot on location in Southern India.
+- The movie was shot `on location` in Southern India.
 
 ## 2786. shorten ## verb [I or T]
 /ˈʃɔːrt.ən/ 
@@ -16540,18 +16540,18 @@
 ## 2791. smuggle ## verb [T]
 /ˈsmʌg.əl/ 
 [C1]to take something into or out of a place in an illegal or secret way
-- He was arrested for smuggling cocaine into Britain.
+- He was arrested for smuggling cocaine `into` Britain.
 
 ## 2792. soak ## verb [I or T]
 /soʊk/ MAKE WET
 [C1]If liquid soaks somewhere or soaks something, it makes something very wet.
 - The rain soaked my clothes.
-- The ink soaked through the paper onto the table.
+- The ink soaked `through` the paper onto the table.
 
 ## 2793. sow ## verb [T]
 /soʊ/ 
 [C1]to put seeds into the ground
-- to sow seeds/crops
+- to sow `seeds/crops`
 
 ## 2794. spare ## verb
 /sper/ GIVE
@@ -16577,7 +16577,7 @@
 ## 2798. split ## verb
 /splɪt/ SHARE
 [C1]to share something by dividing it into smaller parts
-- The cost of the wedding will be split between the two families.
+- The cost of the wedding will be split `between` the two families.
 
 ## 2799. spoil ## verb [T]
 /spɔɪl/ CHILD
@@ -16626,12 +16626,12 @@
 ## 2807. start ## verb [I or T]
 /stɑrt/ 
 [C1]to begin your life, or the part of your life when you work, in a particular way
-- My dad started out as a sales assistant in a department store.
+- My dad started out `as` a sales assistant in a department store.
 
 ## 2808. starve ## verb [I or T]
 /stɑrv/ 
 [C1]to become ill or die because you do not have enough food, or to make someone ill or die because they do not have enough food
-- Many people have starved to death in parts of Africa.
+- Many people have starved `to death` in parts of Africa.
 
 ## 2809. stay ## verb [I]
 /steɪ/ 
@@ -16643,7 +16643,7 @@
 /steɪ/ 
 [C1]to not become involved in an argument or discussion
 - It's better to stay out of their arguments.
-- You don't know anything about this, so just stay out of it!
+- You don't know anything about this, so just stay out of `it`!
 
 ## 2811. stem ## verb [T]
 /stem/ 
@@ -16679,7 +16679,7 @@
 ## 2817. strike ## verb
 /strɑɪk/ strike a balance
 [C1]to give two things the same amount of attention
-- It's important to strike a balance between spending and saving.
+- It's important to strike a balance `between` spending and saving.
 
 ## 2818. stroll ## verb
 /stroʊl/ stroll along/down/through, etc.
@@ -16689,7 +16689,7 @@
 ## 2819. sue ## verb [I or T]
 /suː/ 
 [C1]to take legal action against someone and try to get money from them because they have harmed you
-- He's threatening to sue the newspaper for slander.
+- He's threatening to sue the newspaper `for` slander.
 
 ## 2820. suit ## verb [T]
 /suːt/ be suited to/for sth
@@ -16704,13 +16704,13 @@
 ## 2822. support ## verb [T]
 /səˈpɔːrt/ PROVE
 [C1]to help to show that something is true
-- There's no evidence to support his story.
+- There's no evidence to support his `story`.
 
 ## 2823. suppose ## verb
 /səˈpoʊz/ LIKELY
 [C1]to think that something is likely to be true
 - He found it a lot more difficult to get a job than he supposed it would be.
-- It is widely supposed (that) the chairman will be forced to resign.
+- `It` is widely supposed `(that)` the chairman will be forced to resign.
 
 ## 2824. suppose ## verb
 /səˈpoʊz/ suppose/supposing (that)
@@ -16720,7 +16720,7 @@
 ## 2825. surge ## verb
 /sɜrdʒ/ 
 [C1]to increase very quickly
-- Prices surged on the stock exchange.
+- `Prices` surged on the stock exchange.
 
 ## 2826. survey ## verb
 /ˈsɜr.veɪ/ QUESTION
@@ -16730,19 +16730,19 @@
 ## 2827. survey ## verb
 /ˈsɜr.veɪ/ EXAMINE
 [C1]to look at or examine something carefully
-- I got out of the car to survey the damage.
+- I got out of the car to survey the `damage`.
 
 ## 2828. suspend ## verb [T]
 /səˈspend/ STOP
 [C1]to stop something happening or existing for a short time
 - The ferry service has been suspended for the day because of bad weather.
 - Relief agencies suspended aid yesterday.
-- I'm suspending judgment on the book I'm reading until I've finished it.
+- I'm suspending `judgment` on the book I'm reading until I've finished it.
 
 ## 2829. swap ## verb [I or T]
 /swɑp/ 
 [C1]to give something to someone and get something from them in return
-- Would you mind if Dave swapped places with you for a bit?
+- Would you mind if Dave swapped `places with` you for a bit?
 
 ## 2830. take ## verb [T]
 /teɪk/ take effect
@@ -16823,7 +16823,7 @@
 /tel/ tell the difference
 [C1]to notice a difference between two things
 - I can't tell the difference between their accents.
-- This coffee is about half the price of that one and yet you really can't tell the difference.
+- This coffee is about half the price of that one and yet you really can't tell `the difference`.
 
 ## 2846. think ## verb
 /θɪŋk/ think of sb/sth as sth
@@ -16854,7 +16854,7 @@
 /θrɑɪv/ 
 [C1]to grow very well, or to become very healthy or successful
 - The business is thriving.
-- He seems to thrive on hard work.
+- He seems to thrive `on` hard work.
 
 ## 2852. throw ## verb [I or T]
 /θroʊ/ throw sth in/on, etc.
@@ -16875,14 +16875,14 @@
 /treɪs/ FIND
 [C1]to find someone or something that was lost
 - The police are trying to trace the mother of a newborn baby found abandoned outside a hospital.
-- Attempts to trace the whereabouts of a man seen leaving the scene of the crime have so far been unsuccessful.
-- Their missing daughter was finally traced to Manchester.
+- Attempts to trace `the whereabouts of` a man seen leaving the scene of the crime have so far been unsuccessful.
+- Their missing daughter was finally traced `to` Manchester.
 
 ## 2856. trace ## verb [T]
 /treɪs/ ORIGIN
 [C1]to discover the cause or origin of something
-- The outbreak of food poisoning was traced to some contaminated shellfish.
-- They trace their family back to the early settlers.
+- The outbreak of food poisoning was traced `to` some contaminated shellfish.
+- They trace their family `back to` the early settlers.
 - This new exhibit allows us to trace the artist's development over 40 years.
 
 ## 2857. transmit ## verb
@@ -17007,7 +17007,7 @@
 ## 2880. withdraw ## verb
 /wɪðˈdrɔː/ REMOVE
 [C1]to remove something, especially because of an official decision
-- This product has been withdrawn from the store's shelves and will no longer be sold.
+- This product has been withdrawn `from` the store's shelves and will no longer be sold.
 - He has threatened to withdraw his support.
 
 ## 2881. work ## verb
@@ -17038,7 +17038,7 @@
 ## 2886. yield ## verb
 /jiːld/ TRAFFIC
 [C1]to stop in order to allow people or other vehicles to go past before you drive on or drive into another street
-- Cars must yield to pedestrians in the crosswalk.
+- Cars must yield `to` pedestrians in the crosswalk.
 
 ## 2887. accelerate ## verb
 /əkˈsel.ə.reɪt/ VEHICLE
@@ -17096,7 +17096,7 @@
 /əˈledʒ/ 
 [C2]to say that something is true or state something as a fact without giving proof
 - Administration of the program is alleged to have cost $15,000 last month.
-- The school district alleges that the state has not continued to adequately finance schools.
+- The school district alleges `that` the state has not continued to adequately finance schools.
 
 ## 2898. allow ## verb
 /əˈlɑʊ/ NOT PREVENT
@@ -17141,7 +17141,7 @@
 ## 2906. arouse ## verb [T]
 /əˈrɑʊz/ 
 [C2]to make someone have a particular feeling or reaction
-- It's a subject which has aroused a lot of interest.
+- It's a subject which has aroused a lot of `interest`.
 
 ## 2907. arrive ## verb [I]
 /əˈrɑɪv/ arrive at an solution/conclusion/answer, etc.
@@ -17211,7 +17211,7 @@
 ## 2920. attach ## verb [T]
 /əˈtætʃ/ INCLUDE
 [C2]to include something as part of something else
-- There were too many conditions attached to the deal.
+- There were too many conditions attached `to` the deal.
 
 ## 2921. attack ## verb
 /əˈtæk/ DISEASE
@@ -17248,7 +17248,7 @@
 /ˈbæt̬.əl/ 
 [C2]to try very hard to do something difficult or to fight against someone or something
 - Throughout the campaign, Johnson was battling health problems.
-- Congress is battling with the White House over funding.
+- Congress is battling `with` the White House over funding.
 
 ## 2928. bear ## verb
 /ber/ bear a/no/some, etc., resemblance to sb/sth
@@ -17290,13 +17290,13 @@
 ## 2935. become ## verb
 /bɪˈkʌm/ become of sb/sth
 [C2]to happen to someone or something
-- What became of your friend Harry?
-- I don't know what will become of the farm after we sell it.
+- `What` became of your friend Harry?
+- I don't know `what` will become of the farm after we sell it.
 
 ## 2936. bid ## verb
 /bɪd/ 
 [C2]to offer to pay an amount of money for something
-- They bid $500 million for the company.
+- They bid $500 million `for` the company.
 
 ## 2937. bind ## verb [T]
 /bɑɪnd/ TIE
@@ -17306,18 +17306,18 @@
 ## 2938. bind ## verb [T]
 /bɑɪnd/ UNITE
 [C2]to unite people
-- Culture and language bind people together.
+- Culture and language bind people `together`.
 
 ## 2939. blackmail ## verb [T]
 /ˈblæk.meɪl/ 
 [C2]to force someone to do something by using blackmail
-- They used the photographs to blackmail her into spying for them.
+- They used the photographs to blackmail her `into` spying for them.
 
 ## 2940. blame ## verb [T]
 /bleɪm/ I don't blame him/them/you, etc.
 [C2]used to say that you understand and accept the reason for what someone is doing
 - I think I'll go home early. "I don't blame you - you look really tired."
-- I don't blame her for not supporting the final budget agreement.
+- I don't blame her `for` not supporting the final budget agreement.
 
 ## 2941. block ## verb [T]
 /blɑk/ STOP PROGRESS
@@ -17353,7 +17353,7 @@
 ## 2947. bond ## verb
 /bɑnd/ 
 [C2]to develop a strong relationship with someone
-- Physical contact helps a mother bond with her baby.
+- Physical contact helps a mother bond `with` her baby.
 
 ## 2948. born ## verb
 /bɔːrn/ be born
@@ -17456,7 +17456,7 @@
 ## 2967. buzz ## verb [I]
 /bʌz/ ENERGY
 [C2]to be full of activity and excitement
-- The crowd was buzzing with excitement.
+- The crowd was buzzing `with` excitement.
 
 ## 2968. calculate ## verb [T]
 /ˈkæl.kjəˌleɪt/ be calculated to do sth
@@ -17498,7 +17498,7 @@
 ## 2975. carry ## verb [T]
 /ˈkær.i/ SUPPORT
 [C2]to support the weight of something
-- Is the ice thick enough to carry my weight?
+- Is the ice thick enough to carry my `weight`?
 
 ## 2976. carry ## verb [T]
 /ˈkær.i/ carry weight
@@ -17508,8 +17508,8 @@
 ## 2977. carve ## verb [I or T]
 /kɑrv/ 
 [C2]to make an object, a shape, or a pattern by cutting wood, stone, etc.
-- The statue was carved out of stone.
-- They had carved their initials into the tree.
+- The statue was carved `out of` stone.
+- They had carved their initials `into` the tree.
 
 ## 2978. cast ## verb [T often passive]
 /kæst/ cast a/your vote
@@ -17575,7 +17575,7 @@
 ## 2990. catch ## verb
 /kætʃ/ UNDERSTAND
 [C2]to understand something, especially after a long time
-- It took him a while to catch on to what we meant.
+- It took him a while to catch on `to` what we meant.
 
 ## 2991. catch ## verb
 /kætʃ/ 
@@ -17590,12 +17590,12 @@
 ## 2993. caution ## verb
 /ˈkɔː.ʃən/ 
 [C2]to warn someone of something
-- They were cautioned against traveling alone through the desert.
+- They were cautioned `against` traveling alone through the desert.
 
 ## 2994. channel ## verb
 /ˈtʃæn.əl/ 
 [C2]to use money or energy for a particular purpose
-- We've channelled all our resources into this project.
+- We've channelled all our resources `into` this project.
 
 ## 2995. charm ## verb
 /tʃɑrm/ 
@@ -17605,7 +17605,7 @@
 ## 2996. chase ## verb
 /tʃeɪs/ TRY
 [C2]to try very hard to get something
-- There are hundreds of graduates chasing very few jobs.
+- There are hundreds of graduates chasing very few `jobs`.
 
 ## 2997. cheer ## verb [I]
 /tʃɪr/ 
@@ -17635,18 +17635,18 @@
 ## 3002. clash ## verb
 /klæʃ/ FIGHT
 [C2]to fight or argue
-- Government troops clashed with rebel soldiers.
-- Many young people clash with their parents over what time they must be home at night.
+- Government troops clashed `with` rebel soldiers.
+- Many young people clash with their parents `over` what time they must be home at night.
 
 ## 3003. clash ## verb
 /klæʃ/ COLOR
 [C2]If colors or styles clash, they do not look good together.
-- You can't wear pink lipstick - it clashes with your dress.
+- You can't wear pink lipstick - it clashes `with` your dress.
 
 ## 3004. clash ## verb
 /klæʃ/ EVENT
 [C2]If two events clash, they happen at the same time so that you cannot go to them both.
-- Emma's party clashes with my brother's wedding.
+- Emma's party clashes `with` my brother's wedding.
 
 ## 3005. clean ## verb [T]
 /kliːn/ 
@@ -17677,7 +17677,7 @@
 ## 3010. cling ## verb [I]
 /klɪŋ/ HOLD TIGHT
 [C2]to hold someone or something tightly, especially because you are frightened
-- She was found clinging to the ledge.
+- She was found clinging `to` the ledge.
 - I clung on to his hand in the dark.
 
 ## 3011. cling ## verb [I]
@@ -17693,12 +17693,12 @@
 ## 3013. close ## verb
  
 [C2]to gradually get nearer to someone, usually in order to attack them or stop them from escaping
-- Police closed in on the demonstrators.
+- Police closed in `on` the demonstrators.
 
 ## 3014. cloud ## verb
 /klɑʊd/ 
 [C2]to make someone confused, or make something harder to understand
-- to cloud someone's judgment/vision
+- to cloud someone's `judgment/vision`
 
 ## 3015. clutch ## verb [T]
 /klʌtʃ/ 
@@ -17713,7 +17713,7 @@
 ## 3017. coincide ## verb [I]
 /ˌkoʊ.ənˈsɑɪd/ HAPPEN TOGETHER
 [C2]to happen at the same time as something else
-- The band's American tour coincided with the release of their second album.
+- The band's American tour coincided `with` the release of their second album.
 
 ## 3018. coincide ## verb [I]
 /ˌkoʊ.ənˈsɑɪd/ BE THE SAME
@@ -17754,9 +17754,9 @@
 ## 3025. come ## verb [I]
 /kʌm/ come apart/off, etc.
 [C2]to become separated or removed from something
-- The book came apart in my hands.
-- The handle came off.
-- My shoelaces have come undone.
+- The book came `apart` in my hands.
+- The handle came `off`.
+- My shoelaces have come `undone`.
 
 ## 3026. come ## verb [I]
 /kʌm/ come into being
@@ -17841,7 +17841,7 @@
 ## 3042. come ## verb [I]
 /kʌm/ 
 [C2]to get something, especially something that is unusual or difficult to find
-- Cheap organic food is still difficult to come by.
+- Cheap organic food is still `difficult to` come by.
 
 ## 3043. come ## verb [I]
 /kʌm/ 
@@ -17871,7 +17871,7 @@
 ## 3048. come ## verb [I]
 /kʌm/ TELL
 [C2]to tell people that you are homosexual
-- He hasn't come out to his family.
+- He hasn't come out `to` his family.
 
 ## 3049. come ## verb [I]
 /kʌm/ BE SAID
@@ -17891,7 +17891,7 @@
 ## 3052. come ## verb [I]
 /kʌm/ SEEM
 [C2]to seem to be a particular type of person
-- Henry came over as a real enthusiast.
+- Henry came over `as` a real enthusiast.
 
 ## 3053. come ## verb [I]
 /kʌm/ 
@@ -17922,12 +17922,12 @@
 ## 3058. commit ## verb [T]
 /kəˈmɪt/ DECISION
 [C2]to make a firm decision that you will do something
-- He committed himself to helping others.
+- He committed `himself to` helping others.
 
 ## 3059. compensate ## verb
 /ˈkɑm.pən.seɪt/ MAKE BETTER
 [C2]to reduce the bad effect of something, or make something bad become something good
-- Nothing will ever compensate for his lost childhood.
+- Nothing will ever compensate `for` his lost childhood.
 
 ## 3060. compromise ## verb
 /ˈkɑm.prəˌmɑɪz/ HARM
@@ -17948,7 +17948,7 @@
 ## 3063. concede ## verb
 /kənˈsiːd/ GIVE
 [C2]to allow someone to have something, even though you do not want to
-- The government will not concede to rebel demands.
+- The government will not concede `to` rebel demands.
 
 ## 3064. conceive ## verb
 /kənˈsiːv/ IDEA
@@ -17958,7 +17958,7 @@
 ## 3065. conceive ## verb
 /kənˈsiːv/ IMAGINE
 [C2]to be able to imagine something
-- I cannot conceive of anything more horrible.
+- I cannot conceive `of` anything more horrible.
 
 ## 3066. conceive ## verb
 /kənˈsiːv/ BABY
@@ -17983,8 +17983,8 @@
 ## 3070. confine ## verb [T]
 /kənˈfɑɪn/ 
 [C2]to prevent someone from leaving a place or to prevent something from spreading
-- He was confined to a prison cell for several days.
-- The disease outbreak was confined to the city.
+- He was confined `to` a prison cell for several days.
+- The disease outbreak was confined `to` the city.
 
 ## 3071. confront ## verb [T]
 /kənˈfrʌnt/ ACCUSE
@@ -18004,7 +18004,7 @@
 ## 3074. connect ## verb
 /kəˈnekt/ INVOLVE
 [C2]to see or show that two or more people or things are involved with each other
-- There is no evidence to connect him with the crime.
+- There is no evidence to connect him `with` the crime.
 
 ## 3075. consent ## verb [I]
 /kənˈsent/ 
@@ -18058,28 +18058,28 @@
 ## 3084. contrast ## verb
  DIFFERENCE
 [C2]If one thing contrasts with another, it is very different from it.
-- The sharpness of the lemons contrasts with the sweetness of the honey.
+- The sharpness of the lemons contrasts `with` the sweetness of the honey.
 
 ## 3085. contrast ## verb
  COMPARE
 [C2]to compare two people or things in order to show the differences between them
-- If you contrast his early novels with his later work, you can see how his writing has developed.
+- If you contrast his early novels `with` his later work, you can see how his writing has developed.
 
 ## 3086. convert ## verb [I or T]
 /kənˈvɜrt/ RELIGION
 [C2]to change to a new religion, belief, etc., or to make someone do this
-- When did he convert to Islam?
+- When did he convert `to` Islam?
 
 ## 3087. convict ## verb [T]
 /kənˈvɪkt/ 
 [C2]to decide officially in a court of law that someone is guilty of a particular crime
-- He was convicted of murder.
+- He was convicted `of` murder.
 
 ## 3088. count ## verb
 /kɑʊnt/ CONSIDER
 [C2]to think of someone or something in a particular way
-- She counted Tim as her closest friend.
-- You should count yourself lucky you weren't hurt.
+- She counted Tim `as` her closest friend.
+- You should count `yourself lucky` you weren't hurt.
 
 ## 3089. count ## verb
 /kɑʊnt/ BE ACCEPTED
@@ -18094,7 +18094,7 @@
 ## 3091. count ## verb
 /kɑʊnt/ lose count
 [C2]to forget how many of something there is
-- I've lost count of how many of times she's been late.
+- I've `lost` count `of` how many of times she's been late.
 
 ## 3092. count ## verb
 /kɑʊnt/ NUMBER
@@ -18124,7 +18124,7 @@
 ## 3097. crack ## verb [I or T]
 /kræk/ 
 [C2]to start dealing with bad or illegal behavior in a more severe way
-- Police are cracking down on crime in the area.
+- Police are cracking down `on` crime in the area.
 
 ## 3098. crack ## verb [I or T]
 /kræk/ 
@@ -18159,7 +18159,7 @@
 ## 3104. cross ## verb
 /krɔːs/ LINE/BORDER
 [C2]to travel over a border or line into a different area, country, etc.
-- They crossed from Albania into Greece.
+- They crossed from Albania `into` Greece.
 
 ## 3105. cross ## verb
 /krɔːs/ keep your fingers crossed/cross your fingers
@@ -18200,12 +18200,12 @@
 ## 3112. cry ## verb
 /krɑɪ/ 
 [C2]to shout or make a loud noise because you are frightened, hurt, etc.
-- She cried out in pain as she fell.
+- She cried out `in` pain as she fell.
 
 ## 3113. cultivate ## verb [T]
 /ˈkʌl.tə.veɪt/ DEVELOP
 [C2]to try to develop or improve something
-- She has cultivated an image as a tough negotiator.
+- She has cultivated `an image` as a tough negotiator.
 
 ## 3114. curb ## verb [T]
 /kɜrb/ 
@@ -18215,7 +18215,7 @@
 ## 3115. cut ## verb
 /kʌt/ 
 [C2]to reduce the amount of money being spent on something
-- We have had to cut back on training this year.
+- We have had to cut back `on` training this year.
 
 ## 3116. cut ## verb
 /kʌt/ not be cut out to be sth/not be cut out for sth
@@ -18275,7 +18275,7 @@
 ## 3127. deepen ## verb [I or T]
 /ˈdiː.pən/ WORSE/STRONGER
 [C2]to become worse or stronger, or to make something become worse or stronger
-- The economic crisis has deepened.
+- The economic `crisis` has deepened.
 
 ## 3128. defy ## verb [T]
 /dəˈfɑɪ/ 
@@ -18300,7 +18300,7 @@
 ## 3132. depict ## verb [T]
 /dəˈpɪkt/ 
 [C2]to represent someone or something in a picture or story
-- The cartoon depicts the president as a vampire.
+- The cartoon depicts the president `as` a vampire.
 
 ## 3133. derive ## verb
 /dəˈrɑɪv/ derive comfort/pleasure, etc. from sth
@@ -18325,7 +18325,7 @@
 ## 3137. diagnose ## verb [T]
 /ˈdɑɪ.əgˌnoʊs/ 
 [C2]to say what is wrong with someone who is ill
-- She was diagnosed with cancer last year.
+- She was diagnosed `with` cancer last year.
 
 ## 3138. dice ## verb [T]
 /dɑɪs/ 
@@ -18340,17 +18340,17 @@
 ## 3140. differentiate ## verb
 /ˌdɪf.ərˈen.ʃi.eɪt/ MAKE DIFFERENT
 [C2]to make someone or something different
-- We need to differentiate ourselves from the competition.
+- We need to differentiate ourselves `from` the competition.
 
 ## 3141. dim ## verb [I or T]
 /dɪm/ 
 [C2]to become less bright, or to make something become less bright
-- He dimmed the lights and turned up the music.
+- He dimmed the `lights` and turned up the music.
 
 ## 3142. disclose ## verb [T]
 /dɪsˈkloʊz/ 
 [C2]to give new or secret information to someone
-- He refused to disclose details of the report.
+- He refused to disclose `details` of the report.
 
 ## 3143. discourage ## verb [T]
 /dɪˈskɜr.ɪdʒ/ PREVENT
@@ -18360,7 +18360,7 @@
 ## 3144. discriminate ## verb [I]
 /dɪˈskrɪm.ɪ.neɪt/ NOTICE
 [C2]to notice a difference between two things
-- Police dogs are very good at discriminating between different smells.
+- Police dogs are very good at discriminating `between` different smells.
 
 ## 3145. disguise ## verb [T]
 /dəsˈgɑɪz/ HIDE
@@ -18375,12 +18375,12 @@
 ## 3147. dispute ## verb [T]
  
 [C2]to disagree with something someone says
-- I don’t dispute that his films are entertaining.
+- I don’t dispute `that` his films are entertaining.
 
 ## 3148. disqualify ## verb [T]
 /dɪˈskwɑː.lə.fɑɪ/ 
 [C2]to stop someone from being in a competition or doing some other activity because they have done something wrong
-- She was disqualified from the race after a drugs test.
+- She was disqualified `from` the race after a drugs test.
 
 ## 3149. dissolve ## verb
 /dɪˈzɑːlv/ BECOME LIQUID
@@ -18400,7 +18400,7 @@
 ## 3152. divert ## verb [T]
 /dɪˈvɜrt/ CHANGE ROUTE
 [C2]to send someone or something somewhere different from where they were expecting to go
-- The plane was diverted to Stansted because of engine trouble.
+- The plane was diverted `to` Stansted because of engine trouble.
 - The police were diverting traffic away from the town.
 
 ## 3153. do ## verb
@@ -18433,7 +18433,7 @@
 /dræg/ TIME
 [C2]to continue for too much time in a boring way
 - The play dragged during the second act.
-- Negotiations dragged on for months.
+- Negotiations dragged `on` for months.
 
 ## 3159. drain ## verb
 /dreɪn/ REMOVE LIQUID
@@ -18495,7 +18495,7 @@
 ## 3170. drift ## verb [I]
 /drɪft/ SITUATION
 [C2]to get into a situation or job without having any particular plan
-- He drifted into acting after college.
+- He drifted `into` acting after college.
 
 ## 3171. drift ## verb [I]
 /drɪft/ 
@@ -18555,7 +18555,7 @@
 ## 3182. echo ## verb
 /ˈek.oʊ/ SOUND
 [C2]If a sound echoes, or a place echoes with a sound, you hear the sound again because you are in a large, empty space.
-- Their voices echoed around the room.
+- Their `voices` echoed around the room.
 
 ## 3183. echo ## verb
 /ˈek.oʊ/ REPEAT
@@ -18611,7 +18611,7 @@
 ## 3193. equate ## verb [T]
 /ɪˈkweɪt/ 
 [C2]to consider one thing to be the same as or equal to another thing
-- Many people equate wealth with happiness.
+- Many people equate wealth `with` happiness.
 
 ## 3194. eradicate ## verb [T]
 /ɪˈræd.əˌkeɪt/ 
@@ -18636,12 +18636,12 @@
 ## 3198. escape ## verb
 /ɪˈskeɪp/ NOT NOTICE
 [C2]If something escapes your notice or attention, you do not notice or see it.
-- Nothing that goes on in this office escapes her attention.
+- Nothing that goes on in this office escapes her `attention`.
 
 ## 3199. escape ## verb
 /ɪˈskeɪp/ FORGET
 [C2]If something such as a name escapes you, you cannot remember it.
-- The name of her book escapes me at the moment.
+- The `name` of her book escapes me at the moment.
 
 ## 3200. establish ## verb [T often passive]
 /ɪˈstæb.lɪʃ/ DECIDE
@@ -18661,7 +18661,7 @@
 ## 3203. excel ## verb [I]
 /ɪkˈsel/ 
 [C2]to be very good at something
-- Paula excelled at when she was in school.
+- Paula excelled `at` when she was in school.
 - The lead dancer really excelled.
 
 ## 3204. exclaim ## verb [I or T]
@@ -18677,7 +18677,7 @@
 ## 3206. execute ## verb [T]
 /ˈek.səˌkjuːt/ DO
 [C2]to do something, such as follow a plan or order
-- to execute a deal/plan
+- to execute a `deal/plan`
 
 ## 3207. exemplify ## verb [T]
 /ɪgˈzem.pləˌfɑɪ/ 
@@ -18687,7 +18687,7 @@
 ## 3208. exercise ## verb
 /ˈek.sərˌsɑɪz/ USE
 [C2]to use a power, right, or ability
-- You should always exercise your right to vote.
+- You should always exercise your `right` to vote.
 
 ## 3209. exhibit ## verb
 /ɪgˈzɪb.ɪt/ SHOW QUALITY
@@ -18697,7 +18697,7 @@
 ## 3210. experiment ## verb [I]
  DO TESTS
 [C2]to do an experiment
-- Experimenting on mice can give us an idea of the effect of the disease in humans.
+- Experimenting `on` mice can give us an idea of the effect of the disease in humans.
 
 ## 3211. expire ## verb [I]
 /ɪkˈspɑɪr/ 
@@ -18723,7 +18723,7 @@
 /feɪk/ PRETEND
 [C2]to pretend that something has happened when it has not or to pretend to have a feeling that you do not have
 - They faked illness to avoid having to work.
-- He said he was feeling sick, but he was just faking it.
+- He said he was feeling sick, but he was just faking `it`.
 
 ## 3216. fall ## verb [I]
 /fɔːl/ darkness/night falls
@@ -18733,13 +18733,13 @@
 ## 3217. fall ## verb [I]
 /fɔːl/ BE DEFEATED
 [C2]to be defeated and start to be controlled by a different leader
-- The city fell to the enemy.
+- The city fell `to` the enemy.
 
 ## 3218. fall ## verb [I]
 /fɔːl/ BECOME WORSE
 [C2]to become worse, or start to be in a bad situation or condition
 - Education standards are continuing to fall.
-- Empty for 30 years, the building had fallen into ruin.
+- Empty for 30 years, the building had fallen `into ruin`.
 
 ## 3219. fall ## verb [I]
 /fɔːl/ HANG DOWN
@@ -18912,7 +18912,7 @@
 [C2]to use physical strength or effort to make something move or open
 - Move your leg up gently when you're doing this exercise, but don't force it.
 - If you force the zipper, it'll break.
-- She forced the window open.
+- She forced the window `open`.
 
 ## 3253. forget ## verb
 /fərˈget/ I forget
@@ -18923,7 +18923,7 @@
 /fɔːrm/ SHAPE
 [C2]to take or to make something take a particular shape
 - Hold hands and form a circle.
-- Form the dough into little balls.
+- Form the dough `into` little balls.
 
 ## 3255. form ## verb
 /fɔːrm/ form an opinion/impression, etc.
@@ -18939,17 +18939,17 @@
 ## 3257. formulate ## verb [T]
 /ˈfɔːr.mjə.leɪt/ PLAN
 [C2]to develop all the details of a plan for doing something
-- They formulated a plan to save the company.
+- They formulated a `plan` to save the company.
 
 ## 3258. formulate ## verb [T]
 /ˈfɔːr.mjə.leɪt/ SAY
 [C2]to say what you think or feel after thinking carefully
-- to formulate an answer/reply
+- to formulate an `answer/reply`
 
 ## 3259. found ## verb [T]
 /fɑʊnd/ BASE
 [C2]to base something on a set of ideas or beliefs
-- a society founded on principles of equality
+- a society founded `on` principles of equality
 
 ## 3260. frown ## verb [I]
 /frɑʊn/ SHOW ANGER
@@ -18975,7 +18975,7 @@
 ## 3264. further ## verb [T]
 /ˈfɜr.ðər/ 
 [C2]to make something develop or become more successful
-- He'll do anything to further his career.
+- He'll do anything to further his `career`.
 
 ## 3265. gamble ## verb [I or T]
 /ˈgæm.bəl/ RISK MONEY
@@ -18990,12 +18990,12 @@
 ## 3267. gasp ## verb [I]
 /gæsp/ BREATHE WITH DIFFICULTY
 [C2]to breathe loudly and with difficulty trying to get more air
-- He clutched his heart, gasping for breath.
+- He clutched his heart, gasping `for breath`.
 
 ## 3268. gesture ## verb [I]
 /ˈdʒes.tʃər / 
 [C2]to point at something or express something using your hand, arm, or head
-- He gestured toward the window.
+- He gestured `toward` the window.
 
 ## 3269. get ## verb
 /get/ get your act together
@@ -19010,7 +19010,7 @@
 ## 3271. get ## verb
 /get/ get the hang of sth
 [C2]to learn how to do something, especially if it is not obvious or simple
-- I've never used one of these before. - Don't worry, you'll soon get the hang of it.
+- I've never used one of these before. - Don't worry, you'll `soon` get the hang of `it`.
 
 ## 3272. get ## verb
 /get/ get moving
@@ -19100,7 +19100,7 @@
 ## 3289. glue ## verb [T]
 /gluː/ STICK
 [C2]to stick something to something else with glue
-- Do you think you can glue this vase back together?
+- Do you think you can glue this vase back `together`?
 
 ## 3290. glue ## verb [T]
 /gluː/ 
@@ -19166,12 +19166,12 @@
 ## 3302. greet ## verb [T]
 /griːt/ REACT
 [C2]to react to something in a particular way
-- His story was greeted with shrieks of laughter.
+- His story was greeted `with` shrieks of laughter.
 
 ## 3303. grin ## verb [I]
 /grɪn/ SMILE
 [C2]to smile a big smile
-- He grinned at me from the doorway.
+- He grinned `at` me from the doorway.
 
 ## 3304. grin ## verb [I]
 /grɪn/ grin and bear it
@@ -19201,12 +19201,12 @@
 ## 3309. hail ## verb
 /heɪl/ CALL
 [C2]to call or wave to someone to get their attention
-- You wait here while I hail a cab.
+- You wait here while I hail a `cab`.
 
 ## 3310. hail ## verb
 /heɪl/ PRAISE
 [C2]to publicly praise or show approval for someone or something
-- Heppner has been hailed as one of the finest tenors in the operatic world today.
+- Heppner has been hailed `as` one of the finest tenors in the operatic world today.
 
 ## 3311. hand ## verb [T]
 /hænd/ you have to hand it to sb
@@ -19356,7 +19356,7 @@
 /ɪmˈplɑɪ/ SUGGEST
 [C2]to suggest or show something, without saying it directly
 - He implied (that) the error was mine.
-- I didn't mean to imply that I wouldn't go to the movie with you.
+- I didn't `mean to` imply `that` I wouldn't go to the movie with you.
 
 ## 3340. imply ## verb [T]
 /ɪmˈplɑɪ/ BE PART OF
@@ -19371,7 +19371,7 @@
 ## 3342. incorporate ## verb [T]
 /ɪnˈkɔr.pə.reɪt/ 
 [C2]to include something as part of another thing
-- He began to incorporate dance and mime into his plays.
+- He began to incorporate dance and mime `into` his plays.
 
 ## 3343. incur ## verb [T]
 /ɪnˈkɜr/ 
@@ -19381,7 +19381,7 @@
 ## 3344. indulge ## verb
 /ɪnˈdʌldʒ/ YOURSELF
 [C2]to let yourself do or have something that you enjoy but which may be bad for you
-- When I get my first paycheck I’m going to indulge in a shopping spree.
+- When I get my first paycheck I’m going to indulge `in` a shopping spree.
 - Go on, indulge yourself! Have another chocolate.
 
 ## 3345. indulge ## verb
@@ -19398,12 +19398,12 @@
 ## 3347. infer ## verb [T]
 /ɪnˈfɜr / 
 [C2]to guess that something is true because of the information that you have
-- I inferred from the number of cups that he was expecting visitors.
+- I inferred `from` the number of cups that he was expecting visitors.
 
 ## 3348. inhabit ## verb [T]
 /ɪnˈhæb.ɪt/ 
 [C2]to live in a place
-- an area inhabited by artists and writers
+- an area inhabited `by` artists and writers
 
 ## 3349. inherit ## verb
 /ɪnˈher.ɪt/ FROM DEAD PERSON
@@ -19424,7 +19424,7 @@
 ## 3352. instruct ## verb [T]
 /ɪnˈstrʌkt/ TEACH
 [C2]to teach someone about something
-- She is there to instruct people in the safe use of the gym equipment.
+- She is there to instruct people `in` the safe use of the gym equipment.
 
 ## 3353. intensify ## verb [I or T]
 /ɪnˈten.sə.fɑɪ/ 
@@ -19434,7 +19434,7 @@
 ## 3354. intervene ## verb [I]
 /ˌɪn.t̬ərˈviːn/ 
 [C2]to become involved in a situation in order to try to stop a fight, argument, problem, etc.
-- Government officials refused to intervene in the recent disputes.
+- Government officials refused to intervene `in` the recent disputes.
 - Harris intervened to stop the attack.
 
 ## 3355. introduce ## verb [T]
@@ -19446,8 +19446,8 @@
 /ɪnˈtruːd/ 
 [C2]to become involved in a situation which people want to be private
 - I don't mean to intrude, but are you okay?
-- They should not have intruded on the family's grief.
-- He was fed up with the media intruding into his life.
+- They should not have intruded `on` the family's grief.
+- He was fed up with the media intruding `into` his life.
 
 ## 3357. invade ## verb
 /ɪnˈveɪd/ invade sb's privacy
@@ -19462,7 +19462,7 @@
 ## 3359. invite ## verb [T]
 /ɪnˈvɑɪt/ REACTION
 [C2]to do something that is likely to cause a particular reaction or result, especially a bad one
-- Unconventional ideas often invite attack/criticism.
+- Unconventional ideas often invite `attack/criticism`.
 
 ## 3360. issue ## verb
 /ˈɪʃ.uː/ 
@@ -19478,13 +19478,13 @@
 ## 3362. jam ## verb
 /dʒæm/ FILL
 [C2]to fill a place completely
-- The streets were jammed with cars.
-- Thousands of fans jammed into the stadium to hear the band.
+- The streets were jammed `with` cars.
+- Thousands of fans jammed `into` the stadium to hear the band.
 
 ## 3363. join ## verb
 /dʒɔɪn/ join forces
 [C2]When two people or groups join forces, they act or work together.
-- She joined forces with her sister-in-law to set up the restaurant.
+- She joined forces `with` her sister-in-law to set up the restaurant.
 
 ## 3364. judge ## verb
 /dʒʌdʒ/ BAD OPINION
@@ -19555,7 +19555,7 @@
 ## 3377. keep ## verb
 /kiːp/ 
 [C2]to continue working hard at something difficult
-- Learning a language is hard but you've just got to keep at it.
+- Learning a language is hard but you've just got to keep at `it`.
 
 ## 3378. keep ## verb
 /kiːp/ 
@@ -19590,7 +19590,7 @@
 ## 3384. kick ## verb [I or T]
 /kɪk/ 
 [C2]When you kick off a discussion or activity, you start it.
-- Should we kick off the session with a presentation from Lisa?
+- Should we kick off the session `with` a presentation from Lisa?
 
 ## 3385. kill ## verb [T]
 /kɪl/ END
@@ -19600,7 +19600,7 @@
 ## 3386. know ## verb
 /noʊ/ GUESS CORRECTLY
 [C2]to guess something correctly
-- I should have known he wouldn't come.
+- I `should have` known he wouldn't come.
 
 ## 3387. know ## verb
 /noʊ/ know best
@@ -19681,7 +19681,7 @@
 ## 3402. leak ## verb
 /liːk/ TELL
 [C2]If someone leaks secret information, they intentionally tell people about it.
-- Details of the report had been leaked to the press.
+- Details of the report had been leaked `to` the press.
 
 ## 3403. lean ## verb [I or T]
 /liːn/ NOT VERTICAL
@@ -19707,7 +19707,7 @@
 ## 3407. leap ## verb
 /liːp/ 
 [C2]to accept the chance to have or do something with enthusiasm
-- I'd leap at the opportunity to work in Japan.
+- I'd leap at the `opportunity` to work in Japan.
 
 ## 3408. learn ## verb
 /lɜrn/ learn sth the hard way
@@ -19727,12 +19727,12 @@
 - Don't leave your packing till the night before you go.
 - I'll leave these letters till Monday.
 - Don't leave it too late.
-- They left booking their holiday till/to the last minute.
+- They left booking their holiday `till/to the last minute`.
 
 ## 3411. leave ## verb
 /liːv/ AFTER DEATH
 [C2]to arrange for someone to receive something after you die
-- He left his nieces all his money./He left all his money to his nieces.
+- He left his nieces all his money./He left all his money `to` his nieces.
 
 ## 3412. leave ## verb
 /liːv/ leave someone to their own devices
@@ -19747,7 +19747,7 @@
 ## 3414. lecture ## verb
 /ˈlek.tʃər/ 
 [C2]to give a formal talk to a group of people, especially students
-- She’s lecturing on the geology of the region.
+- She’s lecturing `on` the geology of the region.
 
 ## 3415. lend ## verb
 /lend/ lend itself to sth
@@ -19794,7 +19794,7 @@
 ## 3423. lie ## verb [I]
 /lɑɪ/ RESPONSIBILITY/BLAME
 [C2]If responsibility, blame, a decision, a choice, etc., lies with someone, they have responsibility, must make the decision, etc.
-- Responsibility for the disaster must ultimately lie with the government.
+- Responsibility for the disaster must ultimately lie `with` the government.
 - Where does the blame lie?
 
 ## 3424. line ## verb [T]
@@ -19810,13 +19810,13 @@
 ## 3426. listen ## verb [I]
 /ˈlɪs.ən/ 
 [C2]to secretly listen to someone else's conversation
-- Do you think he's been listening in on our conversations?
+- Do you think he's been listening in `on` our conversations?
 
 ## 3427. live ## verb
  STAY ALIVE
 [C2]to keep yourself alive
 - She’s so poor – I wonder how she lives.
-- He’s living off the money he inherited from his father.
+- He’s living `off` the money he inherited from his father.
 
 ## 3428. live ## verb
  
@@ -19831,9 +19831,9 @@
 ## 3430. lobby ## verb [I or T]
 /ˈlɑb.i/ 
 [C2]to try to persuade the government or an official group to do something
-- Small businesses have lobbied hard for/against changes in the tax laws.
-- Local residents lobbied to have the factory shut down.
-- Council members have been lobbying colleagues on how to vote.
+- Small businesses have lobbied hard `for/against` changes in the tax laws.
+- Local residents lobbied `to` have the factory shut down.
+- Council members have been lobbying colleagues `on` how to vote.
 
 ## 3431. lock ## verb
 /lɑk/ lock sth away/in, etc.
@@ -19854,7 +19854,7 @@
 ## 3434. look ## verb
 /lʊk/ 
 [C2]to think about what will happen in the future and plan for these events
-- I'm looking ahead to next year and figuring out our staffing needs.
+- I'm looking ahead `to` next year and figuring out our staffing needs.
 
 ## 3435. loom ## verb [I]
 /luːm/ APPEAR
@@ -19864,7 +19864,7 @@
 ## 3436. loom ## verb [I]
 /luːm/ WORRY
 [C2]If an unpleasant event looms, it is likely to happen soon.
-- The threat of closure looms over the workforce.
+- The threat of closure looms `over` the workforce.
 
 ## 3437. loom ## verb [I]
 /luːm/ loom large
@@ -19894,7 +19894,7 @@
 ## 3442. lose ## verb
 /luːz/ lose count
 [C2]to forget how many of something there is
-- I've lost count of how many of times she's been late.
+- I've `lost` count `of` how many of times she's been late.
 
 ## 3443. lose ## verb
 /luːz/ lose sight of sth
@@ -19909,13 +19909,13 @@
 ## 3445. lure ## verb [T]
 /lʊr/ 
 [C2]to persuade someone to go somewhere or do something by offering them something exciting
-- It seems that he was lured into a trap.
+- It seems that he was lured `into` a trap.
 - The university hopes to lure a new coach with an attractive salary package.
 
 ## 3446. maintain ## verb [T]
 /meɪnˈteɪn/ SAY SOMETHING IS TRUE
 [C2]to say that you are certain something is true
-- She maintains that she’s being criticized simply for telling the truth.
+- She maintains `that` she’s being criticized simply for telling the truth.
 - Dunn has always maintained his innocence.
 
 ## 3447. make ## verb [T]
@@ -20033,16 +20033,16 @@
 ## 3469. meet ## verb
 /miːt/ ACHIEVE
 [C2]to be able to achieve something
-- He met every goal he set for himself.
-- I've got a deadline to meet.
-- Do you think we will be able to meet our target?
+- He met every `goal` he set for himself.
+- I've got a `deadline` to meet.
+- Do you think we will be able to meet our `target`?
 
 ## 3470. merge ## verb [I or T]
 /mɜrdʒ/ 
 [C2]If two or more things merge, they combine or join, and if you merge two or more things, you combine or join them.
 - The two companies merged.
 - They're planning to merge the banks.
-- The city's smaller libraries will be merged into a large, central one.
+- The city's smaller libraries will be merged `into` a large, central one.
 
 ## 3471. merit ## verb [T]
 /ˈmer.ɪt/ 
@@ -20062,7 +20062,7 @@
 ## 3474. mingle ## verb
 /ˈmɪŋ.gəl/ MIX
 [C2]to mix, or be mixed
-- The smell of coffee mingled with fresh-baked bread.
+- The smell of coffee mingled `with` fresh-baked bread.
 
 ## 3475. misinterpret ## verb [T]
 /ˌmɪs.ɪnˈtɜr.prət/ 
@@ -20092,7 +20092,7 @@
 ## 3480. moan ## verb [I]
 /moʊn/ COMPLAIN
 [C2]to complain or speak in a way that shows you are unhappy
-- He's always moaning about something.
+- He's always moaning `about` something.
 
 ## 3481. moderate ## verb [T]
  LESS EXTREME
@@ -20107,7 +20107,7 @@
 ## 3483. mount ## verb
 /mɑʊnt/ INCREASE
 [C2]to increase in amount or level
-- Tension in the room was mounting.
+- `Tension` in the room was mounting.
 
 ## 3484. mount ## verb
 /mɑʊnt/ mount sth on/to, etc.
@@ -20193,7 +20193,7 @@
 ## 3500. open ## verb
 /ˈoʊ.pən/ open your heart
 [C2]to tell someone your secret thoughts and feelings
-- That night, she opened her heart to me.
+- That night, she opened her heart `to` me.
 
 ## 3501. open ## verb
 /ˈoʊ.pən/ keep your eyes open (for sb/sth)
@@ -20203,7 +20203,7 @@
 ## 3502. open ## verb
 /ˈoʊ.pən/ 
 [C2]to start to talk more about yourself and your feelings
-- I've tried to get him to open up to me but without success.
+- I've tried to get him to open up `to` me but without success.
 
 ## 3503. originate ## verb [I]
 /əˈrɪdʒ.ə.neɪt/ originate from/in/with, etc.
@@ -20225,7 +20225,7 @@
 /ˌoʊ.vərˈfloʊ/ TOO MANY PEOPLE
 [C2]If a place is overflowing, there are too many people in it.
 - The square was overflowing with people trying to see the queen.
-- The train platform was overflowing with passengers.
+- The train platform was overflowing `with` passengers.
 
 ## 3507. overflow ## verb
 /ˌoʊ.vərˈfloʊ/ overflow with confidence/happiness/love, etc.
@@ -20246,7 +20246,7 @@
 /ˌoʊ.vərˈloʊd/ TOO MUCH
 [C2]to give someone too much to do
 - All the staff are completely overloaded.
-- I can’t go out tonight – I’m overloaded with work
+- I can’t go out tonight – I’m overloaded `with` work
 
 ## 3511. overlook ## verb [T]
 /ˌoʊ.vərˈlʊk/ NOT NOTICE
@@ -20292,7 +20292,7 @@
 ## 3519. pass ## verb
 /pæs/ SPORTS
 [C2]in sports, to throw or kick a ball to someone else
-- Edwards passes to Brinkworth.
+- Edwards passes `to` Brinkworth.
 
 ## 3520. pat ## verb [T]
 /pæt/ 
@@ -20317,7 +20317,7 @@
 ## 3524. pay ## verb
 /peɪ/ SUFFER
 [C2]to suffer because of something bad you have done
-- He's certainly paying for his mistakes.
+- He's certainly paying `for` his mistakes.
 
 ## 3525. pay ## verb
 /peɪ/ pay the price
@@ -20339,7 +20339,7 @@
 /piːl/ COVERING
 [C2]If a layer or covering peels, it slowly comes off, and if you peel a layer or covering, you remove it slowly and carefully.
 - The posters were peeling away from the damp walls.
-- Peel off the backing strip and press the label down firmly.
+- Peel `off` the backing strip and press the label down firmly.
 
 ## 3529. peel ## verb
 /piːl/ keep your eyes peeled (for sb/sth)
@@ -20374,7 +20374,7 @@
 ## 3535. persist ## verb [I]
 /pərˈsɪst/ CONTINUE TO DO
 [C2]to continue to do something although it is annoying other people
-- He persists in calling me Jane, even though I've corrected him twice.
+- He persists `in` calling me Jane, even though I've corrected him twice.
 
 ## 3536. pick ## verb [T]
 /pɪk/ pick up the pieces
@@ -20409,7 +20409,7 @@
 ## 3542. plant ## verb [T]
 /plænt/ IDEA/DOUBTS
 [C2]to make someone start thinking something
-- I was confident till you planted doubts in my mind.
+- I was confident till you planted `doubts` in my mind.
 
 ## 3543. play ## verb
 /pleɪ/ play sth by ear
@@ -20434,18 +20434,18 @@
 ## 3547. plead ## verb
 /pliːd/ LEGAL
 [C2]to say in a court of law if you are guilty or not guilty of the crime you have been accused of
-- He pleaded not guilty to five felony charges.
+- He pleaded not guilty `to` five felony charges.
 
 ## 3548. plead ## verb
 /pliːd/ ASK
 [C2]to ask for something in a strong and emotional way
-- He pleaded with her to come back.
-- She pleaded for mercy.
+- He pleaded `with` her to come back.
+- She pleaded `for` mercy.
 
 ## 3549. plead ## verb
 /pliːd/ EXCUSE
 [C2]to say something as an excuse
-- You'll just have to plead ignorance.
+- You'll just have to plead `ignorance`.
 
 ## 3550. please ## verb [I or T]
 /pliːz/ anything/as/what/whatever, etc. you please
@@ -20483,7 +20483,7 @@
 /pɔːrˈtreɪ/ 
 [C2]If a book or movie portrays someone or something, it describes or shows them.
 - Both novels portray the lives of professional athletes.
-- In the movie he's portrayed as a hero.
+- In the movie he's portrayed `as` a hero.
 
 ## 3557. pose ## verb
 /poʊz/ pose a/the question
@@ -20508,7 +20508,7 @@
 ## 3561. precede ## verb [T]
 /prɪˈsiːd/ 
 [C2]to happen or exist before something else
-- The formal ceremony was preceded by a parade.
+- The formal ceremony was preceded `by` a parade.
 
 ## 3562. prescribe ## verb [T]
 /prɪˈskrɑɪb/ 
@@ -20518,23 +20518,23 @@
 ## 3563. present ## verb [T]
  INFORMATION
 [C2]to give people information in a formal way
-- He presented the report to his colleagues.
+- He presented the report `to` his colleagues.
 
 ## 3564. present ## verb [T]
  OPPORTUNITY
 [C2]If an opportunity presents itself, it becomes possible.
-- I'd be happy to go to New York, if the opportunity presented itself.
+- I'd be happy to go to New York, if the `opportunity` presented `itself`.
 
 ## 3565. press ## verb
 /pres/ PERSUADE
 [C2]to try hard to persuade someone to do something
 - The committee pressed him to reveal more information.
-- We pressed him for an answer but he refused.
+- We pressed him `for` an answer but he refused.
 
 ## 3566. press ## verb
 /pres/ press charges
 [C2]to complain officially about someone in a court of law
-- The family decided not to press charges against him.
+- The family decided not to press charges `against` him.
 
 ## 3567. prevail ## verb [I]
 /prɪˈveɪl/ 
@@ -20544,7 +20544,7 @@
 ## 3568. price ## verb [T often passive]
 /prɑɪs/ 
 [C2]to say what the price of something is
-- The car is priced at $28,000.
+- The car is priced `at` $28,000.
 - There is a lack of reasonably priced housing for rent.
 
 ## 3569. proceed ## verb [I]
@@ -20567,7 +20567,7 @@
 /ˈprɑs.ɪ.kjuːt/ 
 [C2]to officially accuse someone of committing a crime in a court of law, or (of a lawyer) to try to prove that a person accused of committing a crime is guilty of that crime
 - Shoplifters will be prosecuted.
-- He was prosecuted for fraud.
+- He was prosecuted `for` fraud.
 - The victim has said that she will not prosecute.
 
 ## 3573. prosper ## verb [I]
@@ -20588,7 +20588,7 @@
 ## 3576. provoke ## verb [T]
 /prəˈvoʊk/ 
 [C2]to cause a strong and usually angry reaction
-- to provoke an argument
+- to provoke an `argument`
 - Her statement has provoked a public outcry.
 
 ## 3577. pull ## verb
@@ -20609,7 +20609,7 @@
 ## 3580. put ## verb [T]
 /pʊt/ SAY
 [C2]to say something using particular words
-- I need to tell him I don't like it but I don't know how to put it.
+- I need to tell him I don't like it but I don't know `how to `put `it`.
 
 ## 3581. put ## verb [T]
 /pʊt/ put sb to death
@@ -20694,7 +20694,7 @@
 ## 3597. rage ## verb [I]
 /reɪdʒ/ SPEAK
 [C2]to speak or behave in a very angry way
-- He raged at us for forgetting to order a replacement.
+- He raged `at` us for forgetting to order a replacement.
 
 ## 3598. rage ## verb [I]
 /reɪdʒ/ CONTINUE
@@ -20724,7 +20724,7 @@
 ## 3603. readjust ## verb
 /ˌriː.əˈdʒʌst/ CHANGE BEHAVIOUR
 [C2]to change in order to deal with a new situation, such as a new job or home
-- The children will have to readjust to a new school.
+- The children will have to readjust `to` a new school.
 
 ## 3604. reap ## verb
 /riːp/ reap the benefits/profits/rewards
@@ -20745,7 +20745,7 @@
 /ˈrek.ənˌsɑɪl/ MAKE AGREE
 [C2]to make two different ideas, beliefs, or situations agree or able to exist together
 - It is sometimes difficult to reconcile science and religion.
-- How can you reconcile your love of animals with your habit of eating them?
+- How can you reconcile your love of animals `with` your habit of eating them?
 
 ## 3608. reconcile ## verb [T]
 /ˈrek.ənˌsɑɪl/ 
@@ -20765,12 +20765,12 @@
 ## 3611. redistribute ## verb [T]
 /ˌriː.dɪˈstrɪb.juːt/ 
 [C2]to share money, land, power, etc. between people in a different way from before
-- to redistribute wealth
+- to redistribute `wealth`
 
 ## 3612. reduce ## verb [T]
 /rɪˈduːs/ 
 [C2]to make someone unhappy or cause them to be in a bad situation
-- She was reduced to tears by his comments.
+- She was `reduced to tears` by his comments.
 - I lost my job and was reduced to borrowing money from friends.
 
 ## 3613. reduce ## verb [T]
@@ -20791,7 +20791,7 @@
 ## 3616. refrain ## verb [I]
 /rɪˈfreɪn/ 
 [C2]to stop yourself from doing something
-- Please refrain from talking during the performance.
+- Please refrain `from` talking during the performance.
 
 ## 3617. reign ## verb [I]
 /reɪn/ KING/QUEEN
@@ -20801,12 +20801,12 @@
 ## 3618. reign ## verb [I]
 /reɪn/ MAIN FEELING/QUALITY
 [C2]to be the main feeling or quality in a situation
-- Chaos reigned as angry protesters hammered on the doors.
+- `Chaos` reigned as angry protesters hammered on the doors.
 
 ## 3619. reinforce ## verb [T]
 /ˌriː.ənˈfɔːrs/ OBJECT
 [C2]to make something stronger
-- a security door reinforced by/with steel bars
+- a security door reinforced `by/with` steel bars
 - reinforced concrete
 
 ## 3620. relate ## verb
@@ -20832,7 +20832,7 @@
 ## 3624. relish ## verb [T]
 /ˈrel.ɪʃ/ 
 [C2]to enjoy something
-- I don't relish the thought of a twelve-hour flight.
+- I don't relish `the thought` of a twelve-hour flight.
 
 ## 3625. render ## verb [T]
 /ˈren.dər/ CAUSE TO BE
@@ -20859,7 +20859,7 @@
 ## 3629. represent ## verb [T]
 /ˌrep.rɪˈzent/ SHOW
 [C2]to show or describe someone or something in a particular way
-- He represented himself as an expert, but his facts were all wrong.
+- He represented himself `as` an expert, but his facts were all wrong.
 
 ## 3630. reproach ## verb [T]
 /rɪˈproʊtʃ/ 
@@ -20875,7 +20875,7 @@
 /rɪˈzent/ 
 [C2]to feel angry and upset about a situation or about something that someone has done
 - I resent having to work late.
-- He resents the fact that she gets more money than he does.
+- He resents the `fact` that she gets more money than he does.
 
 ## 3633. resign ## verb [I or T]
 /rɪˈzɑɪn/ 
@@ -20920,7 +20920,7 @@
 ## 3641. retrieve ## verb [T]
 /rɪˈtriːv/ 
 [C2]to get something after first finding it
-- Important historic documents were retrieved from a from a storage room last week.
+- Important historic documents were retrieved `from` a from a storage room last week.
 - We're teaching our dog to retrieve a ball thrown in the pond.
 
 ## 3642. reveal ## verb [T]
@@ -20942,7 +20942,7 @@
 ## 3645. revolt ## verb
 /rɪˈvoʊlt/ AGAINST
 [C2]to try to change a government, often using violence, or to refuse to accept someone's authority
-- Many were killed when nationalists revolted against the new government.
+- Many were killed when nationalists revolted `against` the new government.
 
 ## 3646. revolt ## verb
 /rɪˈvoʊlt/ be revolted by sth
@@ -20952,7 +20952,7 @@
 ## 3647. rhyme ## verb [I]
 /rɑɪm/ 
 [C2]If a word rhymes with another word, the end part of the words sound the same.
-- Moon rhymes with "June."
+- Moon rhymes `with` "June."
 
 ## 3648. ring ## verb [I or T]
 /rɪŋ/ ring a bell
@@ -20987,8 +20987,8 @@
 ## 3654. roar ## verb
 /rɔːr/ MAKE NOISE
 [C2]to make a loud, deep sound
-- We could hear a lion roaring on the other side of the zoo.
-- She roared with laughter.
+- We could hear a `lion` roaring on the other side of the zoo.
+- She roared `with laughter`.
 
 ## 3655. roar ## verb
 /rɔːr/ SHOUT
@@ -21003,8 +21003,8 @@
 ## 3657. rock ## verb
 /rɑk/ 
 [C2]to move backward and forward or from side to side, or to make someone or something do this
-- She rocked back and forth on her chair.
-- He gently rocked the baby to sleep.
+- She rocked `back and forth` on her chair.
+- He gently rocked the `baby` to sleep.
 
 ## 3658. rock ## verb
 /rɑk/ rock the boat
@@ -21036,7 +21036,7 @@
 /ruːl/ 
 [C2]to decide or state that something is impossible or will not happen, or that something or someone is not suitable
 - It’s unlikely that he’ll run for president, but you can never rule anything out.
-- The police have not ruled him out as a suspect.
+- The police have not ruled him out `as` a suspect.
 
 ## 3664. run ## verb
 /rʌn/ ELECTION
@@ -21116,7 +21116,7 @@
 ## 3679. scan ## verb [T]
 /skæn/ LOOK
 [C2]to look around an area quickly to try to find a person or thing
-- She scanned the crowd for a familiar face.
+- She scanned the crowd `for` a familiar face.
 
 ## 3680. scar ## verb [T often passive]
 /skɑr/ 
@@ -21186,7 +21186,7 @@
 ## 3693. see ## verb
 /siː/ see sense
 [C2]to realize you are wrong or have been behaving stupidly
-- We talked to her for an hour, but we couldn't make her see sense.
+- We talked to her for an hour, but we couldn't `make` her see sense.
 
 ## 3694. see ## verb
 /siː/ see fit
@@ -21201,13 +21201,13 @@
 ## 3696. seek ## verb [T]
 /siːk/ TRY TO DO
 [C2]to try to do something
-- They are seeking to change the rules.
+- They are seeking `to` change the rules.
 - The Senator has announced she will seek reelection.
 
 ## 3697. seize ## verb [T]
 /siːz/ PLACE
 [C2]to take control of a place suddenly by using military force
-- Troops seized control in the early hours of the morning.
+- Troops seized `control` in the early hours of the morning.
 
 ## 3698. sell ## verb
 /sel/ IDEA/PLAN
@@ -21222,7 +21222,7 @@
 ## 3700. send ## verb [T]
 /send/ MAKE HAPPEN
 [C2]to cause someone or something to do a particular thing, or to cause something to happen
-- The explosion sent the crowd into a panic.
+- The explosion sent the crowd `into` a panic.
 - The fan sent papers flying all over the room.
 - A gentle breeze sent the clouds drifting across the sky.
 
@@ -21248,8 +21248,8 @@
 [C2]to feel or experience something without being able to explain exactly how
 - Although she said nothing, I could sense her anger.
 - He sensed something was about to happen.
-- He sensed (that) his guests were bored, although they were listening politely.
-- Could you sense what was likely to happen?
+- He sensed `(that)` his guests were bored, although they were listening politely.
+- Could you sense `what` was likely to happen?
 
 ## 3705. serve ## verb
 /sɜrv/ PRISON
@@ -21274,7 +21274,7 @@
 ## 3709. set ## verb
 /set/ set sail
 [C2]to start a trip on a boat or ship
-- We set sail for home the next day.
+- We set sail `for` home the next day.
 
 ## 3710. set ## verb
 /set/ set your sights on sth
@@ -21290,8 +21290,8 @@
 ## 3712. set ## verb
 /set/ AIM
 [C2]to start an activity with a particular aim
-- She set out with the aim of becoming the youngest ever winner of the championship.
-- They set out to discover a cure for cancer.
+- She set out `with` the aim of becoming the youngest ever winner of the championship.
+- They set out `to` discover a cure for cancer.
 
 ## 3713. settle ## verb
 /ˈset̬.əl/ PAY
@@ -21350,13 +21350,13 @@
 ## 3723. shine ## verb
 /ʃɑɪn/ EYES/FACE
 [C2]If your eyes or face shine, you look happy, healthy, or excited.
-- His eyes were shining with excitement.
+- His `eyes` were shining with excitement.
 
 ## 3724. shoot ## verb
 /ʃuːt/ shoot across/out/up, etc.
 [C2]to move somewhere very quickly
 - She shot across the road without looking.
-- She shot past me only inches from the finishing line.
+- She shot `past` me only inches from the finishing line.
 
 ## 3725. shower ## verb
 /ˈʃɑʊ.ər/ shower sb with sth
@@ -21367,22 +21367,22 @@
 ## 3726. shrug ## verb [I or T]
 /ʃrʌg/ 
 [C2]to move your shoulders up and down to show that you do not care about something or that you do not know something
-- I told him we weren't happy with it but he just shrugged his shoulders.
+- I told him we weren't happy with it but he just shrugged his `shoulders`.
 - She just shrugged and said she didn't know.
 
 ## 3727. shudder ## verb [I]
 /ˈʃʌd.ər/ 
 [C2]to shake, usually because you are thinking of something unpleasant
 - The sight of so much blood made him shudder.
-- She shuddered at the thought of kissing him.
+- She shuddered `at the thought of` kissing him.
 
 ## 3728. signal ## verb [I or T]
 /ˈsɪg.nəl/ 
 [C2]to make a movement that gives information or tells people what to do
 - He signaled left, then turned the truck slowly.
 - He was signaling with an orange flag.
-- The police officer signaled for us to stop.
-- She signaled to the oncoming car that that it going the wrong way.
+- The police officer signaled `for` us to stop.
+- She signaled `to` the oncoming car `that` that it going the wrong way.
 
 ## 3729. sit ## verb [I]
 /sɪt/ sit sb down/at/in, etc.
@@ -21463,7 +21463,7 @@
 ## 3744. slow ## verb [I or T]
 /sloʊ/ 
 [C2]to become slower or to make something become slower
-- Traffic slows to a crawl during rush hour.
+- Traffic slows `to a crawl` during rush hour.
 - The pilot was asked to slow his approach to the runway.
 
 ## 3745. snap ## verb
@@ -21479,7 +21479,7 @@
 ## 3747. snap ## verb
 /snæp/ SPEAK ANGRILY
 [C2]to say something suddenly in an angry way
-- I was snapping at the children because I was tired.
+- I was snapping `at` the children because I was tired.
 
 ## 3748. snap ## verb
 /snæp/ LOSE CONTROL
@@ -21552,7 +21552,7 @@
 ## 3761. spark ## verb [T]
 /spɑrk/ 
 [C2]to cause an argument, fight, etc. to start happening
-- to spark a debate/protest/riot
+- to spark a `debate/protest/riot`
 - The politician's controversial speech sparked criticism even from his supporters.
 
 ## 3762. speak ## verb
@@ -21583,7 +21583,7 @@
 ## 3767. speculate ## verb [I or T]
 /ˈspek.jəˌleɪt/ 
 [C2]to guess possible answers to a question when you do not have enough information to be certain
-- The police refused to speculate about the cause of the accident.
+- The police refused to speculate `about` the cause of the accident.
 - The newspapers have speculated that they will get married next year.
 
 ## 3768. spin ## verb [I or T]
@@ -21595,31 +21595,31 @@
 /spɪt/ 
 [C2]to force liquid out of your mouth
 - I don't like to see people spitting in public.
-- He took a mouthful of coffee and then spat it out.
+- He took a mouthful of coffee and then spat it `out`.
 
 ## 3770. split ## verb
 /splɪt/ COME APART
 [C2]If something splits or if you split it, it comes apart so that there is a long, thin hole in it.
 - His shorts split when he tried to jump the fence.
-- Her shoes were splitting apart at the sides.
+- Her shoes were splitting `apart` at the sides.
 - The wooden floor had cracked and split in the heat.
 
 ## 3771. split ## verb
 /splɪt/ DISAGREE
 [C2]If a group of people splits, or something splits them, they disagree and form smaller groups.
 - This issue could split the Republican Party.
-- The people are split on the issue of hunting.
+- The people are split `on` the issue of hunting.
 
 ## 3772. spread ## verb
 /spred/ SURFACE
 [C2]to move a soft substance across a surface so that it covers it
-- What I really like is hot, buttered toast spread with strawberry jam.
-- He spread a thin layer of glue on the paper.
+- What I really like is hot, buttered toast spread ` with` strawberry jam.
+- He spread a thin layer of glue `on` the paper.
 
 ## 3773. spread ## verb
 /spred/ TIME
 [C2]to arrange for something to happen over a period of time and not at once
-- The payments will be spread over two years.
+- The `payments` will be spread over two years.
 
 ## 3774. spring ## verb
 /sprɪŋ/ spring back/out/to, etc.
@@ -21660,7 +21660,7 @@
 ## 3781. squander ## verb [T]
 /ˈskwɑn.dər/ 
 [C2]to waste time, money, etc.
-- He squandered all his money on alcohol and drugs.
+- He squandered all his money `on` alcohol and drugs.
 
 ## 3782. squeak ## verb [I]
 /skwiːk/ 
@@ -21694,15 +21694,15 @@
 ## 3787. stain ## verb
 /steɪn/ DAMAGE
 [C2]to permanently spoil something such as someone's reputation
-- Several politicians have had their reputations stained by the scandal.
-- The country's history is stained with the blood of countless innocent men and women.
+- Several politicians have had their reputations stained `by` the scandal.
+- The country's history is stained `with` the blood of countless innocent men and women.
 
 ## 3788. stamp ## verb
 /stæmp/ FOOT
 [C2]to put your foot down on the ground hard and quickly, often to show anger
 - No! she shouted, stamping her foot.
 - The audience started jeering and stamping their feet.
-- He stamped on my foot.
+- He stamped `on` my foot.
 
 ## 3789. stand ## verb
 /stænd/ it stands to reason
@@ -21712,14 +21712,14 @@
 ## 3790. stand ## verb
 /stænd/ STATE
 [C2]to be in a particular state or situation
-- The house stood empty for years.
+- The house stood `empty` for years.
 - As things stand right now, there’s no telling who will win.
 
 ## 3791. stand ## verb
 /stænd/ stand trial
 [C2]If someone stands trial, they appear in a law court where people decide if they are guilty of a crime.
 - Berenson will stand trial next month in the county court.
-- to stand trial for treason
+- to stand trial `for` treason
 
 ## 3792. stand ## verb
 /stænd/ stand to gain/lose sth
@@ -21764,7 +21764,7 @@
 ## 3800. stand ## verb
 /stænd/ 
 [C2]to do something that someone else was going to do because they cannot be there
-- She stood in for me when I was sick.
+- She stood in `for` me when I was sick.
 
 ## 3801. stay ## verb [I]
 /steɪ/ stay put
@@ -21800,12 +21800,12 @@
 ## 3807. stir ## verb
 /stɜr/ FEEL
 [C2]to make someone feel a strong emotion
-- The case has stirred great anger among the public.
+- The case has stirred great `anger` among the public.
 
 ## 3808. stir ## verb
 /stɜr/ 
 [C2]to cause arguments or bad feeling between people, usually on purpose
-- I think he just likes to stir up trouble.
+- I think he just likes to stir up `trouble`.
 
 ## 3809. stop ## verb
 /stɑp/ stop short of sth/doing sth
@@ -21854,7 +21854,7 @@
 ## 3817. strive ## verb [I]
 /strɑɪv/ 
 [C2]to try very hard to do or achieve something
-- to strive for happiness/peace
+- to strive `for` happiness/peace
 - We are constantly striving to improve our service.
 
 ## 3818. structure ## verb
@@ -21865,7 +21865,7 @@
 ## 3819. struggle ## verb [I]
 /ˈstrʌg.əl/ TRY TO DEFEAT/PREVENT
 [C2]to use a lot of effort to defeat someone or prevent something
-- For years she struggled with/against the establishment to get her theories accepted.
+- For years she struggled `with/against` the establishment `to` get her theories accepted.
 - He is struggling with an ankle injury.
 
 ## 3820. stuff ## verb [T]
@@ -21882,7 +21882,7 @@
 ## 3822. stumble ## verb [I]
 /ˈstʌm.bəl/ PAUSE
 [C2]to make a mistake, such as pausing or repeating a word, while speaking or performing
-- He kept stumbling over the same word.
+- He kept stumbling `over` the same word.
 
 ## 3823. stumble ## verb [I]
 /ˈstʌm.bəl/ 
@@ -21897,17 +21897,17 @@
 ## 3825. submit ## verb
 /sʌbˈmɪt/ OBEY
 [C2]to accept that someone has control over you and do what they tell you to do
-- He was forced to submit to a search.
+- He was forced to submit `to` a search.
 
 ## 3826. succumb ## verb [I]
 /səˈkʌm/ NOT STOP
 [C2]to not be able to stop yourself from doing something
-- I succumbed to temptation and had some cheesecake.
+- I succumbed `to` temptation and had some cheesecake.
 
 ## 3827. succumb ## verb [I]
 /səˈkʌm/ SUFFER
 [C2]to die or suffer badly from an illness
-- Many of them succumbed to cholera.
+- Many of them succumbed `to` cholera.
 
 ## 3828. suck ## verb
 /sʌk/ 
@@ -21929,7 +21929,7 @@
 ## 3831. summon ## verb [T]
 /ˈsʌm.ən/ 
 [C2]to make a great effort to produce a quality to help you deal with a situation
-- summon up his/her/my/the courage
+- summon up his/her/my/the `courage`
 - She summoned up all her strength and pushed against the door.
 
 ## 3832. supplement ## verb [T]
@@ -21941,7 +21941,7 @@
 /səˈpɔːrt/ HOLD
 [C2]to hold the weight of someone or something
 - Is this ladder strong enough to support me?
-- The building's dome is supported by marble pillars.
+- The building's dome is supported `by` marble pillars.
 - When babies first learn to stand, they hold on to something to support themselves.
 - I wrap my knee to support it when I play tennis.
 
@@ -21953,7 +21953,7 @@
 ## 3835. suppress ## verb [T]
 /səˈpres/ INFORMATION
 [C2]to prevent information from being known
-- to suppress evidence/news
+- to suppress `evidence/news`
 
 ## 3836. suppress ## verb [T]
 /səˈpres/ FIGHT
@@ -21963,7 +21963,7 @@
 ## 3837. surpass ## verb [T]
 /sərˈpæs/ 
 [C2]to be or do better than someone or something else
-- The book's success surpassed everyone's expectations.
+- The book's success surpassed everyone's `expectations`.
 
 ## 3838. surrender ## verb
 /səˈren.dər/ 
@@ -21973,12 +21973,12 @@
 ## 3839. surround ## verb [T]
 /səˈrɑʊnd/ CONNECTED WITH
 [C2]If a feeling or situation surrounds an event, it is closely connected with it.
-- Mystery still surrounds the exact circumstances of his death.
+- `Mystery` still surrounds the exact circumstances of his death.
 
 ## 3840. suspect ## verb [T]
 /səˈspekt/ NOT TRUST
 [C2]to not trust someone or something
-- She suspected his motives for offering to help.
+- She suspected his `motives` for offering to help.
 
 ## 3841. sustain ## verb [T]
 /səˈsteɪn/ CONTINUE
@@ -21993,7 +21993,7 @@
 ## 3843. swallow ## verb
 /ˈswɑl.oʊ/ ACCEPT
 [C2]to accept something unpleasant
-- They found the final decision hard to swallow.
+- They found the final decision `hard to` swallow.
 
 ## 3844. swallow ## verb
 /ˈswɑl.oʊ/ swallow your anger/disappointment/pride, etc.
@@ -22003,7 +22003,7 @@
 ## 3845. swear ## verb
 /swer/ TRUE
 [C2]used to say that you are sure something is true
-- I could have sworn that she said she lived in Canterbury.
+- I `could have` sworn that she said she lived in Canterbury.
 
 ## 3846. sweep ## verb
 /swiːp/ sweep along/into/past, etc.
@@ -22013,12 +22013,12 @@
 ## 3847. sympathize ## verb [I]
 /ˈsɪm.pəˌθɑɪz/ PROBLEMS
 [C2]to understand and care about someone's problems
-- It's a really bad situation - I do sympathize with her.
+- It's a really bad situation - I do sympathize `with` her.
 
 ## 3848. sympathize ## verb [I]
 /ˈsɪm.pəˌθɑɪz/ IDEAS
 [C2]to agree with or support someone's ideas or actions
-- I sympathize with the general aims of the organization.
+- I sympathize `with` the general aims of the organization.
 
 ## 3849. take ## verb [T]
 /teɪk/ UNDERSTAND
@@ -22068,7 +22068,7 @@
 ## 3858. take ## verb [T]
 /teɪk/ take its toll
 [C2]to have a bad effect on someone or something, especially over a long period of time
-- The stress was starting to take its toll on him.
+- The stress was starting to take its toll `on` him.
 
 ## 3859. take ## verb [T]
 /teɪk/ take a turn for the better/worse
@@ -22099,7 +22099,7 @@
 ## 3864. take ## verb [T]
 /teɪk/ 
 [C2]to become more successful or powerful than something or someone else that is involved in the same type of activity
-- Italy has taken over from Spain as Europe's favorite vacation destination.
+- Italy has taken over `from` Spain as Europe's favorite vacation destination.
 
 ## 3865. talk ## verb [I]
 /tɔːk/ talk about sth/doing sth
@@ -22119,7 +22119,7 @@
 ## 3868. target ## verb [T]
 /ˈtɑr.gɪt/ 
 [C2]to aim advertising, criticism, or a product at someone
-- The products are targeted at people in their late twenties.
+- The products are targeted `at` people in their late twenties.
 
 ## 3869. teach ## verb
 /tiːtʃ/ teach sb a lesson
@@ -22184,12 +22184,12 @@
 ## 3881. think ## verb
 /θɪŋk/ 
 [C2]to think carefully about what might happen in the future, or to make plans for things you want to do in the future
-- I'm already thinking ahead to what I might do when my exams are over.
+- I'm already thinking ahead `to` what I might do when my exams are over.
 
 ## 3882. think ## verb
 /θɪŋk/ 
 [C2]to think about things that happened in the past
-- I thought back to the time when I was living in France.
+- I thought back `to` the time when I was living in France.
 
 ## 3883. thread ## verb [T]
 /θred/ thread a needle
@@ -22235,7 +22235,7 @@
 ## 3891. throw ## verb [I or T]
 /θroʊ/ a stone's throw
 [C2]a very short distance
-- The house is just a stone's throw from the beach.
+- The house is `just` a stone's throw `from` the beach.
 
 ## 3892. tick ## verb [T]
 /tɪk/ 
@@ -22245,7 +22245,7 @@
 ## 3893. tie ## verb
 /tɑɪ/ COMPETITION/GAME
 [C2]to have the same score as someone else at the end of a competition or game
-- Sweden tied with France in the winter sports competition.
+- Sweden tied `with` France in the winter sports competition.
 
 ## 3894. tie ## verb
 /tɑɪ/ tie the knot
@@ -22293,7 +22293,7 @@
 ## 3902. tire ## verb [I or T]
 /tɑɪr/ 
 [C2]to become bored with someone or something, or to stop enjoying an activity
-- Viewers never tire of nature programs.
+- Viewers `never` tire of nature programs.
 - He plays games on his computer for hours on end and doesn't seem to tire of it.
 
 ## 3903. tolerate ## verb [T]
@@ -22304,7 +22304,7 @@
 ## 3904. top ## verb [T]
 /tɑp/ MOST IMPORTANT
 [C2]to be the most important, most successful, etc.
-- The song topped the charts for five weeks.
+- The song topped `the charts` for five weeks.
 
 ## 3905. top ## verb [T]
 /tɑp/ to top it (all) off
@@ -22324,7 +22324,7 @@
 ## 3908. torture ## verb [T]
 /ˈtɔːr.tʃər/ 
 [C2]to cause someone severe pain, often in order to make them tell you something
-- It is claimed that the officers tortured a man to death in 1983 in a city police station.
+- It is claimed that the officers tortured a man `to death` in 1983 in a city police station.
 
 ## 3909. toss ## verb
 /tɔːs/ toss sth away/into/on, etc.
@@ -22351,7 +22351,7 @@
 [C2]to follow a person or animal by looking for proof that they have been somewhere, or by using electronic equipment
 - It's difficult to track an animal over stony ground.
 - The military can use radar satellites to track troop movements on the ground.
-- The lost luggage was tracked to Atlanta.
+- The lost luggage was tracked `to` Atlanta.
 
 ## 3914. track ## verb [T]
 /træk/ RECORD
@@ -22367,7 +22367,7 @@
 /treɪl/ FOLLOW
 [C2]to follow or come behind
 - The sailboats trailed each other across the bay.
-- A string of police cars led the president’s limousine and others trailed behind.
+- A string of police cars led the president’s limousine and others trailed `behind.`
 
 ## 3917. trail ## verb [I or T]
 /treɪl/ LOWER SCORE
@@ -22382,14 +22382,14 @@
 ## 3919. translate ## verb [I or T]
 /trænˈzleɪt/ CAUSE
 [C2]If an idea or plan translates into an action, it makes it happen.
-- So how does this theory translate into practical policy?
+- So how does this theory translate `into` practical policy?
 
 ## 3920. transmit ## verb
 /trænzˈmɪt/ SPREAD
 [C2]to pass something from one person or place to another
-- Cholera is transmitted through contaminated water.
-- Some diseases are transmitted from one generation to the next.
-- Somehow your panic and fear transmits itself to the horse that you're riding.
+- Cholera is transmitted `through` contaminated water.
+- Some diseases are transmitted `from` one generation `to` the next.
+- Somehow your panic and fear transmits itself `to` the horse that you're riding.
 
 ## 3921. treasure ## verb
 /ˈtreʒ.ər/ 
@@ -22404,7 +22404,7 @@
 ## 3923. try ## verb
 /trɑɪ/ LAW
 [C2]to examine facts in a court of law to decide if someone is guilty of a crime
-- He was tried for fraud.
+- He was tried `for` fraud.
 
 ## 3924. turn ## verb
 /tɜrn/ turn your back on sb/sth
@@ -22439,12 +22439,12 @@
 ## 3930. twist ## verb
 /twɪst/ CHANGE MEANING
 [C2]to change the meaning of something so that it fits what you want it to mean
-- You keep twisting my words - that's not what I meant at all!
+- You keep twisting `my words` - that's not what I meant at all!
 
 ## 3931. undermine ## verb [T]
 /ˌʌn.dərˈmɑɪn/ 
 [C2]to make someone less confident or make something weaker
-- A series of scandals have undermined people's confidence in the government.
+- A series of scandals have undermined people's `confidence` in the government.
 
 ## 3932. undertake ## verb [T]
 /ˌʌn.dərˈteɪk/ undertake to do sth
@@ -22469,17 +22469,17 @@
 ## 3936. uphold ## verb [T]
 /ʌpˈhoʊld/ AGREE
 [C2]to agree with a decision, especially a legal one, and say it was correct
-- The court upheld the ruling.
+- The court upheld the `ruling`.
 
 ## 3937. uphold ## verb [T]
 /ʌpˈhoʊld/ SUPPORT
 [C2]to support a decision, principle, or law
-- Police officers are expected to uphold the law.
+- Police officers are expected to uphold `the law`.
 
 ## 3938. urge ## verb [T]
 /ɜrdʒ/ ADVISE
 [C2]to strongly advise an action
-- Financial experts are urging caution.
+- Financial experts are urging `caution`.
 
 ## 3939. urge ## verb [T]
 /ɜrdʒ/ 
@@ -22494,17 +22494,17 @@
 ## 3941. utter ## verb [T]
 /ˈʌt̬.ər/ 
 [C2]to say something
-- She left without uttering a word.
+- She left without uttering `a word`.
 
 ## 3942. vaccinate ## verb [T]
 /ˈvæk.səˌneɪt/ 
 [C2]to give someone a special substance to prevent a disease
-- Have you been vaccinated against polio?
+- Have you been vaccinated `against` polio?
 
 ## 3943. value ## verb [T]
 /ˈvæl.juː/ MONEY
 [C2]to judge how much money something could be sold for
-- The ring was valued at $1000.
+- The ring was valued `at` $1000.
 
 ## 3944. vanish ## verb [I]
 /ˈvæn.ɪʃ/ vanish into thin air
@@ -22536,7 +22536,7 @@
 ## 3949. view ## verb
 /vjuː/ OPINION
 [C2]to have a particular opinion about someone or something
-- The policy is so far viewed as a success.
+- The policy is so far viewed `as` a success.
 
 ## 3950. violate ## verb [T]
 /ˈvɑɪ.ə.leɪt/ 
@@ -22582,12 +22582,12 @@
 ## 3958. wear ## verb [T]
 /wer/ FACE
 [C2]to show a particular emotion on your face.
-- He was wearing a smile/frown.
+- He was wearing a `smile/frown`.
 
 ## 3959. wear ## verb [T]
 /wer/ wear thin
 [C2]If a feeling or explanation starts to wear thin, it becomes weaker or harder to accept.
-- I've warned you several times about being late and my patience is wearing thin.
+- I've warned you several times about being late and my `patience` is wearing thin.
 
 ## 3960. weep ## verb [I or T]
 /wiːp/ 
@@ -22612,7 +22612,7 @@
 ## 3964. wink ## verb [I]
 /wɪŋk/ 
 [C2]to quickly close and then open one eye, in order to be friendly or to show that something is a joke
-- She smiled and winked at me.
+- She smiled and winked `at` me.
 
 ## 3965. wipe ## verb [T]
 /wɑɪp/ 
@@ -22622,7 +22622,7 @@
 ## 3966. withdraw ## verb
 /wɪðˈdrɔː/ COMPETITION
 [C2]to decide that you will not now be in a race, competition, etc.
-- Christie was forced to withdraw from the race because of injury.
+- Christie was forced to withdraw `from` the race because of injury.
 
 ## 3967. withstand ## verb [T]
 /wɪθˈstænd/ 
@@ -22653,6 +22653,6 @@
 ## 3972. yield ## verb
 /jiːld/ 
 [C2]to produce or provide something
-- to yield a profit
-- The investigation yielded results.
+- to yield `a profit`
+- The investigation yielded `results`.
 

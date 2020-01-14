@@ -9,7 +9,7 @@
 ## 2. all ## determiner ; pronoun
 /ɔːl/ EVERY ONE
 [A1]every person or thing in a group
-- I've seen all of his movies.
+- I've seen all `of` his movies.
 - All of us had left by midnight.
 - She's got four children, all under the age of five.
 - "Which of his books did you like best?" "I loved them all."
@@ -24,18 +24,18 @@
 ## 4. any ## determiner ; pronoun
 /ˈen.i/ SOME
 [A1]used in questions and negatives to mean some
-- Is there any more soup? "No, I'm afraid there isn't any left."
-- I haven't seen any of his films.
+- Is there any `more` soup? "No, I'm afraid there isn't any left."
+- I haven't seen any `of` his films.
 - I asked Andrew for some change but he hasn't got any.
 
 ## 5. any ## determiner ; pronoun
 /ˈen.i/ NOT IMPORTANT WHICH
 [A1]one of or each of a particular kind of person or thing when it is not important which
 - Which of these cakes may I eat? "Any."
-- Any of you should be able to answer this question.
+- Any `of` you should be able to answer this question.
 - Any advice that you can give me would be greatly appreciated.
-- We should hear from him any minute/day/time now.
-- There were a lot of computers at the store, any (one) of which would have been fine for me.
+- We should hear from him any `minute/day/time now`.
+- There were a lot of computers at the store, any `(one) of which` would have been fine for me.
 
 ## 6. anything ## pronoun
 /ˈen.iːˌθɪŋ/ IN QUESTIONS/NEGATIVES
@@ -43,7 +43,7 @@
 - Is there anything I can do to help?
 - I didn't eat anything.
 - Did you notice anything strange about him?
-- Was there anything else you wanted to say?
+- Was there anything `else` you wanted to say?
 
 ## 7. anything ## pronoun
 /ˈen.iːˌθɪŋ/ NO MATTER WHICH
@@ -56,13 +56,13 @@
 [A1]used to talk about two people or things
 - Both my parents are teachers.
 - We both had our hair cut today.
-- Both men and women have complained about the advertisement.
-- Both Mike and Jim are redheads/Mike and Jim are both redheads.
-- Are both of us invited, or just you?
-- The problem with both of these proposals is that they are so impractical.
-- I loved them both/I loved both of them.
-- They have two grown children, both of whom live in California.
-- I think it's important to listen to both sides of the argument.
+- Both men `and` women have complained about the advertisement.
+- Both Mike `and` Jim are redheads/Mike and Jim `are` both redheads.
+- Are both `of us` invited, or just you?
+- The problem with both `of these` proposals is that they are so impractical.
+- I loved them both/I loved both `of them`.
+- They have two grown children, both `of whom` live in California.
+- I think it's important to listen to both `sides` of the argument.
 
 ## 9. each ## pronoun
 /iːtʃ/ 
@@ -108,10 +108,10 @@
 - We've known them for many years.
 - I don't have many clothes.
 - Were there many people at the party?
-- Not many people have heard of him.
+- `Not` many people have heard of him.
 - Many people would disagree with your ideas.
-- I've met him so many times and I still can't remember his name!
-- There are too many people applying for too few jobs.
+- I've met him `so` many times and I still can't remember his name!
+- There are `too` many people applying for too few jobs.
 
 ## 16. many ## determiner ; pronoun
 /ˈmen.i/ how many
@@ -135,7 +135,7 @@
 - Would you like some more food?
 - There isn't enough milk - I'll have to buy some more.
 - I need a bit more time.
-- The doctors can't cope with any more patients.
+- The doctors can't cope with `any` more patients.
 
 ## 19. more ## determiner ; pronoun
 /mɔːr/ GREATER AMOUNT
@@ -147,8 +147,8 @@
 /mʌtʃ/ QUESTION
 [A1]In questions, "much" is used to ask about the amount of something.
 - Was there much food there?
-- How much money will I need for the taxi?
-- How much do these shoes cost?
+- `How` much money will I need for the taxi?
+- `How` much do these shoes cost?
 
 ## 21. she ## pronoun
 /ʃiː/ 
@@ -166,19 +166,19 @@
 /sʌm/ NOT ALL
 [A1]used to refer to part of a larger amount or number of something and not all of it
 - In some cases it's possible to fix the problem right away.
-- Some of you here have already met Imran.
-- Have some of this lemonade - it's very good.
+- Some `of` you here have already met Imran.
+- Have some `of` this lemonade - it's very good.
 
 ## 24. something ## pronoun
 /ˈsʌm.θɪŋ/ THING
 [A1]used to refer to a thing when you do not know what it is or when it is not important what it is
 - There's something in my shoe.
-- Can I read you something else?
-- You should take something for that cold.
-- We thought there must be something wrong because we hadn't heard from you.
+- Can I read you something `else`?
+- You should `take` something `for` that cold.
+- We thought there must be something `wrong` because we hadn't heard from you.
 - Something's happened to upset him but we don't know what it is.
 - Is there something you'd like to say?
-- Don't just stand there, do something.
+- Don't just stand there, `do` something.
 
 ## 25. that ## pronoun
 /ðæt/ CAN BE SEEN
@@ -290,14 +290,14 @@
 [A2]one more person or thing, or an additional amount
 - I'm going to have another piece of cake.
 - "Would you get me a bar of chocolate from the kitchen?" "Another one?"
-- For another $30, you can buy the model with remote control.
+- `For` another $30, you can buy the model with remote control.
 - Just think, in another three months it'll be summer again.
 
 ## 42. another ## determiner ; pronoun
 /əˈnʌð.ər/ DIFFERENT
 [A2]a different person or thing of the same type
-- She's finished with that boyfriend and found herself another (one).
-- Do you want to exchange this toaster for another (one) or do you want your money back?
+- She's finished with that boyfriend and found herself another `(one)`.
+- Do you want to exchange this toaster for another `(one)` or do you want your money back?
 
 ## 43. anybody ## pronoun
 /ˈen.iːˌbɑd.i/ IN QUESTIONS/NEGATIVES
@@ -316,15 +316,15 @@
 [A2]used to show that each person in a group of two or more people does something to the others
 - They kept looking at each other and smiling.
 - They're always wearing each other's clothes.
-- Why are you always arguing with each other?
+- Why are you always arguing `with` each other?
 
 ## 46. enough ## determiner ; pronoun
 /ɪˈnʌf/ NECESSARY AMOUNT
 [A2]as much as is necessary
-- Is there enough cake for everyone?
-- Have you had enough to eat?
+- Is there enough cake `for` everyone?
+- Have you had enough `to` eat?
 - There are 25 textbooks for the class - that should be enough.
-- I know enough about art to realize that this painting is special.
+- I know enough about art `to` realize that this painting is special.
 
 ## 47. everybody ## pronoun
 /ˈev.riːˌbɑd.i/ 
@@ -332,7 +332,7 @@
 - Everybody thought it was a good idea.
 - I've received replies from everybody except Jane.
 - Goodbye, everybody - see you next week.
-- I'm sorry, but you'll just have to wait your turn like everybody else.
+- I'm sorry, but you'll just have to wait your turn like everybody `else`.
 
 ## 48. everyone ## pronoun
 /ˈev.riː.wʌn/ 
@@ -340,7 +340,7 @@
 - Everyone agreed with me.
 - Everyone involved in the accident has been questioned by the police.
 - Would everyone who wishes to attend the dinner let me know by Friday afternoon?
-- I had dressed up but everyone else was wearing jeans.
+- I had dressed up but everyone `else` was wearing jeans.
 
 ## 49. everything ## pronoun
 /ˈev.riːˌθɪŋ/ 
@@ -349,22 +349,22 @@
 - You can't blame him for everything.
 - Everything looks so much nicer in the sunshine.
 - Is everything all right, Angela?
-- The fish wasn't very fresh, but everything else tasted good.
+- The fish wasn't very fresh, but everything `else` tasted good.
 
 ## 50. few ## determiner ; adjective ; pronoun
 /fjuː/ a few
 [A2]some, or a small number of
-- I'll be ready in a few minutes.
-- I need to pick up a few things in town.
-- We've been having a few problems with the new computer.
+- I'll be ready in a few `minutes`.
+- I need to pick up a few `things` in town.
+- We've been having a few `problems` with the new computer.
 - "How many potatoes do you want?" - "Oh, just a few, please."
-- I've met a few of his friends.
+- I've met a few `of` his friends.
 
 ## 51. half ## noun ; pronoun ; determiner
 /hæf/ PART
 [A2]one of two equal parts of something
-- Rice is eaten by half of the world's population.
-- It'll take half an hour/a half hour to get there.
+- Rice is eaten by half `of` the world's population.
+- It'll take half `an hour`/`a` half `hour` to get there.
 - Jenny lived in Beijing for a year and a half.
 - He cut up the apple and gave me half.
 
@@ -372,7 +372,7 @@
 /hɜrz/ 
 [A2]used to show that something belongs to or is connected with a woman, girl, or female animal that has just been mentioned
 - Jenny and I both have red hair, but hers is lighter than mine.
-- I just met a cousin of hers.
+- I just met a cousin `of hers`.
 
 ## 53. herself ## pronoun
 /hərˈself/ REFLEXIVE
@@ -384,7 +384,7 @@
 /hərˈself/ (by) herself
 [A2]alone or without anyone else's help
 - She lives by herself in an enormous house.
-- Holly's only three but she wrote her name all by herself.
+- Holly's only three but she wrote her name `all` by herself.
 - She couldn't manage to lift it herself.
 - She decorated the cake herself.
 
@@ -397,7 +397,7 @@
 ## 56. himself ## pronoun
 /hɪmˈself/ (by) himself
 [A2]alone or without anyone else's help
-- He built the house all by himself.
+- He built the house `all` by himself.
 - He lives by himself in a remote cabin.
 - Did he do all this work himself?
 
@@ -405,7 +405,7 @@
 /hɪz/ 
 [A2]the things that belong or relate to someone male who has already been talked about
 - That's Frank's coat over there - at least I think it's his.
-- I borrowed them from a friend ofhis.
+- I borrowed them from a friend `of`his.
 
 ## 58. it ## pronoun
 /ɪt/ TIME/WEATHER
@@ -429,7 +429,7 @@
 [A2]the things that belong or relate to the person who is speaking or writing
 - Whose bag is this? "It's mine."
 - Your son is the same age as mine.
-- She's an old friend of mine.
+- She's an old friend `of` mine.
 - Can I use your pen? Mine's not working.
 
 ## 62. more ## determiner ; pronoun
@@ -440,15 +440,15 @@
 ## 63. most ## pronoun
 /moʊst/ ALMOST ALL
 [A2]almost all
-- In this school, most of the children are from the Chinese community.
-- Most of our students walk to school.
+- In this school, most `of` the children are from the Chinese community.
+- Most `of` our students walk to school.
 
 ## 64. much ## determiner ; pronoun
 /mʌtʃ/ NEGATIVE
 [A2]In negative sentences, "much" is used to say that there is not a large amount of something.
 - She doesn't earn much money.
 - Peter didn't say much in the meeting.
-- "Is there any wine left?" "Not much."
+- "Is there any wine left?" "`Not` much."
 
 ## 65. much ## determiner ; pronoun
 /mʌtʃ/ too much/so much
@@ -467,7 +467,7 @@
 /mɑɪˈself/ (by) myself
 [A2]alone or without anyone's help
 - I couldn't carry all the luggage by myself.
-- I spent the night all by myself.
+- I spent the night `all` by myself.
 - I made this chair myself.
 
 ## 68. no one ## pronoun
@@ -476,7 +476,7 @@
 - No one told me she was sick.
 - There was no one there.
 - "Who was there?" "No one you would know."
-- I'd like to go to the concert but no one else wants to.
+- I'd like to go to the concert but no one `else` wants to.
 
 ## 69. nobody ## pronoun
 /ˈnoʊ.bɑd.i/ 
@@ -484,7 +484,7 @@
 - Nobody called.
 - Nobody agreed with me.
 - There was nobody there I could ask.
-- Sally helped me but nobody else bothered.
+- Sally helped me but nobody `else` bothered.
 
 ## 70. nothing ## pronoun
 /ˈnʌθ.ɪŋ/ NOT ANYTHING
@@ -493,24 +493,24 @@
 - There's nothing left.
 - Nothing I could say would cheer her up.
 - I have nothing new to tell you.
-- There's nothing else we can do to help.
-- There's nothing much to do in our village.
-- She did nothing but criticize.
+- There's nothing `else` we can do to help.
+- There's nothing `much` to do in our village.
+- She did nothing `but` criticize.
 
 ## 71. one ## pronoun
 /wʌn/ PARTICULAR PERSON/THING
 [A2]used to refer to a particular person or thing in a group that has already been talked about
 - I've got a few books on Chinese cooking. You can borrow one if you like.
-- Which one would you like?
+- `Which` one would you like?
 - Would you make a copy for everybody in the office and a few extras for the visitors?
-- "Which cupcake would you like?" "The one in the front."
+- "Which cupcake would you like?" "`The` one in the front."
 - There were lots of people standing watching, and not one of them offered to help.
 
 ## 72. other ## pronoun
 /ˈʌð.ər/ BELONGING TO GROUP
 [A2]used to refer to a person or thing which belongs to a group or set that you have already talked about
-- Hold the racket in one hand and the ball in the other.
-- She gave me one book last week and promised to bring the others on Wednesday.
+- Hold the racket in one hand and the ball in `the` other.
+- She gave me one book last week and promised to bring `the` others on Wednesday.
 - Some people prefer living in the city, but others perfer the suburbs.
 
 ## 73. other ## pronoun
@@ -518,7 +518,7 @@
 [A2]used to show that each person in a group of two or more people does something to the others
 - They kept looking at each other and smiling.
 - They're always wearing each other's clothes.
-- Why are you always arguing with each other?
+- Why are you always arguing `with` each other?
 
 ## 74. ours ## pronoun
 /ɑʊrz/ 
@@ -533,7 +533,7 @@
 [A2]the reflexive form of the pronoun "we"
 - We really enjoyed ourselves.
 - We promised ourselves a good vacation this year.
-- The hotel was very quiet so we had the swimming pool all to ourselves.
+- The hotel was very quiet so we `had` the swimming pool all `to` ourselves.
 
 ## 76. ourselves ## pronoun
 /ɑʊrˈselvz/ (by) ourselves
@@ -546,7 +546,7 @@
 [A2]belonging to or done by a particular person or thing
 - All of the students have their own dictionaries.
 - She has her own apartment.
-- She makes all her own clothes.
+- She makes `all her` own clothes.
 - I'm going to be out tonight, so you'll have to get your own dinner.
 - Was that your own idea or did someone suggest it to you?
 - "Is that your mom's car?" "No, it's my own."
@@ -554,7 +554,7 @@
 ## 78. same ## pronoun
 /seɪm/ the same
 [A2]exactly like
-- People say I look the same as my sister.
+- People say I look the same `as` my sister.
 - John thinks the same as I do - it's just too expensive.
 - She always had a quick laugh, and her mother was the same.
 
@@ -563,7 +563,7 @@
 [A2]some, but not a lot
 - I've seen "Gone with the Wind" several times.
 - Several people have complained about the plan.
-- Several of my friends are learning English at language schools in Seattle.
+- Several `of` my friends are learning English at language schools in Seattle.
 
 ## 80. somebody ## pronoun
 /ˈsʌmˌbɑd.i/ 
@@ -576,7 +576,7 @@
 - There's someone outside the house.
 - Someone must have seen what happened.
 - Eventually someone in the audience spoke.
-- You'll have to ask someone else.
+- You'll have to ask someone `else`.
 
 ## 82. something ## pronoun
 /ˈsʌm.θɪŋ/ or something (like that)
@@ -609,7 +609,7 @@
 ## 87. themselves ## pronoun
 /ðəmˈselvz/ (by) themselves
 [A2]alone or without anyone else's help
-- The kids arranged the party all by themselves.
+- The kids arranged the party `all` by themselves.
 - They did the catering themselves.
 - They've decided to run the club themselves.
 
@@ -650,7 +650,7 @@
 ## 93. which ## pronoun
 /wɪtʃ/ CHOICE
 [A2]used to ask or talk about a choice between two or more things
-- Which of these do you like best?
+- Which `of` these do you like best?
 - Which is the best way to the station?
 
 ## 94. which ## pronoun
@@ -684,7 +684,7 @@
 [A2]used to show that something belongs to or is connected with the person or group of people being spoken or written to
 - Is this pen yours?
 - Unfortunately, my legs aren't as long as yours.
-- I have something of yours.
+- I have something `of` yours.
 
 ## 99. yourself ## pronoun
 /jərˈself/ PERSON/PEOPLE ADDRESSED
@@ -694,7 +694,7 @@
 ## 100. yourself ## pronoun
 /jərˈself/ (by) yourself
 [A2]alone or without anyone else's help
-- We didn't mean to leave you all by yourself.
+- We didn't mean to leave you `all` by yourself.
 - Can you lift it by yourself?
 - Did you make the dress yourself?
 - You can do that yourself.
@@ -772,9 +772,9 @@
 [B1]a small number, not many or not enough
 - He is among the few people I can trust.
 - Very few people can afford to pay those prices.
-- Few of the children can read or write yet.
+- Few `of` the children can read or write yet.
 - We get few complaints.
-- According to the survey, as few as 10% of us are happy in our jobs.
+- According to the survey, `as` few `as` 10% of us are happy in our jobs.
 
 ## 114. half ## noun ; pronoun ; determiner
 /hæf/ break/cut, etc. sth in half
@@ -785,8 +785,8 @@
 ## 115. itself ## pronoun
 /ɪtˈself/ (by) itself
 [B1]alone or without help
-- The dog was in the house by itself for several days.
-- The dog managed to drag the box into the room by itself.
+- The dog was in the house `by` itself for several days.
+- The dog managed to drag the box into the room `by` itself.
 - I didn't take any medicine for the cough - it just got better itself.
 
 ## 116. itself ## pronoun
@@ -805,8 +805,8 @@
 - I could only hear a little of what they were saying.
 - He does as little as possible at work.
 - There's not much flour left but you're welcome to the/what little there is.
-- She slept very little that night.
-- We did very little on Sunday.
+- She slept `very` little that night.
+- We did `very` little on Sunday.
 
 ## 119. little ## pronoun
 /ˈlɪt̬.əl/ a little
@@ -821,10 +821,10 @@
 ## 121. none ## pronoun
 /nʌn/ 
 [B1]not any
-- None of us smoke(s).
-- None of my children has/have blond hair.
+- None `of` us smoke(s).
+- None `of` my children has/have blond hair.
 - "I'd like some more cheese." "I'm sorry there's none left".
-- "Have you any idea how much this cost?" "None at all/None whatsoever."
+- "Have you any idea how much this cost?" "None `at all`/None `whatsoever`."
 
 ## 122. nothing ## pronoun
 /ˈnʌθ.ɪŋ/ NOT IMPORTANT
@@ -847,7 +847,7 @@
 /oʊn/ of your own
 [B1]belonging to someone or something
 - I'll have a home of my own someday.
-- He wanted an apartment of his own.
+- He wanted an apartment `of his` own.
 
 ## 126. own ## adjective ; pronoun
 /oʊn/ (all) on your own
@@ -863,15 +863,15 @@
 /ˈplen.t̬i/ 
 [B1](the state of having) enough or more than enough, or a large amount
 - Would you like some more coffee? "No thanks, I've had plenty."
-- We've got plenty of time before we need to leave for the airport.
-- They've always had plenty of money.
-- There's plenty to do here.
-- There's plenty more beer in the fridge.
+- We've got plenty `of time` before we need to leave for the airport.
+- They've always had plenty `of money`.
+- There's plenty `to do` here.
+- There's plenty `more` beer in the fridge.
 
 ## 129. same ## pronoun
 /seɪm/ the same
 [B1]not another different thing or situation
-- I'm terrible at physics, and it's the same with chemistry - I get it all wrong.
+- I'm terrible at physics, and `it's` the same `with` chemistry - I get it all wrong.
 - I'd do the same if I was in your position.
 
 ## 130. them ## pronoun
@@ -896,8 +896,8 @@
 - She wouldn't tell me what he said.
 - What I like most about her is her honesty.
 - The letter showed clearly what they were planning.
-- I can't decide what to do next.
-- Have you thought about what to send as a present?
+- I can't decide what `to` do next.
+- Have you thought about what `to` send as a present?
 
 ## 134. what ## pronoun
 /wʌt/ What about ...?
@@ -978,16 +978,16 @@
 ## 148. enough ## determiner ; pronoun
 /ɪˈnʌf/ NEGATIVE COMMENT
 [B2]as much as or more than is wanted
-- I've got enough work to do at the moment, without being given any more.
-- Half an hour in his company is quite enough!
-- Stop. You've made enough of a mess already.
-- You've drunk more than enough juice already.
-- I've had enough of your excuses.
+- I've got enough work `to` do at the moment, without being given any more.
+- Half an hour in his company is `quite` enough!
+- Stop. You've made enough `of a` mess already.
+- You've drunk `more than` enough juice already.
+- I've `had` enough `of` your excuses.
 
 ## 149. everything ## pronoun
 /ˈev.riːˌθɪŋ/ be/mean everything
 [B2]to be the most important part of someone's life
-- His children mean everything to him.
+- His children `mean` everything `to` him.
 - Money isn't everything.
 
 ## 150. former ## pronoun
@@ -999,7 +999,7 @@
 /hæf/ A LOT
 [B2]a lot
 - She invited a lot of people to the party but half of them didn't show up.
-- I don't even know where she is half (of) the time.
+- I don't even know where she is half `(of) the time`.
 
 ## 152. half ## noun ; pronoun ; determiner
 /hæf/ not half as good/bad/exciting, etc.
@@ -1051,8 +1051,8 @@
 [B2]less than anyone or anything else
 - He contributed least to the workshop.
 - Which car costs the least?
-- He's the relative I like (the) least.
-- Putting him up for the night was the least I could do.
+- He's the relative I like `(the)` least.
+- Putting him up for the night was `the` least `I could do`.
 
 ## 162. little ## pronoun
 /ˈlɪt̬.əl/ little by little
@@ -1067,8 +1067,8 @@
 ## 164. most ## pronoun
 /moʊst/ MORE
 [B2]more than anyone or anything else
-- Everyone was generous but Lizzie gave the most.
-- This one costs the most.
+- Everyone was generous but Lizzie gave `the` most.
+- This one costs `the` most.
 
 ## 165. most ## pronoun
 /moʊst/ make the most of sth
@@ -1085,7 +1085,7 @@
 /ˈniː.ðər/ 
 [B2]not either of two people or things
 - Luckily, neither child was hurt in the accident.
-- Neither of us had ever been to London before.
+- Neither `of` us had ever been to London before.
 - They gave us two keys, but neither worked.
 - "Which one would you choose?" "Neither."
 
@@ -1093,7 +1093,7 @@
 /nekst/ THING FOLLOWING
 [B2]the person or thing that follows the present person or thing
 - Who's next to see the nurse?
-- Blue roses? What's next?
+- Blue roses? `What's` next?
 
 ## 169. next ## pronoun
 /nekst/ the weekend/week/Thursday, etc. after next
@@ -1145,14 +1145,14 @@
 ## 178. other ## pronoun
 /ˈʌð.ər/ others
 [B2]more similar ones
-- This one is broken - do you have any others?
+- This one is broken - do you have `any` others?
 - I only know about this book, but there might be others.
 
 ## 179. same ## pronoun
 /seɪm/ the same
 [B2]not changed
-- After all these years you look exactly the same - you haven't changed a bit.
-- Charles is just the same as always.
+- After all these years you look `exactly` the same - you haven't changed a bit.
+- Charles is just the same `as` always.
 
 ## 180. that ## pronoun
 /ðæt/ PAST
@@ -1163,8 +1163,8 @@
 /ðæt/ REACTION
 [B2]used to express a reaction to something
 - I didn't know she'd been so ill. That's terrible.
-- Turn the engine on, then put the car in gear. That's right.
-- Smile for the camera. That's more like it.
+- Turn the engine on, then put the car in gear. That's `right`.
+- Smile for the camera. That's `more like it`.
 
 ## 182. themselves ## pronoun
 /ðəmˈselvz/ EMPHASIS
@@ -1175,7 +1175,7 @@
 ## 183. they ## pronoun
 /ðeɪ/ PEOPLE
 [B2]people in general
-- They say that breaking a mirror brings you seven years' bad luck.
+- They `say` that breaking a mirror brings you seven years' bad luck.
 
 ## 184. those ## determiner ; pronoun
 /ðəʊz/ those who/that
@@ -1208,9 +1208,9 @@
 ## 189. which ## pronoun
 /wɪtʃ/ AFTER PREPOSITION
 [B2]used after a preposition to show what thing is being referred to
-- Is that the film in which she sings?
-- The death of his son was an experience from which he never fully recovered.
-- It isn't a subject to which I devote a great deal of thought.
+- Is that the film `in` which she sings?
+- The death of his son was an experience `from` which he never fully recovered.
+- It isn't a subject `to` which I devote a great deal of thought.
 
 ## 190. which ## pronoun
 /wɪtʃ/ GIVING OPINION
@@ -1221,7 +1221,7 @@
 /wɪˈtʃev.ər/ 
 [B2]any of a group of similar things
 - We can go to the seven o'clock performance or the eight - whichever works best.
-- You can choose whichever of those dates is best for you.
+- You can choose whichever `of` those dates is best for you.
 
 ## 192. who ## pronoun
 /huː/ Who cares?
@@ -1243,9 +1243,9 @@
 ## 195. whom ## pronoun
 /huːm/ 
 [B2]used instead of 'who' as the object of a verb or preposition
-- I met a man with whom I used to work.
-- There were 500 passengers, of whom 121 drowned.
-- To whom do you wish to speak?
+- I met a man `with` whom I used to work.
+- There were 500 passengers, `of` whom 121 drowned.
+- `To` whom do you wish to speak?
 
 ## 196. yourself ## pronoun
 /jərˈself/ EMPHASIS
@@ -1285,7 +1285,7 @@
 ## 203. enough ## determiner ; pronoun
 /ɪˈnʌf/ have had enough
 [C1]to want something to stop because it is annoying you
-- I've had enough of your excuses.
+- I've had enough `of` your excuses.
 
 ## 204. everything ## pronoun
 /ˈev.riːˌθɪŋ/ do everything in your power to do sth
@@ -1316,7 +1316,7 @@
 ## 209. much ## determiner ; pronoun
 /mʌtʃ/ A LOT OF
 [C1]a lot of
-- Much of the evidence was unreliable.
+- Much `of` the evidence was unreliable.
 - Much work remains to be done.
 
 ## 210. much ## determiner ; pronoun

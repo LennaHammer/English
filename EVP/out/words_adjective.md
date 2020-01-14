@@ -1,7 +1,7 @@
 ## 1. OK ## adjective
 /oʊˈkeɪ/ NOT SICK/UPSET, ETC.
 [A1]not sick, damaged, upset, etc.
-- Are you OK? You look pale.
+- `Are you` OK? You look pale.
 - How's Paola? Is she okay after her fall yesterday?
 - "Is everything OK with you?" "Yes, fine."
 - I'll just check that the car's okay - that was a big bang!
@@ -9,16 +9,16 @@
 ## 2. all right ## adjective [never before noun] ; adverb
 /ɔːlˈrɑɪt/ WITHOUT PROBLEMS
 [A1]happening successfully or without problems
-- Did the interview go all right?
-- Did he do all right on his exam?
+- Did the interview `go` all right?
+- Did he `do` all right on his exam?
 - Did you get home all right last night?
 
 ## 3. bad ## adjective
 /bæd/ UNPLEASANT
 [A1]unpleasant; causing difficulties or harm
-- Our vacation was ruined by bad weather.
-- We've just had some very bad news.
-- Watch out - he's in a bad mood.
+- Our vacation was ruined by bad `weather`.
+- We've just had some very bad `news`.
+- Watch out - he's in a bad `mood`.
 - The traffic was so bad that I just came back home.
 
 ## 4. beautiful ## adjective
@@ -37,39 +37,39 @@
 ## 6. best ## adjective
 /best/ BETTER THAN ALL
 [A1](superlative of good) better than any other
-- She was my best friend.
+- She was my best `friend`.
 - This is the best meal I've ever had.
 - He's one of our best students.
-- Are you sure this is the best way of doing it?
-- Your parents only want what is best for you.
+- Are you sure this is the best `way` of doing it?
+- Your parents only want what is best `for` you.
 
 ## 7. better ## adjective
 /ˈbet̬.ər/ HIGHER STANDARD
 [A1](comparative of good) of a higher quality, more effective, or more enjoyable than something or someone else
 - She found a better job.
-- The movie was better than I expected.
-- She is a lot better at tennis than I am.
-- If you cook it this way it's much better.
+- The movie was better `than` I expected.
+- She is a lot better `at` tennis than I am.
+- If you cook it this way it's `much` better.
 - Relations between the two countries have never been better.
 - He stood near the front to get a better view.
-- The situation is getting better all the time.
-- The longer you keep this wine, the better it tastes.
-- The bed was hard, but it was better than nothing.
+- The situation is `getting` better all the time.
+- The longer you keep this wine, `the` better it tastes.
+- The bed was hard, but it was better `than nothing`.
 
 ## 8. better ## adjective
 /ˈbet̬.ər/ HEALTHY
 [A1]healthy, or less ill than before
-- Do you feel better now?
+- Do you `feel` better now?
 - Is your stomach ache better?
-- I hope you get better soon.
+- I hope you `get` better soon.
 
 ## 9. big ## adjective
 /bɪg/ SIZE
 [A1]large in size or amount
 - He's a big man.
 - Could I try these shoes in a bigger size?
-- I had a great big piece of chocolate cake.
-- A thousand people took part in the county's biggest ever bike race.
+- I had a `great` big piece of chocolate cake.
+- A thousand people took part in the county's biggest `ever` bike race.
 
 ## 10. black ## adjective
 /blæk/ COLOR
@@ -79,7 +79,7 @@
 ## 11. blue ## adjective
 /bluː/ COLOR
 [A1]being the same color as the sky when there are no clouds
-- a dark/light/pale blue jacket
+- a `dark/light/pale` blue jacket
 - She has big blue eyes.
 
 ## 12. boring ## adjective
@@ -91,17 +91,17 @@
 ## 13. brown ## adjective
 /brɑʊn/ 
 [A1]being the color of chocolate or soil
-- dark/light brown
+- `dark/light` brown
 - Both my parents have curly brown hair.
 
 ## 14. busy ## adjective
 /ˈbɪz.i/ PERSON
 [A1]If you are busy, you are working hard, or giving your attention to a particular thing
 - Mom was busy in the kitchen.
-- The kids are busy with their homework.
+- The kids are busy `with` their homework.
 - She's busy writing out the wedding invitations.
-- I've got plenty of jobs to keep you busy.
-- He was too busy talking to notice us come in.
+- I've got plenty of jobs to `keep` you busy.
+- He was `too` busy talking `to` notice us come in.
 
 ## 15. busy ## adjective
 /ˈbɪz.i/ PLACE
@@ -115,7 +115,7 @@
 - I got a cheap flight at the last minute.
 - Food is usually cheaper in supermarkets.
 - Children and the elderly can get to cheap tickets.
-- Her new car gets 40 miles per gallon, so its pretty cheap to operate.
+- Her new car gets 40 miles per gallon, so its pretty cheap `to` operate.
 
 ## 17. clean ## adjective
 /kliːn/ NOT DIRTY
@@ -127,9 +127,9 @@
 ## 18. close ## adjective
  NEAR
 [A1]near in distance, position or time
-- His house is close to the sea.
-- Don't get too close to the dog, Rosie.
-- It was close to lunchtime when we arrived.
+- His house is close `to` the sea.
+- Don't get too close `to` the dog, Rosie.
+- It was close `to` lunchtime when we arrived.
 
 ## 19. closed ## adjective
 /kloʊzd/ NOT OPEN
@@ -150,14 +150,14 @@
 - cold food/water
 - cold hands
 - My feet are so cold.
-- It's freezing cold today.
+- It's `freezing` cold today.
 
 ## 22. dark ## adjective
 /dɑrk/ NOT PALE
 [A1]nearer to black than white in color
 - dark blue/green
 - dark clouds
-- He's got dark hair and blue eyes.
+- He's got dark `hair` and blue eyes.
 
 ## 23. dear ## adjective
 /dɪr/ IN LETTERS
@@ -169,57 +169,57 @@
 [A1]not the same
 - She seems to wear something different every day.
 - We're reading a different book this week.
-- Emily is very/completely different from her sister.
-- That's totally different than my experience in school.
-- There are many different types/kinds of bacteria.
+- Emily is `very/completely` different `from` her sister.
+- That's totally different `than` my experience in school.
+- There are many different `types/kinds` of bacteria.
 
 ## 25. difficult ## adjective
 /ˈdɪf.ə.kəlt/ NOT EASY
 [A1]when something is not easy to do or understand
-- a difficult problem/choice/task
-- It will be very difficult to prove that they are guilty.
-- Many things make it difficult for women to reach the top in business.
-- He finds it extremely difficult being a single parent.
+- a difficult `problem/choice/task`
+- It will be very difficult `to` prove that they are guilty.
+- Many things make `it` difficult `for` women `to` reach the top in business.
+- He finds `it` extremely difficult being a single parent.
 
 ## 26. easy ## adjective
 /ˈiː.zi/ 
 [A1]not difficult
 - an easy exam
-- Would a ten o'clock appointment be easier for you?
-- It's easy to see why he's so popular.
-- She's very easy to talk to.
-- The easiest thing to do would be for us to take the train home.
+- Would a ten o'clock appointment be easier `for` you?
+- It's easy `to` see why he's so popular.
+- She's very easy `to` talk to.
+- The easiest thing `to` do would be for us to take the train home.
 
 ## 27. excited ## adjective
 /ɪkˈsɑɪt̬.əd/ 
 [A1]feeling very happy and enthusiastic
-- Are you getting excited about your vacation?
+- Are you getting excited `about` your vacation?
 - An excited crowd waited for the singer to arrive.
 
 ## 28. exciting ## adjective
 /ɪkˈsɑɪt̬.ɪŋ/ 
 [A1]making you feel very happy and enthusiastic
 - an exciting movie/game
-- You're going to Africa? How exciting!
+- You're going to Africa? `How` exciting!
 
 ## 29. expensive ## adjective
 /ɪkˈspen.sɪv/ 
 [A1]costing a lot of money
 - expensive jewelry
 - He buys very expensive clothes.
-- It's expensive to own a car.
-- She has expensive taste.
+- It's expensive `to` own a car.
+- She has expensive `taste`.
 
 ## 30. famous ## adjective
 /ˈfeɪ.məs/ 
 [A1]known and recognized by many people
-- a famous actor
-- New York is a city famous for its theaters and nightlife.
+- a famous `actor`
+- New York is a city famous `for` its theaters and nightlife.
 
 ## 31. fast ## adjective
 /fæst/ 
 [A1]moving or happening quickly, or able to move or happen quickly
-- fast cars
+- fast `cars`
 - a fast swimmer
 - Computers are getting faster all the time.
 - The fast train to London takes less than an hour.
@@ -227,7 +227,7 @@
 ## 32. fat ## adjective
 /fæt/ 
 [A1]Someone who is fat weighs too much.
-- He eats all the time but he never gets fat.
+- He eats all the time but he never `gets` fat.
 
 ## 33. favorite ## adjective [always before noun]
 /ˈfeɪ.və.rɪt/ 
@@ -252,22 +252,22 @@
 [A1]coming before all others
 - This is my first trip to New York.
 - Karen was the first person to arrive.
-- We met for the first time yesterday.
+- We met `for the` first `time` yesterday.
 
 ## 37. funny ## adjective
 /ˈfʌn.i/ MAKING YOU LAUGH
 [A1]making you smile or laugh
-- Do you know any funny stories/jokes?
+- Do you know any funny `stories/jokes`?
 - I've never found Charlie Chaplin very funny.
 - It's a really funny movie.
 - It's not funny - don't laugh!
-- No matter how serious the situation there always seems to be a funny side to it.
+- No matter how serious the situation there always seems to be a funny `side` to it.
 
 ## 38. good ## adjective
 /gʊd/ PLEASANT
 [A1]enjoyable, pleasant or interesting
 - a good book/film
-- Did you have a good time at the party?
+- Did you have a good `time` at the party?
 
 ## 39. good ## adjective
 /gʊd/ HIGH QUALITY
@@ -291,14 +291,14 @@
 /gʊd/ SUCCESSFUL
 [A1]successful, or able to do something well
 - Kate's a good cook.
-- She's very good at geography.
-- He's very good with children.
+- She's very good `at` geography.
+- He's very good `with` children.
 
 ## 43. good ## adjective
 /gʊd/ KIND
 [A1]kind or helpful
-- a good friend
-- He's very good to his mother.
+- a good `friend`
+- He's very good `to` his mother.
 
 ## 44. good ## adjective
 /gʊd/ good for you
@@ -327,11 +327,11 @@
 ## 48. happy ## adjective
 /ˈhæp.i/ PLEASED
 [A1]feeling, showing, or causing pleasure
-- She looks so/very happy.
-- I'm glad you've found someone who makes you happy.
-- a happy marriage/childhood
+- She looks `so/very` happy.
+- I'm glad you've found someone who `makes` you happy.
+- a happy `marriage/childhood`
 - Nicole seems a lot happier since she got a new job.
-- I'm so happy (that) everything is working out for you.
+- I'm so happy `(that)` everything is working out for you.
 
 ## 49. happy ## adjective
 /ˈhæp.i/ happy birthday/New Year, etc.
@@ -343,40 +343,40 @@
 /hɑrd/ DIFFICULT
 [A1]difficult to understand or do
 - There were some really hard questions on the test.
-- It's hard being an immigrant.
-- Her handwriting is very hard to read.
-- The game gets harder on every new level.
+- It's hard `being` an immigrant.
+- Her handwriting is very hard `to` read.
+- The game `gets` harder on every new level.
 
 ## 51. hot ## adjective
 /hɑt/ VERY WARM
 [A1]having a high temperature
 - a hot, sunny day
-- hot weather
-- a hot drink/meal
+- hot `weather`
+- a hot `drink/meal`
 - It's too hot in here. Can we turn down the heat?
 - Bake the pie in a hot oven (425°F) for 40 minutes.
 
 ## 52. hungry ## adjective
 /ˈhʌŋ.gri/ 
 [A1]wanting or needing food
-- By four o'clock I felt/was really hungry.
+- By four o'clock I `felt/was` really hungry.
 - The boys are always hungry when they get home from school.
-- She often goes hungry herself so that her children can have enough to eat.
+- She often `goes` hungry herself so that her children can have enough to eat.
 
 ## 53. important ## adjective
 /ɪmˈpɔːrt.ənt/ VALUABLE
 [A1]valuable, useful or necessary
-- It’s important to tell the doctor all your symptoms.
+- It’s important `to` tell the doctor all your symptoms.
 - What are the most important ideas in this text?
-- It's important that you be here by 5 o'clock.
-- The important thing is to keep the heat low or the sugar will burn.
+- It's important `that` you be here by 5 o'clock.
+- `The` important `thing` is to keep the heat low or the sugar will burn.
 
 ## 54. interesting ## adjective
 /ˈɪn.trə.stɪŋ/ 
 [A1]Someone or something that is interesting keeps your attention because they are unusual, exciting, or have a lot of ideas.
 - She's quite an interesting woman.
 - She's got some very interesting things to say on the subject.
-- It is always interesting to hear other people's point of view.
+- It is always interesting `to` hear other people's point of view.
 
 ## 55. last ## adjective ; determiner
 /læst/ last week/year/Monday, etc.
@@ -394,7 +394,7 @@
 /leɪt/ AFTER
 [A1]happening or arriving after the planned, expected, usual or necessary time
 - This train is always late.
-- You'll be late for school if you don't hurry up.
+- You'll be late `for` school if you don't hurry up.
 - Sorry I'm late. I was caught in traffic.
 - We always have a late breakfast on Sunday mornings.
 
@@ -430,7 +430,7 @@
 /lɔːŋ/ TIME
 [A1]continuing for a large amount of time
 - a long movie/meeting
-- I've been waiting a long time.
+- I've been waiting a long `time`.
 - It's a long time since I lived there.
 - Apparently the sessions are an hour long.
 
@@ -447,7 +447,7 @@
 /nuː/ RECENTLY CREATED
 [A1]recently made or having started to exist recently
 - a new car
-- She's very creative and always coming up with new ideas.
+- She's very creative and always coming up with new `ideas`.
 - What's new in the fashion world?
 - We have to invest in new technology if we are to remain competitive.
 - It was a new bike - she never buys anything second-hand.
@@ -480,24 +480,24 @@
 [A1]pleasant or attractive
 - Did you have a nice holiday?
 - They live in a nice house.
-- Have a nice day/time!
+- Have a nice `day/time`!
 - Thanks for calling - it's been nice talking to you.
-- You look nice in that dress.
+- You `look` nice in that dress.
 
 ## 69. nice ## adjective
 /nɑɪs/ KIND
 [A1]kind and friendly
 - He's a really nice guy.
 - She seemed very nice.
-- She was very nice to me.
-- It was very nice of her to drive you home.
+- She was very nice `to` me.
+- It was very nice `of` her `to` drive you home.
 
 ## 70. old ## adjective
 /oʊld/ EXISTED MANY YEARS
 [A1]having lived or existed for many years
 - an old man
 - an old house
-- We're all getting older.
+- We're all `getting` older.
 - I was shocked by how old he looked.
 - I'm too old to be out dancing every night.
 - That's an old joke - I've heard it about a thousand times.
@@ -505,8 +505,8 @@
 ## 71. old ## adjective
 /oʊld/ AGE
 [A1]used to describe or ask about someone's age
-- How old is your father?
-- Rosie's six years old now.
+- `How` old is your father?
+- Rosie's six `years` old now.
 - He's a couple of years older than me.
 
 ## 72. only ## adjective [always before noun]
@@ -540,67 +540,67 @@
 /ˈpɑs.ə.bəl/ CAN HAPPEN
 [A1]If something is possible, it can happen or be done.
 - Is it possible to speak to the manager please?
-- Please send it today, if possible.
-- Is it possible to buy tickets in advance?
+- Please send it today, `if` possible.
+- Is `it` possible `to` buy tickets in advance?
 
 ## 77. quick ## adjective
 /kwɪk/ FAST
 [A1]doing something fast
 - I tried to catch him but he was too quick for me.
-- He was very quick to answer.
+- He was very quick `to` answer.
 
 ## 78. ready ## adjective
 /ˈred.i/ PREPARED
 [A1]prepared for doing something
 - Give me a call when you're ready.
-- Are you ready to go yet?
-- We're going at eight, so you've got an hour to get ready.
-- When will the book be ready for publication?
+- Are you ready `to` go yet?
+- We're going at eight, so you've got an hour to `get` ready.
+- When will the book be ready `for` publication?
 
 ## 79. red ## adjective
 /red/ COLOR
 [A1]being the same color as blood
 - red lipstick
-- The dress was bright/dark red.
+- The dress was `bright/dark` red.
 
 ## 80. right ## adjective
 /rɑɪt/ CORRECT
 [A1]correct or true
 - He only got half the answers right.
-- You're right about Alison - she's great!
-- "You came here in 1979, didn't you?" "That's right."
+- You're right `about` Alison - she's great!
+- "You came here in 1979, didn't you?" "`That's` right."
 
 ## 81. sad ## adjective
 /sæd/ 
 [A1]unhappy or making you feel unhappy
 - I've just received some very sad news.
 - She gave a sad smile.
-- It's sad (that) the trip had to be canceled.
-- I'm so sad (that) you can't come.
-- It's sad to see them leave.
+- It's sad `(that)` the trip had to be canceled.
+- I'm so sad `(that)` you can't come.
+- It's sad `to` see them leave.
 
 ## 82. safe ## adjective
 /seɪf/ NOT IN DANGER
 [A1]not in danger or likely to be harmed
-- In some cities you don't feel safe going out alone at night.
+- In some cities you don't `feel` safe going out alone at night.
 
 ## 83. same ## adjective
 /seɪm/ the same
 [A1]exactly alike
 - My twin sister and I have the same nose.
-- She was wearing exactly the same dress as I was.
-- Hilary's the same age as me.
-- She brought up her children in just the same way her mother did.
+- She was wearing `exactly` the same dress `as` I was.
+- Hilary's the same age `as` me.
+- She brought up her children in `just` the same `way` her mother did.
 
 ## 84. same ## adjective
 /seɪm/ NOT ANOTHER
 [A1]not another different person, thing or situation
-- My brother and I sleep in the same room.
-- Our grades were exactly the same.
-- That(very) same day, he heard he'd passed his exam.
-- I would do the same thing again if I had the chance.
-- They eat at the same restaurant every week.
-- Should we meet up at the same time tomorrow?
+- My brother and I sleep in `the` same room.
+- Our grades were `exactly the` same.
+- `That``(very)` same day, he heard he'd passed his exam.
+- I would do `the` same `thing` again if I had the chance.
+- They eat at `the` same restaurant every week.
+- Should we meet up at `the` same time tomorrow?
 
 ## 85. short ## adjective
 /ʃɔːrt/ LENGTH/DISTANCE/HEIGHT
@@ -626,7 +626,7 @@
 ## 88. slow ## adjective
 /sloʊ/ NOT FAST
 [A1]doing, moving or happening without much speed
-- a slow runner/driver/reader
+- a slow `runner/driver/reader`
 - She's a very slow eater.
 - We're making slow but steady progress with the decorating.
 
@@ -638,8 +638,8 @@
 - a small dog/house/car
 - I'd rather live in a small town than a big city.
 - Would you like a large or small cola with your burger?
-- That jacket's too small for you.
-- Only a small number of applicants are successful.
+- That jacket's too small `for` you.
+- Only a small `number` of applicants are successful.
 
 ## 90. small ## adjective
 /smɔːl/ YOUNG
@@ -649,8 +649,8 @@
 ## 91. sorry ## adjective [never before noun]
 /ˈsɑr.i/ APOLOGY
 [A1]used to apologize for something you have done
-- Oh, I'm sorry - I didn't see you there.
-- Tom, I'm really/so sorry about last night - it was all my fault.
+- Oh, `I'm` sorry - I didn't see you there.
+- Tom, I'm `really/so` sorry `about` last night - it was all my fault.
 
 ## 92. sweet ## adjective
 /swiːt/ TASTE
@@ -669,13 +669,13 @@
 /tɑɪrd/ WANTING REST
 [A1]feeling that you want to rest or sleep
 - I was very tired when I got home from work last night.
-- She gets very tired in the evenings.
+- She `gets` very tired in the evenings.
 - My legs are tired.
 
 ## 95. warm ## adjective
 /wɔːrm/ TEMPERATURE
 [A1]having a temperature between cool and hot
-- Are you warm enough or should I turn up the heat?
+- Are you warm `enough` or should I turn up the heat?
 - She had her hands in her pockets to keep them warm.
 
 ## 96. well ## adjective
@@ -683,8 +683,8 @@
 [A1]healthy; not sick
 - How are you? "Very well, thanks."
 - He hasn't been too well lately.
-- When she came home from school she really didn't look well.
-- I'm sorry you're sick - I hope you get well soon.
+- When she came home from school she really didn't `look` well.
+- I'm sorry you're sick - I hope you `get` well soon.
 
 ## 97. white ## adjective
 /wɑɪt/ COLOR
@@ -699,19 +699,19 @@
 [A1]not correct
 - Three of your answers were wrong.
 - That clock is wrong - it's 12:30, not 12:15.
-- I'm sorry, you have the wrong number.
-- We're going the wrong way.
+- I'm sorry, you have the wrong `number`.
+- We're going the wrong `way`.
 
 ## 99. yellow ## adjective
 /ˈjel.oʊ/ 
 [A1]being the same color as a lemon or the sun
-- a bright yellow T-shirt
+- a `bright` yellow T-shirt
 - It was early fall and the leaves were turning yellow.
 
 ## 100. young ## adjective
 /jʌŋ/ 
 [A1]having lived or existed for only a short time and not old
-- young people/adults/children
+- young `people/adults/children`
 - His girlfriend is very young.
 - Maya is the youngest person in the family.
 - Angela is two years younger than Luis.
@@ -727,8 +727,8 @@
 /oʊˈkeɪ/ ALLOWED
 [A2]allowed or acceptable
 - Is it OK if I bring a friend to the party?
-- Is it okay to eat in here?
-- If it's okay with you, I'll leave the grocery shopping till tomorrow.
+- Is it okay `to` eat in here?
+- If it's okay `with` you, I'll leave the grocery shopping till tomorrow.
 
 ## 103. able ## adjective
 /ˈeɪ.bəl/ be able to do sth
@@ -741,8 +741,8 @@
 ## 104. adult ## adjective [always before noun]
 /əˈdʌlt/ FOR ADULTS
 [A2]for or relating to adults
-- adult education
-- She spent most of her adult life in prison.
+- adult `education`
+- She spent most of her adult `life` in prison.
 
 ## 105. advanced ## adjective
 /ədˈvænst/ HIGHER LEVEL
@@ -752,7 +752,7 @@
 ## 106. afraid ## adjective [always after verb]
 /əˈfreɪd/ I'm afraid...
 [A2]used to politely introduce bad news or to politely disagree with someone
-- I'm afraid (that) we can't come this evening after all.
+- I'm afraid `(that)` we can't come this evening after all.
 - This is your room - it's a bit small, I'm afraid.
 - I'm afraid I disagree with you.
 - I don't agree at all, I'm afraid.
@@ -760,8 +760,8 @@
 ## 107. afraid ## adjective [always after verb]
 /əˈfreɪd/ FEAR
 [A2]frightened
-- He was/felt suddenly afraid.
-- She's afraid of water.
+- He `was/felt` suddenly afraid.
+- She's afraid `of` water.
 
 ## 108. aged ## adjective
 /eɪdʒd/ 
@@ -783,9 +783,9 @@
 ## 111. all right ## adjective [never before noun] ; adverb
 /ɔːlˈrɑɪt/ PERMISSION
 [A2]used to ask if you can do something or to say that someone can do something
-- Is it all right if I put some music on?
-- It's all right to have your friends over as long as you check with me first.
-- Is it all right with you if I leave the window open?
+- `Is it` all right `if` I put some music on?
+- `It's` all right `to` have your friends over as long as you check with me first.
+- `Is it` all right with you `if` I leave the window open?
 
 ## 112. alone ## adjective ; adverb
 /əˈloʊn/ WITHOUT PEOPLE
@@ -803,11 +803,11 @@
 ## 114. angry ## adjective
 /ˈæŋ.gri/ 
 [A2]having a strong feeling against someone who has behaved badly, making you want to shout at them or hurt them
-- He's really angry at/with me for upsetting Sophie.
-- I don't understand what he's angry about.
-- They feel angry that their complaints were ignored.
-- I got really angry with her.
-- It made me really angry.
+- He's really angry `at/with` me for upsetting Sophie.
+- I don't understand what he's angry `about`.
+- They feel angry `that` their complaints were ignored.
+- I `got` really angry `with` her.
+- It `made` me really angry.
 
 ## 115. attractive ## adjective
 /əˈtræk.tɪv/ BEAUTIFUL
@@ -819,10 +819,10 @@
 [A2]able to be bought, used, or gotten
 - Do you have any double rooms available this weekend?
 - Is this dress available in a larger size?
-- My new novel will be available in bookstores this week.
+- My new novel will be available `in` bookstores this week.
 - The information is available on the Internet.
-- There are computers available at the library for public use.
-- I'm afraid I'm not available to help with the show on the 19th.
+- There are computers available at the library `for` public use.
+- I'm afraid I'm not available `to` help with the show on the 19th.
 
 ## 117. available ## adjective
 /əˈveɪ.lə.bəl/ NOT BUSY
@@ -834,7 +834,7 @@
 /ˈæv.rɪdʒ/ USUAL
 [A2]typical and usual
 - The average person in the street is a lot better off than they were forty years ago.
-- a student of average ability
+- a student of average `ability`
 
 ## 119. awesome ## adjective
 /ˈɑː.səm/ GOOD
@@ -847,27 +847,27 @@
 - The weather was awful.
 - She's got an awful boss.
 - It's an awful place.
-- She'd been ill and she looked awful.
+- She'd been ill and she `looked` awful.
 
 ## 121. back ## adjective [always before noun]
 /bæk/ AT BACK
 [A2]at or near the back of something
-- a back door/room
-- the back page/seat
-- I put it in the back pocket of my jeans.
+- a back `door/room`
+- the back `page/seat`
+- I put it in the back `pocket` of my jeans.
 
 ## 122. bad ## adjective
 /bæd/ LOW QUALITY
 [A2]of low quality and not acceptable
 - The food was so bad we couldn't eat it.
-- He has some very bad habits.
-- He was sent home from school for bad behavior.
-- I'm very bad at cooking.
+- He has some very bad `habits`.
+- He was sent home from school for bad `behavior`.
+- I'm very bad `at` cooking.
 
 ## 123. bad ## adjective
 /bæd/ not (too) bad
 [A2]satisfactory
-- That's not bad for such a small company.
+- That's not bad `for` such a small company.
 
 ## 124. bad ## adjective
 /bæd/ be bad for sb/sth
@@ -877,7 +877,7 @@
 ## 125. best ## adjective
 /best/ best wishes
 [A2]something that you write at the end of a letter
-- With best wishes, Anna
+- `With` best wishes, Anna
 
 ## 126. big ## adjective
 /bɪg/ your big brother/sister
@@ -901,19 +901,19 @@
 ## 129. blond ## adjective
 /blɑnd/ 
 [A2]with pale yellow hair
-- blond hair
+- blond `hair`
 
 ## 130. bright ## adjective
 /brɑɪt/ COLOR
 [A2]strong in color
-- Leslie always wears bright colors.
+- Leslie always wears bright `colors`.
 - He said hello and I felt my face turn bright red.
 
 ## 131. broken ## adjective
 /ˈbroʊ.kən/ DAMAGED
 [A2]damaged and separated into pieces
 - He attacked the man with a broken bottle.
-- Careful - there's broken glass on the floor.
+- Careful - there's broken `glass` on the floor.
 
 ## 132. broken ## adjective
 /ˈbroʊ.kən/ a broken arm/leg, etc.
@@ -934,10 +934,10 @@
 ## 135. careful ## adjective
 /ˈker.fəl/ 
 [A2]giving a lot of attention to what you are doing so that you do not have an accident, make a mistake, or damage something
-- Be careful with that knife.
-- Be careful where you put that hot pan.
-- Be careful what/how much you say to him - he can't keep any secrets!
-- Be careful to look both ways when you cross the road.
+- `Be` careful `with` that knife.
+- `Be` careful `where` you put that hot pan.
+- `Be` careful `what/how much` you say to him - he can't keep any secrets!
+- `Be` careful `to` look both ways when you cross the road.
 - Michael is a very careful worker.
 
 ## 136. classical ## adjective
@@ -948,7 +948,7 @@
 ## 137. clear ## adjective
 /klɪr/ EASY TO UNDERSTAND
 [A2]easy to understand, hear, read or see
-- clear instructions/directions
+- clear `instructions/directions`
 - Can we make the sound any clearer?
 - These photos are very clear.
 
@@ -961,8 +961,8 @@
 ## 139. close ## adjective
  FRIENDLY
 [A2]describes people who know each other very well and like each other a lot, or who see and talk to each other a lot
-- Mira is one of my closest friends.
-- Her relationship isn't good with her father, but she's very close to her mother.
+- Mira is one of my closest `friends`.
+- Her relationship isn't good with her father, but she's very close `to` her mother.
 - My brother and I have become much closer over the years.
 
 ## 140. cloudy ## adjective
@@ -973,8 +973,8 @@
 ## 141. comfortable ## adjective
 /ˈkʌmf.tə.bəl/ CLOTHES/FURNITURE
 [A2]describes furniture, clothes, etc. that provide a pleasant feeling and that do not give you any pain
-- a comfortable bed/sofa
-- comfortable shoes
+- a comfortable `bed/sofa`
+- comfortable `shoes`
 
 ## 142. cool ## adjective
 /kuːl/ GOOD
@@ -985,16 +985,16 @@
 ## 143. correct ## adjective
 /kəˈrekt/ ACCURATE
 [A2]accurate, or having no mistakes
-- a correct answer
-- Check that you have the correct information.
-- Is that the correct spelling?
+- a correct `answer`
+- Check that you have the correct `information`.
+- Is that the correct `spelling`?
 - "Your name is Angela Black?" "That is correct."
 
 ## 144. crazy ## adjective
 /ˈkreɪ.zi/ STUPID
 [A2]stupid or strange
 - It's a crazy idea.
-- You're crazy to buy a house without seeing it.
+- You're crazy `to` buy a house without seeing it.
 
 ## 145. crazy ## adjective
 /ˈkreɪ.zi/ be crazy about sb/sth
@@ -1015,8 +1015,8 @@
 ## 148. daily ## adjective [always before noun]
 /ˈdeɪ.li/ EVERY DAY
 [A2]happening or done every day or once a day
-- Exercise has become part of my daily routine.
-- We back up our computer files at work on a daily basis.
+- Exercise has become part of my daily `routine`.
+- We back up our computer files at work on a daily `basis`.
 
 ## 149. dangerous ## adjective
 /ˈdeɪn.dʒə.rəs/ 
@@ -1024,27 +1024,27 @@
 - dangerous chemicals
 - The men are armed and dangerous.
 - I've never played ice hockey - it's far too dangerous.
-- It's dangerous to take more than the recommended dose of medication.
+- It's dangerous `to` take more than the recommended dose of medication.
 
 ## 150. dark ## adjective
 /dɑrk/ NO LIGHT
 [A2]with little or no light
 - It was too dark to see properly.
-- What time does it get dark in the summer?
+- What time does it `get` dark in the summer?
 
 ## 151. dead ## adjective
 /ded/ NOT ALIVE
 [A2]not now alive
 - She's been dead for twenty years now.
-- The motorcyclist was dead on arrival at the hospital.
-- He was found dead of a heart attack outside his house.
+- The motorcyclist was dead `on arrival` at the hospital.
+- He was `found` dead of a heart attack outside his house.
 
 ## 152. deep ## adjective
 /diːp/ TOP TO BOTTOM
 [A2]having a long distance from the top to the bottom
-- a deep river/sea/lake
+- a deep `river/sea/lake`
 - The water's not deep here - look, I can touch the bottom.
-- The water's only ankle-/knee-/waist-deep, so we'll be able to get across the river easily.
+- The water's only `ankle-/knee-/waist-`deep, so we'll be able to get across the river easily.
 
 ## 153. digital ## adjective
 /ˈdɪdʒ.ət̬.əl/ SYSTEM
@@ -1063,14 +1063,14 @@
 [A2]twice the size, amount, price, etc., or consisting of two similar things together
 - I'd like to book a double room.
 - I ordered a double espresso.
-- Go through the double doors and turn left.
+- Go through the double `doors` and turn left.
 - The word "cool" has a double "o" in the middle.
 
 ## 156. dressed ## adjective [always after noun]
 /drest/ WEARING CLOTHES
 [A2]wearing clothes and not naked
-- I usually get dressed before I eat breakfast.
-- He was dressed in a dark gray suit.
+- I usually `get` dressed before I eat breakfast.
+- He was dressed `in` a dark gray suit.
 - They arrived early and I wasn't fully dressed.
 
 ## 157. dry ## adjective
@@ -1090,7 +1090,7 @@
 [A2]near the beginning of a period of time, process, etc.
 - the early 1980s
 - My earliest memory is of being shown around our new house.
-- Detroit has been an automotive center since the early days/years of car manufacturing.
+- Detroit has been an automotive center since the early `days/years` of car manufacturing.
 
 ## 160. east ## adjective
 /iːst/ 
@@ -1101,7 +1101,7 @@
 ## 161. electric ## adjective
 /eˈlek.trɪk/ EQUIPMENT
 [A2]Electric lights, tools, etc. work using electricity.
-- an electric car/heater
+- an electric `car/heater`
 
 ## 162. empty ## adjective
 /ˈem.ti/ NOTHING INSIDE
@@ -1127,8 +1127,8 @@
 ## 165. fair ## adjective
 /fer/ HAIR/SKIN
 [A2]having pale skin or a light color of hair
-- She's got fair hair and blue eyes.
-- He's fair-haired.
+- She's got fair `hair` and blue eyes.
+- He's fair`-haired`.
 
 ## 166. fantastic ## adjective
 /fænˈtæs.tɪk/ 
@@ -1140,19 +1140,19 @@
 ## 167. few ## determiner ; adjective ; pronoun
 /fjuː/ a few
 [A2]some, or a small number of
-- I'll be ready in a few minutes.
-- I need to pick up a few things in town.
-- We've been having a few problems with the new computer.
+- I'll be ready in a few `minutes`.
+- I need to pick up a few `things` in town.
+- We've been having a few `problems` with the new computer.
 - "How many potatoes do you want?" - "Oh, just a few, please."
-- I've met a few of his friends.
+- I've met a few `of` his friends.
 
 ## 168. final ## adjective [always before noun]
 /ˈfɑɪn.əl/ LAST
 [A2]last in a series or coming at the end of something
-- a final warning/offer
-- the final paragraph
-- Green Bay scored in the final minute.
-- Construction of the new school is in its final stages.
+- a final `warning/offer`
+- the final `paragraph`
+- Green Bay scored in the final `minute`.
+- Construction of the new school is `in` its final `stages`.
 
 ## 169. fine ## adjective
 /fɑɪn/ GOOD ENOUGH
@@ -1162,13 +1162,13 @@
 ## 170. first ## adjective
 /fɜrst/ IMPORTANT
 [A2]most important, top
-- Sheila won first prize in the photo competition.
+- Sheila won first `prize` in the photo competition.
 
 ## 171. fit ## adjective
 /fɪt/ 
 [A2]healthy and strong, especially as a result of exercise
-- I joined a gym to get fit.
-- I jog to keep fit.
+- I joined a gym to `get` fit.
+- I jog to `keep` fit.
 - You need to be very fit to go mountain climbing.
 
 ## 172. foggy ## adjective
@@ -1180,26 +1180,26 @@
 /ˈfɔːr.ən/ OF ANOTHER COUNTRY
 [A2]belonging or connected to a country that is not your own
 - Spain was the first foreign country she had visited.
-- foreign languages
-- His work provided him with the opportunity for a lot of foreign travel.
+- foreign `languages`
+- His work provided him with the opportunity for a lot of foreign `travel`.
 
 ## 174. free ## adjective
 /friː/ NOT BUSY
 [A2]not busy doing anything
 - Are you free this evening?
-- I don't have much free time.
+- I don't have much free `time`.
 
 ## 175. free ## adjective
 /friː/ NO COST
 [A2]not costing any money
 - I got some free movie tickets.
-- Members all receive a free copy of the monthly newsletter.
-- We will install your washing machine free of charge.
+- Members all receive a free `copy` of the monthly newsletter.
+- We will install your washing machine free `of charge`.
 
 ## 176. fresh ## adjective
 /freʃ/ NOT OLD
 [A2]Fresh food has been produced or collected recently and has not been frozen, dried, etc.
-- fresh fruit/vegetables/fish/bread
+- fresh `fruit/vegetables/fish/bread`
 
 ## 177. fried ## adjective
 /frɑɪd/ 
@@ -1210,15 +1210,15 @@
 /ˈfren.dli/ 
 [A2]behaving in a pleasant, kind way toward someone
 - They were friendly people.
-- a friendly face/smile
-- Our neighbors have always been very friendly to us.
+- a friendly `face/smile`
+- Our neighbors have always been very friendly `to` us.
 
 ## 179. full ## adjective
 /fʊl/ NO MORE POSSIBLE
 [A2]If a container or a space is full, it contains as many things or people as possible, or as much of something as possible.
 - We couldn't get in - the theater was full.
-- The shelves were full of books.
-- The theater was only half full.
+- The shelves were full `of` books.
+- The theater was only `half` full.
 - Be careful, that's a full cup of coffee I gave you.
 
 ## 180. full ## adjective
@@ -1230,9 +1230,9 @@
 ## 181. full ## adjective
 /fʊl/ A LOT
 [A2]containing a lot of things or people or a lot of something
-- This sweater is full of holes.
-- His essay was full of spelling errors.
-- You're always so full of energy.
+- This sweater is full `of` holes.
+- His essay was full `of` spelling errors.
+- You're always so full `of` energy.
 
 ## 182. fun ## adjective [always before noun]
 /fʌn/ 
@@ -1242,15 +1242,15 @@
 ## 183. further ## adjective [always before noun]
 /ˈfɜr.ðər/ 
 [A2]more or extra
-- For further details about the offer, call this number.
-- Further information can be found on our website.
-- We'll let you know if there's any further news about the competition.
+- For further `details` about the offer, call this number.
+- Further `information` can be found on our website.
+- We'll let you know if there's any further `news` about the competition.
 
 ## 184. glad ## adjective [never before noun]
 /glæd/ HAPPY
 [A2]pleased and happy
-- I'm glad (that) you came.
-- I'm so glad to see you.
+- I'm glad (`that`) you came.
+- I'm so glad `to` see you.
 
 ## 185. gold ## adjective
 /goʊld/ METAL
@@ -1275,9 +1275,9 @@
 ## 189. good ## adjective
 /gʊd/ SUITABLE
 [A2]suitable or satisfactory
-- Is this a good time to talk?
+- Is this a good `time` to talk?
 - When would it be a good time to phone?
-- How about Friday - is that good for you?
+- How about Friday - is that good `for` you?
 
 ## 190. good ## adjective
 /gʊd/ BEHAVIOR
@@ -1314,8 +1314,8 @@
 ## 196. happy ## adjective
 /ˈhæp.i/ SATISFIED
 [A2]satisfied and not worried
-- Are you happy with the grades you got this semester?
-- No one is happy about having to pay more taxes.
+- Are you happy `with` the grades you got this semester?
+- No one is happy `about` having to pay more taxes.
 
 ## 197. hard ## adjective
 /hɑrd/ SOLID
@@ -1337,8 +1337,8 @@
 ## 200. heavy ## adjective
 /ˈhev.i/ WEIGHING A LOT
 [A2]Heavy objects or people weigh a lot.
-- heavy equipment
-- heavy bags/suitcases
+- heavy `equipment`
+- heavy `bags/suitcases`
 - Bob is much heavier than the last time I saw him.
 
 ## 201. heavy ## adjective
@@ -1349,7 +1349,7 @@
 ## 202. high ## adjective
 /hɑɪ/ TALL
 [A2]having a large distance from the bottom to the top
-- a high building/mountain
+- a high `building/mountain`
 
 ## 203. horrible ## adjective
 /ˈhɔːr.ə.bəl/ 
@@ -1361,29 +1361,29 @@
 ## 204. indoor ## adjective [always before noun]
 /ˈɪn.dɔːr/ 
 [A2]happening, used or situated inside a building
-- indoor sports/activities
+- indoor `sports/activities`
 - an indoor swimming pool
 
 ## 205. interested ## adjective
 /ˈɪn.trə.stəd/ 
 [A2]wanting to give your attention to something and discover more about it
-- He didn't seem very interested in what I was saying.
-- I'd be interested to hear more about your work.
+- He didn't seem very interested `in` what I was saying.
+- I'd be interested `to` hear more about your work.
 - "Really?" he said, with an interested look on his face.
-- Yes, I'd be very interested in knowing more about the services your company offers.
+- Yes, I'd be very interested `in` knowing more about the services your company offers.
 
 ## 206. international ## adjective
 /ˌɪn.tərˈnæʃ.ən.əl/ 
 [A2]relating to or involving two or more countries
-- international politics
-- an international team of scientists
+- international `politics`
+- an international `team` of scientists
 
 ## 207. kind ## adjective
 /kɑɪnd/ 
 [A2]generous, helpful, and thinking about other people's feelings
 - She's a very kind and thoughtful person.
-- It's really kind of you to help us.
-- Please be kind to your sister!
+- It's really kind `of` you to help us.
+- Please be kind `to` your sister!
 
 ## 208. large ## adjective
 /lɑrdʒ/ 
@@ -1392,8 +1392,8 @@
 - the world's largest computer manufacturer
 - I’d like a large soda.
 - This apartment is much larger than our last one.
-- We didn't expect such a large number of people to attend the concert.
-- We've made good progress, but there's still a large amount of work to be done.
+- We didn't expect such a large `number` of people to attend the concert.
+- We've made good progress, but there's still a large `amount` of work to be done.
 
 ## 209. last ## adjective ; determiner
 /læst/ MOST RECENT
@@ -1435,7 +1435,7 @@
 ## 215. left-hand ## adjective [always before noun]
 /ˈleft.hænd/ 
 [A2]on or to the left of something
-- There's a sign on the left-hand side.
+- There's a sign on the left-hand `side`.
 
 ## 216. light ## adjective
 /lɑɪt/ NOT HEAVY
@@ -1447,68 +1447,68 @@
 ## 217. long ## adjective
 /lɔːŋ/ MANY WORDS
 [A2]describes a piece of writing which has a lot of pages or words
-- a long letter/book/report
+- a long `letter/book/report`
 
 ## 218. lost ## adjective
 /lɔːst/ PERSON
 [A2]not knowing where you are or where you should go
-- I got lost driving home.
+- I `got` lost driving home.
 - You look lost - can I help you?
 
 ## 219. loud ## adjective
 /lɑʊd/ 
 [A2]making a lot of noise
-- a loud noise/voice
+- a loud `noise/voice`
 - Would you speak a little louder, please?
 - I heard a loud bang and then saw black smoke.
 
 ## 220. low ## adjective
 /loʊ/ AMOUNT/LEVEL
 [A2]small in amount, size or level
-- low temperatures
-- The big supermarket has the lowest prices.
+- low `temperatures`
+- The big supermarket has the lowest `prices`.
 - These people are living on relatively low incomes.
-- a low-fat diet
-- Vegetables are generally low in calories.
+- a low`-fat` diet
+- Vegetables are generally low `in` calories.
 
 ## 221. lucky ## adjective
 /ˈlʌk.i/ 
 [A2]having good things happen to you by chance
-- I'm going on vacation. "Lucky you!"
-- For ten games, the Orioles have gotten every conceivable lucky break.
-- They're lucky to have such a nice office to work in.
-- He's lucky that he wasn't fired.
+- I'm going on vacation. "Lucky `you`!"
+- For ten games, the Orioles have gotten every conceivable lucky `break`.
+- They're lucky `to` have such a nice office to work in.
+- He's lucky `that` he wasn't fired.
 - Today is my lucky day!
 - We'll be lucky if we get there by midnight at this rate.
 
 ## 222. mad ## adjective
 /mæd/ ANGRY
 [A2]angry
-- Are you still mad at me?
-- Kerry got really mad with Richard for not doing washing the dishes.
-- He's always complaining and it makes me so mad.
-- My little brother drives me mad sometimes!
+- Are you still mad `at` me?
+- Kerry got really mad `with` Richard for not doing washing the dishes.
+- He's always complaining and it `makes` me so mad.
+- My little brother `drives` me mad sometimes!
 
 ## 223. magic ## adjective
 /ˈmædʒ.ɪk/ ENTERTAINMENT
 [A2]relating to skillful tricks done to entertain people
-- a magic show
-- I'll show you a magic trick.
+- a magic `show`
+- I'll show you a magic `trick`.
 
 ## 224. married ## adjective
 /ˈmær.iːd/ get married
 [A2]to begin a legal relationship with someone as their husband or wife
-- When are you getting married?
-- Chris and Debbie got married last summer.
-- Jamie's getting married to Laura.
+- When are you `getting` married?
+- Chris and Debbie `got` married last summer.
+- Jamie's getting married `to` Laura.
 
 ## 225. married ## adjective
 /ˈmær.iːd/ WITH WIFE/HUSBAND
 [A2]having a wife or husband
-- a married couple
-- How long was she married to Nick?
-- We've been happily married for twenty-five years.
-- She had an affair with a married man.
+- a married `couple`
+- How long was she married `to` Nick?
+- We've been `happily` married for twenty-five years.
+- She had an affair with a married `man`.
 
 ## 226. missing ## adjective
 /ˈmɪs.ɪŋ/ LOST
@@ -1520,13 +1520,13 @@
 ## 227. modern ## adjective
 /ˈmɑd.ərn/ NEW
 [A2]using the newest ideas, design, technology, etc. and not traditional
-- modern architecture/art/medicine
+- modern `architecture/art/medicine`
 - We're in the very modern-looking building opposite the station.
 
 ## 228. musical ## adjective
 /ˈmjuː.zɪ.kəl/ RELATED TO MUSIC
 [A2]related to music
-- musical instruments
+- musical `instruments`
 - Mozart's musical compositions include symphonies and operas.
 
 ## 229. national ## adjective
@@ -1535,8 +1535,8 @@
 - a national holiday
 - Britain has more than ten national newspapers.
 - The company's national headquarters is in Rome.
-- The children were wearing traditional national costume/dress.
-- The government's view is that raising taxes now would not be in the national interest.
+- The children were wearing traditional national `costume/dress`.
+- The government's view is that raising taxes now would not be in the national `interest`.
 
 ## 230. negative ## adjective
 /ˈneg.ə.tɪv/ GRAMMAR
@@ -1566,11 +1566,11 @@
 /ˈnɔːr.məl/ 
 [A2]usual, ordinary, and expected
 - a normal working day
-- Lively behavior is normal for a four-year-old child.
-- It's normal to argue with your partner now and then.
+- Lively behavior is normal `for` a four-year-old child.
+- It's normal `to` argue with your partner now and then.
 - They were selling the goods at half the normal cost.
-- The temperature was above/below normal for the time of year.
-- Now that everyone's back from their vacations, things are back to normal.
+- The temperature was `above/below` normal for the time of year.
+- Now that everyone's back from their vacations, things are `back to` normal.
 
 ## 235. north ## adjective
 /nɔːrθ/ 
@@ -1593,23 +1593,23 @@
 ## 238. online ## adjective
  
 [A2]describes products, services or information that can be bought or used on the Internet
-- online banking/shopping
+- online `banking/shopping`
 - an online newspaper/magazine/dictionary
 
 ## 239. open ## adjective
 /ˈoʊ.pən/ NOT CLOSED
 [A2]not closed or fastened
-- an open door/window
+- an open `door/window`
 - Her open suitcase was on the dresser.
 - You left the box open.
-- Someone had left the window wide open.
+- Someone had left the window `wide` open.
 
 ## 240. own ## adjective ; pronoun
 /oʊn/ BELONGING
 [A2]belonging to or done by a particular person or thing
 - All of the students have their own dictionaries.
 - She has her own apartment.
-- She makes all her own clothes.
+- She makes `all her` own clothes.
 - I'm going to be out tonight, so you'll have to get your own dinner.
 - Was that your own idea or did someone suggest it to you?
 - "Is that your mom's car?" "No, it's my own."
@@ -1622,9 +1622,9 @@
 ## 242. perfect ## adjective
  WITHOUT FAULT
 [A2]without fault, or as good as possible
-- a perfect day/evening
+- a perfect `day/evening`
 - You have a perfect English accent.
-- The car is five years old but is in almost perfect condition.
+- The car is five years old but is in almost perfect `condition`.
 - Her performance was perfect.
 
 ## 243. pink ## adjective
@@ -1636,23 +1636,23 @@
 ## 244. plastic ## adjective
 /ˈplæs.tɪk/ 
 [A2]made of plastic
-- a plastic bag/box/cup
+- a plastic `bag/box/cup`
 
 ## 245. pleasant ## adjective
 /ˈplez.ənt/ 
 [A2]enjoyable, attractive, friendly, or easy to like
-- a pleasant smile/person
-- a pleasant climate/day/surprise
-- Harold did his best to be pleasant to the old man.
-- It was pleasant to sit down after standing for hours.
+- a pleasant `smile/person`
+- a pleasant `climate/day/surprise`
+- Harold did his best to be pleasant `to` the old man.
+- `It` was pleasant `to` sit down after standing for hours.
 
 ## 246. pleased ## adjective
 /pliːzd/ HAPPY
 [A2]happy or satisfied
-- Are you pleased about John's promotion?
-- We're so pleased that you're able to come to the wedding.
-- I'm really pleased with your work this term.
-- I'm pleased to hear you're feeling better.
+- Are you pleased `about` John's promotion?
+- We're so pleased `that` you're able to come to the wedding.
+- I'm really pleased `with` your work this term.
+- I'm pleased `to` hear you're feeling better.
 
 ## 247. pleased ## adjective
 /pliːzd/ pleased to meet you
@@ -1670,15 +1670,15 @@
 /pʊr/ SYMPATHY
 [A2]used to show sympathy for someone
 - The poor girl didn't have any friends.
-- That cold sounds terrible - poor you!
+- That cold sounds terrible - poor `you`!
 
 ## 250. popular ## adjective
 /ˈpɑp.jə.lər/ LIKED
 [A2]liked by many people
 - She's the most popular teacher in the school.
-- That song was popular with people from my father's generation.
+- That song was popular `with` people from my father's generation.
 - Walking is a popular form of exercise in Britain.
-- How popular is Madonna among/with teenagers?
+- How popular is Madonna `among/with` teenagers?
 - Jan wasn't very popular when she opened all the windows on that cold day.
 
 ## 251. possible ## adjective
@@ -1703,13 +1703,13 @@
 [A2]lasting a short time
 - Can I ask you a quick question?
 - I had a quick cup of coffee and left the house.
-- I only had time for a quick look at the paper this morning.
-- Could I have a quick word with you, Annie?
+- I only had time for a quick `look` at the paper this morning.
+- Could I have a quick `word` with you, Annie?
 
 ## 255. quiet ## adjective
 /ˈkwɑɪ.ət/ NOT NOISY
 [A2]making little or no noise
-- Can you be quiet, please?
+- Can you `be` quiet, please?
 - Our new dishwasher is very quiet.
 - It's so quiet without the kids here.
 - She spoke in a quiet voice so she wouldn't wake the baby.
@@ -1727,19 +1727,19 @@
 - Is dinner ready?
 - The kids are ready for bed.
 - We're moving to new offices, but they won't be ready till next month.
-- I'll have dinner ready when you get back.
+- I'll `have` dinner ready when you get back.
 
 ## 258. real ## adjective
 /riːl/ NOT IMAGINED
 [A2]existing in fact and not imagined
 - He's not real you know, he's just a character in a book.
-- The two principal actors are brothers in real life.
+- The two principal actors are brothers `in` real `life`.
 
 ## 259. real ## adjective
 /riːl/ NOT FALSE
 [A2]not artificial or false
-- real leather
-- Paul saw the Beatles at Shea Stadium in 1966 - that ticket is the real thing!
+- real `leather`
+- Paul saw the Beatles at Shea Stadium in 1966 - that ticket is `the` real `thing`!
 
 ## 260. red ## adjective
 /red/ WINE
@@ -1749,7 +1749,7 @@
 ## 261. red ## adjective
 /red/ HAIR
 [A2]describes hair which is an orange-brown color
-- Both children have red hair.
+- Both children have red `hair`.
 
 ## 262. regular ## adjective
 /ˈreg.jə.lər/ USUAL
@@ -1767,13 +1767,13 @@
 ## 264. right ## adjective
 /rɑɪt/ DIRECTION
 [A2]on or toward the side of your body that is to the east when you are facing north
-- Most people write with their right hand.
-- There's a tree on the right side of the house.
+- Most people write with their right `hand`.
+- There's a tree on the right `side` of the house.
 
 ## 265. right-hand ## adjective [always before noun]
 /ˈrɑɪt.hænd/ 
 [A2]on or to the right of something
-- On the right-hand side you'll see a sign.
+- On the right-hand `side` you'll see a sign.
 
 ## 266. roast ## adjective [always before noun]
 /roʊst/ 
@@ -1792,8 +1792,8 @@
 - a safe driver
 - That ladder doesn't look safe.
 - Have a safe trip.
-- Is this medicine safe for children?
-- It's safe to cross the road now.
+- Is this medicine safe `for` children?
+- It's safe `to` cross the road now.
 
 ## 269. short ## adjective
 /ʃɔːrt/ WORDS
@@ -1805,10 +1805,10 @@
 /sɪk/ 
 [A2]not feeling well, or suffering from a disease
 - a sick child
-- I feel sick.
-- I hope you don't get sick.
-- My boss was out sick most of last week.
-- Sarah called in sick.
+- I `feel` sick.
+- I hope you don't `get` sick.
+- My boss was `out` sick most of last week.
+- Sarah `called in` sick.
 
 ## 271. silver ## adjective
 /ˈsɪl.vər/ 
@@ -1820,25 +1820,25 @@
 /ˈsɪm.pəl/ EASY
 [A2]easy to do or to understand
 - The instructions were written in simple English.
-- It's simple to find our house.
-- I want an explanation, but keep/make it simple.
+- It's simple `to` find our house.
+- I want an explanation, but `keep/make it` simple.
 
 ## 273. single ## adjective
 /ˈsɪŋ.gəl/ NOT MARRIED
 [A2]not married
-- a single woman/man/person
+- a single `woman/man/person`
 - He's been single for so long now, I don't think he'll ever marry.
 
 ## 274. single ## adjective
 /ˈsɪŋ.gəl/ FOR ONE
 [A2]for only one person
-- a single bed
-- a single room
+- a single `bed`
+- a single `room`
 
 ## 275. singular ## adjective
 /ˈsɪŋ.gjə.lər/ 
 [A2]The singular form of a word is used to talk about one person or thing. For example, "car" is the singular form of "cars" and "woman" is the singular form of "women."
-- a singular ending/form/noun/verb
+- a singular `ending/form/noun/verb`
 - The word "woman" is singular.
 
 ## 276. small ## adjective
@@ -1856,35 +1856,35 @@
 ## 278. soft ## adjective
 /sɑft/ SMOOTH
 [A2]smooth and pleasant to touch
-- soft skin/hair
-- soft leather
+- soft `skin/hair`
+- soft `leather`
 
 ## 279. sorry ## adjective [never before noun]
 /ˈsɑr.i/ SYMPATHY
 [A2]used to show sympathy or sadness for a person or situation
-- I'm sorry (that) you had such a difficult journey.
-- We were both sorry to hear you've been ill again.
+- I'm sorry `(that)` you had such a difficult journey.
+- We were both sorry `to hear` you've been ill again.
 
 ## 280. south ## adjective
 /sɑʊθ/ 
 [A2]in or forming the south part of something
 - the south side of Chicago
 - the South China Sea
-- These plants grow well on a south-facing wall.
+- These plants grow well on a south`-facing` wall.
 
 ## 281. spare ## adjective
 /sper/ spare time
 [A2]time when you are not working
-- I like to do a little gardening in my spare time.
+- I like to do a little gardening `in` my spare time.
 
 ## 282. special ## adjective
 /ˈspeʃ.əl/ VERY GOOD
 [A2]better or more important than usual things
 - a special friend
-- The car has a number of special safety features.
-- I'm cooking something special for her birthday.
+- The car has a number of special safety `features`.
+- I'm cooking `something` special for her birthday.
 - Is there anything special that you'd like to do today?
-- I have a suit for special occasions.
+- I have a suit for special `occasions`.
 
 ## 283. square ## adjective
 /skwer/ 
@@ -1903,13 +1903,13 @@
 - You say the strangest things sometimes.
 - I had a strange feeling that we had met before.
 - We kept hearing strange noises coming from the attic.
-- It's strange that tourists almost never visit this village.
+- It's strange `that` tourists almost never visit this village.
 - That's strange - I'm sure I put my glasses in my bag and yet they're not there.
 
 ## 286. strong ## adjective
 /strɔːŋ/ PHYSICALLY POWERFUL
 [A2]A strong person or animal is physically powerful.
-- strong arms/legs
+- strong `arms/legs`
 - Are you strong enough to lift this table by yourself?
 - She must be very strong to carry that much weight in her backpack.
 
@@ -1917,17 +1917,17 @@
 /ˈsʌn.i/ 
 [A2]bright because of light from the sun
 - We're having the party outdoors, so I'm hoping it'll be sunny.
-- It was a lovely sunny day.
+- It was a lovely sunny `day`.
 
 ## 288. sure ## adjective
 /ʃʊr/ CERTAIN
 [A2]certain
-- What's wrong with him? "I'm not sure."
-- I'm sure (that) I left my keys on the table.
-- I’m not sure where they live.
-- Ben isn't sure whether/if he'll be able to come to the party or not.
-- Are you sure about that?
-- She’s sure to win.
+- What's wrong with him? "I'm `not` sure."
+- I'm sure `(that)` I left my keys on the table.
+- I’m not sure `where` they live.
+- Ben isn't sure `whether/if` he'll be able to come to the party or not.
+- Are you sure `about` that?
+- She’s sure `to` win.
 
 ## 289. sure ## adjective
 /ʃʊr/ make sure (that)
@@ -1937,11 +1937,11 @@
 ## 290. surprised ## adjective
 /sərˈprɑɪzd/ 
 [A2]feeling surprise because something has happened that you did not expect
-- You’d be surprised how quickly the time passes.
-- I was surprised at/by her response.
-- I'm not surprised (that) he didn't come.
-- I wouldn't be surprised if he resigned.
-- We were pleasantly surprised to find that the hotel was so comfortable.
+- You’d be surprised `how` quickly the time passes.
+- I was surprised `at/by` her response.
+- I'm not surprised `(that)` he didn't come.
+- I `wouldn't be` surprised if he resigned.
+- We were `pleasantly` surprised `to` find that the hotel was so comfortable.
 - She looked at him with a surprised expression on her face.
 
 ## 291. sweet ## adjective
@@ -1978,44 +1978,44 @@
 ## 296. thirsty ## adjective
 /ˈθɜr.sti/ 
 [A2]needing to drink
-- We were hungry and thirsty by the end of our walk.
-- I felt really thirsty during the game.
+- We were `hungry and` thirsty by the end of our walk.
+- I `felt` really thirsty during the game.
 
 ## 297. true ## adjective
 /truː/ NOT FALSE
 [A2]based on facts and not imagined
-- The film is based on a true story.
-- Is it true that Lucy and Mark are getting married?
-- Her story is only partly true.
-- Parents of young children often become depressed, and this is especially true of single parents.
-- Look at the sentences and decide whether they are true or false according to the text.
+- The film is based on a true `story`.
+- Is it true `that` Lucy and Mark are getting married?
+- Her story is only `partly` true.
+- Parents of young children often become depressed, and this is especially true `of` single parents.
+- Look at the sentences and decide whether they are true `or false` according to the text.
 
 ## 298. unhappy ## adjective
 /ʌnˈhæp.i/ SAD
 [A2]sad
-- an unhappy childhood/marriage
-- He made her really unhappy.
+- an unhappy `childhood/marriage`
+- He `made` her really unhappy.
 
 ## 299. unusual ## adjective
 /ʌnˈjuː.ʒu.əl/ 
 [A2]different and not ordinary, often in a way that is interesting or exciting
-- an unusual situation/circumstance/occurrence
-- He took the highly unusual step of making a public apology.
-- It's fairly unusual to keep insects as pets.
-- I was actually on time, which is very unusual for me.
+- an unusual `situation/circumstance/occurrence`
+- He took the `highly` unusual step of making a public apology.
+- It's fairly unusual `to` keep insects as pets.
+- I was actually on time, which is very unusual `for` me.
 
 ## 300. upset ## adjective [never before noun]
 /ʌpˈset/ 
 [A2]unhappy or worried because something unpleasant has happened
-- They'd had an argument and she was still upset about it.
-- Mike got very upset when I told him the news.
-- She was very upset to hear that the trip had been canceled.
-- He was very upset that you didn't reply to his messages.
+- They'd had an argument and she was still upset `about` it.
+- Mike `got` very upset when I told him the news.
+- She was very upset `to` hear that the trip had been canceled.
+- He was very upset `that` you didn't reply to his messages.
 
 ## 301. useful ## adjective
 /ˈjuːs.fəl/ 
 [A2]helping you to do or achieve something
-- useful information/advice
+- useful `information/advice`
 - A good knife is probably one of the most useful things you can have in a kitchen.
 
 ## 302. usual ## adjective
@@ -2026,10 +2026,10 @@
 ## 303. various ## adjective
 /ˈver.iː.əs/ 
 [A2]many different
-- I left London for various reasons.
-- They have offices in various parts of the country.
-- We had various problems on our trip, including a flat tire.
-- There are various ways of raising money.
+- I left London for various `reasons`.
+- They have offices in various `parts of` the country.
+- We had various `problems` on our trip, including a flat tire.
+- There are various `ways` of raising money.
 
 ## 304. warm ## adjective
 /wɔːrm/ CLOTHES
@@ -2052,8 +2052,8 @@
 ## 307. well-known ## adjective
 /ˌwelˈnoʊn/ 
 [A2]famous
-- a well-known actor/artist/film star/singer
-- a well-known face/voice
+- a well-known `actor/artist/film star/singer`
+- a well-known `face/voice`
 
 ## 308. west ## adjective
 /west/ 
@@ -2068,14 +2068,14 @@
 - a wet floor
 - a wet umbrella
 - wet hair
-- My bike got wet in the rain.
-- I had to cycle in the rain and got soaking wet.
-- You poor thing - you're all wet.
+- My bike `got` wet in the rain.
+- I had to cycle in the rain and got `soaking` wet.
+- You poor thing - you're `all` wet.
 
 ## 310. wet ## adjective
 /wet/ WEATHER
 [A2]describes weather or periods of time when rain falls
-- We've had wet weather all week.
+- We've had wet `weather` all week.
 - This is the first wet day for two months.
 - The presentation will take place indoors if it's wet.
 
@@ -2091,13 +2091,13 @@
 - There's still a whole month till my birthday.
 - After my exercise class, my whole body ached.
 - The whole town was destroyed by the earthquake.
-- This whole thing is ridiculous.
-- Bill does nothing but complain the whole time .
+- This whole `thing` is ridiculous.
+- Bill does nothing but complain the whole `time` .
 
 ## 313. wide ## adjective
 /wɑɪd/ DISTANCE
 [A2]having a larger distance from one side to the other than is usual or expected
-- a wide river/road
+- a wide `river/road`
 
 ## 314. wild ## adjective
 /wɑɪld/ ANIMAL
@@ -2116,66 +2116,66 @@
 [A2]extremely good
 - He's a wonderful cook.
 - "Did you know that Daryl's getting married?" "No, I didn't. How wonderful!"
-- We had a wonderful time in Italy last summer.
+- We had a wonderful `time` in Italy last summer.
 
 ## 317. wooden ## adjective
 /ˈwʊd.ən/ 
 [A2]made of wood
-- The house was surrounded by a tall, wooden fence.
-- Stir the mixture with a wooden spoon.
+- The house was surrounded by a tall, wooden `fence`.
+- Stir the mixture with a wooden `spoon`.
 
 ## 318. worried ## adjective
 /ˈwɜr.iːd/ 
 [A2]anxious because you are thinking about problems or unpleasant things that might happen
-- She's really worried about her son.
-- I'm worried that someone will find out.
-- She was sitting behind her desk with a worried expression/look on her face.
-- You had me worried for a second back there - I thought you wouldn't be able to stop in time.
+- She's really worried `about` her son.
+- I'm worried `that` someone will find out.
+- She was sitting behind her desk with a worried `expression/look` on her face.
+- You `had` me worried for a second back there - I thought you wouldn't be able to stop in time.
 
 ## 319. worse ## adjective
 /wɜrs/ MORE UNPLEASANT
 [A2](comparative of bad) more unpleasant or difficult than something else that is also bad
-- The test was worse than I expected.
-- His behavior is even worse than his sister's.
-- The heat is much worse in the daytime.
+- The test was worse `than` I expected.
+- His behavior is `even` worse than his sister's.
+- The heat is `much` worse in the daytime.
 
 ## 320. worst ## adjective
 /wɜːrst/ 
 [A2](superlative of bad) the most unpleasant, difficult or severe
-- That was the worst meal I've ever eaten.
-- "It was the worst moment of my life," she admitted.
+- That was `the` worst meal I've ever eaten.
+- "It was `the` worst moment of my life," she admitted.
 
 ## 321. wrong ## adjective
 /rɑŋ/ be wrong
 [A2]to think or say something that is not correct
-- I was wrong about the time - the store closed at 7, not 8.
-- You're wrong in thinking that Matt is from the States - he's Canadian.
+- I was wrong `about` the time - the store closed at 7, not 8.
+- You're wrong `in` thinking that Matt is from the States - he's Canadian.
 
 ## 322. above ## adverb ; adjective
 /əˈbʌv/ 
 [B1]higher on the page
 - the above diagram
 - Match these words with the pictures above.
-- Please send the articles to the address given/shown above.
+- Please send the articles to the address `given/shown` above.
 
 ## 323. absent ## adjective
 /ˈæb.sənt/ 
 [B1]not in the place where you are expected to be, especially at school or work
-- John has been absent from school/work for three days now.
+- John has been absent `from` school/work for three days now.
 
 ## 324. acceptable ## adjective
 /əkˈsep.tə.bəl/ GOOD ENOUGH
 [B1]good enough
-- This kind of behavior is not acceptable.
-- We need an arrangement that is acceptable to both parties.
+- This kind of `behavior` is not acceptable.
+- We need an arrangement that is acceptable `to` both parties.
 - So what is an acceptable level of radiation?
 
 ## 325. active ## adjective
 /ˈæk.tɪv/ BUSY
 [B1]doing a lot of things, or moving around a lot
-- physically/socially active
+- `physically/socially` active
 - He was still an active runner at 55.
-- It's important to stay active and get regular exercise.
+- It's important to `stay` active and get regular exercise.
 
 ## 326. active ## adjective
 /ˈæk.tɪv/ GRAMMAR
@@ -2185,29 +2185,29 @@
 ## 327. advanced ## adjective
 /ədˈvænst/ MODERN
 [B1]modern and well developed
-- advanced technology
+- advanced `technology`
 - This is the most advanced type of engine available.
 
 ## 328. afraid ## adjective [always after verb]
 /əˈfreɪd/ WORRIED
 [B1]worried that something bad might happen
-- Many people are afraid (that) they might lose their jobs.
-- She's afraid of upsetting Clare.
+- Many people are afraid `(that)` they might lose their jobs.
+- She's afraid `of` upsetting Clare.
 
 ## 329. alcoholic ## adjective
 /ˌæl.kəˈhɑ.lɪk/ 
 [B1]containing alcohol
-- alcoholic beverages
+- alcoholic `beverages`
 
 ## 330. alike ## adjective [always after verb]
 /əˈlɑɪk/ 
 [B1]similar
-- The children all look very alike.
+- The children all `look` very alike.
 
 ## 331. alive ## adjective [never before noun]
 /əˈlɑɪv/ LIVING
 [B1]living, not dead
-- All of my grandparents are still alive.
+- All of my grandparents are `still` alive.
 - It was a bad fall - she's lucky to be alive.
 
 ## 332. all right ## adjective [never before noun] ; adverb
@@ -2218,17 +2218,17 @@
 ## 333. amazed ## adjective
 /əˈmeɪzd/ 
 [B1]extremely surprised
-- She was amazed at how calm she felt after the accident.
-- I was absolutely amazed when I heard the news.
-- I was amazed to hear that Chris had won first prize.
-- I'm amazed (that) she didn't complain.
+- She was amazed `at` how calm she felt after the accident.
+- I was `absolutely` amazed when I heard the news.
+- I was amazed `to hear` that Chris had won first prize.
+- I'm amazed `(that)` she didn't complain.
 
 ## 334. amazing ## adjective
 /əˈmeɪ.zɪŋ/ SURPRISING
 [B1]extremely surprising
-- It's amazing to think that the managing director is only 23.
-- It's amazing that no one else has applied for the job.
-- The amazing thing is that it was kept secret for so long.
+- `It`'s amazing `to` think that the managing director is only 23.
+- `It`'s amazing `that` no one else has applied for the job.
+- The amazing `thing` is that it was kept secret for so long.
 
 ## 335. amusing ## adjective
 /əˈmjuː.zɪŋ/ 
@@ -2239,8 +2239,8 @@
 /ˈeɪn.tʃənt/ 
 [B1]from a long time ago
 - ancient Greece/Rome/Egypt
-- ancient monuments/ruins
-- People have lived in this valley since ancient times.
+- ancient `monuments/ruins`
+- People have lived in this valley since ancient `times`.
 
 ## 337. animated ## adjective
 /ˈæn.əˌmeɪt̬.ɪd/ FILM
@@ -2250,10 +2250,10 @@
 ## 338. annoyed ## adjective
 /əˈnɔɪd/ 
 [B1]angry
-- I was so annoyed with him for turning up late.
-- He was annoyed at the way she tried to take over the whole meeting.
-- My parents were rather annoyed (that) I hadn't told them about the accident.
-- She was annoyed to discover that her husband had taken her car keys.
+- I was so annoyed `with` him for turning up late.
+- He was annoyed `at` the way she tried to take over the whole meeting.
+- My parents were rather annoyed `(that)` I hadn't told them about the accident.
+- She was annoyed `to` discover that her husband had taken her car keys.
 
 ## 339. annoying ## adjective
 /əˈnɔɪ.ɪŋ/ 
@@ -2264,50 +2264,50 @@
 ## 340. annual ## adjective [always before noun]
 /ˈæn.ju.əl/ 
 [B1]happening once every year, or relating to a period of one year
-- an annual event/visit/holiday
-- annual income/salary
+- an annual `event/visit/holiday`
+- annual `income/salary`
 
 ## 341. antique ## adjective
 /ænˈtiːk/ 
 [B1]old and often rare or beautiful
-- antique furniture
+- antique `furniture`
 - antique silver/jewelry
 
 ## 342. anxious ## adjective
 /ˈæŋk.ʃəs/ WORRIED
 [B1]worried and nervous
-- He's very anxious about his exams.
-- My mother always gets a bit anxious if we're late.
+- He's very anxious `about` his exams.
+- My mother always `gets` a bit anxious if we're late.
 - I saw my sister's anxious face at the window.
 
 ## 343. ashamed ## adjective [never before noun]
 /əˈʃeɪmd/ EMBARRASSED
 [B1]feeling guilty or embarrassed about something you have done
-- You've got nothing to be ashamed of.
-- She ought to be ashamed of herself - talking to her mother like that!
-- He was ashamed to admit to his mistake.
-- I was ashamed that I'd made so little effort.
-- I felt so ashamed of myself for making such a fuss.
+- You've got nothing to be ashamed `of`.
+- She ought to be ashamed `of herself` - talking to her mother like that!
+- He was ashamed `to` admit to his mistake.
+- I was ashamed `that` I'd made so little effort.
+- I `felt` so ashamed of myself for making such a fuss.
 
 ## 344. asleep ## adjective [never before noun]
 /əˈsliːp/ SLEEPING
 [B1]sleeping or not awake
 - The children are asleep.
-- I fell asleep as soon as my head hit the pillow.
-- I'm surprised to see you awake - ten minutes ago you were fast/sound asleep.
-- I've only just got up and I'm still half asleep.
+- I `fell` asleep as soon as my head hit the pillow.
+- I'm surprised to see you awake - ten minutes ago you were `fast/sound` asleep.
+- I've only just got up and I'm still `half` asleep.
 
 ## 345. average ## adjective
 /ˈæv.rɪdʒ/ AMOUNT
 [B1]An average number is the number you get by adding two or more amounts together and dividing the total by the number of amounts.
-- an average age/temperature
+- an average `age/temperature`
 
 ## 346. awake ## adjective [never before noun]
 /əˈweɪk/ 
 [B1]not sleeping
-- I find it so difficult to stay awake late.
-- I drink a coffee to keep me awake.
-- I lay awake half the night worrying.
+- I find it so difficult to `stay` awake late.
+- I drink a coffee to `keep` me awake.
+- I `lay` awake half the night worrying.
 
 ## 347. bad ## adjective
 /bæd/ SEVERE
@@ -2318,8 +2318,8 @@
 ## 348. bad ## adjective
 /bæd/ NOT LUCKY
 [B1]not lucky, or not happening how you would like
-- It was just bad luck that she heard us.
-- I'll call you later if this is a bad time for you.
+- It was just bad `luck` that she heard us.
+- I'll call you later if this is a bad `time` for you.
 
 ## 349. bad ## adjective
 /bæd/ feel bad about sth/doing sth
@@ -2340,8 +2340,8 @@
 ## 352. bald ## adjective
 /bɔːld/ 
 [B1]with little or no hair on the head
-- At twenty he was already going bald.
-- He has a bald spot.
+- At twenty he was already `going` bald.
+- He has a bald `spot`.
 
 ## 353. barbecued ## adjective
 /ˈbɑr.bɪˌkjuːd/ 
@@ -2358,7 +2358,7 @@
 ## 355. basic ## adjective
 /ˈbeɪ.sɪk/ NECESSARY
 [B1]including or providing only the things that are most necessary
-- basic services/skills/training
+- basic `services/skills/training`
 - He only has a basic command of English.
 - The crisis has led to price increases in basic foodstuffs, such as meat, cheese and sugar.
 
@@ -2370,20 +2370,20 @@
 ## 357. bitter ## adjective
 /ˈbɪt̬.ər/ TASTE
 [B1]with an unpleasantly sharp taste
-- a bitter taste
+- a bitter `taste`
 
 ## 358. blank ## adjective
 /blæŋk/ EMPTY
 [B1]empty or clear, or containing no information or mark
-- a blank paper/page/form
+- a blank `paper/page/form`
 - My computer's screen suddenly went blank.
-- Sign your name in the blank space at the bottom of the form.
+- Sign your name in the blank `space` at the bottom of the form.
 
 ## 359. blind ## adjective
 /blɑɪnd/ NO SIGHT
 [B1]not able to see
 - She's been blind since birth.
-- He started to go blind in his sixties.
+- He started to `go` blind in his sixties.
 
 ## 360. boiled ## adjective
 /bɔɪld/ 
@@ -2394,9 +2394,9 @@
 /bɔːrd/ 
 [B1]feeling tired and unhappy because something is not interesting or because you have nothing to do
 - It was a cold, wet day and the children were bored.
-- We were bored stiff in those classes.
+- We were bored `stiff` in those classes.
 - He was bored doing the same thing every day.
-- I got bored with that book and didn't finish reading it.
+- I got bored `with` that book and didn't finish reading it.
 
 ## 362. brand new ## adjective
 /ˌbrændˈnuː/ 
@@ -2407,24 +2407,24 @@
 /breɪv/ 
 [B1]showing no fear of dangerous or difficult situations
 - a brave soldier
-- It was a brave decision to leave her job and start her own business.
-- She was very brave to learn to ski at fifty.
-- Of the three organizations criticized, only one was brave enoughto face the press.
-- Richards has made a brave attempt to answer his critics.
+- It was a brave `decision` to leave her job and start her own business.
+- She was very brave `to` learn to ski at fifty.
+- Of the three organizations criticized, only one was brave `enough``to` face the press.
+- Richards has made a brave `attempt` to answer his critics.
 
 ## 364. brief ## adjective
 /briːf/ SHORT
 [B1]lasting only a short time or using only a few words
 - His acceptance speech was very brief.
-- I had a brief look at her report before the meeting.
-- It'll only be a brief visit because we really don't have much time.
-- The company issued a brief statement about yesterday's accident.
+- I had a brief `look` at her report before the meeting.
+- It'll only be a brief `visit` because we really don't have much time.
+- The company issued a brief `statement` about yesterday's accident.
 
 ## 365. bright ## adjective
 /brɑɪt/ LIGHT
 [B1]full of light, shining
 - bright sunshine
-- The rooms were bright and airy.
+- The rooms were bright `and` airy.
 - The lights are too bright in here - they're hurting my eyes.
 
 ## 366. brilliant ## adjective
@@ -2441,7 +2441,7 @@
 /brɔːd/ WIDE
 [B1]wide
 - We walked down a broad avenue lined with trees.
-- He has very broad shoulders.
+- He has very broad `shoulders`.
 - a broad smile
 
 ## 369. broad ## adjective
@@ -2457,8 +2457,8 @@
 ## 371. calm ## adjective
 /kɑm/ PERSON
 [B1]relaxed and not worried, frightened, or excited
-- Try to stay calm - the doctor will be here soon.
-- Now keep calm everyone, the police are on their way.
+- Try to `stay` calm - the doctor will be here soon.
+- Now `keep` calm everyone, the police are on their way.
 - He has a very calm manner/voice.
 
 ## 372. calm ## adjective
@@ -2471,14 +2471,14 @@
 ## 373. careless ## adjective
 /ˈker.ləs/ 
 [B1]not giving enough attention to what you are doing
-- careless driving/drivers
+- careless `driving/drivers`
 - My son's teacher says that his work is often careless and sloppy.
-- He made a careless remark about her appearance that really upset her.
+- He made a careless `remark` about her appearance that really upset her.
 
 ## 374. casual ## adjective
 /ˈkæʒ.uː.əl/ CLOTHES
 [B1]Casual clothes are comfortable clothes worn when there is no reason to dress in a formal way.
-- casual clothes
+- casual `clothes`
 
 ## 375. central ## adjective
 /ˈsen.trəl/ NEAR CENTER
@@ -2489,22 +2489,22 @@
 ## 376. certain ## adjective
 /ˈsɜrt.ən/ NO DOUBT
 [B1]completely sure of something, or knowing without doubt that something is true
-- I feel certain (that) you're doing the right thing.
-- Are you absolutely certain (that) you gave them the right number?
-- I'm not certain how much it will cost.
-- He was quite certain about/of his attacker's identity.
+- I `feel` certain `(that)` you're doing the right thing.
+- Are you `absolutely` certain `(that)` you gave them the right number?
+- I'm not certain `how` much it will cost.
+- He was quite certain `about/of` his attacker's identity.
 
 ## 377. certain ## adjective
 /ˈsɜrt.ən/ SURE TO HAPPEN
 [B1]sure to happen, to do something, or to be true
-- It now looks certain that she will resign.
+- It now looks certain `that` she will resign.
 - One thing is certain: she's not coming to my party.
-- How can we make certain that she sees the note?
+- How can we `make` certain that she sees the note?
 
 ## 378. certain ## adjective
 /ˈsɜrt.ən/ PARTICULAR
 [B1]used to refer to a particular person or thing without naming or describing them
-- The museum is only open at certain times of the day.
+- The museum is only open at certain `times` of the day.
 
 ## 379. challenging ## adjective
 /ˈtʃæl.ən.dʒɪŋ/ 
@@ -2521,31 +2521,31 @@
 /ˈtʃɪr.fəl/ HAPPY
 [B1]happy and positive
 - He's usually pretty cheerful.
-- You're in a cheerful mood this morning.
+- You're in a cheerful `mood` this morning.
 - She manages to stay cheerful despite everything.
 
 ## 382. clear ## adjective
 /klɪr/ WITHOUT CLOUDS
 [B1]A clear sky does not have any clouds.
-- clear blue skies
+- clear `blue skies`
 
 ## 383. clear ## adjective
 /klɪr/ CERTAIN
 [B1]certain or obvious
-- Are you clear about how to get there?
-- It's clear that she's not interested.
-- I'm still not clear on what I'm supposed to do.
+- Are you clear `about` how to get there?
+- It's clear `that` she's not interested.
+- I'm still not clear on `what` I'm supposed to do.
 
 ## 384. clever ## adjective
 /ˈklev.ər/ 
 [B1]effective and showing intelligence
-- a clever idea
+- a clever `idea`
 - I've got a clever little gadget for opening jars.
 
 ## 385. close ## adjective
  RELATIVE
 [B1]A close relative is someone who is directly related to you, for example, your mother, father or brother.
-- There weren't many people at the funeral - just close family/relatives.
+- There weren't many people at the funeral - just close `family/relatives`.
 
 ## 386. cold ## adjective
 /koʊld/ UNFRIENDLY
@@ -2563,12 +2563,12 @@
 [B1]relaxed and free from pain
 - Are you comfortable perched on that seat?
 - I don't feel comfortable in high heels.
-- Please sit down and make yourself comfortable.
+- Please sit down and `make yourself` comfortable.
 
 ## 389. comic ## adjective
 /ˈkɑm.ɪk/ 
 [B1]funny
-- a comic actor/performance
+- a comic `actor/performance`
 
 ## 390. common ## adjective
 /ˈkɑm.ən/ USUAL
@@ -2579,27 +2579,27 @@
 ## 391. common ## adjective
 /ˈkɑm.ən/ SHARED
 [B1]belonging to or shared by two or more people or things
-- a common goal/interest
-- English has some features common to many languages.
+- a common `goal/interest`
+- English has some features common `to` many languages.
 
 ## 392. complete ## adjective
 /kəmˈpliːt/ TOTAL
 [B1]very great or to the largest degree possible
 - It was a complete waste of time.
 - He's a complete idiot!
-- I made a complete and utter mess of it!
+- I made a complete `and utter` mess of it!
 
 ## 393. complete ## adjective
 /kəmˈpliːt/ WHOLE
 [B1]with all the parts
-- the complete works of Oscar Wilde
-- The report comes complete with diagrams and color photographs.
+- the complete `works` of Oscar Wilde
+- The report comes complete `with` diagrams and color photographs.
 - Sun, sand and romance - her vacation was complete.
 
 ## 394. complicated ## adjective
 /ˈkɑm.pləˌkeɪt̬.əd/ 
 [B1]involving a lot of different parts, in a way that is difficult to understand
-- complicated instructions
+- complicated `instructions`
 - I had to fill in this really complicated form.
 - The rules are rather complicated to follow.
 - The relationship is a bit complicated. He's my mother's cousin's daughter's child.
@@ -2607,16 +2607,16 @@
 ## 395. confident ## adjective
 /ˈkɑn.fəd.ənt/ ABILITY
 [B1]certain about your ability to do things well
-- Be a bit more confident in yourself!
+- Be a bit more confident `in` yourself!
 - It was a confident performance.
-- He feels confident of winning.
+- He feels confident `of` winning.
 
 ## 396. confused ## adjective
 /kənˈfjuːzd/ NOT UNDERSTAND
 [B1]unable to think clearly or to understand something
 - People keep telling me different things and I'm getting very confused.
 - Sorry, I'm a bit confused - are we meeting here or in town?
-- She seemed a bit confused about the arrangements.
+- She seemed a bit confused `about` the arrangements.
 
 ## 397. confusing ## adjective
 /kənˈfjuː.zɪŋ/ 
@@ -2626,15 +2626,15 @@
 ## 398. convenient ## adjective
 /kənˈviːn.jənt/ EASY/SUITABLE
 [B1]easy to use or suiting your plans well
-- We could meet at either place - whichever is more convenient for you.
+- We could meet at either place - whichever is more convenient `for` you.
 - A bike's a very convenient way of getting around.
 - I find it more convenient to be able to do my banking online.
-- What would be a convenient time for me to stop by?
+- What would be a convenient `time` for me to stop by?
 
 ## 399. convenient ## adjective
 /kənˈviːn.jənt/ NEAR
 [B1]near or easy to get to
-- My new house is more convenient to the station.
+- My new house is more convenient `to` the station.
 
 ## 400. cool ## adjective
 /kuːl/ SLIGHTLY COLD
@@ -2650,8 +2650,8 @@
 ## 402. cozy ## adjective
 /ˈkoʊ.zi/ 
 [B1]comfortable and warm
-- This cabin stays warm and cozy all winter.
-- He led me into a cozy little room
+- This cabin stays `warm and` cozy all winter.
+- He led me into a cozy `little` room
 
 ## 403. crazy ## adjective
 /ˈkreɪ.zi/ go crazy
@@ -2670,13 +2670,13 @@
 /ˈkruː.əl/ 
 [B1]extremely unkind and unpleasant and causing pain to people or animals intentionally
 - Don't tease him about his weight - it's cruel.
-- Children can be very cruel to each other.
+- Children can be very cruel `to` each other.
 
 ## 406. cultural ## adjective
 /ˈkʌl.tʃə.rəl/ WAY OF LIFE
 [B1]relating to the habits, traditions and beliefs of a society
-- cultural diversity/differences/identity
-- cultural heritage
+- cultural `diversity/differences/identity`
+- cultural `heritage`
 
 ## 407. cultural ## adjective
 /ˈkʌl.tʃə.rəl/ ARTS
@@ -2687,30 +2687,30 @@
 ## 408. curious ## adjective
 /ˈkjʊr.iː.əs/ 
 [B1]wanting to know or learn about something
-- I was curious to know what would happen next.
-- Babies are curious about everything around them.
+- I was curious `to know` what would happen next.
+- Babies are curious `about` everything around them.
 - "Why did you ask?" "I was just curious."
 
 ## 409. curly ## adjective
 /ˈkɜr.li/ 
 [B1]shaped like a curl, or with many curls
-- curly hair
+- curly `hair`
 
 ## 410. daily ## adjective [always before noun]
 /ˈdeɪ.li/ daily life
 [B1]the usual things that happen to you every day
-- I try to keep exercise a part of my daily life.
+- I try to keep exercise a `part of` my daily life.
 
 ## 411. damaged ## adjective
 /ˈdæm.ɪdʒd/ 
 [B1]harmed or spoiled
 - They're selling off damaged goods at reduced prices.
-- Both cars involved in the accident looked badly damaged.
+- Both cars involved in the accident looked `badly` damaged.
 
 ## 412. deaf ## adjective
 /def/ 
 [B1]unable to hear, either completely or partly
-- He's been totally/partially deaf since birth.
+- He's been `totally/partially` deaf since birth.
 
 ## 413. deep ## adjective
 /diːp/ COLOR
@@ -2727,16 +2727,16 @@
 ## 415. delighted ## adjective
 /dəˈlɑɪt̬.ɪd/ 
 [B1]very pleased
-- We're delighted with our new house.
-- I was delighted by your news.
+- We're delighted `with` our new house.
+- I was delighted `by` your news.
 - I'm delighted you could come.
-- We'd be delighted to come to dinner on Friday.
+- We'd be delighted `to` come to dinner on Friday.
 
 ## 416. depressed ## adjective
 /dəˈprest/ UNHAPPY
 [B1]unhappy and without hope for the future
-- He seemed a bit depressed about work.
-- She became deeply depressed when her husband died.
+- He seemed a bit depressed `about` work.
+- She became `deeply` depressed when her husband died.
 
 ## 417. different ## adjective
 /ˈdɪf.rənt/ SEPARATE
@@ -2746,7 +2746,7 @@
 ## 418. difficult ## adjective
 /ˈdɪf.ə.kəlt/ NOT FRIENDLY
 [B1]not friendly or easy to deal with
-- The manager is difficult to deal with/a difficult person to deal with.
+- The manager is difficult `to` deal with/a difficult person `to` deal with.
 - His wife is a very difficult person.
 - Please children, don't be so difficult!
 
@@ -2759,27 +2759,27 @@
 ## 420. direct ## adjective
 /dəˈrekt/ STRAIGHT
 [B1]going straight from one place to another without stopping or changing direction
-- a direct route/line
+- a direct `route/line`
 - Is there a direct train to Edinburgh?
 
 ## 421. disabled ## adjective
 /dɪsˈeɪ.bəld/ 
 [B1]having an illness, injury or condition that makes it difficult to do the things that most people do
-- The accident left him severely disabled.
-- The library does not have disabled access.
+- The accident left him `severely` disabled.
+- The library does not have disabled `access`.
 
 ## 422. disappointed ## adjective
 /ˌdɪs.əˈpɔɪnt.əd/ 
 [B1]unhappy because someone or something was not as good as you hoped or expected, or because something did not happen
-- She was disappointed (that) they hadn't phoned.
-- We were deeply disappointed by/with the results.
-- His parents were very disappointed in/with him.
-- He was disappointed to find they'd already gone.
+- She was disappointed `(that)` they hadn't phoned.
+- We were `deeply` disappointed `by/with` the results.
+- His parents were `very` disappointed `in/with` him.
+- He was disappointed `to` find they'd already gone.
 
 ## 423. disappointing ## adjective
 /ˌdɪs.əˈpɔɪnt.ɪŋ/ 
 [B1]making you feel disappointed
-- What a disappointing performance/conclusion!
+- What a disappointing `performance/conclusion`!
 - The response to our advertisement has been very disappointing.
 
 ## 424. disgusting ## adjective
@@ -2792,12 +2792,12 @@
 /dəˈvɔːrst/ 
 [B1]married in the past but not now married
 - She's divorced.
-- They got divorced after only six months of marriage.
+- They `got` divorced after only six months of marriage.
 
 ## 426. downstairs ## adjective
  
 [B1]on or at a lower floor of a building, especially the ground floor
-- The burglars got in through a downstairs window.
+- The burglars got in through a downstairs `window`.
 
 ## 427. downtown ## adjective [always before noun]
 /ˈdɑʊn.tɑʊn/ 
@@ -2814,7 +2814,7 @@
 /duː/ EXPECTED
 [B1]expected to happen, arrive, etc. at a particular time
 - What time is the next bus due?
-- The next meeting is due to be held in three months' time.
+- The next meeting is due `to` be held in three months' time.
 - Their first baby is due in January.
 
 ## 430. due ## adjective
@@ -2827,7 +2827,7 @@
 /dʌl/ BORING
 [B1]not interesting or exciting in any way; boring
 - She wrote dull, respectable articles for the local newspaper.
-- He's pleasant enough, but deadly dull.
+- He's pleasant enough, but `deadly` dull.
 
 ## 432. dusty ## adjective
 /ˈdʌs.ti/ 
@@ -2842,7 +2842,7 @@
 ## 434. early ## adjective
 /ˈɜr.li/ BEFORE
 [B1]before the usual time or the time that was arranged
-- I'm going to have an early night.
+- I'm going to have an early `night`.
 - She took early retirement.
 
 ## 435. eastern ## adjective [always before noun]
@@ -2869,7 +2869,7 @@
 ## 439. elderly ## adjective
 /ˈel.dər.li/ 
 [B1]a more polite word for "old," used to describe people
-- elderly relatives/parents
+- elderly `relatives/parents`
 
 ## 440. eldest ## adjective
 /ˈel.dəst/ eldest child/brother/daughter, etc.
@@ -2879,7 +2879,7 @@
 ## 441. electric ## adjective
 /eˈlek.trɪk/ SUPPLY
 [B1]supplying electricity
-- an electric plug/outlet
+- an electric `plug/outlet`
 
 ## 442. electrical ## adjective
 /eˈlek.trɪ.kəl/ USING ELECTRICITY
@@ -2890,7 +2890,7 @@
 ## 443. electronic ## adjective
 /eˌlekˈtrɑn.ɪk/ EQUIPMENT
 [B1]Electronic equipment consists of things such as computers, televisions, and radios.
-- electronic components/devices
+- electronic `components/devices`
 
 ## 444. electronic ## adjective
 /eˌlekˈtrɑn.ɪk/ TECHNOLOGY
@@ -2900,26 +2900,26 @@
 ## 445. elementary ## adjective
 /ˌel.əˈmen.tər.i/ 
 [B1]basic or relating to the early stages of studying a subject
-- students at elementary level
+- students at elementary `level`
 
 ## 446. embarrassed ## adjective
 /ɪmˈbær.əst/ 
 [B1]feeling ashamed or shy
-- She felt embarrassed about undressing in front of the doctor.
-- I was too embarrassed to admit that I was scared.
+- She felt embarrassed `about` undressing in front of the doctor.
+- I was too embarrassed `to` admit that I was scared.
 
 ## 447. embarrassing ## adjective
 /ɪmˈbær.ə.sɪŋ/ 
 [B1]making you feel embarrassed
 - an embarrassing situation
-- It's embarrassing to be caught telling a lie.
-- What has been your most embarrassing moment?
+- It's embarrassing `to` be caught telling a lie.
+- What has been your most embarrassing `moment`?
 
 ## 448. engaged ## adjective
 /ɪnˈgeɪdʒd/ 
 [B1]having formally agreed to marry
-- Debbie and Chris just got engaged.
-- She was engaged to some guy in the army.
+- Debbie and Chris just `got` engaged.
+- She was engaged `to` some guy in the army.
 
 ## 449. enjoyable ## adjective
 /enˈdʒɔɪ.ə.bəl/ 
@@ -2937,22 +2937,22 @@
 ## 451. environmental ## adjective
 /enˌvɑɪ.rənˈmen.təl/ 
 [B1]relating to the environment
-- People are becoming far more aware of environmental issues.
+- People are becoming far more aware of environmental `issues`.
 
 ## 452. equal ## adjective
 /ˈiː.kwəl/ SAME AMOUNT/NUMBER, ETC.
 [B1]the same in amount, number or size
 - The sides are of equal length.
-- One quart is equal to 0.946 liters.
+- One quart is equal `to` 0.946 liters.
 
 ## 453. essential ## adjective
 /ɪˈsen.tʃəl/ NECESSARY
 [B1]very important and necessary
 - Government support will be essential if the project is to succeed.
-- Computers are an essential part of our lives.
-- Water is essential for/to living things.
-- It is essential that our prices remain competitive.
-- For the experiment to be valid, it is essential to record the data accurately.
+- Computers are an essential `part` of our lives.
+- Water is essential `for/to` living things.
+- `It` is essential `that` our prices remain competitive.
+- For the experiment to be valid, it is essential `to` record the data accurately.
 
 ## 454. exact ## adjective
 /ɪgˈzækt/ 
@@ -2960,7 +2960,7 @@
 - The exact distance is 1.838 meters.
 - I'm afraid I can't give you exact details.
 - The exact location of the factory has yet to be decided.
-- They've lived here a long time - 25 years to be exact.
+- They've lived here a long time - 25 years `to be` exact.
 
 ## 455. exhausted ## adjective
 /ɪgˈzɔː.stɪd/ 
@@ -2972,7 +2972,7 @@
 /ɪkˈspɪr.iː.ənst/ 
 [B1]having skill or knowledge because you have done something many times
 - an experienced teacher
-- She is very experienced in marketing.
+- She is very experienced `in` marketing.
 
 ## 457. extraordinary ## adjective
 /ɪkˈstrɔːrd.ənˌer.i/ 
@@ -2983,22 +2983,22 @@
 ## 458. face-to-face ## adjective
 /ˌfeɪs.təˈfeɪs/ 
 [B1]involving two people who are meeting in the same place
-- a face-to-face meeting
+- a face-to-face `meeting`
 
 ## 459. fair ## adjective
 /fer/ EQUAL
 [B1]treating everyone in the same way, so that no one has an advantage
-- That's not fair! You always go first!
-- It's not fair to make me do all the work.
-- a fair trial
-- I can't spend all my time with one child - it wouldn't be fair to the others.
+- `That's not` fair! You always go first!
+- It's not fair `to` make me do all the work.
+- a fair `trial`
+- I can't spend all my time with one child - it wouldn't be fair `to` the others.
 
 ## 460. fair ## adjective
 /fer/ REASONABLE
 [B1]acceptable, reasonable or right
-- a fair deal
-- He offered a fair price for the car.
-- That's a fair comment/question.
+- a fair `deal`
+- He offered a fair `price` for the car.
+- That's a fair `comment/question`.
 
 ## 461. false ## adjective
 /fɔːls/ NOT CORRECT
@@ -3006,14 +3006,14 @@
 - a false name
 - false information
 - The rumor turned out to be false.
-- You'll get a false impression/idea of the town if you only visit the university.
+- You'll get a false `impression/idea` of the town if you only visit the university.
 
 ## 462. familiar ## adjective
 /fəˈmɪl.jər/ EASY TO RECOGNIZE
 [B1]easy to recognize because of being seen, met, heard, etc. before
-- There were one or two familiar faces.
-- The house looked strangely familiar, though she knew she'd never been there before.
-- The street was familiar to me.
+- There were one or two familiar `faces`.
+- The house looked `strangely` familiar, though she knew she'd never been there before.
+- The street was familiar `to` me.
 
 ## 463. fancy ## adjective
 /ˈfæn.si/ ATTRACTIVE
@@ -3031,8 +3031,8 @@
 /ˈfæʃ.ən.ə.bəl/ 
 [B1]popular at a particular time
 - a fashionable nightclub/restaurant
-- fashionable clothes
-- It's no longer fashionable to smoke.
+- fashionable `clothes`
+- `It's` no longer fashionable `to` smoke.
 
 ## 466. female ## adjective
 /ˈfiː.meɪl/ 
@@ -3051,15 +3051,15 @@
 [B1]a small number, not many or not enough
 - He is among the few people I can trust.
 - Very few people can afford to pay those prices.
-- Few of the children can read or write yet.
+- Few `of` the children can read or write yet.
 - We get few complaints.
-- According to the survey, as few as 10% of us are happy in our jobs.
+- According to the survey, `as` few `as` 10% of us are happy in our jobs.
 
 ## 469. financial ## adjective
 /fɑɪˈnæn.tʃəl/ 
 [B1]relating to money or how money is managed
 - They're having a few financial difficulties at the moment.
-- a financial adviser
+- a financial `adviser`
 
 ## 470. fine ## adjective
 /fɑɪn/ SUNNY
@@ -3069,13 +3069,13 @@
 ## 471. first-floor ## adjective [always before noun]
 /ˈˈfɜːrstˈflɔːr/ 
 [B1]on the first floor
-- a first-floor apartment/office/classroom
+- a first-floor `apartment/office/classroom`
 
 ## 472. flat ## adjective
 /flæt/ 
 [B1]level and smooth, with no high, raised, or round parts
-- An ice rink needs to be completely flat.
-- Roll out the pastry on a flat surface.
+- An ice rink needs to be `completely` flat.
+- Roll out the pastry on a flat `surface`.
 - Much of the countryside in East Anglia is very flat.
 
 ## 473. flat ## adjective
@@ -3115,7 +3115,7 @@
 ## 479. freezing ## adjective
 /ˈfriː.zɪŋ/ 
 [B1]extremely cold
-- It's absolutely freezing in here - can I close the window?
+- `It`'s `absolutely` freezing in here - can I close the window?
 - They survived for four hours in the freezing water.
 - After walking through the snow, my feet were freezing.
 
@@ -3128,14 +3128,14 @@
 ## 481. fresh ## adjective
 /freʃ/ DIFFERENT
 [B1]new or different from what was there before
-- We're looking for fresh ideas.
-- We need to take a fresh look at the problem.
-- They decided to move abroad and make a fresh start.
+- We're looking for fresh `ideas`.
+- We need to take a fresh `look` at the problem.
+- They decided to move abroad and `make a` fresh `start`.
 
 ## 482. fresh ## adjective
 /freʃ/ CLEAN/COOL
 [B1]smelling clean or feeling pleasantly cool
-- a fresh smell/breeze
+- a fresh `smell/breeze`
 
 ## 483. fresh ## adjective
 /freʃ/ fresh air
@@ -3145,9 +3145,9 @@
 ## 484. frightened ## adjective
 /ˈfraɪ.tənd/ 
 [B1]feeling fear or worry
-- Are you frightened of spiders?
-- I was frightened (that) you would fall.
-- She gets frightened when he shouts at her.
+- Are you frightened `of` spiders?
+- I was frightened `(that)` you would fall.
+- She `gets` frightened when he shouts at her.
 - The policewoman found a frightened child in the hut.
 
 ## 485. frightening ## adjective
@@ -3159,10 +3159,10 @@
 ## 486. front ## adjective [always before noun]
 /frʌnt/ 
 [B1]in or at the front of something
-- the front door/garden
-- the front page of the newspaper
-- One of his front teeth is missing.
-- I'd like two seats in the front row.
+- the front `door/garden`
+- the front `page` of the newspaper
+- One of his front `teeth` is missing.
+- I'd like two seats in the front `row`.
 
 ## 487. frozen ## adjective
 /ˈfroʊ.zən/ FOOD
@@ -3178,13 +3178,13 @@
 /ˈfroʊ.zən/ PERSON
 [B1]If a person, or a part of their body is frozen, they are very cold.
 - Is there any heating in here? I'm frozen!
-- After walking through the snow, my feet were frozen stiff.
+- After walking through the snow, my feet were frozen `stiff`.
 
 ## 490. full ## adjective
 /fʊl/ GREATEST POSSIBLE
 [B1]the greatest possible
-- James is very bright, but he doesn't make full use of his abilities.
-- We were driving at full speed all the way.
+- James is very bright, but he doesn't make full `use` of his abilities.
+- We were driving at full `speed` all the way.
 
 ## 491. full ## adjective
 /fʊl/ in full
@@ -3194,24 +3194,24 @@
 ## 492. full-time ## adjective ; adverb
 /ˌfʊlˈtaɪm/ 
 [B1]happening or working for the whole of the working week and not only part of it
-- a full-time job
-- He's a full-time student.
-- She went back to work full time when her youngest child went to school.
+- a full-time `job`
+- He's a full-time `student.`
+- She went back to `work` full time when her youngest child went to school.
 
 ## 493. funny ## adjective
 /ˈfʌn.i/ STRANGE
 [B1]strange, surprising, unexpected or difficult to explain or understand
-- He's got some funny ideas about how to bring up children.
-- That's funny - I'm sure I left my keys here.
-- A funny thing happened to me on the way here.
-- Do you think this jacket looks a bit funny with these jeans?
+- He's got some funny `ideas` about how to bring up children.
+- `That's` funny - I'm sure I left my keys here.
+- A funny `thing` happened to me on the way here.
+- Do you think this jacket looks `a bit` funny with these jeans?
 
 ## 494. future ## adjective [always before noun]
 /ˈfjuː.tʃər/ 
 [B1]happening or existing in the time which is to come
-- future plans
-- in future years
-- What will we leave for future generations?
+- future `plans`
+- in future `years`
+- What will we leave for future `generations`?
 
 ## 495. gay ## adjective
 /geɪ/ 
@@ -3222,9 +3222,9 @@
 ## 496. general ## adjective
 /ˈdʒen.rəl/ NOT DETAILED
 [B1]not detailed, but including the most basic or necessary information
-- These leaflets contain some general information about the school.
-- It's a very general description.
-- I've got a general idea of how it works.
+- These leaflets contain some general `information` about the school.
+- It's a very general `description`.
+- I've got a general `idea` of how it works.
 
 ## 497. general ## adjective
 /ˈdʒen.rəl/ in general
@@ -3245,8 +3245,8 @@
 ## 500. gentle ## adjective
 /ˈdʒent.əl/ NOT STRONG
 [B1]not violent, severe or strong
-- gentle exercise
-- a gentle breeze
+- gentle `exercise`
+- a gentle `breeze`
 
 ## 501. giant ## adjective
 /ˈdʒɑɪ.ənt/ 
@@ -3257,7 +3257,7 @@
 /gʊd/ MORALLY RIGHT
 [B1]morally right
 - He's a very good person.
-- Try to set a good example for the children.
+- Try to set a good `example` for the children.
 
 ## 503. gorgeous ## adjective
 /ˈgɔːr.dʒəs/ 
@@ -3268,8 +3268,8 @@
 ## 504. grateful ## adjective
 /ˈgreɪt.fəl/ 
 [B1]feeling or showing thanks
-- I'm really grateful to you for all your help.
-- I would be most grateful if you would send me the book immediately.
+- I'm really grateful `to` you `for` all your help.
+- I would be most grateful `if` you would send me the book immediately.
 
 ## 505. great ## adjective
 /greɪt/ EXTREME
@@ -3279,32 +3279,32 @@
 ## 506. green ## adjective
 /griːn/ GRASS
 [B1]covered with grass or other plants
-- green spaces
+- green `spaces`
 
 ## 507. guilty ## adjective
 /ˈgɪl.ti/ FEELING
 [B1]feeling guilt
-- She was so upset about what I'd said and I felt so guilty.
-- I felt guilty about leaving her there on her own.
-- I've got a guilty conscience.
+- She was so upset about what I'd said and I `felt` so guilty.
+- I felt guilty `about` leaving her there on her own.
+- I've got a guilty `conscience`.
 
 ## 508. handsome ## adjective
 /ˈhæn.səm/ ATTRACTIVE
 [B1]A handsome man is attractive.
-- She's hoping that she'll meet a tall, dark, handsome stranger.
+- She's hoping that she'll meet a `tall, dark`, handsome stranger.
 
 ## 509. hard ## adjective
 /hɑrd/ USING EFFORT
 [B1]needing or using a lot of physical or mental effort
 - Go on - give it a good hard push!
-- It was hard work on the farm, but satisfying.
+- It was hard `work` on the farm, but satisfying.
 
 ## 510. heavy ## adjective
 /ˈhev.i/ A LOT
 [B1]large in amount or degree
-- heavy traffic
-- heavy rain/snow
-- a heavy sleeper
+- heavy `traffic`
+- heavy `rain/snow`
+- a heavy `sleeper`
 
 ## 511. helpful ## adjective
 /ˈhelp.fəl/ 
@@ -3323,37 +3323,37 @@
 /hɑɪ/ ABOVE GROUND
 [B1]a large distance above the ground or the level of the sea
 - a high window
-- The town was high up in the mountains.
+- The town was high `up` in the mountains.
 
 ## 514. high ## adjective
 /hɑɪ/ AMOUNT/LEVEL
 [B1]great in amount, size or level
-- a high temperature
-- high prices/costs
+- a high `temperature`
+- high `prices/costs`
 - The car sped away at high speed.
 
 ## 515. high ## adjective
 /hɑɪ/ VERY GOOD
 [B1]very good
-- high standards/quality
-- She always got high grades in science.
+- high `standards/quality`
+- She always got high `grades` in science.
 
 ## 516. historic ## adjective
 /hɪˈstɔːr.ɪk/ 
 [B1]important or likely to be important in history
-- historic buildings
-- a historic day/moment
+- historic `buildings`
+- a historic `day/moment`
 
 ## 517. historical ## adjective
 /hɪˈstɔːr.ɪ.kəl/ 
 [B1]relating to events or people in the past, or to the study of history
 - Many important historical documents were destroyed when the library was bombed.
-- She specializes in historical novels set in eighteenth-century England.
+- She specializes in historical `novels` set in eighteenth-century England.
 
 ## 518. honest ## adjective
 /ˈɑn.ɪst/ TRUTH
 [B1]sincere and telling the truth
-- If you want my honest answer/opinion, I think your hair looks awful.
+- If you want my honest `answer/opinion`, I think your hair looks awful.
 
 ## 519. honest ## adjective
 /ˈɑn.ɪst/ NOT CHEAT
@@ -3365,14 +3365,14 @@
 /ˈɑn.ɪst/ to be honest
 [B1]used to express your real opinion
 - To be honest, I didn't really enjoy the party.
-- To be honest with you, I don't think it will be possible.
+- To be honest `with` you, I don't think it will be possible.
 
 ## 521. hopeful ## adjective
 /ˈhoʊp.fəl/ FEELING POSITIVE
 [B1]feeling positive about a future event or situation
-- He was hopeful about the outcome of the meeting.
-- They were hopeful of a successful agreement.
-- I'm hopeful (that) we can reach a compromise.
+- He was hopeful `about` the outcome of the meeting.
+- They were hopeful `of` a successful agreement.
+- I'm hopeful `(that)` we can reach a compromise.
 
 ## 522. hopeless ## adjective
 /ˈhoʊ.pləs/ NO HOPE
@@ -3385,7 +3385,7 @@
 /hɑt/ SPICY
 [B1]Hot food contains strong spices that cause a burning feeling in your mouth.
 - hot chili peppers
-- hot and spicy food
+- hot and `spicy` food
 
 ## 524. huge ## adjective
 /hjuːdʒ/ 
@@ -3397,9 +3397,9 @@
 ## 525. human ## adjective
 /ˈhjuː.mən/ 
 [B1]relating to people or their characteristics
-- the human body
-- human behavior
-- The fault was due to human error.
+- the human `body`
+- human `behavior`
+- The fault was due to human `error`.
 
 ## 526. humid ## adjective
 /ˈhjuː.mɪd/ 
@@ -3410,8 +3410,8 @@
 /hɜrt/ IN PAIN
 [B1]injured or in pain
 - Let me help you up. Are you hurt?
-- Put that knife away before someone gets hurt.
-- Several people were seriously/badly hurt in the explosion.
+- Put that knife away before someone `gets` hurt.
+- Several people were `seriously/badly` hurt in the explosion.
 
 ## 528. hurt ## adjective
 /hɜrt/ UNHAPPY
@@ -3438,14 +3438,14 @@
 ## 532. impossible ## adjective
 /ɪmˈpɑs.ə.bəl/ CANNOT HAPPEN
 [B1]If an action or event is impossible, it cannot happen or be done.
-- It’s almost impossible to get them to agree on anything.
-- The traffic noise made it impossible for me to sleep.
+- It’s almost impossible `to` get them to agree on anything.
+- The traffic noise `made it` impossible `for` me to sleep.
 - It seems impossible.
 
 ## 533. incorrect ## adjective
 /ˌɪn.kəˈrekt/ 
 [B1]not correct
-- an incorrect answer
+- an incorrect `answer`
 - Your figures are incorrect.
 
 ## 534. incredible ## adjective
@@ -3458,7 +3458,7 @@
 /ˌɪn.dɪˈpen.dənt/ NOT HELPED
 [B1]not taking help or money from other people
 - Grandma's very independent and does all her own shopping and cooking.
-- I've always been financially independent.
+- I've always been `financially` independent.
 
 ## 536. individual ## adjective [always before noun]
 /ˌɪn.dəˈvɪdʒ.u.əl/ SINGLE
@@ -3498,7 +3498,7 @@
 /ˈdʒel.əs/ UNHAPPY IN LOVE
 [B1]upset and angry because someone you love seems interested in another person
 - a jealous husband/wife
-- Anna says she feels jealous every time another woman looks at her boyfriend.
+- Anna says she `feels` jealous every time another woman looks at her boyfriend.
 
 ## 543. juicy ## adjective
 /ˈdʒuː.si/ WITH JUICE
@@ -3518,13 +3518,13 @@
 ## 546. lead ## adjective [always before noun]
 /liːd/ 
 [B1]The lead performer or lead part in a performance is the main performer or part.
-- Who played the lead role?
+- Who played the lead `role`?
 
 ## 547. light ## adjective
 /lɑɪt/ BRIGHT
 [B1]lit by the natural light of the day
-- It gets light very early these summer mornings.
-- In July, it stays light until almost 9:00 p.m.
+- It `gets` light very early these summer mornings.
+- In July, it `stays` light until almost 9:00 p.m.
 - Let's finish the work while it's still light enough to see.
 
 ## 548. light ## adjective
@@ -3540,12 +3540,12 @@
 [B1]describes something that will probably happen or is expected
 - If I don’t write it down, I’m likely to forget.
 - I suppose that could happen, but it's not likely.
-- I'm more likely to be home on Saturday than on Sunday.
+- I'm `more` likely `to be` home on Saturday than on Sunday.
 
 ## 550. limited ## adjective
 /ˈlɪm.ə.tɪd/ SMALL
 [B1]small in amount or number
-- a limited choice
+- a limited `choice`
 - limited resources
 
 ## 551. little ## adjective
@@ -3557,9 +3557,9 @@
 ## 552. live ## adjective
  AS IT HAPPENS
 [B1]A live radio or television program or performance is seen or heard as it happens.
-- This evening there will be a live broadcast of the debate.
-- There will be live music at the party.
-- a live concert
+- This evening there will be a live `broadcast` of the debate.
+- There will be live `music` at the party.
+- a live `concert`
 
 ## 553. lively ## adjective
 /ˈlɑɪv.li/ 
@@ -3574,9 +3574,9 @@
 [B1]relating to an area near you
 - a local accent
 - local issues
-- a local hospital/television station
+- a local `hospital/television station`
 - Most of the local population depend on fishing for their income.
-- Our children all go to the local school.
+- Our children all go to the local `school`.
 - Many local stores will be close if the new mall is built.
 
 ## 555. lonely ## adjective
@@ -3594,7 +3594,7 @@
 /lɔːst/ OBJECT
 [B1]If something is lost, no one knows where it is.
 - a lost book
-- Things tend to get lost when you move to a new house.
+- Things tend to `get` lost when you move to a new house.
 - Lost: a black cat with white paws
 
 ## 558. low ## adjective
@@ -3618,15 +3618,15 @@
 ## 561. mad ## adjective
 /mæd/ ILL
 [B1]mentally ill
-- I think I must be going mad.
+- I think I must be `going` mad.
 - He went mad with grief.
 - Do I look like some mad old woman in this hat?
 
 ## 562. magic ## adjective
 /ˈmædʒ.ɪk/ SPECIAL POWERS
 [B1]with special powers that make impossible things happen
-- The witch put a magic spell on the prince and turned him into a frog.
-- There's no magic solution to the problem.
+- The witch put a magic `spell` on the prince and turned him into a frog.
+- There's no magic `solution` to the problem.
 
 ## 563. magnificent ## adjective
 /mægˈnɪf.ə.sənt/ 
@@ -3639,10 +3639,10 @@
 /meɪn/ MOST IMPORTANT
 [B1]most important or largest
 - The main airport is 15 miles from the capital.
-- One of the main reasons I came to England was to study the language.
-- You'll find the main points of my proposal in the report.
-- Our main goal/objective is to improve the company's productivity.
-- The main problem in the health care system is lack of resources.
+- One of the main `reasons` I came to England was to study the language.
+- You'll find the main `points` of my proposal in the report.
+- Our main `goal/objective` is to improve the company's productivity.
+- The main `problem` in the health care system is lack of resources.
 
 ## 565. male ## adjective
 /meɪl/ 
@@ -3662,14 +3662,14 @@
 ## 567. maximum ## adjective
 /ˈmæk.sə.məm/ 
 [B1]The maximum amount of something is the largest amount that is allowed or possible.
-- maximum speed/effort/temperature
+- maximum `speed/effort/temperature`
 - The bomb was designed to cause the maximum amount of damage.
 
 ## 568. medium ## adjective
 /ˈmiːd.i.əm/ 
 [B1]in the middle of a group of different amounts or sizes
 - a girl of medium height
-- She bought a medium-sized car.
+- She bought a medium`-sized` car.
 - All shirts come in small, medium, and large.
 
 ## 569. messy ## adjective
@@ -3683,36 +3683,36 @@
 ## 570. middle-aged ## adjective
 /ˌmɪd.əlˈeɪdʒd/ 
 [B1]in the middle of your life before you are old
-- a middle-aged couple/man/woman
+- a middle-aged `couple/man/woman`
 
 ## 571. mild ## adjective
 /mɑɪld/ WEATHER
 [B1]describes weather that is not very cold or not as cold as usual
-- We've had a mild winter this year.
+- We've had a mild `winter` this year.
 
 ## 572. minimum ## adjective
 /ˈmɪn.ə.məm/ 
 [B1]The minimum amount of something is the smallest amount that is allowed, needed, or possible.
-- There is a minimum charge of $5 for postage.
-- Eighteen is the minimum age for entering most nightclubs.
+- There is a minimum `charge` of $5 for postage.
+- Eighteen is the minimum `age` for entering most nightclubs.
 - That's the minimum degree required to teach English in most language schools.
 
 ## 573. miserable ## adjective
 /ˈmɪz.ə.rə.bəl/ UNHAPPY
 [B1]sad
-- I just woke up feeling miserable.
+- I just woke up `feeling` miserable.
 
 ## 574. missing ## adjective
 /ˈmɪs.ɪŋ/ NOT INCLUDED
 [B1]not included in something
-- There are a couple of names missing from the list.
-- When did you realize that the money was missing from your account?
+- There are a couple of names missing `from` the list.
+- When did you realize that the money was missing `from` your account?
 
 ## 575. modern ## adjective
 /ˈmɑd.ərn/ NOW
 [B1]relating to the present time and not to the past
 - modern society
-- the stresses of modern life
+- the stresses of modern `life`
 
 ## 576. monthly ## adjective ; adverb
 /ˈmʌnθ.li/ 
@@ -3724,7 +3724,7 @@
 ## 577. narrow ## adjective
 /ˈnær.oʊ/ NOT WIDE
 [B1]Narrow things measure a small distance from one side to the other.
-- narrow streets
+- narrow `streets`
 - a narrow bridge/doorway/path
 - a narrow face
 - narrow feet
@@ -3732,23 +3732,23 @@
 ## 578. nasty ## adjective
 /ˈnæs.ti/ BAD
 [B1]bad or unpleasant
-- a nasty shock/surprise
+- a nasty `shock/surprise`
 - There's a nasty smell in here.
 - He had a nasty cut above the eye.
-- She has a nasty habit of picking on people in meetings.
+- She has a nasty `habit` of picking on people in meetings.
 
 ## 579. nasty ## adjective
 /ˈnæs.ti/ UNKIND
 [B1]unkind
-- Don't be so nasty to your brother - he's four years younger than you!
+- Don't be so nasty `to` your brother - he's four years younger than you!
 
 ## 580. natural ## adjective
 /ˈnætʃ.ə.rəl/ NOT ARTIFICIAL
 [B1]Something that is natural exists or happens because of nature, not because it was made or done by people.
 - natural ingredients
 - a natural substance
-- He died from natural causes.
-- Floods and earthquakes are natural disasters.
+- He died from natural `causes`.
+- Floods and earthquakes are natural `disasters`.
 - People say that breast-feeding is better than bottle-feeding because it's more natural.
 
 ## 581. navy blue ## adjective
@@ -3776,39 +3776,39 @@
 ## 585. necessary ## adjective
 /ˈnes.əˌser.i/ 
 [B1]needed in order to achieve something
-- If necessary, we can change the dates of our trip.
+- `If` necessary, we can change the dates of our trip.
 - We don't want to take any more luggage with us than is necessary.
 - I won't stay any longer than necessary.
 - He lacks the necessary skills for the job.
-- Is it necessary to give so much detail?
+- Is it necessary `to` give so much detail?
 
 ## 586. negative ## adjective
 /ˈneg.ə.tɪv/ NO ENTHUSIASM
 [B1]not having enthusiasm or positive opinions about something
-- negative feelings
-- Many people have a negative attitude toward aging.
+- negative `feelings`
+- Many people have a negative `attitude` toward aging.
 - You're so negative about everything!
 
 ## 587. nervous ## adjective
 /ˈnɜr.vəs/ 
 [B1]worried or anxious
-- He gets very nervous before exams.
+- He `gets` very nervous before exams.
 - I was too nervous to speak.
-- I was very nervous about driving again after the accident.
-- She's always been nervous around dogs.
+- I was very nervous `about` driving again after the accident.
+- She's always been nervous `around` dogs.
 - a nervous cough/laugh
 
 ## 588. new ## adjective
 /nuː/ NOT FAMILIAR
 [B1]not yet familiar or experienced
-- I'm new to the area.
-- She's new to the job so you can't expect her to know everything yet.
+- I'm new `to` the area.
+- She's new `to` the job so you can't expect her to know everything yet.
 - New staff are given training.
 
 ## 589. next-door ## adjective
 /ˈnekstˌdɔːr/ 
 [B1]in the next room, house, or building
-- What are your next-door neighbors like?
+- What are your next-door `neighbors` like?
 
 ## 590. nice ## adjective
 /nɑɪs/ nice and sth
@@ -3836,11 +3836,11 @@
 /ˈɑb.viː.əs/ 
 [B1]easy to understand or see
 - How do you know she's not happy? "It's obvious."
-- It's obvious (that) she doesn't like him.
-- There is no obvious solution.
-- They have a small child so for obvious reasons they need money.
-- I know you don't like her, but do you have to make it so obvious?
-- Am I just stating the obvious?
+- It's obvious `(that)` she doesn't like him.
+- There is no obvious `solution`.
+- They have a small child so `for` obvious `reasons` they need money.
+- I know you don't like her, but do you have to `make it` so obvious?
+- Am I just `stating the` obvious?
 
 ## 595. old-fashioned ## adjective
 /ˌoʊldˈfæʃ.ənd/ 
@@ -3851,7 +3851,7 @@
 ## 596. open ## adjective
 /ˈoʊ.pən/ WITHOUT BUILDINGS
 [B1]An open area of land has no buildings on it or near it.
-- large open spaces
+- large open `spaces`
 - There's a wonderful view from the garden over open countryside.
 
 ## 597. opposite ## adjective
@@ -3877,8 +3877,8 @@
 ## 600. original ## adjective
 /əˈrɪdʒ.ən.əl/ INTERESTING
 [B1]special and interesting because of not being the same as others
-- Her essay was full of original ideas.
-- He's a highly original thinker.
+- Her essay was full of original `ideas`.
+- He's a highly original `thinker`.
 
 ## 601. out-of-date ## adjective
 /ˌɑʊt̬.əvˈdeɪt/ 
@@ -3888,21 +3888,21 @@
 ## 602. outdoor ## adjective [always before noun]
 /ˌɑʊtˈdɔːr/ 
 [B1]happening, used, or in a place that is outside and not inside a building
-- an outdoor pool/concert
-- outdoor clothes
+- an outdoor `pool/concert`
+- outdoor `clothes`
 
 ## 603. overnight ## adjective ; adverb
 /ˌoʊ.vərˈnɑɪt/ FOR THE NIGHT
 [B1]for or during the night
 - an overnight stop in Paris
-- You can stay overnight if you want to.
-- Don't forget to pack an overnight bag.
+- You can `stay` overnight if you want to.
+- Don't forget to pack an overnight `bag`.
 
 ## 604. own ## adjective ; pronoun
 /oʊn/ of your own
 [B1]belonging to someone or something
 - I'll have a home of my own someday.
-- He wanted an apartment of his own.
+- He wanted an apartment `of his` own.
 
 ## 605. own ## adjective ; pronoun
 /oʊn/ (all) on your own
@@ -3922,7 +3922,7 @@
 ## 608. part-time ## adverb ; adjective
 /ˌpɑrtˈtɑɪm/ 
 [B1]If you work part-time or do part-time work, you work for only some of the day or the week.
-- a part-time job
+- a part-time `job`
 - He works part-time as a waiter.
 
 ## 609. particular ## adjective
@@ -3940,20 +3940,20 @@
 /pæst/ BEFORE NOW
 [B1]having happened or existed before now
 - past relationships
-- I know this from past experience.
+- I know this from past `experience`.
 
 ## 612. past ## adjective
 /pæst/ UNTIL NOW
 [B1]used to refer to a period of time before and until the present
 - I've moved twice in the past ten years.
-- It's been raining for the past three days.
-- He was the fifth climber to die on these mountains over the past two days.
+- It's been raining `for` the past three days.
+- He was the fifth climber to die on these mountains `over` the past two days.
 
 ## 613. patient ## adjective
 /ˈpeɪ.ʃənt/ 
 [B1]having patience
 - Dinner will be ready in half an hour - just be patient!
-- Be patient with her - she's very young.
+- Be patient `with` her - she's very young.
 
 ## 614. peaceful ## adjective
 /ˈpiːs.fəl/ CALM
@@ -3963,36 +3963,36 @@
 ## 615. perfect ## adjective
  SUITABLE
 [B1]exactly right for someone or something
-- You'd be perfect for the job.
+- You'd be perfect `for` the job.
 - The weather's just perfect for a picnic.
 
 ## 616. permanent ## adjective
 /ˈpɜr.mə.nənt/ 
 [B1]lasting or continuing for a long time or forever
 - She is looking for a permanent place to stay.
-- Are you looking for a temporary or a permanent job?
-- The disease can cause permanent damage to the brain.
+- Are you looking for a temporary or a permanent `job`?
+- The disease can cause permanent `damage` to the brain.
 
 ## 617. personal ## adjective
 /ˈpɜr.sən.əl/ RELATING TO A PERSON
 [B1]relating to or belonging to a particular person
-- I can only speak from my personal experience.
-- This is a personal opinion/view and not that of the government.
-- Remember to take all your personal belongings with you as you leave the plane.
+- I can only speak from my personal `experience`.
+- This is a personal `opinion/view` and not that of the government.
+- Remember to take all your personal `belongings` with you as you leave the plane.
 
 ## 618. personal ## adjective
 /ˈpɜr.sən.əl/ FOR ONE PERSON
 [B1]designed for or used by one person
-- a personal computer
-- a personal loan
+- a personal `computer`
+- a personal `loan`
 
 ## 619. personal ## adjective
 /ˈpɜr.sən.əl/ PRIVATE
 [B1]relating to the private parts of someone's life, including their relationships or feelings
-- He has a few personal problems at the moment.
-- Do you mind if I ask you a personal question?
+- He has a few personal `problems` at the moment.
+- Do you mind if I ask you a personal `question`?
 - His resignation was apparently for personal rather than professional reasons.
-- We know very little about his personal life.
+- We know very little about his personal `life`.
 
 ## 620. plain ## adjective
 /pleɪn/ SIMPLE
@@ -4009,15 +4009,15 @@
 ## 622. political ## adjective
 /pəˈlɪt̬.ɪ.kəl/ 
 [B1]relating to politics
-- political leaders/parties
-- Education is back at the top of the political agenda.
+- political `leaders/parties`
+- Education is back at the top of the political `agenda`.
 
 ## 623. positive ## adjective
 /ˈpɑz.ət̬.ɪv/ HAPPY
 [B1]feeling enthusiastic and happy about your life and your future
-- a positive attitude
+- a positive `attitude`
 - I'm feeling much more positive about things now.
-- We showed people samples of the product and got a very positive reaction/response.
+- We showed people samples of the product and got a very positive `reaction/response`.
 
 ## 624. possessive ## adjective
 /pəˈzes.ɪv/ GRAMMAR
@@ -4027,32 +4027,32 @@
 ## 625. possible ## adjective
 /ˈpɑs.ə.bəl/ NOT CERTAIN
 [B1]If something is possible, it might or might not exist or be true.
-- It's possible (that) Mira might turn up tonight.
+- It's possible `(that)` Mira might turn up tonight.
 - "Do you think he'll end up in prison?" "It's very possible."
 - That's one possible solution to the problem.
 
 ## 626. powerful ## adjective
 /ˈpɑʊ.ər.fəl/ CONTROL
 [B1]A powerful person is able to control and influence people and events.
-- a powerful man/woman
+- a powerful `man/woman`
 
 ## 627. powerful ## adjective
 /ˈpɑʊ.ər.fəl/ STRENGTH
 [B1]having a lot of strength or force
-- a powerful computer/engine/weapon
+- a powerful `computer/engine/weapon`
 
 ## 628. pregnant ## adjective
 /ˈpreg.nənt/ 
 [B1]A pregnant woman has a baby developing inside her uterus.
 - She's five and a half months pregnant.
-- My mother stopped smoking when she became pregnant.
-- My sister is pregnant with twins.
+- My mother stopped smoking when she `became` pregnant.
+- My sister is pregnant `with` twins.
 
 ## 629. prepared ## adjective
 /prɪˈperd/ READY
 [B1]ready to deal with a situation
 - When she called on me, I wasn't prepared.
-- They were prepared for the worst.
+- They were prepared `for the worst`.
 
 ## 630. present ## adjective [never before noun]
  
@@ -4069,7 +4069,7 @@
 ## 632. previous ## adjective [always before noun]
 /ˈpriː.viː.əs/ 
 [B1]existing or happening before something or someone else
-- the previous day/week/month/year
+- the previous `day/week/month/year`
 - I learned valuable skills in my previous job.
 
 ## 633. principal ## adjective [always before noun]
@@ -4088,43 +4088,43 @@
 ## 635. private ## adjective
 /ˈprɑɪ.vət/ SECRET
 [B1]describes activities which involve personal matters or relationships and are not connected with your work
-- Apparently in interviews he refuses to talk about his private life.
+- Apparently in interviews he refuses to talk about his private `life`.
 
 ## 636. professional ## adjective
 /prəˈfeʃ.ən.əl/ EARNING MONEY
 [B1]Someone is professional if they earn money for a sport or activity that most people do as a hobby.
-- a professional athlete/musician
+- a professional `athlete/musician`
 
 ## 637. professional ## adjective
 /prəˈfeʃ.ən.əl/ SKILL
 [B1]showing skill and careful attention
-- a professional attitude
+- a professional `attitude`
 - He looks very professional in that suit.
 
 ## 638. proper ## adjective [always before noun]
 /ˈprɑp.ər/ 
 [B1]correct or suitable
-- the proper way to do something
-- Please put those books back in their proper place.
-- With proper care, that wound will heal without a scar.
+- the proper `way` to do something
+- Please put those books back in their proper `place`.
+- With proper `care`, that wound will heal without a scar.
 
 ## 639. proud ## adjective
 /prɑʊd/ PLEASED
 [B1]feeling very pleased about something you have done, something you own, or someone you know
-- She was so proud of her son.
+- She was so proud `of` her son.
 - I'm very proud to be involved in this project.
 
 ## 640. public ## adjective
 /ˈpʌb.lɪk/ GOVERNMENT
 [B1]provided by the government from taxes to be available to everyone
-- public schools/education
-- a public library
+- public `schools/education`
+- a public `library`
 
 ## 641. pure ## adjective
 /pjʊr/ NOT MIXED
 [B1]A pure substance is not mixed with anything else.
 - pure gold
-- a pure cotton shirt
+- a pure `cotton` shirt
 
 ## 642. pure ## adjective
 /pjʊr/ CLEAN
@@ -4135,7 +4135,7 @@
 ## 643. quality ## adjective
 /ˈkwɑl.ət̬.i/ 
 [B1]very good
-- We only sell quality products in this store.
+- We only sell quality `products` in this store.
 
 ## 644. quiet ## adjective
 /ˈkwɑɪ.ət/ NOT TALKING MUCH
@@ -4151,20 +4151,20 @@
 ## 646. rare ## adjective
 /rer/ UNUSUAL
 [B1]very unusual
-- a rare disease/species
-- a rare occasion/opportunity
-- It's very rare to see these birds in winter.
+- a rare `disease/species`
+- a rare `occasion/opportunity`
+- It's very rare `to` see these birds in winter.
 
 ## 647. raw ## adjective
 /rɔː/ NOT COOKED
 [B1]not cooked
-- raw fish/meat/vegetables
+- raw `fish/meat/vegetables`
 
 ## 648. real ## adjective
 /riːl/ TRUE
 [B1]true and not pretended
-- What's the real reason she didn't come?
-- Is that your real name?
+- What's the real `reason` she didn't come?
+- Is that your real `name`?
 
 ## 649. realistic ## adjective
 /ˌriː.əˈlɪs.tɪk/ SEEMING REAL
@@ -4174,7 +4174,7 @@
 ## 650. reasonable ## adjective
 /ˈriː.zə.nə.bəl/ CHEAP
 [B1]somewhat cheap
-- reasonable prices
+- reasonable `prices`
 - Tomatoes are very reasonable at this time of year.
 
 ## 651. reasonable ## adjective
@@ -4200,14 +4200,14 @@
 ## 654. recycled ## adjective
 /riːˈsɑɪ.kəld/ 
 [B1]Recycled paper, glass, plastic, etc. has been used before and put through a process so that it can be used again.
-- recycled paper/plastic
+- recycled `paper/plastic`
 
 ## 655. regular ## adjective
 /ˈreg.jə.lər/ OFTEN
 [B1]happening or doing something often, especially at the same time every week, year, etc.
-- a regular customer
-- You need to get regular exercise.
-- Violence is a regular occurrence in this part of the city.
+- a regular `customer`
+- You need to get regular `exercise`.
+- Violence is a regular `occurrence` in this part of the city.
 
 ## 656. regular ## adjective
 /ˈreg.jə.lər/ GRAMMAR
@@ -4222,8 +4222,8 @@
 ## 658. relaxed ## adjective
 /rɪˈlækst/ PERSON
 [B1]feeling happy and calm because nothing is worrying you
-- She looked relaxed and happy walking along with her two boys.
-- He seemed perfectly relaxed and in control of the situation.
+- She `looked` relaxed and happy walking along with her two boys.
+- He `seemed` perfectly relaxed and in control of the situation.
 
 ## 659. relaxing ## adjective
 /rɪˈlæks.ɪŋ/ 
@@ -4241,7 +4241,7 @@
 /rɪˈspɑn.sə.bəl/ be responsible for sb/sth/doing sth
 [B1]to be the person whose duty is to deal with someone or something
 - I'm responsible for looking after the children during the lunch break.
-- Paul is directly responsible for the efficient running of the office.
+- Paul is `directly` responsible for the efficient running of the office.
 
 ## 662. rid ## adjective
 /rɪd/ get rid of sth
@@ -4262,27 +4262,27 @@
 ## 665. romantic ## adjective
 /roʊˈmæn.t̬ɪk/ STORY
 [B1]relating to a story about love
-- romantic fiction
-- a romantic comedy
+- romantic `fiction`
+- a romantic `comedy`
 
 ## 666. rough ## adjective
 /rʌf/ NOT SMOOTH
 [B1]A rough surface is not smooth.
-- rough ground
-- It was a rough mountain road, covered in stones and huge holes.
+- rough `ground`
+- It was a rough mountain `road`, covered in stones and huge holes.
 
 ## 667. rough ## adjective
 /rʌf/ NOT EXACT
 [B1]approximate and not exact
-- Write a rough copy first and check the grammar.
-- Can you give me a rough idea of the numbers?
+- Write a rough `copy` first and check the grammar.
+- Can you give me a rough `idea` of the numbers?
 
 ## 668. rude ## adjective
 /ruːd/ 
 [B1]behaving in a way which is not polite and upsets other people
-- a rude comment/remark
-- He complained that a member of the staff had been rude to him.
-- It would be rude to leave without saying goodbye.
+- a rude `comment/remark`
+- He complained that a member of the staff had been rude `to` him.
+- It would be rude `to` leave without saying goodbye.
 
 ## 669. safe ## adjective
 /seɪf/ NOT HARMED
@@ -4297,53 +4297,53 @@
 ## 671. sandy ## adjective
 /ˈsænd.i/ 
 [B1]covered with or containing sand
-- a sandy beach
+- a sandy `beach`
 
 ## 672. satisfied ## adjective
 /ˈsæt̬.ɪsˌfɑɪd/ PLEASED
 [B1]pleased because you have got what you wanted, or because something has happened in the way that you wanted
 - Some people are never satisfied!
 - a satisfied smile
-- Are you satisfied with the new arrangement?
+- Are you satisfied `with` the new arrangement?
 
 ## 673. scared ## adjective
 /skeəd/ 
 [B1]frightened or worried
-- He's scared of spiders.
-- He's scared to tell her what really happened.
-- I was scared (that) you might not be there.
-- I was scared stiff.
+- He's scared `of` spiders.
+- He's scared `to` tell her what really happened.
+- I was scared `(that)` you might not be there.
+- I was scared `stiff`.
 - She had a scared look on her face.
 
 ## 674. scary ## adjective
 /ˈskeə.ri/ 
 [B1]frightening
-- a scary movie/story
+- a scary `movie/story`
 
 ## 675. scientific ## adjective
 /ˌsɑɪ.ənˈtɪf.ɪk/ 
 [B1]relating to science, or using the organized methods of science
-- a scientific discovery/experiment/theory
-- scientific evidence/research
-- The project has attracted considerable criticism from the scientific community.
+- a scientific `discovery/experiment/theory`
+- scientific `evidence/research`
+- The project has attracted considerable criticism from `the` scientific `community`.
 
 ## 676. second-hand ## adjective ; adverb
 /ˌsek.əndˈhænd/ 
 [B1]If something is second-hand, someone else owned or used it before you.
-- second-hand books/clothes
+- second-hand `books/clothes`
 - She buys a lot of clothes second-hand.
 
 ## 677. secondary ## adjective [always before noun]
 /ˈsek.ənˌder.i/ 
 [B1]relating to the education of children approximately between the ages of 12 and 18 years old
-- secondary education
+- secondary `education`
 
 ## 678. secret ## adjective
 /ˈsiː.krət/ 
 [B1]If something is secret, other people are not allowed to know about it.
 - The President escaped through a secret passage underneath the parliament building.
-- This is top secret information.
-- Do you think we'll manage to keep the surprise party secret from Mom until her birthday?
+- This is `top` secret information.
+- Do you think we'll manage to `keep` the surprise party secret from Mom until her birthday?
 
 ## 679. self-service ## adjective
 /ˌselfˈsɜr.vɪs/ 
@@ -4360,16 +4360,16 @@
 ## 681. sensible ## adjective
 /ˈsen.sə.bəl/ 
 [B1]showing good judgment
-- a sensible approach/strategy/solution
+- a sensible `approach/strategy/solution`
 - a sensible person
 - I think the sensible thing to do is phone before you go and ask for directions.
-- It would be sensible to take an umbrella.
+- It would be sensible `to` take an umbrella.
 
 ## 682. separate ## adjective
  NOT JOINED
 [B1]not connected to or touching anything else
 - a separate compartment
-- I try to keep meat separate from other food in the fridge.
+- I try to `keep` meat separate `from` other food in the fridge.
 
 ## 683. separate ## adjective
  DIFFERENT
@@ -4380,10 +4380,10 @@
 ## 684. serious ## adjective
 /ˈsɪr.iː.əs/ BAD
 [B1]A serious problem or situation is bad and makes people worry.
-- a serious illness
-- There were no reports of serious injuries.
-- The new tax regulations have landed some of the smaller companies in serious trouble.
-- A shortage of space has become a serious problem in a lot of schools.
+- a serious `illness`
+- There were no reports of serious `injuries`.
+- The new tax regulations have landed some of the smaller companies in serious `trouble`.
+- A shortage of space has become a serious `problem` in a lot of schools.
 - He's been taken to hospital where his condition is described as serious but stable.
 
 ## 685. serious ## adjective
@@ -4392,7 +4392,7 @@
 - Please don't laugh - I'm being serious.
 - He was wearing a very serious expression and I knew something was wrong.
 - On the surface it's a very funny novel but it does have a more serious underlying theme.
-- Is she serious about going to live abroad?
+- Is she serious `about` going to live abroad?
 
 ## 686. serious ## adjective
 /ˈsɪr.iː.əs/ PERSON
@@ -4402,8 +4402,8 @@
 ## 687. sharp ## adjective
 /ʃɑrp/ ABLE TO CUT
 [B1]having a very thin or pointed edge that can cut things
-- a sharp knife
-- sharp teeth/claws/fingernails
+- a sharp `knife`
+- sharp `teeth/claws/fingernails`
 - The point of this pencil isn't sharp enough.
 
 ## 688. shiny ## adjective
@@ -4417,7 +4417,7 @@
 /ʃɑkt/ 
 [B1]very surprised and upset
 - After his announcement, there was shocked silence.
-- We were shocked to see smoke pouring out of the roof.
+- We were shocked `to` see smoke pouring out of the roof.
 
 ## 690. shocking ## adjective
 /ˈʃɑk.ɪŋ/ 
@@ -4442,7 +4442,7 @@
 - He was too shy to ask her to dance with him.
 - Don't be shy - come join us.
 - a shy smile
-- Children can be shy around/with people they don't know.
+- Children can be shy `around/with` people they don't know.
 
 ## 694. silent ## adjective
 /ˈsɑɪ.lənt/ QUIET
@@ -4454,7 +4454,7 @@
 [B1]showing little thought or judgment
 - a silly question
 - a silly mistake
-- It was silly of you to go out in the sun without a hat.
+- It was silly `of` you to go out in the sun without a hat.
 - I feel silly in this dress.
 
 ## 696. silly ## adjective
@@ -4466,8 +4466,8 @@
 /ˈsɪm.ə.lər/ 
 [B1]If something or someone is similar to another thing or person, they have many things the same, although they are not exactly the same.
 - My father and I have similar views on politics.
-- I bought some new shoes which are very similar to a pair I had before.
-- Paul is very similar in appearance to his brother.
+- I bought some new shoes which are very similar `to` a pair I had before.
+- Paul is very similar `in` appearance `to` his brother.
 
 ## 698. simple ## adjective
 /ˈsɪm.pəl/ NOT COMPLICATED
@@ -4480,7 +4480,7 @@
 /ˈsɪŋ.gəl/ single parent
 [B1]someone who has a child or children, but no wife or husband living with them
 - Many single parents find it difficult to arrange for child care.
-- single-parent families
+- single-parent `families`
 
 ## 700. single ## adjective
 /ˈsɪŋ.gəl/ every single
@@ -4504,7 +4504,7 @@
 - Ginny is a very smart kid.
 - Why don't you fix it if you're so smart?
 - He's smart enough to know he can't run the business without help.
-- Quitting that job was a smart move.
+- Quitting that job was a smart `move`.
 
 ## 704. smooth ## adjective
 /smuːð/ REGULAR SURFACE
@@ -4513,7 +4513,7 @@
 - a smooth wooden table
 - Mix together the butter and sugar until smooth.
 - The road ahead was flat and smooth.
-- This cream will help to keep your skin smooth.
+- This cream will help to keep your `skin` smooth.
 
 ## 705. sociable ## adjective
 /ˈsoʊ.ʃə.bəl/ 
@@ -4524,19 +4524,19 @@
 ## 706. social ## adjective
 /ˈsoʊ.ʃəl/ GOING OUT
 [B1]relating to the things you do with other people for enjoyment when you are not working
-- I had an active social life when I in college.
+- I had an active social `life` when I in college.
 - The language school organizes social events for the students.
 
 ## 707. soft ## adjective
 /sɑft/ GENTLE
 [B1]not forceful, loud or easily noticed
-- a soft voice/sound/music
+- a soft `voice/sound/music`
 - She likes soft pastel colors.
 
 ## 708. sore ## adjective
 /sɔːr/ PAINFUL
 [B1]painful, especially when touched
-- I've got a sore throat.
+- I've got a sore `throat`.
 - My feet are sore from all that walking.
 - All the dust made my eyes sore.
 
@@ -4571,10 +4571,10 @@
 ## 714. spare ## adjective
 /sper/ EXTRA
 [B1]If something is spare, it is available to use, because it is extra and not being used.
-- a spare key/tire
+- a spare `key/tire`
 - Do you have a spare pen?
 - I keep my spare change in a jar.
-- We've got a spare room if you want to stay overnight.
+- We've got a spare `room` if you want to stay overnight.
 
 ## 715. sparkling ## adjective
 /ˈspɑr.klɪŋ/ sparkling water/wine
@@ -4597,8 +4597,8 @@
 ## 718. spectacular ## adjective
 /spekˈtæk.jə.lər/ 
 [B1]extremely good, exciting, or surprising
-- a spectacular view
-- The show was a spectacular success.
+- a spectacular `view`
+- The show was a spectacular `success`.
 - He scored a spectacular goal in the second half.
 - There was a spectacular sunset last night.
 
@@ -4610,15 +4610,15 @@
 ## 720. sports ## adjective [always before noun]
 /spɔːrts/ 
 [B1]relating to sports
-- sports equipment
+- sports `equipment`
 - He only reads the sports section of the newspaper.
 
 ## 721. steep ## adjective
 /stiːp/ SLOPE
 [B1]A steep slope, hill, etc. rises up high in a sudden, quick way.
-- a steep slope
-- It's a steep climb to the top of the mountain, but the view is worth it.
-- The castle is set on a steep hill/hillside.
+- a steep `slope`
+- It's a steep `climb` to the top of the mountain, but the view is worth it.
+- The castle is set on a steep `hill/hillside`.
 
 ## 722. sticky ## adjective
 /ˈstɪk.i/ 
@@ -4632,26 +4632,26 @@
 /streɪndʒ/ NOT FAMILIAR
 [B1]A strange person or place is one that you are not familiar with.
 - I really don’t like strange people coming to my door.
-- I've never been here before either, so it's all strange to me too.
+- I've never been here before either, so it's all strange `to` me too.
 
 ## 724. stressed ## adjective
 /strest/ 
 [B1]worried and not able to relax
 - She just started a new job and is feeling pretty stressed.
-- I was really stressed out before the exam.
+- I was really stressed `out` before the exam.
 
 ## 725. stressful ## adjective
 /ˈstres.fəl/ 
 [B1]making you feel worried and not able to relax
-- a stressful day/job
+- a stressful `day/job`
 - Working in the emergency room of a major hospital is highly stressful work.
-- She's very good at coping with stressful situations.
+- She's very good at coping with stressful `situations`.
 
 ## 726. strict ## adjective
 /strɪkt/ PERSON
 [B1]A strict person makes sure that children or people working for them behave well and does not allow them to break any rules.
-- a strict teacher
-- My parents were very strict about finishing our homework before dinner.
+- a strict `teacher`
+- My parents were very strict `about` finishing our homework before dinner.
 
 ## 727. strong ## adjective
 /strɔːŋ/ DIFFICULT TO BREAK
@@ -4667,12 +4667,12 @@
 - I can give you a stronger pain-killing medication if you need it.
 - It's surprising what strong memories a photograph can produce.
 - He bears a strong resemblance to his brother.
-- My grandmother had a strong influence on me.
+- My grandmother had a strong `influence` on me.
 
 ## 729. strong ## adjective
 /strɔːŋ/ PRODUCED WITH POWER
 [B1]produced using a lot of power
-- a strong kick/blow
+- a strong `kick/blow`
 - Her voice was clear and strong.
 - Strong winds are forecast in the area for the next few days.
 
@@ -4706,27 +4706,27 @@
 ## 734. suitable ## adjective
 /ˈsuːt̬.ə.bəl/ 
 [B1]acceptable or right for someone or something
-- The movie may not be suitable for very young children.
-- It's a nice enough dress but it's not really suitable for a wedding.
+- The movie may not be suitable `for` very young children.
+- It's a nice enough dress but it's not really suitable `for` a wedding.
 
 ## 735. sure ## adjective
 /ʃʊr/ for sure
 [B1]without any doubt
-- I think he's Canadian but I don't know for sure.
+- I think he's Canadian but I don't `know` for sure.
 - One thing's for sure - once the baby's born, your lives will never be the same again.
 
 ## 736. surprising ## adjective
 /sərˈprɑɪ.zɪŋ/ 
 [B1]not expected and making someone feel surprised
 - He gave a very surprising answer.
-- The election results were not surprising.
-- I must say that it's surprising to find you agreeing with me for once.
+- The election results were `not` surprising.
+- I must say that it's surprising `to` find you agreeing with me for once.
 - There was a surprising amount of talk about resignations.
 
 ## 737. sweet ## adjective
 /swiːt/ KIND
 [B1]kind and friendly
-- It was really sweet of you to help.
+- It was really sweet `of` you to help.
 
 ## 738. talented ## adjective
 /ˈtæl.ənt.ɪd/ 
@@ -4746,9 +4746,9 @@
 ## 741. temporary ## adjective
 /ˈtem.pəˌrer.i/ 
 [B1]existing or happening for only a short or limited time
-- temporary staff
-- a temporary job
-- temporary accommodations/housing
+- temporary `staff`
+- a temporary `job`
+- temporary `accommodations/housing`
 
 ## 742. terrific ## adjective
 /təˈrɪf.ɪk/ VERY GOOD
@@ -4759,8 +4759,8 @@
 /ˈter.ə.fɑɪd/ 
 [B1]very frightened
 - He sat in the corner like a terrified child.
-- She's terrified of the dark.
-- She's terrified (that) her mother might find out.
+- She's terrified `of` the dark.
+- She's terrified `(that)` her mother might find out.
 
 ## 744. thick ## adjective
 /θɪk/ NOT THIN
@@ -4787,7 +4787,7 @@
 [B1]extremely small
 - the baby's tiny hands
 - a tiny little cottage
-- I was a tiny bit late.
+- I was a tiny `bit` late.
 
 ## 748. tired ## adjective
 /tɑɪrd/ tired of doing sth
@@ -4819,34 +4819,34 @@
 ## 752. total ## adjective [always before noun]
 /ˈtoʊt̬.əl/ AMOUNT
 [B1]including everything
-- the total cost
+- the total `cost`
 - Total losses were $800.
 
 ## 753. traditional ## adjective
 /trəˈdɪʃ.ən.əl/ 
 [B1]following the customs or ways of behaving that have continued in a group of people or society for a long time
 - traditional farming methods
-- The dancers were wearing traditional Hungarian dress/costume.
+- The dancers were wearing traditional Hungarian `dress/costume`.
 - She's very traditional in her ideas.
 
 ## 754. true ## adjective
 /truː/ REAL
 [B1]real
-- true love
+- true `love`
 - a true friend
-- The true horror of the accident did not become clear until the morning.
+- The true `horror` of the accident did not become clear until the morning.
 
 ## 755. true ## adjective
 /truː/ come true
 [B1]If a dream or hope comes true, it really happens.
 - I'd always dreamed of owning my own house, but I never thought it would come true.
-- After all the problems I'd had, Oliver's birth was a dream come true.
+- After all the problems I'd had, Oliver's birth was a `dream` come true.
 
 ## 756. typical ## adjective
 /ˈtɪp.ɪ.kəl/ 
 [B1]having all the qualities you expect a particular person, object, place, etc. to have
 - I must look like the typical tourist with my shorts and my camera.
-- This sort of hot and spicy food is very typical of the food in the south of the country.
+- This sort of hot and spicy food is very typical `of` the food in the south of the country.
 - Typical symptoms would include severe headaches, vomiting and dizziness.
 
 ## 757. ugly ## adjective
@@ -4879,7 +4879,7 @@
 ## 762. unexpected ## adjective
 /ˌʌn.ɪkˈspek.tɪd/ 
 [B1]not expected
-- His death was completely unexpected.
+- His death was `completely` unexpected.
 
 ## 763. unfair ## adjective
 /ʌnˈfer/ NOT EQUAL
@@ -4890,18 +4890,18 @@
 ## 764. unforgettable ## adjective
 /ˌʌn.fərˈget̬.ə.bəl/ 
 [B1]Something that is unforgettable is so good, interesting, etc. that you remember it for a long time.
-- Seeing Niagara Falls was an unforgettable experience.
+- Seeing Niagara Falls was an unforgettable `experience`.
 
 ## 765. unfriendly ## adjective
 /ʌnˈfren.dli/ 
 [B1]not friendly
-- She was really unfriendly to me.
+- She was really unfriendly `to` me.
 
 ## 766. unhappy ## adjective
 /ʌnˈhæp.i/ NOT SATISFIED
 [B1]not satisfied
-- I'm unhappy about the situation.
-- We were very unhappy with the service at the hotel.
+- I'm unhappy `about` the situation.
+- We were very unhappy `with` the service at the hotel.
 
 ## 767. unhealthy ## adjective
 /ʌnˈhel.θi/ 
@@ -4916,7 +4916,7 @@
 ## 769. uninterested ## adjective
 /ʌnˈɪn.trə.stɪd/ 
 [B1]not interested
-- He's completely uninterested in politics.
+- He's completely uninterested `in` politics.
 
 ## 770. uninteresting ## adjective
 /ʌnˈɪn.trə.stɪŋ/ 
@@ -4933,19 +4933,19 @@
 /ʌnˈnoʊn/ 
 [B1]not known or familiar
 - The exact number of people carrying the virus is unknown.
-- As recently as six months ago her name was unknown to most Americans.
+- As recently as six months ago her name was unknown `to` most Americans.
 
 ## 773. unlikely ## adjective
 /ʌnˈlɑɪ.kli/ NOT LIKELY
 [B1]not likely to happen
-- It's unlikely that we'll see them again.
+- It's unlikely `that` we'll see them again.
 - We might see them there, but it's fairly unlikely.
-- He's unlikely to arrive before lunchtime.
+- He's unlikely `to` arrive before lunchtime.
 
 ## 774. unlucky ## adjective
 /ʌnˈlʌk.i/ 
 [B1]having or causing bad luck
-- They played well and were unlucky to lose.
+- They played well and were unlucky `to` lose.
 - Some people think it's unlucky to walk under ladders.
 
 ## 775. unnecessary ## adjective
@@ -4962,32 +4962,32 @@
 ## 777. unwell ## adjective [never before noun]
 /ʌnˈwel/ 
 [B1]ill
-- to feel/look unwell
+- to `feel/look` unwell
 
 ## 778. up-to-date ## adjective
 /ˌʌp.təˈdeɪt/ 
 [B1]modern, recent, or containing the latest information
-- Visit our website for up-to-date information on movie times.
+- Visit our website for up-to-date `information` on movie times.
 - It is essential to have an up-to-date dictionary.
-- The Internet keeps us up to date.
+- The Internet `keeps` us up to date.
 
 ## 779. upper ## adjective [always before noun]
 /ˈʌp.ər/ 
 [B1]at a higher position or level than something else
-- the upper lip/body
+- the upper `lip/body`
 - The office building's upper floors were being repainted.
 
 ## 780. upstairs ## adjective [always before noun]
  
 [B1]on or at a higher level of a building
-- an upstairs window
+- an upstairs `window`
 
 ## 781. urgent ## adjective
 /ˈɜr.dʒənt/ 
 [B1]very important and needing you to take action immediately
-- an urgent message
+- an urgent `message`
 - He has to sign that paper - will you tell him it's urgent?
-- Many people are in urgent need of food and water.
+- Many people are `in` urgent `need of` food and water.
 
 ## 782. used ## adjective
 /juːst/ be used to sb/sth/doing sth
@@ -5017,9 +5017,9 @@
 ## 786. usual ## adjective
 /ˈjuː.ʒu.əl/ NORMAL
 [B1]normal and happening most often
-- I went to bed at my usual time.
-- You'll find the box in its usual place.
-- There was more rain than usual this summer in the mountain areas.
+- I went to bed at my usual `time`.
+- You'll find the box in its usual `place`.
+- There was more rain `than` usual this summer in the mountain areas.
 
 ## 787. valuable ## adjective
 /ˈvæl.jə.bəl/ OBJECTS
@@ -5031,26 +5031,26 @@
 /ˌvedʒ.əˈter.iː.ən/ 
 [B1]not eating, containing, or using meat or fish
 - All her children are vegetarian.
-- vegetarian cooking/food
-- a vegetarian dish/meal
-- He decided in college to go vegetarian.
+- vegetarian `cooking/food`
+- a vegetarian `dish/meal`
+- He decided in college to `go` vegetarian.
 
 ## 789. warm ## adjective
 /wɔːrm/ FRIENDLY
 [B1]friendly and loving
 - They're a very warm family.
 - He has a nice, warm smile.
-- I'd like to give a warm welcome to our guests this evening.
+- I'd like to give a warm `welcome` to our guests this evening.
 
 ## 790. waste ## adjective
 /weɪst/ 
 [B1]Waste material is no longer needed and can be gotten rid of.
-- The Japanese recycle more than half of their waste paper.
+- The Japanese recycle more than half of their waste `paper`.
 
 ## 791. weak ## adjective
 /wiːk/ BODY
 [B1]not physically strong
-- He was feeling weak after his cancer treatment.
+- He was `feeling` weak after his cancer treatment.
 
 ## 792. weak ## adjective
 /wiːk/ NOT GOOD
@@ -5060,8 +5060,8 @@
 ## 793. welcome ## adjective
 /ˈwel.kəm/ PLEASED
 [B1]If you are welcome, people are pleased that you are there.
-- You will always be welcome here.
-- She makes us (feel) welcome whenever we visit her.
+- You will always `be` welcome here.
+- She `makes` us `(feel)` welcome whenever we visit her.
 
 ## 794. welcome ## adjective
 /ˈwel.kəm/ be welcome to do sth
@@ -5087,7 +5087,7 @@
 ## 798. western ## adjective
 /ˈwes.tərn/ COUNTRIES
 [B1]relating to countries in the west part of the world, especially North America and countries in the west of Europe
-- western opinion/culture
+- western `opinion/culture`
 - a Western-educated engineer
 - western medicine
 
@@ -5119,20 +5119,20 @@
 [B1]to be happy to do something if it is needed
 - If you're willing to fly at night, you can get a much cheaper ticket.
 - You said you needed a volunteer - well, I'm willing.
-- Apparently John and Gabriel are willing for us to use their yard.
+- Apparently John and Gabriel are willing `for` us to use their yard.
 
 ## 804. working ## adjective [always before noun]
 /ˈwɜr.kɪŋ/ JOB
 [B1]relating to your job
-- working hours
-- Working conditions in the mill have hardly changed over the last twenty years.
-- She has a difficult working relationship with many of her staff.
+- working `hours`
+- Working `conditions` in the mill have hardly changed over the last twenty years.
+- She has a difficult working `relationship` with many of her staff.
 
 ## 805. worse ## adjective
 /wɜrs/ get worse
 [B1]to become more ill, unpleasant, difficult, severe, etc. than before
 - My cold seems to be getting worse.
-- If the rain gets any worse, we'll have to stop walking.
+- If the rain gets `any` worse, we'll have to stop walking.
 
 ## 806. worth ## adjective
 /wɜrθ/ be worth
@@ -5155,7 +5155,7 @@
 ## 809. written ## adjective
 /ˈrɪt.ən/ 
 [B1]expressed in writing, or involving writing
-- written instructions
+- written `instructions`
 - a written exam
 
 ## 810. wrong ## adjective
@@ -5167,14 +5167,14 @@
 ## 811. wrong ## adjective
 /rɑŋ/ PROBLEM
 [B1]If something is wrong, there is a problem.
-- You've been quiet all evening. Is there anything wrong?
-- What's wrong?
-- There's something wrong with my computer.
+- You've been quiet all evening. Is there `anything` wrong?
+- `What's` wrong?
+- There's `something` wrong with my computer.
 
 ## 812. abandoned ## adjective
 /əˈbæn.dənd/ EMPTY
 [B2]left empty or not working
-- an abandoned house/building/mine
+- an abandoned `house/building/mine`
 
 ## 813. abandoned ## adjective
 /əˈbæn.dənd/ LEFT SOMEWHERE
@@ -5189,33 +5189,33 @@
 ## 815. absolute ## adjective [always before noun]
 /ˈæb.səˌluːt/ 
 [B2]complete and definite
-- absolute power/control
+- absolute `power/control`
 - That's absolute nonsense!
 - Repairing the heating system is an absolute necessity!
 
 ## 816. abstract ## adjective
 /ˈæb.strækt/ IDEAS
 [B2]relating to ideas and not real things
-- abstract ideas
-- Truth and beauty are abstract concepts.
+- abstract `ideas`
+- Truth and beauty are abstract `concepts`.
 
 ## 817. abstract ## adjective
 /ˈæb.strækt/ ART
 [B2]Abstract art involves shapes and colors and not images of real things or people.
-- abstract paintings/sculpture
+- abstract `paintings/sculpture`
 
 ## 818. absurd ## adjective
 /əbˈsɜrd/ 
 [B2]very silly
-- What an absurd explanation!
+- What an absurd `explanation`!
 - Don't be so absurd! Of course I want you to come.
-- It's an absurd situation - neither of them will talk to the other.
+- It's an absurd `situation` - neither of them will talk to the other.
 
 ## 819. academic ## adjective
 /ˌæk.əˈdem.ɪk/ 
 [B2]relating to schools, colleges, and universities, or to subjects that involve thinking and studying and not technical or practical skills
-- academic subjects/programs/institutions
-- academic standards/achievement
+- academic `subjects/programs/institutions`
+- academic `standards/achievement`
 
 ## 820. accessible ## adjective
 /əkˈses.ə.bəl/ 
@@ -5225,57 +5225,57 @@
 ## 821. accidental ## adjective
 /ˌæk.sɪˈden.təl/ 
 [B2]happening by chance
-- accidental damage
+- accidental `damage`
 - The archeological site was located after the accidental discovery of bones in a field.
 
 ## 822. accurate ## adjective
 /ˈæk.jʊ.rət/ 
 [B2]correct, exact and without any mistakes
-- accurate information/measurements
-- She was able to give the police a fairly accurate description of the man.
+- accurate `information/measurements`
+- She was able to give the police a fairly accurate `description` of the man.
 - Her novel is an accurate reflection of life in post-war Spain.
-- We hope to become more accurate in predicting earthquakes.
+- We hope to become more accurate `in` predicting earthquakes.
 
 ## 823. active ## adjective
 /ˈæk.tɪv/ INVOLVED
 [B2]very involved in an organization or planned activity
-- She remains active in local arts organizations.
-- He played an active role in the campaign.
-- Both of his parents were politically active.
+- She `remains` active `in` local arts organizations.
+- He played an active `role` in the campaign.
+- Both of his parents were `politically` active.
 
 ## 824. actual ## adjective [always before noun]
 /ˈæk.tʃu.əl/ REAL
 [B2]real, not guessed or imagined
-- We estimated about 300 visitors, but the actual number was much higher.
-- The exams are in July, but the actual results aren't available until September.
+- We estimated about 300 visitors, but the actual `number` was much higher.
+- The exams are in July, but the actual `results` aren't available until September.
 
 ## 825. addicted ## adjective
 /əˈdɪk.tɪd/ DRUGS
 [B2]not able to stop taking a drug
-- He later became addicted to heroin.
+- He later became addicted `to` heroin.
 
 ## 826. addicted ## adjective
 /əˈdɪk.tɪd/ LIKING
 [B2]liking something very much
-- He's addicted to chocolate/football.
+- He's addicted `to` chocolate/football.
 
 ## 827. additional ## adjective
 /əˈdɪʃ.ən.əl/ 
 [B2]extra
-- additional costs/problems
+- additional `costs/problems`
 - There will be an extra charge for any additional passengers.
 
 ## 828. adequate ## adjective
 /ˈæd.ɪ.kwət/ ENOUGH
 [B2]enough
 - I didn't have adequate time to prepare.
-- Will future oil supplies be adequate to meet world needs?
+- Will future oil supplies be adequate `to` meet world needs?
 
 ## 829. adequate ## adjective
 /ˈæd.ɪ.kwət/ GOOD ENOUGH
 [B2]good enough, but not very good
-- The sound quality isn't great, but it's adequate for everyday use.
-- Provisions for handicapped access are barely adequate.
+- The sound quality isn't great, but it's adequate `for` everyday use.
+- Provisions for handicapped access are `barely` adequate.
 
 ## 830. adopted ## adjective
 /əˈdɑp.tɪd/ 
@@ -5291,7 +5291,7 @@
 ## 832. aggressive ## adjective
 /əˈgres.ɪv/ VIOLENT
 [B2]behaving in an angry and violent way toward another person
-- aggressive behavior
+- aggressive `behavior`
 - If I criticize him, he gets aggressive and starts shouting.
 
 ## 833. alone ## adjective ; adverb
@@ -5303,36 +5303,36 @@
 /ˌæl.fəˈbet̬.ɪ.kəl/ 
 [B2]arranged in the same order as the letters of the alphabet
 - an alphabetical list
-- The names are published in alphabetical order.
+- The names are published `in` alphabetical `order`.
 
 ## 835. alternative ## adjective
 /ɔːlˈtɜr.nət̬.ɪv/ DIFFERENT PLAN
 [B2]An alternative plan, method, etc. is one that you can use if you do not want to use another one.
-- We can make alternative arrangements if necessary.
+- We can make alternative `arrangements` if necessary.
 
 ## 836. alternative ## adjective
 /ɔːlˈtɜr.nət̬.ɪv/ NOT USUAL
 [B2]different from what is usual or traditional
-- alternative fuels
-- an alternative lifestyle
+- alternative `fuels`
+- an alternative `lifestyle`
 
 ## 837. ambitious ## adjective
 /æmˈbɪʃ.əs/ PERSON
 [B2]wanting to be successful or powerful
 - an ambitious young lawyer
-- He's very ambitious for his children.
+- He's very ambitious `for` his children.
 
 ## 838. ambitious ## adjective
 /æmˈbɪʃ.əs/ PLAN
 [B2]If a plan or idea is ambitious, it will need a lot of work and will be difficult to achieve.
-- This is our most ambitious project so far.
-- She has some ambitious plans for her business.
+- This is our most ambitious `project` so far.
+- She has some ambitious `plans` for her business.
 
 ## 839. amused ## adjective
 /əˈmjuːzd/ FUNNY
 [B2]showing that you think something is funny
 - an amused smile
-- She was very amused by/at your comments.
+- She was very amused `by/at` your comments.
 
 ## 840. amused ## adjective
 /əˈmjuːzd/ keep sb amused
@@ -5342,20 +5342,20 @@
 ## 841. anxious ## adjective
 /ˈæŋk.ʃəs/ EAGER
 [B2]wanting to do something or wanting something to happen
-- I'm anxious to hear her news.
-- I'm anxious that we get there on time because I don't think there'll be many seats left.
+- I'm anxious `to` hear her news.
+- I'm anxious `that` we get there on time because I don't think there'll be many seats left.
 
 ## 842. apparent ## adjective
 /əˈpær.ənt/ OBVIOUS
 [B2]obvious or easy to notice
-- Her unhappiness was apparent to everyone.
-- It was becoming increasingly apparent that he could no longer look after himself.
-- On the subway this morning, the man sitting opposite me suddenly screamed for no apparent reason.
+- Her unhappiness was apparent `to` everyone.
+- `It` was becoming increasingly apparent `that` he could no longer look after himself.
+- On the subway this morning, the man sitting opposite me suddenly screamed `for no` apparent `reason`.
 
 ## 843. appropriate ## adjective
 /əˈproʊ.priː.ət/ 
 [B2]suitable or right for a particular situation or occasion
-- Is this film appropriate for small children?
+- Is this film appropriate `for` small children?
 - I didn't think his comments were very appropriate at the time.
 
 ## 844. approximate ## adjective
@@ -5368,9 +5368,9 @@
 ## 845. armed ## adjective
 /ɑrmd/ WEAPONS
 [B2]using or carrying weapons
-- an armed robbery
-- armed conflict
-- armed guards/police
+- an armed `robbery`
+- armed `conflict`
+- armed `guards/police`
 
 ## 846. arrogant ## adjective
 /ˈær.ə.gənt/ 
@@ -5403,15 +5403,15 @@
 ## 851. astonished ## adjective
 /əˈstɑn.ɪʃt/ 
 [B2]very surprised
-- I was astonished to see Miriam there.
-- They looked astonished when I announced I was pregnant.
-- The doctors were astonished at the speed of her recovery.
+- I was astonished `to` see Miriam there.
+- They looked astonished `when` I announced I was pregnant.
+- The doctors were astonished `at` the speed of her recovery.
 
 ## 852. astonishing ## adjective
 /əˈstɑn.ɪʃ.ɪŋ/ 
 [B2]very surprising
 - Her first novel enjoyed an astonishing level of success.
-- It's astonishing to think that only a few years ago Communism dominated eastern Europe.
+- It's astonishing `to` think that only a few years ago Communism dominated eastern Europe.
 
 ## 853. athletic ## adjective
 /æθˈlet̬.ɪk/ 
@@ -5421,7 +5421,7 @@
 ## 854. atomic ## adjective
 /əˈtɑm.ɪk/ 
 [B2]using the energy that is created when an atom is divided
-- atomic energy/power
+- atomic `energy/power`
 
 ## 855. attached ## adjective
 /əˈtætʃt/ CONNECTED TO
@@ -5432,8 +5432,8 @@
 ## 856. attractive ## adjective
 /əˈtræk.tɪv/ INTERESTING
 [B2]interesting or useful
-- an attractive offer/idea
-- We want to make the club attractive to a wider range of people.
+- an attractive `offer/idea`
+- We want to make the club attractive `to` a wider range of people.
 
 ## 857. automatic ## adjective
 /ˌɔːt̬.əˈmæt̬.ɪk/ MACHINE
@@ -5443,10 +5443,10 @@
 ## 858. aware ## adjective [never before noun]
 /əˈwer/ 
 [B2]knowing that something exists, or having knowledge or experience of a particular thing
-- Were you aware of the risks at the time?
-- I wasn't even aware that he was ill.
-- She was well aware that he was married.
-- I suddenly became aware of him looking at me.
+- Were you aware `of` the risks at the time?
+- I wasn't even aware `that` he was ill.
+- She was `well` aware that he was married.
+- I suddenly became aware `of` him looking at me.
 
 ## 859. awful ## adjective
 /ˈɔː.fəl/ an awful lot (of sth)
@@ -5456,16 +5456,16 @@
 ## 860. awkward ## adjective
 /ˈɔː.kwərd/ DIFFICULT
 [B2]difficult or causing problems
-- an awkward shape
+- an awkward `shape`
 - Some of the questions were awkward.
-- The large box was awkward to carry.
+- The large box was awkward `to` carry.
 
 ## 861. awkward ## adjective
 /ˈɔː.kwərd/ EMBARRASSING
 [B2]embarrassing and not relaxed
-- an awkward situation
-- She's put me in quite an awkward position.
-- There was an awkward silence.
+- an awkward `situation`
+- She's put me in quite an awkward `position`.
+- There was an awkward `silence`.
 - They'd chosen an awkward time to call as I was just about to leave.
 
 ## 862. bad ## adjective
@@ -5491,8 +5491,8 @@
 ## 866. beneficial ## adjective
 /ˌben.əˈfɪʃ.əl/ 
 [B2]helpful, useful or good
-- The improvement in sales figures had a beneficial effect on the company as a whole.
-- Exercise is beneficial to/for almost everyone.
+- The improvement in sales figures had a beneficial `effect` on the company as a whole.
+- Exercise is beneficial `to/for` almost everyone.
 
 ## 867. biological ## adjective
 /ˌbɑɪ.əˈlɑdʒ.ɪ.kəl/ 
@@ -5502,19 +5502,19 @@
 ## 868. bitter ## adjective
 /ˈbɪt̬.ər/ ANGRY
 [B2]angry and upset because of something bad that has happened that you cannot forget
-- I feel very bitter about my childhood and the way I was treated.
+- I feel very bitter `about` my childhood and the way I was treated.
 - She'd suffered terribly over the years but it hadn't made her bitter.
 
 ## 869. bitter ## adjective
 /ˈbɪt̬.ər/ HATE
 [B2]full of hate or anger
-- a bitter argument/dispute
+- a bitter `argument/dispute`
 
 ## 870. bitter ## adjective
 /ˈbɪt̬.ər/ DISAPPOINTED
 [B2]making you feel very disappointed
-- Failing the final exam was a bitter disappointment for me.
-- She learned through bitter experience that he was not to be trusted.
+- Failing the final exam was a bitter `disappointment` for me.
+- She learned `through` bitter `experience` that he was not to be trusted.
 
 ## 871. bitter ## adjective
 /ˈbɪt̬.ər/ COLD
@@ -5525,7 +5525,7 @@
 /bɪˈzɑr/ 
 [B2]very strange and unusual
 - bizarre behavior
-- It was really a bizarre meeting.
+- It was `really` a bizarre meeting.
 
 ## 873. blank ## adjective
 /blæŋk/ go blank
@@ -5541,7 +5541,7 @@
 /ˈbɔɪ.lɪŋ/ 
 [B2]very hot
 - It's boiling in this room!
-- It's boiling hot outside.
+- It's boiling `hot` outside.
 
 ## 876. bold ## adjective
 /boʊld/ EASY TO NOTICE
@@ -5552,8 +5552,8 @@
 /boʊld/ BRAVE
 [B2]not frightened of taking risks
 - She was a bold and fearless climber.
-- It was a bold decision to go and live abroad.
-- The newspaper made the bold move/took the bold step of publishing the names of the men involved.
+- It was a bold `decision` to go and live abroad.
+- The newspaper made the bold `move`/took the bold `step` of publishing the names of the men involved.
 
 ## 878. bossy ## adjective
 /ˈbɑs.i/ 
@@ -5563,14 +5563,14 @@
 ## 879. bothered ## adjective [never before noun]
 /ˈbɑð.ərd/ 
 [B2]If you are bothered by or about something, it is important to you and you are worried about it.
-- He doesn't seem bothered by what people think of him.
+- He doesn't seem bothered `by` what people think of him.
 - They were an hour late and she didn't seem at all bothered.
 
 ## 880. bound ## adjective
 /bɑʊnd/ bound to do sth
 [B2]certain to do something, or certain to happen
 - You're bound to feel nervous before your driving test.
-- If you're stressed for a long period, it's bound to affect your health.
+- If you're stressed for a long period, `it's` bound to affect your health.
 
 ## 881. breakable ## adjective
 /ˈbreɪk.ə.bəl/ 
@@ -5580,7 +5580,7 @@
 ## 882. breathtaking ## adjective
 /ˈbreθˌteɪ.kɪŋ/ 
 [B2]very beautiful or surprising
-- breathtaking scenery/views
+- breathtaking `scenery/views`
 
 ## 883. brief ## adjective
 /briːf/ in brief
@@ -5591,13 +5591,13 @@
 /brɑɪt/ INTELLIGENT
 [B2]clever
 - They were bright children, always asking questions.
-- She was enthusiastic and full of bright ideas and suggestions.
+- She was enthusiastic and full of bright `ideas` and suggestions.
 
 ## 885. bright ## adjective
 /brɑɪt/ HAPPY
 [B2]happy or full of hope
-- You're very bright and cheery this morning!
-- She's an excellent student with a bright future.
+- You're very bright `and cheery` this morning!
+- She's an excellent student with a bright `future`.
 
 ## 886. broken ## adjective
 /ˈbroʊ.kən/ a broken heart
@@ -5629,14 +5629,14 @@
 ## 891. casual ## adjective
 /ˈkæʒ.uː.əl/ NOT PLANNED
 [B2]not planned, or without particular meaning or importance
-- a casual meeting/remark
+- a casual `meeting/remark`
 
 ## 892. cautious ## adjective
 /ˈkɔː.ʃəs/ 
 [B2]taking care to avoid risks or danger
 - He's a very cautious driver.
-- We take a more cautious approach.
-- She is cautious about lending money to anyone.
+- We take a more cautious `approach`.
+- She is cautious `about` lending money to anyone.
 
 ## 893. certain ## adjective
 /ˈsɜrt.ən/ a certain
@@ -5651,9 +5651,9 @@
 ## 895. chemical ## adjective
 /ˈkem.ə.kəl/ 
 [B2]relating to chemicals
-- a chemical reaction
+- a chemical `reaction`
 - chemical weapons
-- The chemical industry produces such things as petrochemicals, drugs, paint and rubber.
+- The chemical `industry` produces such things as petrochemicals, drugs, paint and rubber.
 
 ## 896. chief ## adjective [always before noun]
 /tʃiːf/ MOST IMPORTANT
@@ -5684,13 +5684,13 @@
 ## 901. classic ## adjective
 /ˈklæs.ɪk/ 
 [B2]A classic book, film, etc. is one that has been popular for a long time and is considered to be of a high quality.
-- a classic film/novel/story
+- a classic `film/novel/story`
 
 ## 902. close ## adjective
  RELATIONSHIP
 [B2]seeing or communicating with someone a lot
-- I'm still in close contact with my school friends.
-- Our school has close links with a school in China.
+- I'm still in close `contact` with my school friends.
+- Our school has close `links` with a school in China.
 
 ## 903. clumsy ## adjective
 /ˈklʌm.zi/ 
@@ -5705,7 +5705,7 @@
 ## 905. colorful ## adjective
 /ˈkʌl.ər.fəl/ UNUSUAL
 [B2]interesting and unusual
-- a colorful character
+- a colorful `character`
 
 ## 906. comfortable ## adjective
 /ˈkʌmf.tə.bəl/ WITHOUT WORRIES
@@ -5715,13 +5715,13 @@
 ## 907. commercial ## adjective
 /kəˈmɜr.ʃəl/ BUYING AND SELLING
 [B2]related to buying and selling things
-- a commercial organization/success
+- a commercial `organization/success`
 - The commercial future of the company looks very promising.
 
 ## 908. common ## adjective
 /ˈkɑm.ən/ common knowledge
 [B2]something that a lot of people know
-- It's common knowledge that he spent time in jail.
+- It's common knowledge `that` he spent time in jail.
 
 ## 909. communicative ## adjective
 /kəˈmjuː.nɪ.keɪ.t̬ɪv/ 
@@ -5731,7 +5731,7 @@
 ## 910. competitive ## adjective
 /kəmˈpet̬.ət̬.ɪv/ SITUATION
 [B2]involving competition
-- competitive sports
+- competitive `sports`
 - a highly competitive industry
 
 ## 911. competitive ## adjective
@@ -5742,7 +5742,7 @@
 ## 912. competitive ## adjective
 /kəmˈpet̬.ət̬.ɪv/ PRICES/SERVICES
 [B2]as good as or better than other prices, services, etc.
-- They offer high quality merchandise at competitive prices.
+- They offer high quality merchandise at competitive `prices`.
 
 ## 913. complex ## adjective
  
@@ -5760,8 +5760,8 @@
 ## 915. concerned ## adjective
 /kənˈsɜrnd/ WORRIED
 [B2]worried
-- He's very concerned about her health.
-- I'm concerned that sales figures haven't improved
+- He's very concerned `about` her health.
+- I'm concerned `that` sales figures haven't improved
 - Concerned parents have complained about the dangerous playground.
 
 ## 916. concerned ## adjective
@@ -5778,8 +5778,8 @@
 ## 918. confident ## adjective
 /ˈkɑn.fəd.ənt/ CERTAIN
 [B2]being certain that something will happen
-- Are you confident that enough people will attend the event?
-- They don't sound confident about the future of the industry.
+- Are you confident `that` enough people will attend the event?
+- They don't sound confident `about` the future of the industry.
 
 ## 919. confused ## adjective
 /kənˈfjuːzd/ NOT CLEAR
@@ -5803,19 +5803,19 @@
 /ˈkɑn.stənt/ A LOT
 [B2]happening a lot or all the time
 - He's in constant trouble with the police.
-- These machines are in constant use.
+- These machines are `in` constant `use`.
 
 ## 923. contemporary ## adjective
 /kənˈtem.pəˌrer.i/ 
 [B2]existing or happening now
-- contemporary music/literature/art/fashion
+- contemporary `music/literature/art/fashion`
 - Although it was written hundreds of years ago, it still has a contemporary feel to it.
 
 ## 924. content ## adjective [never before noun]
  
 [B2]pleased with your situation and not hoping for change or improvement
-- He seems fairly content with life.
-- They're content to socialize with a very small circle of people.
+- He seems fairly content `with` life.
+- They're content `to` socialize with a very small circle of people.
 
 ## 925. continuous ## adjective
 /kənˈtɪn.ju.əs/ GRAMMAR
@@ -5832,21 +5832,21 @@
 ## 927. controversial ## adjective
 /ˌkɑn.trəˈvɜr.ʃəl/ 
 [B2]causing disagreement or discussion
-- a controversial issue/decision/speech/figure
+- a controversial `issue/decision/speech/figure`
 - The book was very controversial.
 
 ## 928. conventional ## adjective
 /kənˈven.tʃən.əl/ TRADITIONAL
 [B2]traditional and ordinary
-- conventional behavior/attitudes/clothes
-- conventional medicine/farming
+- conventional `behavior/attitudes/clothes`
+- conventional `medicine/farming`
 - I find his art rather dull and conventional.
 
 ## 929. convinced ## adjective
 /kənˈvɪnst/ 
 [B2]certain
 - My boyfriend says I'd enjoy a hiking vacation, but I'm not convinced.
-- I'm convinced (that) she is lying.
+- I'm convinced `(that)` she is lying.
 
 ## 930. cooperative ## adjective
 /koʊˈɑp.ə.rət̬.ɪv/ 
@@ -5861,27 +5861,27 @@
 ## 932. crazy ## adjective
 /ˈkreɪ.zi/ ANGRY
 [B2]annoyed or angry
-- The constant noise drove me crazy.
-- Dad went crazy when I told him what had happened.
+- The constant noise `drove` me crazy.
+- Dad `went` crazy when I told him what had happened.
 
 ## 933. criminal ## adjective [always before noun]
 /ˈkrɪm.ən.əl/ CRIME
 [B2]relating to crime
-- criminal activity
-- a criminal act/offence
-- a criminal investigation
-- I didn't know he had a criminal record.
+- criminal `activity`
+- a criminal `act/offence`
+- a criminal `investigation`
+- I didn't know he had a criminal `record`.
 
 ## 934. critical ## adjective
 /ˈkrɪt̬.ɪ.kəl/ NOT PLEASED
 [B2]saying that someone or something is bad or wrong
 - a critical report
-- The report is highly critical of safety standards at the factory.
+- The report is highly critical `of` safety standards at the factory.
 
 ## 935. critical ## adjective
 /ˈkrɪt̬.ɪ.kəl/ IMPORTANT
 [B2]of the greatest importance to the way things might happen
-- The President's support is critical to this project.
+- The President's support is critical `to` this project.
 - a critical decision
 
 ## 936. critical ## adjective
@@ -5892,21 +5892,21 @@
 ## 937. crucial ## adjective
 /ˈkruː.ʃəl/ 
 [B2]extremely important or necessary
-- a crucial decision/question
-- Her work has been crucial to the project's success.
-- It is crucial that the problem is tackled immediately.
+- a crucial `decision/question`
+- Her work has been crucial `to` the project's success.
+- It is crucial `that` the problem is tackled immediately.
 
 ## 938. current ## adjective
 /ˈkɜr.ənt/ 
 [B2]happening or existing now
 - Is that your current address?
 - Have you seen the current issue of Vogue magazine?
-- The word "thou" is no longer in current use.
+- The word "thou" is no longer `in` current `use`.
 
 ## 939. dairy ## adjective
 /ˈder.i/ 
 [B2]relating to milk or products made using milk
-- dairy products
+- dairy `products`
 
 ## 940. damp ## adjective
 /dæmp/ 
@@ -5919,32 +5919,32 @@
 /ded/ EQUIPMENT
 [B2]If a piece of equipment is dead, it is not working.
 - a dead battery
-- The phone suddenly went dead.
+- The phone suddenly `went` dead.
 
 ## 942. deadly ## adjective
 /ˈded.li/ 
 [B2]likely to cause death
 - a deadly virus
-- a deadly weapon
+- a deadly `weapon`
 
 ## 943. dear ## adjective
 /dɪr/ LIKED
 [B2]liked very much
-- She was a very dear friend.
+- She was a very dear `friend`.
 - He's one of my dearest friends.
-- My dear Gina - how nice to see you!
+- `My` dear Gina - how nice to see you!
 
 ## 944. decent ## adjective
 /ˈdiː.sənt/ SATISFACTORY
 [B2]of a satisfactory quality or level
-- He earns a decent salary.
+- He earns a decent `salary`.
 - I haven't had a decent cup of coffee since I've been here.
 
 ## 945. decent ## adjective
 /ˈdiː.sənt/ HONEST
 [B2]honest and morally good
 - Decent people have had their lives ruined by his behavior.
-- She should do the decent thing and apologize.
+- She should `do the` decent `thing` and apologize.
 
 ## 946. decisive ## adjective
 /dɪˈsɑɪ.sɪv/ MAKING DECISIONS
@@ -5961,13 +5961,13 @@
 ## 948. deep ## adjective
 /diːp/ STRONGLY FELT
 [B2]A deep feeling or experience is very strong.
-- deep regret
-- Their son has been a deep disappointment to them.
+- deep `regret`
+- Their son has been a deep `disappointment` to them.
 
 ## 949. deep ## adjective
 /diːp/ SOUND
 [B2]A deep sound is low.
-- a wonderfully deep voice
+- a wonderfully deep `voice`
 
 ## 950. deep ## adjective
 /diːp/ take a deep breath
@@ -5993,8 +5993,8 @@
 ## 954. deliberate ## adjective
 /dəˈlɪb.ə.rət/ 
 [B2]done intentionally or planned
-- a deliberate attack/insult/lie
-- This was a deliberate attempt to mislead us.
+- a deliberate `attack/insult/lie`
+- This was a deliberate `attempt` to mislead us.
 
 ## 955. delicate ## adjective
 /ˈdel.ɪ.kət/ SOFT
@@ -6017,7 +6017,7 @@
 /dɪˈmæn.dɪŋ/ 
 [B2]needing a lot of time, attention or energy
 - She's a very demanding child.
-- a demanding job
+- a demanding `job`
 
 ## 959. democratic ## adjective
 /ˌdem.əˈkræt̬.ɪk/ 
@@ -6027,95 +6027,95 @@
 ## 960. dense ## adjective
 /dens/ 
 [B2]thick and difficult to see through
-- dense fog
+- dense `fog`
 - a dense forest
 
 ## 961. dental ## adjective
 /ˈdent.əl/ 
 [B2]relating to the teeth
-- dental care
+- dental `care`
 
 ## 962. dependent ## adjective
 /dəˈpen.dənt/ NEEDING SUPPORT
 [B2]needing the support of something or someone in order to continue existing or operating
 - He has three dependent children.
-- West Virginia’s economy is dependent on the mining industry.
+- West Virginia’s economy is dependent `on` the mining industry.
 
 ## 963. depressing ## adjective
 /dəˈpres.ɪŋ/ 
 [B2]making you feel unhappy and without hope for the future
 - I find this weather so depressing.
-- Her letter was too depressing to read.
+- Her letter was `too` depressing to read.
 - It was very depressing watching the news on television tonight.
-- It's depressing to think that we've got five more years of this government!
+- It's depressing` to` think that we've got five more years of this government!
 
 ## 964. designer ## adjective [always before noun]
 /dəˈzɑɪ.nər/ 
 [B2]made by a famous or fashionable designer
 - designer jeans/sunglasses
-- I can't afford designer labels/designer label clothes.
+- I can't afford designer `labels`/designer `label` clothes.
 
 ## 965. desirable ## adjective
 /dɪˈzɑɪ.rə.bəl/ 
 [B2]worth having and wanted by most people
 - Reducing class sizes in schools is a desirable aim.
-- It's regarded as a highly desirable job.
+- It's regarded as a `highly` desirable job.
 - The house is in a very desirable area of the city.
 
 ## 966. desperate ## adjective
 /ˈdes.pə.rət/ WITHOUT HOPE
 [B2]extremely worried or frightened and ready to do anything to change the bad situation you are in
-- The doctors made one last desperate attempt/effort to save the boy's life.
+- The doctors made one last desperate `attempt/effort` to save the boy's life.
 - They made a desperate appeal for help.
 
 ## 967. desperate ## adjective
 /ˈdes.pə.rət/ NEEDING
 [B2]needing or wanting something very much
-- She was desperate to get news of her family.
-- They are desperate for help.
-- I’m desperate to find a cup of coffee.
+- She was desperate `to` get news of her family.
+- They are desperate `for` help.
+- I’m desperate `to` find a cup of coffee.
 
 ## 968. detailed ## adjective
 /dɪˈteɪld/ 
 [B2]giving a lot of information
-- A witness gave a detailed description of the man.
+- A witness gave a detailed `description` of the man.
 
 ## 969. determined ## adjective
 /dɪˈtɜr.mɪnd/ 
 [B2]wanting to do something very much, and not letting anyone stop you
-- I'm determined to get this piece of work finished today.
+- I'm determined `to` get this piece of work finished today.
 - She's sure to get the job she wants - she's a very determined person.
 
 ## 970. developed ## adjective
 /dɪˈvel.əpt/ 
 [B2]describes a country or region of the world with an advanced level of technology, industry, etc.
-- a developed country/nation
+- a developed `country/nation`
 
 ## 971. developing ## adjective
 /dɪˈvel.ə.pɪŋ/ 
 [B2]describes a country or region of the world which is poor and has few industries
-- the developing world/countries/nations
+- the developing `world/countries/nations`
 
 ## 972. devoted ## adjective
 /dɪˈvoʊt̬.ɪd/ 
 [B2]extremely loving or caring very much about someone or something
-- a devoted fan/husband/wife
-- Lucy is devoted to her cats.
+- a devoted `fan`/husband/wife
+- Lucy is devoted `to` her cats.
 
 ## 973. direct ## adjective
 /dəˈrekt/ NOTHING BETWEEN
 [B2]with no other person or thing involved or between
 - She decided to take direct control of the project.
 - Have you any direct experience of this kind of work?
-- He left as a direct result/consequence of what she said.
-- There is a direct link/connection between smoking and lung cancer.
+- He left as a direct `result/consequence` of what she said.
+- There is a direct `link/connection` between smoking and lung cancer.
 
 ## 974. dishonest ## adjective
 /dɪsˈɑn.əst/ 
 [B2]not honest and likely to lie or do something illegal
 - a dishonest lawyer
 - a dishonest way of making money
-- He's been dishonest with us about his past.
+- He's been dishonest with us `about` his past.
 
 ## 975. disorganized ## adjective
 /dɪsˈɔːr.gəˌnɑɪzd/ OF SOMETHING
@@ -6130,7 +6130,7 @@
 ## 977. dissatisfied ## adjective
 /dɪsˈsæt̬.əsˌfɑɪd/ 
 [B2]not pleased or happy with something
-- If you're dissatisfied with the service, why don't you complain to the hotel manager?
+- If you're dissatisfied `with` the service, why don't you complain to the hotel manager?
 
 ## 978. distant ## adjective
 /ˈdɪs.tənt/ FAR AWAY
@@ -6146,14 +6146,14 @@
 ## 980. distressing ## adjective
 /dəˈstres.ɪŋ/ 
 [B2]making you feel extremely worried or upset
-- distressing news
-- a distressing experience
+- distressing `news`
+- a distressing `experience`
 
 ## 981. diverse ## adjective
 /dɪˈvɜrs/ 
 [B2]varied or different
 - Students from countries as diverse as Colombia and Lithuania use Cambridge textbooks.
-- New York is a very culturally/ethnically diverse city.
+- New York is a very `culturally/ethnically` diverse city.
 
 ## 982. divided ## adjective
 /dɪˈvɑɪd.ɪd/ 
@@ -6163,56 +6163,56 @@
 ## 983. dizzy ## adjective
 /ˈdɪz.i/ 
 [B2]feeling as if everything is turning round, so that you feel ill or as if you might fall
-- Going without sleep for a long time makes me feel dizzy and lightheaded.
-- I felt quite dizzy with excitement as I went up to accept the award.
+- Going without sleep for a long time makes me `feel` dizzy and lightheaded.
+- I felt quite dizzy `with` excitement as I went up to accept the award.
 
 ## 984. domestic ## adjective
 /dəˈmes.tɪk/ HOME
 [B2]belonging or relating to the home, house or family
-- domestic chores/duties/arrangements
+- domestic `chores/duties/arrangements`
 
 ## 985. domestic ## adjective
 /dəˈmes.tɪk/ COUNTRY
 [B2]relating to a person's own country
-- domestic airlines/flights
+- domestic `airlines/flights`
 - Domestic opinion had turned against the war.
 
 ## 986. doubtful ## adjective
 /ˈdɑʊt.fəl/ NOT PROBABLE
 [B2]not probable
-- It is doubtful whether/if he'll be able to come.
-- It was doubtful that the money would ever be found again.
+- `It` is doubtful `whether`/`if` he'll be able to come.
+- `It` was doubtful `that` the money would ever be found again.
 
 ## 987. doubtful ## adjective
 /ˈdɑʊt.fəl/ NOT CERTAIN
 [B2]not feeling certain about something
-- The teacher is doubtful about having parents working as classroom assistants.
+- The teacher is doubtful `about` having parents working as classroom assistants.
 
 ## 988. down ## adjective
 /dɑʊn/ UNHAPPY
 [B2]unhappy or unable to feel excited or energetic about anything
 - She's been really down since her husband died.
-- I've been (feeling) a bit down this week.
+- I've been `(feeling) a bit` down this week.
 
 ## 989. dramatic ## adjective
 /drəˈmæt̬.ɪk/ 
 [B2]very sudden or noticeable, or full of action and excitement
-- a dramatic change/improvement
+- a dramatic `change/improvement`
 - We watched scenes of the dramatic rescue on the news.
 
 ## 990. dreadful ## adjective
 /ˈdred.fəl/ 
 [B2]extremely bad or unpleasant
 - The food was bad and the service was dreadful.
-- I was beginning to think I'd made a dreadful mistake.
+- I was beginning to think I'd made a dreadful `mistake`.
 - The news report was so dreadful that I just had to switch it off.
 
 ## 991. drunk ## adjective [never before noun]
 /drʌŋk/ 
 [B2]unable to behave or speak normally because of having had too much alcohol
-- He got very drunk at my sister's wedding.
+- He `got` very drunk at my sister's wedding.
 - I'd had a glass of wine but I certainly wasn't drunk.
-- He came home last night blind drunk.
+- He came home last night `blind` drunk.
 
 ## 992. due ## adjective
 /duː/ in due course
@@ -6233,8 +6233,8 @@
 ## 995. eager ## adjective
 /ˈiː.gər/ 
 [B2]wanting to do or have something very much
-- She sounded very eager to meet you.
-- They crowded around the spokesperson, eager for any news.
+- She sounded very eager `to` meet you.
+- They crowded around the spokesperson, eager `for` any news.
 
 ## 996. eastern ## adjective [always before noun]
 /ˈiː.stərn/ ASIA
@@ -6249,20 +6249,20 @@
 ## 998. economic ## adjective [always before noun]
 /ˌiː.kəˈnɑm.ɪk/ 
 [B2]relating to trade, industry and money
-- We have seen ten years of economic growth.
-- Lack of adequate economic policies have led us into the worst recession in years.
+- We have seen ten years of economic `growth`.
+- Lack of adequate economic `policies` have led us into the worst recession in years.
 
 ## 999. economical ## adjective
 /ˌiː.kəˈnɑm.ɪk.əl/ 
 [B2]not using a lot of money, fuel, etc.
 - What's the most economical way of heating this building?
-- There's increasing demand for cars that are more economical on fuel.
+- There's increasing demand for cars that are more economical `on` fuel.
 
 ## 1000. educational ## adjective
 /ˌedʒ.ʊˈkeɪ.ʃən.əl/ 
 [B2]providing education or relating to education
 - educational toys
-- Reducing the size of classes may improve educational standards.
+- Reducing the size of classes may improve educational `standards`.
 
 ## 1001. effective ## adjective
 /ɪˈfek.tɪv/ 
@@ -6282,25 +6282,25 @@
 ## 1003. emotional ## adjective
 /ɪˈmoʊ.ʃən.əl/ EMOTIONS
 [B2]relating to emotions
-- a child's emotional development
+- a child's emotional `development`
 - My doctor said the problem was more emotional than physical.
 
 ## 1004. emotional ## adjective
 /ɪˈmoʊ.ʃən.əl/ STRONG FEELINGS
 [B2]having and expressing strong feelings
 - an emotional speech
-- I felt quite emotional during the wedding ceremony.
+- I `felt` quite emotional during the wedding ceremony.
 
 ## 1005. encouraging ## adjective
 /ɪnˈkɜr.ɪdʒ.ɪŋ/ 
 [B2]giving you confidence or hope
 - The team's performance was very encouraging.
-- an encouraging smile
+- an encouraging `smile`
 
 ## 1006. endangered ## adjective
 /ɪnˈdeɪn.dʒərd/ 
 [B2]used of animals and plants which may soon disappear from the world because there are very few left alive
-- Tigers are now an endangered species.
+- Tigers are now an endangered `species`.
 
 ## 1007. endless ## adjective
 /ˈen.dləs/ 
@@ -6324,7 +6324,7 @@
 ## 1010. enthusiastic ## adjective
 /ɪnˌθuː.ziːˈæs.tɪk/ 
 [B2]showing enthusiasm
-- You don't seem very enthusiastic about the party - don't you want to go tonight?
+- You don't seem very enthusiastic `about` the party - don't you want to go tonight?
 
 ## 1011. entire ## adjective [always before noun]
 /enˈtɑɪr/ 
@@ -6341,7 +6341,7 @@
 /ˈiː.kwəl/ AS IMPORTANT
 [B2]the same in importance and deserving the same treatment
 - All people are equal, deserving the same rights as each other.
-- They've got a long way to go before they achieve equal pay/opportunities for men and women.
+- They've got a long way to go before they achieve equal `pay/opportunities` for men and women.
 
 ## 1014. estimated ## adjective
 /ˈes.təˌmeɪ.t̬ɪd/ 
@@ -6352,7 +6352,7 @@
 /ˈev.əd.ənt/ 
 [B2]obvious to everyone and easy to see or understand
 - The full extent of the damage only became evident the following morning.
-- From the smell it was evident that the drains had been blocked for several days.
+- From the smell it was evident `that` the drains had been blocked for several days.
 
 ## 1016. evil ## adjective
 /ˈiː.vəl/ 
@@ -6395,29 +6395,29 @@
 ## 1023. expert ## adjective [always before noun]
 /ˈek.spɜrt/ 
 [B2]having or showing a lot of knowledge or skill
-- The center provides expert advice for people with financial problems.
-- What's your expert opinion?
+- The center provides expert `advice` for people with financial problems.
+- What's your expert `opinion`?
 
 ## 1024. extensive ## adjective
 /ɪkˈsten.sɪv/ 
 [B2]large in amount or size
-- Fire had caused extensive damage to the building.
-- This is probably the most extensive modern art collection in Europe.
-- The school has extensive grounds.
-- The road was in need of extensive repairs.
-- Both events received extensive coverage in the newspapers.
+- Fire had caused extensive `damage` to the building.
+- This is probably the most extensive modern art `collection` in Europe.
+- The school has extensive `grounds`.
+- The road was in need of extensive `repairs`.
+- Both events received extensive `coverage` in the newspapers.
 
 ## 1025. external ## adjective
 /ekˈstɜrn.əl/ OUTSIDE
 [B2]relating to the outside part of something
-- the external walls of the house
-- This cream is for external use only.
+- the external `walls` of the house
+- This cream is `for` external `use` only.
 
 ## 1026. external ## adjective
 /ekˈstɜrn.əl/ FROM A DIFFERENT PLACE
 [B2]coming from or relating to another country, group, organization, etc.
 - Most news magazines have a section devoted to external affairs.
-- All exams are marked by an external reviewer.
+- All exams are marked by an external `reviewer`.
 
 ## 1027. extreme ## adjective
 /ɪkˈstriːm/ VERY LARGE
@@ -6428,12 +6428,12 @@
 /ɪkˈstriːm/ SERIOUS
 [B2]the most unusual or the most serious possible
 - extreme weather conditions
-- In extreme cases, the disease can lead to blindness.
+- In extreme `cases`, the disease can lead to blindness.
 
 ## 1029. faint ## adjective
 /feɪnt/ SLIGHT
 [B2]slight and not easy to notice, smell, hear, etc.
-- a faint sound/noise/smell
+- a faint `sound/noise/smell`
 - She gave me a faint smile.
 
 ## 1030. fair ## adjective
@@ -6444,13 +6444,13 @@
 ## 1031. faithful ## adjective
 /ˈfeɪθ.fəl/ LOYAL
 [B2]loyal
-- a faithful friend
+- a faithful `friend`
 - His faithful old dog accompanied him everywhere he went.
 
 ## 1032. false ## adjective
 /fɔːls/ NOT REAL
 [B2]not real, but made to look or seem real
-- false eyelashes/teeth
+- false `eyelashes/teeth`
 - false documents
 
 ## 1033. familiar ## adjective
@@ -6461,13 +6461,13 @@
 ## 1034. far ## adjective [always before noun]
 /fɑr/ DISTANT
 [B2]describes the part of something that is most distant from the center or from you
-- His office is at the far end of the corridor.
-- The children ran to the far side/corner of the room.
+- His office is at the far `end` of the corridor.
+- The children ran to the far `side/corner` of the room.
 
 ## 1035. fascinated ## adjective
 /ˈfæs.əˌneɪt̬.ɪd/ 
 [B2]extremely interested
-- They were fascinated by his stories.
+- They were fascinated `by` his stories.
 
 ## 1036. fascinating ## adjective
 /ˈfæs.əˌneɪt̬.ɪŋ/ 
@@ -6484,55 +6484,55 @@
 ## 1038. fatal ## adjective
 /ˈfeɪt̬.əl/ SERIOUS
 [B2]Fatal actions have very bad effects.
-- He made the fatal mistake/error of believing what they told him.
+- He made the fatal `mistake/error` of believing what they told him.
 
 ## 1039. faulty ## adjective
 /ˈfɔːl.ti/ 
 [B2]not working correctly or not in perfect condition
-- faulty brakes
-- faulty reasoning
+- faulty `brakes`
+- faulty `reasoning`
 
 ## 1040. favorable ## adjective
 /ˈfeɪ.vər.ə.bəl/ 
 [B2]showing that you like or approve of someone or something, or making you support or approve of someone or something
-- She made a very favorable impression on us.
+- She made a very favorable `impression` on us.
 
 ## 1041. fed up ## adjective [never before noun]
 /ˌfedˈʌp/ 
 [B2]annoyed or bored by something that you have experienced for too long
-- I'm fed up with my job.
-- He got fed up with all the traveling he had to do.
+- I'm fed up `with` my job.
+- He `got` fed up with all the traveling he had to do.
 
 ## 1042. fellow ## adjective [always before noun]
 /ˈfel.oʊ/ 
 [B2]describes someone who has the same job or interests as you, or is in the same situation as you
-- She introduced me to some of her fellow students.
+- She introduced me to some of her fellow `students`.
 - Our fellow travelers were mostly Spanish-speaking tourists.
 
 ## 1043. fierce ## adjective
 /fɪrs/ VIOLENT
 [B2]violent or angry
-- a fierce dog
-- a fierce attack/battle
-- Two men were shot during fierce fighting last weekend.
+- a fierce `dog`
+- a fierce `attack/battle`
+- Two men were shot during fierce `fighting` last weekend.
 
 ## 1044. fierce ## adjective
 /fɪrs/ STRONG
 [B2]very strong or powerful
-- Fierce winds/storms battered the coast all weekend.
-- Fire fighters had to retreat from the fierce heat.
+- Fierce `winds/storms` battered the coast all weekend.
+- Fire fighters had to retreat from the fierce `heat`.
 
 ## 1045. fierce ## adjective
 /fɪrs/ FEELING
 [B2]showing strong feeling or energetic activity
-- The expansion plans will face fierce opposition/resistance from environmentalists.
-- There is fierce competition to join the Special Branch.
+- The expansion plans will face fierce `opposition/resistance` from environmentalists.
+- There is fierce `competition` to join the Special Branch.
 
 ## 1046. fine ## adjective
 /fɑɪn/ EXCELLENT
 [B2]excellent or much better than average
 - a fine musician/artist
-- There is a fine view of the river from the balcony.
+- There is a fine `view` of the river from the balcony.
 - This building is the finest example of its type.
 
 ## 1047. firm ## adjective
@@ -6543,8 +6543,8 @@
 ## 1048. firm ## adjective
 /fɜrm/ FIXED
 [B2]certain or fixed and not likely to change
-- We don't have any firm plans for the weekend yet.
-- I'm a firm believer in equal rights.
+- We don't have any firm `plans` for the weekend yet.
+- I'm a firm `believer` in equal rights.
 
 ## 1049. first ## adjective
 /fɜrst/ in the first place
@@ -6554,7 +6554,7 @@
 ## 1050. fixed ## adjective
 /fɪkst/ ARRANGED
 [B2]arranged or decided already and not able to be changed
-- a fixed price
+- a fixed `price`
 - fixed interest rates
 
 ## 1051. flat ## adjective
@@ -6571,8 +6571,8 @@
 ## 1053. fluent ## adjective
 /ˈfluː.ənt/ ABILITY
 [B2]able to use a language naturally without stopping or making mistakes
-- She's fluent in French.
-- He's a fluent Russian speaker.
+- She's fluent `in` French.
+- He's a fluent Russian `speaker`.
 
 ## 1054. fluent ## adjective
 /ˈfluː.ənt/ LANGUAGE
@@ -6582,18 +6582,18 @@
 ## 1055. fond ## adjective
 /fɑnd/ HAPPY
 [B2]expressing or causing happy feelings
-- Many of us have fond memories of our childhoods.
+- Many of us have fond `memories` of our childhoods.
 
 ## 1056. foolish ## adjective
 /ˈfuː.lɪʃ/ 
 [B2]stupid and not wise
-- It would be foolish to pay more.
+- It would be foolish `to` pay more.
 - I thought I might look foolish if I refused.
 
 ## 1057. foreign ## adjective
 /ˈfɔːr.ən/ OTHER COUNTRIES
 [B2]relating to or dealing with countries that are not your own
-- foreign policy
+- foreign `policy`
 - the foreign secretary
 
 ## 1058. formal ## adjective
@@ -6609,17 +6609,17 @@
 ## 1060. fortunate ## adjective
 /ˈfɔːr.tʃə.nət/ 
 [B2]lucky
-- You're very fortunate to have found such a lovely house.
-- It was fortunate that they had left in plenty of time.
-- He was fortunate in his choice of assistant.
+- You're very fortunate `to` have found such a lovely house.
+- It was fortunate `that` they had left in plenty of time.
+- He was fortunate `in` his choice of assistant.
 
 ## 1061. free ## adjective
 /friː/ NOT LIMITED
 [B2]not limited or controlled
-- a free society
-- Am I free to leave now?
-- People should be free to say what they think.
-- The agreement gives companies free access to the markets of member countries.
+- a free `society`
+- Am I free `to` leave now?
+- People should be free `to` say what they think.
+- The agreement gives companies free `access` to the markets of member countries.
 
 ## 1062. free ## adjective
 /friː/ NOT A PRISONER
@@ -6641,7 +6641,7 @@
 [B2]recently made, done, arrived, etc., and especially not yet changed by time
 - There was a fresh fall of snow during the night.
 - Some people like the smell of fresh paint, but I don't.
-- The events of last year are still fresh in people's minds.
+- The events of last year are still fresh `in` people's `minds`.
 
 ## 1066. full ## adjective
 /fʊl/ FOOD
@@ -6656,19 +6656,19 @@
 ## 1068. furious ## adjective
 /ˈfjʊr.iː.əs/ 
 [B2]extremely angry
-- I was late and he was furious with me.
-- He's furious about/at the way he's been treated.
+- I was late and he was furious `with` me.
+- He's furious `about/at` the way he's been treated.
 
 ## 1069. general ## adjective
 /ˈdʒen.rəl/ MOST PEOPLE
 [B2]involving or relating to most or all people, things or places
-- There is general concern about rising crime rates.
-- There seems to be general agreement on this matter.
+- There is general `concern` about rising crime rates.
+- There seems to be general `agreement` on this matter.
 
 ## 1070. general ## adjective
 /ˈdʒen.rəl/ NOT LIMITED
 [B2]including a lot of things or subjects and not limited to only one or a few
-- general knowledge
+- general `knowledge`
 
 ## 1071. general ## adjective
 /ˈdʒen.rəl/ in general
@@ -6695,12 +6695,12 @@
 ## 1075. golden ## adjective
 /ˈgoʊl.dən/ SPECIAL
 [B2]special, successful, or giving someone an advantage
-- He has a golden opportunity to do research.
+- He has a golden `opportunity` to do research.
 
 ## 1076. good ## adjective
 /gʊd/ it's a good thing
 [B2]If it's a good thing that something happened, it is lucky or fortunate that it happened.
-- It's a good thing (that) we bought our tickets early.
+- It's a good thing `(that)` we bought our tickets early.
 
 ## 1077. good ## adjective
 /gʊd/ Good for you!
@@ -6710,7 +6710,7 @@
 ## 1078. gradual ## adjective
 /ˈgrædʒ.ʊ.əl/ 
 [B2]happening slowly over a period of time
-- a gradual change/improvement
+- a gradual `change/improvement`
 
 ## 1079. great ## adjective
 /greɪt/ IMPORTANT
@@ -6738,7 +6738,7 @@
 ## 1083. green ## adjective
 /griːn/ ENVIRONMENT
 [B2]relating to nature and protecting the environment
-- green issues
+- green `issues`
 - the Green Party
 
 ## 1084. growing ## adjective
@@ -6754,8 +6754,8 @@
 ## 1086. guilty ## adjective
 /ˈgɪl.ti/ RESPONSIBLE
 [B2]responsible for breaking a law
-- The jury found her guilty.
-- The jury has to decide whether a person is guilty or innocent of a crime.
+- The jury `found` her guilty.
+- The jury has to decide whether a person is guilty `or innocent` of a crime.
 
 ## 1087. gymnastic ## adjective [always before noun]
 /dʒɪmˈnæs.tɪk/ 
@@ -6775,12 +6775,12 @@
 ## 1090. harmful ## adjective
 /ˈhɑrm.fəl/ 
 [B2]causing harm
-- This group of chemicals is known to be harmful to people with asthma.
+- This group of chemicals is known to be harmful `to` people with asthma.
 
 ## 1091. harmless ## adjective
 /ˈhɑrm.ləs/ 
 [B2]not able or not likely to cause harm
-- Most mushrooms are completely/totally harmless, but some are poisonous.
+- Most mushrooms are `completely/totally` harmless, but some are poisonous.
 
 ## 1092. hi-tech ## adjective
 /ˌhɑɪˈtek/ 
@@ -6790,14 +6790,14 @@
 ## 1093. hidden ## adjective
 /ˈhɪd.ən/ NOT KNOW ABOUT
 [B2]If something is hidden, most people do not know about it.
-- hidden costs/taxes
-- Harry had a hidden agenda at the meeting and was determined to get his way.
+- hidden `costs/taxes`
+- Harry had a hidden `agenda` at the meeting and was determined to get his way.
 
 ## 1094. high ## adjective
 /hɑɪ/ IMPORTANT
 [B2]important, powerful, or at the top level of something
 - a high rank
-- Safety is our highest priority.
+- Safety is our highest `priority`.
 
 ## 1095. high-tech ## adjective
 /ˌhɑɪˈtek/ 
@@ -6807,7 +6807,7 @@
 ## 1096. hopeless ## adjective
 /ˈhoʊ.pləs/ BAD AT SOMETHING
 [B2]very bad at a particular activity
-- I'm hopeless at sports.
+- I'm hopeless `at` sports.
 - He's a hopeless cook.
 
 ## 1097. hourly ## adjective
@@ -6819,73 +6819,73 @@
 ## 1098. hourly ## adjective
 /ˈɑʊr.li/ PER HOUR
 [B2]for each hour
-- an hourly rate
-- hourly pay
+- an hourly `rate`
+- hourly `pay`
 
 ## 1099. icy ## adjective
 /ˈɑɪ.si/ WITHOUT FEELING
 [B2]without showing any emotion
-- an icy stare
+- an icy `stare`
 
 ## 1100. ideal ## adjective
 /ɑɪˈdiːl/ 
 [B2]perfect, or the best possible
 - the ideal job
-- She's the ideal person for the job.
-- This small table is ideal for bedroom your kitchen.
-- It's the ideal opportunity to meet people.
-- In an ideal world no one would go hungry.
+- She's the ideal person `for` the job.
+- This small table is ideal `for` bedroom your kitchen.
+- It's the ideal `opportunity` to meet people.
+- `In an` ideal `world` no one would go hungry.
 
 ## 1101. identical ## adjective
 /ɑɪˈdent.ɪ.kəl/ 
 [B2]exactly the same
 - I've got three identical blue suits.
 - The two rooms were virtually identical.
-- The tests are identical to last year's.
+- The tests are identical `to` last year's.
 
 ## 1102. ill ## adjective
 /ɪl/ 
 [B2]not feeling well, or suffering from a disease
-- He is in the hospital, critically ill.
-- I felt ill so I went home.
+- He is in the hospital, `critically` ill.
+- I `felt` ill so I went home.
 - He's been ill.
 
 ## 1103. illegal ## adjective
 /ɪˈliː.gəl/ 
 [B2]not allowed by law
 - Fireworks are illegal in many states.
-- It is illegal to drive a car without a license.
+- It is illegal `to` drive a car without a license.
 
 ## 1104. immediate ## adjective
 /ɪˈmiː.diː.ət/ WITHOUT DELAY
 [B2]happening or done without delay or very soon after something else
 - The directors have demanded his immediate resignation.
-- The change in school hours will have little effect on most families.
-- He made an immediate impact when he arrived to coach the team.
-- Regular bus service may not be available in the immediate aftermath of the hurricane.
+- The change in school hours will have little `effect` on most families.
+- He made an immediate `impact` when he arrived to coach the team.
+- Regular bus service may not be available in the immediate `aftermath` of the hurricane.
 
 ## 1105. immediate ## adjective
 /ɪˈmiː.diː.ət/ IMPORTANT NOW
 [B2]important now and needing attention
 - We have no immediate plans.
-- Our immediate concern is getting food and water to the refugees.
+- Our immediate `concern` is getting food and water to the refugees.
 
 ## 1106. immoral ## adjective
 /ɪˈmɔːr.əl/ 
 [B2]morally wrong
-- immoral behavior
+- immoral `behavior`
 
 ## 1107. impatient ## adjective
 /ɪmˈpeɪ.ʃənt/ EASILY ANNOYED
 [B2]easily annoyed by someone's mistakes or because you have to wait
-- He's a good teacher, but he can be impatient with slow learners.
+- He's a good teacher, but he can be impatient `with` slow learners.
 - Don’t be so impatient, you’ll get your turn.
 
 ## 1108. impatient ## adjective
 /ɪmˈpeɪ.ʃənt/ WANTING SOMETHING TO HAPPEN
 [B2]wanting something to happen as soon as possible
-- He's got a lot of exciting ideas and he's impatient to get started.
-- People are increasingly impatient for change in this country.
+- He's got a lot of exciting ideas and he's impatient `to` get started.
+- People are increasingly impatient `for` change in this country.
 
 ## 1109. impolite ## adjective
 /ˌɪm.pəˈlɑɪt/ 
@@ -6895,7 +6895,7 @@
 ## 1110. impressed ## adjective
 /ɪmˈprest/ 
 [B2]feeling admiration or respect for someone or something
-- I was impressed by her professionalism.
+- I was impressed `by` her professionalism.
 - He seemed suitably impressed by our efforts.
 
 ## 1111. impressive ## adjective
@@ -6909,13 +6909,13 @@
 ## 1112. improved ## adjective
 /ɪmˈpruːvd/ 
 [B2]better than before
-- A new and improved version of this software was released last week.
+- A `new and` improved `version` of this software was released last week.
 - improved quality/performance/safety
 
 ## 1113. inaccurate ## adjective
 /ɪnˈæk.jʊ.rət / 
 [B2]not correct or exact
-- inaccurate information
+- inaccurate `information`
 
 ## 1114. inconvenient ## adjective
 /ɪn.kənˈviːn.jənt / 
@@ -6925,18 +6925,18 @@
 ## 1115. incredible ## adjective
 /ɪnˈkred.ə.bəl/ NOT BELIEVE
 [B2]impossible, or very difficult, to believe
-- It seems incredible that no one complained.
+- `It` seems incredible `that` no one complained.
 
 ## 1116. independent ## adjective
 /ˌɪn.dɪˈpen.dənt/ NOT INFLUENCED
 [B2]not influenced or controlled in any way by other people, events or things
-- an independent inquiry/organization
-- The group is independent of any political party.
+- an independent `inquiry`/`organization`
+- The group is independent `of` any political party.
 
 ## 1117. independent ## adjective
 /ˌɪn.dɪˈpen.dənt/ NOT RULED
 [B2]An independent country is not governed or ruled by another country.
-- Belize became fully independent from Britain in 1981.
+- Belize became fully independent `from` Britain in 1981.
 - Tibet, once an independent country, is now part of China.
 
 ## 1118. industrial ## adjective
@@ -6982,7 +6982,7 @@
 ## 1125. innocent ## adjective
 /ˈɪn.ə.sənt/ NOT GUILTY
 [B2]not guilty of committing a crime
-- He firmly believes that she is innocent of the crime.
+- He firmly believes that she is innocent `of` the crime.
 
 ## 1126. innocent ## adjective
 /ˈɪn.ə.sənt/ NO EXPERIENCE
@@ -6997,13 +6997,13 @@
 ## 1128. inside ## adjective [always before noun]
  UNDER SURFACE
 [B2]in or on the part of something under its surface
-- He put the documents carefully in his inside pocket.
+- He put the documents carefully in his inside `pocket`.
 
 ## 1129. instant ## adjective
 /ˈɪn.stənt/ 
 [B2]happening immediately, without any delay
-- This type of account offers you instant access to your money.
-- Contrary to expectations, the movie was an instant success.
+- This type of account offers you instant `access` to your money.
+- Contrary to expectations, the movie was an instant `success`.
 
 ## 1130. intellectual ## adjective
 /ˌɪn.təlˈek.tʃu.əl/ THOUGHT
@@ -7021,15 +7021,15 @@
 ## 1132. interactive ## adjective
 /ˌɪn.t̬əˈræk.tɪv/ COMPUTER GAMES
 [B2]Interactive computer games, programs, etc. involve the user by reacting to the way they use them.
-- an interactive game
+- an interactive `game`
 - This is an interactive museum where children can actively manipulate the exhibits.
 
 ## 1133. internal ## adjective
 /ɪnˈtɜrn.əl/ 
 [B2]existing or happening inside a person, object, organization, place or country
-- He sustained injuries to his arms, legs and several internal organs.
+- He sustained injuries to his arms, legs and several internal `organs`.
 - The bank conducted its own internal investigation into the robbery.
-- The government warned its neighbors not to interfere in its internal affairs.
+- The government warned its neighbors not to interfere in its internal `affairs`.
 
 ## 1134. intransitive ## adjective
 /ɪnˈtræn.zət̬.ɪv/ 
@@ -7040,14 +7040,14 @@
 ## 1135. invisible ## adjective
 /ɪnˈvɪz.ə.bəl/ 
 [B2]impossible to see
-- The aircraft is designed to be invisible to radar.
+- The aircraft is designed to be invisible `to` radar.
 - The house was invisible from the road.
 
 ## 1136. involved ## adjective
 /ɪnˈvɑlvd/ be/get involved (in/with sth)
 [B2]to do things and be part of an activity or event
-- How did you get involved in acting?
-- She's been involved with animal rights for many years.
+- How did you get involved `in` acting?
+- She's been involved `with` animal rights for many years.
 
 ## 1137. irregular ## adjective
 /ɪˈreg.jə.lər/ TIME
@@ -7062,13 +7062,13 @@
 ## 1139. irresponsible ## adjective
 /ˌɪr.ɪˈspɑn.sə.bəl/ 
 [B2]not thinking about the possible bad results of what you are doing
-- irresponsible behavior
+- irresponsible `behavior`
 - Leaving the door unlocked was irresponsible!
 
 ## 1140. irritated ## adjective
 /ˈɪr.əˌteɪ.t̬ɪd/ 
 [B2]annoyed
-- Ben began to get increasingly irritated by/with her questions.
+- Ben began to get increasingly irritated `by/with` her questions.
 
 ## 1141. irritating ## adjective
 /ˈɪr.əˌteɪ.t̬ɪŋ/ 
@@ -7078,14 +7078,14 @@
 ## 1142. jealous ## adjective
 /ˈdʒel.əs/ WANTING SOMETHING
 [B2]unhappy and angry because you want something that someone else has
-- He had always been very jealous of his brother's good looks.
+- He had always been very jealous `of` his brother's good looks.
 
 ## 1143. joint ## adjective
 /dʒɔɪnt/ 
 [B2]belonging to or shared between two or more people
 - a joint bank account
-- The project was a joint effort between the two schools.
-- You and your partner have joint responsibility for completing this project.
+- The project was a joint `effort` between the two schools.
+- You and your partner have joint `responsibility` for completing this project.
 
 ## 1144. junior ## adjective
 /ˈdʒuːn.jər / LOWER RANK
@@ -7101,14 +7101,14 @@
 ## 1146. key ## adjective
 /kiː/ IMPORTANT
 [B2]very important in influencing or achieving something
-- She was a key figure in the international art world.
-- a key factor in tackling the problem
+- She was a key `figure` in the international art world.
+- a key `factor` in tackling the problem
 
 ## 1147. known ## adjective
 /noʊn/ FAMILIAR
 [B2]recognized by or familiar to most people
 - a known fact
-- He is a great teacher and known to the entire school community
+- He is a great teacher and known `to` the entire school community
 
 ## 1148. last ## adjective ; determiner
 /læst/ the last person/thing, etc.
@@ -7132,7 +7132,7 @@
 ## 1151. latter ## adjective [always before noun]
 /ˈlæt̬.ər/ 
 [B2]near or toward the end of something
-- Construction on the new library should begin in the latter part of next year.
+- Construction on the new library should begin in the latter `part` of next year.
 - In the latter stages of the race he began to tire.
 
 ## 1152. lazy ## adjective
@@ -7145,17 +7145,17 @@
 ## 1153. leading ## adjective [always before noun]
 /ˈliːd.ɪŋ/ 
 [B2]very important or most important
-- a leading expert on the country's ecology
+- a leading `expert` on the country's ecology
 - the world's leading manufacturer of audio equipment
 
 ## 1154. legal ## adjective
 /ˈliː.gəl/ TO DO WITH LAW
 [B2]relating to the law
-- the legal profession
-- legal counsel
-- a legal requirement
-- your legal rights
-- legal action
+- the legal `profession`
+- legal `counsel`
+- a legal `requirement`
+- your legal `rights`
+- legal `action`
 
 ## 1155. legal ## adjective
 /ˈliː.gəl/ ALLOWED
@@ -7172,13 +7172,13 @@
 ## 1157. limited ## adjective
 /ˈlɪm.ə.tɪd/ WITHIN RANGE
 [B2]kept within a particular size, range, time, etc.
-- The class is limited to fifty students.
+- The class is limited `to` fifty students.
 - The free backpack is available for a limited time only.
 
 ## 1158. literary ## adjective
 /ˈlɪt̬.əˌrer.i/ 
 [B2]connected with literature
-- a literary critic
+- a literary `critic`
 - literary prizes
 - a literary style
 
@@ -7198,13 +7198,13 @@
 ## 1161. living ## adjective
 /ˈlɪv.ɪŋ/ 
 [B2]alive now
-- living things/creatures/organisms
+- living `things/creatures/organisms`
 - He is probably the best known living architect.
 
 ## 1162. logical ## adjective
 /ˈlɑdʒ.ɪ.kəl/ 
 [B2]using reason
-- a logical choice/conclusion
+- a logical `choice/conclusion`
 
 ## 1163. lonely ## adjective
 /ˈloʊn.li/ PLACE
@@ -7221,9 +7221,9 @@
 ## 1165. long-term ## adjective
 /ˌlɔːŋˈtɜrm/ 
 [B2]continuing a long time into the future
-- long-term unemployment
-- long-term care for the seriously ill
-- Scientists warned of the long-term effects of global warming.
+- long-term `unemployment`
+- long-term `care` for the seriously ill
+- Scientists warned of the long-term `effects` of global warming.
 
 ## 1166. loose ## adjective
 /luːs/ NOT ATTACHED
@@ -7236,7 +7236,7 @@
 ## 1167. lovely ## adjective
 /ˈlʌv.li/ ENJOYABLE
 [B2]pleasant or enjoyable
-- We had a lovely time in Greece.
+- We had a lovely `time` in Greece.
 
 ## 1168. lovely ## adjective
 /ˈlʌv.li/ BEAUTIFUL
@@ -7247,8 +7247,8 @@
 ## 1169. low ## adjective
 /loʊ/ BAD QUALITY
 [B2]of bad quality, especially when referring to something that is not as good as it should be
-- low standards/quality
-- I have rather a low opinion of him.
+- low `standards/quality`
+- I have rather a low `opinion` of him.
 
 ## 1170. low ## adjective
 /loʊ/ SOUND
@@ -7261,7 +7261,7 @@
 [B2]always liking and supporting someone or something, sometimes when other people do not
 - Jack has been a loyal employee in this company for almost 50 years.
 - People close to him are fiercely loyal.
-- She's very loyal to her friends.
+- She's very loyal `to` her friends.
 
 ## 1172. mad ## adjective
 /mæd/ like mad
@@ -7277,7 +7277,7 @@
 ## 1174. magical ## adjective
 /ˈmædʒ.ɪ.kəl/ SPECIAL POWERS
 [B2]with special powers that make impossible things happen
-- magical powers
+- magical `powers`
 
 ## 1175. main ## adjective [always before noun]
 /meɪn/ the main thing
@@ -7287,17 +7287,17 @@
 ## 1176. major ## adjective [always before noun]
 /ˈmeɪ.dʒər/ 
 [B2]more important, bigger or more serious than others of the same type
-- This is a major problem for people in this region.
-- Sugar is a major cause of tooth decay.
-- America has played a major role in the peace process.
+- This is a major `problem` for people in this region.
+- Sugar is a major `cause` of tooth decay.
+- America has played a major `role` in the peace process.
 - Citrus fruits are a major source of vitamin C.
 - There has been a major change in attitudes recently.
 
 ## 1177. manual ## adjective
 /ˈmæn.ju.əl/ PHYSICAL WORK
 [B2]involving physical work rather than mental work
-- unskilled manual labor
-- 750 manual workers will lose their jobs as a result of company cutbacks.
+- unskilled manual `labor`
+- 750 manual `workers` will lose their jobs as a result of company cutbacks.
 - Computer-controlled robots are taking over manual jobs in many industries.
 
 ## 1178. manual ## adjective
@@ -7331,7 +7331,7 @@
 ## 1183. mean ## adjective
 /miːn/ NOT KIND
 [B2]unkind or unpleasant
-- Stop being so mean to me!
+- Stop being so mean `to` me!
 - She just said it to be mean.
 
 ## 1184. meaningful ## adjective
@@ -7354,11 +7354,11 @@
 ## 1187. medical ## adjective
 /ˈmed.ɪ.kəl/ 
 [B2]relating to medicine and different ways of curing illness
-- medical advice
-- medical treatment
-- a medical student
+- medical `advice`
+- medical `treatment`
+- a medical `student`
 - a medical team
-- She has a medical condition that makes it hard for her to work.
+- She has a medical `condition` that makes it hard for her to work.
 
 ## 1188. medieval ## adjective
 /ˌmiːdˈiː.vəl/ 
@@ -7375,14 +7375,14 @@
 ## 1190. mental ## adjective [always before noun]
 /ˈmen.t̬əl/ 
 [B2]relating to the mind, or involving the process of thinking
-- mental health/illness
-- She had a mental picture of how the house would look when they finished decorating it.
+- mental `health/illness`
+- She had a mental `picture` of how the house would look when they finished decorating it.
 
 ## 1191. mere ## adjective [always before noun]
 /mɪr/ 
 [B2]used to emphasize that something is not large or important
-- It cost a mere twenty dollars.
-- The mere thought of eating octopus makes me feel sick.
+- It cost `a` mere twenty dollars.
+- The mere `thought of` eating octopus makes me feel sick.
 
 ## 1192. middle ## adjective [always before noun]
 /ˈmɪd.əl/ CENTRAL
@@ -7398,15 +7398,15 @@
 ## 1194. military ## adjective
 /ˈmɪl.ə.ter.i/ 
 [B2]relating to the army, navy, or air force
-- military action/service
+- military `action/service`
 - military uniform
 - military targets/forces
 
 ## 1195. minor ## adjective
 /ˈmɑɪ.nər/ 
 [B2]not important or serious
-- a minor offense/operation
-- She suffered only minor injuries.
+- a minor `offense/operation`
+- She suffered only minor `injuries`.
 - It requires a few minor adjustments.
 
 ## 1196. miserable ## adjective
@@ -7418,7 +7418,7 @@
 ## 1197. misleading ## adjective
 /mɪsˈliːd.ɪŋ/ 
 [B2]making someone believe something that is untrue
-- misleading information/statements
+- misleading `information/statements`
 
 ## 1198. misty ## adjective
 /ˈmɪs.ti/ 
@@ -7448,7 +7448,7 @@
 ## 1202. moving ## adjective
 /ˈmuː.vɪŋ/ 
 [B2]causing strong feelings of sadness or sympathy
-- She read a moving speech at the funeral.
+- She read a moving `speech` at the funeral.
 
 ## 1203. muddy ## adjective
 /ˈmʌd.i/ 
@@ -7462,7 +7462,7 @@
 [B2]strange or unknown, and not explained or understood
 - a mysterious stranger
 - the mysterious death of her son
-- He died in mysterious circumstances, and there is still a possibility that it was murder.
+- He died in mysterious `circumstances`, and there is still a possibility that it was murder.
 
 ## 1205. naked ## adjective
 /ˈneɪ.kɪd/ NO CLOTHES
@@ -7470,7 +7470,7 @@
 - a naked man
 - naked bodies
 - He was naked to the waist.
-- The children were half naked.
+- The children were `half` naked.
 
 ## 1206. nasty ## adjective
 /ˈnæs.ti/ ANGRY
@@ -7505,8 +7505,8 @@
 /ˈnætʃ.ə.rəl/ EXPECTED
 [B2]normal or expected
 - Of course you're upset - it's only natural.
-- It's natural that you should feel anxious when you first leave home.
-- It's quite natural to experience a few doubts just before you get married.
+- It's natural` that` you should feel anxious when you first leave home.
+- It's quite natural` to` experience a few doubts just before you get married.
 
 ## 1212. near ## adjective [always before noun]
 /nɪr/ in the near future
@@ -7527,17 +7527,17 @@
 ## 1215. negative ## adjective
 /ˈneg.ə.tɪv/ BAD
 [B2]A negative effect is bad and causes damage to something.
-- Transportation problems have had a very negative effect/impact on tourism.
+- Transportation problems have had a very negative `effect/impact` on tourism.
 
 ## 1216. negative ## adjective
 /ˈneg.ə.tɪv/ NO
 [B2]expressing the answer no
-- We received a negative answer to our request.
+- We received a negative `answer` to our request.
 
 ## 1217. neighboring ## adjective [always before noun]
 /ˈneɪ.bər.ɪŋ/ 
 [B2]near or next to somewhere
-- neighboring countries/states
+- neighboring `countries/states`
 - She married a man from a neighboring town.
 
 ## 1218. non-smoking ## adjective
@@ -7548,7 +7548,7 @@
 ## 1219. nuclear ## adjective
 /ˈnuː.kliː.ər/ POWER
 [B2]relating to the energy that is released when the nucleus of an atom is divided
-- nuclear energy/power
+- nuclear `energy/power`
 - a nuclear power plant
 - the nuclear industry
 
@@ -7573,9 +7573,9 @@
 [B2]strange or unusual
 - Her father was an odd man.
 - What an odd thing to say.
-- It struck me as odd that he didn't call.
-- That's odd - I'm sure I put my keys in this drawer, but they're not here.
-- It's a odd that no one has seen him all day.
+- `It struck me as` odd that he didn't call.
+- `That's` odd - I'm sure I put my keys in this drawer, but they're not here.
+- It's a odd `that` no one has seen him all day.
 
 ## 1224. off ## adjective [never before noun]
 /ɔːf/ FOOD
@@ -7591,9 +7591,9 @@
 ## 1226. official ## adjective
 /əˈfɪʃ.əl/ APPROVED
 [B2]approved by the government or someone in authority
-- the official language of Singapore
-- an official document
-- There will be an official investigation into the incident.
+- the official `language` of Singapore
+- an official `document`
+- There will be an official `investigation` into the incident.
 - We were invited to the official opening of the exhibit.
 
 ## 1227. open ## adjective
@@ -7609,13 +7609,13 @@
 ## 1229. opposite ## adjective
 /ˈɑp.ə.zɪt/ DIFFERENT
 [B2]completely different
-- All the traffic was going in the opposite direction.
-- Attempts to calm everyone down had the opposite effect.
+- All the traffic was going in the opposite `direction`.
+- Attempts to calm everyone down had the opposite `effect`.
 
 ## 1230. optimistic ## adjective
 /ˌɑp.təˈmɪs.tɪk/ 
 [B2]always believing that good things will happen
-- She is optimistic about her chances of winning a gold medal.
+- She is optimistic `about` her chances of winning a gold medal.
 
 ## 1231. optional ## adjective
 /ˈɑp.ʃən.əl/ 
@@ -7625,7 +7625,7 @@
 ## 1232. oral ## adjective
 /ˈɔːr.əl/ 
 [B2]spoken, not written
-- an oral agreement/exam
+- an oral `agreement/exam`
 
 ## 1233. orchestral ## adjective
 /ɔːrˈkes.trəl/ 
@@ -7635,8 +7635,8 @@
 ## 1234. organic ## adjective
 /ɔːrˈgæn.ɪk/ 
 [B2]not using artificial chemicals when keeping animals or growing plants for food
-- organic food/vegetables/meat
-- organic farming
+- organic `food/vegetables/meat`
+- organic `farming`
 
 ## 1235. organized ## adjective
 /ˈɔːr.gəˌnɑɪzd/ GOOD AT PLANNING
@@ -7658,7 +7658,7 @@
 ## 1238. outer ## adjective [always before noun]
 /ˈɑʊt̬.ər/ 
 [B2]on the edge or surface of something
-- Remove the outer layers of the onion.
+- Remove the outer `layers` of the onion.
 - I was asked to wait in an outer office.
 - They moved to the outer suburbs and have a long commute into the city.
 
@@ -7672,13 +7672,13 @@
 ## 1240. outside ## adjective [always before noun]
  NOT IN BUILDING
 [B2]not in a building
-- an outside light
+- an outside `light`
 
 ## 1241. outstanding ## adjective
 /ɑʊtˈstæn.dɪŋ/ 
 [B2]excellent and much better than most
-- an outstanding achievement
-- It's an area of outstanding natural beauty.
+- an outstanding `achievement`
+- It's an area of outstanding `natural beauty`.
 - This is an outstanding first novel.
 
 ## 1242. oval ## adjective
@@ -7698,7 +7698,7 @@
 /ˌoʊ.vərˈsiːz/ 
 [B2]in, from or to other countries
 - We need to open up the overseas markets.
-- There are a lot of overseas students in Cambridge.
+- There are a lot of overseas `students` in Cambridge.
 - Many more people work overseas these days.
 
 ## 1245. overweight ## adjective
@@ -7710,7 +7710,7 @@
 /pækt/ 
 [B2]very crowded
 - The hall was packed.
-- The bus was packed with schoolchildren.
+- The bus was packed `with` schoolchildren.
 
 ## 1247. painful ## adjective
 /ˈpeɪn.fəl/ EMOTIONAL
@@ -7725,7 +7725,7 @@
 ## 1249. partial ## adjective
 /ˈpɑr.ʃəl/ 
 [B2]not complete
-- The general has ordered a partial withdrawal of troops from the area.
+- The general has ordered a partial `withdrawal` of troops from the area.
 
 ## 1250. particular ## adjective
 /pərˈtɪk.jə.lər/ SPECIAL
@@ -7738,10 +7738,10 @@
 ## 1251. passionate ## adjective
 /ˈpæʃ.ə.nət/ 
 [B2]having very strong feelings or emotions
-- a passionate speech
-- a passionate kiss
-- A passionate appeal for help came from several relief organizations.
-- Joe is passionate about baseball.
+- a passionate `speech`
+- a passionate `kiss`
+- A passionate `appeal` for help came from several relief organizations.
+- Joe is passionate `about` baseball.
 
 ## 1252. passive ## adjective
 /ˈpæs.ɪv/ NO ACTION
@@ -7751,32 +7751,32 @@
 ## 1253. peaceful ## adjective
 /ˈpiːs.fəl/ NO VIOLENCE
 [B2]without violence
-- a peaceful demonstration/protest
+- a peaceful `demonstration/protest`
 
 ## 1254. peculiar ## adjective
 /pɪˈkjuːl.jər/ 
 [B2]unusual and strange, sometimes in an unpleasant way
 - She has the most peculiar ideas.
 - What a peculiar smell!
-- It's peculiar that they didn't tell us they were going away.
-- He has a peculiar way of talking.
+- It's peculiar `that` they didn't tell us they were going away.
+- He has a peculiar `way` of talking.
 
 ## 1255. pessimistic ## adjective
 /ˌpes.əˈmɪs.tɪk/ 
 [B2]always believing that bad things are likely to happen
 - The tone of the meeting was very pessimistic.
-- The doctors are pessimistic about his chances of recovery.
+- The doctors are pessimistic `about` his chances of recovery.
 
 ## 1256. petrified ## adjective
 /ˈpet.rəˌfɑɪd/ 
 [B2]extremely frightened
-- I'm petrified of spiders.
+- I'm petrified `of` spiders.
 
 ## 1257. physical ## adjective
 /ˈfɪz.ɪ.kəl/ 
 [B2]related to the body
-- physical activity/fitness/exercise/strength/disabilities
-- physical appearance
+- physical `activity/fitness/exercise/strength/disabilities`
+- physical `appearance`
 
 ## 1258. picturesque ## adjective
 /ˌpɪk.tʃəˈresk/ 
@@ -7815,18 +7815,18 @@
 ## 1264. popular ## adjective
 /ˈpɑp.jə.lər/ GENERAL
 [B2]for or involving ordinary people rather than specialists or very educated people
-- popular entertainment/culture
-- He enjoys enormous popular support.
+- popular `entertainment/culture`
+- He enjoys enormous popular `support`.
 
 ## 1265. positive ## adjective
 /ˈpɑz.ət̬.ɪv/ GOOD
 [B2]A positive effect is good and makes something better.
-- The improved diet had a positive effect on his mood.
+- The improved diet had a positive `effect` on his mood.
 
 ## 1266. positive ## adjective
 /ˈpɑz.ət̬.ɪv/ YES
 [B2]expressing the answer yes
-- We received a positive answer/reply to our request for a meeting.
+- We received a positive `answer/reply` to our request for a meeting.
 
 ## 1267. positive ## adjective
 /ˈpɑz.ət̬.ɪv/ CERTAIN
@@ -7848,41 +7848,41 @@
 ## 1270. potential ## adjective [never before noun]
 /pəˈten.tʃəl/ 
 [B2]possible when the necessary conditions exist
-- A number of potential buyers have expressed interest in the company.
-- Many potential customers are waiting for a fall in prices before buying.
-- The accident is a reminder of the potential dangers involved in oil production.
+- A number of potential `buyers` have expressed interest in the company.
+- Many potential `customers` are waiting for a fall in prices before buying.
+- The accident is a reminder of the potential `dangers` involved in oil production.
 
 ## 1271. powerful ## adjective
 /ˈpɑʊ.ər.fəl/ EFFECT
 [B2]having a strong effect on people
-- a powerful effect/influence
+- a powerful `effect/influence`
 
 ## 1272. practical ## adjective
 /ˈpræk.tɪ.kəl/ REAL
 [B2]relating to experience, real situations or actions rather than ideas or imagination
-- Education is important but practical experience is always an advantage.
-- The service offers young people practical advice on finding a job.
-- What's the use of theoretical knowledge that has no practical application?
+- Education is important but practical `experience` is always an advantage.
+- The service offers young people practical `advice` on finding a job.
+- What's the use of theoretical knowledge that has no practical `application`?
 
 ## 1273. precious ## adjective
 /ˈpreʃ.əs/ VALUABLE
 [B2]rare and very valuable
-- a precious vase
-- a precious gift
-- a precious metal/stone
+- a precious `vase `
+- a precious `gift`
+- a precious `metal/stone`
 
 ## 1274. precious ## adjective
 /ˈpreʃ.əs/ IMPORTANT
 [B2]very important to you
-- a precious moment/memory
-- His books are his most precious possessions.
+- a precious `moment/memory`
+- His books are his most precious `possessions`.
 - Time is precious - don't waste it.
 
 ## 1275. precise ## adjective
 /prɪˈsɑɪs/ EXACT
 [B2]exact and accurate
-- The precise location of the house is a secret.
-- He caught me at the precise moment that I fainted.
+- The precise `location` of the house is a secret.
+- He caught me at the precise `moment` that I fainted.
 
 ## 1276. precise ## adjective
 /prɪˈsɑɪs/ to be precise
@@ -7898,8 +7898,8 @@
 ## 1278. preferable ## adjective
 /ˈpref.ə.rə.bəl/ 
 [B2]better or more suitable
-- Staying at home is preferable to going out with someone you don't like.
-- Surely a diplomatic solution is preferable to war.
+- Staying at home is preferable `to` going out with someone you don't like.
+- Surely a diplomatic solution is preferable `to` war.
 
 ## 1279. prepared ## adjective
 /prɪˈperd/ be prepared to do sth
@@ -7915,12 +7915,12 @@
 ## 1281. presidential ## adjective [always before noun]
 /ˌprez.əˈden.tʃəl/ 
 [B2]relating to the president of a country
-- a presidential candidate
+- a presidential `candidate`
 
 ## 1282. priceless ## adjective
 /ˈprɑɪ.sləs/ VALUABLE
 [B2]very valuable
-- a priceless antique/painting
+- a priceless `antique/painting`
 
 ## 1283. primary ## adjective [always before noun]
 /ˈprɑɪˌmer.i/ 
@@ -7930,7 +7930,7 @@
 ## 1284. private ## adjective
 /ˈprɑɪ.vət/ NOT OFFICIAL
 [B2]controlled or paid for by a person or company and not by the government
-- a private school
+- a private `school`
 - The governor is on vacation and traveling as a private citizen.
 
 ## 1285. private ## adjective
@@ -7942,8 +7942,8 @@
 /ˈprɑb.ə.bəl/ 
 [B2]likely to be true or likely to happen
 - The probable cause of death was heart failure.
-- A June meeting is quite/very probable.
-- It is probable that prices will continue to fall.
+- A June meeting is `quite/very` probable.
+- `It` is probable `that` prices will continue to fall.
 
 ## 1287. productive ## adjective
 /prəˈdʌk.tɪv/ USEFUL
@@ -7953,15 +7953,15 @@
 ## 1288. productive ## adjective
 /prəˈdʌk.tɪv/ LARGE AMOUNT
 [B2]producing a large amount of goods, food, work, etc.
-- productive people/employees/workers/members
-- productive farmland
+- productive `people/employees/workers/members`
+- productive `farmland`
 - I'm most productive in the afternoon.
 
 ## 1289. professional ## adjective
 /prəˈfeʃ.ən.əl/ JOB
 [B2]relating to a job that needs special training or education
-- You need talent and training to play professional sports.
-- If your ankle is still hurting maybe you should get professional help.
+- You need talent and training to play professional `sports`.
+- If your ankle is still hurting maybe you should get professional `help`.
 
 ## 1290. profitable ## adjective
 /ˈprɑf.ɪ.t̬ə.bəl/ MONEY
@@ -7971,14 +7971,14 @@
 ## 1291. progressive ## adjective
 /prəˈgres.ɪv/ MODERN
 [B2]thinking or behaving in a new or modern way
-- progressive ideas/attitudes
+- progressive `ideas/attitudes`
 - a progressive school
 
 ## 1292. prompt ## adjective
 /prɑmt/ 
 [B2]done or acting quickly and without waiting, or arriving at the correct time
-- prompt payment
-- a prompt reply
+- prompt `payment`
+- a prompt `reply`
 - His prompt action certainly saved my life.
 
 ## 1293. proposed ## adjective
@@ -7989,8 +7989,8 @@
 ## 1294. protective ## adjective
 /prəˈtek.tɪv/ GIVING PROTECTION
 [B2]giving protection
-- protective clothing
-- a protective mask
+- protective `clothing`
+- a protective `mask`
 
 ## 1295. proud ## adjective
 /prɑʊd/ be too proud (to do sth)
@@ -8000,56 +8000,56 @@
 ## 1296. psychological ## adjective
 /ˌsɑɪ.kəˈlɑdʒ.ɪ.kəl/ 
 [B2]relating to the human mind and feelings
-- psychological problems
-- He claims that the constant aircraft noise has a bad psychological impact/effect on the residents.
-- We are concerned with the physical and psychological well-being of our employees.
+- psychological `problems`
+- He claims that the constant aircraft noise has a bad psychological `impact/effect` on the residents.
+- We are concerned with the physical and psychological `well-being` of our employees.
 
 ## 1297. public ## adjective
 /ˈpʌb.lɪk/ PEOPLE
 [B2]relating to or involving people in general, rather than being limited to a particular group of people
-- Public opinion has turned against him.
-- Is it really in the public interest to publish this information?
-- We need to increase public awareness of the need to get a flu shot.
-- The results will not be made public until tomorrow.
-- We will not go public with the results until tomorrow.
+- Public `opinion` has turned against him.
+- Is it really `in the` public `interest` to publish this information?
+- We need to increase public `awareness` of the need to get a flu shot.
+- The results will not be `made` public until tomorrow.
+- We will not `go` public with the results until tomorrow.
 
 ## 1298. pure ## adjective
 /pjʊr/ EMPHASIS
 [B2]used to emphasize that a feeling, quality, or state is completely and only that thing
-- pure coincidence
+- `pure` coincidence
 - Her face had a look of pure delight.
 
 ## 1299. puzzled ## adjective
 /ˈpʌz.əld/ 
 [B2]confused because you do not understand something
-- He first looked puzzled, then pleased..
-- I'm a little puzzled by your e-mail.
+- He first `looked` puzzled, then pleased..
+- I'm a little puzzled `by` your e-mail.
 
 ## 1300. qualified ## adjective
 /ˈkwɑl.əˌfɑɪd/ 
 [B2]having the standard of knowledge, experience, education, or ability you need to do or be something
-- She was highly qualified to run the State Department.
-- qualified applicants/candidates
+- She was highly qualified `to` run the State Department.
+- qualified `applicants/candidates`
 - There seems to be a shortage of qualified language teachers.
 
 ## 1301. racial ## adjective
 /ˈreɪ.ʃəl/ 
 [B2]relating to people's race
 - a racial minority
-- racial discrimination/prejudice
-- racial conflict/tension
-- racial equality
+- racial `discrimination/prejudice`
+- racial `conflict/tension`
+- racial `equality`
 
 ## 1302. rapid ## adjective
 /ˈræp.əd/ 
 [B2]fast or sudden
-- The 1990s were a period of rapid change/growth.
+- The 1990s were a period of rapid `change/growth`.
 
 ## 1303. raw ## adjective
 /rɔː/ NATURAL
 [B2]in the natural state
 - raw sugar
-- raw materials
+- raw `materials`
 
 ## 1304. real ## adjective
 /riːl/ IMPORTANT
@@ -8071,14 +8071,14 @@
 ## 1307. realistic ## adjective
 /ˌriː.əˈlɪs.tɪk/ ACCEPTING SITUATION
 [B2]accepting the true facts of a situation and not basing decisions on things that will not happen
-- Let's be realistic - we're not going to finish this by Friday.
-- We have to be realistic about how much we can afford to pay.
-- It isn't realistic to expect people to work for so little money.
+- Let's `be` realistic - we're not going to finish this by Friday.
+- We have to be realistic `about` how much we can afford to pay.
+- It isn't realistic ` to` expect people to work for so little money.
 
 ## 1308. rear ## adjective [always before noun]
 /rɪr/ 
 [B2]at the back of something
-- There's a sticker on the rear door/window.
+- There's a sticker on the rear `door/window`.
 
 ## 1309. reasonable ## adjective
 /ˈriː.zə.nə.bəl/ FAIR
@@ -8089,7 +8089,7 @@
 ## 1310. reasonable ## adjective
 /ˈriː.zə.nə.bəl/ BASED ON FACTS
 [B2]based on facts that can be explained
-- There will be a reasonable explanation for all of this.
+- There will be a reasonable `explanation` for all of this.
 
 ## 1311. rectangular ## adjective
 /rekˈtæŋ.gjə.lər/ 
@@ -8105,42 +8105,42 @@
 ## 1313. regional ## adjective
 /ˈriː.dʒən.əl/ 
 [B2]relating to a particular area in a country or the world
-- a regional accent/dialect
+- a regional `accent/dialect`
 
 ## 1314. regular ## adjective
 /ˈreg.jə.lər/ SAME TIME/SPACE
 [B2]repeated with the same amount of time or space between one and the next
-- I suggested that we meet on a regular basis.
-- Plant the seedlings at regular intervals.
+- I suggested that we meet `on a` regular `basis`.
+- Plant the seedlings `at` regular` intervals`.
 
 ## 1315. related ## adjective
 /rəˈleɪ.t̬ɪd/ FAMILY
 [B2]If people are related, they belong to the same family.
-- Of course Elise and Linda are related to each other – they’re cousins.
-- We're related by marriage only.
+- Of course Elise and Linda are related `to` each other – they’re cousins.
+- We're related `by marriage` only.
 
 ## 1316. related ## adjective
 /rəˈleɪ.t̬ɪd/ CONNECTED
 [B2]connected
-- We discussed unemployment and related issues.
-- There's been an increase in criminal activity related to drugs.
+- We discussed unemployment and related ` issues`.
+- There's been an increase in criminal activity related `to` drugs.
 
 ## 1317. relaxed ## adjective
 /rɪˈlækst/ SITUATION
 [B2]A relaxed situation or place is comfortable and informal.
-- There was a very relaxed atmosphere at the party.
+- There was a very relaxed `atmosphere` at the party.
 
 ## 1318. relevant ## adjective
 /ˈrel.ə.vənt/ 
 [B2]related or useful to what is happening or being talked about
-- relevant information
-- Education should be relevant to children's needs.
+- relevant `information`
+- Education should be relevant `to` children's needs.
 
 ## 1319. relieved ## adjective
 /rɪˈliːvd/ 
 [B2]happy that something unpleasant has not happened or has ended
-- I'm just relieved that she's safe and well.
-- I heard a noise and was relieved to find that it was only a cat.
+- I'm just relieved `that` she's safe and well.
+- I heard a noise and was relieved `to` find that it was only a cat.
 
 ## 1320. religious ## adjective
 /rəˈlɪdʒ.əs/ OF RELIGION
@@ -8151,7 +8151,7 @@
 /rəˈlɪdʒ.əs/ PERSON
 [B2]having a strong belief in a religion
 - He's a very religious man.
-- They are both deeply religious.
+- They are both `deeply` religious.
 
 ## 1322. remaining ## adjective [always before noun]
 /rəˈmeɪ.nɪŋ/ 
@@ -8178,7 +8178,7 @@
 ## 1326. residential ## adjective
 /ˌrez.əˈden.tʃəl/ 
 [B2]A residential area has only houses and not offices or factories.
-- It's a largely residential area with one or two small stores.
+- It's a largely residential `area` with one or two small stores.
 
 ## 1327. respectable ## adjective
 /rəˈspek.tə.bəl/ GOOD BEHAVIOR
@@ -8189,8 +8189,8 @@
 ## 1328. respected ## adjective
 /rəˈspek.tɪd/ 
 [B2]admired by people because of your knowledge, achievements, etc.
-- a highly respected doctor/politician
-- He is very well respected in the business world.
+- a `highly` respected doctor/politician
+- He is very `well` respected in the business world.
 
 ## 1329. responsible ## adjective
 /rɪˈspɑn.sə.bəl/ be responsible for sth/doing sth
@@ -8202,7 +8202,7 @@
 [B2]showing good judgment and able to be trusted
 - a hardworking and responsible employee
 - Let's stay calm and try to behave like responsible adults.
-- Many big companies are now becoming more responsible about the way they operate.
+- Many big companies are now becoming more responsible `about` the way they operate.
 
 ## 1331. responsible ## adjective
 /rɪˈspɑn.sə.bəl/ IMPORTANT
@@ -8218,12 +8218,12 @@
 ## 1333. revolutionary ## adjective
 /ˌrev.əˈluː.ʃəˌner.i/ CHANGE
 [B2]completely different from what was done before
-- The twentieth century brought about revolutionary changes in our lifestyles.
+- The twentieth century brought about revolutionary `changes` in our lifestyles.
 
 ## 1334. revolutionary ## adjective
 /ˌrev.əˈluː.ʃəˌner.i/ POLITICS
 [B2]involved in or relating to a revolution
-- a revolutionary leader/movement
+- a revolutionary `leader/movement`
 
 ## 1335. rich ## adjective
 /rɪtʃ/ FOOD
@@ -8233,8 +8233,8 @@
 ## 1336. rich ## adjective
 /rɪtʃ/ CONTAINING A LOT
 [B2]containing a lot of something that is important or valuable
-- The region is rich in minerals and coal deposits.
-- Both foods are rich in Vitamin C.
+- The region is rich `in` minerals and coal deposits.
+- Both foods are rich `in` Vitamin C.
 - The country has vast oil reserves and rich deposits of other minerals.
 
 ## 1337. rid ## adjective
@@ -8245,15 +8245,15 @@
 ## 1338. ridiculous ## adjective
 /rəˈdɪk.jə.ləs/ 
 [B2]very silly
-- I'd look ridiculous in a hat like that.
-- "The post office won't forward my mail." "That's ridiculous! Why not?"
-- It's a ridiculous idea/suggestion.
+- I'd `look` ridiculous in a hat like that.
+- "The post office won't forward my mail." "`That's` ridiculous! Why not?"
+- It's a ridiculous `idea/suggestion`.
 
 ## 1339. right ## adjective
 /rɑɪt/ MORALLY ACCEPTABLE
 [B2]fair or morally acceptable
-- It's not right to criticize him behind his back.
-- Someone had to tell him - I think you did the right thing.
+- `It's not` right to criticize him behind his back.
+- Someone had to tell him - I think you `did the` right thing.
 
 ## 1340. ripe ## adjective
 /rɑɪp/ FRUIT, ETC.
@@ -8264,23 +8264,23 @@
 ## 1341. risky ## adjective
 /ˈrɪs.ki/ 
 [B2]dangerous because something bad might happen
-- It's risky to buy a car without some good advice.
-- Investing in stocks is always a risky business.
+- It's risky `to` buy a car without some good advice.
+- Investing in stocks is always a risky `business`.
 
 ## 1342. rotten ## adjective
 /ˈrɑt.ən/ 
 [B2]Rotten vegetable or animal substances are decaying.
-- rotten eggs/fruit
+- rotten `eggs/fruit`
 
 ## 1343. rough ## adjective
 /rʌf/ SEA/WEATHER
 [B2]If the sea or weather is rough, there is a lot of strong wind and sometimes rain.
-- The boat sank in rough waters/seas off the coast of Maine.
+- The boat sank in rough `waters/seas` off the coast of Maine.
 
 ## 1344. rough ## adjective
 /rʌf/ DIFFICULT
 [B2]difficult or unpleasant
-- She's having a rough time at work.
+- She's having a rough `time` at work.
 
 ## 1345. royal ## adjective
 /ˈrɔɪ.əl/ 
@@ -8311,7 +8311,7 @@
 ## 1350. satisfactory ## adjective
 /ˌsæt̬.əsˈfæk.tə.ri/ 
 [B2]good enough
-- We hope very much to find a satisfactory solution to the problem.
+- We hope very much to find a satisfactory ` solution` to the problem.
 - The teachers seem to think his work is satisfactory.
 
 ## 1351. scheduled ## adjective
@@ -8322,7 +8322,7 @@
 ## 1352. scheduled ## adjective
 /ˈskedʒ.əld/ FLIGHT
 [B2]traveling at a regular time each day or week
-- a scheduled flight
+- a scheduled `flight`
 
 ## 1353. seasonal ## adjective
 /ˈsiː.zən.əl/ 
@@ -8333,7 +8333,7 @@
 ## 1354. secure ## adjective
 /sɪˈkjʊr/ SAFE
 [B2]safe from danger or harm or not likely to end
-- a secure job/investment
+- a secure `job/investment`
 - I don't feel that the house is secure.
 - Her promotion has made her position in the company more secure.
 - The museum has a large endowment, so its future is secure.
@@ -8351,8 +8351,8 @@
 ## 1357. senior ## adjective
 /ˈsiːn.jər/ MORE IMPORTANT
 [B2]having a more important job or position than someone else
-- a senior executive
-- We work in the same team but she's senior to me.
+- a senior `executive`
+- We work in the same team but she's senior `to` me.
 - a senior government minister
 
 ## 1358. senior ## adjective
@@ -8368,8 +8368,8 @@
 ## 1360. sensitive ## adjective
 /ˈsen.sət̬.ɪv/ UPSET
 [B2]easily upset by the things people say or do
-- Her reply showed that she was very sensitive to criticism.
-- He was very sensitive about his scar and thought everyone was staring at him.
+- Her reply showed that she was very sensitive `to` criticism.
+- He was very sensitive `about` his scar and thought everyone was staring at him.
 
 ## 1361. sensitive ## adjective
 /ˈsen.sət̬.ɪv/ REACTING
@@ -8386,21 +8386,21 @@
 ## 1363. sensitive ## adjective
 /ˈsen.sət̬.ɪv/ SUBJECT
 [B2]A sensitive subject or situation needs to be handled carefully in order to avoid upsetting people.
-- Job loss and rising costs are sensitive issues.
+- Job loss and rising costs are sensitive `issues`.
 - The stolen car contained documents described as very sensitive.
 
 ## 1364. sensitive ## adjective
 /ˈsen.sət̬.ɪv/ KIND
 [B2]able to understand what people are feeling and deal with them in a way that does not upset them
 - I want a man who's kind and sensitive.
-- Representatives of the company claim their plan will be sensitive to local needs.
+- Representatives of the company claim their plan will be sensitive `to` local needs.
 - In the movie, he plays a concerned and sensitive father trying to bring up two teenage children on his own.
 
 ## 1365. separate ## adjective
  NOT RELATED
 [B2]not affecting or related to each other
-- I asked him to turn his music down on three separate occasions.
-- I have my professional life and my private life and I try to keep them separate.
+- I asked him to turn his music down on three separate `occasions`.
+- I have my professional life and my private life and I try to `keep` them `separate`.
 
 ## 1366. serious ## adjective
 /ˈsɪr.iː.əs/ NEEDING ATTENTION
@@ -8425,7 +8425,7 @@
 ## 1369. sexual ## adjective
 /ˈsek.ʃʊ.əl/ SEX
 [B2]relating to the activity of sex
-- a sexual relationship
+- a sexual `relationship`
 - Most people remember their first sexual experience.
 
 ## 1370. sexy ## adjective
@@ -8447,7 +8447,7 @@
 [B2]a sudden and very large increase or reduction in something
 - a sharp drop in temperature
 - a sharp decline in the standard of living
-- There was a sharp rise/increase in the number of flu cases.
+- There was a sharp `rise/increase` in the number of flu cases.
 
 ## 1373. sharp ## adjective
 /ʃɑrp/ MIND
@@ -8457,13 +8457,13 @@
 ## 1374. short ## adjective
 /ʃɔːrt/ NAME
 [B2]describes a name that is used as a shorter form of a name
-- Her name's Jo - it's short for Josephine.
-- Her name's Josephine, or Jo for short.
+- Her name's Jo - it's short `for` Josephine.
+- Her name's Josephine, or Jo `for` short.
 
 ## 1375. short-term ## adjective
 /ˌʃɔːrtˈtɜrm/ 
 [B2]lasting a short time, or relating to a short period of time
-- short-term memory
+- short-term `memory`
 - a short-term weather forecast
 
 ## 1376. shut ## adjective [never before noun]
@@ -8481,14 +8481,14 @@
 [B2]important or noticeable
 - There has been a significant increase in the number of women students in recent years.
 - These measures will save a significant amount of money.
-- The talks between the USA and Russia were very significant for the relationship between the two countries.
+- The talks between the USA and Russia were very significant `for` the relationship between the two countries.
 
 ## 1379. silent ## adjective
 /ˈsɑɪ.lənt/ NO SPEAKING
 [B2]without talking
-- I have remained silent till now, Mike, but I have to tell you what I think.
-- The suspect was told that he had the right to remain silent.
-- So far, he's been silent about his plans for the future.
+- I have `remained` silent till now, Mike, but I have to tell you what I think.
+- The suspect was told that he had `the right to remain` silent.
+- So far, he's been silent `about` his plans for the future.
 
 ## 1380. simple ## adjective
 /ˈsɪm.pəl/ IMPORTANT
@@ -8499,15 +8499,15 @@
 /ˈsɪŋ.gəl/ ONE
 [B2]only one
 - There was a single light in the corner of the room.
-- Not a single person offered to help her.
+- `Not a` single person offered to help her.
 - You haven't been listening to a single word I've been saying.
 
 ## 1382. skilled ## adjective
 /skɪld/ 
 [B2]having the abilities needed to do an activity or job well
-- skilled workers/labor
-- a highly skilled photographer
-- My mother is a skilled at dressmaking.
+- skilled `workers/labor`
+- a `highly` skilled photographer
+- My mother is a skilled `at` dressmaking.
 
 ## 1383. skillful ## adjective
 /ˈskɪl.fəl/ GOOD AT
@@ -8520,7 +8520,7 @@
 [B2]small and not important
 - a slight improvement
 - We're having a slight problem with our computer system.
-- I haven't the slightest idea what he's talking about.
+- I haven't the slightest `idea` what he's talking about.
 
 ## 1385. slow ## adjective
 /sloʊ/ NOT EXCITING
@@ -8546,25 +8546,25 @@
 /ˈsoʊk.ɪŋ/ 
 [B2]completely wet
 - You're soaking - why didn't you take an umbrella?
-- The dog was soaking wet.
+- The dog was soaking `wet`.
 
 ## 1390. social ## adjective
 /ˈsoʊ.ʃəl/ SOCIETY
 [B2]relating to society and the way people live
-- social services
-- social issues/justice/problems
+- social `services`
+- social `issues/justice/problems`
 
 ## 1391. solar ## adjective [always before noun]
 /ˈsoʊ.lər/ 
 [B2]relating to, or involving the sun
-- solar energy
+- solar `energy`
 - a solar cell/panel
 - solar heating
 
 ## 1392. solid ## adjective
 /ˈsɑl.əd/ HARD
 [B2]hard and firm, without holes or spaces
-- solid ground/rock
+- solid `ground/rock`
 - a solid object
 - a solid structure
 
@@ -8576,9 +8576,9 @@
 ## 1394. solo ## adjective [always before noun] ; adverb
 /ˈsoʊ.loʊ/ 
 [B2]done alone by one person only
-- a solo performance/flight
-- to sail/fly solo
-- He used to play with a group but now he has gone solo/has a solo career.
+- a solo `performance/flight`
+- to `sail/fly` solo
+- He used to play with a group but now he has `gone` solo/has a solo `career`.
 
 ## 1395. sophisticated ## adjective
 /səˈfɪs.təˌkeɪt̬.ɪd/ WITH EXPERIENCE
@@ -8591,7 +8591,7 @@
 /səˈfɪs.təˌkeɪt̬.ɪd/ ADVANCED
 [B2]A sophisticated machine or system is complicated and advanced or made with great skill.
 - I think a more sophisticated approach is needed to solve this problem.
-- sophisticated equipment/technology/software
+- sophisticated `equipment/technology/software`
 
 ## 1397. sorry ## adjective [never before noun]
 /ˈsɑr.i/ SAYING NO
@@ -8615,7 +8615,7 @@
 /spəˈsɪf.ɪk/ PARTICULAR THING
 [B2]used to refer to a particular thing and not something general
 - English for specific purposes
-- The disease seems to be specific to certain types of plants.
+- The disease seems to be specific `to` certain types of plants.
 - Is there anything specific you need from the store?
 
 ## 1401. spiritual ## adjective
@@ -8628,7 +8628,7 @@
 [B2]usual rather than special, especially when thought of as being correct or acceptable
 - a standard contract
 - This is a standard medical text.
-- These are standard procedures for handling radioactive waste.
+- These are standard `procedures` for handling radioactive waste.
 - The meter is the standard unit for measuring length in the SI system.
 
 ## 1403. starving ## adjective
@@ -8652,9 +8652,9 @@
 ## 1406. steady ## adjective
 /ˈsted.i/ GRADUAL
 [B2]happening at a gradual, regular rate
-- Manufacturers have seen a steady increase/decline in profits.
-- We've seen a steady stream of visitors to the museum this summer.
-- Progress has been slow but steady.
+- Manufacturers have seen a steady `increase/decline` in profits.
+- We've seen a steady `stream` of visitors to the museum this summer.
+- Progress has been `slow but` steady.
 
 ## 1407. steady ## adjective
 /ˈsted.i/ STILL
@@ -8679,19 +8679,19 @@
 ## 1410. still ## adjective
 /stɪl/ NOT MOVING
 [B2]not moving
-- Children find it difficult to sit/stand/stay still for very long.
-- I can't brush your hair if you don't hold still.
+- Children find it difficult to `sit/stand/stay` still for very long.
+- I can't brush your hair if you don't `hold` still.
 
 ## 1411. stormy ## adjective
 /ˈstɔːr.mi/ WEATHER
 [B2]If it is stormy, the weather is bad with a lot of wind and rain.
-- a stormy night
-- stormy seas
+- a stormy `night`
+- stormy `seas`
 
 ## 1412. straight ## adjective
 /streɪt/ HONEST
 [B2]honest
-- a straight answer
+- a straight `answer`
 
 ## 1413. straight ## adjective
 /streɪt/ LEVEL
@@ -8706,21 +8706,21 @@
 ## 1415. strict ## adjective
 /strɪkt/ RULE
 [B2]If a rule, law, etc. is strict, it must be obeyed.
-- She gave me strict instructions to be there by ten.
-- We need stricter controls on air pollution.
-- We follow very strict guidelines on the use and storage of personal details on computers.
-- Do you think stricter laws would help reduce automobile accidents?
+- She gave me strict `instructions` to be there by ten.
+- We need stricter `controls` on air pollution.
+- We follow very strict `guidelines` on the use and storage of personal details on computers.
+- Do you think stricter `laws` would help reduce automobile accidents?
 
 ## 1416. strict ## adjective
 /strɪkt/ BEHAVIOR
 [B2]always behaving in a particular way because of your beliefs
-- She's a strict vegetarian, so she doesn't eat poultry or fish.
+- She's a strict `vegetarian`, so she doesn't eat poultry or fish.
 
 ## 1417. striking ## adjective
 /ˈstrɑɪ.kɪŋ/ 
 [B2]easily noticed
-- There are striking similarities between the two cases.
-- There's a striking resemblance between the cousins.
+- There are striking `similarities` between the two cases.
+- There's a striking `resemblance` between the cousins.
 - He's very striking, with a full beard and flowing, collar-length hair.
 
 ## 1418. strong ## adjective
@@ -8733,13 +8733,13 @@
 ## 1419. strong ## adjective
 /strɔːŋ/ DETERMINED
 [B2]A strong feeling, belief, or opinion is felt in a very deep and serious way.
-- She has strong opinions/views.
+- She has strong `opinions/views`.
 
 ## 1420. strong ## adjective
 /strɔːŋ/ PERSONALITY
 [B2]If a person or their personality is strong, they are confident and able to deal with problems well.
 - All my aunts are strong women.
-- He has a strong personality, but don't let him frighten you.
+- He has a strong `personality`, but don't let him frighten you.
 
 ## 1421. stubborn ## adjective
 /ˈstʌb.ərn/ 
@@ -8751,8 +8751,8 @@
 /stʌk/ NOT MOVE
 [B2]not able to move anywhere
 - This door seems to be stuck.
-- My key got stuck in the lock.
-- Seven of us were stuck in the elevator for over an hour.
+- My key `got` stuck in the lock.
+- Seven of us were stuck `in` the elevator for over an hour.
 - I hate being stuck behind a desk all day.
 
 ## 1423. stunning ## adjective
@@ -8765,8 +8765,8 @@
 ## 1424. substantial ## adjective
 /səbˈstæn.tʃəl/ 
 [B2]large in amount
-- a substantial sum of money
-- The first draft of his novel needed a substantial amount of rewriting.
+- a substantial `sum` of money
+- The first draft of his novel needed a substantial `amount` of rewriting.
 - The findings show a substantial difference between the opinions of men and women.
 
 ## 1425. successful ## adjective
@@ -8780,7 +8780,7 @@
 /səkˈses.fəl/ POPULAR
 [B2]very popular
 - a successful film
-- He's the author of several wildly/hugely successful children's books.
+- He's the author of several `wildly/hugely` successful children's books.
 
 ## 1427. sudden ## adjective
 /ˈsʌd.ən/ 
@@ -8792,8 +8792,8 @@
 ## 1428. sufficient ## adjective
 /səˈfɪʃ.ənt/ 
 [B2]as much as is necessary
-- This recipe should be sufficient for five people.
-- It was thought that he'd committed the crime but there wasn't sufficient evidence to convict him.
+- This recipe should be sufficient `for` five people.
+- It was thought that he'd committed the crime but there wasn't sufficient evidence `to` convict him.
 
 ## 1429. superb ## adjective
 /sʊˈpɜrb/ 
@@ -8804,7 +8804,7 @@
 ## 1430. supernatural ## adjective
 /ˌsuː.pərˈnætʃ.ə.rəl/ 
 [B2]used to describe things that cannot be explained by our knowledge of science or nature
-- supernatural powers/forces
+- supernatural `powers/forces`
 
 ## 1431. sure ## adjective
 /ʃʊr/ be sure of yourself
@@ -8824,16 +8824,16 @@
 ## 1434. suspicious ## adjective
 /səˈspɪʃ.əs/ SEEMING WRONG
 [B2]making you feel that something illegal is happening or that something is wrong
-- suspicious behavior/circumstances
+- suspicious `behavior/circumstances`
 - Neighbors were asked if they had noticed anything suspicious.
 - The fire at the bank is being treated as suspicious.
-- I don't really find it suspicious that he isn't home yet - he doesn't usually get in before seven.
-- There's a suspicious-looking van parked outside.
+- I don't really find it suspicious `that` he isn't home yet - he doesn't usually get in before seven.
+- There's a suspicious-`looking` van parked outside.
 
 ## 1435. suspicious ## adjective
 /səˈspɪʃ.əs/ NOT TRUSTING
 [B2]not trusting someone or something
-- Many of them remain suspicious of journalists.
+- Many of them remain suspicious `of` journalists.
 - My mother has a very suspicious nature.
 - He gave me a suspicious look.
 
@@ -8845,7 +8845,7 @@
 ## 1437. sympathetic ## adjective
 /ˌsɪm.pəˈθet̬.ɪk/ PROBLEMS
 [B2]showing that you understand and care about someone's problems
-- He suffers from back trouble too, so he was very sympathetic about my problem.
+- He suffers from back trouble too, so he was very sympathetic `about` my problem.
 - She was very sympathetic when I told her about my situation.
 
 ## 1438. tabloid ## adjective
@@ -8857,17 +8857,17 @@
 ## 1439. technical ## adjective
 /ˈtek.nɪ.kəl/ SCIENCE/INDUSTRY
 [B2]relating to the knowledge, machines or methods used in science and industry
-- a few technical problems
+- a few technical `problems`
 
 ## 1440. technical ## adjective
 /ˈtek.nɪ.kəl/ PRACTICAL SKILL
 [B2]relating to practical skills and methods that are used in a particular activity
-- As a dancer she had great technical skill.
+- As a dancer she had great technical `skill`.
 
 ## 1441. technological ## adjective
 /ˌtek.nəˈlɑdʒ.ɪ.kəl/ 
 [B2]relating to, or involving, technology
-- Technological advances/developments in computing and telecommunications will reduce the need for many people to travel to work.
+- Technological `advances/developments` in computing and telecommunications will reduce the need for many people to travel to work.
 
 ## 1442. tense ## adjective
 /tens/ NERVOUS
@@ -8898,7 +8898,7 @@
 ## 1447. thoughtful ## adjective
 /ˈθɔːt.fəl/ KIND
 [B2]kind and always thinking about how you can help other people
-- Thank you for phoning when I was ill - it was very thoughtful of you.
+- Thank you for phoning when I was ill - it was very thoughtful `of` you.
 - She's a very thoughtful person.
 
 ## 1448. thrilled ## adjective
@@ -8925,8 +8925,8 @@
 ## 1452. tight ## adjective
 /tɑɪt/ NOT MUCH
 [B2]If money, time, or space is tight, there is only just enough of it.
-- We’re on a tight budget and can’t afford to eat out much.
-- Arnold has a very tight schedule today and I don’t know if he can see you.
+- We’re on a tight `budget` and can’t afford to eat out much.
+- Arnold has a very tight `schedule` today and I don’t know if he can see you.
 - We should get six people into the car but it will be tight.
 
 ## 1453. total ## adjective [always before noun]
@@ -8939,8 +8939,8 @@
 ## 1454. tough ## adjective
 /tʌf/ DIFFICULT
 [B2]difficult
-- He's had a tough time at work recently.
-- We've had to make some tough decisions.
+- He's had a tough `time` at work recently.
+- We've had to make some tough `decisions`.
 - Homeless people are facing a tough winter.
 
 ## 1455. tough ## adjective
@@ -8956,13 +8956,13 @@
 ## 1457. toxic ## adjective
 /ˈtɑk.sɪk/ 
 [B2]poisonous
-- toxic chemicals/fumes/waste
+- toxic `chemicals/fumes/waste`
 
 ## 1458. tragic ## adjective
 /ˈtrædʒ.ɪk/ 
 [B2]very sad, often involving death and suffering
-- Her tragic death at the age of 36 shocked the world.
-- He was killed in a tragic accident.
+- Her tragic `death` at the age of 36 shocked the world.
+- He was killed in a tragic `accident`.
 - Hospital authorities admitted that a tragic error had taken place.
 
 ## 1459. transitive ## adjective
@@ -8989,23 +8989,23 @@
 ## 1463. tricky ## adjective
 /ˈtrɪk.i/ 
 [B2]difficult to deal with or do
-- Those bird models are quite tricky to make, aren't they?
-- I'm in a tricky situation really - whatever I do I'll offend someone.
+- Those bird models are quite tricky `to` make, aren't they?
+- I'm in a tricky `situation` really - whatever I do I'll offend someone.
 
 ## 1464. trivial ## adjective
 /ˈtrɪv.iː.əl/ 
 [B2]small and not important
 - It's a fairly trivial offense.
 - It may seem trivial to you but it matters to me.
-- Sexual harassment in the workplace is not a trivial matter.
+- Sexual harassment in the workplace is not a trivial `matter`.
 
 ## 1465. tropical ## adjective
 /ˈtrɑp.ɪ.kəl/ 
 [B2]from or in the hottest parts of the world
-- a tropical island/region/climate
-- a tropical storm
-- She specializes in tropical medicine.
-- The Amazon river basin contains the world's largest tropical rainforest.
+- a tropical `island/region/climate`
+- a tropical `storm`
+- She specializes in tropical `medicine`.
+- The Amazon river basin contains the world's largest tropical `rainforest`.
 
 ## 1466. ultimate ## adjective [always before noun]
 /ˈʌl.tə.mət/ MOST
@@ -9018,7 +9018,7 @@
 /ˌʌn.ɪkˈsep.tə.bəl/ 
 [B2]too bad to be allowed to continue
 - The water contains unacceptable levels of pollution.
-- I find that kind of behavior completely unacceptable.
+- I find that kind of behavior `completely` unacceptable.
 - The teacher's union has described the latest contract offer as unacceptable.
 
 ## 1468. unattractive ## adjective
@@ -9035,8 +9035,8 @@
 ## 1470. unaware ## adjective [never before noun]
 /ˌʌn.əˈwer/ 
 [B2]not knowing about something
-- He was unaware that the police were watching him.
-- I was completely unaware of the problem.
+- He was unaware `that` the police were watching him.
+- I was completely unaware `of` the problem.
 
 ## 1471. unbearable ## adjective
 /ʌnˈber.ə.bəl/ 
@@ -9051,26 +9051,26 @@
 ## 1473. uncertain ## adjective
 /ʌnˈsɜrt.ən/ NOT SURE
 [B2]not sure or not able to decide about something
-- He's uncertain whether to go to graduate school or not.
-- Beth was uncertain about meeting him.
+- He's uncertain `whether` to go to graduate school or not.
+- Beth was uncertain `about` meeting him.
 
 ## 1474. uncertain ## adjective
 /ʌnˈsɜrt.ən/ NOT KNOWN
 [B2]not known or fixed, or not completely certain
-- New arrivals face an uncertain future.
-- The political outlook is still uncertain.
+- New arrivals face an uncertain `future`.
+- The political outlook is `still` uncertain.
 
 ## 1475. unchanged ## adjective
 /ʌnˈtʃeɪndʒd/ 
 [B2]staying the same
-- The area has remained virtually unchanged in fifty years.
+- The area has `remained` virtually unchanged in fifty years.
 
 ## 1476. unclear ## adjective
 /ʌnˈklɪr/ DIFFICULT TO UNDERSTAND
 [B2]not easy to understand
 - The situation at the moment is unclear.
-- It's unclear what actually happened that night.
-- It's unclear whether he arrived before or after the shot was fired.
+- It's unclear `what` actually happened that night.
+- It's unclear `whether` he arrived before or after the shot was fired.
 
 ## 1477. unclear ## adjective
 /ʌnˈklɪr/ be unclear about sth
@@ -9080,13 +9080,13 @@
 ## 1478. unconscious ## adjective
 /ʌnˈkɑn.tʃəs/ 
 [B2]in a state as though you are sleeping, for example because you have been hit on the head
-- An explosion knocked him unconscious.
+- An explosion `knocked` him unconscious.
 
 ## 1479. understandable ## adjective
 /ˌʌn.dərˈstæn.də.bəl/ 
 [B2]An understandable feeling or action is one that you would expect in that particular situation.
 - I still feel really angry about it. "That's understandable."
-- Their refusal to help is perfectly/completely understandable, considering the circumstances.
+- Their refusal to help is `perfectly/completely` understandable, considering the circumstances.
 
 ## 1480. understanding ## adjective
 /ˌʌn.dərˈstæn.dɪŋ/ 
@@ -9102,23 +9102,23 @@
 ## 1482. undressed ## adjective
 /ʌnˈdrest/ 
 [B2]not wearing any clothes
-- I got undressed and went to bed.
+- I `got` undressed and went to bed.
 
 ## 1483. uneasy ## adjective
 /ʌnˈiː.zi/ 
 [B2]worried because you think something bad might happen
-- I feel a little uneasy about her traveling alone.
+- I feel a little uneasy `about` her traveling alone.
 
 ## 1484. unfair ## adjective
 /ʌnˈfer/ NOT TRUE
 [B2]not true and morally wrong
-- It's unfair to blame Roger for everything.
+- It's unfair `to` blame Roger for everything.
 
 ## 1485. unfamiliar ## adjective
 /ˌʌn.fəˈmɪl.jər/ NOT KNOWN
 [B2]not known to you
 - I noticed several unfamiliar faces in the meeting room.
-- His name was unfamiliar to me.
+- His name was unfamiliar `to` me.
 
 ## 1486. unfamiliar ## adjective
 /ˌʌn.fəˈmɪl.jər/ be unfamiliar with sth
@@ -9133,12 +9133,12 @@
 ## 1488. unfit ## adjective
 /ʌnˈfɪt/ 
 [B2]not good enough or not having the qualities needed or expected for something
-- The building was declared unfit for human habitation.
+- The building was declared unfit `for` human habitation.
 
 ## 1489. unfortunate ## adjective
 /ʌnˈfɔːr.tʃə.nət/ BAD SITUATION
 [B2]used to show that you wish something was not true or had not happened
-- an unfortunate mistake
+- an unfortunate `mistake`
 - It was so unfortunate that she lost her job just as her husband got sick.
 
 ## 1490. unfortunate ## adjective
@@ -9159,12 +9159,12 @@
 ## 1493. unique ## adjective
 /jʊˈniːk/ SPECIAL
 [B2]unusual and special
-- Do not miss this unique opportunity to buy all six pans at half the recommended price.
+- Do not miss this unique `opportunity` to buy all six pans at half the recommended price.
 
 ## 1494. united ## adjective
 /jʊˈnɑɪt̬.ɪd/ JOINED
 [B2]joined together as one group, organization, etc.
-- We as a country are united in sorrow for those we lost.
+- We as a country are united `in` sorrow for those we lost.
 - It was the first film festival to take place in a united Germany.
 
 ## 1495. united ## adjective
@@ -9175,10 +9175,10 @@
 ## 1496. universal ## adjective
 /ˌjuː.nəˈvɜr.səl/ 
 [B2]relating to everyone in the world, or to everyone in a particular group
-- a universal truth
-- Food is a subject of almost universal interest.
-- The new reforms have not met with universal approval within the government.
-- Kittens and puppies have an almost universal appeal.
+- a universal `truth`
+- Food is a subject of almost universal `interest`.
+- The new reforms have not met with universal `approval` within the government.
+- Kittens and puppies have an almost universal `appeal`.
 
 ## 1497. unlimited ## adjective
 /ʌnˈlɪm.ət̬.ɪd/ 
@@ -9194,7 +9194,7 @@
 ## 1499. unpopular ## adjective
 /ʌnˈpɑp.jə.lər/ 
 [B2]disliked by most people
-- The proposal is deeply unpopular with the public.
+- The proposal is `deeply` unpopular with the public.
 - He has struggled to defend an unpopular president and an increasingly unpopular war.
 
 ## 1500. unpredictable ## adjective
@@ -9207,13 +9207,13 @@
 /ˌʌn.riː.əˈlɪs.tɪk/ 
 [B2]not thinking about what is likely to happen or what you can really do
 - I think these sales forecasts are unrealistic, considering how slow sales are right now.
-- It's unrealistic to expect an answer before next week.
+- It's unrealistic `to` expect an answer before next week.
 
 ## 1502. unreasonable ## adjective
 /ʌnˈriː.zə.nə.bəl/ 
 [B2]not fair or acceptable
-- unreasonable behavior/demands
-- It seems unreasonable to expect one person to do both jobs.
+- unreasonable `behavior/demands`
+- It seems unreasonable `to` expect one person to do both jobs.
 
 ## 1503. unreliable ## adjective
 /ˌʌn.rɪˈlɑɪ.ə.bəl/ 
@@ -9228,25 +9228,25 @@
 ## 1505. unsuccessful ## adjective
 /ˌʌn.səkˈses.fəl/ 
 [B2]not achieving what was wanted or intended
-- They made several unsuccessful attempts to reach the men.
+- They made several unsuccessful `attempts` to reach the men.
 - His application was unsuccessful.
 
 ## 1506. unsuitable ## adjective
 /ʌnˈsuːt̬.ə.bəl/ 
 [B2]not acceptable or right for someone or something
-- The software blocks material that is unsuitable for children.
+- The software blocks material that is unsuitable `for` children.
 
 ## 1507. unsure ## adjective
 /ʌnˈʃʊr/ NOT CERTAIN
 [B2]not certain or having doubts
-- I'm a little unsure about what to do.
-- I was unsure of the directions.
-- I was unsure what/how to tell them.
+- I'm a little unsure `about` what to do.
+- I was unsure `of` the directions.
+- I was unsure `what/how` to tell them.
 
 ## 1508. unwilling ## adjective
 /ʌnˈwɪl.ɪŋ/ 
 [B2]not wanting to do something
-- A lot of people are unwilling to accept change.
+- A lot of people are unwilling `to` accept change.
 
 ## 1509. upright ## adjective ; adverb
 /ˈʌp.rɑɪt/ 
@@ -9261,14 +9261,14 @@
 ## 1511. upside down ## adverb ; adjective
 /ˌʌp.sɑɪdˈdɑʊn/ 
 [B2]having the part that is usually at the top turned to be at the bottom
-- Turn the jar upside down and shake it.
+- `Turn` the jar upside down and shake it.
 - One car landed on its side and the other was upside down.
 
 ## 1512. urban ## adjective
 /ˈɜr.bən/ 
 [B2]belonging or relating to a town or city
-- urban areas
-- urban development
+- urban `areas`
+- urban `development`
 
 ## 1513. vacant ## adjective
 /ˈveɪ.kənt/ EMPTY
@@ -9284,14 +9284,14 @@
 ## 1515. valid ## adjective
 /ˈvæl.əd/ GOOD REASON
 [B2]based on good reasons or facts that are true
-- a valid excuse/reason
-- a valid argument/criticism
+- a valid `excuse/reason`
+- a valid `argument/criticism`
 - My ideas might be different from yours, but they're equally valid.
 
 ## 1516. valid ## adjective
 /ˈvæl.əd/ OFICIALLY ACCEPTABLE
 [B2]officially or legally acceptable
-- The ticket is valid for three months.
+- The ticket is valid `for` three months.
 - My passport is valid for another two years.
 - You need to enter a valid password.
 
@@ -9309,14 +9309,14 @@
 ## 1519. vast ## adjective
 /væst/ 
 [B2]extremely big
-- a vast amount/sum of money
+- a vast `amount/sum` of money
 - vast areas of forest
-- The vast majority of students attend public schools.
+- The vast `majority` of students attend public schools.
 
 ## 1520. violent ## adjective
 /ˈvɑɪ.ə.lənt/ ACTION
 [B2]involving violence
-- a violent crime
+- a violent `crime`
 - a violent protest
 - His movies tend to be very violent.
 
@@ -9324,7 +9324,7 @@
 /ˈvɑɪ.ə.lənt/ PERSON
 [B2]using force to hurt or attack someone else
 - a violent criminal
-- He shouts a lot but I don't think he's ever been physically violent with her.
+- He shouts a lot but I don't think he's ever been `physically` violent with her.
 
 ## 1522. virtual ## adjective [always before noun]
 /ˈvɜr.tʃu.əl/ USING COMPUTER
@@ -9335,28 +9335,28 @@
 /ˈvɪz.ə.bəl/ SEEN
 [B2]able to be seen
 - You should wear something light-colored when you're cycling at night so that you're more visible.
-- The fire was visible from several miles away.
-- There are few visible signs of the illness that kept her in the hospital for so long.
-- The comet should be visible to the naked eye.
+- The fire was visible `from` several miles away.
+- There are few visible `signs` of the illness that kept her in the hospital for so long.
+- The comet should be visible `to the naked eye`.
 
 ## 1524. visual ## adjective
 /ˈvɪʒ.u.əl/ 
 [B2]relating to seeing
-- The film has some powerful visual effects.
+- The film has some powerful visual `effects`.
 
 ## 1525. vital ## adjective
 /ˈvɑɪt̬.əl/ 
 [B2]necessary or extremely important
-- Tourism is vital to the country's economy.
-- The kidney plays a vital role/part in the removal of waste products from the blood.
-- It's absolutely vital that you follow the instructions exactly.
+- Tourism is vital `to` the country's economy.
+- The kidney plays a vital `role/part` in the removal of waste products from the blood.
+- It's absolutely vital `that` you follow the instructions exactly.
 
 ## 1526. vivid ## adjective
 /ˈvɪv.ɪd/ DESCRIPTIONS
 [B2]Vivid descriptions or memories produce strong, clear images in your mind.
-- He gave a very vivid account/description of life in Havana.
-- I still have a very vivid memory of the evening.
-- She has a very vivid imagination.
+- He gave a very vivid `account/description` of life in Havana.
+- I still have a very vivid `memory` of the evening.
+- She has a very vivid `imagination`.
 
 ## 1527. vivid ## adjective
 /ˈvɪv.ɪd/ COLORS
@@ -9371,12 +9371,12 @@
 ## 1529. weak ## adjective
 /wiːk/ CHARACTER
 [B2]not powerful, or not having a strong character
-- a weak leader/government
+- a weak `leader/government`
 
 ## 1530. weak ## adjective
 /wiːk/ REASON
 [B2]A weak reason, argument, or excuse is one that you do not have enough proof to support.
-- He gave the weakest excuse for why he was late.
+- He gave the weakest `excuse` for why he was late.
 
 ## 1531. weak ## adjective
 /wiːk/ LIKELY TO BREAK
@@ -9386,12 +9386,12 @@
 ## 1532. weak ## adjective
 /wiːk/ TASTE
 [B2]containing little taste or alcohol
-- weak coffee/beer
+- weak `coffee/beer`
 
 ## 1533. weak ## adjective
 /wiːk/ SLIGHT
 [B2]difficult to see or hear
-- He spoke in a weak voice.
+- He spoke in a weak `voice`.
 
 ## 1534. wealthy ## adjective
 /ˈwel.θi/ 
@@ -9405,12 +9405,12 @@
 - Her boyfriend's a little weird, but she's all right.
 - That's weird - I thought I left my keys on the table, but they're not there.
 - I had a weird dream last night.
-- He has a really weird schedule this semester.
+- He has a `really` weird schedule this semester.
 
 ## 1536. welcome ## adjective
 /ˈwel.kəm/ PLEASING
 [B2]If something is welcome, people are pleased about it and want it to happen.
-- a welcome change
+- a welcome `change`
 - Your comments are always welcome.
 
 ## 1537. well-balanced ## adjective
@@ -9431,7 +9431,7 @@
 ## 1540. well-paid ## adjective
 /ˌwelˈpeɪd/ 
 [B2]earning a lot of money
-- a well-paid job
+- a well-paid `job`
 
 ## 1541. wild ## adjective
 /wɑɪld/ LAND
@@ -9444,8 +9444,8 @@
 - a wild party
 - wild dancing
 - The audience burst into wild applause.
-- When I told him what I'd done, he went wild.
-- The children were wild with excitement.
+- When I told him what I'd done, he `went` wild.
+- The children were wild `with` excitement.
 
 ## 1543. winding ## adjective
 /ˈwɑɪnd.ɪŋ/ 
@@ -9455,15 +9455,15 @@
 ## 1544. wise ## adjective
 /wɑɪz/ 
 [B2]having or showing the ability to make good judgments, based on a deep understanding and experience of life
-- I think you made a wise choice.
-- Judging by the weather, I'd say we made a wise decision not to go to the beach this weekend.
-- I think it would be wiser to wait and see how much money you have left before you make any decisions.
-- I never used to save money, but now that I'm a little older and wiser I can see the sense in it.
+- I think you made a wise `choice`.
+- Judging by the weather, I'd say we made a wise `decision` not to go to the beach this weekend.
+- I think it would be wiser `to` wait and see how much money you have left before you make any decisions.
+- I never used to save money, but now that I'm a little `older and` wiser I can see the sense in it.
 
 ## 1545. witty ## adjective
 /ˈwɪt̬.i/ 
 [B2]using words in an intelligent and funny way
-- a witty comment/remark
+- a witty `comment/remark`
 - He was witty and very charming.
 
 ## 1546. working ## adjective [always before noun]
@@ -9480,37 +9480,37 @@
 ## 1548. worrying ## adjective
 /ˈwɜr.i.ɪŋ/ 
 [B2]making you feel unhappy and afraid
-- It's a very worrying situation.
+- It's a very worrying `situation`.
 
 ## 1549. worse ## adjective
 /wɜrs/ worse and worse
 [B2]used to emphasize how unpleasant, difficult, severe, etc. something is becoming
-- The economic climate is getting worse and worse.
+- The economic climate is `getting` worse and worse.
 
 ## 1550. worthwhile ## adjective
 /wɜrθˈwɑɪl/ 
 [B2]useful and enjoyable, despite needing a lot of effort
-- She considers teaching a worthwhile career.
+- She considers teaching a worthwhile `career`.
 - The time and expense involved in keeping up to date with all the changes has been worthwhile.
-- If you need him on this project, you have to make it financially worthwhile for him.
+- If you need him on this project, you have to `make` it `financially` worthwhile for him.
 
 ## 1551. wrong ## adjective
 /rɑŋ/ NOT MORAL
 [B2]not considered morally acceptable by most people
 - Children should be taught that violence is wrong.
-- It is wrong to tell lies.
-- What's wrong with having a little fun?
+- `It` is wrong `to` tell lies.
+- What's wrong `with` having a little fun?
 
 ## 1552. abnormal ## adjective
 /æbˈnɔːr.məl/ 
 [C1]different from what is normal or usual, in a way which is strange or dangerous
-- abnormal behavior/conditions
-- We had an abnormal amount of snow.
+- abnormal `behavior/conditions`
+- We had an abnormal `amount` of snow.
 
 ## 1553. acceptable ## adjective
 /əkˈsep.tə.bəl/ ALLOWED
 [C1]allowed or approved of
-- It's not socially acceptable to wear jeans and a T-shirt to a wedding.
+- It's not `socially` acceptable to wear jeans and a T-shirt to a wedding.
 
 ## 1554. accepted ## adjective
 /əkˈsep.tɪd/ 
@@ -9525,7 +9525,7 @@
 ## 1556. accustomed ## adjective
 /əˈkʌs.təmd/ accustomed to sth/doing sth
 [C1]If you are accustomed to something, you have experienced it often enough for it to seem normal to you.
-- I've worked nights for years now and become/grown accustomed to it.
+- I've worked nights for years now and `become`/`grown` accustomed to it.
 - She isn't accustomed to dealing with so much media attention.
 
 ## 1557. active ## adjective
@@ -9552,7 +9552,7 @@
 ## 1561. affluent ## adjective
 /ˈæf.lu.ənt/ 
 [C1]having a lot of money
-- affluent suburbs/neighborhoods/families
+- affluent `suburbs/neighborhoods/families`
 - It's an affluent residential suburb just north of the city.
 
 ## 1562. affordable ## adjective
@@ -9574,13 +9574,13 @@
 /əˈlɑr.miŋ/ 
 [C1]causing worry or fear
 - alarming news
-- Family owned farms have been disappearing at an alarming rate.
+- Family owned farms have been disappearing `at an` alarming `rate`.
 
 ## 1566. alert ## adjective
 /əˈlɜrt/ 
 [C1]quick to notice and react to things around you
 - A young dog should be alert and playful.
-- Teachers need to be alert to sudden changes in students' behavior.
+- Teachers need to be alert `to` sudden changes in students' behavior.
 
 ## 1567. alleged ## adjective [always before noun]
 /əˈledʒd/ 
@@ -9605,13 +9605,13 @@
 ## 1571. ample ## adjective
 /ˈæm.pəl/ 
 [C1]enough, or more than enough
-- She's had ample time to get the work done.
+- She's had ample `time` to get the work done.
 
 ## 1572. analytical ## adjective
 /ˌæn.əlˈɪt̬.ɪ.kəl/ 
 [C1]examining the details of something carefully, in order to understand or explain it
-- analytical skills
-- an analytical mind
+- analytical `skills`
+- an analytical `mind`
 
 ## 1573. antisocial ## adjective
 /ˌænt.iˈsoʊ.ʃəl/ BEHAVIOR
@@ -9661,7 +9661,7 @@
 ## 1582. bankrupt ## adjective
 /ˈbæŋk.rʌpt/ 
 [C1]unable to continue in business because you cannot pay your debts
-- He went bankrupt after only a year in business.
+- He `went` bankrupt after only a year in business.
 
 ## 1583. bare ## adjective
 /ber/ NO CLOTHES
@@ -9686,7 +9686,7 @@
 ## 1587. big ## adjective
 /bɪg/ SUCCESSFUL
 [C1]successful or popular
-- The program's been a big hit with young children.
+- The program's been `a` big `hit` with young children.
 
 ## 1588. bilingual ## adjective
 /bɑɪˈlɪŋ.gwəl/ 
@@ -9702,7 +9702,7 @@
 ## 1590. bound ## adjective
 /bɑʊnd/ DIRECTION
 [C1]traveling toward a particular place
-- He was on a train bound for Berlin.
+- He was on a train bound `for` Berlin.
 
 ## 1591. bright ## adjective
 /brɑɪt/ look on the bright side
@@ -9717,7 +9717,7 @@
 ## 1593. brutal ## adjective
 /ˈbruːt̬.əl/ 
 [C1]very violent or cruel
-- a brutal murder
+- a brutal `murder`
 
 ## 1594. bulky ## adjective
 /ˈbʌl.ki/ 
@@ -9784,7 +9784,7 @@
 ## 1606. civil ## adjective
 /ˈsɪv.əl/ 
 [C1]relating to the ordinary people or things in a country and not to military or religious organizations
-- They married in a civil ceremony.
+- They married in a civil `ceremony`.
 
 ## 1607. clear ## adjective
 /klɪr/ NOT BLOCKED
@@ -9800,14 +9800,14 @@
 ## 1609. clinical ## adjective
 /ˈklɪn.ɪ.kəl/ MEDICAL
 [C1]relating to medical treatment and tests
-- clinical trials/research
+- clinical `trials/research`
 
 ## 1610. close ## adjective
  SIMILAR
 [C1]having only a small difference
 - The election results were so close they had to vote again.
 - He came second in the race, but it was very close.
-- The youngest boys are so close in age they look like twins.
+- The youngest boys are so close `in` age they look like twins.
 
 ## 1611. close ## adjective
  be/come close to doing sth
@@ -9817,12 +9817,12 @@
 ## 1612. close ## adjective
  be close to sth
 [C1]If someone or something is close to a particular state, they are almost in that state.
-- She was close to tears.
+- She was close `to tears`.
 
 ## 1613. comparable ## adjective
 /ˈkɑm.pə.rə.bəl/ 
 [C1]similar in size, amount, or quality to something else
-- Our prices are comparable to those in other stores.
+- Our prices are comparable `to` those in other stores.
 - The two experiences are not comparable.
 
 ## 1614. comparative ## adjective
@@ -9833,13 +9833,13 @@
 ## 1615. compatible ## adjective
 /kəmˈpæt̬.ə.bəl/ EQUIPMENT
 [C1]compatible equipment can be used together
-- This keyboard is compatible with all of our computers.
+- This keyboard is compatible `with` all of our computers.
 
 ## 1616. competent ## adjective
 /ˈkɑm.pə.tənt/ 
 [C1]able to do something well
 - a competent teacher/swimmer
-- I wouldn't say he was particularly special, but he is competent at his job.
+- I wouldn't say he was particularly special, but he is competent `at` his job.
 
 ## 1617. comprehensive ## adjective
 /ˌkɑm.prəˈhen.sɪv/ 
@@ -9855,13 +9855,13 @@
 ## 1619. concrete ## adjective
 /ˈkɑn.kriːt/ CERTAIN
 [C1]certain or based on facts
-- They think she killed her husband, but they have no concrete evidence/proof.
+- They think she killed her husband, but they have no concrete `evidence/proof`.
 - We've got a general idea of what we want, but nothing concrete at the moment.
 
 ## 1620. confidential ## adjective
 /ˌkɑn.fəˈden.tʃəl/ 
 [C1]secret, especially in an official situation
-- These documents are strictly confidential.
+- These documents are `strictly` confidential.
 
 ## 1621. conscientious ## adjective
 /ˌkɑn.tʃiˈen.tʃəs/ 
@@ -9911,7 +9911,7 @@
 ## 1630. convincing ## adjective
 /kənˈvɪn.sɪŋ/ 
 [C1]able to make you believe that something is true or right
-- a convincing argument/explanation
+- a convincing `argument/explanation`
 - I didn't find the ending of the movie very convincing.
 
 ## 1631. cool ## adjective
@@ -9932,7 +9932,7 @@
 ## 1634. cosmopolitan ## adjective
 /ˌkɑz.məˈpɑl.ət.ən/ 
 [C1]consisting of people and things from many different countries
-- London is a very cosmopolitan city.
+- London is a very cosmopolitan `city`.
 
 ## 1635. countless ## adjective [always before noun]
 /ˈkɑʊnt.ləs/ 
@@ -9952,12 +9952,12 @@
 ## 1638. customary ## adjective
 /ˈkʌs.tə.mer.i/ 
 [C1]normal or expected for a particular person, situation, or society
-- It is customary for the chairman to make the opening speech.
+- It is customary `for` the chairman to make the opening speech.
 
 ## 1639. cutting-edge ## adjective
 /ˌkʌt̬.ɪŋˈedʒ/ 
 [C1]very modern and with all the newest developments
-- cutting-edge design/technology
+- cutting-edge `design/technology`
 
 ## 1640. dark ## adjective
 /dɑrk/ BAD
@@ -9972,7 +9972,7 @@
 ## 1642. decisive ## adjective
 /dɪˈsɑɪ.sɪv/ AFFECTING
 [C1]strongly affecting how a situation will progress or end
-- a decisive action/victory
+- a decisive `action/victory`
 - DNA test results were decisive in proving his innocence.
 
 ## 1643. dedicated ## adjective
@@ -9984,9 +9984,9 @@
 /ˈdel.ɪ.kət/ NEEDING CARE
 [C1]needing to be handled with great care or skill
 - delicate negotiations
-- I need to speak to you about a delicate matter/issue.
-- It's a delicate task requiring both knowledge and skill.
-- Drilling here could upset the delicate balance of the local ecosystem.
+- I need to speak to you about a delicate `matter/issue`.
+- It's a delicate `task` requiring both knowledge and skill.
+- Drilling here could upset the delicate `balance of` the local ecosystem.
 
 ## 1645. dependent ## adjective
 /dəˈpen.dənt/ dependent on/upon sth
@@ -9996,7 +9996,7 @@
 ## 1646. deprived ## adjective
 /dəˈprɑɪvd/ 
 [C1]not having enough food, money, or other things that you need to have a normal life
-- He took pictures in deprived areas of the city.
+- He took pictures in deprived `areas` of the city.
 
 ## 1647. deserted ## adjective
 /dəˈzɜr.t̬ɪd/ 
@@ -10027,7 +10027,7 @@
 ## 1652. direct ## adjective
 /dəˈrekt/ CLEAR
 [C1]saying clearly and honestly what you think
-- a direct answer
+- a direct `answer`
 
 ## 1653. disadvantaged ## adjective
 /ˌdɪs.ədˈvæn.t̬ɪdʒd/ 
@@ -10037,13 +10037,13 @@
 ## 1654. disastrous ## adjective
 /dɪˈzæs.trəs/ 
 [C1]extremely bad
-- disastrous consequences
+- disastrous `consequences`
 - a disastrous week
 
 ## 1655. disgusted ## adjective
 /dɪsˈɡʌs.tɪd/ 
 [C1]feeling extreme dislike or disapproval of something
-- I'm totally disgusted with your behavior.
+- I'm totally disgusted `with` your behavior.
 
 ## 1656. distant ## adjective
 /ˈdɪs.tənt/ NOT FRIENDLY
@@ -10063,7 +10063,7 @@
 ## 1659. distinctive ## adjective
 /dɪˈstɪŋk.tɪv/ 
 [C1]Something that is distinctive is easy to recognize because it is different from other things.
-- a distinctive style of writing
+- a distinctive `style` of writing
 
 ## 1660. distressed ## adjective
 /dɪˈstrest/ 
@@ -10073,7 +10073,7 @@
 ## 1661. dominant ## adjective
 /ˈdɑː.mə.nənt/ IMPORTANT
 [C1]main or most important
-- Unemployment will be a dominant issue at the next election.
+- Unemployment will be a dominant `issue` at the next election.
 
 ## 1662. down ## adjective
 /dɑʊn/ NOT WORKING
@@ -10088,13 +10088,13 @@
 ## 1664. downward ## adjective
 /ˈdɑʊn.wərd/ /ˈdɑʊn.wərd/ 
 [C1]moving toward a lower position
-- a downward trend
-- The country's economy is on a downward spiral.
+- a downward `trend`
+- The country's economy is on a downward `spiral`.
 
 ## 1665. drastic ## adjective
 /ˈdræs.tɪk/ 
 [C1]severe and sudden or having very noticeable effects
-- drastic measures
+- drastic `measures`
 
 ## 1666. dry ## adjective
 /drɑɪ/ WINE
@@ -10109,7 +10109,7 @@
 ## 1668. dual ## adjective [always before noun]
 /ˈduː.əl/ 
 [C1]having two parts, or having two of something
-- dual nationality
+- dual `nationality`
 - She's got a bit of a dual personality.
 
 ## 1669. due ## adjective
@@ -10159,17 +10159,17 @@
 /ˈel.ə.dʒə.bəl/ 
 [C1]If you are eligible to do something, you can do it because you are in the right situation.
 - Only people over 18 are eligible to vote.
-- You might be eligible for a grant for your studies.
+- You might be eligible `for` a grant for your studies.
 
 ## 1678. empty ## adjective
 /ˈem.ti/ NO MEANING
 [C1]having no meaning or value
-- an empty promise/threat
+- an empty `promise/threat`
 
 ## 1679. equivalent ## adjective
 /ɪˈkwɪv.ə.lənt/ 
 [C1]equal in amount, value, importance, or meaning
-- The UK's Brit Awards are roughly equivalent to the Oscars.
+- The UK's Brit Awards are roughly equivalent `to` the Oscars.
 
 ## 1680. ethnic ## adjective
 /ˈeθ.nɪk/ 
@@ -10180,17 +10180,17 @@
 ## 1681. excess ## adjective [always before noun]
  
 [C1]more than is usual or allowed
-- We had to pay $50 for excess baggage.
+- We had to pay $50 for excess `baggage`.
 
 ## 1682. excessive ## adjective
 /ɪkˈses.ɪv/ 
 [C1]more than is necessary or wanted
-- They accused the police of using excessive force.
+- They accused the police of using excessive `force`.
 
 ## 1683. exclusive ## adjective
 /ɪkˈskluː.sɪv/ NOT SHARED
 [C1]not shared with another person, organization, newspaper, etc.
-- an exclusive interview
+- an exclusive `interview`
 
 ## 1684. executive ## adjective [always before noun]
 /ɪgˈzek.jət̬.ɪv/ 
@@ -10221,7 +10221,7 @@
 ## 1689. fake ## adjective
 /feɪk/ 
 [C1]not real, but made to look or seem real
-- fake fur
+- fake `fur`
 - a fake passport
 
 ## 1690. false ## adjective
@@ -10266,8 +10266,8 @@
 ## 1697. filthy ## adjective
 /ˈfɪl.θi/ OFFENSIVE
 [C1]rude or offensive
-- filthy language/jokes
-- Smoking is a filthy habit.
+- filthy `language/jokes`
+- Smoking is a filthy `habit`.
 
 ## 1698. fine ## adjective
 /fɑɪn/ a fine line
@@ -10287,7 +10287,7 @@
 ## 1701. formal ## adjective
 /ˈfɔːr.məl/ OFFICIAL
 [C1]public or official
-- a formal announcement/request
+- a formal `announcement`/`request`
 
 ## 1702. forthcoming ## adjective
 /fɔːrθˈkʌm.ɪŋ/ OFFERED
@@ -10322,8 +10322,8 @@
 ## 1708. frustrated ## adjective
 /ˈfrʌsˌtreɪt̬.ɪd/ 
 [C1]annoyed because things are not happening in the way that you want, or in the way that they should
-- I'm very frustrated at/with my lack of progress.
-- Fans are frustrated by their lack of success this season.
+- I'm very frustrated `at/with` my lack of progress.
+- Fans are frustrated `by` their lack of success this season.
 
 ## 1709. frustrating ## adjective
 /ˈfrʌsˌtreɪt̬.ɪŋ/ 
@@ -10350,8 +10350,8 @@
 ## 1713. genetic ## adjective
 /dʒəˈnet̬.ɪk/ 
 [C1]relating to genes
-- a rare genetic disorder
-- genetic research
+- a rare genetic `disorder`
+- genetic `research`
 
 ## 1714. genetically modified ## adjective
 /dʒeˈnet̬.ɪ.kli ˈmɑd.əˌfaɪd/ 
@@ -10419,44 +10419,44 @@
 ## 1726. gross ## adjective
 /groʊs/ TOTAL
 [C1]A gross amount of money has not had taxes or other costs taken from it.
-- gross earnings/profit
+- gross `earnings/profit`
 
 ## 1727. gross ## adjective
 /groʊs/ SERIOUS
 [C1]very serious or unacceptable
-- gross misconduct
+- gross `misconduct`
 
 ## 1728. grumpy ## adjective
 /ˈgrʌm.pi/ 
 [C1]easily annoyed and often complaining
-- a grumpy old man
+- a grumpy `old man`
 
 ## 1729. handheld ## adjective
 /ˌhændˈheld/ 
 [C1]describes something that is designed to be held and used easily with one or two hands
-- a handheld camera/computer/device
+- a handheld `camera/computer/device`
 
 ## 1730. hard ## adjective
 /hɑrd/ UNPLEASANT
 [C1]full of problems and difficult to deal with
-- My grandparents had a very hard life.
+- My grandparents had a very hard `life`.
 - The past few months must've been really hard for you.
 
 ## 1731. harsh ## adjective
 /hɑrʃ/ UNPLEASANT
 [C1]very cold, dangerous, or unpleasant and difficult to live in
-- harsh conditions
+- harsh `conditions`
 
 ## 1732. harsh ## adjective
 /hɑrʃ/ CRUEL
 [C1]cruel, unkind, or unpleasant in a way that seems unfair
-- harsh criticism/punishment
+- harsh `criticism/punishment`
 - Taking him out of the game was a bit harsh.
 
 ## 1733. harsh ## adjective
 /hɑrʃ/ TOO STRONG
 [C1]too strong, bright, loud, etc.
-- harsh chemicals/lighting
+- harsh `chemicals/lighting`
 
 ## 1734. heavenly ## adjective
 /ˈhev.ən.li/ 
@@ -10483,7 +10483,7 @@
 ## 1738. heroic ## adjective
 /hɪˈroʊ.ɪk/ TRYING HARD
 [C1]If someone makes a heroic effort to do something, they work very hard to try to do it.
-- In spite of the team's heroic efforts, they lost the game.
+- In spite of the team's heroic `efforts`, they lost the game.
 
 ## 1739. high ## adjective
 /hɑɪ/ high in sth
@@ -10524,7 +10524,7 @@
 ## 1746. hostile ## adjective
 /ˈhɑs.təl/ UNFRIENDLY
 [C1]unfriendly and not liking or agreeing with something
-- Some politicians were very hostile to the idea.
+- Some politicians were very hostile `to` the idea.
 
 ## 1747. hostile ## adjective
 /ˈhɑs.təl/ DIFFICULT
@@ -10561,12 +10561,12 @@
 ## 1753. idle ## adjective
 /ˈɑɪd.əl/ NOT WORKING
 [C1]not working or not doing anything
-- It was break time and both the machines and the workers sat idle.
+- It was break time and both the machines and the workers `sat` idle.
 
 ## 1754. ill ## adjective
 /ɪl/ BAD
 [C1]bad
-- He suffered no ill effects from his fall.
+- He suffered no ill `effects` from his fall.
 
 ## 1755. imaginary ## adjective
 /ɪˈmædʒ.ən.er.i/ 
@@ -10586,13 +10586,13 @@
 ## 1758. immediate ## adjective
 /ɪˈmiː.diː.ət/ CLOSEST
 [C1]closest to something or someone
-- There are stores, movie theaters, parks, schools - all right in the immediate area.
-- Members of your immediate family will receive invitations to the graduation ceremonies.
+- There are stores, movie theaters, parks, schools - all right in the immediate `area.`
+- Members of your immediate `family` will receive invitations to the graduation ceremonies.
 
 ## 1759. immense ## adjective
 /ɪˈmens/ 
 [C1]extremely large
-- This computer can store an immense amount of data.
+- This computer can store an immense `amount of` data.
 - The marble columns outside the palace are immense.
 - immense poser/wealth/talent
 
@@ -10636,17 +10636,17 @@
 ## 1767. inconsiderate ## adjective
 /ˌɪn.kənˈsɪd.ər.ət/ 
 [C1]not caring about other people's situations or the way they feel
-- It was inconsiderate of you to keep everyone waiting.
+- It was inconsiderate `of` you to keep everyone waiting.
 
 ## 1768. indirect ## adjective
 /ˌɪn.dəˈrekt/ NOT CONNECTED
 [C1]not directly caused by or connected with something
-- Indirect effects of the fighting include disease and food shortages.
+- Indirect `effects` of the fighting include disease and food shortages.
 
 ## 1769. industrialized ## adjective
 /ɪnˈdʌs.tri.ə.lɑɪzd/ 
 [C1]Industrialized countries have a lot of industry.
-- the industrialized nations
+- the industrialized `nations`
 
 ## 1770. inedible ## adjective
 /ɪˈned.ə.bəl/ 
@@ -10661,18 +10661,18 @@
 ## 1772. inevitable ## adjective
 /ɪˈnev.ət̬.ə.bəl/ 
 [C1]certain to happen and unable to be avoided or prevented
-- The accident was the inevitable consequence/result/outcome of carelessness.
+- The accident was the inevitable `consequence/result/outcome` of carelessness.
 
 ## 1773. inferior ## adjective
 /ɪnˈfɪr.i.ər / 
 [C1]not good, or not as good as someone or something else
-- I've never felt inferior to anyone.
+- I've never felt inferior `to` anyone.
 - They're selling inferior products at inflated prices.
 
 ## 1774. influential ## adjective
 /ˌɪn.fluˈen.tʃəl/ 
 [C1]having a lot of influence
-- an influential figure in modern jazz
+- an influential `figure` in modern jazz
 
 ## 1775. informative ## adjective
 /ɪnˈfɔːr.mət̬.ɪv/ 
@@ -10697,8 +10697,8 @@
 ## 1779. insensitive ## adjective
 /ɪnˈsen.sət̬.ɪv/ 
 [C1]not noticing or not caring about other people's feelings
-- an insensitive remark
-- He was completely insensitive to Maria's feelings.
+- an insensitive `remark`
+- He was completely insensitive `to` Maria's feelings.
 
 ## 1780. insignificant ## adjective
 /ˌɪn.sɪgˈnɪf.ɪ.kənt/ 
@@ -10714,7 +10714,7 @@
 ## 1782. integral ## adjective
 /ˈɪn.tə.grəl/ 
 [C1]necessary and important as part of something
-- The Internet has become an integral part of modern life.
+- The Internet has become an integral `part of` modern life.
 
 ## 1783. intense ## adjective
 /ɪnˈtens/ EXTREME
@@ -10729,7 +10729,7 @@
 ## 1785. invaluable ## adjective
 /ɪnˈvæl.jə.bəl/ 
 [C1]extremely useful
-- Her contacts proved invaluable to the company.
+- Her contacts `proved` invaluable to the company.
 
 ## 1786. isolated ## adjective
 /ˈɑɪ.səˌleɪt̬.ɪd/ FAR AWAY
@@ -10750,24 +10750,24 @@
 /ˈdʒʌs.tə.fɑɪd/ 
 [C1]fair or having a good reason
 - justified criticism
-- He's perfectly justified in asking for a salary increase.
+- He's perfectly justified `in` asking for a salary increase.
 
 ## 1790. juvenile ## adjective
 /ˈdʒuː.vən.ɑɪl/ 
 [C1]by, for, or relating to young people
-- juvenile crime
+- juvenile `crime`
 
 ## 1791. keen ## adjective
 /kiːn/ VERY GOOD
 [C1]very good or well developed
-- a keen sense of smell
-- a keen eye for detail
+- a keen sense `of` smell
+- a keen eye `for` detail
 
 ## 1792. keen ## adjective
 /kiːn/ INTERESTED
 [C1]very interested or enthusiastic
-- The class is for those who show a keen interest in painting.
-- Theresa isn’t too keen on cats.
+- The class is for those who show a keen interest `in` painting.
+- Theresa isn’t too keen `on` cats.
 
 ## 1793. key ## adjective
 /kiː/ be key to sth
@@ -10777,7 +10777,7 @@
 ## 1794. knowledgeable ## adjective
 /ˈnɑl.ɪdʒ.ə.bəl/ 
 [C1]knowing a lot
-- He's very knowledgeable about art.
+- He's very knowledgeable `about` art.
 
 ## 1795. large ## adjective
 /lɑrdʒ/ by and large
@@ -10803,18 +10803,18 @@
 ## 1799. lengthy ## adjective
 /ˈleŋ.θi/ 
 [C1]continuing for a long time
-- a lengthy discussion/process
-- Many airline passengers face lengthy delays because of the strike.
+- a lengthy `discussion/process`
+- Many airline passengers face lengthy `delays` because of the strike.
 
 ## 1800. liable ## adjective
 /ˈlɑɪ.ə.bəl/ RESPONSIBLE
 [C1]legally responsible
-- Corporate officials are liable for the safety of their employees.
+- Corporate officials are liable `for` the safety of their employees.
 
 ## 1801. liberal ## adjective
 /ˈlɪb.ə.rəl/ SOCIETY
 [C1]accepting beliefs and behavior that are new or different from your own
-- a liberal society/attitude
+- a liberal `society/attitude`
 - Her parents were far more liberal than mine.
 
 ## 1802. liberal ## adjective
@@ -10831,7 +10831,7 @@
 ## 1804. long-time ## adjective [always before noun]
 /ˈlɔːŋ.tɑɪm/ 
 [C1]describes someone who has been in a particular position for a long period
-- A long-time friend of the chairman said she had expected the resignation.
+- A long-time `friend` of the chairman said she had expected the resignation.
 
 ## 1805. lost ## adjective
 /lɔːst/ be lost without sb/sth
@@ -10847,7 +10847,7 @@
 /loʊ/ NOT IMPORTANT
 [C1]not important or powerful
 - low rank/status
-- New furniture is a very low priority at the moment.
+- New furniture is a very low `priority` at the moment.
 
 ## 1808. low ## adjective
 /loʊ/ UNHAPPY
@@ -10891,7 +10891,7 @@
 /ˈmɪd.əl/ NOT HIGH OR LOW
 [C1]neither high nor low in importance, amount or size
 - middle managers
-- middle income families
+- middle `income` families
 
 ## 1816. mild ## adjective
 /mɑɪld/ SLIGHT
@@ -10915,7 +10915,7 @@
 [C1]average in size or amount and not too much
 - a moderate income
 - The company was of moderate size, with about 50 employees.
-- Eating a moderate amount of fat is healthy.
+- Eating a moderate `amount` of fat is healthy.
 
 ## 1820. modest ## adjective
 /ˈmɑd.ɪst/ NOT PROUD
@@ -10926,8 +10926,8 @@
 ## 1821. monotonous ## adjective
 /məˈnɑt.ən.əs/ 
 [C1]If something is monotonous, it is boring because it stays the same.
-- a monotonous voice
-- monotonous work
+- a monotonous `voice`
+- monotonous `work`
 
 ## 1822. moral ## adjective
 /ˈmɔːr.əl/ BEHAVIOR
@@ -10937,7 +10937,7 @@
 ## 1823. multiple ## adjective
 /ˈmʌl.tə.pəl/ 
 [C1]with several things or parts
-- multiple injuries
+- multiple `injuries`
 - We made multiple copies of the report.
 
 ## 1824. mundane ## adjective
@@ -10959,13 +10959,13 @@
 ## 1827. mutual ## adjective
 /ˈmjuː.tʃu.əl/ OPINION
 [C1]When two or more people have a mutual feeling, they have the same opinion about each other.
-- mutual admiration/respect
-- He doesn't like her, and I suspect the feeling's mutual.
+- mutual `admiration/respect`
+- He doesn't like her, and I suspect `the feeling's` mutual.
 
 ## 1828. mutual ## adjective
 /ˈmjuː.tʃu.əl/ FRIEND/INTEREST
 [C1]When two or more people have a mutual friend or interest, they have the same one.
-- Andrew and Jean were introduced to each other by a mutual friend.
+- Andrew and Jean were introduced to each other by a mutual `friend`.
 
 ## 1829. naive ## adjective
 /nɑɪˈiːv/ 
@@ -10997,8 +10997,8 @@
 ## 1834. neutral ## adjective
 /ˈnuː.trəl/ INDEPENDENT
 [C1]independent and not supporting any side in an argument, fight, or competition
-- neutral ground/territory
-- He decided to remain/stay neutral on the issue.
+- neutral `ground/territory`
+- He decided to `remain/stay` neutral on the issue.
 
 ## 1835. neutral ## adjective
 /ˈnuː.trəl/ COLOR
@@ -11044,18 +11044,18 @@
 ## 1843. notable ## adjective
 /ˈnoʊt̬.ə.bəl/ 
 [C1]important or interesting
-- With one notable exception, everyone replied to my letter.
+- With one notable `exception`, everyone replied to my letter.
 
 ## 1844. noticeable ## adjective
 /ˈnoʊt̬.ə.sə.bəl/ 
 [C1]easy to see or be aware of
-- There was a noticeable difference in his behavior after the injury.
+- There was a noticeable `difference` in his behavior after the injury.
 
 ## 1845. notorious ## adjective
 /noʊˈtɔːr.i.əs/ 
 [C1]famous for something bad
 - a notorious criminal
-- She was notorious for her bad temper.
+- She was notorious `for` her bad temper.
 
 ## 1846. numerous ## adjective
 /ˈnuː.mə.rəs/ 
@@ -11066,7 +11066,7 @@
 ## 1847. nutritional ## adjective
 /nuːˈtrɪʃ.ən.əl/ 
 [C1]relating to the food that you eat and the way it affects your health
-- These snacks have very little nutritional value.
+- These snacks have very little nutritional `value`.
 
 ## 1848. nutritious ## adjective
 /nuːˈtrɪʃ.əs/ 
@@ -11086,7 +11086,7 @@
 ## 1851. obsolete ## adjective
 /ˌɑb.səˈliːt/ 
 [C1]not used now
-- obsolete equipment
+- obsolete `equipment`
 - Will books become obsolete because of computers?
 
 ## 1852. occasional ## adjective
@@ -11098,7 +11098,7 @@
 ## 1853. old ## adjective
 /oʊld/ the old days
 [C1]a period in the past
-- This place isn't as good as it was in the old days.
+- This place isn't as good as it was `in` the old days.
 
 ## 1854. open ## adjective
 /ˈoʊ.pən/ open to discussion/suggestions, etc.
@@ -11124,7 +11124,7 @@
 ## 1858. opposite ## adjective
 /ˈɑp.ə.zɪt/ the opposite sex
 [C1]people who are the other sex from you
-- When you attend an all girls or all boys school, you don't study with members of the opposite sex.
+- When you attend an all girls or all boys school, you don't study with `members of `the opposite sex.
 
 ## 1859. outgoing ## adjective
 /ˈɑʊtˌgoʊ.ɪŋ/ FRIENDLY
@@ -11139,7 +11139,7 @@
 ## 1861. overcrowded ## adjective
 /ˌoʊ.vərˈkrɑʊ.dɪd/ 
 [C1]containing too many people or things
-- an overcrowded classroom/prison
+- an overcrowded `classroom/prison`
 
 ## 1862. overdrawn ## adjective
 /ˌoʊ.vərˈdrɔːn/ 
@@ -11149,14 +11149,14 @@
 ## 1863. overwhelming ## adjective
 /ˌoʊ.vərˈwel.mɪŋ/ 
 [C1]very strong in effect or large in amount
-- She felt an overwhelming urge/desire/need to tell someone about what had happened.
-- An overwhelming majority voted in favor of the proposal.
+- She felt an overwhelming `urge/desire/need` to tell someone about what had happened.
+- An overwhelming `majority` voted in favor of the proposal.
 - I felt an overwhelming sense of relief when the semester was over.
 
 ## 1864. overworked ## adjective
 /ˌoʊ.vərˈwɜrkt/ 
 [C1]Someone who is overworked has to work too much.
-- We're overworked and underpaid.
+- We're overworked `and underpaid`.
 
 ## 1865. particular ## adjective
 /pərˈtɪk.jə.lər/ NOT EASILY SATISFIED
@@ -11171,7 +11171,7 @@
 ## 1867. payable ## adjective
 /ˈpeɪ.ə.bəl/ FOR PERSON
 [C1]If a check is payable to a person, that person's name is written on the check and the money will be paid to them.
-- Checks should be made payable to "Express Enterprises."
+- Checks should be `made` payable `to` "Express Enterprises."
 
 ## 1868. personal ## adjective
 /ˈpɜr.sən.əl/ personal hygiene
@@ -11181,18 +11181,18 @@
 ## 1869. persuasive ## adjective
 /pərˈsweɪ.sɪv/ 
 [C1]able to make people agree to do something
-- It's a very persuasive argument.
+- It's a very persuasive `argument`.
 
 ## 1870. pleasurable ## adjective
 /ˈpleʒ.ə.rə.bəl/ 
 [C1]enjoyable
-- a pleasurable experience
+- a pleasurable `experience`
 
 ## 1871. pointless ## adjective
 /ˈpɔɪnt.ləs/ 
 [C1]Something that is pointless has no purpose.
-- pointless arguments/conflict
-- a pointless exercise
+- pointless `arguments/conflict`
+- a pointless `exercise`
 - It would be pointless to argue with him.
 
 ## 1872. portable ## adjective
@@ -11208,29 +11208,29 @@
 ## 1874. postal ## adjective [always before noun]
 /ˈpoʊ.stəl/ 
 [C1]relating to the system of sending letters and packages
-- the postal service/system
+- the postal `service`/system
 
 ## 1875. practical ## adjective
 /ˈpræk.tɪ.kəl/ POSSIBLE
 [C1]able to be done successfully
-- a practical solution
+- a practical `solution`
 - The plan is simply not practical.
 
 ## 1876. practical ## adjective
 /ˈpræk.tɪ.kəl/ SUITABLE
 [C1]suitable or useful for a situation which may involve some difficulty
-- practical clothes/shoes
+- practical `clothes/shoes`
 - Pale carpets just aren't practical if you have kids.
 
 ## 1877. prejudiced ## adjective
 /ˈpredʒ.əd.ɪst/ 
 [C1]feeling dislike for a group of people or treating them unfairly because they are a different race, sex, religion, etc.
-- Are the police prejudiced against black people?
+- Are the police prejudiced `against` black people?
 
 ## 1878. preliminary ## adjective [always before noun]
 /prɪˈlɪm.ə.ner.i/ 
 [C1]done or happening in order to prepare for the main event or activity
-- a preliminary discussion/meeting
+- a preliminary `discussion/meeting`
 
 ## 1879. prestigious ## adjective
 /presˈtɪdʒ.əs/ 
@@ -11256,7 +11256,7 @@
 ## 1883. prior ## adjective
 /ˈprɑɪ.ər/ BEFORE
 [C1]existing or happening before something else
-- The course requires no prior knowledge of Spanish.
+- The course requires no prior `knowledge` of Spanish.
 
 ## 1884. prior ## adjective
 /ˈprɑɪ.ər/ prior to sth
@@ -11316,19 +11316,19 @@
 ## 1894. protective ## adjective
 /prəˈtek.tɪv/ WANTING TO PROTECT
 [C1]wanting to protect someone from criticism, hurt, danger, etc. because you like them
-- It's easy to be too protective towards/of your children.
-- She's fiercely protective of the man she married 29 years ago.
+- It's easy to be too protective `towards/of` your children.
+- She's fiercely protective `of` the man she married 29 years ago.
 
 ## 1895. radical ## adjective
 /ˈræd.ɪ.kəl/ CHANGE
 [C1]A radical change is very big and important.
-- During bad economic times, radical steps may be necessary to restore the confidence of the consumer.
+- During bad economic times, radical `steps` may be necessary to restore the confidence of the consumer.
 
 ## 1896. random ## adjective
 /ˈræn.dəm/ CHANCE
 [C1]happening, done or chosen by chance rather than according to a plan
-- random checks/tests/attacks
-- We asked a random sample/selection of people what they thought.
+- random `checks/tests/attacks`
+- We asked a random `sample/selection` of people what they thought.
 
 ## 1897. random ## adjective
 /ˈræn.dəm/ at random
@@ -11344,7 +11344,7 @@
 /ˈræʃ.ən.əl/ 
 [C1]showing clear thought and reason
 - He was too upset to be rational.
-- a rational argument/debate/explanation
+- a rational `argument/debate/explanation`
 
 ## 1900. reassuring ## adjective
 /ˌriː.əˈʃʊr.ɪŋ/ 
@@ -11359,7 +11359,7 @@
 ## 1902. refreshing ## adjective
 /rɪˈfreʃ.ɪŋ/ DIFFERENT
 [C1]different and interesting
-- a refreshing change
+- a refreshing `change`
 - It's refreshing to see a film that's so original.
 
 ## 1903. refreshing ## adjective
@@ -11381,7 +11381,7 @@
 ## 1906. renewable ## adjective
 /rɪˈnuː.ə.bəl/ ENERGY
 [C1]A renewable form of energy can be produced as quickly as it is used.
-- a renewable energy source such as wind power
+- a renewable `energy` source such as wind power
 
 ## 1907. repetitive ## adjective
 /rɪˈpet̬.ət̬.ɪv/ 
@@ -11439,7 +11439,7 @@
 /rʌf/ DANGEROUS
 [C1]dangerous or violent
 - a rough part of town
-- Hockey can be a rough game.
+- Hockey can be a rough `game`.
 
 ## 1918. running ## adjective
 /ˈrʌn.ɪŋ/ running water
@@ -11498,13 +11498,13 @@
 ## 1928. scarce ## adjective
 /skers/ 
 [C1]rare or not available in large amounts
-- scarce resources
+- scarce `resources`
 
 ## 1929. scenic ## adjective
 /ˈsiː.nɪk/ 
 [C1]having views of the attractive, natural things in the countryside
-- a scenic route
-- an area of great scenic beauty
+- a scenic `route`
+- an area of great scenic `beauty`
 
 ## 1930. secure ## adjective
 /sɪˈkjʊr/ COMPUTER
@@ -11535,7 +11535,7 @@
 ## 1935. serial ## adjective [always before noun]
 /ˈsɪr.i.əl/ CRIME
 [C1]describes a person who repeatedly commits the same crime, often using the same method, or a serious crime that is committed repeatedly by one person
-- She wrote a thriller about a brutal serial killer.
+- She wrote a thriller about a brutal serial `killer`.
 - serial offenders/criminals
 - serial murder/rape
 
@@ -11579,7 +11579,7 @@
 ## 1943. short ## adjective
 /ʃɔːrt/ on short notice
 [C1]only a short time before something happens
-- I had to give a speech on very short notice.
+- I had to give a speech on `very` short notice.
 
 ## 1944. simultaneous ## adjective
 /ˌsɑɪ.məlˈteɪ.ni.əs/ 
@@ -11664,13 +11664,13 @@
 ## 1959. sparkling ## adjective
 /ˈspɑr.klɪŋ/ SPECIAL
 [C1]special or exciting
-- a sparkling performance
-- sparkling conversation
+- a sparkling `performance`
+- sparkling `conversation`
 
 ## 1960. specific ## adjective
 /spəˈsɪf.ɪk/ EXACT
 [C1]exact or containing details
-- Could you be more specific about the problem?
+- Could you `be` more specific `about` the problem?
 
 ## 1961. speechless ## adjective
 /ˈspiːtʃ.ləs/ 
@@ -11680,8 +11680,8 @@
 ## 1962. splendid ## adjective
 /ˈsplen.dɪd/ 
 [C1]very good or very beautiful, special, etc.
-- a splendid idea
-- a splendid view
+- a splendid `idea`
+- a splendid `view`
 
 ## 1963. sporty ## adjective
 /ˈspɔːr.t̬̬i/ 
@@ -11692,8 +11692,8 @@
 ## 1964. stable ## adjective
 /ˈsteɪ.bəl/ SITUATION
 [C1]not likely to change, become worse, or end suddenly
-- Prices have remained fairly stable in recent years.
-- The doctor said his condition was stable.
+- Prices have `remained` fairly stable in recent years.
+- The doctor said his `condition` was stable.
 - a stable relationship
 
 ## 1965. stable ## adjective
@@ -11710,12 +11710,12 @@
 /steɪl/ 
 [C1]old and not fresh
 - stale bread
-- Cake goes stale quickly if it's not covered.
+- Cake `goes` stale quickly if it's not covered.
 
 ## 1968. state-of-the-art ## adjective
 /ˌsteɪt̬.əv.ðiˈɑrt/ 
 [C1]using the newest ideas, designs, and materials
-- It is a computer system that uses state-of-the-art technology.
+- It is a computer system that uses state-of-the-art` technology`.
 
 ## 1969. statistical ## adjective
 /stəˈtɪs.tɪ.kəl/ 
@@ -11725,17 +11725,17 @@
 ## 1970. steady ## adjective
 /ˈsted.i/ NOT CHANGING
 [C1]not changing
-- She drove at a steady speed.
+- She drove at a steady `speed`.
 
 ## 1971. steep ## adjective
 /stiːp/ LARGE
 [C1]A steep increase or fall in something is very big and quick.
-- There has been a steep increase/rise in prices.
+- There has been a steep `increase/rise` in prices.
 
 ## 1972. stormy ## adjective
 /ˈstɔːr.mi/ ARGUING
 [C1]A stormy relationship or situation involves a lot of anger and arguments.
-- a stormy relationship
+- a stormy `relationship`
 - a stormy meeting/debate
 
 ## 1973. straight ## adjective
@@ -11746,9 +11746,9 @@
 ## 1974. strategic ## adjective
 /strəˈtiː.dʒɪk/ 
 [C1]helping to achieve a plan, usually in business, politics, or war
-- strategic planning
-- strategic weapons
-- The new offices are in a strategic location, with easy access to the highway.
+- strategic `planning`
+- strategic `weapons`
+- The new offices are in a strategic `location`, with easy access to the highway.
 
 ## 1975. strong ## adjective
 /strɔːŋ/ strong language
@@ -11763,7 +11763,7 @@
 ## 1977. stuck ## adjective [never before noun]
 /stʌk/ NOT CONTINUE
 [C1]not able to continue reading, answering questions, etc. because something is too difficult
-- I keep getting stuck on difficult words.
+- I keep `getting` stuck on difficult words.
 
 ## 1978. subject ## adjective
 /ˈsʌb.dʒɪkt/ subject to sth
@@ -11785,7 +11785,7 @@
 [C1]better than other things
 - This is clearly the work of a superior artist.
 - She was chosen for the job because she was the superior candidate.
-- Some people think acoustic recordings are superior to digital ones.
+- Some people think acoustic recordings are superior `to` digital ones.
 
 ## 1982. superior ## adjective
 /sʊˈpɪr.i.ər/ HIGHER
@@ -11817,12 +11817,12 @@
 ## 1987. sustainable ## adjective
 /səˈsteɪ.nə.bəl/ CONTINUE
 [C1]able to continue over a period of time
-- sustainable development/growth
+- sustainable `development/growth`
 
 ## 1988. sustainable ## adjective
 /səˈsteɪ.nə.bəl/ ENVIRONMENT
 [C1]causing little or no damage to the environment and therefore able to continue for a long time
-- sustainable energy
+- sustainable `energy`
 
 ## 1989. talkative ## adjective
 /ˈtɔː.kət̬.ɪv/ 
@@ -11874,7 +11874,7 @@
 /ˈtɑl.ə.rənt/ 
 [C1]allowing people to do what they want especially when you do not agree with it
 - a tolerant attitude
-- I think we're becoming more tolerant of children in public places.
+- I think we're becoming more tolerant `of` children in public places.
 
 ## 1999. tranquil ## adjective
 /ˈtræŋ.kwɪl/ 
@@ -11884,10 +11884,10 @@
 ## 2000. troubled ## adjective
 /ˈtrʌb.əld/ 
 [C1]having problems or difficulties
-- a troubled expression
-- The rescue plan involves selling off the unprofitable parts of the troubled company.
-- Peace has finally come to this troubled region after many years.
-- In these troubled times, it's good to hear some happy news.
+- a troubled `expression`
+- The rescue plan involves selling off the unprofitable parts of the troubled `company`.
+- Peace has finally come to this troubled `region` after many years.
+- In these troubled `times`, it's good to hear some happy news.
 
 ## 2001. trustworthy ## adjective
 /ˈtrʌstˌwɜr.ði/ 
@@ -11897,7 +11897,7 @@
 ## 2002. ultimate ## adjective [always before noun]
 /ˈʌl.tə.mət/ FINAL
 [C1]final or most important
-- the ultimate aim/goal
+- the ultimate `aim/goal`
 
 ## 2003. unaffordable ## adjective
 /ʌn.əˈfɔr.də.bəl/ 
@@ -11912,7 +11912,7 @@
 ## 2005. unavailable ## adjective
 /ʌn.əˈveɪ.lə.bəl / CANNOT DO SOMETHING
 [C1]not able to talk to someone or meet them, especially because you are doing other things
-- The manager was unavailable for comment.
+- The manager was unavailable `for comment`.
 
 ## 2006. unavoidable ## adjective
 /ˌʌn.əˈvɔɪd.ə.bəl/ 
@@ -11948,7 +11948,7 @@
 ## 2012. unforeseen ## adjective
 /ˌʌn.fɔrˈsiːn/ 
 [C1]not expected
-- The concert was cancelled due to unforeseen circumstances.
+- The concert was cancelled due to unforeseen `circumstances`.
 
 ## 2013. unhelpful ## adjective
 /ʌnˈhelp.fəl/ NOT IMPROVE
@@ -11963,7 +11963,7 @@
 ## 2015. unjustified ## adjective
 /ʌnˈdʒʌs.təˌfɑɪd/ 
 [C1]done without a reason and not deserved
-- unjustified criticism
+- unjustified `criticism`
 
 ## 2016. unmarried ## adjective
 /ʌnˈmær.iːd/ 
@@ -11983,7 +11983,7 @@
 ## 2019. unpaid ## adjective
 /ʌnˈpeɪd/ WORK FOR FREE
 [C1]working without getting any money
-- unpaid work
+- unpaid `work`
 
 ## 2020. unpleasant ## adjective
 /ʌnˈplez.ənt/ DIFFICULT
@@ -12015,7 +12015,7 @@
 ## 2025. unrelated ## adjective
 /ˌʌn.rɪˈleɪt̬.ɪd/ 
 [C1]having no connection
-- Police said his death was unrelated to the attack.
+- Police said his death was unrelated `to` the attack.
 
 ## 2026. unsafe ## adjective
 /ʌnˈseɪf/ DANGEROUS
@@ -12031,7 +12031,7 @@
 ## 2028. unsolved ## adjective
 /ʌnˈsɑlvd/ 
 [C1]having no answer or solution
-- an unsolved mystery/murder/crime
+- an unsolved `mystery/murder/crime`
 
 ## 2029. unspoiled ## adjective
 /ʌnˈspɔɪlt/ 
@@ -12046,7 +12046,7 @@
 ## 2031. untouched ## adjective
 /ʌnˈtʌtʃt/ 
 [C1]not changed or damaged in any way
-- Most of the island remains untouched by tourism.
+- Most of the island remains untouched `by` tourism.
 
 ## 2032. untrue ## adjective
 /ʌnˈtruː/ 
@@ -12077,13 +12077,13 @@
 ## 2037. utmost ## adjective [always before noun]
 /ˈʌt.moʊst/ EMPHASIS
 [C1]used to emphasize how important or serious something is
-- a matter of the utmost importance
-- The situation needs to be handled with the utmost care.
+- a matter of the utmost `importance`
+- The situation needs to be handled `with` the utmost care.
 
 ## 2038. vague ## adjective
 /veɪg/ NOT CLEAR
 [C1]not clear or certain
-- I have a vague idea of where the hotel is.
+- I have a vague `idea` of where the hotel is.
 - He was a bit vague about directions.
 
 ## 2039. vain ## adjective
@@ -12099,7 +12099,7 @@
 ## 2041. verbal ## adjective
 /ˈvɜr.bəl/ WORDS
 [C1]relating to words or the use of words
-- verbal ability/skills
+- verbal `ability/skills`
 
 ## 2042. vertical ## adjective
 /ˈvɜrt̬.ɪ.kəl/ 
@@ -12125,8 +12125,8 @@
 ## 2046. voluntary ## adjective
 /ˈvɑl.ən.ter.i/ 
 [C1]Voluntary work is done without being paid and usually involves helping people.
-- She does voluntary work for Doctors Without Borders.
-- voluntary organizations
+- She does voluntary `work` for Doctors Without Borders.
+- voluntary `organizations`
 
 ## 2047. weak ## adjective
 /wiːk/ LIKELY TO FAIL
@@ -12172,12 +12172,12 @@
 ## 2055. well-qualified ## adjective
 /ˌwelˈkwɑl.ə.fɑɪd/ 
 [C1]having suitable experience or formal qualifications
-- He seems well-qualified for the job.
+- He seems well-qualified `for` the job.
 
 ## 2056. widespread ## adjective
 /ˈwɑɪd.spred/ 
 [C1]affecting or including a lot of places, people, etc.
-- a widespread problem
+- a widespread `problem`
 - widespread support
 
 ## 2057. working-class ## adjective
@@ -12194,7 +12194,7 @@
 /ˈwɜr.ði/ DESERVING RESPECT
 [C1]deserving respect, admiration or support
 - He is unlikely to succeed in getting his bill through Congress, however worthy it is.
-- Every year she makes a large donation to a worthy cause.
+- Every year she makes a large donation to a worthy `cause`.
 
 ## 2060. wrong ## adjective
 /rɑŋ/ NOT SUITABLE
@@ -12205,12 +12205,12 @@
 ## 2061. able ## adjective
 /ˈeɪ.bəl/ SMART
 [C2]smart or good at doing something
-- She's a very able student.
+- She's a very `able` student.
 
 ## 2062. abrupt ## adjective
 /əˈbrʌpt/ SUDDEN
 [C2]sudden and not expected
-- Our conversation came to an abrupt end/halt.
+- Our conversation came to an abrupt `end`/`halt`.
 
 ## 2063. abrupt ## adjective
 /əˈbrʌpt/ QUICK
@@ -12225,19 +12225,19 @@
 ## 2065. accessible ## adjective
 /əkˈses.ə.bəl/ UNDERSTAND
 [C2]easy to understand
-- They are attempting to make opera accessible to a wider audience.
+- They are attempting to make opera accessible `to` a wider audience.
 
 ## 2066. accountable ## adjective [never before noun]
 /əˈkɑʊnt̬.ə.bəl/ 
 [C2]responsible for what you do and having to be able to explain your actions
-- Hospitals must be held accountable for their mistakes.
-- Politicians should be accountable to the public that elects them.
+- Hospitals must be held accountable `for` their mistakes.
+- Politicians should be accountable `to` the public that elects them.
 
 ## 2067. adjacent ## adjective
 /əˈdʒeɪ.sənt/ 
 [C2]If two things are adjacent, they are next to each other.
 - The fire started in an adjacent building.
-- We can meet in the parking area adjacent to the gardens.
+- We can meet in the parking area adjacent `to` the gardens.
 
 ## 2068. adverse ## adjective
 /ˈæd.vɜrs/ adverse effect(s)/reaction(s)/conditions
@@ -12255,7 +12255,7 @@
 ## 2070. ahead ## adjective
 /əˈhed/ MORE PROGRESS
 [C2]making more progress than someone or something else
-- Sue is ahead of everyone else in French.
+- Sue is ahead `of` everyone else in French.
 
 ## 2071. alcoholic ## adjective
 /ˌæl.kəˈhɑ.lɪk/ PERSON
@@ -12271,13 +12271,13 @@
 ## 2073. alive ## adjective [never before noun]
 /əˈlɑɪv/ PLACE
 [C2]full of activity and excitement
-- The park was alive with the sound of laughter.
-- The city comes alive at night.
+- The park was alive `with` the sound of laughter.
+- The city `comes` alive at night.
 
 ## 2074. alive ## adjective [never before noun]
 /əˈlɑɪv/ CONTINUING
 [C2]continuing to exist
-- Local people are fighting to keep the language alive.
+- Local people are fighting to `keep` the language alive.
 
 ## 2075. allied ## adjective
 /ˈæl.ɑɪd/ 
@@ -12309,25 +12309,25 @@
 /əˈnɑn.ə.məs/ 
 [C2]not giving a name
 - an anonymous phone call/letter
-- The winner has asked to remain anonymous.
+- The winner has asked to `remain` anonymous.
 
 ## 2081. apologetic ## adjective
 /əˌpɑl.əˈdʒet̬.ɪk/ 
 [C2]showing or saying that you are sorry about something
 - an apologetic smile
-- She was very apologetic about missing the meeting.
+- She was very apologetic `about` missing the meeting.
 
 ## 2082. appalling ## adjective
 /əˈpɔː.lɪŋ/ 
 [C2]awful, or shocking and very unpleasant or causing someone to feel upset
-- The animals were being kept in appalling conditions.
-- This industry has an appalling environmental record.
-- Both candidates showed an appalling lack of familiarity with the issues.
+- The animals were being kept in appalling `conditions`.
+- This industry has an appalling environmental `record`.
+- Both candidates showed an appalling `lack of` familiarity with the issues.
 
 ## 2083. arbitrary ## adjective
 /ˈɑr.bɪ.trer.i/ 
 [C2]not based on a system or principles and often seeming unfair
-- an arbitrary decision
+- an arbitrary `decision`
 
 ## 2084. arid ## adjective
 /ˈær.ɪd/ 
@@ -12348,7 +12348,7 @@
 ## 2087. asleep ## adjective [never before noun]
 /əˈsliːp/ FEELING
 [C2]If part of your body is asleep, you cannot feel it.
-- My arm fell asleep.
+- My arm `fell` asleep.
 
 ## 2088. asleep ## adjective [never before noun]
 /əˈsliːp/ fast asleep
@@ -12373,7 +12373,7 @@
 ## 2092. automatic ## adjective
 /ˌɔːt̬.əˈmæt̬.ɪk/ PERSON
 [C2]done as a natural reaction, without thinking
-- My automatic response was to pull my hand away.
+- My automatic `response` was to pull my hand away.
 
 ## 2093. automatic ## adjective
 /ˌɔːt̬.əˈmæt̬.ɪk/ CERTAIN
@@ -12405,8 +12405,8 @@
 /ber/ BASIC
 [C2]including only the smallest amount that you need of something
 - The report just gave us the barest facts about the accident.
-- Tony's salary covers only the bare essentials for the family.
-- Staffing will be kept to a bare minimum this year.
+- Tony's salary covers only `the` bare essentials for the family.
+- Staffing will be kept to a bare `minimum` this year.
 
 ## 2099. bare ## adjective
 /ber/ EMPTY
@@ -12447,12 +12447,12 @@
 ## 2106. blank ## adjective
 /blæŋk/ NO FEELING
 [C2]showing no feeling or understanding
-- a blank expression
+- a blank `expression`
 
 ## 2107. bleak ## adjective
 /bliːk/ NO HOPE
 [C2]If a situation is bleak, there is little or no hope for the future.
-- The future is looking bleak for small businesses struggling with debts.
+- The future is `looking` bleak for small businesses struggling with debts.
 
 ## 2108. bleak ## adjective
 /bliːk/ COLD
@@ -12520,12 +12520,12 @@
 [C2]main or most important
 - a central character/figure
 - the central argument of the book
-- Her role is central to the movie.
+- Her role is central `to` the movie.
 
 ## 2121. characteristic ## adjective
 /ˌkær.ək.təˈrɪs.tɪk/ 
 [C2]typical of someone or something
-- Gray stone is characteristic of the buildings in that area.
+- Gray stone is characteristic `of` the buildings in that area.
 - With characteristic generosity, she offered to pay for us all.
 
 ## 2122. charismatic ## adjective
@@ -12552,12 +12552,12 @@
 ## 2126. clean ## adjective
 /kliːn/ NO CRIME
 [C2]showing that you have not done anything illegal
-- a clean driving record
+- a clean `driving record`
 
 ## 2127. clear ## adjective
 /klɪr/ crystal clear
 [C2]very easy to understand
-- She made it crystal clear that she was in charge.
+- She made it crystal clear `that` she was in charge.
 
 ## 2128. clichéd ## adjective
 /kliːˈʃeɪd/ 
@@ -12572,8 +12572,8 @@
 ## 2130. close ## adjective
  CAREFUL
 [C2]looking at or listening to someone or something very carefully
-- On close inspection, you could see that the painting was a fake.
-- Keep a close watch on the children.
+- On close `inspection`, you could see that the painting was a fake.
+- `Keep a` close `watch on` the children.
 
 ## 2131. closed ## adjective
 /kloʊzd/ NOT ACCEPTING IDEAS
@@ -12619,7 +12619,7 @@
 /kəˈmɪt.ɪd/ 
 [C2]loyal and willing to give your time and energy to something that you believe in
 - a committed marathon runner
-- She's committed to the job.
+- She's committed `to` the job.
 
 ## 2140. comparative ## adjective
 /kəmˈpær.ə.t̬ɪv/ comparative comfort/freedom/silence, etc.
@@ -12635,7 +12635,7 @@
 ## 2142. compatible ## adjective
 /kəmˈpæt̬.ə.bəl/ IDEAS
 [C2]compatible ideas or situations can exist together
-- Such policies are not compatible with democratic government.
+- Such policies are not compatible `with` democratic government.
 
 ## 2143. complimentary ## adjective
 /ˌkɑm.pləˈment.ə.ri/ PRAISING
@@ -12655,7 +12655,7 @@
 ## 2146. compulsive ## adjective
 /kəmˈpʌl.sɪv/ INTERESTING
 [C2]so interesting or exciting that you cannot stop reading, playing, or watching it
-- This documentary about life in prison makes compulsive viewing.
+- This documentary about life in prison makes compulsive `viewing`.
 
 ## 2147. conceited ## adjective
 /kənˈsiːt̬.ɪd/ 
@@ -12670,12 +12670,12 @@
 ## 2149. conclusive ## adjective
 /kənˈkluː.sɪv/ 
 [C2]proving that something is true
-- conclusive evidence/proof
+- conclusive `evidence/proof`
 
 ## 2150. concrete ## adjective
 /ˈkɑn.kriːt/ REAL
 [C2]existing in a real form that can be seen or felt
-- concrete achievements/actions
+- concrete `achievements/actions`
 - concrete objects
 
 ## 2151. conscious ## adjective
@@ -12721,7 +12721,7 @@
 ## 2159. contrary ## adjective
 /ˈkɑn.trer.i/ OPPOSITE
 [C2]opposite or very different
-- a contrary opinion/view
+- a contrary `opinion/view`
 
 ## 2160. cool ## adjective
 /kuːl/ UNFRIENDLY
@@ -12771,7 +12771,7 @@
 ## 2169. cunning ## adjective
 /ˈkʌn.ɪŋ/ 
 [C2]clever at getting what you want, especially by tricking people
-- a cunning plan
+- a cunning `plan`
 
 ## 2170. cynical ## adjective
 /ˈsɪn.ə.kəl/ 
@@ -12791,7 +12791,7 @@
 ## 2173. dazzling ## adjective
 /ˈdæz.lɪŋ/ EXCITING
 [C2]extremely good and exciting
-- a dazzling display/performance
+- a dazzling `display/performance`
 
 ## 2174. dazzling ## adjective
 /ˈdæz.lɪŋ/ BRIGHT
@@ -12806,7 +12806,7 @@
 ## 2176. dead ## adjective
 /ded/ COMPLETE
 [C2]complete
-- There was dead silence as the votes were counted.
+- There was dead `silence` as the votes were counted.
 
 ## 2177. dead ## adjective
 /ded/ drop dead
@@ -12846,7 +12846,7 @@
 ## 2184. deep ## adjective
 /diːp/ SERIOUS
 [C2]serious and difficult to understand
-- a deep and meaningful conversation
+- a deep `and meaningful` conversation
 
 ## 2185. deep ## adjective
 /diːp/ throw sb in at the deep end
@@ -12866,12 +12866,12 @@
 ## 2188. defensive ## adjective
 /dəˈfen.sɪv/ 
 [C2]quick to protect yourself from being criticized
-- He's very defensive about his weight.
+- He's very defensive `about` his weight.
 
 ## 2189. definitive ## adjective
 /dəˈfɪn.ə.t̬ɪv/ 
 [C2]certain, clear, and not likely to change
-- a definitive answer
+- a definitive `answer`
 
 ## 2190. delicate ## adjective
 /ˈdel.ɪ.kət/ ATTRACTIVE
@@ -12891,7 +12891,7 @@
 ## 2193. desperate ## adjective
 /ˈdes.pə.rət/ SERIOUS
 [C2]very serious or bad
-- The earthquake survivors are in desperate need of help.
+- The earthquake survivors are in desperate `need` of help.
 - There’s a desperate shortage of medical supplies in the area.
 - People in the flooded area are in a desperate situation.
 
@@ -12908,7 +12908,7 @@
 ## 2196. detrimental ## adjective
 /ˌde.trəˈmen.təl/ 
 [C2]harmful or damaging
-- a detrimental effect
+- a detrimental `effect`
 
 ## 2197. devastating ## adjective
 /ˈdev.ə.steɪ.t̬ɪŋ/ DESTROYING
@@ -12943,12 +12943,12 @@
 ## 2203. disillusioned ## adjective
 /ˌdɪs.ɪˈluː.ʒənd/ 
 [C2]feeling disappointed because something is not as good as you thought it was
-- She says she's disillusioned with the music business.
+- She says she's disillusioned `with` the music business.
 
 ## 2204. disloyal ## adjective
 /ˌdɪˈslɔɪ.əl/ 
 [C2]not loyal or not supporting someone who you should support
-- I don't want to be disloyal to my friend.
+- I don't want to be disloyal `to` my friend.
 
 ## 2205. disposable ## adjective
 /dɪˈspoʊ.zə.bəl/ 
@@ -12963,7 +12963,7 @@
 ## 2207. disrespectful ## adjective
 /ˌdɪs.rɪˈspekt.fəl/ 
 [C2]being rude and not showing any respect
-- Don't be disrespectful to your mother.
+- Don't be disrespectful `to` your mother.
 
 ## 2208. disruptive ## adjective
 /dɪsˈrʌp.tɪv/ 
@@ -13019,12 +13019,12 @@
 ## 2218. dubious ## adjective
 /ˈduː.bi.əs/ DOUBTING
 [C2]not certain that something is good or true
-- He's dubious about the benefits of acupuncture.
+- He's dubious `about` the benefits of acupuncture.
 
 ## 2219. due ## adjective
 /duː/ DESERVE
 [C2]Something that is due to you is something that is owed to you or something you deserve.
-- He didn't get the praise and recognition that was due to him.
+- He didn't get the praise and recognition that was due `to` him.
 
 ## 2220. due ## adjective
 /duː/ BEHAVIOR
@@ -13045,7 +13045,7 @@
 /ɪkˈsen.trɪk/ 
 [C2]behaving in a strange and unusual way
 - an eccentric professor
-- eccentric behavior
+- eccentric `behavior`
 
 ## 2224. elaborate ## adjective
 /ɪˈlæb.ə.rət/ 
@@ -13056,7 +13056,7 @@
 ## 2225. elated ## adjective
 /ɪˈleɪt̬.ɪd/ 
 [C2]extremely happy and excited
-- We were elated by/at the news.
+- We were elated `by/at` the news.
 
 ## 2226. elusive ## adjective
 /ɪˈluː.sɪv/ 
@@ -13071,12 +13071,12 @@
 ## 2228. empirical ## adjective
 /ɪmˈpɪr.ɪ.kəl/ 
 [C2]based on experience or scientific experiments and not only on ideas
-- empirical evidence
+- empirical `evidence`
 
 ## 2229. engrossed ## adjective
 /ɪnˈgroʊst/ 
 [C2]giving all your attention to something
-- He was so engrossed in what he was doing that he didn't hear the bell.
+- He was so engrossed `in` what he was doing that he didn't hear the bell.
 
 ## 2230. essential ## adjective
 /ɪˈsen.tʃəl/ BASIC
@@ -13116,8 +13116,8 @@
 ## 2237. explicit ## adjective
 /ɪkˈsplɪs.ɪt/ CLEAR
 [C2]clear and exact
-- She was very explicit about her plans.
-- He made no explicit references to Tess.
+- She was very explicit `about` her plans.
+- He made no explicit `references` to Tess.
 
 ## 2238. explicit ## adjective
 /ɪkˈsplɪs.ɪt/ SHOWING SEX
@@ -13127,13 +13127,13 @@
 ## 2239. explosive ## adjective
 /ɪkˈsploʊ.sɪv/ EQUIPMENT
 [C2]An explosive substance or piece of equipment can cause explosions.
-- The explosive device was hidden in a suitcase.
+- The explosive `device` was hidden in a suitcase.
 - an explosive mixture of oil vapour and oxygen
 
 ## 2240. explosive ## adjective
 /ɪkˈsploʊ.sɪv/ SITUATION
 [C2]An explosive situation or subject causes strong feelings, and may make people angry or violent.
-- a highly explosive political issue
+- a highly explosive political `issue`
 
 ## 2241. expressive ## adjective
 /ɪkˈspres.ɪv/ 
@@ -13149,7 +13149,7 @@
 ## 2243. extravagant ## adjective
 /ɪkˈstræv.ə.gənt/ 
 [C2]costing too much, or spending a lot more money than you need to
-- the extravagant lifestyle of a movie star
+- the extravagant `lifestyle` of a movie star
 
 ## 2244. extreme ## adjective
 /ɪkˈstriːm/ OPINIONS
@@ -13160,7 +13160,7 @@
 ## 2245. facial ## adjective
 /ˈfeɪ.ʃəl/ 
 [C2]of or on the face
-- facial expressions/hair
+- facial `expressions/hair`
 
 ## 2246. faint ## adjective
 /feɪnt/ feel faint
@@ -13191,12 +13191,12 @@
 /ˈfeɪθ.fəl/ RELATIONSHIP
 [C2]If your husband, wife or partner is faithful, they do not have a romantic relationship with anyone else.
 - a faithful husband
-- They remained faithful to each other throughout their long marriage.
+- They remained faithful `to` each other throughout their long marriage.
 
 ## 2252. faithful ## adjective
 /ˈfeɪθ.fəl/ NOT CHANGED
 [C2]not changing any of the original details, facts, style, etc.
-- Does the film adaptation stay faithful to the novel?
+- Does the film adaptation stay faithful `to` the novel?
 
 ## 2253. far ## adjective [always before noun]
 /fɑr/ the far left/right
@@ -13206,7 +13206,7 @@
 ## 2254. faraway ## adjective
 /ˈfɑr.əˌweɪ/ LONG DISTANCE
 [C2]a long distance away
-- faraway places
+- faraway `places`
 
 ## 2255. faraway ## adjective
 /ˈfɑr.əˌweɪ/ a faraway look/expression
@@ -13222,12 +13222,12 @@
 ## 2257. fast ## adjective
 /fæst/ the/a fast track
 [C2]a very quick way of achieving or dealing with something
-- These intensive courses claim to offer a fast track to wealth and success.
+- These intensive courses claim to offer a fast track `to` wealth and success.
 
 ## 2258. faultless ## adjective
 /ˈfɔːlt.ləs/ 
 [C2]perfect, or without any mistakes
-- a faultless performance
+- a faultless `performance`
 
 ## 2259. fearful ## adjective
 /ˈfɪr.fəl/ 
@@ -13247,7 +13247,7 @@
 ## 2262. feeble ## adjective
 /ˈfiː.bəl/ NOT GOOD
 [C2]not very good or effective
-- a feeble argument/excuse
+- a feeble `argument/excuse`
 
 ## 2263. fertile ## adjective
 /ˈfɜːr.təl/ 
@@ -13262,7 +13262,7 @@
 ## 2265. fictional ## adjective
 /ˈfɪk.ʃən.əl/ 
 [C2]existing only in fiction
-- a fictional character
+- a fictional `character`
 
 ## 2266. final ## adjective [always before noun]
 /ˈfɑɪn.əl/ NO MORE DISCUSSION
@@ -13288,7 +13288,7 @@
 ## 2270. firm ## adjective
 /fɜrm/ STRONG
 [C2]strong and tight
-- a firm handshake/grip
+- a firm `handshake/grip`
 
 ## 2271. fit ## adjective
 /fɪt/ see fit
@@ -13337,7 +13337,7 @@
 ## 2279. forceful ## adjective
 /ˈfɔːrs.fəl/ 
 [C2]expressing opinions strongly and demanding attention or action
-- a forceful manner/personality
+- a forceful `manner/personality`
 
 ## 2280. foreign ## adjective
 /ˈfɔːr.ən/ be foreign to sb
@@ -13347,13 +13347,13 @@
 ## 2281. foremost ## adjective
 /ˈfɔːr.moʊst/ 
 [C2]most important
-- He's one of the country's foremost experts on military law.
+- He's one of the country's foremost `experts` on military law.
 
 ## 2282. foreseeable ## adjective
 /fɔːrˈsiː.ə.bəl/ the foreseeable future
 [C2]as far in the future as you can imagine
-- Prices will remain high for the foreseeable future.
-- We plan a move to New York in the foreseeable future.
+- Prices will remain high `for` the foreseeable future.
+- We plan a move to New York `in` the foreseeable future.
 
 ## 2283. formidable ## adjective
 /ˈfɔr.mɪd.ə.bəl/ POWERFUL
@@ -13363,7 +13363,7 @@
 ## 2284. formidable ## adjective
 /ˈfɔr.mɪd.ə.bəl/ DIFFICULT
 [C2]difficult and needing a lot of effort or thought
-- a formidable task
+- a formidable `task`
 
 ## 2285. foul ## adjective
 /fɑʊl/ BAD
@@ -13401,7 +13401,7 @@
 /ˈfrænt̬.ɪk/ WORRIED
 [C2]very worried or frightened
 - frantic calls for help
-- I got home to find Joe frantic with worry.
+- I got home to find Joe frantic `with` worry.
 
 ## 2292. fraudulent ## adjective
 /ˈfrɔː.dʒə.lənt/ 
@@ -13442,7 +13442,7 @@
 ## 2299. fringe ## adjective [always before noun]
 /frɪndʒ/ 
 [C2]not belonging to the main part of a group, activity, or subject
-- fringe politics/theatre
+- fringe `politics/theatre`
 
 ## 2300. fulfilling ## adjective
 /fʊlˈfɪl.ɪŋ/ 
@@ -13463,12 +13463,12 @@
 /ˌfʌn.dəˈment̬.əl/ 
 [C2]relating to the most important or main part of something
 - a fundamental change/difference
-- Training is fundamental to success.
+- Training is fundamental `to` success.
 
 ## 2304. fussy ## adjective
 /ˈfʌs.i/ NOT LIKING
 [C2]only liking particular things and very difficult to please
-- She's a very fussy eater.
+- She's a very fussy `eater`.
 
 ## 2305. fussy ## adjective
 /ˈfʌs.i/ CAREFUL
@@ -13514,7 +13514,7 @@
 ## 2313. grim ## adjective
 /grɪm/ BAD
 [C2]worrying and bad
-- grim news
+- grim `news`
 - The future looks grim.
 
 ## 2314. grim ## adjective
@@ -13567,7 +13567,7 @@
 /hɑrd/ hard feelings
 [C2]anger, unhappiness, or lack of trust
 - I hope you don't have any hard feelings.
-- I'm sorry it didn't work out, but no hard feelings.
+- I'm sorry it didn't work out, but `no` hard feelings.
 
 ## 2324. harmless ## adjective
 /ˈhɑrm.ləs/ NOT UPSETTING
@@ -13578,12 +13578,12 @@
 ## 2325. hazardous ## adjective
 /ˈhæz.ərd.əs/ 
 [C2]dangerous
-- hazardous chemicals
+- hazardous `chemicals`
 
 ## 2326. healthy ## adjective
 /ˈhel.θi/ SUCCESSFUL
 [C2]successful and strong
-- a healthy economy
+- a healthy `economy`
 - The real-estate market is healthier today than it was ten years ago.
 
 ## 2327. heavy ## adjective
@@ -13605,7 +13605,7 @@
 ## 2330. high-profile ## adjective
 /ˌhɑɪˈproʊ.fɑɪl/ 
 [C2]A high-profile person or event is known about by a lot of people and receives a lot of attention from television, newspapers, etc.
-- a high-profile campaign/case
+- a high-profile `campaign/case`
 
 ## 2331. hollow ## adjective
 /ˈhɑl.oʊ/ NOTHING INSIDE
@@ -13615,8 +13615,8 @@
 ## 2332. hollow ## adjective
 /ˈhɑl.oʊ/ WITHOUT MEANING
 [C2]without meaning or real feeling
-- a hollow victory
-- a hollow laugh
+- a hollow `victory`
+- a hollow `laugh`
 
 ## 2333. hollow ## adjective
 /ˈhɑl.oʊ/ ring hollow
@@ -13626,7 +13626,7 @@
 ## 2334. hopeful ## adjective
 /ˈhoʊp.fəl/ GOOD THING WILL HAPPEN
 [C2]If something is hopeful, it gives you reason to believe that what you want to happen will happen.
-- There are hopeful signs that she will make a full recovery.
+- There are hopeful `signs` that she will make a full recovery.
 
 ## 2335. horrified ## adjective
 /ˈhɔːr.ə.fɑɪd/ 
@@ -13646,7 +13646,7 @@
 ## 2338. humanitarian ## adjective
 /hjuːˌmæn.əˈter.i.ən/ 
 [C2]connected with improving people's lives and reducing suffering
-- The UN is sending humanitarian aid to the refugees.
+- The UN is sending humanitarian `aid` to the refugees.
 
 ## 2339. humble ## adjective
 /ˈhʌm.bəl/ NOT PROUD
@@ -13656,7 +13656,7 @@
 ## 2340. humble ## adjective
 /ˈhʌm.bəl/ POOR
 [C2]poor or of a low social rank
-- She rose from humble beginnings to become Prime Minister.
+- She rose from humble `beginnings` to become Prime Minister.
 
 ## 2341. humble ## adjective
 /ˈhʌm.bəl/ in my humble opinion
@@ -13681,7 +13681,7 @@
 ## 2345. hygienic ## adjective
 /hɑɪˈdʒiː.nɪk/ 
 [C2]very clean, so that bacteria cannot spread
-- hygienic conditions
+- hygienic `conditions`
 
 ## 2346. hypocritical ## adjective
 /ˌhɪp.əˈkrɪt̬.ɪ.kəl/ 
@@ -13691,13 +13691,13 @@
 ## 2347. idle ## adjective
 /ˈɑɪd.əl/ NOT SERIOUS
 [C2]not serious or having no real purpose
-- idle chatter/speculation
-- This is no idle threat.
+- idle `chatter/speculation`
+- This is no idle `threat`.
 
 ## 2348. ignorant ## adjective
 /ˈɪg.nər.ənt/ 
 [C2]not having enough knowledge, understanding, or information about something
-- He was a newcomer to Formula One and ignorant of many of the circuits.
+- He was a newcomer to Formula One and ignorant `of` many of the circuits.
 
 ## 2349. ill ## adjective
 /ɪl/ ill at ease
@@ -13718,7 +13718,7 @@
 /ˈɪm.ə.nənt/ 
 [C2]coming or happening very soon
 - A rain storm was imminent.
-- imminent danger
+- imminent `danger`
 
 ## 2353. immortal ## adjective
 /ɪˈmɔːr.t̬əl/ LIFE
@@ -13728,17 +13728,17 @@
 ## 2354. immortal ## adjective
 /ɪˈmɔːr.t̬əl/ MEMORY
 [C2]famous or remembered for a very long time
-- In Yogi Barra's immortal words: "You can observe a lot by watching."
+- In Yogi Barra's immortal `words`: "You can observe a lot by watching."
 
 ## 2355. immune ## adjective
 /ɪˈmjuːn/ 
 [C2]not affected by a particular type of behavior or emotion
-- He is immune to flattery.
+- He is immune `to` flattery.
 
 ## 2356. imperative ## adjective
 /ɪmˈper.ət̬.ɪv/ 
 [C2]When an action or process is imperative, it is extremely important that it happens or is done.
-- It is imperative (that) I speak with him at once.
+- `It is` imperative `(that)` I speak with him at once.
 
 ## 2357. implicit ## adjective
 /ɪmˈplɪs.ɪt/ 
@@ -13775,34 +13775,34 @@
 ## 2363. inconceivable ## adjective
 /ˌɪn.kənˈsiː.və.bəl/ 
 [C2]impossible to imagine
-- It's not inconceivable that soon most cars will be battery powered.
+- It's not inconceivable `that` soon most cars will be battery powered.
 
 ## 2364. incurable ## adjective
 /ɪnˈkjʊr.ə.bəl/ 
 [C2]impossible to cure
-- an incurable disease
+- an incurable `disease`
 
 ## 2365. indifferent ## adjective
 /ɪnˈdɪf.rənt/ 
 [C2]not caring about or interested in someone or something
-- They are indifferent to the plight of the unemployed.
+- They are indifferent `to` the plight of the unemployed.
 
 ## 2366. indirect ## adjective
 /ˌɪn.dəˈrekt/ NOT OBVIOUS
 [C2]done or caused in a way that is not obvious
-- indirect costs
+- indirect `costs`
 - an indirect criticism
 
 ## 2367. indispensable ## adjective
 /ˌɪn.dɪˈspen.sə.bəl/ 
 [C2]completely necessary
-- an indispensable tool/guide
-- She quickly became indispensable to him.
+- an indispensable `tool/guide`
+- She quickly became indispensable `to` him.
 
 ## 2368. indisputable ## adjective
 /ˌɪn.dɪˈspjuːt̬.ə.bəl/ 
 [C2]obviously and certainly true
-- an indisputable fact
+- an indisputable `fact`
 
 ## 2369. industrious ## adjective
 /ɪnˈdʌs.tri.əs/ 
@@ -13822,18 +13822,18 @@
 ## 2372. infectious ## adjective
 /ɪnˈfek.ʃəs/ LAUGH
 [C2]Infectious laughter or feelings quickly spread from one person to another.
-- infectious enthusiasm
+- infectious `enthusiasm`
 
 ## 2373. infinite ## adjective
 /ˈɪn.fən.ət/ 
 [C2]extremely large or great
-- an infinite variety/number of options
+- an infinite `variety/number` of options
 - She took infinite care with the painting.
 
 ## 2374. inherent ## adjective
 /ɪnˈhɪr.ənt/ 
 [C2]existing as a natural and basic part of something
-- The desire for freedom is inherent in all people.
+- The desire for freedom is inherent `in` all people.
 
 ## 2375. inhuman ## adjective
 /ɪnˈhjuː.mən/ 
@@ -13848,8 +13848,8 @@
 ## 2377. innocent ## adjective
 /ˈɪn.ə.sənt/ NOT INTENDED TO HARM
 [C2]not intended to harm or upset anyone
-- It was an innocent mistake.
-- It was an innocent comment/remark, I didn't mean to hurt his feelings.
+- It was an innocent `mistake`.
+- It was an innocent `comment/remark`, I didn't mean to hurt his feelings.
 
 ## 2378. innumerable ## adjective
 /ɪˈnuː.mər.ə.bəl/ 
@@ -13859,7 +13859,7 @@
 ## 2379. insane ## adjective
 /ɪnˈseɪn/ ILL
 [C2]seriously mentally ill
-- a hospital for the criminally insane
+- a hospital for the `criminally` insane
 
 ## 2380. insecure ## adjective
 /ˌɪn.sɪˈkjʊr / NOT SAFE
@@ -13869,7 +13869,7 @@
 ## 2381. inseparable ## adjective
 /ɪnˈsep.ə.rə.bəl/ THINGS
 [C2]Two things that are inseparable are so closely connected that you cannot consider them separately.
-- Rossetti's work was inseparable from his life.
+- Rossetti's work was inseparable `from` his life.
 
 ## 2382. inseparable ## adjective
 /ɪnˈsep.ə.rə.bəl/ FRIENDS
@@ -13884,7 +13884,7 @@
 ## 2384. intact ## adjective
 /ɪnˈtækt/ 
 [C2]not damaged or destroyed
-- Many of the old buildings are still intact.
+- Many of the old buildings are `still` intact.
 
 ## 2385. intellectual ## adjective
 /ˌɪn.təlˈek.tʃu.əl/ INTERESTED IN IDEAS
@@ -13905,12 +13905,12 @@
 /ˈɪnt.ə.rɪm/ 
 [C2]temporary and intended to be used or accepted until something permanent exists
 - an interim solution
-- an interim government
+- an interim `government`
 
 ## 2389. intimate ## adjective
 /ˈɪn.tə.mət/ PRIVATE
 [C2]private and personal
-- intimate details of her family life
+- intimate `details` of her family life
 - intimate conversations
 
 ## 2390. intimate ## adjective
@@ -13937,7 +13937,7 @@
 ## 2394. intolerant ## adjective
 /ɪnˈtɑl.ə.rənt/ 
 [C2]refusing to accept any opinions, beliefs, customs, etc., that are different from your own
-- She can be very intolerant of other people's opinions.
+- She can be very intolerant `of` other people's opinions.
 
 ## 2395. intriguing ## adjective
 /ɪnˈtriːg.ɪŋ/ 
@@ -13947,7 +13947,7 @@
 ## 2396. intrinsic ## adjective
 /ɪnˈtrɪn.sɪk/ 
 [C2]An intrinsic quality or thing forms part of the basic character of something or someone.
-- Drama is an intrinsic part of the school curriculum.
+- Drama is an intrinsic `part` of the school curriculum.
 
 ## 2397. ironic ## adjective
 /ɑɪˈrɑn.ɪk/ 
@@ -13957,8 +13957,8 @@
 ## 2398. irrational ## adjective
 /ɪˈræʃ.ən.əl/ 
 [C2]Irrational feelings and actions are based on your emotions and not on good reasons.
-- irrational behavior
-- an irrational fear of flying
+- irrational `behavior`
+- an irrational `fear` of flying
 
 ## 2399. irresistible ## adjective
 /ˌɪr.ɪˈzɪs.tə.bəl/ ATTRACTIVE
@@ -13974,7 +13974,7 @@
 ## 2401. irreversible ## adjective
 /ˌɪr.ɪˈvɜr.sə.bəl/ 
 [C2]Something that is irreversible cannot be changed back to how it was before.
-- irreversible damage to the heart/lungs
+- irreversible `damage` to the heart/lungs
 - Technology has had an irreversible impact on society.
 
 ## 2402. irritable ## adjective
@@ -13990,8 +13990,8 @@
 ## 2404. juicy ## adjective
 /ˈdʒuː.si/ EXCITING
 [C2]very interesting, exciting, or shocking information
-- juicy gossip
-- We got all the juicy details about the ring, cake, bridesmaids, and every other aspect of the wedding.
+- juicy `gossip`
+- We got all the juicy `details` about the ring, cake, bridesmaids, and every other aspect of the wedding.
 
 ## 2405. justifiable ## adjective
 /ˈdʒʌs.tə.fɑɪ.ə.bəl/ 
@@ -14001,7 +14001,7 @@
 ## 2406. keen ## adjective
 /kiːn/ WANTING TO DO
 [C2]wanting to do something
-- The company is keen to attract new customers.
+- The company is keen `to` attract new customers.
 
 ## 2407. laid-back ## adjective
 /ˌleɪdˈbæk/ 
@@ -14050,7 +14050,7 @@
 ## 2415. lavish ## adjective
 /ˈlæv.ɪʃ/ 
 [C2]showing that a lot of money has been spent
-- a lavish meal/party
+- a lavish `meal/party`
 
 ## 2416. legitimate ## adjective
 /ləˈdʒɪt̬.ə.mət/ REASONABLE
@@ -14070,7 +14070,7 @@
 ## 2419. lethal ## adjective
 /ˈliː.θəl/ 
 [C2]able to cause death
-- a lethal injection/weapon
+- a lethal `injection/weapon`
 
 ## 2420. liable ## adjective
 /ˈlɑɪ.ə.bəl/ be liable to do sth
@@ -14080,7 +14080,7 @@
 ## 2421. lifelong ## adjective [always before noun]
 /ˌlɑɪfˈlɔːŋ/ 
 [C2]for all of your life
-- a lifelong friend/ambition/interest
+- a lifelong `friend/ambition/interest`
 
 ## 2422. light ## adjective
 /lɑɪt/ make light of sth
@@ -14090,7 +14090,7 @@
 ## 2423. literal ## adjective
 /ˈlɪt̬.ə.rəl/ 
 [C2]The literal meaning of a word or phrase is its real or original meaning.
-- the literal meaning/sense
+- the literal `meaning/sense`
 
 ## 2424. literate ## adjective
 /ˈlɪt̬.ə.rət/ 
@@ -14117,14 +14117,14 @@
 ## 2428. lucrative ## adjective
 /ˈluː.krət̬.ɪv/ 
 [C2]If something is lucrative, it results in a lot of money.
-- a lucrative contract/job/offer
+- a lucrative `contract/job/offer`
 
 ## 2429. magnetic ## adjective
 /mægˈnet̬.ɪk/ METAL
 [C2]able to attract and stick to iron or steel objects or cause this to happen
 - This note pad is magnetic, so you can stick it on your refrigerator.
 - a magnetic lock
-- a magnetic field
+- a magnetic `field`
 
 ## 2430. mainstream ## adjective
 /ˈmeɪn.striːm/ 
@@ -14139,7 +14139,7 @@
 ## 2432. marginal ## adjective
 /ˈmɑr.dʒɪ.nəl/ 
 [C2]small and not important
-- a marginal difference/effect/improvement
+- a marginal `difference/effect/improvement`
 
 ## 2433. materialist ## adjective
 /məˈtɪr.i.ə.lɪst/ 
@@ -14201,12 +14201,12 @@
 ## 2444. minute ## adjective
 /ˈmɪn.ɪt/ SMALL
 [C2]extremely small
-- a minute amount/quantity
+- a minute `amount/quantity`
 
 ## 2445. minute ## adjective
 /ˈmɪn.ɪt/ EXACT
 [C2]done in great detail
-- He explained everything in minute detail.
+- He explained everything `in` minute `detail`.
 
 ## 2446. monetary ## adjective
 /ˈmɑn.ə.ter.i/ 
@@ -14239,24 +14239,24 @@
 ## 2451. native ## adjective [always before noun]
 /ˈneɪ.t̬ɪv/ ANIMALS AND PLANTS
 [C2]Native animals or plants live or grow naturally in a place, and have not been brought from somewhere else.
-- a large bird native to North America
+- a large bird native `to` North America
 
 ## 2452. naval ## adjective [always before noun]
 /ˈneɪ.vəl/ 
 [C2]relating to the navy
-- a naval base/officer
+- a naval `base/officer`
 
 ## 2453. near ## adjective [always before noun]
 /nɪr/ CHARACTERISTIC
 [C2]similar in characteristics or quality
 - The nearest library is in the next town.
-- The park ranger said he thought this canyon in Georgia was the nearest thing to being out west for hundreds of miles.
+- The park ranger said he thought this canyon in Georgia was `the` nearest `thing to` being out west for hundreds of miles.
 - I couldn't get any cream cheese so I bought the nearest equivalent I could find.
 
 ## 2454. needless ## adjective
 /ˈniːd.ləs/ 
 [C2]not necessary
-- a needless expense
+- a needless `expense`
 - needless worrying
 
 ## 2455. negligent ## adjective
@@ -14267,7 +14267,7 @@
 ## 2456. negligible ## adjective
 /ˈneg.lɪ.dʒə.bəl/ 
 [C2]small and not important
-- a negligible effect/result
+- a negligible `effect/result`
 
 ## 2457. new ## adjective
 /nuː/ turn over a new leaf
@@ -14298,13 +14298,13 @@
 ## 2462. obscene ## adjective
 /əbˈsiːn/ TOO MUCH
 [C2]much too large or much more than is needed or necessary
-- obscene profits
+- obscene `profits`
 
 ## 2463. obscene ## adjective
 /əbˈsiːn/ OFFENSIVE
 [C2]offensive, rude, or disgusting according to accepted moral standards, often relating to sex in a way that is unpleasant or shocking
-- an obscene gesture
-- obscene language
+- an obscene `gesture`
+- obscene `language`
 
 ## 2464. observant ## adjective
 /əbˈzɜr.vənt/ 
@@ -14314,7 +14314,7 @@
 ## 2465. obsessive ## adjective
 /əbˈses.ɪv/ 
 [C2]thinking too much about something, or doing something too much
-- obsessive behavior
+- obsessive `behavior`
 - He's obsessive about his health.
 
 ## 2466. odd ## adjective
@@ -14337,7 +14337,7 @@
 ## 2469. official ## adjective
 /əˈfɪʃ.əl/ ARRANGED
 [C2]connected with or arranged by someone in a position of responsibility
-- an official visit
+- an official `visit`
 - An official announcement is expected this afternoon.
 
 ## 2470. official ## adjective
@@ -14349,12 +14349,12 @@
 ## 2471. official ## adjective
 /əˈfɪʃ.əl/ GIVEN EXPLANATION
 [C2]An official explanation or statement is one that is given, but which may not be true.
-- The official reason for the delay is bad weather.
+- The official `reason` for the delay is bad weather.
 
 ## 2472. ongoing ## adjective
 /ˈɔːnˌgoʊ.ɪŋ/ 
 [C2]still happening
-- an ongoing investigation/process/project
+- an ongoing `investigation/process/project`
 - No agreement has yet been reached and the negotiations are still ongoing.
 
 ## 2473. only ## adjective [always before noun]
@@ -14366,14 +14366,14 @@
 /ˈoʊ.pən/ HONEST
 [C2]An open person is honest and not trying to hide something.
 - He's quite open about his weaknesses.
-- I wish you'd be more open with me, and tell me what you're feeling.
+- I wish you'd be more open `with` me, and tell me what you're feeling.
 - She has an honest, open face.
 
 ## 2475. open ## adjective
 /ˈoʊ.pən/ NOT SECRET
 [C2]not secret
 - There has been open hostility between them ever since they had that argument last summer.
-- The candidate has promised an open debate on the issue.
+- The candidate has promised an open `debate` on the issue.
 
 ## 2476. open ## adjective
 /ˈoʊ.pən/ open to debate/question/criticism, etc.
@@ -14405,7 +14405,7 @@
 ## 2481. outgoing ## adjective
 /ˈɑʊtˌgoʊ.ɪŋ/ LEAVING A PLACE
 [C2]going to another place, or leaving a job
-- outgoing mail/calls/flights
+- outgoing `mail/calls/flights`
 - the outgoing chairman
 
 ## 2482. overnight ## adjective ; adverb
@@ -14432,12 +14432,12 @@
 /ˈpær.ə.mɑʊnt/ 
 [C2]more important than anything else
 - Safety, of course, is paramount.
-- Communication is of paramount importance.
+- Communication is `of` paramount `importance`.
 
 ## 2487. pathetic ## adjective
 /pəˈθet̬.ɪk/ BAD
 [C2]showing no skill, effort, or bravery
-- He made a rather pathetic attempt to apologize.
+- He made a rather pathetic `attempt` to apologize.
 - You're too frightened to speak to her? Come on, that's pathetic!
 - It was a pathetic performance and the team lost badly.
 
@@ -14445,7 +14445,7 @@
 /pəˈθet̬.ɪk/ SAD
 [C2]sad and weak
 - Four times the pathetic little creature fell to the ground.
-- The refugees were a pathetic sight - starving, frightened and cold.
+- The refugees were a pathetic `sight` - starving, frightened and cold.
 
 ## 2489. peculiar ## adjective
 /pɪˈkjuːl.jər/ peculiar to sb/sth
@@ -14481,12 +14481,12 @@
 ## 2495. philosophical ## adjective
 /ˌfɪl.əˈsɑf.ɪ.kəl/ PHILOSOPHY
 [C2]relating to the study or writing of philosophy
-- a philosophical problem/question
+- a philosophical `problem/question`
 
 ## 2496. philosophical ## adjective
 /ˌfɪl.əˈsɑf.ɪ.kəl/ CALM
 [C2]accepting unpleasant situations in a calm and wise way
-- She seems fairly philosophical about failing her exam.
+- She seems fairly philosophical `about` failing her exam.
 
 ## 2497. physical ## adjective
 /ˈfɪz.ɪ.kəl/ THINGS
@@ -14524,7 +14524,7 @@
 ## 2503. plausible ## adjective
 /ˈplɔː.zə.bəl/ 
 [C2]If something that someone says or writes is plausible, it could be true.
-- a plausible excuse/explanation
+- a plausible `excuse/explanation`
 
 ## 2504. plump ## adjective
 /plʌmp/ 
@@ -14539,7 +14539,7 @@
 ## 2506. popular ## adjective
 /ˈpɑp.jə.lər/ MANY PEOPLE
 [C2]A popular belief, opinion, etc. is one that many people have.
-- The allegations are false, contrary to popular belief.
+- The allegations are false, contrary to popular `belief`.
 
 ## 2507. positive ## adjective
 /ˈpɑz.ət̬.ɪv/ MEDICAL TEST
@@ -14559,7 +14559,7 @@
 ## 2510. pragmatic ## adjective
 /prægˈmæt̬.ɪk/ 
 [C2]doing things in a practical and realistic way and not using only ideas
-- a pragmatic approach to a problem
+- a pragmatic `approach` to a problem
 
 ## 2511. predominant ## adjective
 /prɪˈdɑm.ə.nənt/ 
@@ -14574,15 +14574,15 @@
 ## 2513. preventive ## adjective
 /prɪˈven.t̬ɪv/ 
 [C2]Preventive action is intended to stop something before it happens.
-- preventive measures
-- preventive medicine
+- preventive `measures`
+- preventive `medicine`
 
 ## 2514. prime ## adjective [before noun]
 /prɑɪm/ MAIN
 [C2]main or most important
 - the prime suspect in a murder investigation
 - a prime source of evidence
-- The president is a prime target for the assassin's bullet.
+- The president is a prime `target` for the assassin's bullet.
 
 ## 2515. prime ## adjective [before noun]
 /prɑɪm/ a/the prime example
@@ -14607,7 +14607,7 @@
 ## 2519. profound ## adjective
 /prəˈfɑʊnd/ FEELING
 [C2]If a feeling is profound, you feel it very strongly.
-- a profound sense of sadness
+- a profound `sense of` sadness
 
 ## 2520. profound ## adjective
 /prəˈfɑʊnd/ UNDERSTANDING
@@ -14659,7 +14659,7 @@
 ## 2529. questionable ## adjective
 /ˈkwes.tʃə.nə.bəl/ NOT CERTAIN
 [C2]possibly not true or correct
-- It is questionable whether that investment will pay off.
+- It is questionable `whether` that investment will pay off.
 
 ## 2530. questionable ## adjective
 /ˈkwes.tʃə.nə.bəl/ NOT HONEST
@@ -14685,22 +14685,22 @@
 ## 2534. rash ## adjective
 /ræʃ/ 
 [C2]done suddenly and without thinking carefully
-- a rash decision/promise
+- a rash `decision/promise`
 
 ## 2535. receptive ## adjective
 /rɪˈsep.tɪv/ 
 [C2]willing to think about and accept new ideas
-- She's generally very receptive to ideas and suggestions.
+- She's generally very receptive `to` ideas and suggestions.
 
 ## 2536. reckless ## adjective
 /ˈrek.ləs/ 
 [C2]doing something dangerous and not caring about what might happen
-- reckless driving
+- reckless `driving`
 
 ## 2537. recreational ## adjective
 /ˌrek.riˈeɪ.ʃən.əl/ 
 [C2]used for recreation
-- recreational activities/facilities
+- recreational `activities/facilities`
 
 ## 2538. refined ## adjective
 /rɪˈfɑɪnd/ POLITE
@@ -14731,12 +14731,12 @@
 ## 2543. renewable ## adjective
 /rɪˈnuː.ə.bəl/ OFFICIAL AGREEMENT
 [C2]A renewable official agreement is one that you can arrange to continue when the time limit is reached.
-- a 6-month renewable contract
+- a 6-month renewable `contract`
 
 ## 2544. renowned ## adjective
 /rɪˈnɑʊnd/ 
 [C2]famous
-- The Lake District is renowned for its beauty.
+- The Lake District is renowned `for` its beauty.
 
 ## 2545. repeated ## adjective [always before noun]
 /rɪˈpiː.tɪd/ 
@@ -14799,7 +14799,7 @@
 /rɑɪp/ ripe for sth
 [C2]developed enough to be ready for something
 - The country is ripe for change.
-- The time is ripe for investing in new technology.
+- `The time is` ripe for investing in new technology.
 
 ## 2557. rocky ## adjective
 /ˈrɑk.i/ DIFFICULT
@@ -14826,7 +14826,7 @@
 ## 2561. routine ## adjective
 /ruːˈtiːn/ BORING
 [C2]boring and regularly done
-- a routine check/task
+- a routine `check/task`
 - His job is very routine.
 
 ## 2562. ruthless ## adjective
@@ -14886,7 +14886,7 @@
 ## 2572. secure ## adjective
 /sɪˈkjʊr/ NOT FAIL
 [C2]not likely to fail
-- a secure investment
+- a secure `investment`
 
 ## 2573. sedentary ## adjective
 /ˈsed.ən.ter.i/ 
@@ -14921,7 +14921,7 @@
 ## 2579. senseless ## adjective
 /ˈsen.sləs/ 
 [C2]happening or done without a good reason
-- senseless violence
+- senseless `violence`
 
 ## 2580. sentimental ## adjective
 /ˌsent̬.əˈment̬.əl/ FEELING
@@ -14932,7 +14932,7 @@
 ## 2581. sentimental ## adjective
 /ˌsent̬.əˈment̬.əl/ VALUE
 [C2]related to feelings and memories and not related to how much money something costs
-- It wasn't an expensive ring but it had great sentimental value.
+- It wasn't an expensive ring but it had great sentimental ` value`.
 
 ## 2582. serene ## adjective
 /səˈriːn/ 
@@ -14948,8 +14948,8 @@
 ## 2584. set ## adjective
 /set/ 
 [C2]fixed and never changing
-- Most people work a set number of hours each week.
-- I don't have a set routine.
+- Most people work a set `number of hours` each week.
+- I don't have a set `routine`.
 
 ## 2585. shabby ## adjective
 /ˈʃæb.i/ UNFAIR
@@ -15006,7 +15006,7 @@
 /sɪk/ CRUEL
 [C2]cruel and unpleasant
 - He's got a sick mind.
-- a sick joke
+- a sick `joke`
 
 ## 2596. sick ## adjective
 /sɪk/ sick to your stomach
@@ -15024,7 +15024,7 @@
 /ˈskep.tɪ.kəl/ 
 [C2]doubting that something is true or useful
 - They’re very skeptical of his motives.
-- He was skeptical about hiring a consultant.
+- He was skeptical `about` hiring a consultant.
 
 ## 2599. slender ## adjective
 /ˈslen.dər/ 
@@ -15034,7 +15034,7 @@
 ## 2600. slim ## adjective
 /slɪm/ SMALL
 [C2]small and not as much as you would like
-- There's a slim chance he'll succeed.
+- There's a slim `chance` he'll succeed.
 
 ## 2601. slow ## adjective
 /sloʊ/ be slow to do sth; be slow in doing sth
@@ -15143,14 +15143,14 @@
 ## 2621. stiff ## adjective
 /stɪf/ SEVERE
 [C2]very severe or difficult
-- stiff competition/opposition
-- We need stiffer penalties for drunk driving.
+- stiff `competition/opposition`
+- We need stiffer `penalties` for drunk driving.
 
 ## 2622. still ## adjective
 /stɪl/ WATER/AIR
 [C2]Still water or air does not have waves or wind.
-- She dived into the still water of the lake.
-- The air was so still that not even the leaves on the trees were moving.
+- She dived into the still `water` of the lake.
+- The `air` was so still that not even the leaves on the trees were moving.
 
 ## 2623. straight ## adjective
 /streɪt/ keep a straight face
@@ -15165,7 +15165,7 @@
 ## 2625. strenuous ## adjective
 /ˈstren.ju.əs/ 
 [C2]using or needing a lot of effort
-- strenuous exercise
+- strenuous `exercise`
 
 ## 2626. strict ## adjective
 /strɪkt/ EXACT
@@ -15191,8 +15191,8 @@
 ## 2630. structural ## adjective
 /ˈstrʌk.tʃə.rəl/ 
 [C2]relating to the structure of something
-- structural damage
-- The last five years have seen big structural changes in the company.
+- structural `damage`
+- The last five years have seen big structural `changes` in the company.
 
 ## 2631. structured ## adjective
 /ˈstrʌk.tʃərd/ 
@@ -15223,7 +15223,7 @@
 /ˈsʌt̬.əl/ NOT OBVIOUS
 [C2]not obvious or easy to notice
 - a subtle change/difference
-- a subtle hint
+- a subtle `hint`
 
 ## 2637. subtle ## adjective
 /ˈsʌt̬.əl/ NOT STRONG
@@ -15248,13 +15248,13 @@
 ## 2641. superficial ## adjective
 /ˌsuː.pərˈfɪʃ.əl/ NOT COMPLETE
 [C2]not complete and involving only the most obvious things
-- superficial knowledge
-- a superficial resemblance
+- superficial `knowledge`
+- a superficial `resemblance`
 
 ## 2642. superfluous ## adjective
 /sʊˈpɜr.flu.əs/ 
 [C2]not needed, or more than is needed
-- superfluous details/information
+- superfluous `details/information`
 
 ## 2643. superior ## adjective
 /sʊˈpɪr.i.ər/ PERSONAL OPINION
@@ -15264,7 +15264,7 @@
 ## 2644. supplementary ## adjective
 /ˌsʌp.ləˈment.ə.ri/ 
 [C2]added to something
-- supplementary materials
+- supplementary `materials`
 
 ## 2645. sure ## adjective
 /ʃʊr/ sure enough
@@ -15274,7 +15274,7 @@
 ## 2646. swift ## adjective
 /swɪft/ 
 [C2]happening or moving quickly
-- a swift response
+- a swift `response`
 
 ## 2647. symbolic ## adjective
 /sɪmˈbɑl.ɪk/ 
@@ -15285,12 +15285,12 @@
 ## 2648. sympathetic ## adjective
 /ˌsɪm.pəˈθet̬.ɪk/ IDEAS
 [C2]agreeing with or supporting someone's ideas or actions
-- He was sympathetic to their views.
+- He was sympathetic `to` their views.
 
 ## 2649. synonymous ## adjective
 /səˈnɑn.ə.məs/ CONNECTED
 [C2]If one thing is synonymous with another, they are very closely connected with each other in people's minds.
-- It is a country where wealth is synonymous with corruption.
+- It is a country where wealth is synonymous `with` corruption.
 
 ## 2650. synonymous ## adjective
 /səˈnɑn.ə.məs/ WORD
@@ -15315,7 +15315,7 @@
 ## 2654. tangible ## adjective
 /ˈtæn.dʒə.bəl/ 
 [C2]Something which is tangible is real and can be seen, touched, or measured.
-- tangible benefits/evidence
+- tangible `benefits/evidence`
 
 ## 2655. tasteful ## adjective
 /ˈteɪst.fəl/ 
@@ -15330,7 +15330,7 @@
 ## 2657. tasteless ## adjective
 /ˈteɪst.ləs/ OFFENSIVE
 [C2]likely to upset or anger people
-- a tasteless joke
+- a tasteless `joke`
 
 ## 2658. tender ## adjective
 /ˈten.dər/ GENTLE
@@ -15365,7 +15365,7 @@
 ## 2664. thin ## adjective
 /θɪn/ wear thin
 [C2]If a feeling or explanation starts to wear thin, it becomes weaker or harder to accept.
-- I've warned you several times about being late and my patience is wearing thin.
+- I've warned you several times about being late and my `patience` is wearing thin.
 
 ## 2665. thin ## adjective
 /θɪn/ vanish into thin air
@@ -15391,7 +15391,7 @@
 /ˈtɑɪd.i/ 
 [C2]neat, with everything ordered and arranged in the right place, or liking to keep things like this
 - They live in a tidy three-bedroom apartment downtown.
-- Everything is very neat and tidy.
+- Everything is very `neat and` tidy.
 
 ## 2670. tight ## adjective
 /tɑɪt/ STRAIGHT
@@ -15401,7 +15401,7 @@
 ## 2671. tight ## adjective
 /tɑɪt/ a tight corner
 [C2]a difficult situation
-- She had been in a tight corner before and had always managed to cope.
+- She had been `in` a tight corner before and had always managed to cope.
 
 ## 2672. timid ## adjective
 /ˈtɪm.ɪd/ 
@@ -15421,14 +15421,14 @@
 ## 2675. totalitarian ## adjective
 /toʊˌtæl.əˈter.i.ən/ 
 [C2]belonging to a political system in which the people in power have complete control and do not allow anyone to oppose them
-- The people overthrew the totalitarian regime.
+- The people overthrew the totalitarian `regime`.
 
 ## 2676. tough ## adjective
 /tʌf/ SEVERE
 [C2]Tough rules, standards, etc., are severe.
 - Tough new safety standards were introduced for cars.
 - After some tough bargaining, we finally agreed to a deal.
-- I think it's time the police get tougher with people who text while driving.
+- I think it's time the police `get` tougher `with` people who text while driving.
 
 ## 2677. tough ## adjective
 /tʌf/ STRONG
@@ -15439,7 +15439,7 @@
 ## 2678. tough ## adjective
 /tʌf/ UNFAIR
 [C2]unfair or unlucky
-- It can be tough on kids when the family moves to a new home in a different neighborhood.
+- It can be tough `on` kids when the family moves to a new home in a different neighborhood.
 
 ## 2679. traumatic ## adjective
 /trɔːˈmæt̬.ɪk/ 
@@ -15450,7 +15450,7 @@
 /ˈtrɑɪ.bəl/ 
 [C2]relating to a tribe
 - tribal dress/leaders
-- The fierce tribal loyalty among soccer supporters leads to violence between opposing fans.
+- The fierce tribal `loyalty` among soccer supporters leads to violence between opposing fans.
 
 ## 2681. troublesome ## adjective
 /ˈtrʌb.əl.səm/ 
@@ -15461,8 +15461,8 @@
 /truː/ SINCERE
 [C2]sincere or loyal, and likely to continue to be so even in a difficult situation
 - I am lucky to have true friends.
-- She is one politician who remains true to her principles.
-- He said he'd repay the money the next day, and true to his word, he gave it to me the following morning.
+- She is one politician who remains true `to` her principles.
+- He said he'd repay the money the next day, and true `to` his `word`, he gave it to me the following morning.
 
 ## 2683. turbulent ## adjective
 /ˈtɜr.bjə.lənt/ 
@@ -15473,12 +15473,12 @@
 ## 2684. ugly ## adjective
 /ˈʌg.li/ SITUATION
 [C2]An ugly situation is very unpleasant, usually because it involves violence.
-- There were ugly scenes outside the stadium.
+- There were ugly `scenes` outside the stadium.
 
 ## 2685. unaffected ## adjective
 /ˌʌn.əˈfek.tɪd/ 
 [C2]not changed by something
-- Smaller colleges will be unaffected by the new regulations.
+- Smaller colleges will be unaffected `by` the new regulations.
 
 ## 2686. unanimous ## adjective
 /jʊˈnæn.ə.məs/ 
@@ -15514,7 +15514,7 @@
 ## 2692. unconditional ## adjective
 /ʌn.kənˈdɪʃ.ən.əl/ 
 [C2]done or given without any limits and without asking for anything for yourself
-- unconditional love
+- unconditional `love`
 
 ## 2693. unconscious ## adjective
 /ʌnˈkɑn.tʃəs/ NOT AWARE
@@ -15529,7 +15529,7 @@
 ## 2695. underlying ## adjective [always before noun]
 /ˌʌn.dərˈlɑɪ.ɪŋ/ 
 [C2]An underlying reason or problem is the real reason or problem, although it is not obvious.
-- We need to look at the underlying reasons for ill health.
+- We need to look at the underlying `reasons` for ill health.
 
 ## 2696. underway ## adjective
 /ˌʌn.dərˈweɪ/ HAPPENING
@@ -15579,7 +15579,7 @@
 ## 2705. unfavorable ## adjective
 /ʌnˈfeɪ.vər.ə.bəl/ NOT GOOD
 [C2]not good and likely to cause problems
-- unfavorable weather conditions
+- unfavorable weather `conditions`
 
 ## 2706. unimaginable ## adjective
 /ˌʌn.ɪˈmædʒ.ə.nə.bəl/ 
@@ -15664,17 +15664,17 @@
 ## 2722. verbal ## adjective
 /ˈvɜr.bəl/ SPOKEN
 [C2]spoken and not written
-- a verbal promise/agreement
+- a verbal `promise/agreement`
 
 ## 2723. versatile ## adjective
 /ˈvɜːr.sə.təl/ PERSON
 [C2]having many different skills
-- a versatile player/performer
+- a versatile `player/performer`
 
 ## 2724. versatile ## adjective
 /ˈvɜːr.sə.təl/ THING
 [C2]useful for doing a lot of different things
-- a versatile tool
+- a versatile `tool`
 
 ## 2725. very ## adjective [always before noun]
 /ˈver.i/ 
@@ -15686,7 +15686,7 @@
 ## 2726. viable ## adjective
 /ˈvɑɪ.ə.bəl/ 
 [C2]effective and able to be successful
-- a viable alternative to nuclear power
+- a viable `alternative` to nuclear power
 - an economically viable plan
 
 ## 2727. vicious ## adjective
@@ -15698,7 +15698,7 @@
 ## 2728. vicious ## adjective
 /ˈvɪʃ.əs/ UPSETTING
 [C2]intended to upset someone
-- a vicious rumor
+- a vicious `rumor`
 
 ## 2729. vicious ## adjective
 /ˈvɪʃ.əs/ a vicious circle/cycle
@@ -15708,7 +15708,7 @@
 ## 2730. violent ## adjective
 /ˈvɑɪ.ə.lənt/ DAMAGE
 [C2]sudden and causing damage
-- a violent explosion/storm
+- a violent `explosion/storm`
 
 ## 2731. virgin ## adjective
 /ˈvɜr.dʒɪn/ 
@@ -15725,12 +15725,12 @@
 [C2]easy to hurt or attack physically or emotionally
 - She was a vulnerable sixteen-year-old.
 - The troops are in a vulnerable position.
-- He's more vulnerable to infection because of his injuries.
+- He's more vulnerable `to` infection because of his injuries.
 
 ## 2734. wary ## adjective
 /ˈwer.i/ 
 [C2]If you are wary of someone or something, you do not trust them completely.
-- She's still wary of strangers.
+- She's still wary `of` strangers.
 
 ## 2735. weary ## adjective
 /ˈwɪr.i/ TIRED
@@ -15740,7 +15740,7 @@
 ## 2736. weary ## adjective
 /ˈwɪr.i/ weary of sth/sb
 [C2]bored with something or someone
-- She grew weary of the children and their games.
+- She `grew` weary `of` the children and their games.
 
 ## 2737. white ## adjective
 /wɑɪt/ FACE
@@ -15827,7 +15827,7 @@
 ## 2753. wretched ## adjective
 /ˈretʃ.ɪd/ BAD
 [C2]very bad or of poor quality
-- The refugees were living in wretched conditions.
+- The refugees were living in wretched `conditions`.
 
 ## 2754. wrinkled ## adjective
 /ˈrɪŋ.kəld/ 

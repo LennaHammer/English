@@ -3,7 +3,7 @@
 [A1]used before a noun to refer to a single thing or person but not a particular thing or person or not one that you have referred to before
 - She's got a boyfriend.
 - Someone left an umbrella here yesterday.
-- Is he a friend of yours?
+- Is he a friend `of` yours?
 
 ## 2. a ## determiner
 /eɪ/ ANY/EVERY
@@ -27,7 +27,7 @@
 ## 5. all ## determiner ; pronoun
 /ɔːl/ EVERY ONE
 [A1]every person or thing in a group
-- I've seen all of his movies.
+- I've seen all `of` his movies.
 - All of us had left by midnight.
 - She's got four children, all under the age of five.
 - "Which of his books did you like best?" "I loved them all."
@@ -50,44 +50,44 @@
 ## 8. any ## determiner ; pronoun
 /ˈen.i/ SOME
 [A1]used in questions and negatives to mean some
-- Is there any more soup? "No, I'm afraid there isn't any left."
-- I haven't seen any of his films.
+- Is there any `more` soup? "No, I'm afraid there isn't any left."
+- I haven't seen any `of` his films.
 - I asked Andrew for some change but he hasn't got any.
 
 ## 9. any ## determiner ; pronoun
 /ˈen.i/ NOT IMPORTANT WHICH
 [A1]one of or each of a particular kind of person or thing when it is not important which
 - Which of these cakes may I eat? "Any."
-- Any of you should be able to answer this question.
+- Any `of` you should be able to answer this question.
 - Any advice that you can give me would be greatly appreciated.
-- We should hear from him any minute/day/time now.
-- There were a lot of computers at the store, any (one) of which would have been fine for me.
+- We should hear from him any `minute/day/time now`.
+- There were a lot of computers at the store, any `(one) of which` would have been fine for me.
 
 ## 10. both ## determiner ; pronoun
 /boʊθ/ 
 [A1]used to talk about two people or things
 - Both my parents are teachers.
 - We both had our hair cut today.
-- Both men and women have complained about the advertisement.
-- Both Mike and Jim are redheads/Mike and Jim are both redheads.
-- Are both of us invited, or just you?
-- The problem with both of these proposals is that they are so impractical.
-- I loved them both/I loved both of them.
-- They have two grown children, both of whom live in California.
-- I think it's important to listen to both sides of the argument.
+- Both men `and` women have complained about the advertisement.
+- Both Mike `and` Jim are redheads/Mike and Jim `are` both redheads.
+- Are both `of us` invited, or just you?
+- The problem with both `of these` proposals is that they are so impractical.
+- I loved them both/I loved both `of them`.
+- They have two grown children, both `of whom` live in California.
+- I think it's important to listen to both `sides` of the argument.
 
 ## 11. each ## determiner
 /iːtʃ/ 
 [A1]referring to every one in a group of two or more things or people when they are considered separately
 - Each apartment has its own balcony.
-- Each of the companies supports a local charity.
+- Each `of` the companies supports a local charity.
 
 ## 12. every ## determiner
 /ˈev.ri/ EACH
 [A1]each one of a group of people or things
 - Every time I go to New Jersey I get caught in a traffic jam.
 - You get a free free pen with every purchase.
-- She ate up every (single)bit of her fish.
+- She ate up every `(single)``bit` of her fish.
 
 ## 13. every ## determiner
 /ˈev.ri/ HOW OFTEN
@@ -95,8 +95,8 @@
 - He goes to Ireland every summer.
 - Computers can perform millions of calculations every second.
 - Every four minutes a car is stolen in this city.
-- Every few miles we passed a disabled car on the side of the road.
-- The conference takes place every other year.
+- Every `few` miles we passed a disabled car on the side of the road.
+- The conference takes place every `other` year.
 
 ## 14. her ## determiner
 /hɜr/ 
@@ -137,10 +137,10 @@
 - We've known them for many years.
 - I don't have many clothes.
 - Were there many people at the party?
-- Not many people have heard of him.
+- `Not` many people have heard of him.
 - Many people would disagree with your ideas.
-- I've met him so many times and I still can't remember his name!
-- There are too many people applying for too few jobs.
+- I've met him `so` many times and I still can't remember his name!
+- There are `too` many people applying for too few jobs.
 
 ## 20. many ## determiner ; pronoun
 /ˈmen.i/ how many
@@ -155,7 +155,7 @@
 - Would you like some more food?
 - There isn't enough milk - I'll have to buy some more.
 - I need a bit more time.
-- The doctors can't cope with any more patients.
+- The doctors can't cope with `any` more patients.
 
 ## 22. more ## determiner ; pronoun
 /mɔːr/ GREATER AMOUNT
@@ -167,8 +167,8 @@
 /mʌtʃ/ QUESTION
 [A1]In questions, "much" is used to ask about the amount of something.
 - Was there much food there?
-- How much money will I need for the taxi?
-- How much do these shoes cost?
+- `How` much money will I need for the taxi?
+- `How` much do these shoes cost?
 
 ## 24. my ## determiner
 /maɪ/ 
@@ -191,7 +191,7 @@
 /ˈʌð.ər/ ADDITIONAL
 [A1]as well as the person or thing already mentioned
 - There is only one other person who could help us.
-- Are there any other people we should tell?
+- Are there `any` other people we should tell?
 - The product has many other features.
 - There is no other work available at this time.
 
@@ -207,7 +207,7 @@
 [A1]immediately after the first and before any others
 - Is Megan her first or second child?
 - It's the second time I've had the flu this winter.
-- Jones took second place in the long jump.
+- Jones took second `place` in the long jump.
 - I was second in line.
 
 ## 29. some ## determiner
@@ -217,7 +217,7 @@
 - Here's some news you might be interested in.
 - Some stories he wrote were made into movies.
 - Could you give me some idea of when the building work will finish?
-- I've got to do some more work before I can go out.
+- I've got to do some `more` work before I can go out.
 
 ## 30. that ## determiner
 /ðæt/ CAN BE SEEN
@@ -303,7 +303,7 @@
 [A1]used to ask or talk about a choice between two or more things
 - Which jacket do you prefer?
 - Which time is better for you - 12:15 or 12:45?
-- I don't know which one to choose.
+- I don't know which `one` to choose.
 
 ## 43. your ## determiner
 /jʊr / PERSON/PEOPLE ADDRESSED
@@ -379,37 +379,37 @@
 [A2]one more person or thing, or an additional amount
 - I'm going to have another piece of cake.
 - "Would you get me a bar of chocolate from the kitchen?" "Another one?"
-- For another $30, you can buy the model with remote control.
+- `For` another $30, you can buy the model with remote control.
 - Just think, in another three months it'll be summer again.
 
 ## 55. another ## determiner ; pronoun
 /əˈnʌð.ər/ DIFFERENT
 [A2]a different person or thing of the same type
-- She's finished with that boyfriend and found herself another (one).
-- Do you want to exchange this toaster for another (one) or do you want your money back?
+- She's finished with that boyfriend and found herself another `(one)`.
+- Do you want to exchange this toaster for another `(one)` or do you want your money back?
 
 ## 56. enough ## determiner ; pronoun
 /ɪˈnʌf/ NECESSARY AMOUNT
 [A2]as much as is necessary
-- Is there enough cake for everyone?
-- Have you had enough to eat?
+- Is there enough cake `for` everyone?
+- Have you had enough `to` eat?
 - There are 25 textbooks for the class - that should be enough.
-- I know enough about art to realize that this painting is special.
+- I know enough about art `to` realize that this painting is special.
 
 ## 57. few ## determiner ; adjective ; pronoun
 /fjuː/ a few
 [A2]some, or a small number of
-- I'll be ready in a few minutes.
-- I need to pick up a few things in town.
-- We've been having a few problems with the new computer.
+- I'll be ready in a few `minutes`.
+- I need to pick up a few `things` in town.
+- We've been having a few `problems` with the new computer.
 - "How many potatoes do you want?" - "Oh, just a few, please."
-- I've met a few of his friends.
+- I've met a few `of` his friends.
 
 ## 58. half ## noun ; pronoun ; determiner
 /hæf/ PART
 [A2]one of two equal parts of something
-- Rice is eaten by half of the world's population.
-- It'll take half an hour/a half hour to get there.
+- Rice is eaten by half `of` the world's population.
+- It'll take half `an hour`/`a` half `hour` to get there.
 - Jenny lived in Beijing for a year and a half.
 - He cut up the apple and gave me half.
 
@@ -437,7 +437,7 @@
 /les/ 
 [A2]not as much
 - We’ve got to spend less money.
-- I drink less coffee than I used to.
+- I drink less coffee `than` I used to.
 
 ## 63. more ## determiner ; pronoun
 /mɔːr/ any more
@@ -455,7 +455,7 @@
 [A2]In negative sentences, "much" is used to say that there is not a large amount of something.
 - She doesn't earn much money.
 - Peter didn't say much in the meeting.
-- "Is there any wine left?" "Not much."
+- "Is there any wine left?" "`Not` much."
 
 ## 66. much ## determiner ; pronoun
 /mʌtʃ/ too much/so much
@@ -482,8 +482,8 @@
 /wʌn/ PARTICULAR PERSON/THING
 [A2]used to refer to a particular person or thing in a group
 - One drawback is the cost of housing in the area.
-- One of our daughters just got married.
-- Our organization is just one of many charities that are providing famine relief in the region.
+- One `of` our daughters just got married.
+- Our organization is just one `of many` charities that are providing famine relief in the region.
 
 ## 71. one ## determiner
 /wʌn/ one day
@@ -494,14 +494,14 @@
 /ˈʌð.ər/ PART OF SET
 [A2]used to talk about the remaining members of a group or items in a set
 - Mario and Anna sat down to watch the other dancers.
-- I've found one earring - do you know where the other one is?
+- I've found one earring - do you know where `the` other `one` is?
 
 ## 73. several ## determiner ; pronoun
 /ˈsev.rəl/ 
 [A2]some, but not a lot
 - I've seen "Gone with the Wind" several times.
 - Several people have complained about the plan.
-- Several of my friends are learning English at language schools in Seattle.
+- Several `of` my friends are learning English at language schools in Seattle.
 
 ## 74. such ## determiner
 /sʌtʃ/ such a(n)
@@ -510,7 +510,7 @@
 - She's such a nice person.
 - It seems like such a long way to drive for just one day.
 - It was such a pity they missed the show.
-- It was such a large fire that over 100 firefighters were on the scene.
+- It was such a large fire `that` over 100 firefighters were on the scene.
 
 ## 75. such ## determiner
 /sʌtʃ/ such as
@@ -579,9 +579,9 @@
 ## 86. dozen ## noun [C] ; determiner
 /ˈdʌz.ən/ 
 [B1]twelve
-- a dozen eggs
+- a dozen `eggs`
 - This recipe makes three dozen cookies.
-- Could you get me half a dozen eggs when you go to the store?
+- Could you get me `half a` dozen eggs when you go to the store?
 
 ## 87. either ## pronoun ; determiner
 /ˈiː.ðər/ ONE OF TWO
@@ -605,9 +605,9 @@
 [B1]a small number, not many or not enough
 - He is among the few people I can trust.
 - Very few people can afford to pay those prices.
-- Few of the children can read or write yet.
+- Few `of` the children can read or write yet.
 - We get few complaints.
-- According to the survey, as few as 10% of us are happy in our jobs.
+- According to the survey, `as` few `as` 10% of us are happy in our jobs.
 
 ## 91. half ## noun ; pronoun ; determiner
 /hæf/ break/cut, etc. sth in half
@@ -645,7 +645,7 @@
 ## 97. no ## determiner
 /noʊ/ no way
 [B1]used to tell someone that something is impossible
-- I'm sorry but there's no way we can help you.
+- I'm sorry but `there's` no way we can help you.
 - No way will she agree to you leaving early.
 
 ## 98. one ## determiner
@@ -680,16 +680,16 @@
 /ˈsek.ənd/ ANOTHER
 [B1]another
 - She is often described as the second Marilyn Monroe.
-- You really ought to make the most of the opportunity, because you won't get a second chance.
-- Richard and Liz have a second home in Florida.
-- Pay attention to what she's saying because she won't explain it a second time.
+- You really ought to make the most of the opportunity, because you won't get a second `chance`.
+- Richard and Liz have a second `home` in Florida.
+- Pay attention to what she's saying because she won't explain it a second `time`.
 
 ## 104. second ## ordinal number ; determiner
 /ˈsek.ənd/ ONLY ONE BETTER/BIGGER, ETC.
 [B1]Second is used to show that only one thing is better, bigger, etc. than the thing mentioned.
-- St. Petersburg is Russia's second (biggest/largest) city.
-- Iraq's oil reserves are second only to Saudi Arabia's.
-- Services in this hospital are second to none.
+- St. Petersburg is Russia's second `(biggest/largest)` city.
+- Iraq's oil reserves are second `only to` Saudi Arabia's.
+- Services in this hospital are second `to none`.
 
 ## 105. that ## determiner
 /ðæt/ that sort of thing
@@ -756,26 +756,26 @@
 ## 116. enough ## determiner ; pronoun
 /ɪˈnʌf/ NEGATIVE COMMENT
 [B2]as much as or more than is wanted
-- I've got enough work to do at the moment, without being given any more.
-- Half an hour in his company is quite enough!
-- Stop. You've made enough of a mess already.
-- You've drunk more than enough juice already.
-- I've had enough of your excuses.
+- I've got enough work `to` do at the moment, without being given any more.
+- Half an hour in his company is `quite` enough!
+- Stop. You've made enough `of a` mess already.
+- You've drunk `more than` enough juice already.
+- I've `had` enough `of` your excuses.
 
 ## 117. every ## determiner
 /ˈev.ri/ POSSIBLE
 [B2]as much as is possible
-- I'd like to wish you every success in your new job.
-- She has every reason to be unhappy after losing her job and her home.
-- You had every opportunity to make a complaint.
-- Every effort is being made to minimize civilian casualties.
-- She has every right to be proud of her tremendous achievements.
+- I'd like to wish you every `success` in your new job.
+- She has every `reason` to be unhappy after losing her job and her home.
+- You had every `opportunity` to make a complaint.
+- Every `effort` is being made to minimize civilian casualties.
+- She has every `right` to be proud of her tremendous achievements.
 
 ## 118. half ## noun ; pronoun ; determiner
 /hæf/ A LOT
 [B2]a lot
 - She invited a lot of people to the party but half of them didn't show up.
-- I don't even know where she is half (of) the time.
+- I don't even know where she is half `(of) the time`.
 
 ## 119. half ## noun ; pronoun ; determiner
 /hæf/ not half as good/bad/exciting, etc.
@@ -805,7 +805,7 @@
 /ˈniː.ðər/ 
 [B2]not either of two people or things
 - Luckily, neither child was hurt in the accident.
-- Neither of us had ever been to London before.
+- Neither `of` us had ever been to London before.
 - They gave us two keys, but neither worked.
 - "Which one would you choose?" "Neither."
 
@@ -813,7 +813,7 @@
 /noʊ/ no wonder
 [B2]it is not surprising
 - No wonder the children are excited - this is the first time they've been abroad.
-- "If brutal killers like these two are at work, it is no wonder that so many people have fled," he said.
+- "If brutal killers like these two are at work, `it is` no wonder `that` so many people have fled," he said.
 
 ## 125. no ## determiner
 /noʊ/ no need
@@ -855,15 +855,15 @@
 /wʌn/ SINGLE
 [B2]a single thing
 - Do you think five of us will manage to squeeze into one car?
-- There's too much data to fit onto just one disk.
-- I think we should paint the bedroom all one color.
+- There's too much data to fit onto `just` one disk.
+- I think we should paint the bedroom `all` one color.
 
 ## 132. one ## determiner
 /wʌn/ ONLY
 [B2]used when saying there is no other person or thing
-- He's the one person you can rely on in an emergency.
-- This may be your one and only opportunity to meet her.
-- My final guest on tonight's show needs no introduction. Please welcome the one and only Michael Jordan!
+- He's `the` one person you can rely on in an emergency.
+- This may be your one `and only` opportunity to meet her.
+- My final guest on tonight's show needs no introduction. Please welcome `the` one `and only` Michael Jordan!
 
 ## 133. one ## determiner
 /wʌn/ one way or another
@@ -897,12 +897,12 @@
 /sʌtʃ/ REFER TO PERSON/THING
 [B2]used to refer to something or someone that you were just talking about, or something or someone of that type
 - It's difficult to know how to treat such cases.
-- I tried to tell her in such a way that she wouldn't be upset.
+- I tried to tell her in such `a way that` she wouldn't be upset.
 
 ## 139. such ## determiner
 /sʌtʃ/ no such thing
 [B2]used to emphasize that something does not exist
-- There’s no such thing as a perfectly safe nuclear power plant.
+- `There’s` no such thing `as` a perfectly safe nuclear power plant.
 
 ## 140. the ## determiner
 /ðiː/ TIME
@@ -967,12 +967,12 @@
 ## 151. dozen ## noun [C] ; determiner
 /ˈdʌz.ən/ dozens
 [C1]a lot
-- She's got dozens of friends.
+- She's got dozens `of` friends.
 
 ## 152. enough ## determiner ; pronoun
 /ɪˈnʌf/ have had enough
 [C1]to want something to stop because it is annoying you
-- I've had enough of your excuses.
+- I've had enough `of` your excuses.
 
 ## 153. every ## determiner
 /ˈev.ri/ every now and then
@@ -987,7 +987,7 @@
 ## 155. much ## determiner ; pronoun
 /mʌtʃ/ A LOT OF
 [C1]a lot of
-- Much of the evidence was unreliable.
+- Much `of` the evidence was unreliable.
 - Much work remains to be done.
 
 ## 156. much ## determiner ; pronoun
@@ -1009,8 +1009,8 @@
 ## 159. other ## determiner
 /ˈʌð.ər/ or other
 [C1]used when you cannot or do not want to be exact about the information you are giving
-- The event was held in some park or other.
-- We'll find someone or other to help us.
+- The event was held in `some` park or other.
+- We'll find `someone` or other to help us.
 
 ## 160. other ## determiner
 /ˈʌð.ər/ other than

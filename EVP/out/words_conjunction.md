@@ -22,15 +22,15 @@
 [A1]used to give a reason for something
 - We can't go to Julia's party because we're going away that weekend.
 - "Why did you do it?" "Because Carlos told me to."
-- Just because I'm lending you my dress for tonight doesn't mean you can borrow it whenever you want to.
+- `Just` because I'm lending you my dress for tonight doesn't mean you can borrow it whenever you want to.
 
 ## 5. but ## conjunction
 /bʌt/ 
 [A1]used to introduce an added statement, usually something that is different from what you have said before
 - You can invite Keith to the party, but please don't ask that friend of his.
 - She's very hard-working but not very imaginative.
-- She's not only a painter but also a writer.
-- I think it's true, but then, I'm no expert.
+- She's `not only` a painter but `also` a writer.
+- I think it's true, but `then`, I'm no expert.
 
 ## 6. or ## conjunction
 /ɔːr/ POSSIBILITIES
@@ -74,14 +74,14 @@
 [A2]not including a particular fact, thing or person
 - The museum is open daily except Mondays.
 - It's cool and quiet everywhere except in the kitchen.
-- Everyone was there except for Sally.
+- Everyone was there except `for` Sally.
 
 ## 12. if ## conjunction
 /ɪf/ DEPENDING
 [A2]used to say that something will happen only after something else happens or is true
 - We'll have the party on the deck if the weather's good.
 - If anyone calls while I'm out, please take a message.
-- We’ll deal with that problem if and when it arises.
+- We’ll deal with that problem if `and when` it arises.
 
 ## 13. if ## conjunction
 /ɪf/ if not
@@ -126,16 +126,16 @@
 ## 19. than ## preposition ; conjunction
 /ðæn/ WITH MORE/LESS
 [A2]used with "more" or "less" to compare numbers or amounts
-- I spent more than I intended to.
-- It cost less than I expected.
+- I spent `more` than I intended to.
+- It cost `less` than I expected.
 
 ## 20. that ## conjunction
 /ðæt/ INTRODUCE PART
 [A2]used after some verbs, nouns, and adjectives to introduce a new part of a sentence
 - She said (that) she'd collect it for me after work.
 - Is it true (that) she's gone back to teaching?
-- We'll be there at about 7.30, provided/providing (that) there's a suitable train.
-- It was so dark (that) I couldn't see anything.
+- We'll be there at about 7.30, `provided/providing` (that) there's a suitable train.
+- It was `so` dark (that) I couldn't see anything.
 
 ## 21. when ## conjunction
 /wen/ AT WHAT TIME
@@ -162,8 +162,8 @@
 ## 24. after ## conjunction
 /ˈæf.tər/ 
 [B1]at a later time than something else happens
-- Soon/shortly after we got on the highway, the car started to make a strange noise.
-- I went to the post office right after I left you.
+- `Soon/shortly` after we got on the highway, the car started to make a strange noise.
+- I went to the post office `right` after I left you.
 
 ## 25. although ## conjunction
 /ɔːlˈðoʊ/ BUT
@@ -197,9 +197,9 @@
 ## 30. as ## conjunction
 /æz/ LIKE
 [B1]in the same way
-- He got divorced, (just) as his parents had done years before.
+- He got divorced, `(just)` as his parents had done years before.
 - This year, as in previous years, tickets sold very quickly.
-- As with his earlier movies, the special effects in his latest movie are brilliant.
+- As `with` his earlier movies, the special effects in his latest movie are brilliant.
 
 ## 31. before ## conjunction
 /bəˈfɔːr/ TO AVOID SOMETHING
@@ -261,10 +261,10 @@
 /lɑɪk/ 
 [B1]as if
 - It looks like rain.
-- It looks like I'll be home late tonight.
-- It sounds to me like you ought to change jobs.
-- You look like you've you need some sleep.
-- Sometimes it seems like I'll never be finished!
+- It `looks` like I'll be home late tonight.
+- It `sounds` to me like you ought to change jobs.
+- You `look` like you've you need some sleep.
+- Sometimes it `seems` like I'll never be finished!
 
 ## 42. or ## conjunction
 /ɔːr/ WARNING
@@ -303,8 +303,8 @@
 /soʊ/ so (that)
 [B1]in order to make something happen or be possible
 - He put his glasses on so that he could see the television better.
-- I deliberately didn't have lunch so (that) I would be hungry tonight.
-- Leave the keys out so (that) I remember to take them with me.
+- I deliberately didn't have lunch so `(that)` I would be hungry tonight.
+- Leave the keys out so `(that)` I remember to take them with me.
 
 ## 49. though ## conjunction
 /ðoʊ/ DESPITE
@@ -358,12 +358,12 @@
 - I wasn't sure whether you'd like it.
 - She asked me whether I was interested in working for her.
 - I doubt whether it'll work.
-- It all depends on whether or not she has the time.
+- It all depends on whether `or not` she has the time.
 
 ## 58. whether ## conjunction
 /ˈweð.ər/ whether... or
 [B1]used to talk about a choice between two or more possibilities
-- I'm going, whether she likes it or not.
+- I'm going, whether she likes it or `not`.
 - Someone has to tell her, whether it's you or me.
 - Let's face it - you're going to be late whether you go by bus or train.
 
@@ -463,7 +463,7 @@
 ## 75. though ## conjunction
 /ðoʊ/ as though
 [B2]used to describe how a situation seems to be
-- It looks as though they're not going.
+- It `looks` as though they're not going.
 
 ## 76. though ## conjunction
 /ðoʊ/ BUT
@@ -473,7 +473,7 @@
 ## 77. when ## conjunction
 /wen/ ALTHOUGH
 [B2]used to say something that is surprising after what has already been said
-- He says he doesn't have any money when in fact he has thousands of dollars in his account.
+- He says he doesn't have any money when `in fact` he has thousands of dollars in his account.
 - I don't understand how he can say that everything's fine when it's so obvious that it's not.
 - Why is she training to be a teacher when she doesn't even like children?
 - How can you say you don't like something when you've never even tried it!
@@ -514,8 +514,8 @@
 ## 84. or ## conjunction
 /ɔːr/ or other
 [C1]used when you cannot or do not want to be exact about the information you are giving
-- The event was held in some park or other.
-- We'll find someone or other to help us.
+- The event was held in `some` park or other.
+- We'll find `someone` or other to help us.
 
 ## 85. albeit ## conjunction
 /ɔːlˈbiː.ɪt/ 

@@ -45,7 +45,7 @@
 /heˈloʊ/ GREETING
 [A1]used to greet someone
 - Hello, Paul. I haven't seen you for a while!
-- I just thought I'd stop in and say hello.
+- I just thought I'd stop in and `say` hello.
 
 ## 10. hello ## exclamation
 /heˈloʊ/ ON PHONE
@@ -84,15 +84,15 @@
 /ˈθæŋ.kˌjuː/ GRATEFUL
 [A1]used to tell someone that you are grateful because they have given you something, done something for you or made a polite remark
 - That was a delicious lunch, thank you.
-- "Here's your coffee." "Thank you very much."
-- Thank you for my lovely birthday present.
+- "Here's your coffee." "Thank you `very much`."
+- Thank you `for` my lovely birthday present.
 - "You look very nice in that dress." "Thank you."
 
 ## 16. thanks ## exclamation
 /θæŋks/ THANK YOU
 [A1]thank you
-- Thanks for the advice.
-- Can you pass me that book? Thanks very much.
+- Thanks `for` the advice.
+- Can you pass me that book? Thanks `very much`.
 
 ## 17. well ## exclamation
 /wel/ EXPRESSING DOUBT
@@ -118,7 +118,7 @@
 /kənˌgrætʃ.ʊˈleɪ.ʃənz/ 
 [A2]something that you say when you want to congratulate someone
 - I passed my driving test yesterday. "Congratulations! That's fantastic."
-- Congratulations on your engagement!
+- Congratulations `on` your engagement!
 
 ## 21. cool ## exclamation
 /kuːl/ 
@@ -168,8 +168,8 @@
 /ˈwel.kəm/ 
 [A2]said as a greeting to someone arriving at a place
 - Welcome - please come in.
-- Welcome home/back - we've missed you!
-- Welcome to Houston.
+- Welcome `home/back` - we've missed you!
+- Welcome `to` Houston.
 
 ## 30. wow ## exclamation
 /wɑʊ/ 

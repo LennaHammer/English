@@ -20,13 +20,13 @@
 /əˈgen/ ONE MORE TIME
 [A1]once more
 - Could you spell your name again, please?
-- Throw it away and start again.
+- Throw it away and `start` again.
 
 ## 5. all right ## adjective [never before noun] ; adverb
 /ɔːlˈrɑɪt/ WITHOUT PROBLEMS
 [A1]happening successfully or without problems
-- Did the interview go all right?
-- Did he do all right on his exam?
+- Did the interview `go` all right?
+- Did he `do` all right on his exam?
 - Did you get home all right last night?
 
 ## 6. also ## adverb
@@ -43,7 +43,7 @@
 ## 8. as ## adverb; preposition
 /æz/ JOB
 [A1]used to talk about the job someone has
-- She works as a waitress.
+- She `works` as a waitress.
 
 ## 9. as ## adverb; preposition
 /æz/ as well
@@ -65,7 +65,7 @@
 ## 12. best ## adverb
 /best/ MOST
 [A1](superlative of well) most, or more than any other
-- Which of the songs did you like best?
+- Which of the songs did you `like` best?
 - They were the best-dressed couple at the party.
 
 ## 13. down ## adverb
@@ -90,8 +90,8 @@
 ## 16. hard ## adverb
 /hɑrd/ USING EFFORT
 [A1]with a lot of physical or mental effort
-- She tried very hard but she wasn't quite fast enough.
-- You'll have to work harder if you want to pass this class.
+- She `tried` very hard but she wasn't quite fast enough.
+- You'll have to `work` harder if you want to pass this class.
 
 ## 17. here ## adverb
 /hɪr/ THIS PLACE
@@ -99,8 +99,8 @@
 - Does Jane live near here?
 - Come here!
 - I've lived here for about two years.
-- The river is only a mile from here.
-- Come here - I have something to show you.
+- The river is only a mile `from` here.
+- `Come` here - I have something to show you.
 - It says here that she was born in 1984.
 
 ## 18. how ## adverb
@@ -111,9 +111,9 @@
 ## 19. how ## adverb
 /hɑʊ/ QUANTITY
 [A1]used to ask or talk about quantity, size, age, etc.
-- Do you know how many people are coming?
-- How much was that dress?
-- How often do you have violin lessons?
+- Do you know how `many` people are coming?
+- How `much` was that dress?
+- How `often` do you have violin lessons?
 - How big is the house?
 - How old are they?
 
@@ -126,13 +126,13 @@
 /mɔːr/ more beautiful/difficult/easily, etc.
 [A1]used before an adjective or adverb to show that someone or something has a greater amount of a quality than someone or something else
 - This exercise is more difficult than the last one.
-- It's more expensive than the others.
+- It's more expensive `than` the others.
 - Could you read a bit more slowly, please?
 
 ## 22. much ## adverb
 /mʌtʃ/ very much
 [A1]a large amount or degree
-- Thank you very much for the flowers!
+- `Thank you` very much for the flowers!
 - I like her very much.
 
 ## 23. never ## adverb
@@ -143,7 +143,7 @@
 - Let us never forget those who gave their lives for their country.
 - Wars never solve anything.
 - He threatened to shoot, but I never thought he would.
-- It's never too late to start eating a healthy diet.
+- It's never `too late` to start eating a healthy diet.
 
 ## 24. no ## adverb
 /noʊ/ NEGATIVE ANSWER
@@ -164,7 +164,7 @@
 - It isn't difficult.
 - I'm just not interested.
 - He's not bad-looking!
-- He's not as tall as his father.
+- He's not `as` tall as his father.
 
 ## 26. not ## adverb
 /nɑt/ NEGATIVE WORD/S
@@ -179,9 +179,9 @@
 [A1]at the present time
 - I'm used to it now.
 - She used to be a teacher, but now she works in publishing.
-- I thought you'd have finished by now.
-- You should have mentioned it before now.
-- That's all for now.
+- I thought you'd have finished `by` now.
+- You should have mentioned it `before` now.
+- That's all `for` now.
 
 ## 28. o'clock ## adverb
 /əˈklɑk/ one/two/three, etc. o'clock
@@ -193,10 +193,10 @@
 [A1]many times or regularly
 - I often shop there.
 - I often have a glass of milk before bed.
-- How often do you wash your hair?
-- I don't see him very often.
-- It's not often you meet someone who you immediately like.
-- I don't see my parents as often as I'd like to.
+- `How` often do you wash your hair?
+- I don't see him `very` often.
+- `It's not` often you meet someone who you immediately like.
+- I don't see my parents `as` often `as` I'd like to.
 
 ## 30. only ## adverb
 /ˈoʊn.li/ NOT MORE
@@ -222,16 +222,16 @@
 ## 33. past ## preposition ; adverb
 /pæst/ TIME
 [A1]used to say what the time is when it is a particular number of minutes after an hour
-- It's 5/10/a quarter/20/25/half past three.
+- It's `5/10/a quarter/20/25/half` past three.
 - I've got to leave at twenty past or I'll be late.
 
 ## 34. really ## adverb
 /ˈriː.li/ VERY GREAT
 [A1]very or very much
-- She's really friendly/nice.
-- I really like/love them.
-- That's really interesting.
-- It's a really difficult decision.
+- She's really `friendly/nice`.
+- I really `like/love` them.
+- That's really `interesting`.
+- It's a really `difficult` decision.
 
 ## 35. sometimes ## adverb
 /ˈsʌm.tɑɪmz/ 
@@ -249,9 +249,9 @@
 [A1]at that time
 - I was working in the city then.
 - I'm having a day off on Friday - I could meet you then.
-- Give it to me next week - I won't have time to read it before/until then.
-- I'll phone you tomorrow - I should have the details by then.
-- I saw her at Annie's but I haven't seen her since then.
+- Give it to me next week - I won't have time to read it `before/until` then.
+- I'll phone you tomorrow - I should have the details `by` then.
+- I saw her at Annie's but I haven't seen her `since` then.
 
 ## 38. then ## adverb
 /ðen/ NEXT
@@ -264,7 +264,7 @@
 [A1]in or at a particular place
 - We live in Madison because my wife works there.
 - I went to the party but I didn't know anyone there.
-- We'll never get there in time!
+- We'll never `get` there in time!
 - The museum is closed today. We'll go there tomorrow.
 - There's that book you were looking for.
 
@@ -272,7 +272,7 @@
 /ðer/ DIRECTION
 [A1]used when you are pointing or looking at something in order to make someone look in the same direction
 - Put them in that box there.
-- Your bag's over there by the door.
+- Your bag's `over` there by the door.
 
 ## 41. today ## adverb
 /təˈdeɪ/ THIS DAY
@@ -286,8 +286,8 @@
 [A1]with each other or doing something with each other
 - We used to go to aerobics together.
 - We worked together on a project a couple of years back.
-- The waiter asked if we were all together so I explained that we were two separate parties.
-- We should get together some time and have a drink.
+- The waiter asked if we were `all` together so I explained that we were two separate parties.
+- We should `get` together some time and have a drink.
 
 ## 43. tomorrow ## adverb
 /təˈmɑr.oʊ/ 
@@ -307,8 +307,8 @@
 [A1]used before adjectives and adverbs to mean "more than is allowed, necessary, possible, etc."
 - Do you think this jacket is too big for me?
 - There are too many cars on the road these days.
-- We enjoyed the movie but it was much too long.
-- There were far too many people for such a small room.
+- We enjoyed the movie but it was `much` too long.
+- There were `far` too many people for such a small room.
 
 ## 46. too ## adverb
 /tuː/ ALSO
@@ -327,7 +327,7 @@
 ## 48. very ## adverb
 /ˈver.i/ EMPHASIS
 [A1]used emphasize an adjective or adverb
-- Thank you very much.
+- Thank you very `much`.
 - She was very pleased.
 - He's very kind.
 - The situation is very serious.
@@ -342,22 +342,22 @@
 ## 50. very ## adverb
 /ˈver.i/ very much
 [A1]to a large amount or degree
-- Thank you very much for the flowers!
+- `Thank you` very much for the flowers!
 - I like her very much.
 
 ## 51. well ## adverb
 /wel/ IN A GOOD WAY
 [A1]in a successful or satisfactory way
 - I thought the team played well.
-- He's doing very well in school.
+- He's `doing` very well in school.
 - The store sells well-made clothes.
-- They took two hours to discuss the plans and considered it time well spent.
+- They took two hours to discuss the plans and considered it time well `spent`.
 
 ## 52. well ## adverb
 /wel/ as well (as)
 [A1]in addition (to)
 - Are you going to invite Steve as well?
-- They have lived in the United States as well as Britain.
+- They have lived in the United States as well `as` Britain.
 
 ## 53. when ## adverb
 /wen/ 
@@ -400,7 +400,7 @@
 /ˈjes.tər.deɪ/ 
 [A1]on the day before today
 - He called yesterday while you were out.
-- I saw her yesterday morning/afternoon/evening.
+- I saw her yesterday `morning/afternoon/evening`.
 
 ## 59. OK ## adverb
 /oʊˈkeɪ/ 
@@ -412,8 +412,8 @@
 ## 60. above ## adverb ; preposition
 /əˈbʌv/ MORE
 [A2]more than an amount or level
-- It says on the box it's for children age three and above.
-- Rates of pay are above average.
+- It says on the box it's for children age three `and` above.
+- Rates of pay are above `average`.
 
 ## 61. across ## adverb ; preposition
 /əˈkrɑs/ 
@@ -431,14 +431,14 @@
 ## 63. after ## adverb
 /ˈæf.tər/ 
 [A2]later than someone or something else
-- Hilary got here at noon and Nicholas arrived soon after.
+- Hilary got here at noon and Nicholas arrived `soon` after.
 - I can't go next week - how about the week after?
 
 ## 64. afterward ## adverb
 /ˈæf.tər.wərd/ 
 [A2]at a later time, after something else has happened
 - We had lunch, and afterward we sat on the deck and watched the kids play in the pool.
-- They separated, and soon/shortly afterward Jane left the country.
+- They separated, and `soon/shortly` afterward Jane left the country.
 
 ## 65. again ## adverb
 /əˈgen/ AS BEFORE
@@ -480,9 +480,9 @@
 ## 71. all right ## adjective [never before noun] ; adverb
 /ɔːlˈrɑɪt/ PERMISSION
 [A2]used to ask if you can do something or to say that someone can do something
-- Is it all right if I put some music on?
-- It's all right to have your friends over as long as you check with me first.
-- Is it all right with you if I leave the window open?
+- `Is it` all right `if` I put some music on?
+- `It's` all right `to` have your friends over as long as you check with me first.
+- `Is it` all right with you `if` I leave the window open?
 
 ## 72. almost ## adverb
 /ˈɔːl.moʊst/ 
@@ -490,8 +490,8 @@
 - I almost missed the bus.
 - She's almost thirty.
 - It was almost six o'clock when he left.
-- Almost all the passengers on the ferry were French.
-- The boat sank almost immediately when it hit the rock.
+- Almost `all` the passengers on the ferry were French.
+- The boat sank almost `immediately` when it hit the rock.
 - She's almost always right on time.
 
 ## 73. alone ## adjective ; adverb
@@ -545,7 +545,7 @@
 [A2]used in questions and negatives to mean "a place"
 - Is there anywhere in particular you wanted to go to eat tonight?
 - I can't find my keys anywhere.
-- Is there anywhere else you'd like to visit?
+- Is there anywhere `else` you'd like to visit?
 
 ## 82. around ## adverb
 /əˈrɑʊnd/ TO/IN A PLACE
@@ -556,13 +556,13 @@
 ## 83. as ## adverb; preposition
 /æz/ as well as
 [A2]in addition to
-- They have lived in the United States as well as Britain.
+- They have lived in the United States as well `as` Britain.
 - We have a responsibility to our community as well as to our families.
 
 ## 84. as ## adverb; preposition
 /æz/ LIKE
 [A2]like or in the same way
-- We used the box as a table.
+- We `used` the box as a table.
 
 ## 85. as ## adverb; preposition
 /æz/ as ... as
@@ -589,14 +589,14 @@
 - Just go away and leave me alone!
 - Would you like your burger to eat in or take out?
 - She's away on vacation until the end of the week.
-- Keep/Stay away from him.
+- Keep/Stay away `from` him.
 
 ## 89. away ## adverb
 /əˈweɪ/ DISTANCE FROM
 [A2]at a particular distance from a place
 - The nearest town was ten miles away.
 - The office is a half-hour drive away.
-- We live 5 miles away from the ocean.
+- We live 5 miles away `from` the ocean.
 
 ## 90. back ## adverb
 /bæk/ REPLY
@@ -609,19 +609,19 @@
 [A2]in a way that is not acceptable or of good quality
 - They played very badly in the first half.
 - The event was badly organized.
-- Their children are extremely badly behaved.
-- He did badly in his exams.
+- Their children are extremely badly `behaved`.
+- He `did` badly in his exams.
 
 ## 92. badly ## adverb
 /ˈbæd.li/ VERY MUCH
 [A2]very much
 - He needs the money very badly.
-- They are badly in need of help.
+- They are badly `in need of` help.
 
 ## 93. badly ## adverb
 /ˈbæd.li/ VERY SERIOUSLY
 [A2]very seriously
-- badly damaged/hurt/injured
+- badly `damaged/hurt/injured`
 
 ## 94. before ## adverb
 /bəˈfɔːr/ 
@@ -633,7 +633,7 @@
 /ˈbet̬.ər/ WELL
 [A2](comparative of well) to a greater degree, or in a more successful or more effective way
 - I'd like to get to know him better.
-- Helen did much better than I did in the exam.
+- Helen did much better `than` I did in the exam.
 
 ## 96. better ## adverb
 /ˈbet̬.ər/ I/you/he, etc. had better do sth
@@ -669,7 +669,7 @@
 ## 101. clearly ## adverb
 /ˈklɪr.li/ NOT CONFUSED
 [A2]in a way that is not confused
-- I'd had two hours' sleep and wasn't thinking clearly.
+- I'd had two hours' sleep and wasn't `thinking` clearly.
 
 ## 102. daily ## adverb
 /ˈdeɪ.li/ 
@@ -687,7 +687,7 @@
 ## 104. downstairs ## adverb
  
 [A2]to or on a lower floor of a building, especially the ground floor
-- I ran downstairs to see who was at the door.
+- I `ran` downstairs to see who was at the door.
 
 ## 105. downtown ## adverb
 /ˈdɑʊn.tɑʊn/ 
@@ -714,27 +714,27 @@
 ## 109. else ## adverb
 /els/ IN ADDITION
 [A2]in addition to someone or something
-- Would you like anything else to eat?
-- What else did he say?
-- The book definitely isn't here. Where else should I look?
+- Would you like `anything` else to eat?
+- `What` else did he say?
+- The book definitely isn't here. `Where` else should I look?
 
 ## 110. else ## adverb
 /els/ DIFFERENT
 [A2]different from someone or something
-- I don't like it here. Let's go somewhere else.
-- If it doesn't work, try something else.
-- It's not my bag. It must be someone else's.
+- I don't like it here. Let's go `somewhere` else.
+- If it doesn't work, try `something` else.
+- It's not my bag. It must be `someone` else's.
 
 ## 111. else ## adverb
 /els/ OTHER
 [A2]other things or people
-- I forgot my toothbrush, but I remembered everything else.
-- I turned up in my jeans and everyone else was dressed up.
+- I forgot my toothbrush, but I remembered `everything` else.
+- I turned up in my jeans and `everyone` else was dressed up.
 
 ## 112. enough ## adverb
 /ɪˈnʌf/ NECESSARY AMOUNT
 [A2]as much as is necessary
-- Are you old enough to vote?
+- Are you old enough `to` vote?
 - You're not driving fast enough.
 
 ## 113. especially ## adverb
@@ -756,14 +756,14 @@
 - Have you ever been to London?
 - If you're ever in Atlanta, give me a call.
 - Nothing ever happens here in the evening.
-- The smell is worse than ever.
+- The smell is worse `than` ever.
 
 ## 116. everywhere ## adverb
 /ˈev.riːˌwer/ 
 [A2]in or to every place
 - I looked everywhere for my keys.
 - Everywhere I look I see things that remind me of Brendan.
-- We had to stay in a hotel outside the town as everywhere else was fully booked.
+- We had to stay in a hotel outside the town as everywhere `else` was fully booked.
 
 ## 117. exactly ## adverb
 /ɪgˈzæk.tli/ COMPLETELY CORRECT
@@ -774,18 +774,18 @@
 ## 118. far ## adverb
 /fɑr/ DISTANCE
 [A2]at, to or from a great distance in space or time
-- Is the station far away?
-- She doesn't live far from here.
-- How far away does your mother live?
-- How far is it from Australia to New Zealand?
-- Baltimore is not far from Washington.
-- One day, perhaps far in the future, you'll regret what you've done.
+- Is the station far `away`?
+- She doesn't live far `from` here.
+- `How` far away does your mother live?
+- How far is it `from` Australia to New Zealand?
+- Baltimore is `not` far `from` Washington.
+- One day, perhaps far `in` the future, you'll regret what you've done.
 
 ## 119. fast ## adverb
 /fæst/ QUICKLY
 [A2]moving or happening quickly
-- We ran as fast as we could.
-- The accident was caused by people driving too fast in bad conditions.
+- We ran `as` fast `as` we could.
+- The accident was caused by people driving `too` fast in bad conditions.
 
 ## 120. finally ## adverb
 /ˈfaɪn.əl.i/ AFTER A LONG TIME
@@ -802,7 +802,7 @@
 /friː/ NO COST
 [A2]without cost or payment
 - Children under five travel free.
-- He offered to do it for free.
+- He offered to do it `for` free.
 
 ## 123. half price ## adverb
 /ˌhæfˈpraɪs/ 
@@ -813,7 +813,7 @@
 /hɪr/ GIVING
 [A2]used when you are giving someone something
 - Here's a present for you.
-- "Can I borrow a pen?" "Sure. Here you are/go."
+- "Can I borrow a pen?" "Sure. Here `you are/go`."
 
 ## 125. here ## adverb
 /hɪr/ here you are/here it is, etc.
@@ -825,8 +825,8 @@
 ## 126. home ## adverb
 /hoʊm/ TO PLACE
 [A2]to the place where you live
-- He didn't come home until midnight.
-- I went home to visit my parents.
+- He didn't `come` home until midnight.
+- I `went` home to visit my parents.
 
 ## 127. how ## adverb
 /hɑʊ/ How about...?
@@ -840,9 +840,9 @@
 - How do we get to the mall from here?
 - How did you hear about the concert?
 - How does this machine work?
-- Shelley doesn't know how to ride a bicycle.
-- How can/could he be so stupid?
-- I don't know how anyone could think that way.
+- Shelley doesn't know how `to` ride a bicycle.
+- How `can/could` he be so stupid?
+- I don't know how anyone `could` think that way.
 
 ## 129. how ## adverb
 /hɑʊ/ HEALTH
@@ -893,7 +893,7 @@
 /dʒʌst/ ALMOST NOW
 [A2]now or very soon
 - I'm just leaving!
-- The doctor will be with you in just a minute/moment/second.
+- The doctor will be with you in just `a minute/moment/second`.
 
 ## 138. late ## adverb
 /leɪt/ AFTER
@@ -916,13 +916,13 @@
 ## 141. left ## adverb
 /left/ 
 [A2]to the side of your body that is west when you are facing north
-- Turn left at the light.
+- `Turn` left at the light.
 
 ## 142. less ## adverb
 /les/ 
 [A2]not as much
 - Exercise more and eat less.
-- We go to the movies less often than we used to.
+- We go to the movies less often `than` we used to.
 
 ## 143. little ## adverb
 /ˈlɪt̬.əl/ a little bit
@@ -968,13 +968,13 @@
 [A2]used before an adjective to show that someone or something has the greatest amount of a quality
 - She's the most beautiful girl I've ever seen.
 - She chose the most expensive coat in the shop.
-- Of the four, he's the most likely to win.
+- Of the four, he's `the` most likely to win.
 
 ## 149. most ## adverb
 /moʊst/ MORE
 [A2]more than anything or anyone else
-- Which subject do you like (the) most?
-- Sam enjoys the swings most of all.
+- Which subject do you like (`the`) most?
+- Sam enjoys the swings most `of all`.
 
 ## 150. nearly ## adverb
 /ˈnɪr.li/ ALMOST
@@ -1037,14 +1037,14 @@
 ## 160. not ## adverb
 /nɑt/ not too
 [A2]used before adjectives and adverbs to mean "not very"
-- How was your exam? "Not too bad, I suppose."
+- How was your exam? "Not too `bad`, I suppose."
 - I didn't play too well today.
 - He wasn't too happy when I told him about the mistake.
 
 ## 161. not ## adverb
 /nɑt/ not bad
 [A2]satisfactory
-- That's not bad for such a small company.
+- That's not bad `for` such a small company.
 
 ## 162. now ## adverb
 /nɑʊ/ IMMEDIATELY
@@ -1052,7 +1052,7 @@
 - We're going home now.
 - Shall we eat now or later?
 - I don't want to wait until tomorrow, I want it now!
-- I can't do it right now.
+- I can't do it `right` now.
 
 ## 163. now ## adverb
 /nɑʊ/ just now
@@ -1078,7 +1078,7 @@
 ## 166. off ## adverb
 /ɔːf/ NOT OPERATING
 [A2]not operating or being used
-- Make sure the computers are turned off before you go home.
+- Make sure the computers are `turned` off before you go home.
 
 ## 167. on ## adverb
 /ɔːn/ WEAR
@@ -1090,15 +1090,15 @@
 /wʌns/ ONE TIME
 [A2]one single time
 - I went sailing once, but I didn't like it.
-- I go swimming once a week.
-- We have lunch together once a month.
-- Once a year we all meet up.
+- I go swimming once `a week`.
+- We have lunch together once `a month`.
+- Once `a year` we all meet up.
 
 ## 169. online ## adverb
  
 [A2]bought, used, etc. using the Internet
 - I ordered them online.
-- Why don't you go online and see what you can find?
+- Why don't you `go` online and see what you can find?
 
 ## 170. only ## adverb
 /ˈoʊn.li/ NO ONE/NOTHING ELSE
@@ -1128,13 +1128,13 @@
 ## 174. over ## adverb
 /ˈoʊ.vər/ MORE THAN
 [A2]more than a particular amount or level
-- People who are 65 years old and over can get half-price tickets.
+- People who are 65 years old `and` over can get half-price tickets.
 
 ## 175. past ## preposition ; adverb
 /pæst/ POSITION
 [A2]in or to a position that is further than a particular point
 - I live on Stanton Street, just past the post office.
-- Three boys went past us on bikes.
+- Three boys `went` past us on bikes.
 - Was that Peter who just ran past wearing bright yellow shorts?
 
 ## 176. perhaps ## adverb
@@ -1184,13 +1184,13 @@
 ## 183. really ## adverb
 /ˈriː.li/ EMPHASIZING
 [A2]used to give particular importance to a verb, especially a modal verb
-- I really have to call Ursula this week.
-- You really shouldn't worry.
+- I really `have to` call Ursula this week.
+- You really `shouldn't ` worry.
 
 ## 184. right ## adverb
 /rɑɪt/ DIRECTION
 [A2]to the side of your body that is to the east when you are facing north
-- Turn/Go right at the first traffic light.
+- `Turn/Go` right at the first traffic light.
 
 ## 185. right ## adverb
 /rɑɪt/ IN SPEECH
@@ -1210,9 +1210,9 @@
 - The house is so beautiful.
 - Don't be so stupid!
 - I didn't know she had so many children!
-- Thank you so much for all your help.
-- I've never seen so many people in one place before!
-- I'm so tired (that) I could sleep in this chair!
+- Thank you so `much` for all your help.
+- I've never seen so `many` people in one place before!
+- I'm so tired `(that)` I could sleep in this chair!
 
 ## 188. so ## adverb
 /soʊ/ MENTIONED EARLIER
@@ -1231,17 +1231,17 @@
 [A2]used to refer to a place when you do not know exactly where it is or when it is not important exactly where it is
 - The last I heard, he was living somewhere in Florida.
 - You must have put their letter somewhere!
-- I'm looking for somewhere to eat/stay.
-- Can we go somewhere else to talk - it's very noisy here.
-- Wouldn't you like to go to Disneyland or somewhere?
+- I'm looking for somewhere `to` eat/stay.
+- Can we go somewhere `else` to talk - it's very noisy here.
+- Wouldn't you like to go to Disneyland `or` somewhere?
 
 ## 191. soon ## adverb
 /suːn/ AFTER SHORT PERIOD
 [A2]after a short period of time
 - She'll soon be here./She'll be here soon.
 - The sooner we leave, the sooner we'll get there.
-- Soon after agreeing to go, she realized she'd made a mistake.
-- How soon can we sign the contract?
+- Soon `after` agreeing to go, she realized she'd made a mistake.
+- `How` soon can we sign the contract?
 - I couldn't get out of that place soon enough.
 
 ## 192. soon ## adverb
@@ -1269,7 +1269,7 @@
 [A2]in a straight line
 - Go straight, then turn left at the traffic light.
 - He was looking straight at me.
-- The library is straight ahead.
+- The library is straight `ahead`.
 
 ## 196. sure ## adverb
 /ʃʊr/ AGREEMENT
@@ -1287,12 +1287,12 @@
 /ðer/ GIVING
 [A2]used when you are giving someone something
 - There's some money for your movie ticket.
-- "Could I have a pencil?" "Yes. There you are."
+- "Could I have a pencil?" "Yes. There `you are`."
 
 ## 199. too ## adverb
 /tuː/ not too
 [A2]used before adjectives and adverbs to mean "not very"
-- How was your exam? "Not too bad, I suppose."
+- How was your exam? "Not too `bad`, I suppose."
 - I didn't play too well today.
 - He wasn't too happy when I told him about the mistake.
 
@@ -1316,7 +1316,7 @@
 [A2]toward or in a higher place or position
 - She looked up and smiled at me.
 - This road goes up into the Andes.
-- The water was up to the level of the windows.
+- The water was up `to` the level of the windows.
 
 ## 203. upstairs ## adverb
  
@@ -1343,7 +1343,7 @@
 /wel/ TO A GREAT DEGREE
 [A2]in a complete way or as much as possible
 - Stir the mixture well.
-- I know him very well.
+- I know him `very` well.
 
 ## 207. west ## adverb
 /west/ 
@@ -1390,13 +1390,13 @@
 [B1]higher on the page
 - the above diagram
 - Match these words with the pictures above.
-- Please send the articles to the address given/shown above.
+- Please send the articles to the address `given/shown` above.
 
 ## 215. abroad ## adverb [always after verb]
 /əˈbrɔːd/ 
 [B1]in or to a foreign country
 - He's gone abroad on business.
-- We always go abroad in the summer.
+- We always `go` abroad in the summer.
 
 ## 216. absolutely ## adverb
 /ˈæb.səˌluːt.li/ COMPLETELY
@@ -1404,7 +1404,7 @@
 - The food was absolutely delicious.
 - It's absolutely ridiculous.
 - I have absolutely no idea what she's talking about.
-- We've achieved absolutely nothing today.
+- We've achieved absolutely `nothing` today.
 - I absolutely hate it.
 
 ## 217. accidentally ## adverb
@@ -1431,12 +1431,12 @@
 ## 221. ahead ## adverb
 /əˈhed/ IN FRONT
 [B1]in front
-- Turn left at the traffic light, and you'll see the hospital straight ahead.
+- Turn left at the traffic light, and you'll see the hospital `straight` ahead.
 
 ## 222. ahead ## adverb
 /əˈhed/ FUTURE
 [B1]in the future
-- She has a difficult time ahead of her.
+- She has a difficult time ahead `of` her.
 
 ## 223. all right ## adjective [never before noun] ; adverb
 /ɔːlˈrɑɪt/ GOOD ENOUGH
@@ -1451,15 +1451,15 @@
 ## 225. along ## adverb
 /əˈlɑŋ/ WITH YOU
 [B1]with you
-- Why don't you take him along with you when you go?
-- I'll bring some food along and we can have a picnic.
+- Why don't you `take` him along `with` you when you go?
+- I'll `bring` some food along and we can have a picnic.
 
 ## 226. aloud ## adverb
 /əˈlɑʊd/ 
 [B1]in a way that other people can hear
-- He read her letter aloud to the rest of the family.
-- I laughed aloud at some of his comments.
-- I was just thinking aloud.
+- He `read` her letter aloud to the rest of the family.
+- I `laughed` aloud at some of his comments.
+- I was just `thinking` aloud.
 
 ## 227. already ## adverb
 /ɔːlˈred.i/ EARLY
@@ -1481,15 +1481,15 @@
 ## 230. amazingly ## adverb
 /əˈmeɪ.zɪŋ.li/ 
 [B1]in an amazing way
-- The food was amazingly good.
-- Amazingly enough, no one else has applied for the job.
+- The food was amazingly `good`.
+- Amazingly `enough`, no one else has applied for the job.
 
 ## 231. angrily ## adverb
 /ˈæŋ.grə.li/ 
 [B1]in an angry way
 - Don't do that! she shouted angrily.
 - Demonstrators protested angrily following the jury's verdict.
-- The Prime Minister reacted angrily to claims that he had lied to the House of Commons.
+- The Prime Minister `reacted` angrily to claims that he had lied to the House of Commons.
 
 ## 232. any ## adverb
 /ˈen.i/ 
@@ -1497,9 +1497,9 @@
 - Do you feel any better?
 - I can't walk any faster.
 - Those gloves don't look any different than the others.
-- Houses in this area used to be a real bargain, but they're not cheap any more.
-- This radio isn't any good - I'll have to buy another.
-- She couldn't wait any longer.
+- Houses in this area used to be a real bargain, but they're not cheap any `more`.
+- This radio isn't any `good` - I'll have to buy another.
+- She couldn't wait any `longer`.
 
 ## 233. anyway ## adverb
 /ˈen.iːˌweɪ/ MORE IMPORTANTLY
@@ -1511,7 +1511,7 @@
 /əˈpɑrt/ apart from
 [B1]except for or in addition to
 - Apart from the low salary, it's a great job!
-- He works until nine o'clock every evening, and that's quite apart from the work he does over the weekend.
+- He works until nine o'clock every evening, and that's `quite` apart from the work he does over the weekend.
 
 ## 235. apart ## adverb
 /əˈpɑrt/ SEPARATE
@@ -1577,7 +1577,7 @@
 /ˈbæk.wərd/ BEHIND
 [B1]toward the direction behind you
 - I walked backward toward the door.
-- He took a step backward to allow her to pass.
+- He took `a step` backward to allow her to pass.
 
 ## 246. beautifully ## adverb
 /ˈbjuːt̬.ɪ.fəl.i/ 
@@ -1588,13 +1588,13 @@
 ## 247. behind ## adverb
 /bəˈhɑɪnd/ BACK
 [B1]at or to the back of someone or something
-- Somebody grabbed me from behind.
+- Somebody grabbed me `from` behind.
 
 ## 248. below ## adverb ; preposition
 /bəˈloʊ/ LESS
 [B1]less than a particular amount or level
-- His marks in English have been below average for some time now.
-- The temperature has fallen below zero/freezing recently.
+- His marks in English have been below `average` for some time now.
+- The temperature has fallen below `zero/freezing` recently.
 
 ## 249. besides ## adverb
 /bəˈsɑɪdz/ EXTRA REASON
@@ -1632,8 +1632,8 @@
  
 [B1]near in distance
 - Come a bit closer.
-- He stayed close to his mother.
-- There's a great beach close by.
+- He stayed close `to` his mother.
+- There's a great beach close `by`.
 
 ## 256. completely ## adverb
 /kəmˈpliːt.li/ 
@@ -1651,19 +1651,19 @@
 ## 258. curiously ## adverb
 /ˈkjʊr.iː.ə.sli/ WANTING TO KNOW
 [B1]showing that you want to know or learn more
-- She looked at him curiously.
+- She `looked at` him curiously.
 
 ## 259. dangerously ## adverb
 /ˈdeɪn.dʒə.rəs.li/ 
 [B1]in a way that is dangerous
 - She drives dangerously.
-- He likes to live dangerously.
+- He likes to `live` dangerously.
 
 ## 260. deep ## adverb
 /diːp/ LONG WAY INTO
 [B1]a long way into something from the top or outside
 - They traveled deep into the forest.
-- He thrust his hands deep in(to) his pockets.
+- He thrust his hands deep `in(to)` his pockets.
 
 ## 261. definitely ## adverb
 /ˈdef.ə.nət.li/ 
@@ -1687,15 +1687,15 @@
 ## 264. down ## adverb
 /dɑʊn/ IN WRITING
 [B1]in writing or on paper
-- Do you have it down in writing/on paper, or was it just a verbal agreement?
-- I've put you down for three tickets each.
+- Do you have it down `in writing/on paper`, or was it just a verbal agreement?
+- I've put you down `for` three tickets each.
 
 ## 265. down ## adverb
 /dɑʊn/ FAR
 [B1]used, especially with prepositions, to emphasize that a place is far from you or from somewhere considered to be central
-- I'll meet you down at the gym after work.
-- He has a house down by the harbor.
-- I'm going down to the store to buy some milk.
+- I'll meet you down `at` the gym after work.
+- He has a house down `by` the harbor.
+- I'm going down `to` the store to buy some milk.
 
 ## 266. easy ## adverb
 /ˈiː.zi/ take it/things easy
@@ -1754,7 +1754,7 @@
 ## 275. extra ## adverb
 /ˈek.strə/ 
 [B1]more
-- They pay her extra to work nights.
+- They `pay` her extra to work nights.
 
 ## 276. extremely ## adverb
 /ɪkˈstriːm.li/ 
@@ -1765,7 +1765,7 @@
 ## 277. face to face ## adverb
 /ˌfeɪs.təˈfeɪs/ 
 [B1]directly, meeting someone in the same place
-- We need to talk face to face.
+- We need to `talk` face to face.
 
 ## 278. fairly ## adverb
 /ˈfer.li/ QUITE
@@ -1820,27 +1820,27 @@
 /ˈfriː.kwənt.li/ 
 [B1]often
 - frequently asked questions
-- I see him quite frequently.
-- The buses run less/more frequently at certain times.
+- I see him `quite` frequently.
+- The buses run `less/more` frequently at certain times.
 
 ## 288. full-time ## adjective ; adverb
 /ˌfʊlˈtaɪm/ 
 [B1]happening or working for the whole of the working week and not only part of it
-- a full-time job
-- He's a full-time student.
-- She went back to work full time when her youngest child went to school.
+- a full-time `job`
+- He's a full-time `student.`
+- She went back to `work` full time when her youngest child went to school.
 
 ## 289. fully ## adverb
 /ˈfʊl.i/ 
 [B1]completely
-- The hotel was fully booked.
-- Have you fully recovered from your illness?
-- a fully qualified teacher
+- The hotel was fully `booked`.
+- Have you fully `recovered` from your illness?
+- a fully `qualified` teacher
 
 ## 290. further ## adverb
 /ˈfɜr.ðər/ DISTANCE
 [B1](comparative of far) at or to a place or time that is a longer distance away
-- Let's walk a bit further down the road.
+- Let's walk `a bit` further down the road.
 
 ## 291. furthest ## adverb
 /ˈfɜːr.ðɪst/ 
@@ -1855,13 +1855,13 @@
 ## 293. half ## adverb
 /hæf/ 
 [B1]partly, but not completely
-- The bottle is half empty/full.
+- The bottle is half `empty/full`.
 - Sophia is half Greek and half Spanish.
 
 ## 294. happily ## adverb
 /ˈhæp.ə.li/ HAPPY
 [B1]in a happy way
-- He was happily married with two young children.
+- He was happily `married` with two young children.
 - The baby sucked happily on a corner of her blanket.
 
 ## 295. hard ## adverb
@@ -1873,8 +1873,8 @@
 ## 296. hardly ## adverb
 /ˈhɑrd.li/ ALMOST NOT
 [B1]almost not, or only a very small amount
-- We hardly ever go to concerts.
-- I can hardly hear the speaker from here in the back.
+- We hardly `ever` go to concerts.
+- I `can` hardly hear the speaker from here in the back.
 - The party had hardly started when she left.
 - He ate hardly anything.
 
@@ -1882,14 +1882,14 @@
 /ˈhev.ə.li/ 
 [B1]a lot or to a great degree
 - It was raining heavily.
-- drink/smoke heavily
+- `drink/smoke` heavily
 - The terrorists are heavily armed.
-- She's heavily involved in the project.
+- She's heavily `involved in` the project.
 
 ## 298. high ## adverb
 /hɑɪ/ DISTANCE
 [B1]at or to a large distance above the ground
-- We flew high above the city.
+- We flew high `above` the city.
 - He threw the ball high into the air.
 
 ## 299. home ## adverb
@@ -1912,7 +1912,7 @@
 /hɑʊ/ EXPERIENCE
 [B1]used to ask or talk about what an experience or event was like
 - How was your flight?
-- How did you like the concert?
+- How `did` you `like` the concert?
 
 ## 303. how ## adverb
 /hɑʊ/ EMPHASIZE
@@ -1944,7 +1944,7 @@
 - Indeed, it could be the worst environmental disaster in Western Europe this century.
 - Evidence suggests that errors may indeed be occurring.
 - We live in strange times indeed.
-- Many people are very poor indeed.
+- Many people are `very` poor indeed.
 
 ## 308. indoors ## adverb
 /ˌɪnˈdɔrːz/ 
@@ -1963,7 +1963,7 @@
 - Would you like another drink? "OK, just one more."
 - It was just a joke.
 - The movie is not just about love.
-- Just because you're older than me doesn't mean you can tell me what to do.
+- Just `because` you're older than me doesn't mean you can tell me what to do.
 
 ## 311. just ## adverb
 /dʒʌst/ ALMOST NOT
@@ -1976,10 +1976,10 @@
 [B1]exactly or equally
 - This carpet would be just right for the dining room.
 - The twins look just like each other.
-- Things turned out just as I expected.
-- You've got just as many toys as your brother.
-- I can't help you just now.
-- Just then, the lights went out.
+- Things turned out just `as` I expected.
+- You've got just `as` many toys `as` your brother.
+- I can't help you just `now`.
+- Just `then`, the lights went out.
 
 ## 313. just ## adverb
 /dʒʌst/ EMPHASIS
@@ -2012,7 +2012,7 @@
 ## 318. kindly ## adverb
 /ˈkɑɪn.dli/ 
 [B1]in a kind way
-- Stella has very kindly offered to help out with the food for the party.
+- Stella has very kindly `offered` to help out with the food for the party.
 
 ## 319. last ## adverb
 /læst/ MOST RECENT
@@ -2140,8 +2140,8 @@
 ## 340. more ## adverb
 /mɔːr/ GREATER NUMBER OF TIMES
 [B1]used to show that something happens a greater number of times than before
-- We eat out a lot more than we used to.
-- We go to the movies more often in the winter.
+- We eat out a lot more `than` we used to.
+- We go to the movies more `often` in the winter.
 
 ## 341. mostly ## adverb
 /ˈmoʊs.tli/ 
@@ -2177,7 +2177,7 @@
 ## 346. next door ## adverb
 /ˌnekstˈdɔːr/ 
 [B1]in the next room, house, or building
-- That's the old man who lives next door to Paul.
+- That's the old man who lives next door `to` Paul.
 
 ## 347. no ## adverb
 /noʊ/ no more/less/better, etc., than
@@ -2224,7 +2224,7 @@
 /ˈnoʊ.wer/ NOT ANYWHERE
 [B1]not anywhere
 - The room was very crowded - there was nowhere to sit.
-- These young people have nowhere else to go.
+- These young people have nowhere `else` to go.
 - Nowhere does the article mention the names of the people involved.
 
 ## 355. obviously ## adverb
@@ -2240,7 +2240,7 @@
 - Keep the dog on the leash or he'll just run off.
 - Keep off the grass.
 - "Is Kara still here?" "You missed her - she just drove off."
-- She's off to Canada next week.
+- She's off `to` Canada next week.
 
 ## 357. off ## adverb
 /ɔːf/ LESS MONEY
@@ -2287,8 +2287,8 @@
 [B1]used to mean that something happened very recently
 - I only arrived half an hour ago.
 - They only put the roof on last week.
-- The movie had only just begun.
-- We'd only just started out when the car broke down.
+- The movie had only `just begun`.
+- We'd only `just` started out when the car broke down.
 
 ## 365. only ## adverb
 /ˈoʊn.li/ NOT IMPORTANT
@@ -2370,13 +2370,13 @@
 /ˌoʊ.vərˈnɑɪt/ FOR THE NIGHT
 [B1]for or during the night
 - an overnight stop in Paris
-- You can stay overnight if you want to.
-- Don't forget to pack an overnight bag.
+- You can `stay` overnight if you want to.
+- Don't forget to pack an overnight `bag`.
 
 ## 378. part-time ## adverb ; adjective
 /ˌpɑrtˈtɑɪm/ 
 [B1]If you work part-time or do part-time work, you work for only some of the day or the week.
-- a part-time job
+- a part-time `job`
 - He works part-time as a waiter.
 
 ## 379. particularly ## adverb
@@ -2395,7 +2395,7 @@
 ## 381. percent ## adverb
 /pərˈsent/ 
 [B1]for or out of every 100, shown by the symbol %
-- You got 20 percent of the answers right - that means one out of every five.
+- You got 20 percent `of` the answers right - that means one out of every five.
 - Only 40% of people bothered to vote in the election.
 
 ## 382. perfectly ## adverb
@@ -2413,7 +2413,7 @@
 /ˈplez.ənt.li/ 
 [B1]in a pleasant way
 - They treated me pleasantly enough.
-- Jacqui was pleasantly surprised to get a B in history.
+- Jacqui was pleasantly `surprised` to get a B in history.
 
 ## 385. politely ## adverb
 /pəˈlaɪt.li/ 
@@ -2441,9 +2441,9 @@
 ## 389. properly ## adverb
 /ˈprɑp.ər.li/ 
 [B1]correctly, or in a satisfactory way
-- It's still not working properly.
-- I'm not properly dressed for this sort of weather.
-- Come on, Evie, speak properly - you're not a baby any more!
+- It's still not `working` properly.
+- I'm not properly `dressed` for this sort of weather.
+- Come on, Evie, speak `properly` - you're not a baby any more!
 
 ## 390. quietly ## adverb
 /ˈkwɑɪ.ət.li/ WITHOUT NOISE
@@ -2458,8 +2458,8 @@
 ## 392. quite ## adverb
 /kwɑɪt/ COMPLETELY
 [B1]completely
-- Quite frankly, the thought of performing terrifies me.
-- I'm not quite sure I understand what you mean.
+- Quite `frankly`, the thought of performing terrifies me.
+- I'm not quite `sure` I understand what you mean.
 - Dinner isn't quite ready yet.
 - The two situations are quite different.
 
@@ -2467,12 +2467,12 @@
 /kwɑɪt/ quite a while
 [B1]a long time
 - I hadn’t seen Rebecca in quite a while.
-- It took quite a while to clean out the garage.
+- It took quite a while `to` clean out the garage.
 
 ## 394. quite ## adverb
 /kwɑɪt/ quite a bit
 [B1]a lot
-- He does quite a bit of traveling.
+- He does quite a bit `of` traveling.
 - She's quite a bit older than him.
 
 ## 395. rarely ## adverb
@@ -2497,8 +2497,8 @@
 ## 398. rather ## adverb
 /ˈræð.ər/ would rather
 [B1]used to show that you prefer to have or do one thing more than another
-- I'd much rather go out to dinner than stay in and watch TV.
-- I would rather not tell him.
+- I'd much rather go out to dinner `than` stay in and watch TV.
+- I would rather `not` tell him.
 
 ## 399. really ## adverb
 /ˈriː.li/ FACT
@@ -2558,12 +2558,12 @@
 ## 408. second ## adverb
 /ˈsek.ənd/ IN ORDER
 [B1]after one other person or thing in order or importance
-- She didn't win the race, but she did come in second.
+- She didn't win the race, but she did `come in` second.
 
 ## 409. second-hand ## adjective ; adverb
 /ˌsek.əndˈhænd/ 
 [B1]If something is second-hand, someone else owned or used it before you.
-- second-hand books/clothes
+- second-hand `books/clothes`
 - She buys a lot of clothes second-hand.
 
 ## 410. secretly ## adverb
@@ -2575,7 +2575,7 @@
 ## 411. seriously ## adverb
 /ˈsɪr.iː.ə.sli/ BADLY
 [B1]badly or severely
-- seriously ill/worried
+- seriously `ill/worried`
 - He wasn't seriously injured - he just got a few cuts and bruises.
 
 ## 412. shortly ## adverb
@@ -2614,13 +2614,13 @@
 /ˈsʌm.hɑʊ/ WAY NOT KNOWN
 [B1]in a way or by some means which is not known or not stated
 - It won't be easy, but we'll get across the river somehow.
-- Somehow or other, we'll get the money.
+- Somehow `or other`, we'll get the money.
 
 ## 419. someplace ## adverb
 /ˈsʌm.pleɪs/ 
 [B1]used to refer to a place when you do not know exactly where it is or when it is not important exactly where it is
-- The only time I’ve been to Florida I was on the way someplace else.
-- I'd like to go someplace quiet for vacation this year.
+- The only time I’ve been to Florida I was on the way someplace `else.`
+- I'd like to `go` someplace quiet for vacation this year.
 
 ## 420. soon ## adverb
 /suːn/ as soon as
@@ -2658,7 +2658,7 @@
 /sərˈprɑɪ.zɪŋ.li/ 
 [B1]unexpectedly or in a way that is unusual
 - These chairs are surprisingly comfortable.
-- Not surprisingly the kids slept late.
+- `Not` surprisingly the kids slept late.
 
 ## 426. terribly ## adverb
 /ˈter.ə.bli/ VERY MUCH
@@ -2691,7 +2691,7 @@
 ## 431. totally ## adverb
 /ˈtoʊt̬.əl.i/ 
 [B1]completely
-- They're totally different.
+- They're totally `different`.
 - I'd totally forgotten I'd arranged to meet her.
 - I totally agree with you.
 
@@ -2709,7 +2709,7 @@
 ## 434. up ## adverb
 /ʌp/ go/walk, etc. up to sb/sth
 [B1]to walk directly toward someone or something until you are next to them
-- He came straight up to me and introduced himself.
+- He came `straight` up to me and introduced himself.
 
 ## 435. up ## adverb
 /ʌp/ NOT IN BED
@@ -2720,7 +2720,7 @@
 /ʌp/ be up to sb
 [B1]If an action or decision is up to someone, they are responsible for doing or making it.
 - I can't decide for you, Jack, it's up to you.
-- It's up to Sophie to decide whether she wants to enter the competition.
+- It's up to Sophie `to` decide whether she wants to enter the competition.
 
 ## 437. up ## adverb
 /ʌp/ be up to sth
@@ -2738,7 +2738,7 @@
 [B1]used to talk about the reason for something
 - I don't know why she isn't here.
 - Exactly why he died is a mystery.
-- There is no reason why we shouldn't succeed.
+- There is no `reason` why we shouldn't succeed.
 
 ## 440. why ## adverb
 /wɑɪ/ why not?
@@ -2770,7 +2770,7 @@
 ## 445. actively ## adverb
 /ˈæk.tɪv.li/ 
 [B2]in a way that involves positive action
-- He's very actively involved in the local politics.
+- He's very actively `involved` in the local politics.
 - I've been actively looking for a job for six months.
 
 ## 446. actually ## adverb
@@ -2803,7 +2803,7 @@
 ## 451. aggressively ## adverb
 /əˈgres.ɪv.li/ 
 [B2]in an aggressive way
-- Small children often behave aggressively.
+- Small children often `behave` aggressively.
 - They played more aggressively in the second half.
 
 ## 452. ahead ## adverb
@@ -2860,13 +2860,13 @@
 ## 462. alternatively ## adverb
 /ɔːlˈtɜr.nət̬.ɪv.li/ 
 [B2]used to suggest another possibility
-- We could go to the Indian restaurant, or alternatively, we could try that new Italian place.
+- We could go to the Indian restaurant, `or` alternatively, we could try that new Italian place.
 
 ## 463. altogether ## adverb
 /ˌɔːl.təˈgeð.ər/ COMPLETELY
 [B2]completely
 - She wrote less and less often, and eventually she stopped altogether.
-- I'm not altogether sure about the idea.
+- I'm `not` altogether sure about the idea.
 
 ## 464. altogether ## adverb
 /ˌɔːl.təˈgeð.ər/ GENERALLY
@@ -2886,7 +2886,7 @@
 ## 467. anxiously ## adverb
 /ˈæŋk.ʃəs.li/ 
 [B2]in an anxious way
-- We waited anxiously by the phone.
+- We `waited` anxiously by the phone.
 
 ## 468. anyhow ## adverb
 /ˈeniː.hɑʊ/ DESPITE
@@ -2916,8 +2916,8 @@
 ## 473. apart ## adverb
 /əˈpɑrt/ INTO PIECES
 [B2]into separate, smaller pieces
-- I took the motor apart to see how it worked.
-- My jacket is so old, it's coming apart.
+- I `took` the motor apart to see how it worked.
+- My jacket is so old, it's `coming` apart.
 
 ## 474. apparently ## adverb
 /əˈpær.ənt.li/ AS HEARD/READ
@@ -3039,7 +3039,7 @@
 ## 495. back ## adverb
 /bæk/ EARLIER
 [B2]at or to an earlier time
-- We first met back in 1971.
+- We first met back `in` 1971.
 - This tradition dates back to the 16th century.
 
 ## 496. back ## adverb
@@ -3051,7 +3051,7 @@
 ## 497. badly ## adverb
 /ˈbæd.li/ UNPLEASANT
 [B2]in an unpleasant way
-- I thought he was treated very badly.
+- I thought he was `treated` very badly.
 
 ## 498. basically ## adverb
 /ˈbeɪ.sɪk.li/ SIMPLY
@@ -3061,7 +3061,7 @@
 ## 499. basically ## adverb
 /ˈbeɪ.sɪk.li/ MOSTLY
 [B2]in most important ways, or to a large degree
-- These two machines are basically the same, but you get a few extra features in the more expensive one.
+- These two machines are basically `the same`, but you get a few extra features in the more expensive one.
 - The car is basically fine, but it has a few scratches.
 
 ## 500. boldly ## adverb
@@ -3072,8 +3072,8 @@
 ## 501. brightly ## adverb
 /ˈbrɑɪt.li/ 
 [B2]with a lot of strong color or light
-- brightly colored clothes
-- a brightly lit room
+- brightly `colored` clothes
+- a brightly `lit` room
 
 ## 502. brilliantly ## adverb
 /ˈbrɪl.jənt.li/ 
@@ -3093,7 +3093,7 @@
 ## 505. casually ## adverb
 /ˈkæʒ.uː.əl.i/ 
 [B2]in a casual way
-- She was dressed casually in shorts and a T-shirt.
+- She was `dressed` casually in shorts and a T-shirt.
 
 ## 506. cheerfully ## adverb
 /ˈtʃɪr.fəl.i/ 
@@ -3103,9 +3103,9 @@
 ## 507. closely ## adverb
 /ˈkloʊ.sli/ CONNECTED
 [B2]in a way that is directly connected or has a strong relationship
-- English and German are closely related.
-- Both politicians have been closely associated with the movement for some time.
-- We are working closely with the police.
+- English and German are closely `related`.
+- Both politicians have been closely `associated` with the movement for some time.
+- We are `working` closely with the police.
 
 ## 508. comfortably ## adverb
 /ˈkʌmf.tə.bli/ 
@@ -3142,7 +3142,7 @@
 ## 514. conveniently ## adverb
 /kənˈviːn.jənt.li/ 
 [B2]in a way that is convenient
-- The house is conveniently situated near the station and shopping.
+- The house is conveniently `situated` near the station and shopping.
 
 ## 515. creatively ## adverb
 /kriːˈeɪ.t̬ɪv.li/ 
@@ -3152,7 +3152,7 @@
 ## 516. critically ## adverb
 /ˈkrɪt̬.ɪ.kli/ 
 [B2]in a way that is critical
-- They were both critically injured in the crash.
+- They were both critically `injured` in the crash.
 
 ## 517. cruelly ## adverb
 /ˈkruː.əl.i/ 
@@ -3184,9 +3184,9 @@
 /ˈdiː.pli/ 
 [B2]extremely or strongly
 - I'm deeply grateful to you.
-- He found her comments deeply irritating/annoying/offensive.
-- We don't want to get too deeply involved with these people.
-- After 20 years of marriage, they're still deeply in love.
+- He found her comments deeply `irritating/annoying/offensive`.
+- We don't want to get too deeply `involved` with these people.
+- After 20 years of marriage, they're still deeply `in love`.
 
 ## 523. deliberately ## adverb
 /dəˈlɪb.ər.ət.li/ 
@@ -3197,13 +3197,13 @@
 /ˈdent.sli/ 
 [B2]with a lot of things close together
 - We waited in a densely packed room.
-- Mexico City is one of the most densely populated cities in the world.
+- Mexico City is one of the most densely `populated` cities in the world.
 
 ## 525. desperately ## adverb
 /ˈdes.pə.rət.li/ SERIOUSLY
 [B2]extremely or very much
-- He was desperately ill.
-- He was desperately in love with her.
+- He was desperately `ill`.
+- He was desperately `in love` with her.
 - They desperately wanted a child.
 
 ## 526. desperately ## adverb
@@ -3219,17 +3219,17 @@
 ## 528. dramatically ## adverb
 /drəˈmæt̬.ɪ.kli/ 
 [B2]suddenly or obviously
-- Your life changes dramatically when you have a baby.
+- Your life `changes` dramatically when you have a baby.
 
 ## 529. eagerly ## adverb
 /ˈiː.gər.li/ 
 [B2]in an eager way
-- an eagerly awaited announcement
+- an eagerly `awaited` announcement
 
 ## 530. ecologically ## adverb
 /ˌiː.kəˈlɑdʒ.ɪ.kli/ 
 [B2]in a way that relates to ecology or the environment
-- It's an ecologically friendly/sound means of transport.
+- It's an ecologically `friendly/sound` means of transport.
 
 ## 531. effectively ## adverb
 /ɪˈfek.tɪv.li/ 
@@ -3251,7 +3251,7 @@
 ## 534. elegantly ## adverb
 /ˈel.ə.gənt.li/ 
 [B2]in a way that is elegant
-- elegantly dressed
+- elegantly `dressed`
 
 ## 535. else ## adverb
 /els/ or else
@@ -3262,13 +3262,13 @@
 /ˈels.hwer/ 
 [B2]in or to another place
 - The report looks at economic growth in Europe and elsewhere.
-- They couldn't find what they wanted and decided to look elsewhere.
+- They couldn't find what they wanted and decided to `look` elsewhere.
 
 ## 537. emotionally ## adverb
 /ɪˈmoʊ.ʃən.əl.i/ 
 [B2]in a way that shows emotions or relates to emotions
 - She spoke emotionally about her experiences as a war correspondent.
-- Many children have become emotionally disturbed as a result of the abuse they have suffered.
+- Many children have become emotionally `disturbed` as a result of the abuse they have suffered.
 
 ## 538. enough ## adverb
 /ɪˈnʌf/ strangely enough
@@ -3289,8 +3289,8 @@
 /ɪnˈtɑɪr.li/ 
 [B2]completely
 - I admit it was entirely my fault.
-- I'm not entirely convinced it will work.
-- The company is run almost entirely by middle-aged men.
+- I'm `not` entirely convinced it will work.
+- The company is run `almost` entirely by middle-aged men.
 
 ## 542. environmentally ## adverb
 /enˌvɑɪ.rənˈmən.təl.i/ 
@@ -3301,7 +3301,7 @@
 ## 543. equally ## adverb
 /ˈiː.kwə.li/ SAME WAY
 [B2]fairly and in the same way
-- Everyone should be treated equally.
+- Everyone should be `treated` equally.
 
 ## 544. essentially ## adverb
 /ɪˈsen.tʃəl.i/ 
@@ -3349,7 +3349,7 @@
 ## 552. fairly ## adverb
 /ˈfer.li/ IN THE RIGHT WAY
 [B2]If you do something fairly, you do it in a way which is right and reasonable and treats people equally.
-- He claimed that he hadn't been treated fairly by his employers.
+- He claimed that he hadn't been `treated` fairly by his employers.
 - Officials will ensure that the election is carried out fairly.
 
 ## 553. fantastically ## adverb
@@ -3361,9 +3361,9 @@
 ## 554. far ## adverb
 /fɑr/ VERY MUCH
 [B2]very much
-- This car is far better than our old one.
-- It cost far more (money) than I could afford.
-- He loses his temper far too often.
+- This car is far `better` than our old one.
+- It cost far `more` (money) than I could afford.
+- He loses his temper far `too` often.
 
 ## 555. far ## adverb
 /fɑr/ as far as I know
@@ -3383,12 +3383,12 @@
 ## 558. far ## adverb
 /fɑr/ by far
 [B2]by a great amount
-- They are by far the best students in the class.
+- They are by far `the best` students in the class.
 
 ## 559. financially ## adverb
 /fɑɪˈnæn.tʃəl.i/ 
 [B2]in a way that relates to money or how money is managed
-- He's still financially dependent on his parents.
+- He's still financially `dependent` on his parents.
 
 ## 560. fine ## adverb
 /fɑɪn/ 
@@ -3399,12 +3399,12 @@
 ## 561. finely ## adverb
 /ˈfɑɪn.li/ 
 [B2]into small pieces
-- Finely chop the onion.
+- Finely `chop` the onion.
 
 ## 562. firmly ## adverb
 /ˈfɜːrm.li/ CERTAINLY
 [B2]in a way that is certain or fixed
-- I firmly believe that we must take action on this.
+- I firmly `believe` that we must take action on this.
 
 ## 563. firmly ## adverb
 /ˈfɜːrm.li/ STRONGLY
@@ -3439,7 +3439,7 @@
 ## 569. forever ## adverb
 /fɔːrˈev.ər/ A LONG TIME
 [B2]for an extremely long time or too much time
-- We'd better walk a bit quicker - it's going to take forever if we go this slowly.
+- We'd better walk a bit quicker - it's going to `take` forever if we go this slowly.
 
 ## 570. formerly ## adverb
 /ˈfɔːr.mər.li/ 
@@ -3449,12 +3449,12 @@
 ## 571. forward ## adverb
 /ˈfɔːr.wərd/ FUTURE
 [B2]toward the future
-- I always look forward, not back.
+- I always `look` forward, not back.
 
 ## 572. frankly ## adverb
 /ˈfræŋ.kli/ 
 [B2]used when giving an honest and direct opinion, often one that might upset someone
-- Quite frankly, I think this whole situation is ridiculous.
+- `Quite` frankly, I think this whole situation is ridiculous.
 
 ## 573. free ## adverb
 /friː/ NO LIMIT/CONTROL
@@ -3465,8 +3465,8 @@
 /ˈfriː.li/ 
 [B2]without being controlled or limited
 - For the first time in months she could move freely.
-- Exotic foods are freely available in supermarkets.
-- She freely admits that she was partly to blame.
+- Exotic foods are freely `available` in supermarkets.
+- She freely `admits` that she was partly to blame.
 - We encourage the victims to talk freely about their experiences.
 
 ## 575. furiously ## adverb
@@ -3478,7 +3478,7 @@
 /ˈfɜr.ðər/ MORE
 [B2]more
 - He refused to discuss the matter further.
-- Did you get any further with your research?
+- Did you `get` any further with your research?
 
 ## 577. furthermore ## adverb
 /ˈfɜr.ðərˌmɔːr/ 
@@ -3499,7 +3499,7 @@
 ## 580. generously ## adverb
 /ˈdʒen.ə.rəs.li/ 
 [B2]in a generous way
-- Please give generously to help children in need.
+- Please `give` generously to help children in need.
 
 ## 581. gently ## adverb
 /ˈdʒent.li/ 
@@ -3536,8 +3536,8 @@
 ## 587. hardly ## adverb
 /ˈhɑrd.li/ CERTAINLY NOT
 [B2]certainly not
-- You can hardly expect me to wait around all day for you to get ready.
-- It's hardly surprising that she's angry at him.
+- You `can` hardly expect me to wait around all day for you to get ready.
+- It's hardly `surprising` that she's angry at him.
 
 ## 588. here ## adverb
 /hɪr/ AT THIS POINT
@@ -3552,8 +3552,8 @@
 ## 590. highly ## adverb
 /ˈhɑɪ.li/ HIGH LEVEL
 [B2]at a high level
-- a highly paid job
-- a highly educated workforce
+- a highly `paid` job
+- a highly `educated` workforce
 
 ## 591. honestly ## adverb
 /ˈɑn.ɪs.tli/ HONEST
@@ -3598,7 +3598,7 @@
 ## 598. importantly ## adverb
 /ɪmˈpɔːrt.ənt.li/ 
 [B2]in a way that is important
-- She has a pleasant personality, but more importantly, she is well qualified for the job.
+- She has a pleasant personality, but `more` importantly, she is well qualified for the job.
 
 ## 599. in ## adverb
 /ɪn/ SENT
@@ -3621,7 +3621,7 @@
 /ˌɪn.dɪˈpen.dənt.li/ 
 [B2]in a way that is independent
 - The two scientists both made the same discovery independently, at roughly the same time.
-- Each part of the organization operates independently of the others.
+- Each part of the organization operates independently `of` the others.
 
 ## 603. initially ## adverb
 /ɪˈnɪʃ.əl.i/ 
@@ -3731,7 +3731,7 @@
 ## 622. mentally ## adverb
 /ˈment.əl.i/ 
 [B2]connected with or related to the mind
-- mentally ill
+- mentally `ill`
 - It's going to be a tough competition but I'm mentally prepared for it.
 
 ## 623. merely ## adverb
@@ -3743,7 +3743,7 @@
 ## 624. morally ## adverb
 /ˈmɔːr.ə.li/ 
 [B2]in a moral way
-- morally wrong/unacceptable
+- morally `wrong/unacceptable`
 
 ## 625. more ## adverb
 /mɔːr/ more or less
@@ -3787,13 +3787,13 @@
 ## 632. near ## adverb
 /nɪr/ TIME
 [B2]close in time
-- Her birthday was getting nearer and I still hadn't bought her a present.
-- As the date of his operation drew near, he became more and more anxious.
+- Her birthday was `getting` nearer and I still hadn't bought her a present.
+- As the date of his operation `drew` near, he became more and more anxious.
 
 ## 633. necessarily ## adverb
 /ˌnes.əˈser.ə.li/ 
 [B2]used in negatives to mean "in every case" or "therefore"
-- That's not necessarily true.
+- That's `not` necessarily true.
 - The fact that something is cheap doesn't necessarily mean it's of low quality.
 - You may love someone without necessarily wanting to marry them.
 
@@ -3812,7 +3812,7 @@
 ## 636. nervously ## adverb
 /ˈnɜr.və.sli/ 
 [B2]in a worried and anxious way
-- to giggle/laugh nervously
+- to `giggle/laugh` nervously
 
 ## 637. never ## adverb
 /ˈnev.ər/ NOT
@@ -3834,7 +3834,7 @@
 /ˈnɑɪ.sli/ WELL
 [B2]well
 - That table would fit nicely in the bedroom.
-- His business is doing very nicely.
+- His business is `doing` very nicely.
 
 ## 641. nicely ## adverb
 /ˈnɑɪ.sli/ PLEASANTLY
@@ -3858,7 +3858,7 @@
 /nɑt/ not only
 [B2]used to say that more than one thing is true
 - Not only was the hotel expensive, it was dirty too.
-- You have let down not only yourself, but the entire team.
+- You have let down not only yourself, `but` the entire team.
 
 ## 645. not ## adverb
 /nɑt/ not half as good/bad/exciting, etc.
@@ -3873,9 +3873,9 @@
 ## 647. not ## adverb
 /nɑt/ not quite
 [B2]almost but not completely
-- I'm not quite sure if I understand this.
+- I'm not quite `sure` if I understand this.
 - The colors almost match but not quite.
-- He didn't get quite enough votes to win.
+- He didn't get quite `enough` votes to win.
 
 ## 648. now ## adverb
 /nɑʊ/ LENGTH OF TIME
@@ -3921,7 +3921,7 @@
 [B2]happening or planned
 - I'm busy this afternoon, but I don't have anything on tomorrow.
 - Do you know what's on at the movies?
-- Is the party still on for tomorrow?
+- Is the party still on `for` tomorrow?
 
 ## 656. on ## adverb
 /ɔːn/ WORKING
@@ -3974,7 +3974,7 @@
 ## 665. otherwise ## adverb
 /ˈʌð.ərˌwɑɪz/ NOT INCLUDING
 [B2]except for what has just been referred to
-- The bike needs a new saddle, but otherwise it's in good condition.
+- The bike needs a new saddle, `but` otherwise it's in good condition.
 - The poor sound quality ruined an otherwise splendid film.
 
 ## 666. out ## adverb
@@ -4009,7 +4009,7 @@
 /ˌoʊ.vərˈsiːz/ 
 [B2]in, from or to other countries
 - We need to open up the overseas markets.
-- There are a lot of overseas students in Cambridge.
+- There are a lot of overseas `students` in Cambridge.
 - Many more people work overseas these days.
 
 ## 672. passionately ## adverb
@@ -4027,7 +4027,7 @@
 ## 674. patiently ## adverb
 /ˈpeɪ.ʃənt.li/ 
 [B2]in a patient way
-- There was a line of people waiting patiently for the bus to arrive.
+- There was a line of people `waiting` patiently for the bus to arrive.
 
 ## 675. peacefully ## adverb
 /ˈpiːs.fəl.i/ 
@@ -4057,10 +4057,10 @@
 ## 679. physically ## adverb
 /ˈfɪz.ɪ.kli/ 
 [B2]in a way that relates to the body or someone's appearance
-- physically active/fit
+- physically `active/fit`
 - Physically I find him very attractive.
-- The work is physically demanding.
-- Special holidays are available for physically disabled people.
+- The work is physically `demanding`.
+- Special holidays are available for physically `disabled` people.
 
 ## 680. positively ## adverb
 /ˈpɑz.ət̬.ɪv.li/ 
@@ -4076,22 +4076,22 @@
 ## 682. potentially ## adverb
 /pəˈten.tʃə.li/ 
 [B2]possibly
-- Hepatitis is a potentially fatal disease.
-- This crisis is potentially the most serious in the organization's history.
+- Hepatitis is a potentially `fatal` disease.
+- This crisis is potentially the most `serious` in the organization's history.
 
 ## 683. powerfully ## adverb
 /ˈpɑʊ.ər.fə.li/ 
 [B2]in a powerful way
 - She kicked the ball so powerfully that it flew over the fence.
-- Klaus is a very powerfully-built man.
+- Klaus is a very powerfully`-built` man.
 
 ## 684. practically ## adverb
 /ˈpræk.tɪk.li/ 
 [B2]almost or very nearly
 - She blamed me for practically every mistake in the report.
-- These changes would cost us practically nothing.
-- It's practically impossible for me to get home in less than an hour.
-- They used to argue all the time and now they've practically stopped talking to each other.
+- These changes would cost us practically `nothing`.
+- It's practically `impossible` for me to get home in less than an hour.
+- They used to argue all the time and now they've practically `stopped` talking to each other.
 
 ## 685. precisely ## adverb
 /prɪˈsɑɪ.sli/ EXACT
@@ -4157,7 +4157,7 @@
 [B2]almost but not completely
 - I'm not quite sure that I understand this.
 - The colors don't quite match.
-- He didn't get quite enough votes to win.
+- He didn't get quite `enough` votes to win.
 
 ## 696. quite ## adverb
 /kwɑɪt/ TRULY
@@ -4173,18 +4173,18 @@
 ## 698. rather ## adverb
 /ˈræð.ər/ MORE EXACTLY
 [B2]used to change something you have just said and make it more correct
-- She'll go shopping on Thursday, or rather, she will if she has to.
+- She'll go shopping on Thursday, `or` rather, she will if she has to.
 
 ## 699. readily ## adverb
 /ˈred.əl.i/ EASILY
 [B2]quickly and easily
-- Information is readily available on the Internet.
+- Information is readily `available` on the Internet.
 
 ## 700. readily ## adverb
 /ˈred.əl.i/ WILLINGLY
 [B2]willingly and without stopping to think
-- He readily admits to having problems himself.
-- He readily agreed to help.
+- He readily `admits` to having problems himself.
+- He readily `agreed` to help.
 
 ## 701. reasonably ## adverb
 /ˈriː.zə.nə.bli/ reasonably good/successful/well, etc.
@@ -4205,12 +4205,12 @@
 ## 704. right ## adverb
 /rɑɪt/ CORRECTLY
 [B2]correctly
-- He guessed right most of the time.
+- He `guessed` right most of the time.
 
 ## 705. rightly ## adverb
 /ˈrɑɪt.li/ 
 [B2]in a correct way
-- He is rightly concerned about the situation.
+- He is rightly `concerned` about the situation.
 - They quite rightly complained to the manager.
 - I think these people don’t rightly know what they’re doing.
 
@@ -4218,7 +4218,7 @@
 /ˈrʌf.li/ NOT EXACTLY
 [B2]approximately
 - There has been an increase of roughly 2.25 million.
-- Roughly speaking, it's 2.25 million.
+- Roughly `speaking`, it's 2.25 million.
 - We have roughly the same tastes.
 
 ## 707. sadly ## adverb
@@ -4230,13 +4230,13 @@
 /ˈsæd.li/ NOT SATISFACTORY
 [B2]in a way that is not satisfactory
 - Sadly, the treatment doesn't work for all patients.
-- If you think she'll let you do that, you're sadly mistaken.
+- If you think she'll let you do that, you're sadly `mistaken`.
 
 ## 709. same ## adverb
 /seɪm/ the same
 [B2]in the same way
 - We treat all our children the same.
-- I need some time to myself, the same as anybody else.
+- I need some time to myself, the same `as` anybody else.
 
 ## 710. scientifically ## adverb
 /ˌsɑɪ.ənˈtɪf.ɪ.kli/ 
@@ -4289,8 +4289,8 @@
 ## 718. sharply ## adverb
 /ˈʃɑr.pli/ 
 [B2]quickly and suddenly
-- Interest rates rose/fell sharply last month.
-- Sales sharply declined last month.
+- Interest rates `rose/fell` sharply last month.
+- Sales sharply `declined` last month.
 
 ## 719. shortly ## adverb
 /ˈʃɔːrt.li/ SOON
@@ -4328,8 +4328,8 @@
 /sɪns/ 
 [B2]from a time in the past until a later time or until now
 - Emma went to work in New York a year ago, and we haven't seen her since.
-- He started working for the company after graduation and has been there ever since.
-- I've long since forgotten any Latin I ever knew.
+- He started working for the company after graduation and has been there `ever` since.
+- I've `long` since forgotten any Latin I ever knew.
 
 ## 726. slightly ## adverb
 /ˈslɑɪt.li/ 
@@ -4340,8 +4340,8 @@
 ## 727. smoothly ## adverb
 /ˈsmuːð.li/ WITHOUT PROBLEMS
 [B2]without any problems or difficulties
-- Everything was going smoothly before Darren arrived.
-- All the machinery was running smoothly.
+- Everything was `going` smoothly before Darren arrived.
+- All the machinery was `running` smoothly.
 
 ## 728. so ## adverb
 /soʊ/ if so
@@ -4356,9 +4356,9 @@
 ## 730. solo ## adjective [always before noun] ; adverb
 /ˈsoʊ.loʊ/ 
 [B2]done alone by one person only
-- a solo performance/flight
-- to sail/fly solo
-- He used to play with a group but now he has gone solo/has a solo career.
+- a solo `performance/flight`
+- to `sail/fly` solo
+- He used to play with a group but now he has `gone` solo/has a solo `career`.
 
 ## 731. somehow ## adverb
 /ˈsʌm.hɑʊ/ REASON NOT CLEAR
@@ -4400,13 +4400,13 @@
 /ˈstreɪndʒ.li/ 
 [B2]in a way that is unusual, unexpected or difficult to understand
 - She was strangely calm.
-- Strangely enough, I'm not feeling very hungry.
+- Strangely `enough`, I'm not feeling very hungry.
 
 ## 739. strictly ## adverb
 /ˈstrɪkt.li/ EXACTLY
 [B2]exactly or correctly
-- That's not strictly true.
-- Strictly speaking, we're not allowed to give you any advice.
+- That's not strictly `true`.
+- Strictly `speaking`, we're not allowed to give you any advice.
 
 ## 740. strictly ## adverb
 /ˈstrɪkt.li/ strictly forbidden/prohibited
@@ -4416,8 +4416,8 @@
 ## 741. strongly ## adverb
 /ˈstrɔːŋ.li/ 
 [B2]very much or in a very serious way
-- They strongly believe their children should make choices for themselves.
-- Many locals are strongly opposed to the development.
+- They strongly `believe` their children should make choices for themselves.
+- Many locals are strongly `opposed` to the development.
 
 ## 742. successfully ## adverb
 /səkˈses.fəl.i/ 
@@ -4461,7 +4461,7 @@
 /ðæt/ 
 [B2]used when describing the size, amount, or state of something or someone
 - She's too young to walk that far.
-- It wasn't (all) that good.
+- It wasn't `(all)` that good.
 
 ## 750. then ## adverb
 /ðen/ IN ADDITION
@@ -4479,7 +4479,7 @@
 [B2]at a particular point in a process or activity
 - Do you want to play another game or do you want to stop there?
 - I'll have to stop you there, we've run out of time.
-- Keep on trying - you'll get there in the end.
+- Keep on trying - you'll `get` there in the end.
 
 ## 753. there ## adverb
 /ðer/ here and there
@@ -4536,7 +4536,7 @@
 /təˈgeð.ər/ COMBINED
 [B2]combined
 - Together they must earn over ninety thousand dollars a year.
-- The money that I owe you for the telephone together with the rent equals $300.
+- The money that I owe you for the telephone together `with` the rent equals $300.
 
 ## 763. traditionally ## adverb
 /trəˈdɪʃ.ən.əl.i/ 
@@ -4615,13 +4615,13 @@
 ## 776. upside down ## adverb ; adjective
 /ˌʌp.sɑɪdˈdɑʊn/ 
 [B2]having the part that is usually at the top turned to be at the bottom
-- Turn the jar upside down and shake it.
+- `Turn` the jar upside down and shake it.
 - One car landed on its side and the other was upside down.
 
 ## 777. violently ## adverb
 /ˈvɑɪ.ə.lənt.li/ 
 [B2]in a way that involves violence
-- He often behaved violently and they were terrified of him.
+- He often `behaved` violently and they were terrified of him.
 - He claimed to have been violently assaulted while in prison.
 
 ## 778. virtually ## adverb
@@ -4639,7 +4639,7 @@
 ## 780. vividly ## adverb
 /ˈvɪv.ɪd.li/ 
 [B2]in a vivid way
-- I vividly remember my first day at school.
+- I vividly `remember` my first day at school.
 
 ## 781. warmly ## adverb
 /ˈwɔːrm.li/ KEEP WARM
@@ -4660,8 +4660,8 @@
 ## 784. well ## adverb
 /wel/ EMPHASIS
 [B2]used to emphasize some adjectives
-- The police are well aware of the situation.
-- The museum is well worth a visit.
+- The police are well `aware` of the situation.
+- The museum is well `worth` a visit.
 
 ## 785. wide ## adverb
 /wɑɪd/ APART
@@ -4672,8 +4672,8 @@
 /ˈwɑɪd.li/ INCLUDING A LOT
 [B2]including a lot of different places, people, subjects, etc.
 - They have both traveled widely.
-- English is widely spoken around the world.
-- His work is widely known/accepted.
+- English is widely `spoken` around the world.
+- His work is widely `known/accepted`.
 
 ## 787. widely ## adverb
 /ˈwɑɪd.li/ differ/vary widely
@@ -4706,8 +4706,8 @@
 ## 792. worst ## adverb
 /wɜːrst/ 
 [B2](superlative of badly) the most badly
-- Small businesses have been worst hit by the recession.
-- Roads on the western slopes were worst affected by the snow.
+- Small businesses have been worst `hit` by the recession.
+- Roads on the western slopes were worst `affected` by the snow.
 
 ## 793. wrongly ## adverb
 /ˈrɑŋ.li/ INCORRECTLY
@@ -4754,7 +4754,7 @@
 ## 801. alongside ## adverb ; preposition
 /əˈlɑŋˌsɑɪd/ WITH
 [C1]together with someone
-- She enjoyed working alongside such famous actors.
+- She enjoyed `working` alongside such famous actors.
 
 ## 802. anyhow ## adverb
 /ˈeniː.hɑʊ/ CHANGING STATEMENT
@@ -4785,7 +4785,7 @@
 ## 807. as ## adverb; preposition
 /æz/ as a consequence
 [C1]used to talk about one thing that is the result of another
-- A lot of birds died as a consequence of the oil spill.
+- A lot of birds died as a consequence `of` the oil spill.
 
 ## 808. away ## adverb
 /əˈweɪ/ SPORTS
@@ -4811,12 +4811,12 @@
 ## 812. between ## adverb
 /bəˈtwiːn/ SPACE
 [C1]in the space that separates two people, places, or things
-- The wood is in neat piles with newspaper placed in between.
+- The wood is in neat piles with newspaper placed `in` between.
 
 ## 813. between ## adverb
 /bəˈtwiːn/ TIME
 [C1]in the period of time that separates two events or times
-- There's a train at 6:15 and one at 10:30 but nothing in between.
+- There's a train at 6:15 and one at 10:30 but nothing `in` between.
 
 ## 814. beyond ## adverb
 /biːˈɑnd/ PLACE
@@ -4918,7 +4918,7 @@
 /ˈiː.kwə.li/ SAME DEGREE
 [C1]to the same degree or level
 - an equally important question
-- She did equally well in the competition last year.
+- She did equally `well` in the competition last year.
 
 ## 833. even ## adverb
 /ˈIː.vən/ even so
@@ -4988,7 +4988,7 @@
 ## 846. formally ## adverb
 /ˈfɔːr.mə.li/ OFFICIALLY
 [C1]officially
-- The deal will be formally announced on Tuesday.
+- The deal will be formally `announced` on Tuesday.
 
 ## 847. formally ## adverb
 /ˈfɔːr.mə.li/ POLITELY
@@ -4999,7 +4999,7 @@
 /ˈfɔːr.wərd/ PROGRESS
 [C1]used to say that something is making progress
 - The project moved forward slowly.
-- This is a big step forward for democracy.
+- This is a big `step` forward for democracy.
 
 ## 849. happily ## adverb
 /ˈhæp.ə.li/ LUCKY
@@ -5020,8 +5020,8 @@
 ## 852. highly ## adverb
 /ˈhɑɪ.li/ VERY
 [C1]very or to a large degree
-- a highly effective treatment
-- We are highly unlikely to meet anyone here.
+- a highly `effective` treatment
+- We are highly `unlikely` to meet anyone here.
 
 ## 853. historically ## adverb
 /hɪˈstɔːr.ɪ.kli/ 
@@ -5052,14 +5052,14 @@
 ## 858. immediately ## adverb
 /ɪˈmiː.diː.ət.li/ NEXT TO
 [C1]next to something, or close to something in time
-- Milton Street is on the left, immediately after the bank.
+- Milton Street is on the left, immediately `after` the bank.
 - They moved in immediately before classes began.
 - We heard a loud crash from the room immediately above us.
 
 ## 859. immensely ## adverb
 /ɪˈmens.li/ 
 [C1]extremely
-- Country music is immensely popular.
+- Country music is immensely `popular`.
 - immensely talented/powerful/successful
 
 ## 860. inappropriately ## adverb
@@ -5131,18 +5131,18 @@
 ## 873. lightly ## adverb
 /ˈlɑɪt.li/ NOT MUCH
 [C1]not much
-- lightly cooked vegetables
+- lightly `cooked` vegetables
 
 ## 874. likely ## adverb
 /ˈlɑɪ.kli/ 
 [C1]probably
-- I’ll most likely get there at about ten o’clock.
+- I’ll `most` likely get there at about ten o’clock.
 
 ## 875. little ## adverb
 /ˈlɪt̬.əl/ NOT ENOUGH
 [C1]not much or not enough
 - a little-known fact
-- Little did he know what was in store for him.
+- Little `did he know` what was in store for him.
 
 ## 876. long ## adverb
 /lɔːŋ/ for long
@@ -5163,7 +5163,7 @@
 ## 879. modestly ## adverb
 /ˈmɑd.ɪst.li/ BY SMALL AMOUNT
 [C1]by a small size or amount
-- At just £9, the DVD is very modestly priced.
+- At just £9, the DVD is very modestly `priced`.
 
 ## 880. most ## adverb
 /moʊst/ for the most part
@@ -5246,7 +5246,7 @@
 [C1]far in distance or time
 - You can see the city off in the distance.
 - My vacation seems a long way off.
-- The wedding is so far off, I'm not even thinking about it yet.
+- The wedding is so `far` off, I'm not even thinking about it yet.
 
 ## 895. officially ## adverb
 /əˈfɪʃ.əl.i/ 
@@ -5268,7 +5268,7 @@
 /ˈoʊ.pən.li/ 
 [C1]without hiding any of your thoughts or feelings
 - They were openly dismissive of my suggestions.
-- He talks quite openly about his feelings.
+- He `talks` quite openly about his feelings.
 - We discussed our reservations about the contract quite openly.
 
 ## 899. otherwise ## adverb
@@ -5276,7 +5276,7 @@
 [C1]differently than what has been stated
 - I'll meet you there at 6 o'clock, unless I hear otherwise.
 - Under the law, a person is presumed innocent until proved otherwise.
-- Marion Morrison, otherwise known as the film star John Wayne, was born in 1907.
+- Marion Morrison, otherwise `known as` the film star John Wayne, was born in 1907.
 - Parts of the company will be sold or otherwise dismantled.
 
 ## 900. partially ## adverb
@@ -5293,7 +5293,7 @@
 /pəˈlɪt̬.ɪ.kli/ 
 [C1]in a way that is connected with politics
 - Politically, she is very experienced.
-- a politically active group
+- a politically `active` group
 
 ## 903. poorly ## adverb
 /ˈpʊr.li/ 
@@ -5318,17 +5318,17 @@
 ## 907. purely ## adverb
 /ˈpjʊr.li/ 
 [C1]only
-- She married him purely for his money.
+- She married him purely `for` his money.
 
 ## 908. racially ## adverb
 /ˈreɪ.ʃəl.i/ 
 [C1]in a way that is connected to someone's race
-- racially motivated attacks
+- racially `motivated` attacks
 
 ## 909. radically ## adverb
 /ˈræd.ɪ.kli/ 
 [C1]in a way that shows radical change or beliefs
-- The company has changed radically in recent years.
+- The company has `changed` radically in recent years.
 - Barker introduced some radically new ideas.
 
 ## 910. randomly ## adverb
@@ -5349,7 +5349,7 @@
 ## 913. reluctantly ## adverb
 /rɪˈlʌk.tənt.li/ 
 [C1]in a reluctant way
-- She reluctantly agreed to step down as managing director.
+- She reluctantly `agreed` to step down as managing director.
 
 ## 914. remarkably ## adverb
 /rɪˈmɑr.kə.bli/ 
@@ -5413,7 +5413,7 @@
 ## 925. sincerely ## adverb
 /sɪnˈsɪr.li/ EMPHASIS
 [C1]in a sincere way
-- I sincerely hope this never happens again.
+- I sincerely `hope` this never happens again.
 
 ## 926. so ## adverb
 /soʊ/ to do so
@@ -5453,7 +5453,7 @@
 ## 932. specifically ## adverb
 /spəˈsɪf.ɪ.kli/ PARTICULAR PURPOSE
 [C1]for a particular reason, purpose, etc.
-- They're designed specifically for children.
+- They're designed specifically `for` children.
 - She bought it specifically to wear at the wedding.
 
 ## 933. specifically ## adverb
@@ -5533,7 +5533,7 @@
 /ˈtruː.li/ SINCERELY
 [C1]used to emphasize that something is sincere or honest
 - Truly I could not have done this without you.
-- He truly believes he can cure himself by willpower alone.
+- He truly `believes` he can cure himself by willpower alone.
 
 ## 948. twice ## adverb
 /twɑɪs/ think twice
@@ -5616,9 +5616,9 @@
 ## 963. well ## adverb
 /wel/ CONSIDERABLY
 [C1]used to emphasize some prepositions
-- The results are well above/below what we expected.
-- Keep well away from the edge of the cliff.
-- It cost well over $100.
+- The results are well `above/below` what we expected.
+- Keep well `away from` the edge of the cliff.
+- It cost well `over` $100.
 
 ## 964. well ## adverb
 /wel/ may/might as well do sth
@@ -5697,7 +5697,7 @@
 ## 978. allegedly ## adverb
 /əˈledʒ.əd.li/ 
 [C2]used to say something is thought to be true but is not proved
-- Someone at the company allegedly had lost the records.
+- Someone at the company allegedly `had` lost the records.
 
 ## 979. alone ## adjective ; adverb
 /əˈloʊn/ ONLY ONE
@@ -5884,7 +5884,7 @@
 ## 1014. fast ## adverb
 /fæst/ FIRMLY
 [C2]in a firm or tight way
-- He tried to get away, but she held him fast.
+- He tried to get away, but she `held` him fast.
 
 ## 1015. fast ## adverb
 /fæst/ fast asleep
@@ -6007,12 +6007,12 @@
 /ˈlɑɪk.wɑɪz/ 
 [C2]in the same way
 - Water these plants twice a week and likewise the ones in the bedroom.
-- Watch what she does and then do likewise.
+- Watch what she does and then `do` likewise.
 
 ## 1039. little ## adverb
 /ˈlɪt̬.əl/ little more/better
 [C2]not much more or better
-- Their house was little more than a hovel.
+- Their house was little more `than` a hovel.
 - Their electricity was off for a week and we did little better - five days.
 
 ## 1040. logically ## adverb
@@ -6086,7 +6086,7 @@
 /ˈɑd.li/ 
 [C2]in a strange or surprising way
 - an oddly shaped house
-- Oddly enough, despite the sizzling heat, scientists suspect there could be water frozen on Mercury.
+- Oddly `enough`, despite the sizzling heat, scientists suspect there could be water frozen on Mercury.
 
 ## 1054. often ## adverb
 /ˈɔː.fən/ every so often
@@ -6128,7 +6128,7 @@
 ## 1061. out ## adverb
 /ɑʊt/ the jury is (still) out
 [C2]If the jury is (still) out on a subject, people do not yet know the answer or have a definite opinion about it.
-- The jury's still out on whether these vitamins protect against cancer.
+- The jury's still out `on` whether these vitamins protect against cancer.
 
 ## 1062. out ## adverb
 /ɑʊt/ go out of your way to do sth
@@ -6148,7 +6148,7 @@
 ## 1065. overboard ## adverb
 /ˈoʊ.vər.bɔːrd/ 
 [C2]over the side of a boat and into the water
-- Wait! Something fell overboard.
+- Wait! Something `fell` overboard.
 
 ## 1066. overboard ## adverb
 /ˈoʊ.vər.bɔːrd/ go overboard
@@ -6179,7 +6179,7 @@
 ## 1071. regardless ## adverb
 /rɪˈgɑrd.ləs/ 
 [C2]without being stopped or influenced by something
-- Mr Redwood claimed he would carry on with his campaign regardless.
+- Mr Redwood claimed he would `carry on` with his campaign regardless.
 
 ## 1072. relentlessly ## adverb
 /rɪˈlent.ləs.li/ 
@@ -6209,7 +6209,7 @@
 ## 1077. running ## adverb
 /ˈrʌn.ɪŋ/ second/third, etc., day/week, etc., running
 [C2]If something happens for the second/third, etc., day/week, etc., running, it happens on that number of regular occasions without changing.
-- He's won the Championship for the fifth year running.
+- He's won the Championship `for the` fifth year running.
 
 ## 1078. scarcely ## adverb
 /ˈsker.sli/ 
@@ -6333,7 +6333,7 @@
 ## 1101. theoretically ## adverb
 /θɪəˈret̬.ɪ.kli/ 
 [C2]in a way that obeys some rules but is not likely
-- It is theoretically possible.
+- It is theoretically `possible`.
 
 ## 1102. thereafter ## adverb
 /ˌðerˈæf.tər/ 
@@ -6415,7 +6415,7 @@
 ## 1117. vitally ## adverb
 /ˈvɑɪ.təl.i/ 
 [C2]in a very important way
-- Safety at work is vitally important.
+- Safety at work is vitally `important`.
 
 ## 1118. voluntarily ## adverb
 /ˌvɑl.ənˈter.ə.li/ 

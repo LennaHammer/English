@@ -15,15 +15,15 @@
 [A1]when a time or event has happened
 - Do you want to go for a walk after breakfast?
 - We had a chat after the meeting.
-- Let's get the shopping done. After that, we can stop for coffee.
-- After a while, I began to like him.
+- Let's get the shopping done. After `that`, we can stop for coffee.
+- After `a while`, I began to like him.
 - His birthday is exactly a week after mine.
 - It was so boring, I left after ten minutes.
 
 ## 4. as ## adverb; preposition
 /æz/ JOB
 [A1]used to talk about the job someone has
-- She works as a waitress.
+- She `works` as a waitress.
 
 ## 5. as ## adverb; preposition
 /æz/ as well
@@ -88,7 +88,7 @@
 - The town lies halfway between Rome and Florence.
 - Standing between the two adults was a small child.
 - A narrow alley ran between the two houses.
-- She squeezed in between her sisters.
+- She squeezed `in` between her sisters.
 
 ## 14. between ## preposition
 /bəˈtwiːn/ TIME
@@ -143,12 +143,12 @@
 [A1]used to show the time when something starts or the time when it was made or first existed
 - Drinks will be served from seven o'clock.
 - Most of the paintings in this room date from the seventeenth century.
-- The museum is open from 9:30 to 6:00 Tuesday to Sunday.
+- The museum is open from 9:30 `to` 6:00 Tuesday to Sunday.
 
 ## 22. from ## preposition
 /frɑm/ DISTANCE
 [A1]used to show the distance between two places
-- It's about two kilometers from the airport to your hotel.
+- It's about two kilometers from the airport `to` your hotel.
 - We're about a mile from home.
 
 ## 23. in ## preposition
@@ -160,7 +160,7 @@
 - How much is that coat in the window?
 - What's that in your hand?
 - They used to live in Paris, but now they're somewhere in Italy.
-- My daughter's in the hospital overnight.
+- My daughter's in the `hospital` overnight.
 
 ## 24. in ## preposition
 /ɪn/ DURING
@@ -190,8 +190,8 @@
 - We were near the exit.
 - The hotel is near the airport.
 - Don't come too near me - you might catch my cold.
-- Which bus stop is nearest (to) your house?
-- I moved my chair nearer to the fire.
+- Which bus stop is nearest `(to)` your house?
+- I moved my chair nearer `to` the fire.
 
 ## 28. of ## preposition
 /ɑv/ BELONG
@@ -260,7 +260,7 @@
 ## 36. past ## preposition ; adverb
 /pæst/ TIME
 [A1]used to say what the time is when it is a particular number of minutes after an hour
-- It's 5/10/a quarter/20/25/half past three.
+- It's `5/10/a quarter/20/25/half` past three.
 - I've got to leave at twenty past or I'll be late.
 
 ## 37. than ## preposition ; conjunction
@@ -278,9 +278,9 @@
 - I have to go to the dentist this morning.
 - We received another invitation to a wedding this morning.
 - I've asked Helen and Ben to dinner next week.
-- You can walk from here to the station in under ten minutes.
-- She walked over to the window.
-- He went up to a complete stranger and started talking.
+- You can walk `from` here to the station in under ten minutes.
+- She walked `over` to the window.
+- He went `up` to a complete stranger and started talking.
 
 ## 39. to ## preposition
 /tuː/ TELLING THE TIME
@@ -327,8 +327,8 @@
 ## 45. above ## adverb ; preposition
 /əˈbʌv/ MORE
 [A2]more than an amount or level
-- It says on the box it's for children age three and above.
-- Rates of pay are above average.
+- It says on the box it's for children age three `and` above.
+- Rates of pay are above `average`.
 
 ## 46. across ## adverb ; preposition
 /əˈkrɑs/ 
@@ -392,13 +392,13 @@
 ## 56. as ## adverb; preposition
 /æz/ as well as
 [A2]in addition to
-- They have lived in the United States as well as Britain.
+- They have lived in the United States as well `as` Britain.
 - We have a responsibility to our community as well as to our families.
 
 ## 57. as ## adverb; preposition
 /æz/ LIKE
 [A2]like or in the same way
-- We used the box as a table.
+- We `used` the box as a table.
 
 ## 58. as ## adverb; preposition
 /æz/ as ... as
@@ -466,7 +466,7 @@
 /bɑɪ/ HOW
 [A2]used to show how something is done
 - They traveled across Europe by train/car.
-- She did the decorating (all) by herself.
+- She did the decorating `(all)` by herself.
 - Do you want to be paid in cash or by check?
 - He learned English by listening to the radio.
 
@@ -512,7 +512,7 @@
 [A2]not including a particular fact, thing or person
 - The museum is open daily except Mondays.
 - It's cool and quiet everywhere except in the kitchen.
-- Everyone was there except for Sally.
+- Everyone was there except `for` Sally.
 
 ## 76. for ## preposition
 /fɔːr/ PURPOSE
@@ -559,7 +559,7 @@
 /fɔːr/ MEANING
 [A2]showing meaning
 - What's the Czech word for "book"?
-- "What does J. L. stand for?" "José Luis."
+- "What does J. L. `stand` for?" "José Luis."
 
 ## 83. for ## preposition
 /fɔːr/ TOWARD
@@ -572,12 +572,12 @@
 /fɔːr/ for sale
 [A2]available to buy
 - Is this painting for sale?
-- Our neighbors put their house up for sale last week.
+- Our neighbors `put` their house `up` for sale last week.
 
 ## 85. from ## preposition
 /frɑm/ MATERIAL
 [A2]used to show the material of which something is made
-- juice made from oranges and mangoes
+- juice `made` from oranges and mangoes
 
 ## 86. in ## preposition
 /ɪn/ USING TIME
@@ -615,8 +615,8 @@
 /lɑɪk/ SIMILAR
 [A2]similar to or in the same way as someone or something
 - She's a lot like her mother.
-- She looks like her father.
-- I have a sweater just like that.
+- She `looks` like her father.
+- I have a sweater `just` like that.
 - This soda tastes like coffee!
 
 ## 92. like ## preposition
@@ -741,7 +741,7 @@
 /pæst/ POSITION
 [A2]in or to a position that is further than a particular point
 - I live on Stanton Street, just past the post office.
-- Three boys went past us on bikes.
+- Three boys `went` past us on bikes.
 - Was that Peter who just ran past wearing bright yellow shorts?
 
 ## 112. per ## preposition
@@ -768,8 +768,8 @@
 ## 115. than ## preposition ; conjunction
 /ðæn/ WITH MORE/LESS
 [A2]used with "more" or "less" to compare numbers or amounts
-- I spent more than I intended to.
-- It cost less than I expected.
+- I spent `more` than I intended to.
+- It cost `less` than I expected.
 
 ## 116. through ## preposition
 /θruː/ ONE SIDE TO ANOTHER
@@ -784,7 +784,7 @@
 /tɪl/ 
 [A2]until
 - We waited till half past six for you.
-- Up till 1920, women in the United States were not allowed to vote.
+- `Up` till 1920, women in the United States were not allowed to vote.
 
 ## 118. to ## preposition
 /tuː/ from ... to ...
@@ -804,8 +804,8 @@
 /ˈʌn.dər/ LESS THAN
 [A2]less than a number, amount, or age
 - All items cost/are under a dollar.
-- You can buy the whole set of DVDs for just under $50.
-- The discount applies only to children under (the age of) ten.
+- You can buy the whole set of DVDs for `just` under $50.
+- The discount applies only to children under `(the age of)` ten.
 - Under-5s get in free.
 - If you get under 50%, you've failed the exam.
 
@@ -831,7 +831,7 @@
 [A2]not having, using, or doing something
 - I came out without my umbrella.
 - You look nice without makeup.
-- You shouldn't drive for more than three hours without resting/stopping.
+- You shouldn't drive for more than three hours without `resting/stopping`.
 
 ## 125. without ## preposition
 /wɪðˈɑʊt/ without sb
@@ -855,7 +855,7 @@
 /əˈkɔːrd.ɪŋ.tuː/ OPINION
 [B1]as said by someone or shown by something
 - According to Sarah, they're not getting along lately.
-- According to our records, you owe us $80.
+- According to our `records`, you owe us $80.
 
 ## 129. after ## preposition
 /ˈæf.tər/ FOLLOWING
@@ -965,9 +965,9 @@
 ## 149. behind ## preposition
 /bəˈhɑɪnd/ SLOWER
 [B1]slower or less successful than someone or something
-- The project is already behind schedule.
+- The project is already behind `schedule`.
 - Baltimore is still three games behind Milwaukee.
-- The tests are used to identify students who are falling behind.
+- The tests are used to identify students who are `falling` behind.
 
 ## 150. behind ## preposition
 /bəˈhɑɪnd/ SUPPORTING
@@ -977,8 +977,8 @@
 ## 151. below ## adverb ; preposition
 /bəˈloʊ/ LESS
 [B1]less than a particular amount or level
-- His marks in English have been below average for some time now.
-- The temperature has fallen below zero/freezing recently.
+- His marks in English have been below `average` for some time now.
+- The temperature has fallen below `zero/freezing` recently.
 
 ## 152. beside ## preposition
 /bəˈsɑɪd/ 
@@ -1006,7 +1006,7 @@
 /bʌt/ 
 [B1]except
 - Everyone knows but Andrew.
-- This car has been nothing but trouble - it's always breaking down!
+- This car has been `nothing` but trouble - it's always breaking down!
 
 ## 157. by ## preposition
 /bɑɪ/ NEAR
@@ -1062,7 +1062,7 @@
 ## 166. for ## preposition
 /fɔːr/ for sure
 [B1]without any doubt
-- I think he's Canadian but I don't know for sure.
+- I think he's Canadian but I don't `know` for sure.
 - One thing's for sure - once the baby's born, your lives will never be the same again.
 
 ## 167. for ## preposition
@@ -1103,7 +1103,7 @@
 /ɪn/ in front
 [B1]further forward than someone or something else
 - The car in front suddenly stopped and I ran into the back of it.
-- She started talking to the man in front of her.
+- She started talking to the man in front `of` her.
 
 ## 174. in ## preposition
 /ɪn/ in love
@@ -1113,9 +1113,9 @@
 ## 175. in ## preposition
 /ɪn/ EXPERIENCE
 [B1]experiencing an emotion or condition
-- She's in a bad/good mood this morning.
-- You're in great danger.
-- He's living in luxury in the south of France.
+- She's in `a bad/good mood` this morning.
+- You're in great `danger`.
+- He's living in `luxury` in the south of France.
 
 ## 176. in ## preposition
 /ɪn/ ARRANGEMENT
@@ -1138,8 +1138,8 @@
 ## 179. in ## preposition
 /ɪn/ in detail
 [B1]including or considering all the information about something or every part of something
-- We haven't discussed the matter in detail yet.
-- The book described her sufferings in great detail.
+- We haven't `discussed` the matter in detail yet.
+- The book `described` her sufferings in `great` detail.
 
 ## 180. in ## preposition
 /ɪn/ in full
@@ -1173,8 +1173,8 @@
 /ɪn/ EXPRESSED
 [B1]expressed or written in a particular way
 - They spoke in Russian the whole time.
-- Why not do a rough answer in pencil first?
-- Complete the form in (black) ink.
+- Why not do a rough answer in `pencil` first?
+- Complete the form in `(black) ink`.
 
 ## 186. in ## preposition
 /ɪn/ in particular
@@ -1388,7 +1388,7 @@
 [B1]during a particular period of time
 - I was in Seattle over the summer.
 - We discussed the plans over lunch.
-- It's fascinating to watch how a baby changes and develops over time.
+- It's fascinating to watch how a baby changes and develops over `time`.
 
 ## 223. over ## preposition
 /ˈoʊ.vər/ OTHER SIDE
@@ -1403,7 +1403,7 @@
 ## 225. regarding ## preposition
 /rɪˈgɑrd.ɪŋ/ 
 [B1]about
-- I have a question regarding your last statement.
+- I have a `question` regarding your last statement.
 
 ## 226. through ## preposition
 /θruː/ BEGINNING TO END
@@ -1442,7 +1442,7 @@
 /tuː/ COMPARE
 [B1]used to compare two things
 - I prefer football to basketball.
-- She's earning a reasonable wage, but nothing to what she could make in a big company.
+- She's earning a reasonable wage, but `nothing` to what she could make in a big company.
 
 ## 232. to ## preposition
 /tuː/ UNTIL
@@ -1523,7 +1523,7 @@
 /wɪðˈɪn/ DISTANCE
 [B1]less than a particular distance from something
 - Two-thirds of Californians live within 15 miles of the coast.
-- The hotel is within easy reach of the airport.
+- The hotel is within `easy reach of` the airport.
 
 ## 246. without ## preposition
 /wɪðˈɑʊt/ without delay
@@ -1544,7 +1544,7 @@
 /əˈgenst/ NOT AGREE
 [B2]disagreeing with a plan or activity
 - She spoke against the decision to close the school.
-- Are you for or against the proposal?
+- Are you `for or` against the proposal?
 
 ## 250. against ## preposition
 /əˈgenst/ against the law
@@ -1562,7 +1562,7 @@
 [B2]in a particular group of people or things
 - Discuss it among yourselves for a few minutes.
 - Relax - you're among friends.
-- She has worked as a real estate agent among other things.
+- She has worked as a real estate agent among `other things`.
 
 ## 253. among ## preposition
 /əˈmʌŋ/ among other things
@@ -1650,8 +1650,8 @@
 ## 269. at ## preposition
 /æt/ at risk
 [B2]being in a situation where something bad is likely to happen
-- All houses within 400 feet of the beach are at risk of flooding.
-- Releasing these prisoners puts the public at risk.
+- All houses within 400 feet of the beach are at risk `of` flooding.
+- Releasing these prisoners `puts` the public at risk.
 
 ## 270. behind ## preposition
 /bəˈhɑɪnd/ behind bars
@@ -1672,7 +1672,7 @@
 ## 273. beyond ## preposition
 /biːˈɑnd/ beyond my/our, etc. control
 [B2]not able to be changed by me/us, etc.
-- Tonight's performance has been cancelled due to circumstances beyond our control.
+- Tonight's performance has been cancelled due to `circumstances` beyond our control.
 
 ## 274. by ## preposition
 /bɑɪ/ HOLDING
@@ -1682,7 +1682,7 @@
 ## 275. by ## preposition
 /bɑɪ/ by far
 [B2]by a great amount
-- They are by far the best students in the class.
+- They are by far `the best` students in the class.
 
 ## 276. by ## preposition
 /bɑɪ/ by heart
@@ -1754,8 +1754,8 @@
 ## 288. from ## preposition
 /frɑm/ CHANGE
 [B2]used to show a change in the state of someone or something
-- Things went from bad to worse.
-- She has been promoted from manager to director.
+- Things went from bad `to` worse.
+- She has been promoted from manager `to` director.
 
 ## 289. from ## preposition
 /frɑm/ POSITION
@@ -1818,9 +1818,9 @@
 ## 300. in ## preposition
 /ɪn/ RESULT
 [B2]used when referring to something that is done as a result of something else
-- I'd like to do something for you in return/exchange for everything you've done for me.
-- The changes are in response to demand from our customers.
-- He refused to say anything in reply to the journalists' questions.
+- I'd like to do something for you in `return`/`exchange` for everything you've done for me.
+- The changes are in `response` to demand from our customers.
+- He refused to say anything in `reply` to the journalists' questions.
 
 ## 301. in ## preposition
 /ɪn/ in brief
@@ -2041,9 +2041,9 @@
 ## 342. out of ## preposition
 /ˈɑʊt̬.əv/ BECAUSE OF
 [B2]used to show the reason why someone does something
-- I took the job out of necessity because we had no money left.
-- She volunteered out of a sense of duty.
-- I only went there out of curiosity.
+- I took the job out of `necessity` because we had no money left.
+- She volunteered out of `a sense of` duty.
+- I only went there out of `curiosity`.
 
 ## 343. out of ## preposition
 /ˈɑʊt̬.əv/ be out of sth
@@ -2059,7 +2059,7 @@
 /ˈɑʊt̬.əv/ out of control
 [B2]If something or someone is out of control, you cannot influence, limit or direct it.
 - The weeds in my garden are out of control.
-- The car went out of control, crashing into an oncoming truck.
+- The car `went` out of control, crashing into an oncoming truck.
 
 ## 346. out of ## preposition
 /ˈɑʊt̬.əv/ out of nowhere
@@ -2134,8 +2134,8 @@
 ## 359. under ## preposition
 /ˈʌn.dər/ IN A PARTICULAR STATE
 [B2]in a particular state or condition
-- The President is under pressure to resign.
-- Under no circumstances should the festival become too specialized.
+- The President is under `pressure` to resign.
+- Under `no circumstances` should the festival become too specialized.
 
 ## 360. under ## preposition
 /ˈʌn.dər/ under attack/control/investigation, etc.
@@ -2149,8 +2149,8 @@
 ## 361. under ## preposition
 /ˈʌn.dər/ be under the impression
 [B2]to think or understand a particular stated thing
-- I was under the impression (that) you didn't get along very well.
-- He was under the mistaken impression (that) you were married.
+- I was under the impression `(that)` you didn't get along very well.
+- He was under the mistaken impression `(that)` you were married.
 
 ## 362. unlike ## preposition
 /ʌnˈlɑɪk/ DIFFERENT
@@ -2168,7 +2168,7 @@
 /əˈpɑn/ ON
 [B2]on
 - Upon her head she wore a black velvet hat.
-- Please report to the reception desk upon arrival.
+- Please report to the reception desk upon `arrival`.
 
 ## 365. with ## preposition
 /wɪð/ CAUSE
@@ -2190,7 +2190,7 @@
 /wɪðˈɪn/ LIMIT
 [B2]not outside the limits of something
 - We came within five points of beating them.
-- The project was completed well within budget.
+- The project was completed well within `budget`.
 
 ## 369. aboard ## adverb ; preposition
 /əˈbɔːrd/ 
@@ -2221,12 +2221,12 @@
 ## 374. alongside ## adverb ; preposition
 /əˈlɑŋˌsɑɪd/ WITH
 [C1]together with someone
-- She enjoyed working alongside such famous actors.
+- She enjoyed `working` alongside such famous actors.
 
 ## 375. amid ## preposition
 /əˈmɪd/ WHILE
 [C1]while something else is happening
-- Security was increased amid fears of further terrorist attacks.
+- Security was increased amid `fears` of further terrorist attacks.
 
 ## 376. among ## preposition
 /əˈmʌŋ/ DIVIDE
@@ -2236,7 +2236,7 @@
 ## 377. around ## preposition
 /əˈrɑʊnd/ around the clock
 [C1]all day and all night
-- Rescue teams are working around the clock to search for survivors of the earthquake.
+- Rescue teams are `working` around the clock to search for survivors of the earthquake.
 
 ## 378. as ## adverb; preposition
 /æz/ as it happens
@@ -2257,7 +2257,7 @@
 ## 381. as ## adverb; preposition
 /æz/ as a consequence
 [C1]used to talk about one thing that is the result of another
-- A lot of birds died as a consequence of the oil spill.
+- A lot of birds died as a consequence `of` the oil spill.
 
 ## 382. at ## preposition
 /æt/ at the expense of sth
@@ -2267,8 +2267,8 @@
 ## 383. at ## preposition
 /æt/ at face value
 [C1]If you accept something at face value because of the way it first looks or seems, you do so without thinking carefully about it.
-- You can't just accept everything you read in the newspapers at face value.
-- These results should not be taken at face value - careful analysis is required to assess their full implications.
+- You can't just `accept` everything you read in the newspapers at face value.
+- These results should not be `taken` at face value - careful analysis is required to assess their full implications.
 
 ## 384. at ## preposition
 /æt/ at a glance
@@ -2513,8 +2513,8 @@
 ## 431. in ## preposition
 /ɪn/ in store
 [C1]going to happen soon
-- You never know what's in store for you.
-- There's a bit of a shock in store for him when he gets home tonight!
+- You never know what's in store `for` you.
+- There's a bit of a shock in store `for` him when he gets home tonight!
 
 ## 432. like ## preposition
 /lɑɪk/ like crazy
@@ -2586,8 +2586,8 @@
 ## 444. on ## preposition
 /ɔːn/ on the grounds of/that
 [C1]because of a particular reason
-- You cannot discriminate on the grounds of religion.
-- I refused on the grounds that it was too risky.
+- You cannot discriminate `on the` grounds `of` religion.
+- I refused `on the` grounds `that` it was too risky.
 
 ## 445. on ## preposition
 /ɔːn/ on hold
@@ -2597,7 +2597,7 @@
 ## 446. on ## preposition
 /ɔːn/ on hold
 [C1]waiting to speak to someone on the telephone
-- His secretary put me on hold.
+- His secretary `put` me on hold.
 
 ## 447. on ## preposition
 /ɔːn/ on the horizon
@@ -2618,7 +2618,7 @@
 ## 450. on ## preposition
 /ɔːn/ on loan
 [C1]If something is on loan, someone is borrowing it.
-- Both paintings are on loan from the city museum.
+- Both paintings are on loan `from` the city museum.
 
 ## 451. on ## preposition
 /ɔːn/ on location
@@ -2634,7 +2634,7 @@
 /ɔːn/ on track
 [C1]making progress and likely to succeed
 - A fighter from Edinburgh is on track to become world heavyweight boxing champion.
-- We've got a lot of work to do but we're on the right track.
+- We've got a lot of work to do but we're on `the right` track.
 
 ## 454. on ## preposition
 /ɔːn/ on show
@@ -2749,7 +2749,7 @@
 ## 475. after ## preposition
 /ˈæf.tər/ NAMED FOR
 [C2]used when giving someone or something the same name as another person or thing
-- She’s named after her aunt.
+- She’s `named` after her aunt.
 - It was called the Biko building, after the famous South African.
 
 ## 476. against ## preposition
@@ -2832,7 +2832,7 @@
 ## 491. at ## preposition
 /æt/ at length
 [C2]If you talk about something at length, you talk for a long time.
-- We discussed both topics at length.
+- We `discussed` both topics at length.
 
 ## 492. at ## preposition
 /æt/ be at liberty to do sth
@@ -2898,12 +2898,12 @@
 ## 504. before ## preposition
 /bəˈfɔːr/ IMPORTANCE
 [C2]treated as more important than someone or something
-- They always put the children's needs before their own.
+- They always `put` the children's needs before their own.
 
 ## 505. behind ## preposition
 /bəˈhɑɪnd/ NOT AFFECTING
 [C2]If a bad experience or your own bad behavior is behind you, it does not exist or affect your life now.
-- He's put his troubled past behind him.
+- He's `put` his troubled past behind him.
 
 ## 506. behind ## preposition
 /bəˈhɑɪnd/ behind sb's back
@@ -2962,7 +2962,7 @@
 ## 516. beyond ## preposition
 /biːˈɑnd/ beyond a/the shadow of a doubt
 [C2]If something is true beyond a shadow of a doubt, it is certainly true.
-- He convinced me , but it hasn't been proved beyond the shadow of a doubt.
+- He convinced me , but it hasn't been `proved` beyond the shadow of a doubt.
 
 ## 517. beyond ## preposition
 /biːˈɑnd/ beyond your wildest dreams
@@ -3067,7 +3067,7 @@
 ## 537. in ## preposition
 /ɪn/ in the dark
 [C2]not knowing about something because other people are not telling you
-- They kept us in the dark about their plans.
+- They `kept` us in the dark about their plans.
 
 ## 538. in ## preposition
 /ɪn/ in demand
@@ -3172,8 +3172,8 @@
 ## 558. in ## preposition
 /ɪn/ in perspective
 [C2]when things are in perspective, you think about them in a sensible and realistic way, and understand how important or unimportant they really are
-- You must keep things in perspective - the overall situation isn't really that bad.
-- When you see pictures of their suffering, it puts your own problems in perspective.
+- You must `keep` things in perspective - the overall situation isn't really that bad.
+- When you see pictures of their suffering, it `puts` your own problems in perspective.
 
 ## 559. in ## preposition
 /ɪn/ in place
@@ -3208,7 +3208,7 @@
 ## 565. in ## preposition
 /ɪn/ in a rut
 [C2]in a bad situation where you do the same things all the time, or where it is impossible to make progress
-- He seems to be stuck in a rut at the moment.
+- He seems to be `stuck` in a rut at the moment.
 
 ## 566. in ## preposition
 /ɪn/ be in good taste
@@ -3281,7 +3281,7 @@
 /nɪr/ CONDITION
 [C2]almost in a particular state or condition
 - The runners were near exhaustion.
-- I was near (to) tears at one point during the movie.
+- I was near `(to)` tears at one point during the movie.
 - This is the nearest I ever came to winning anything.
 
 ## 580. of ## preposition
@@ -3328,7 +3328,7 @@
 ## 588. on ## preposition
 /ɔːn/ be on (your) guard
 [C2]to be ready to deal with something difficult that might happen
-- Companies were warned to be on their guard for suspicious packages.
+- Companies were warned to be on their guard `for` suspicious packages.
 
 ## 589. on ## preposition
 /ɔːn/ on hand
@@ -3404,7 +3404,7 @@
 ## 603. out of ## preposition
 /ˈɑʊt̬.əv/ (be) out of line
 [C2]If someone's actions or words are out of line, they are beyond what is considered acceptable in that situation.
-- You can disagree with her, but calling her dishonest was way out of line.
+- You can disagree with her, but calling her dishonest was `way` out of line.
 
 ## 604. out of ## preposition
 /ˈɑʊt̬.əv/ get out of hand
@@ -3424,7 +3424,7 @@
 ## 607. out of ## preposition
 /ˈɑʊt̬.əv/ out of proportion
 [C2]If something is out of proportion, it is much bigger or smaller than it should be, when compared to other things.
-- The punishment is completely out of proportion to the crime.
+- The punishment is completely out of proportion `to` the crime.
 
 ## 608. out of ## preposition
 /ˈɑʊt̬.əv/ be out of the question
@@ -3445,7 +3445,7 @@
 /ˈɑʊt̬.əv/ be out of touch
 [C2]to be unaware of things that have been happening or what other people think
 - Tell me what's been going on - I've been away for a month and out of touch.
-- A few of the older teachers are completely out of touch with their students.
+- A few of the older teachers are completely out of touch `with` their students.
 
 ## 612. over ## preposition
 /ˈoʊ.vər/ CONTROL

@@ -3,17 +3,17 @@
 [A1]the fourth month of the year, after March and before May
 - the 20th of April/April 20(th)
 - The meeting was held on the fourth of April/April fourth.
-- I took a course in London last April.
-- I'm taking a course in London next April.
-- We came back in April.
+- I took a course in London `last` April.
+- I'm taking a course in London `next` April.
+- We came back `in` April.
 
 ## 2. August ## noun [C or U]
 /ˈɔː.gəst/ 
 [A1]the eighth month of the year, after July and before September
 - the 13th of August/August 13(th)
 - We've got friends coming at the end of August.
-- They got married last August.
-- They're getting married next August.
+- They got married `last` August.
+- They're getting married `next` August.
 - It was one of the hottest Augusts on record.
 
 ## 3. CD ## noun [C]
@@ -30,16 +30,16 @@
 /ˌdiː.viːˈdiː/ 
 [A1]digital versatile disc or digital video disc: a disc used for storing and playing music, films or information
 - I've got a DVD of the first series.
-- Is the movie available on DVD?
+- Is the movie available `on` DVD?
 - a DVD player
 
 ## 6. December ## noun [C or U]
 /dɪˈsem.bər/ 
 [A1]the twelfth and last month of the year
 - the 23rd of December/December 23(rd)
-- Their baby was born last December.
-- Jonathan finishes his course next December.
-- My parents got married in/during December.
+- Their baby was born `last` December.
+- Jonathan finishes his course `next` December.
+- My parents got married `in/during` December.
 - It was one of the coldest Decembers ever.
 
 ## 7. February ## noun [C or U]
@@ -47,14 +47,14 @@
 [A1]the second month of the year, after January and before March
 - the 28th of February/February 28(th)
 - I was born on the fifth of February/February fifth.
-- We moved into a new house last February
-- We are moving into a new house next February.
-- Building work is expected to start in February.
+- We moved into a new house `last` February
+- We are moving into a new house `next` February.
+- Building work is expected to start `in` February.
 
 ## 8. Friday ## noun [C or U]
 /ˈfrɑɪ.deɪ/ 
 [A1]the day of the week after Thursday and before Saturday
-- Do you want to go to the theater on Friday?
+- Do you want to go to the theater `on` Friday?
 - I love Fridays because I leave work early.
 
 ## 9. January ## noun [C or U]
@@ -70,32 +70,32 @@
 - July 22(nd)
 - Ben's birthday is the eleventh of July.
 - next/last July
-- The film festival is in/during July.
+- The film festival is `in/during` July.
 
 ## 11. June ## noun [C or U]
 /dʒuːn/ 
 [A1]the sixth month of the year, after May and before July
 - Her birthday is June 24th.
-- He arrived on the fifth of June/June the fifth.
+- He arrived `on` the fifth of June/June the fifth.
 - last/next June
-- I went to visit my father in June.
+- I went to visit my father `in` June.
 
 ## 12. March ## noun [C or U]
 /mɑrtʃ/ 
 [A1]the third month of the year, after February and before April
 - the 26th of March/March 26th
 - My birthday is March eleventh.
-- He retired last March.
-- We're going to Australia next March.
-- We'll get together in March.
+- He retired `last` March.
+- We're going to Australia `next` March.
+- We'll get together `in` March.
 
 ## 13. May ## noun [C or U]
 /meɪ/ 
 [A1]the fifth month of the year, after April and before June
 - the 30th of May/May 30(th)
-- My mother's birthday is in May.
-- They came over last May.
-- We'll see her next May.
+- My mother's birthday is `in` May.
+- They came over `last` May.
+- We'll see her `next` May.
 
 ## 14. Miss ## noun
 /mɪs/ 
@@ -106,10 +106,10 @@
 ## 15. Monday ## noun [C or U]
 /ˈmʌn.deɪ/ 
 [A1]the day of the week after Sunday and before Tuesday
-- I start my new job on Monday.
-- I saw her last Monday.
-- We leave next Monday.
-- I was born on a Monday.
+- I start my new job `on` Monday.
+- I saw her `last` Monday.
+- We leave `next` Monday.
+- I was born `on` a Monday.
 
 ## 16. Mr. ## noun
 /ˈmɪs.tər/ 
@@ -130,40 +130,40 @@
 /noʊˈvem.bər/ 
 [A1]the eleventh month of the year, after October and before December
 - 5(th) of November/November 5(th)
-- Guy Fawkes' Night is on the fifth of November.
-- The factory opened last November.
-- He's starting his new job in November.
+- Guy Fawkes' Night is `on` the fifth of November.
+- The factory opened `last` November.
+- He's starting his new job `in` November.
 
 ## 19. October ## noun [C or U]
 /ɑkˈtoʊ.bər/ 
 [A1]the tenth month of the year, after September and before November
 - the 22nd of October/October 22nd
-- We're leaving for Italy on October ninth/the ninth of October.
-- Sara's birthday is some time in October.
+- We're leaving for Italy `on` October ninth/the ninth of October.
+- Sara's birthday is some time `in` October.
 - It's been the wettest October for years.
 
 ## 20. Saturday ## noun [C or U]
 /ˈsæt̬.ər.deɪ/ 
 [A1]the day of the week after Friday and before Sunday
-- He's leaving on Saturday.
-- Most of our swim meets are held on Saturdays.
-- Joel was born on a Saturday.
-- last/next Saturday
-- Saturday morning/afternoon/evening
+- He's leaving `on` Saturday.
+- Most of our swim meets are held `on` Saturdays.
+- Joel was born `on a` Saturday.
+- `last/next` Saturday
+- Saturday `morning/afternoon/evening`
 
 ## 21. September ## noun [C or U]
 /sepˈtem.bər/ 
 [A1]the ninth month of the year, after August and before October
 - the 23rd of September/September 23(rd)
-- We're leaving for France on September ninth/the ninth of September.
-- Claudia started school last September/is starting school next September.
-- My mother's birthday is in September.
+- We're leaving for France `on` September ninth/the ninth of September.
+- Claudia started school `last` September/is starting school `next` September.
+- My mother's birthday is `in` September.
 
 ## 22. Sunday ## noun [C or U]
 /ˈsʌn.deɪ/ 
 [A1]the day of the week after Saturday and before Monday
 - They go walking every Sunday.
-- We're going to visit my aunt and uncle on Sunday.
+- We're going to visit my aunt and uncle `on` Sunday.
 
 ## 23. T-shirt ## noun [C]
 /ˈtiː.ʃɜrt/ 
@@ -173,9 +173,9 @@
 ## 24. TV ## noun [C or U]
 /ˌtiːˈviː/ 
 [A1]television
-- What's on TV tonight?
-- You watch too much TV!
-- We ate in front of the TV.
+- What's `on` TV tonight?
+- You `watch` too much TV!
+- We ate `in front of the` TV.
 - TV personalities
 
 ## 25. Thursday ## noun [C or U]
@@ -188,7 +188,7 @@
 ## 26. Tuesday ## noun [C or U]
 /ˈtuːz.deɪ/ 
 [A1]the day of the week after Monday and before Wednesday
-- We'll meet at eight on Tuesday.
+- We'll meet at eight `on` Tuesday.
 - We meet every Tuesday.
 - Tuesday afternoon
 - The twenty-ninth is a Tuesday, isn't it?
@@ -196,27 +196,27 @@
 ## 27. Web site ## noun [C]
 /ˈweb.sɑɪt/ 
 [A1]a set of pages of information on the Internet about a particular subject that have been published by the same person or organization and that often contain color pictures, video, and sound
-- For more information about other Cambridge titles, visit our Web site at www.cambridge.org.
+- For more information about other Cambridge titles, `visit` our Web site `at` www.cambridge.org.
 
 ## 28. Wednesday ## noun [C or U]
 /ˈwenz.deɪ/ 
 [A1]the day of the week after Tuesday and before Thursday
-- Did you say the meeting is on Wednesday?
-- The restaurant is always closed on Wednesdays.
+- Did you say the meeting is `on` Wednesday?
+- The restaurant is always closed `on` Wednesdays.
 - Wednesday would be a good day for us to go running.
 
 ## 29. ad ## noun [C]
 /æd/ 
 [A1]an advertisement
-- TV/newspaper ads
-- a pop-up ad
-- I saw an ad for a part-time job that you might like.
+- `TV/newspaper` ads
+- a `pop-up` ad
+- I saw an ad `for` a part-time job that you might like.
 
 ## 30. address ## noun [C]
  BUILDING DETAILS
 [A1]the details of where a building is, including the building number, street name, city or town, etc.
-- her business/home address
-- a change of address
+- her `business/home` address
+- a `change of` address
 
 ## 31. address ## noun [C]
  ELECTRONIC
@@ -233,90 +233,90 @@
 [A1]the time between the middle of the day and the evening
 - It was a sunny afternoon.
 - She works three afternoons a week at the library.
-- Let's go to the park this afternoon.
-- She's coming by on Wednesday afternoon.
-- He's been in a bad mood all afternoon.
+- Let's go to the park `this` afternoon.
+- She's coming by `on` Wednesday afternoon.
+- He's been in a bad mood `all` afternoon.
 
 ## 34. age ## noun
 /eɪdʒ/ HOW OLD
 [A1]the number of years that someone has lived, or that something has existed
 - I'd guess she's about my age.
-- We're the same age.
-- She was 74 years of age when she wrote her first novel.
-- He left home at the age of 16.
-- The show appeals to people of all ages.
+- We're the `same` age.
+- She was 74 `years of` age when she wrote her first novel.
+- He left home `at the` age `of` 16.
+- The show appeals to people `of all` ages.
 
 ## 35. animal ## noun [C]
 /ˈæn.ə.məl/ NOT A HUMAN
 [A1]something that lives and moves but is not a human, bird, fish or insect
-- wild/domestic animals
+- `wild/domestic` animals
 - She's a real animal lover.
 
 ## 36. answer ## noun
 /ˈæn.sər/ REACTION
 [A1]what you say or write back to someone who has asked you a question or spoken to you
 - I asked him if he was going but I didn't hear his answer.
-- Please give me your answer by next week.
+- Please `give` me your answer by next week.
 
 ## 37. apple ## noun [C or U]
 /ˈæp.əl/ 
 [A1]a hard, round fruit that has a green or red skin and is white inside
 - to peel an apple
-- apple pie/sauce
-- an apple tree
+- apple `pie/sauce`
+- an apple `tree`
 
 ## 38. arm ## noun [C]
 /ɑrm/ BODY
 [A1]the long part at each side of the human body, ending in a hand
 - My arms ache from carrying this bag.
-- She put/threw her arms around me, and hugged me to her.
-- He took/held her in his arms.
+- She `put/threw` her arms `around` me, and hugged me to her.
+- He `took/held` her `in` his arms.
 
 ## 39. baby ## noun [C]
 /ˈbeɪ.bi/ CHILD
 [A1]a very young child
-- a baby boy/girl
-- baby clothes
-- Sandra had a baby on May 29th.
+- a baby `boy/girl`
+- baby `clothes`
+- Sandra `had` a baby on May 29th.
 
 ## 40. bag ## noun [C]
 /bæg/ 
 [A1]a container made of paper, plastic, leather, etc., used for carrying things
-- a paper/plastic bag
-- a bag of apples/nuts
-- He packed his bags and left.
+- a `paper/plastic` bag
+- a bag `of` apples/nuts
+- He `packed` his bags and left.
 
 ## 41. ball ## noun [C]
 /bɔːl/ ROUND OBJECT
 [A1]a round object that you throw, kick, or hit in a game, or something with this shape
-- a beach/golf/tennis ball
-- She threw a ball at me and I caught it.
-- Just try to concentrate on hitting/kicking the ball.
+- a `beach/golf/tennis` ball
+- She `threw` a ball at me and I `caught` it.
+- Just try to concentrate on `hitting/kicking` the ball.
 - a ball of wool
-- The kitten curled itself into a ball.
+- The kitten `curled` itself `into a` ball.
 
 ## 42. banana ## noun [C or U]
 /bəˈnæn.ə/ 
 [A1]a long curved fruit with a yellow skin
-- a bunch of bananas
+- a `bunch of` bananas
 - banana milkshake
 
 ## 43. band ## noun [C]
 /bænd/ 
 [A1]a group of musicians who play modern music together
-- a jazz/rock band
+- a `jazz/rock` band
 - The Beatles are probably the most famous band in the world.
 
 ## 44. bank ## noun [C]
 /bæŋk/ MONEY
 [A1]an organization or place where you can borrow money, save money, etc.
 - I need to go to the bank at lunchtime.
-- I had to take out a bank loan to start my own business.
+- I had to take out a bank `loan` to start my own business.
 
 ## 45. baseball ## noun [C or U]
 /ˈbeɪs.bɔːl/ 
 [A1](the ball used in) a game played by two teams of nine players, in which a player hits a ball with a bat and tries to run around the four corners of a large square area of the field before the other team returns the ball
-- Jake never played baseball like the other kids.
+- Jake never `played` baseball like the other kids.
 - He had a baseball and a couple of bats in his sports bag.
 
 ## 46. basketball ## noun [C or U]
@@ -327,12 +327,12 @@
 ## 47. bat ## noun [C]
 /bæt/ STICK
 [A1]a specially shaped piece of wood used for hitting the ball in many games
-- a baseball/cricket bat
+- a `baseball/cricket` bat
 
 ## 48. bath ## noun [C]
 /bæθ/ 
 [A1]when you wash your body in a bathtub
-- I took a bath this morning.
+- I `took` a bath this morning.
 - bath oil
 
 ## 49. bathroom ## noun [C]
@@ -343,7 +343,7 @@
 ## 50. beach ## noun [C]
 /biːtʃ/ 
 [A1]an area of sand or small stones next to the ocean or a lake
-- We spent the day at the beach.
+- We spent the day `at` the beach.
 - beach chairs
 - a beach towel
 
@@ -359,16 +359,16 @@
 /bɪrd/ 
 [A1]the hair that grows on a man's chin
 - a long white beard
-- He's growing a beard.
-- He shaved off his beard but kept his moustache.
+- He's `growing` a beard.
+- He `shaved off` his beard but kept his moustache.
 
 ## 53. bed ## noun
 /bed/ FOR SLEEP
 [A1]a piece of furniture that you sleep on
 - He lived in a room with only two chairs, a bed and a table.
-- He likes to have breakfast in bed on a Saturday morning.
-- She didn't get out of bed till lunchtime today.
-- I'm exhausted - I'm going to bed.
+- He likes to have breakfast `in` bed on a Saturday morning.
+- She didn't get `out of` bed till lunchtime today.
+- I'm exhausted - I'm `going to` bed.
 
 ## 54. bedroom ## noun [C]
 /ˈbed.ruːm/ 
@@ -380,30 +380,30 @@
 [A1]an alcoholic drink made from grain
 - a bottle of beer
 - Would you like another beer?
-- This beer is brewed in Mexico.
+- This beer is `brewed` in Mexico.
 
 ## 56. bike ## noun [C]
 /bɑɪk/ BICYCLE
 [A1]a bicycle
-- He was on his bike.
-- My youngest child is learning to ride a bike.
-- We could go bike riding / for a bike ride.
+- He was `on` his bike.
+- My youngest child is learning to `ride` a bike.
+- We could go bike `riding` / for a bike `ride`.
 
 ## 57. bird ## noun [C]
 /bɜrd/ 
 [A1]an animal that has wings and feathers, and is usually able to fly
-- caged/wild birds
+- `caged/wild` birds
 - sea birds
 - Most birds lay eggs in the spring.
-- We watched a flock of birds fly over the field.
+- We watched a `flock of` birds fly over the field.
 
 ## 58. birthday ## noun [C]
 /ˈbɜrθ.deɪ/ 
 [A1]the day on which someone was born, or the same date each year
-- Happy birthday!
-- She is celebrating her 70th birthday.
-- Is she having a birthday party?
-- I'm making her a birthday cake.
+- `Happy` birthday!
+- She is `celebrating` her 70th birthday.
+- Is she having a birthday `party`?
+- I'm making her a birthday `cake`.
 
 ## 59. blouse ## noun [C]
 /blɑʊz/ 
@@ -422,7 +422,7 @@
 /boʊt/ 
 [A1]a vehicle for traveling on water
 - a fishing boat
-- Are you going by boat?
+- Are you going `by` boat?
 
 ## 62. body ## noun [C]
 /ˈbɑd.i/ PERSON
@@ -433,15 +433,15 @@
 ## 63. book ## noun [C]
 /bʊk/ FOR READING
 [A1]a set of attached pages in a cover, with words or pictures that tell a story or provide information
-- I've read all his books.
-- She wrote a book about the island's history.
-- I bought a book about Quebec.
+- I've `read` all his books.
+- She `wrote` a book about the island's history.
+- I bought a book `about` Quebec.
 - an art/picture/children's/reference book
 
 ## 64. bookcase ## noun [C]
 /ˈbʊk.keɪs/ 
 [A1]a piece of furniture with shelves for putting books on
-- The gardening books are on/in that bookcase on the left.
+- The gardening books are `on`/`in` that bookcase on the left.
 
 ## 65. bookstore ## noun [C]
 /ˈbʊk.stɔːr/ 
@@ -451,72 +451,72 @@
 ## 66. boot ## noun [C]
 /buːt/ 
 [A1]a strong shoe that covers your foot and part of your leg
-- a pair of boots
-- work/hiking/snow boots
-- cowboy boots
+- a `pair of` boots
+- `work/hiking/snow` boots
+- `cowboy` boots
 
 ## 67. bottom ## noun
 /ˈbɑt̬.əm/ LOWEST PART
 [A1]the lowest part of something
-- He stood at the bottom of the stairs and called up to me.
-- Extra information can be found at the bottom of the page.
+- He stood `at the` bottom `of` the stairs and called up to me.
+- Extra information can be found `at the` bottom `of` the page.
 
 ## 68. box ## noun [C]
 /bɑks/ CONTAINER
 [A1]a square or rectangular container
-- a cardboard box
-- a box of chocolates
+- a `cardboard` box
+- a box `of` chocolates
 
 ## 69. boy ## noun [C]
 /bɔɪ/ 
 [A1]a male child or young man
-- a teenage boy
+- a `teenage` boy
 - You've been a very naughty boy!
-- All right, boys and girls, quiet now!
+- All right, boys `and girls`, quiet now!
 
 ## 70. bread ## noun [U]
 /bred/ 
 [A1]a basic food made by mixing flour, water and sometimes yeast
-- a piece/slice of bread
-- a loaf of bread
-- white/wheat/rye bread
-- sliced bread
-- fresh/stale bread
-- Do you bake your own bread?
+- a `piece/slice of` bread
+- a `loaf of` bread
+- `white/wheat/rye` bread
+- `sliced` bread
+- `fresh/stale` bread
+- Do you `bake` your own bread?
 
 ## 71. breakfast ## noun [C or U]
 /ˈbrek.fəst/ 
 [A1]the food you eat in the morning after you wake up
-- What do you want for breakfast?
-- Have you had breakfast?
+- What do you want `for` breakfast?
+- Have you `had` breakfast?
 - Breakfast is served in the dining room between 8:30 and 10.
 
 ## 72. brother ## noun [C]
 /ˈbrʌð.ər/ 
 [A1]a man or boy with the same parents as another person
 - Do you have any brothers and sisters?
-- Johnny is my younger/older/big/baby/little brother.
+- Johnny is my `younger/older/big/baby/little` brother.
 
 ## 73. bus ## noun [C]
 /bʌs/ 
 [A1]a large vehicle in which people are driven from one place to another
-- You should take the bus if you want to see the sights.
-- I decided to go by bus.
+- You should `take the` bus if you want to see the sights.
+- I decided to go `by` bus.
 
 ## 74. business ## noun
 /ˈbɪz.nəs/ SELLING
 [A1]the activity of buying and selling goods and services
-- He's in business with his cousin.
-- We decided to go into business together.
-- Our firm does a lot of business with overseas customers.
-- This new tax will put a lot of small companies out of business.
-- a business appointment/call/meeting
+- He's `in` business `with` his cousin.
+- We decided to `go into` business together.
+- Our firm `does` a lot of business `with` overseas customers.
+- This new tax will put a lot of small companies `out of` business.
+- a business `appointment/call/meeting`
 
 ## 75. butter ## noun [U]
 /ˈbʌt̬.ər/ 
 [A1]a pale yellow food made from cream that you put on bread or use in cooking
-- Have some bread and butter.
-- a butter dish
+- Have some `bread and` butter.
+- a butter `dish`
 
 ## 76. café ## noun [C]
 /kæˈfeɪ/ 
@@ -527,23 +527,23 @@
 /keɪk/ FOOD
 [A1]a sweet food made from flour, butter, sugar and eggs, mixed together and baked
 - chocolate cake
-- a birthday cake
-- Would you like a piece of/a slice of cake?
-- He made/baked a delicious cake.
+- a `birthday` cake
+- Would you like `a piece of/a slice of` cake?
+- He `made/baked` a delicious cake.
 
 ## 78. camera ## noun [C]
 /ˈkæm.rə/ 
 [A1]a device for taking photographs or making films or television programs
 - I forgot to take my camera with me to Portugal, so I couldn't take any photos.
-- Television camera crews broadcast the event all round the world.
+- Television camera `crews` broadcast the event all round the world.
 
 ## 79. car ## noun [C]
 /kɑr/ ROAD
 [A1]a road vehicle with an engine, four wheels, and seats for a small number of people
 - They don't have a car.
-- Where did you park your car?
-- It's quicker by car.
-- a car crash
+- Where did you `park` your car?
+- It's quicker `by` car.
+- a car `crash`
 
 ## 80. cat ## noun [C]
 /kæt/ 
@@ -565,8 +565,8 @@
 [A1]a food made from milk, which can either be firm or soft and is usually yellow or white in color
 - a slice of cheese
 - goat's cheese
-- I like soft French cheeses such as Brie and Camembert.
-- I prefer hard cheeses, like Cheddar.
+- I like `soft` French cheeses such as Brie and Camembert.
+- I prefer `hard` cheeses, like Cheddar.
 - cheese and crackers
 
 ## 84. child ## noun [C]
@@ -576,22 +576,22 @@
 - As a child I didn't eat vegetables.
 - A small group of children waited outside the door.
 - Both her children are now married with children of their own.
-- Jan is married with three young children.
+- Jan is married with three `young` children.
 
 ## 85. chocolate ## noun [C or U]
 /ˈtʃɑk.lət/ FOOD
 [A1]a sweet, usually brown, food that is prepared and sold in a block, or a small sweet made from this
-- a bar of chocolate
+- a `bar of` chocolate
 - chocolate biscuits
-- milk/dark/white chocolate
-- I took her a box of chocolates.
+- `milk/dark/white` chocolate
+- I took her a `box of` chocolates.
 
 ## 86. city ## noun [C]
 /ˈsɪt̬.i/ 
 [A1]a large town
 - the city of Boston
 - There's a huge park right in the center of the city.
-- Wellington is the capital city of New Zealand.
+- Wellington is the `capital` city of New Zealand.
 
 ## 87. class ## noun
 /klæs/ TEACHING GROUP
@@ -605,8 +605,8 @@
 /klæs/ LESSON
 [A1]a period of time in which students are taught something
 - My last class ends at 4 o'clock.
-- I got in trouble for talking in class.
-- Who takes/teaches your environmental studies class?
+- I got in trouble for talking `in` class.
+- Who `takes/teaches` your environmental studies class?
 - I missed my aerobics class yesterday.
 
 ## 89. classroom ## noun [C]
@@ -617,18 +617,18 @@
 ## 90. clock ## noun [C]
 /klɑk/ 
 [A1]a piece of equipment that shows you what time it is, usually in a house or on a building and not worn by a person
-- I could hear the clock ticking.
-- The town hall clock says 9 o'clock.
-- I think the kitchen clock is fast/slow.
-- The clock began to strike twelve.
-- Did you set the alarm clock?
+- I could hear the clock `ticking`.
+- The town hall clock `says` 9 o'clock.
+- I think the kitchen clock is `fast/slow`.
+- The clock began to `strike` twelve.
+- Did you `set` the alarm clock?
 
 ## 91. clothes ## noun [plural]
 /kloʊðz/ 
 [A1]items such as shirts, dresses and trousers that you wear on your body
-- She wears smart/casual clothes.
-- I'm just putting my clothes on.
-- Take your clothes off and get in the bath, Holly.
+- She `wears` smart/casual clothes.
+- I'm just `putting` my clothes `on`.
+- `Take` your clothes `off` and get in the bath, Holly.
 - a clothes shop
 
 ## 92. coat ## noun [C]
@@ -641,11 +641,11 @@
 /ˈkɔː.fi/ 
 [A1]a popular hot drink with a strong smell that is made from dark beans, or the beans or crushed beans from which this drink is made
 - fresh/instant coffee
-- a cup of coffee
+- a `cup of` coffee
 - decaffeinated coffee
 - Would you like some coffee?
-- I'd like a black/regular coffee, please.
-- Do you take/like milk in your coffee?
+- I'd like a `black/regular` coffee, please.
+- Do you `take/like` milk in your coffee?
 
 ## 94. coffee shop ## noun [C]
 /ˈkɑ.fiˌʃɑp/ 
@@ -657,25 +657,25 @@
 [A1]red, blue, green, yellow, etc.
 - She likes to wear bright colors.
 - What color are your eyes?
-- Does the shirt come in any other color?
-- Are the photos in color or black and white?
+- Does the shirt come `in` any other color?
+- Are the photos `in` color or black and white?
 
 ## 96. computer ## noun [C]
 /kəmˈpjuːt̬.ər/ 
 [A1]an electronic machine that can store and arrange large amounts of information
-- We've put all our records on the computer.
-- computer software/hardware
-- computer graphics
-- a computer program
-- computer games
+- We've put all our records `on` the computer.
+- computer `software/hardware`
+- computer `graphics`
+- a computer `program`
+- computer `games`
 
 ## 97. conversation ## noun [C or U]
 /ˌkɑn.vərˈseɪ.ʃən/ 
 [A1]a talk between two or more people, usually an informal one
-- a conversation about football.
-- I had a strange conversation with the guy who moved in upstairs.
-- It's impossible to hold/carry on a conversation with all this noise going on!
-- I struck up an interesting conversation with a man on the bus today.
+- a conversation `about` football.
+- I `had` a strange conversation `with` the guy who moved in upstairs.
+- It's impossible to `hold/carry on` a conversation with all this noise going on!
+- I `struck up` an interesting conversation `with` a man on the bus today.
 
 ## 98. country ## noun
 /ˈkʌn.tri/ POLITICAL UNIT
@@ -689,8 +689,8 @@
 [A1]a set of classes or a plan of study in a particular subject, usually a part of a program of study for a diploma, certificate, or degree
 - a writing/math/English, etc. course
 - Mike's six-month paralegal course ends in December.
-- Which course did you register for/enroll in?
-- Judy is taking an online course in medical records management.
+- Which course did you `register for/enroll in`?
+- Judy `is taking` an online course `in` medical records management.
 
 ## 100. course ## noun
 /kɔːrs/ of course
@@ -700,18 +700,18 @@
 ## 101. cow ## noun [C]
 /kɑʊ/ 
 [A1]a large female farm animal kept to produce meat and milk
-- a dairy cow
+- a `dairy` cow
 
 ## 102. cracker ## noun [C]
 /ˈkræk.ər/ 
 [A1]a flat, dry, small baked bread
-- cheese and crackers
+- `cheese and `crackers
 - Do you want some crackers with the soup?
 
 ## 103. credit card ## noun [C]
 /ˈkred.ɪtˌkɑrd/ 
 [A1]a small plastic card that allows you to buy something and pay for it later
-- I paid by credit card.
+- I paid `by` credit card.
 
 ## 104. cross ## noun [C]
 /krɔːs/ MARK
@@ -721,7 +721,7 @@
 ## 105. cup ## noun [C]
 /kʌp/ DRINKING CONTAINER
 [A1]a small round container, often with a handle, used for drinking tea, coffee, etc.
-- a cup of coffee/tea
+- a cup `of coffee/tea`
 - a cup and saucer
 - a plastic/paper cup
 - a coffee cup/teacup
@@ -729,7 +729,7 @@
 ## 106. dad ## noun [C]
 /dæd/ 
 [A1]a father
-- It was nice to see your mom and dad at the school concert last night.
+- It was nice to see your `mom and` dad at the school concert last night.
 - Can you give me a ride back from the movies tonight, Dad?
 
 ## 107. dance ## noun
@@ -740,14 +740,14 @@
 ## 108. dancing ## noun [U]
 /ˈdæn.sɪŋ/ 
 [A1]the activity of moving your feet and your body to the rhythm of music
-- Do you want to go dancing tonight?
+- Do you want to `go` dancing tonight?
 
 ## 109. date ## noun [C]
 /deɪt/ PARTICULAR DAY
 [A1]a particular day of a month or year
 - What's the date?/What's today's date?
 - Today's date is (Friday,) June 20th, 2008.
-- What is your date of birth?
+- What is your date `of birth`?
 
 ## 110. daughter ## noun [C]
 /ˈdɔːt̬.ər/ 
@@ -759,25 +759,25 @@
 [A1]a period of 24 hours
 - January has 31 days.
 - the days of the week
-- He runs five miles every day.
-- I saw him the day before yesterday.
-- We leave the day after tomorrow.
-- He was last seen alive five days ago.
-- I'll be seeing Pat in a few days
+- He runs five miles `every` day.
+- I saw him `the` day `before yesterday`.
+- We leave `the` day `after tomorrow`.
+- He was last seen alive five days `ago`.
+- I'll be seeing Pat `in a few` days
 
 ## 112. desk ## noun [C]
 /desk/ 
 [A1]a type of table that you can work at, often one with drawers
-- an office/school desk
-- She sat at her desk writing letters.
-- He had a pile of papers on his desk.
+- an `office/school` desk
+- She sat `at` her desk writing letters.
+- He had a pile of papers `on` his desk.
 
 ## 113. dictionary ## noun [C]
 /ˈdɪk.ʃəˌner.i/ 
 [A1]a book that contains a list of words in alphabetical order with their meanings explained or written in another language, or a similar product for use on a computer
 - a French-English/English-French dictionary
-- a bilingual/monolingual dictionary
-- To check how a word is spelled, look it up in a dictionary.
+- a `bilingual/monolingual` dictionary
+- To check how a word is spelled, `look` it `up` in a dictionary.
 
 ## 114. dining room ## noun [C]
 /ˈdɑɪ.nɪŋˌruːm/ 
@@ -787,14 +787,14 @@
 ## 115. dinner ## noun [C or U]
 /ˈdɪn.ər/ 
 [A1]the main meal of the day that people usually eat in the evening
-- We were just having (our) dinner.
+- We were just `having` (our) dinner.
 - We had some friends over for dinner on Saturday.
-- a candlelight dinner
+- a `candlelight` dinner
 
 ## 116. doctor ## noun [C]
 /ˈdɑk.tər/ 
 [A1]a person whose job is to treat people who are ill or hurt
-- You should see a doctor about that cough.
+- You should `see` a doctor about that cough.
 - Good morning, Doctor Smith/Doctor.
 
 ## 117. dog ## noun [C]
@@ -803,7 +803,7 @@
 - my pet dog
 - wild dogs
 - dog food
-- We could hear dogs barking in the distance.
+- We could hear dogs `barking` in the distance.
 
 ## 118. doll ## noun [C]
 /dɑl/ 
@@ -814,19 +814,19 @@
 /ˈdɑl.ər/ 
 [A1]the unit of money used in the US, Canada, Australia, New Zealand and some other countries
 - Can I borrow ten dollars?
-- The suitcase was full of dollar bills.
+- The suitcase was full of dollar `bills`.
 
 ## 120. door ## noun [C]
 /dɔːr/ 
 [A1]a flat object, often fixed at one edge, that is used to close the entrance of something such as a room or building, or the entrance itself
-- the front door
-- the back door
+- the `front` door
+- the `back` door
 - a car door
 - a sliding door
-- The door to his bedroom was locked.
-- We could hear someone knocking at/on the door.
-- Could you open/close/shut the door, please?
-- She asked me to answer the door.
+- The door `to` his bedroom was locked.
+- We could hear someone knocking `at/on` the door.
+- Could you `open/close/shut` the door, please?
+- She asked me to `answer` the door.
 
 ## 121. dress ## noun [C]
 /dres/ 
@@ -837,14 +837,14 @@
 ## 122. drink ## noun
 /drɪŋk/ LIQUID
 [A1]a liquid or an amount of liquid which is taken into the body through the mouth
-- Would you like a drink of water/tea/juice?
-- They'd had no food or drink for two days.
+- Would you like a drink `of` water/tea/juice?
+- They'd had no `food or` drink for two days.
 
 ## 123. e-mail ## noun
 /ˈiː.meɪl/ SYSTEM
 [A1]the system for using computers to send messages over the Internet
-- You can contact me by e-mail.
-- What's your e-mail address?
+- You can contact me `by` e-mail.
+- What's your e-mail `address`?
 
 ## 124. e-mail ## noun
 /ˈiː.meɪl/ MESSAGE
@@ -860,13 +860,13 @@
 ## 126. egg ## noun
 /eg/ FOOD
 [A1]an oval object with a hard shell which is produced by female birds, especially chickens, and which is eaten as food
-- a hard-boiled/soft-boiled egg
-- How do you like your eggs - fried or scrambled?
+- a `hard-boiled/soft-boiled` egg
+- How do you like your eggs - `fried` or `scrambled`?
 
 ## 127. end ## noun
 /end/ FINAL PART
 [A1]the final part of something such as a period of time, activity, or story
-- I'll pay you at the end of next month.
+- I'll pay you `at the` end `of` next month.
 - The end of the film was much more exciting than I'd expected.
 
 ## 128. eraser ## noun [C]
@@ -877,18 +877,18 @@
 ## 129. evening ## noun [C or U]
 /ˈiːv.nɪŋ/ 
 [A1]the part of the day between the afternoon and the night
-- I'm working late this evening.
-- In the evenings, I like to relax.
-- What are you doing tomorrow evening?
-- We usually go to the movies on Friday evenings.
+- I'm working late `this` evening.
+- `In the` evenings, I like to relax.
+- What are you doing `tomorrow` evening?
+- We usually go to the movies `on` Friday evenings.
 - I work in a restaurant and only get one evening off a week.
 
 ## 130. example ## noun [C]
 /ɪgˈzæm.pəl/ TYPICAL CASE
 [A1]something that is typical of the group of things being talked about
-- This painting here is a marvelous example of her work.
-- Could you give me an example of the improvements you have mentioned?
-- This is a very good/typical example of medieval Chinese architecture.
+- This painting here is a marvelous example `of` her work.
+- Could you give me an example `of` the improvements you have mentioned?
+- This is a very `good/typical` example of medieval Chinese architecture.
 - Look at the example before you do the exercise.
 
 ## 131. example ## noun [C]
@@ -900,37 +900,37 @@
 ## 132. eye ## noun [C]
 /ɑɪ/ BODY PART
 [A1]one of the two organs in your face, which you use to see with
-- He has no sight in his left/right eye.
+- He has no sight in his `left/right` eye.
 - She's got beautiful green eyes.
-- He closed his eyes and went to sleep.
+- He `closed` his eyes and went to sleep.
 
 ## 133. face ## noun
 /feɪs/ HEAD
 [A1]the front part of the head, where the eyes, nose and mouth are, or the expression on this part
 - She's got a long, thin face.
-- She had a worried expression on her face.
+- She had a worried expression `on` her face.
 
 ## 134. factory ## noun [C]
 /ˈfæk.tə.ri/ 
 [A1]a building or set of buildings where large amounts of goods are made using machines
 - a car/shoe factory
 - He works in a paint factory.
-- a factory worker/manager
+- a factory `worker/manager`
 
 ## 135. family ## noun
 /ˈfæm.ə.li/ RELATED PEOPLE
 [A1]a group of people who are related to each other, such as a mother, a father, and their children
 - A new family has moved in next door.
-- I come from a large family - I have three brothers and two sisters.
+- I come from a `large` family - I have three brothers and two sisters.
 - He doesn't have any family.
 - His family comes from Ireland.
-- This movie is good family entertainment.
-- How does family life suit you?
+- This movie is good family `entertainment`.
+- How does family `life` suit you?
 
 ## 136. farm ## noun [C]
 /fɑrm/ 
 [A1]an area of land with fields and buildings, used for growing crops and/or keeping animals as a business
-- farm animals
+- farm `animals`
 
 ## 137. father ## noun [C]
 /ˈfɑð.ər/ 
@@ -941,7 +941,7 @@
 /fɪʃ/ ANIMAL
 [A1]an animal that lives only in water and swims using its tail and fins
 - Several large fish live in the pond.
-- Sanjay caught the biggest fish I've ever seen.
+- Sanjay `caught` the biggest fish I've ever seen.
 
 ## 139. fish ## noun
 /fɪʃ/ FOOD
@@ -952,30 +952,30 @@
 ## 140. floor ## noun [C]
 /flɔːr/ SURFACE
 [A1]a surface that you walk on inside a building
-- a wood/tile floor
+- a `wood/tile` floor
 - The bathroom floor needs cleaning.
-- The children sat playing on the floor.
+- The children sat playing `on` the floor.
 
 ## 141. flower ## noun [C]
 /ˈflɑʊ.ər/ 
 [A1]the attractive, colored part of a plant where the seeds grow
-- wild flowers
-- to pick/cut flowers
-- a bunch of flowers
+- `wild` flowers
+- to `pick/cut` flowers
+- a `bunch of` flowers
 
 ## 142. food ## noun [C or U]
 /fuːd/ 
 [A1]something that people and animals eat, or plants absorb, to keep them alive
 - baby food
 - Thai food
-- to cook/prepare food
+- to `cook/prepare` food
 - There was lots of food at the party.
 
 ## 143. foot ## noun [C]
 /fʊt/ BODY PART
 [A1]one of the two flat parts on the ends of your legs that you stand on
 - I've hurt my left foot.
-- bare feet
+- `bare` feet
 
 ## 144. football ## noun
 /ˈfʊt.bɔːl/ BALL
@@ -985,40 +985,40 @@
 ## 145. friend ## noun [C]
 /frend/ PERSON YOU LIKE
 [A1]someone who you know well and like
-- She's my best/closest friend - we've known each other since we were five.
-- He's a family friend/friend of the family.
-- This restaurant was recommended to me by a friend of mine.
+- She's my `best/closest` friend - we've known each other since we were five.
+- He's a `family` friend/friend `of the family`.
+- This restaurant was recommended to me by a friend `of mine`.
 
 ## 146. fruit ## noun [C or U]
 /fruːt/ 
 [A1]something such as an apple or orange that grows on a tree or a bush, contains seeds, and can be eaten as food
-- fresh fruit
-- dried fruit
-- fruit juice
-- I eat three or four pieces of fruit a day.
-- I like exotic fruit, like mangoes and papayas.
-- He runs a fruit and vegetable stand at the outdoor market.
+- `fresh` fruit
+- `dried` fruit
+- fruit `juice`
+- I eat three or four `pieces of` fruit a day.
+- I like `exotic` fruit, like mangoes and papayas.
+- He runs a fruit `and vegetable` stand at the outdoor market.
 
 ## 147. fun ## noun [U]
 /fʌn/ PLEASURE
 [A1]enjoyment or pleasure, or something that gives you enjoyment or pleasure
-- Have fun!
-- They're having lots of fun in the pool.
+- `Have` fun!
+- They're having `lots of` fun in the pool.
 - She's fun to be with.
-- I really enjoyed your party - it was a lot of fun.
-- It's no fun/not much fun having to work weekends.
+- I really enjoyed your party - it was `a lot of` fun.
+- It's `no` fun/`not much` fun having to work weekends.
 
 ## 148. game ## noun [C]
 /geɪm/ ACTIVITY/SPORT
 [A1]an entertaining activity or sport that people play
-- computer games
-- Do you want to play a different game?
+- `computer` games
+- Do you want to `play` a different game?
 
 ## 149. garden ## noun [C]
 /ˈgɑrd.ən/ LAND
 [A1]a piece of land belonging to a house, where flowers and other plants are grown
-- a vegetable garden
-- He was working in the garden.
+- a `vegetable` garden
+- He was working `in` the garden.
 
 ## 150. girl ## noun [C]
 /ˈgɜrl/ 
@@ -1029,60 +1029,60 @@
 ## 151. glass ## noun
 /glæs/ SUBSTANCE
 [A1]a hard transparent substance that objects such as windows and bottles are made of
-- broken glass
+- `broken` glass
 - a glass jar/vase
 
 ## 152. glass ## noun
 /glæs/ CONTAINER
 [A1]a container made of glass that is used for drinking
-- Would you like a glass of water?
+- Would you like `a` glass `of` water?
 
 ## 153. glasses ## noun [plural]
 /ˈglæs.ɪz/ 
 [A1]a piece of equipment with two transparent parts that you wear in front of your eyes to help you see better
-- a pair of glasses
-- She was wearing glasses.
+- a `pair of` glasses
+- She was `wearing` glasses.
 
 ## 154. grass ## noun [U]
 /græs/ 
 [A1]a common plant with narrow green leaves that grows close to the ground
-- I've cut the grass.
+- I've `cut` the grass.
 - We lay on the grass in the sunshine.
 
 ## 155. group ## noun [C]
 /gruːp/ SET
 [A1]a number of people or things that are together in one place or are connected
-- I'm meeting a group of friends for dinner tonight.
+- I'm meeting a group `of` friends for dinner tonight.
 - The group meet(s) every month.
-- The children are taught in different age groups.
+- The children are taught in different `age` groups.
 
 ## 156. group ## noun [C]
 /gruːp/ MUSIC
 [A1]a number of people who play music together, especially pop music
-- a pop/rock group
+- a `pop/rock` group
 
 ## 157. guitar ## noun [C]
 /gəˈtɑr/ 
 [A1]a musical instrument with six strings and a long neck which is usually made of wood, and which is played by pulling or hitting the strings with the fingers
-- an acoustic/electric guitar
-- Do you play the guitar?
+- an `acoustic/electric` guitar
+- Do you `play` the guitar?
 
 ## 158. hair ## noun
 /her/ ON HEAD
 [A1]the thin, thread-like parts that grow on your head
-- curly/straight hair
-- blond/dark/fair/gray/red hair
-- She has long/short/shoulder-length brown hair.
-- I'm going to get my hair cut.
+- `curly/straight` hair
+- `blond/dark/fair/gray/red` hair
+- She has `long/short/shoulder-length` brown hair.
+- I'm going to `get` my hair `cut`.
 
 ## 159. hand ## noun [C]
 /hænd/ BODY PART
 [A1]the part of your body on the end of your arm that has fingers and a thumb
 - Take your hands out of your pockets!
-- You have to hold my hand when we cross the street.
-- They walked by, holding hands.
-- Hold your fork in your left hand and your knife in your right hand.
-- "Congratulations!" she said and shook my hand/shook hands with me.
+- You have to `hold` my hand when we cross the street.
+- They walked by, `holding` hands.
+- Hold your fork `in` your left hand and your knife `in` your right hand.
+- "Congratulations!" she said and `shook` my hand/`shook` hands `with` me.
 
 ## 160. hat ## noun [C]
 /hæt/ 
@@ -1095,62 +1095,62 @@
 [A1]the part of the body above the neck that contains your brain, eyes, nose, mouth, ears, etc., and on which your hair grows
 - Put this hat on to keep your head warm.
 - He fell and hit his head on the table.
-- She nodded/shook her head.
+- She `nodded/shook` her head.
 
 ## 162. holiday ## noun [C]
 /ˈhɑl.əˌdeɪ/ NO WORK/SCHOOL
 [A1]a day for celebration when many people are allowed to stay away from work or school
-- a national holiday
+- a `national` holiday
 - the Fourth of July holiday
 
 ## 163. home ## noun
 /hoʊm/ 
 [A1]the place where you live or feel you belong
-- I tried to call him, but he wasn't at home.
+- I tried to call him, but he wasn't `at` home.
 - We sold our home in Dallas and moved to Atlanta.
-- He left home when he was eighteen.
-- I was actually born in New Zealand, but I've lived in England for so long that it feels like home now.
+- He `left` home when he was eighteen.
+- I was actually born in New Zealand, but I've lived in England for so long that it `feels like` home now.
 
 ## 164. homework ## noun [U]
 /ˈhoʊm.wɜrk/ 
 [A1]work that teachers give students to do at home
-- Have you done your homework yet?
-- history/math/science homework
+- Have you `done` your homework yet?
+- `history/math/science` homework
 
 ## 165. horse ## noun [C]
 /hɔːrs/ 
 [A1]a large animal with four legs, which people ride on or use for carrying things or pulling vehicles
-- to ride a horse
+- to `ride` a horse
 - a horse and cart
 
 ## 166. hospital ## noun [C]
 /ˈhɑsˌpɪt̬.əl/ 
 [A1]a place where ill or injured people go to be treated by doctors and nurses
-- I have to go to the hospital to have an operation.
-- She spent a week in the hospital last year.
+- I have to go `to` the hospital to have an operation.
+- She spent a week `in` the hospital last year.
 
 ## 167. hotel ## noun [C]
 /hoʊˈtel/ 
 [A1]a place where you pay to stay when you are away from home
 - a 4-star hotel
-- We stayed in/at a hotel near the beach.
-- hotel guests
+- We stayed `in/at` a hotel near the beach.
+- hotel `guests`
 
 ## 168. hour ## noun [C]
 /ɑʊr/ 60 MINUTES
 [A1]a period of 60 minutes
-- The exam lasted an hour and a half.
-- The trip took about three hours.
+- The exam `lasted` an hour and a half.
+- The trip `took` about three hours.
 - There are 24 hours in a day.
 - How many hours' sleep do you need?
-- I'll be back in an hour/in two hours.
-- Trains leave every hour on the hour.
+- I'll be back `in an hour/in two hours`.
+- Trains leave `every` hour `on the` hour.
 
 ## 169. house ## noun [C]
 /hɑʊs/ 
 [A1]a building where people live, usually one family or group
 - a three-bedroom house
-- to buy/rent a house
+- to `buy/rent` a house
 - We went to my aunt's house for dinner.
 
 ## 170. husband ## noun [C]
@@ -1166,7 +1166,7 @@
 ## 172. jacket ## noun [C]
 /ˈdʒæk.ɪt/ 
 [A1]a short coat
-- a leather/denim jacket
+- a `leather/denim` jacket
 - The keys are in my jacket pocket.
 
 ## 173. jeans ## noun [plural]
@@ -1178,29 +1178,29 @@
 ## 174. job ## noun
 /dʒɑb/ PAID EMPLOYMENT
 [A1]the regular work that you do in order to earn money
-- a full-time/part-time job
-- a low-paying/high-paying job
-- When she graduated college, she got a job as an editor at a publishing company.
-- She's applied for a job at/with an insurance company.
-- Hundreds of workers could lose their jobs.
+- a `full-time/part-time` job
+- a `low-paying/high-paying` job
+- When she graduated college, she `got` a job `as` an editor at a publishing company.
+- She's `applied for` a job `at/with` an insurance company.
+- Hundreds of workers could `lose` their jobs.
 
 ## 175. juice ## noun [C or U]
 /dʒuːs/ 
 [A1]the liquid that comes from fruit or vegetables
-- orange/lemon/grapefruit/tomato juice
-- a carton of apple juice
+- `orange/lemon/grapefruit/tomato` juice
+- a `carton of` apple juice
 
 ## 176. key ## noun [C]
 /kiː/ FOR LOCKS
 [A1]a piece of metal cut into a particular shape that is used for opening or closing the lock of a door, starting a car engine, etc.
-- car/door/house keys
+- `car`/`door`/`house` keys
 
 ## 177. kind ## noun [C]
 /kɑɪnd/ 
 [A1]a type of thing or person
 - What kind of music do you like?
-- They make vehicles that use two kinds of fuel - gasoline and diesel.
-- Her travel company was the first of its kind.
+- They make vehicles that use two kinds `of` fuel - gasoline and diesel.
+- Her travel company was the first `of its` kind.
 
 ## 178. kitchen ## noun [C]
 /ˈkɪtʃ.ən/ 
@@ -1212,13 +1212,13 @@
 /nɑɪf/ 
 [A1]a sharp tool, usually with a metal blade and a handle, used for cutting and spreading food or other substances, or as a weapon
 - a fish/butter/steak knife
-- I prefer to use a knife and fork.
-- He drew/pulled a knife and stabbed her.
+- I prefer to use a knife `and fork`.
+- He `drew/pulled` a knife and stabbed her.
 
 ## 180. language ## noun
 /ˈlæŋ.gwɪdʒ/ ENGLISH/SPANISH/JAPANESE, ETC.
 [A1]a type of communication used by the people of a particular country or by a particular group of people
-- How many languages do you speak?
+- How many languages do you `speak`?
 - the English language
 - American Sign Language
 
@@ -1233,22 +1233,22 @@
 /ˈles.ən/ TEACHING PERIOD
 [A1]a period of time when a teacher teaches people
 - How can we make science lessons more interesting?
-- Did you ever take piano lessons?
-- He gives French lessons.
+- Did you ever `take` piano lessons?
+- He `gives` French lessons.
 
 ## 183. letter ## noun [C]
 /ˈlet̬.ər/ MESSAGE
 [A1]a written message that you send to someone, usually in the mail
-- I got a letter from Francine this morning.
+- I `got` a letter `from` Francine this morning.
 
 ## 184. life ## noun
 /lɑɪf/ TIME
 [A1]the time between a person's birth and their death
 - Life's too short to worry about money!
-- I'm not sure I want to spend the rest of my life in this town.
-- Unfortunately, accidents are part of life.
-- He doesn't know what he really wants out of life.
-- He lost his life in the Great War.
+- I'm not sure I want to `spend` the rest of my life in this town.
+- Unfortunately, accidents are `part of` life.
+- He doesn't know what he really wants `out of` life.
+- He `lost` his life in the Great War.
 
 ## 185. living room ## noun [C]
 /ˈlɪv.ɪŋˌrʊm/ 
@@ -1258,11 +1258,11 @@
 ## 186. lot ## noun
 /lɑt/ a lot/lots
 [A1]a large amount or number of people or things
-- She eats lots of fruit.
-- There were a lot of people there.
+- She eats lots `of` fruit.
+- There were a lot `of` people there.
 - I've got a lot to do today.
-- He does lots of traveling for his job.
-- We met lots of people on vacation.
+- He does lots `of` traveling for his job.
+- We met lots `of` people on vacation.
 - Do you want some food? There's lots in the fridge.
 
 ## 187. lot ## noun
@@ -1277,7 +1277,7 @@
 /lʌntʃ/ 
 [A1]a meal that is eaten in the middle of the day
 - What's for lunch?
-- I'm sorry, Joanna isn't here at the moment, she's (gone) out to/at lunch.
+- I'm sorry, Joanna isn't here at the moment, she's `(gone) out to/at` lunch.
 
 ## 189. man ## noun
 /mæn/ MALE
@@ -1290,8 +1290,8 @@
 ## 190. meal ## noun [C]
 /miːl/ 
 [A1]an occasion when food is eaten, or the food which is eaten on such an occasion
-- make/prepare/cook a meal
-- a three-course meal
+- `make/prepare/cook` a meal
+- a `three-course` meal
 - They had to leave before the meal was served.
 - The fee for the program includes three meals a day.
 
@@ -1300,20 +1300,20 @@
 [A1]muscles and other soft parts of animals, used as food
 - I don't eat meat.
 - raw meat
-- red/white meat
+- `red/white` meat
 
 ## 192. message ## noun [C]
 /ˈmes.ɪdʒ/ INFORMATION
 [A1]a piece of writing or spoken information that one person gives to another
-- Did you get my message?
-- I've left her several messages, but she hasn't returned my call.
-- Could you give Jen a message from me, please?
-- I got your message that you were going to be late.
+- Did you `get` my message?
+- I've `left` her several messages, but she hasn't returned my call.
+- Could you `give` Jen a message from me, please?
+- I `got` your message that you were going to be late.
 
 ## 193. milk ## noun [U]
 /mɪlk/ 
 [A1]a white liquid produced by women and other female animals, such as cows
-- a glass/carton of milk
+- a `glass/carton` of milk
 - cow's/goat's milk
 
 ## 194. minute ## noun [C]
@@ -1334,10 +1334,10 @@
 [A1]the coins or bills that are used to buy things
 - How much money do you have?
 - I don't have much money on me.
-- I spent a lot of money.
-- Roger wanted to buy it but it cost too much money.
-- The company isn't making any money this year.
-- Try to save some money for your vacation.
+- I `spent` a lot of money.
+- Roger wanted to buy it but it `cost` too much money.
+- The company isn't `making` any money this year.
+- Try to `save` some money for your vacation.
 
 ## 197. month ## noun [C]
 /mʌnθ/ PART OF YEAR
@@ -1355,10 +1355,10 @@
 /ˈmɔːr.nɪŋ/ PART OF DAY
 [A1]the first half of the day, from the time when the sun rises or you wake up until the middle of the day
 - Friday morning
-- I got up late this morning.
+- I got up late `this` morning.
 - I work three mornings a week at the bookstore.
-- I have a dentist appointment tomorrow morning.
-- I'll see you on Saturday morning.
+- I have a dentist appointment `tomorrow` morning.
+- I'll see you `on` Saturday morning.
 
 ## 200. morning ## noun [C or U]
 /ˈmɔːr.nɪŋ/ (Good) morning
@@ -1375,7 +1375,7 @@
 [A1]a female parent
 - a single mother
 - My mother was 21 when she got married.
-- My mother and father came to England in 1944.
+- My mother `and father` came to England in 1944.
 
 ## 203. mouth ## noun [C]
 /mɑʊθ/ 
@@ -1386,17 +1386,17 @@
 ## 204. movie ## noun [C]
 /ˈmuː.vi/ PICTURE
 [A1]a story shown in moving pictures, shown in a theater or on television
-- Do you want to rent/watch a movie tonight?
+- Do you want to `rent/watch` a movie tonight?
 - My favorite movie is "Casablanca."
-- We took the kids to see a movie.
+- We took the kids to `see` a movie.
 - a horror/action movie
-- the movie industry
+- the movie `industry`
 
 ## 205. movie ## noun [C]
 /ˈmuː.vi/ the movies
 [A1]the showing of movies or the business of making movies
-- They go to the movies almost every Friday.
-- She worked in the movies for more than 60 years.
+- They `go to` the movies almost every Friday.
+- She worked `in` the movies for more than 60 years.
 
 ## 206. movie theater ## noun [C]
 /ˈmuː.viˌθiː.ət̬.ər/ 
@@ -1414,25 +1414,25 @@
 /ˈmjuː.zɪk/ SOUNDS
 [A1]a pattern of sounds that is made by playing instruments or singing, or a recording of this
 - classical/pop/dance/rock music
-- a beautiful piece of music
+- a beautiful `piece of` music
 - What sort of music do you listen to?
-- He plays really good music.
-- I just like making music.
-- Shall I put some music on?
+- He `plays` really good music.
+- I just like `making` music.
+- Shall I `put` some music `on`?
 
 ## 209. name ## noun
 /neɪm/ CALL
 [A1]the word or words that a person, thing or place is known by
 - Hi, what's your name? "My name's Diane."
-- Please write your full name and address on the form.
-- What's the name of that mountain in the distance?
-- That would be a good name for a dog.
-- The students were listed by name and by country of origin.
+- Please write your `full` name `and address` on the form.
+- What's `the` name `of` that mountain in the distance?
+- That would be a good name `for` a dog.
+- The students were listed `by` name and by country of origin.
 
 ## 210. nationality ## noun [C or U]
 /ˌnæʃ.əˈnæl.ət̬.i/ 
 [A1]If you have United States/British/Swiss, etc. nationality, you are legally a member of that country.
-- She is of French nationality.
+- She is `of` French nationality.
 - He did not give his nationality.
 - What nationality are you?
 - At the International School they have pupils of 46 different nationalities.
@@ -1440,33 +1440,33 @@
 ## 211. newspaper ## noun
 /ˈnuːzˌpeɪ.pər/ TO READ
 [A1]large, folded sheets of paper which are printed with the news and sold every day or every week
-- She never reads a newspaper.
-- a daily/Sunday newspaper
-- a local/national newspaper
-- I read about it in the newspaper.
+- She never `reads` a newspaper.
+- a `daily`/`Sunday` newspaper
+- a `local/national` newspaper
+- I read about it `in the` newspaper.
 
 ## 212. night ## noun [C or U]
 /nɑɪt/ DARK PERIOD
 [A1]the time in every 24 hours when it is dark and people usually sleep
-- It gets cold at night.
-- I slept really badly last night.
-- I spent the night at Ted's.
+- It gets cold `at` night.
+- I slept really badly `last` night.
+- I `spent` the night at Ted's.
 - He took the night ferry/train.
-- The phone rang in the middle of the night.
+- The phone rang `in the middle of the` night.
 - They're open from 7 in the morning until 10 o'clock at night.
 
 ## 213. night ## noun [C or U]
 /nɑɪt/ EVENING
 [A1]the period from the evening to the time when you go to sleep
-- We're seeing them on Saturday night.
+- We're seeing them `on` Saturday night.
 - I've been out every night this week.
-- Did you have a good time last night?
+- Did you have a good time `last` night?
 
 ## 214. noise ## noun [C or U]
 /nɔɪz/ 
 [A1]a sound, often a loud, unpleasant sound
 - The noise out in the street was deafening.
-- Stop making so much noise!
+- Stop `making` so much noise!
 - The engine was making funny noises.
 - I heard a loud noise and ran to the window.
 - traffic/background noise
@@ -1475,14 +1475,14 @@
 /noʊz/ ON FACE
 [A1]the part of your face through which you breathe and smell
 - a big nose
-- I've got a sore throat and a runny nose.
-- Come on now, stop crying and blow your nose.
+- I've got a sore throat and a `runny` nose.
+- Come on now, stop crying and `blow` your nose.
 
 ## 216. note ## noun
 /noʊt/ LETTER
 [A1]a short letter
-- He left a note to say he would be home late.
-- Did you get my note?
+- He `left` a note to say he would be home late.
+- Did you `get` my note?
 - There's a note pinned to the door saying when the store will open again.
 
 ## 217. number ## noun
@@ -1495,8 +1495,8 @@
 ## 218. number ## noun
 /ˈnʌm.bər/ TELEPHONE
 [A1]a telephone number
-- Do you know his phone number?
-- Do you have my cell number?
+- Do you know his `phone` number?
+- Do you have my `cell` number?
 - I gave him my number.
 
 ## 219. number ## noun
@@ -1509,25 +1509,25 @@
 /ˈɑr.ɪndʒ/ FRUIT
 [A1]a round, sweet fruit with a thick skin and a center that is divided into many equal parts
 - Do you want to get some oranges?
-- a glass of orange juice
+- a glass of orange `juice`
 
 ## 221. page ## noun [C]
 /peɪdʒ/ PAPER
 [A1]a piece of paper in a book, magazine, etc., or one side of a piece of paper
 - Now turn to page 17 in your course book.
 - For details on how to enter the competition, see page 134.
-- The article appeared on the front page of today's newspaper.
+- The article appeared on the `front` page of today's newspaper.
 
 ## 222. paint ## noun [C or U]
 /peɪnt/ 
 [A1]a colored liquid that you put on a surface such as a wall to decorate it, or that you use to produce a picture
-- a can of paint
+- a `can` of paint
 - There were so many paints to choose from that I couldn't decide which to buy.
 
 ## 223. pair ## noun [C]
 /per/ TWO PEOPLE
 [A1]two people who are doing something together
-- I'd like you to do this exercise in pairs.
+- I'd like you to do this exercise `in` pairs.
 
 ## 224. pants ## noun [plural]
 /pænts/ 
@@ -1537,8 +1537,8 @@
 ## 225. paper ## noun
 /ˈpeɪ.pər/ FLAT MATERIAL
 [A1]thin, flat material used for writing or drawing on, covering things in, etc.
-- a piece/sheet of paper
-- She works on paper because she hates computers.
+- a `piece/sheet` of paper
+- She works `on` paper because she hates computers.
 
 ## 226. parent ## noun [C]
 /ˈpær.ənt/ 
@@ -1555,30 +1555,30 @@
 ## 228. part ## noun
 /pɑrt/ PIECE
 [A1]a piece that combines with other pieces to form the whole of something
-- Which part of Buenos Aires do you live in?
-- They learn about the different parts of the body.
-- Fresh fruit and vegetables are an important part of a healthy diet.
+- Which part `of` Buenos Aires do you live in?
+- They learn about the different parts `of` the body.
+- Fresh fruit and vegetables are an `important` part `of` a healthy diet.
 
 ## 229. party ## noun [C]
 /ˈpɑrt̬.i/ EVENT
 [A1]a social event where people enjoy themselves by talking, eating, drinking, and dancing
-- a birthday party
-- We're having a party to celebrate Jack's new job.
-- Peter gives/throws really wild parties.
+- a `birthday` party
+- We're `having` a party to celebrate Jack's new job.
+- Peter `gives/throws` really wild parties.
 
 ## 230. pen ## noun [C]
 /pen/ 
 [A1]a long, thin object that you use to write or draw in ink
-- If you write in pen, or you won't be able to erase mistakes.
+- If you write `in` pen, or you won't be able to erase mistakes.
 
 ## 231. pencil ## noun [C]
 /ˈpen.səl/ 
 [A1]a long, thin, wooden object with a black or colored point that you write or draw with
-- a box of colored pencils
-- pens and pencils
-- a pencil sharpener
-- You'd better sharpen that pencil.
-- Write your comments in the margin of the report in pencil.
+- a box of `colored` pencils
+- `pens` and pencils
+- a pencil `sharpener`
+- You'd better `sharpen` that pencil.
+- Write your comments in the margin of the report `in` pencil.
 
 ## 232. people ## noun [plural]
 /ˈpiː.pəl/ 
@@ -1592,7 +1592,7 @@
 - He's a very dangerous person.
 - You're the only person I know at this party.
 - Who was the first person to swim the English Channel?
-- Dinner cost about $35 per person.
+- Dinner cost about $35 `per` person.
 
 ## 234. pet ## noun [C]
 /pet/ 
@@ -1603,31 +1603,31 @@
 ## 235. phone ## noun [C or U]
 /foʊn/ 
 [A1]a piece of electronic equipment that you use to talk to someone who is in another place
-- Just then, his phone rang.
-- Could you answer the phone?
-- We talk on the phone about twice a week.
-- She's on the phone, but can see you in just a minute.
-- You had three phone calls this morning.
-- Will you excuse me? I've got to make a phone call.
+- Just then, his phone `rang`.
+- Could you `answer` the phone?
+- We talk `on the` phone about twice a week.
+- She's `on the` phone, but can see you in just a minute.
+- You had three phone `calls` this morning.
+- Will you excuse me? I've got to `make a` phone `call`.
 
 ## 236. photo ## noun [C]
 /ˈfoʊt̬.oʊ/ 
 [A1]a picture produced using a camera
-- She took a lot of photos of the kids.
-- vacation/wedding photos
+- She `took` a lot of photos `of` the kids.
+- `vacation/wedding` photos
 
 ## 237. picnic ## noun [C]
 /ˈpɪk.nɪk/ 
 [A1]a meal that you make and take with you somewhere to eat outside
-- If the weather's nice we could have a picnic in the park.
-- Why don't you take a picnic with you?
-- a picnic area/lunch/table
+- If the weather's nice we could `have` a picnic in the park.
+- Why don't you `take` a picnic with you?
+- a picnic `area/lunch/table`
 
 ## 238. picture ## noun
 /ˈpɪk.tʃər/ DRAWING, ETC.
 [A1]a drawing, painting, or photograph of something or someone
-- Alex drew/painted a picture of my dog.
-- We took a picture of the children on their new bicycles.
+- Alex `drew/painted` a picture `of` my dog.
+- We `took` a picture of the children on their new bicycles.
 
 ## 239. pig ## noun [C]
 /pɪg/ 
@@ -1638,8 +1638,8 @@
 ## 240. pizza ## noun [C or U]
 /ˈpiːt.sə/ 
 [A1]a large circle of flat bread baked with cheese, tomatoes, and sometimes meat and vegetables spread on top
-- a slice of pizza
-- I like a lot of different pizza toppings.
+- a `slice` of pizza
+- I like a lot of different pizza `toppings`.
 
 ## 241. place ## noun
 /pleɪs/ SOMEWHERE
@@ -1647,44 +1647,44 @@
 - There are several places of interest to visit in the area.
 - It was a silly place to park.
 - This plant needs a warm, sunny place.
-- This looks like a nice place for a picnic.
+- This looks like a nice place `for` a picnic.
 - His leg was broken in two places.
-- Are your documents in a safe place?
+- Are your documents in a `safe` place?
 
 ## 242. plane ## noun [C]
 /pleɪn/ 
 [A1]a vehicle that flies and has at least one engine and wings
-- a passenger/cargo/private plane
-- She'd rather not travel shorter distances by plane.
-- He likes to watch the planes taking off and landing.
-- We'll be boarding the plane in about 20 minutes.
+- a `passenger/cargo/private` plane
+- She'd rather not travel shorter distances `by` plane.
+- He likes to watch the planes `taking off` and `landing`.
+- We'll be `boarding` the plane in about 20 minutes.
 
 ## 243. plant ## noun [C]
 /plænt/ 
 [A1]a living thing that grows in the soil or water and has leaves and roots, especially one that is smaller than a tree
-- garden/greenhouse/indoor plants
+- `garden/greenhouse/indoor` plants
 - native plants and animals
 - a tomato plant
 
 ## 244. plate ## noun [C]
 /pleɪt/ 
 [A1]a flat, round object that is used for putting food on
-- paper/plastic/china plates
-- a dinner/salad plate
-- clean/dirty plates
-- There's still lots of food on your plate.
+- `paper/plastic/china` plates
+- a `dinner/salad` plate
+- `clean/dirty` plates
+- There's still lots of food `on` your plate.
 
 ## 245. player ## noun [C]
 /ˈpleɪ.ər/ SPORT/GAME
 [A1]someone who takes part in a game or sport
-- a football/tennis player
+- a `football/tennis` player
 - Each player takes three cards.
 
 ## 246. potato ## noun [C or U]
 /pəˈteɪt̬.oʊ/ 
 [A1]a round vegetable with a brown, yellow, or red skin that grows in the ground
-- boiled/baked/roasted potatoes
-- mashed potato/potatoes
+- `boiled/baked/roasted` potatoes
+- `mashed` potato/potatoes
 
 ## 247. present ## noun
  the present
@@ -1694,49 +1694,49 @@
 ## 248. problem ## noun [C]
 /ˈprɑb.ləm/ DIFFICULT SITUATION
 [A1]a situation that causes difficulties and that needs to be dealt with
-- I'm having problems with my computer.
-- health/financial problems
-- Because of the state budget cuts, local schools are facing serious problems.
-- No one has solved the problem of what to do with radioactive waste.
+- I'm `having` problems `with` my computer.
+- `health/financial` problems
+- Because of the state budget cuts, local schools are facing `serious` problems.
+- No one has `solved` the problem `of` what to do with radioactive waste.
 
 ## 249. quarter ## noun
 /ˈkwɔːr.t̬.ər/ TIME
 [A1]a period of 15 minutes before or after the hour
-- It's (a) quarter to three.
-- We're leaving at (a) quarter after six.
+- It's (a) quarter `to` three.
+- We're leaving at (a) quarter `after` six.
 
 ## 250. question ## noun
 /ˈkwes.tʃən/ ASKING
 [A1]a sentence or phrase used to find out information
 - May I ask you a question?
-- Ask and answer questions with your partner.
-- If you have any questions about the schedule, please feel free to ask me.
-- "So what movies are playing?" "That's a good question."
+- Ask and `answer` questions with your partner.
+- If you have any questions `about` the schedule, please feel free to ask me.
+- "So what movies are playing?" "`That's a good` question."
 
 ## 251. radio ## noun
 /ˈreɪd.iːˌoʊ/ EQUIPMENT
 [A1]a piece of equipment used for listening to sound broadcasts
 - a car radio
-- Could you turn the radio on?
+- Could you `turn` the radio `on`?
 
 ## 252. radio ## noun
 /ˈreɪd.iːˌoʊ/ the radio
 [A1]the programs that you hear when you listen to the radio
-- We heard him talking on the radio this morning.
-- I listen to the radio in the morning.
+- We heard him talking `on` the radio this morning.
+- I `listen to` the radio in the morning.
 
 ## 253. rain ## noun [U]
 /reɪn/ 
 [A1]water that falls from the sky in small drops
-- heavy/light rain
-- We had to walk home in the rain.
+- `heavy/light` rain
+- We had to walk home `in the` rain.
 - Rain is forecast for tomorrow.
-- We got caught in pouring/torrential rain.
+- We got caught in `pouring/torrential` rain.
 
 ## 254. reading ## noun [U]
 /ˈriːd.ɪŋ/ 
 [A1]the activity or skill of getting information from books, newspapers, etc.
-- I did a lot of reading while I was on vacation.
+- I `did` a lot of reading while I was on vacation.
 - Both children find writing difficult but their reading is fine.
 - The diaries make good bedtime reading.
 
@@ -1749,28 +1749,28 @@
 ## 256. restaurant ## noun [C]
 /ˈres.tər.ɑnt/ 
 [A1]a place where you can buy and eat a meal
-- We had lunch at/in a restaurant near the station.
+- We had lunch `at/in a` restaurant near the station.
 
 ## 257. rice ## noun [U]
 /rɑɪs/ 
 [A1]small grains from a plant that are cooked and eaten
-- boiled/fried rice
+- `boiled/fried` rice
 - Do you prefer brown or white rice?
 
 ## 258. river ## noun [C]
 /ˈrɪv.ər/ 
 [A1]a long, natural area of water that flows across land and into the ocean, a lake, another river, etc.
 - the River Thames
-- Two major rivers flow through the town.
-- We sailed slowly down/up the river.
+- Two major rivers `flow` through the town.
+- We sailed slowly `down/up` the river.
 
 ## 259. road ## noun [C or U]
 /roʊd/ FOR DRIVING
 [A1]a route between places, usually with a hard surface built for vehicles to drive on
 - a dirt/gravel/paved road
-- We live on just off the main road.
+- We live on just off the `main` road.
 - The road takes you through some beautiful countryside.
-- Most road accidents are caused by people driving too fast.
+- Most road `accidents` are caused by people driving too fast.
 
 ## 260. road ## noun [C or U]
 /roʊd/ Road
@@ -1788,8 +1788,8 @@
 ## 262. salt ## noun [U]
 /sɔːlt/ 
 [A1]a white substance used to add flavor to food
-- salt and pepper
-- Pass the salt, please.
+- salt `and pepper`
+- `Pass` the salt, please.
 
 ## 263. sandwich ## noun [C]
 /ˈsæn.dwɪtʃ/ 
@@ -1805,10 +1805,10 @@
 - What school do you go to?
 - The kids walk to school.
 - She drives the kids to school every morning.
-- I went to school with Luke's brother.
-- How come Emily wasn't in school today?
-- Which school do you go to?
-- school lunch/uniforms
+- I went to school `with` Luke's brother.
+- How come Emily wasn't `in` school today?
+- Which school do you `go to`?
+- school `lunch/uniforms`
 
 ## 265. sentence ## noun [C]
 /ˈsen.t̬əns/ WORD GROUP
@@ -1834,34 +1834,34 @@
 [A1]a strong covering for the foot, often made of leather
 - flat/high-heeled shoes
 - gym/tennis shoes
-- He put on/took off his new pair of shoes.
-- Hurry and tie your shoes.
+- He `put on/took off` his new `pair of` shoes.
+- Hurry and `tie` your shoes.
 - a shoe store
 
 ## 269. shopping ## noun [U]
 /ˈʃɑp.ɪŋ/ 
 [A1]the activity of buying things from shops
 - The store is open for late night shopping on Wednesdays.
-- My daughter and I go shopping together.
-- I was out shopping this afternoon.
-- I need to do some shopping on Saturday.
-- My granddaughter helps me with my grocery shopping.
+- My daughter and I `go` shopping together.
+- I was `out` shopping this afternoon.
+- I need to `do` some shopping on Saturday.
+- My granddaughter helps me with my `grocery` shopping.
 
 ## 270. shower ## noun [C]
 /ˈʃɑʊ.ər/ WASH
 [A1]the act of washing yourself while standing under a flow of water
-- I want to take a quick shower before we go out.
+- I want to `take` a quick shower before we go out.
 
 ## 271. shower ## noun [C]
 /ˈʃɑʊ.ər/ BATHROOM EQUIPMENT
 [A1]a piece of bathroom equipment that you stand under to wash your whole body
-- He likes to sing in the shower.
+- He likes to sing `in the` shower.
 
 ## 272. sister ## noun [C]
 /ˈsɪs.tər/ 
 [A1]a girl or woman who has the same parents as another person
 - Sophie and Emily are sisters.
-- Emily is Sophie's younger/little/older/big sister.
+- Emily is Sophie's `younger/little/older/big` sister.
 
 ## 273. skirt ## noun [C]
 /ˈskɜrt/ 
@@ -1872,16 +1872,16 @@
 /ˈsmoʊ.kɪŋ/ 
 [A1]when someone smokes a cigarette or regularly smokes cigarettes
 - Smoking is not permitted in the theater.
-- He wants to give up/stop smoking.
-- No smoking.
+- He wants to `give up/stop` smoking.
+- `No` smoking.
 
 ## 275. snow ## noun [U]
 /snoʊ/ 
 [A1]soft white pieces of frozen water that fall from the sky when the weather is cold
-- Outside the snow began to fall.
+- Outside the snow began to `fall`.
 - Let's go and play in the snow!
-- A blanket of snow lay on the ground.
-- Her hair was jet-black, her lips ruby-red and her skin as white as snow.
+- `A blanket of` snow lay on the ground.
+- Her hair was jet-black, her lips ruby-red and her skin `as white as` snow.
 
 ## 276. son ## noun [C]
 /sʌn/ 
@@ -1893,7 +1893,7 @@
 /suːp/ 
 [A1]a usually hot, liquid food made from vegetables and sometimes meat or fish cooked in water
 - chicken/tomato/vegetable soup
-- Would you like a bowl of soup?
+- Would you like `a bowl of` soup?
 
 ## 278. sport ## noun
 /spɔːrt/ GAME
@@ -1911,7 +1911,7 @@
 ## 280. stop ## noun [C]
 /stɑp/ PLACE
 [A1]a place where vehicles, especially buses, stop in order to allow passengers to get off and on
-- a bus stop
+- a `bus` stop
 - I'm getting off at the next stop.
 - Is this our stop?
 
@@ -1927,23 +1927,23 @@
 /striːt/ 
 [A1]a road in a town or city that has houses or other buildings
 - a street map
-- Our daughter lives just across the street from us.
-- He was walking down the street.
+- Our daughter lives just `across` the street from us.
+- He was walking `down` the street.
 
 ## 283. street ## noun [C]
 /striːt/ Street
 [A1]used in the name of a street as part of an address
 - 142 Ross Street
-- Diane's house is in Cherrywood Street.
+- Diane's house is `in` Cherrywood Street.
 
 ## 284. student ## noun [C]
 /ˈstuːd.ənt/ 
 [A1]a person who is learning at a school or in college
 - a law student
-- an undergraduate student
-- a graduate student
+- an `undergraduate` student
+- a `graduate` student
 - a student teacher
-- He was a student at the University of Chicago.
+- He was a student `at` the University of Chicago.
 
 ## 285. subject ## noun [C]
 /ˈsʌb.dʒɪkt/ STUDY
@@ -1953,7 +1953,7 @@
 ## 286. subway ## noun [C]
 /ˈsʌb.weɪ/ TRAIN
 [A1]a system of trains that travel underground
-- We can take the subway to Grand Central Station.
+- We can `take the subway` to Grand Central Station.
 
 ## 287. sugar ## noun [U]
 /ˈʃʊg.ər/ 
@@ -1963,7 +1963,7 @@
 ## 288. summer ## noun [C or U]
 /ˈsʌm.ər/ 
 [A1]the season of the year between spring and fall, when the weather is warmest
-- We usually go away in (the) summer.
+- We usually go away `in (the)` summer.
 - We always spend our summers on the island.
 - I love these warm summer nights.
 - It was a perfect summer's day.
@@ -1971,9 +1971,9 @@
 ## 289. sun ## noun [U or no plural]
 /sʌn/ 
 [A1]the large, bright star that shines in the sky during the day and provides light and heat for the Earth, or the light and heat that comes from the sun
-- The sun rises in the east and sets in the west.
-- We thought we'd go out for a walk while the sun was shining.
-- Sit in the sun where it’s a lot warmer.
+- The sun `rises` in the east and `sets` in the west.
+- We thought we'd go out for a walk while the sun was `shining`.
+- Sit `in the` sun where it’s a lot warmer.
 - I think I got too much sun today.
 
 ## 290. supermarket ## noun [C]
@@ -1984,7 +1984,7 @@
 ## 291. swimming pool ## noun [C]
 /ˈswɪm.ɪŋˌpuːl/ 
 [A1]an area of water that has been made for people to swim in
-- an indoor/outdoor swimming pool
+- an `indoor/outdoor` swimming pool
 
 ## 292. table ## noun [C]
 /ˈteɪ.bəl/ FURNITURE
@@ -1995,15 +1995,15 @@
 ## 293. taxi ## noun [C]
 /ˈtæk.si/ 
 [A1]a car with a driver who you pay to take you somewhere
-- I took a taxi from the station to the hotel.
-- a taxi driver
+- I `took` a taxi from the station to the hotel.
+- a taxi `driver`
 
 ## 294. tea ## noun
 /tiː/ DRINK
 [A1]a hot drink that you make by pouring water onto dried leaves, or the leaves that you use to make this drink
-- I'd love a cup of tea, please.
-- They have a selection of herbal teas.
-- He likes strong/weak tea.
+- I'd love a `cup of` tea, please.
+- They have a selection of `herbal` teas.
+- He likes `strong/weak` tea.
 
 ## 295. teacher ## noun [C]
 /ˈtiː.tʃər/ 
@@ -2019,26 +2019,26 @@
 ## 297. television ## noun
 /ˈtel.ə.vɪʒ.ən/ PROGRAMS
 [A1]the programs that are shown on a television
-- I mostly watch television in the evening.
-- Is there anything interesting on television tonight?
-- It's one of the few television programs that I always make a point of watching.
+- I mostly `watch` television in the evening.
+- Is there anything interesting `on` television tonight?
+- It's one of the few television `programs` that I always make a point of watching.
 
 ## 298. tennis ## noun [U]
 /ˈten.ɪs/ 
 [A1]a sport in which two or four people hit a small ball to each other over a net
-- Do you feel like a game of tennis?
+- Do you feel like a `game of` tennis?
 
 ## 299. test ## noun [C]
 /test/ EXAM
 [A1]a set of questions to measure someone's knowledge or ability
-- She had to take an aptitude test as part of the interview.
-- He passed/failed the written test.
+- She had to `take` an aptitude test as part of the interview.
+- He `passed/failed` the written test.
 
 ## 300. the Internet ## noun
 /ˈɪn.t̬ər.net/ 
 [A1]the system that connects computers all over the world and allows people who use computers to look at websites
-- I found out about the book on the Internet.
-- a company that provides cheap Internet access
+- I found out about the book `on` the Internet.
+- a company that provides cheap Internet `access`
 
 ## 301. thing ## noun
 /θɪŋ/ OBJECT
@@ -2067,13 +2067,13 @@
 ## 304. time ## noun
 /tɑɪm/ PARTICULAR POINT
 [A1]a particular point in the day or night
-- What's the time? "It's ten o'clock."
-- What time is it?
+- What's `the` time? "It's ten o'clock."
+- `What` time is it?
 - What time do you finish work?
 - Would you like to suggest a time for the meeting?
 - Do you know the times of the trains to London?
-- Aged four, she could already tell the time.
-- What would be the best time of day for us to deliver the table?
+- Aged four, she could already `tell` the time.
+- What would be the best time `of day` for us to deliver the table?
 
 ## 305. today ## noun [U]
 /təˈdeɪ/ THIS DAY
@@ -2084,9 +2084,9 @@
 ## 306. toilet ## noun
 /ˈtɔɪ.lət/ CONTAINER
 [A1]a bowl that you sit on or stand near when you get rid of waste substances from your body
-- I was on the toilet when the phone rang.
-- Don't forget to flush the toilet.
-- The toilet seat was cracked and there was no paper.
+- I was `on` the toilet when the phone rang.
+- Don't forget to `flush` the toilet.
+- The toilet `seat` was cracked and there was no paper.
 
 ## 307. tomato ## noun [C or U]
 /təˈmeɪt̬.oʊ/ 
@@ -2104,14 +2104,14 @@
 [A1]one of the hard white objects in the mouth, which are used for biting and chewing
 - front/back teeth
 - a broken/missing tooth
-- false teeth
-- Brush/Clean your teeth thoroughly morning and night.
-- I had to have a tooth out.
+- `false` teeth
+- `Brush/Clean` your teeth thoroughly morning and night.
+- I had to have a tooth `out`.
 
 ## 310. town ## noun
 /tɑʊn/ PLACE
 [A1]a place with houses, stores, and other buildings where people live and work that is smaller than a city
-- He was born in the small town of Elnora, Indiana.
+- He was born in the small town `of` Elnora, Indiana.
 - We drove through several small, coastal towns.
 - They stayed at the best hotel in town.
 - Mr. Ahern is a member of the town council.
@@ -2119,11 +2119,11 @@
 ## 311. train ## noun [C]
 /treɪn/ 
 [A1]a long, thin vehicle which travels along metal tracks and carries people or goods
-- the train to/from Chicago
-- a train trip/station
-- Did you come by train?
-- She caught/took the train to Edinburgh.
-- Hurry up, or we'll miss the train.
+- the train `to/from` Chicago
+- a train `trip/station`
+- Did you come `by` train?
+- She `caught/took` the train to Edinburgh.
+- Hurry up, or we'll `miss` the train.
 
 ## 312. tree ## noun [C]
 /triː/ 
@@ -2135,31 +2135,31 @@
 /ˌjuː.nəˈvɜr.sət̬.i/ 
 [A1]a place where students study at a high level to get a degree
 - the University of Cambridge
-- Which university did you go to?
-- James is studying chemistry at Cornell University.
-- a university course/professor
+- Which university did you `go to`?
+- James is studying chemistry `at` Cornell University.
+- a university `course/professor`
 
 ## 314. vacation ## noun [C or U]
 /veɪˈkeɪ.ʃən/ 
 [A1]a period of time to relax or travel for pleasure instead of doing your usual work or school activities
-- We're taking a vacation in June.
-- They went to the Bahamas on vacation.
+- We're `taking` a vacation in June.
+- They went to the Bahamas `on` vacation.
 - I still have some vacation left before the end of the year.
 
 ## 315. vegetable ## noun [C]
 /ˈvedʒ.tə.bəl/ 
 [A1]a plant that you eat, for example potatoes, onions, beans, etc.
-- fresh/frozen vegetables
-- vegetable soup/curry
-- fruit and vegetables
-- In the winter we eat more root vegetables, such as carrots and parsnips.
-- Raw vegetables contain more vitamins than cooked vegetables.
+- `fresh/frozen` vegetables
+- vegetable `soup/curry`
+- `fruit and` vegetables
+- In the winter we eat more `root` vegetables, such as carrots and parsnips.
+- `Raw` vegetables contain more vitamins than `cooked` vegetables.
 
 ## 316. village ## noun [C]
 /ˈvɪl.ɪdʒ/ 
 [A1]a group of stores, houses, and other buildings that is smaller than a town
 - a small fishing village
-- Many people come from the surrounding villages to work in the town.
+- Many people come from the `surrounding` villages to work in the town.
 
 ## 317. waiter ## noun [C]
 /ˈweɪt̬.ər/ 
@@ -2182,41 +2182,41 @@
 ## 320. watch ## noun
 /wɑtʃ/ 
 [A1]a small clock that is worn on a strap around the wrist
-- My watch seems to have stopped - it says 10:15 but I'm sure it must be later.
-- He glanced nervously at his watch.
+- My watch seems to have `stopped` - it says 10:15 but I'm sure it must be later.
+- He glanced nervously `at` his watch.
 
 ## 321. water ## noun [U]
 /ˈwɔːt̬.ər/ LIQUID
 [A1]the clear liquid that falls from the sky as rain and is necessary for animal and plant life
-- hot/cold water
-- a bottle/drink/glass of water
-- bottled/mineral/tap water
-- a drop of water
+- `hot/cold` water
+- a `bottle/drink/glass` of water
+- `bottled/mineral/tap` water
+- a `drop` of water
 
 ## 322. weather ## noun [U]
 /ˈweð.ər/ WIND, RAIN, ETC.
 [A1]the conditions in the air above the Earth such as wind, rain or temperature, especially at a particular time over a particular area
-- bad/good/cold/dry/hot/stormy/warm/wet weather
+- `bad/good/cold/dry/hot/stormy/warm/wet` weather
 - The weather in the hills can change very quickly, so dress in layers.
-- We're going to have a picnic, weather permitting.
+- We're going to have a picnic, weather `permitting`.
 
 ## 323. week ## noun [C]
 /wiːk/ SEVEN DAYS
 [A1]a period of seven days
-- last/this/next week
-- We go to a restaurant about once/twice a week.
-- Don't do any sports for a week or two.
+- `last/this/next` week
+- We go to a restaurant about `once/twice` a week.
+- Don't do any sports for a week `or two`.
 
 ## 324. week ## noun [C]
 /wiːk/ MONDAY TO FRIDAY
 [A1]the five days from Monday to Friday when people usually go to work or school
-- I don't go out much during the week.
+- I don't go out much `during` the week.
 
 ## 325. weekend ## noun [C]
 /ˈwiːk.end/ 
 [A1]Saturday and Sunday, or Friday evening until Sunday night; the part of the week when many people do not work
-- Do you have anything planned for the weekend?
-- This/Next weekend we're going to see some friends.
+- Do you have anything planned for `the` weekend?
+- `This/Next` weekend we're going to see some friends.
 
 ## 326. wife ## noun [C]
 /wɑɪf/ 
@@ -2228,34 +2228,34 @@
 /wɪnd/ 
 [A1]a natural, fast movement of air
 - There isn't enough wind to fly a kite.
-- The weather forecast warned of strong/high winds and rain for today.
-- There was a light/gentle wind blowing.
-- There wasn't a breath of wind.
-- The wind is beginning to pick up.
+- The weather forecast warned of `strong/high` winds and rain for today.
+- There was a `light/gentle` wind blowing.
+- There wasn't a `breath of` wind.
+- The wind is beginning to `pick up`.
 
 ## 328. window ## noun [C]
 /ˈwɪn.doʊ/ GLASS
 [A1]a space usually filled with glass in the wall of a building or in a vehicle, to allow light and air in and to allow people inside the building to see out
-- Is it all right if I open/close the window?
-- He caught me staring out of the window.
-- I saw a child's face at the window.
-- She has some wonderful plants in the window.
+- Is it all right if I `open/close` the window?
+- He caught me staring `out of` the window.
+- I saw a child's face `at` the window.
+- She has some wonderful plants `in` the window.
 
 ## 329. wine ## noun [C or U]
 /wɑɪn/ 
 [A1]an alcoholic drink that is usually made from grapes, or sometimes from other fruit
-- a wine cellar/glass
-- red/white/dry/sweet/sparkling wine
-- Let's have a bottle/glass of wine with dinner.
+- a wine `cellar/glass`
+- `red/white/dry/sweet/sparkling` wine
+- Let's have a `bottle/glass of` wine with dinner.
 - I love Australian wines, especially the white wines.
-- Would you like to see the wine list, sir?
+- Would you like to see the wine `list`, sir?
 
 ## 330. winter ## noun [C or U]
 /ˈwɪn.t̬ər/ 
 [A1]the coldest season of the year, between fall and spring
 - Last winter we went skiing.
-- It's been a very cold/mild winter.
-- I think you tend to eat more in the winter.
+- It's been a very `cold/mild` winter.
+- I think you tend to eat more `in the` winter.
 
 ## 331. woman ## noun [C]
 /ˈwʊm.ən/ 
@@ -2268,30 +2268,30 @@
 ## 332. word ## noun
 /wɜrd/ LANGUAGE UNIT
 [A1]a group of letters or sounds that mean something, or a single letter or sound that means something
-- What's the word for goat in French?
+- What's the word `for` goat in French?
 - Some words are more difficult to spell than others.
 - Your essay should be no more than two thousand words long.
 
 ## 333. work ## noun
 /wɜrk/ PLACE
 [A1]the place where you go to do your job
-- Do you have far to travel to work each day?
-- Thousands of people are seriously injured at work every year.
-- When does she leave for work?
-- What time do you start/finish work?
+- Do you have far to travel `to` work each day?
+- Thousands of people are seriously injured `at` work every year.
+- When does she leave `for` work?
+- What time do you `start/finish` work?
 
 ## 334. work ## noun
 /wɜrk/ JOB
 [A1]something you do as a job to earn money
 - Has she gotten any work yet?
-- Many young people are out of work.
+- Many young people are `out of` work.
 
 ## 335. world ## noun
 /wɜrld/ THE EARTH
 [A1]the Earth and all the people, places and things on it
 - She's traveled all over the world.
-- News of the disaster shocked the whole world.
-- We live in a changing world.
+- News of the disaster shocked the `whole` world.
+- We live in a `changing` world.
 
 ## 336. writing ## noun [U]
 /ˈrɑɪt̬.ɪŋ/ SKILL
@@ -2303,9 +2303,9 @@
 [A1]a period of twelve months, especially from January 1st to December 31st
 - Elaine worked in Italy for two years.
 - 2006 was one of the worst years of my life.
-- last/next year
-- He joined the company a year ago.
-- This tree keeps its leaves all (the) year (round).
+- `last/next` year
+- He joined the company a year `ago`.
+- This tree keeps its leaves `all` (the) year (`round`).
 
 ## 338. year ## noun
 /jɪr/ be ... years old
@@ -2362,8 +2362,8 @@
 ## 348. accident ## noun [C]
 /ˈæk.sɪ.dənt/ BAD EVENT
 [A2]something bad which happens that is not expected or intended, and which causes injury or damage
-- Josh had an accident and spilled water all over the floor.
-- She was injured in a car/traffic accident.
+- Josh `had` an accident and spilled water all over the floor.
+- She was injured in a `car/traffic` accident.
 
 ## 349. activity ## noun
 /ækˈtɪv.ət̬.i/ EVENT
@@ -2383,8 +2383,8 @@
 ## 352. adventure ## noun [C or U]
 /ədˈven.tʃər/ 
 [A2]an exciting and sometimes dangerous experience
-- It's a movie about the adventures of two friends traveling through Africa.
-- We got lost on the Metro - it was quite an adventure.
+- It's a movie about the adventures `of` two friends traveling through Africa.
+- We got lost on the Metro - it was `quite an` adventure.
 
 ## 353. adverb ## noun [C]
 /ˈæd.vɜrb/ 
@@ -2394,29 +2394,29 @@
 ## 354. advertisement ## noun [C]
 /ˌæd.vərˈtɑɪz.mənt/ 
 [A2]a picture, short film, song, etc. which tries to persuade people to buy a product or service
-- a television/newspaper advertisement
-- an advertisement for a job/car/apartment
+- a `television/newspaper` advertisement
+- an advertisement `for` a job/car/apartment
 - I like to read the advertisements in the Sunday paper.
 
 ## 355. advice ## noun [U]
 /ədˈvɑɪs/ 
 [A2]suggestions about what you think someone should do or how they should do something
-- Steven gave me some good advice.
-- I think I'll take your advice and get the green dress.
-- Can I give you a piece of advice?
-- I need some advice on which computer to buy.
+- Steven `gave` me some good advice.
+- I think I'll `take` your advice and get the green dress.
+- Can I give you `a piece of` advice?
+- I need some advice `on` which computer to buy.
 - My advice is to go by train.
 
 ## 356. air ## noun
 /er/ AIRCRAFT
 [A2]travel in an aircraft
-- I don't travel much by air.
+- I don't travel much `by` air.
 - air travel
 
 ## 357. air ## noun
 /er/ GAS
 [A2]the mixture of gases that surrounds the earth and that we breathe
-- I went outside to get some fresh air.
+- I went outside to get some `fresh` air.
 
 ## 358. airplane ## noun [C]
 /ˈer.pleɪn/ 
@@ -2433,24 +2433,24 @@
 ## 360. alarm clock ## noun [C]
 /əˈlɑrm.klɑk/ 
 [A2]a clock that you can set to wake you up at a particular time with a loud noise
-- My alarm clock went off at 5:00.
-- I've set the alarm clock for 7:30.
+- My alarm clock `went off` at 5:00.
+- I've `set the` alarm clock `for` 7:30.
 
 ## 361. album ## noun [C]
 /ˈæl.bəm/ BOOK
 [A2]a book in which you keep photographs, stamps, etc.
-- We looked through his photo albums together.
+- We looked through his `photo` albums together.
 
 ## 362. alcohol ## noun [U]
 /ˈæl.kəˌhɔːl/ 
 [A2]drinks such as wine and beer which can make you drunk
 - Most wines contain between 10% and 15% alcohol.
-- an alcohol-free beer
+- an alcohol-`free` beer
 
 ## 363. answer ## noun
 /ˈæn.sər/ TEST
 [A2]information given as a reply to a question in a test, exercise, competition, etc.
-- Did you get the answer to Question 6?
+- Did you get the answer `to` Question 6?
 - I got eight correct answers and two wrong ones in last week's exam.
 
 ## 364. answer ## noun
@@ -2463,7 +2463,7 @@
 [A2]a set of rooms for living in, especially on one floor of a building
 - a one-/two-/three-bedroom apartment
 - I'll give you the keys to my apartment.
-- They have six luxury apartments for sale.
+- They have six `luxury` apartments for sale.
 
 ## 366. apartment building ## noun [C]
 /əˈpɑrt.mənt ˌbɪl.dɪŋ/ 
@@ -2473,16 +2473,16 @@
 ## 367. appointment ## noun
 /əˈpɔɪnt.mənt/ 
 [A2]a time you have arranged to meet someone or go somewhere
-- a dentist/doctor's appointment
-- I'd like to make an appointment to see Doctor Evans, please.
-- I canceled the appointment.
+- a `dentist/doctor's` appointment
+- I'd like to `make` an appointment `to see` Doctor Evans, please.
+- I `canceled` the appointment.
 - I've got a two o'clock appointment.
-- That's the second appointment he's missed.
+- That's the second appointment he's `missed`.
 
 ## 368. area ## noun [C]
 /ˈer.iː.ə/ REGION
 [A2]a region of a country or city
-- All areas of the country will have some rain tonight.
+- All areas `of` the country will have some rain tonight.
 - Housing in the Boston area is very expensive.
 - This is a very poor area.
 
@@ -2494,8 +2494,8 @@
 ## 370. art ## noun
 /ɑrt/ PAINTINGS/DRAWINGS, ETC.
 [A2]the making or study of paintings, drawings, etc. or the objects created
-- modern art
-- an art exhibition/gallery
+- `modern` art
+- an art `exhibition/gallery`
 - Art and English were my best subjects at school.
 
 ## 371. artist ## noun [C]
@@ -2517,15 +2517,15 @@
 ## 374. back ## noun [C]
 /bæk/ the back
 [A2]the part of something that is farthest from the front or on the side opposite the front
-- He wrote her e-mail address down on the back of an envelope.
-- Our seats were right at the back of the theater.
+- He wrote her e-mail address down on the back `of` an envelope.
+- Our seats were right `at` the back `of` the theater.
 
 ## 375. back ## noun [C]
 /bæk/ BODY
 [A2]the part of your body from your shoulders to your bottom
-- back injuries/pain
-- I've got a bad back.
-- He lay on his back, staring at the ceiling.
+- back `injuries/pain`
+- I've got a `bad` back.
+- He lay `on` his back, staring at the ceiling.
 
 ## 376. backpack ## noun [C]
 /ˈbæk.pæk/ 
@@ -2550,15 +2550,15 @@
 ## 380. banking ## noun [U]
 /ˈbæŋ.kɪŋ/ MONEY MANAGEMENT
 [A2]the activity of managing the money in your bank accounts
-- I need to do my banking this afternoon.
-- A lot of people are shopping and doing their banking online now.
+- I need `to do` my banking this afternoon.
+- A lot of people are shopping and `doing` their banking online now.
 
 ## 381. bar ## noun [C]
 /bɑr/ DRINKING PLACE
 [A2]a place where especially alcoholic drinks are sold and drunk, or the area in such a place where the person serving the drinks stands
 - He used to just sit in a bar and listen to jazz.
-- There weren't any free tables, so I sat at the bar.
-- Why don't you ask the guy behind the bar?
+- There weren't any free tables, so I sat `at` the bar.
+- Why don't you ask the guy `behind` the bar?
 
 ## 382. barbecue ## noun [C]
 /ˈbɑr.bɪˌkjuː/ PARTY
@@ -2583,10 +2583,10 @@
 ## 386. battery ## noun [C]
 /ˈbæt̬.ə.ri/ 
 [A2]a device that produces electricity to provide power for cell phones, laptop computers, radios, cars, etc.
-- My car has a dead battery.
+- My car has a `dead` battery.
 - a rechargeable battery
 - a battery-powered radio
-- This alarm clock takes two double-A batteries.
+- This alarm clock `takes` two double-A batteries.
 
 ## 387. bear ## noun [C]
 /ber/ 
@@ -2597,21 +2597,21 @@
 ## 388. beginner ## noun [C]
 /bɪˈgɪn.ər/ 
 [A2]someone who is starting to do or learn something for the first time
-- I'm a complete beginner at yoga.
+- I'm a `complete` beginner at yoga.
 - This judo class is for beginners only.
 
 ## 389. beginning ## noun [C usually no plural]
 /bɪˈgɪn.ɪŋ/ 
 [A2]the first part of something or the start of something
-- We met at the beginning of 1998.
-- She sat down and read the book straight through from beginning to end.
-- I enjoyed my job at/in the beginning, but I'm bored with it now.
+- We met `at the` beginning `of` 1998.
+- She sat down and read the book straight through `from` beginning `to end`.
+- I enjoyed my job `at/in the` beginning, but I'm bored with it now.
 
 ## 390. belt ## noun [C]
 /belt/ CLOTHING
 [A2]a long, thin piece of leather, cloth, or plastic that you wear around your waist
-- She buckled/fastened her belt around her waist.
-- He had eaten so much that he had to undo his belt.
+- She `buckled/fastened` her belt around her waist.
+- He had eaten so much that he had to `undo` his belt.
 
 ## 391. best ## noun
 /best/ all the best
@@ -2622,17 +2622,17 @@
 ## 392. bicycle ## noun [C]
 /ˈbɑɪ.sɪk.əl/ 
 [A2]a two-wheeled vehicle that you sit on and move by turning the two pedals
-- I go to work by bicycle.
-- He was on his bicycle.
-- You should never ride your bicycle without lights at night.
+- I go to work `by` bicycle.
+- He was `on` his bicycle.
+- You should never `ride` your bicycle without lights at night.
 
 ## 393. bill ## noun [C]
 /bɪl/ 
 [A2]a piece of paper that tells you how much you must pay for something you have bought or for a service you have used
-- an electricity/gas/phone bill
-- They sent us a bill for the work they had done.
-- We got a bill for $23.50.
-- I paid the bills.
+- an `electricity/gas/phone` bill
+- They sent us a bill `for` the work they had done.
+- We `got` a bill for $23.50.
+- I `paid` the bills.
 
 ## 394. biology ## noun [U]
 /bɑɪˈɑl.ə.dʒi/ 
@@ -2644,22 +2644,22 @@
 ## 395. birth ## noun
 /bɜrθ/ BABY
 [A2]the time when a baby is born
-- He weighed seven pounds at birth.
-- What's your date of birth?
-- The application form will ask for your place of birth.
+- He weighed seven pounds `at` birth.
+- What's your `date of` birth?
+- The application form will ask for your `place of` birth.
 
 ## 396. bit ## noun [C]
 /bɪt/ a bit
 [A2]slightly
-- The dress is a bit too big for me.
+- The dress is a bit `too` big for me.
 - That was a bit silly, wasn't it?
 - I'm a bit nervous.
-- Could I have a little bit more soup?
+- Could I have a `little` bit `more` soup?
 
 ## 397. black ## noun [U]
 /blæk/ 
 [A2]the color of coal or of the sky on a very dark night
-- She always dresses in black.
+- She always dresses `in` black.
 
 ## 398. blackboard ## noun [C]
 /ˈblæk.bɔːrd/ 
@@ -2679,16 +2679,16 @@
 ## 401. block ## noun [C]
 /blɑk/ AREA
 [A2]the land and buildings on a part of street between two other streets that cross it, or an area of land and buildings inside a rectangle formed by four streets
-- My friend and I live on the same block.
+- My friend and I live `on the` same block.
 - You can enter the campus from either street - the school buildings occupy the entire block.
-- We took a walk around the block.
+- We took a walk `around the` block.
 
 ## 402. blood ## noun [U]
 /blʌd/ RED LIQUID
 [A2]the red liquid that flows around your body
-- a blood test/sample
-- He lost a lot of blood in the accident.
-- You can give blood at the local hospital.
+- a blood `test/sample`
+- He `lost` a lot of blood in the accident.
+- You can `give` blood at the local hospital.
 
 ## 403. blue ## noun [C or U]
 /bluː/ 
@@ -2728,33 +2728,33 @@
 ## 410. bottle ## noun [C]
 /ˈbɑt̬.əl/ 
 [A2]a container for liquids, usually made of glass or plastic, with a narrow top
-- a water bottle
-- a bottle of water/wine
-- Plastic bottles are lighter than glass ones.
+- a `water` bottle
+- a bottle `of` water/wine
+- `Plastic` bottles are lighter than glass ones.
 
 ## 411. bottom ## noun
 /ˈbɑt̬.əm/ FLAT SURFACE
 [A2]the flat surface on the lowest side of something
-- There was a label on the bottom of the box.
+- There was a label `on the` bottom `of` the box.
 
 ## 412. bowl ## noun [C]
 /boʊl/ 
 [A2]a round, deep dish used for holding soup and other food
-- a bowl of soup
-- a soup/cereal/salad/sugar bowl
-- Sift the flour and baking powder into a mixing bowl.
+- a bowl `of` soup
+- a `soup/cereal/salad/sugar` bowl
+- Sift the flour and baking powder into a `mixing` bowl.
 
 ## 413. box ## noun [C]
 /bɑks/ SQUARE SPACE
 [A2]a small square on a page that gives you information or where you write information
 - Choose an adjective from the box to complete each sentence.
-- If you would like more information, check this box.
+- If you would like more information, `check` this box.
 
 ## 414. boyfriend ## noun [C]
 /ˈbɔɪ.frend/ 
 [A2]a man or boy who someone is having a romantic relationship with
 - He's not my boyfriend - we're just good friends!
-- Cathy's ex-boyfriend was a really nice guy.
+- Cathy's `ex-`boyfriend was a really nice guy.
 
 ## 415. bracelet ## noun [C]
 /ˈbreɪ.slət/ 
@@ -2772,14 +2772,14 @@
 ## 417. break ## noun [C]
 /breɪk/ STOP
 [A2]when you stop an activity for a short time, usually to rest or to eat
-- a coffee/lunch break
-- We'll take another break at 3:30.
+- a `coffee/lunch` break
+- We'll `take` another break at 3:30.
 - They worked through the night without a break.
 
 ## 418. bridge ## noun [C]
 /brɪdʒ/ STRUCTURE
 [A2]a structure that is built over a river, road, train tracks, etc., to allow people and vehicles to cross from one side to the other
-- We drove across/over the bridge.
+- We drove `across/over` the bridge.
 - The Brooklyn Bridge spans the East River from Brooklyn to Manhattan.
 
 ## 419. brown ## noun [C or U]
@@ -2797,10 +2797,10 @@
 ## 421. building ## noun [C or U]
 /ˈbɪl.dɪŋ/ 
 [A2]a structure with walls and a roof such as a house or factory, or the business of making these
-- old/new/tall buildings
-- an apartment/office building
+- `old/new/tall` buildings
+- an `apartment/office` building
 - Four new buildings are going up along the East River.
-- A truck filled with building materials arrived at the cleared lot.
+- A truck filled with building `materials` arrived at the cleared lot.
 
 ## 422. burger ## noun [C]
 /ˈbɜr.gər/ 
@@ -2822,24 +2822,24 @@
 ## 425. business ## noun
 /ˈbɪz.nəs/ ORGANIZATION
 [A2]an organization that sells goods or services
-- He runs a small IT business.
-- The two brothers set up/started up an office supplies business.
+- He `runs` a small IT business.
+- The two brothers `set up/started up` an office supplies business.
 
 ## 426. businessman ## noun [C]
 /ˈbɪz.nɪs.mæn/ 
 [A2]a man who works in business, especially if he has a high position in a company
-- He was a successful businessman before becoming a writer.
+- He was a `successful` businessman before becoming a writer.
 
 ## 427. businesswoman ## noun [C]
 /ˈbɪz.nɪsˌwʊm.ən/ 
 [A2]a woman who works in business, especially if she has a high position in a company
-- She is a successful businesswoman.
+- She is a `successful` businesswoman.
 
 ## 428. cabinet ## noun [C]
 /ˈkæb.ə.nət/ 
 [A2]a piece of furniture with shelves or drawers to store or show things in
-- a medicine cabinet
-- kitchen cabinets
+- a `medicine` cabinet
+- `kitchen` cabinets
 - a china cabinet
 
 ## 429. cafeteria ## noun [C]
@@ -2856,17 +2856,17 @@
 ## 431. call ## noun [C]
 /kɔːl/ TELEPHONE
 [A2]when you use the telephone
-- Could you give me a call when you have time?
-- I got a call from Pete last night.
-- There was a call for you earlier.
-- I've just got a couple of calls to make.
-- I'll take the call in my office.
+- Could you `give` me a call when you have time?
+- I `got` a call `from` Pete last night.
+- There was a call `for` you earlier.
+- I've just got a couple of calls to `make`.
+- I'll `take` the call in my office.
 
 ## 432. camping ## noun [U]
 /ˈkæm.pɪŋ/ 
 [A2]when you stay in a tent on vacation
-- We used to go camping in Vermont when I was a child.
-- camping equipment
+- We used to `go` camping in Vermont when I was a child.
+- camping `equipment`
 
 ## 433. can ## noun [C]
 /kæn/ 
@@ -2876,7 +2876,7 @@
 ## 434. candy ## noun [C or U]
 /ˈkæn.di/ 
 [A2]a sweet food made from sugar or chocolate, or a piece of this
-- a candy bar
+- a candy `bar`
 - a box of candy
 
 ## 435. cap ## noun [C]
@@ -2898,15 +2898,15 @@
 ## 438. card ## noun [C]
 /kɑrd/ GREETINGS
 [A2]a folded piece of stiff paper with a picture on the front and a message inside, that you send to someone on a special occasion
-- birthday/get-well cards
-- It's Steve's birthday on Thursday - I should send him a card.
+- `birthday/get-well` cards
+- It's Steve's birthday on Thursday - I should `send` him a card.
 
 ## 439. card ## noun [C]
 /kɑrd/ GAME
 [A2]one of a set of 52 small rectangular pieces of stiff paper, each with a number and one of four signs printed on it, used in games
-- After dinner, Ted got out a pack of cards
-- They play a lot of card games.
-- Do you want to play cards?
+- After dinner, Ted got out a `pack of` cards
+- They play a lot of card `games`.
+- Do you want to `play` cards?
 
 ## 440. care ## noun
 /ker/ Take care!
@@ -2927,7 +2927,7 @@
 ## 443. cartoon ## noun [C]
 /kɑrˈtuːn/ FILM
 [A2]a film made using characters that are drawn and not real
-- Mickey Mouse and other famous cartoon characters
+- Mickey Mouse and other famous cartoon `characters`
 
 ## 444. cartoon ## noun [C]
 /kɑrˈtuːn/ DRAWING
@@ -2937,14 +2937,14 @@
 ## 445. case ## noun
 /keɪs/ CONTAINER
 [A2]a container for storing or protecting something
-- a pencil case
+- a `pencil` case
 - an eyeglass case
 
 ## 446. cash ## noun [U]
 /kæʃ/ NOTES/COINS
 [A2]money in the form of notes and coins
 - Do you have any cash on you?
-- Will you pay by credit card or in cash?
+- Will you pay by credit card or `in` cash?
 
 ## 447. castle ## noun [C]
 /ˈkæs.əl/ 
@@ -2969,15 +2969,15 @@
 ## 451. center ## noun
 /ˈsen.t̬ər/ MIDDLE
 [A2]the middle point or part of something
-- There was a large table in the center of the room.
+- There was a large table `in the` center `of` the room.
 - She stood in the center of the stage.
 
 ## 452. center ## noun
 /ˈsen.t̬ər/ PLACE
 [A2]a place or a building used for a particular activity
-- a fitness/medical/community center
-- a garden/shopping center
-- a center for the arts
+- a `fitness/medical/community` center
+- a `garden/shopping` center
+- a center `for` the arts
 
 ## 453. centimeter ## noun [C]
 /ˈsent.əˌmiːt̬.ər/ 
@@ -2994,14 +2994,14 @@
 /ˈsɪr.iː.əl/ BREAKFAST FOOD
 [A2]a food that is made from grain and usually eaten with milk, especially in the morning
 - a bowl of cereal
-- breakfast cereals
+- `breakfast` cereals
 
 ## 456. chain ## noun
 /tʃeɪn/ METAL RINGS
 [A2]a line of metal rings connected together
 - a bicycle chain
 - She wore a gold chain around her neck.
-- The hostages were kept in chains.
+- The hostages were kept `in` chains.
 
 ## 457. champagne ## noun [U]
 /ʃæmˈpeɪn/ 
@@ -3011,14 +3011,14 @@
 ## 458. change ## noun
 /tʃeɪndʒ/ DIFFERENCE
 [A2]when something becomes different, or the result of something becoming different
-- Let me know if there's any change in the situation.
+- Let me know if there's any change `in` the situation.
 - We're living in a time of great change.
-- They've made a lot of changes to the house.
+- They've `made` a lot of changes `to` the house.
 
 ## 459. change ## noun
 /tʃeɪndʒ/ SOMETHING NEW
 [A2]when you stop having or using one thing and start having or using another
-- I've told the school about our change of address.
+- I've told the school about our change `of` address.
 - This country is ready for a change.
 
 ## 460. change ## noun
@@ -3031,19 +3031,19 @@
 [A2]a television station
 - a cable/broadcast channel
 - a music/movie/news/shopping/sports channel
-- the news on channel 4
-- She switched/turned to another channel to watch football.
+- the news `on` channel 4
+- She `switched/turned to` another channel to watch football.
 
 ## 462. chat ## noun [C or U]
 /tʃæt/ 
 [A2]a friendly, informal conversation
-- Give me a call and we'll have a chat sometime.
-- I had a chat with my boss today about a possible salary increase.
+- Give me a call and we'll `have a` chat sometime.
+- I had a chat `with` my boss today about a possible salary increase.
 
 ## 463. check ## noun [C]
 /tʃek/ MONEY
 [A2]a piece of paper printed with information about your bank account that you use instead of money to pay for things
-- I still pay many of my bills by check.
+- I still `pay` many of my bills `by` check.
 - I wrote her a check to cover the airfare.
 - I need to stop by the bank and deposit/cash my check.
 
@@ -3063,20 +3063,20 @@
 /ʃef/ 
 [A2]a skilled and trained cook who works in a hotel or restaurant, especially the most important cook
 - He is one of the top chefs in Britain.
-- She is head-chef at the Waldorf Astoria.
+- She is `head-`chef at the Waldorf Astoria.
 
 ## 467. chemistry ## noun [U]
 /ˈkem.ə.stri/ 
 [A2]the scientific study of substances and the different ways in which they react or combine with other substances
 - She studied chemistry in college.
-- the chemistry of the ozone layer
-- a chemistry department/laboratory
+- the chemistry `of` the ozone layer
+- a chemistry `department/laboratory`
 
 ## 468. chess ## noun [U]
 /tʃes/ 
 [A2]a game that two people play by moving differently shaped pieces around a board of black and white squares
-- Do you play chess?
-- a chess player/set
+- Do you `play` chess?
+- a chess `player/set`
 
 ## 469. chicken ## noun
 /ˈtʃɪk.ən/ BIRD
@@ -3086,7 +3086,7 @@
 ## 470. chicken ## noun
 /ˈtʃɪk.ən/ MEAT
 [A2]the meat of a chicken
-- We're having roast/fried chicken for dinner.
+- We're having `roast/fried` chicken for dinner.
 
 ## 471. chocolate ## noun [C or U]
 /ˈtʃɑk.lət/ hot chocolate
@@ -3098,25 +3098,25 @@
 [A2]a building for Christian religious activities
 - The town has four churches.
 - a church hall
-- She goes to church every Sunday.
+- She `goes to` church every Sunday.
 
 ## 473. cigarette ## noun [C]
 /ˌsɪg.əˈret/ 
 [A2]a small paper tube filled with cut pieces of tobacco, which people smoke
-- a pack of cigarettes
-- She lit a cigarette.
+- a `pack of` cigarettes
+- She `lit` a cigarette.
 
 ## 474. circle ## noun [C]
 /ˈsɜr.kəl/ SHAPE
 [A2]a continuous curved line, the points of which are always the same distance away from a fixed central point, or the area inside such a line
 - Colored paper was cut into circles, squares and triangles.
-- We sat in a circle.
+- We sat `in a` circle.
 
 ## 475. class ## noun
 /klæs/ STANDARD
 [A2]a group into which goods, services or people are put according to their standard
-- first- class mail
-- a business/economy class ticket
+- `first-` class mail
+- a `business/economy` class ticket
 
 ## 476. classmate ## noun [C]
 /ˈklæs.meɪt/ 
@@ -3136,19 +3136,19 @@
 ## 479. climbing ## noun [U]
 /ˈklɑɪm.ɪŋ/ 
 [A2]the sport of climbing mountains, hills or rocks
-- rock/mountain climbing
-- We're going climbing in Scotland next weekend.
+- `rock/mountain` climbing
+- We're `going` climbing in Scotland next weekend.
 
 ## 480. closet ## noun [C]
 /ˈklɑ.zɪt/ 
 [A2]a usually small space with a door for storing clothes or other items
-- a clothes/linen closet
+- a `clothes/linen` closet
 - I hung your jacket in the closet.
 
 ## 481. cloud ## noun
 /klɑʊd/ WATER
 [A2]a white or gray mass in the sky, made of very small drops of water
-- Do you think those are rain clouds on the horizon?
+- Do you think those are `rain` clouds on the horizon?
 - The sky was a perfect blue - not a cloud in sight.
 - Dark clouds gathered overhead.
 
@@ -3160,9 +3160,9 @@
 ## 483. club ## noun [C]
 /klʌb/ GROUP
 [A2]an organization for people who want to take part in a sport or social activity together, or the building they use for this
-- I've just joined the local golf/squash/tennis club.
+- I've just `joined` the local golf/squash/tennis club.
 - a health and fitness club
-- Visitors must be accompanied by club members.
+- Visitors must be accompanied by club `members`.
 
 ## 484. cola ## noun [C or U]
 /ˈkoʊ.lə/ 
@@ -3172,7 +3172,7 @@
 ## 485. cold ## noun
 /koʊld/ ILLNESS
 [A2]a common illness which makes you sneeze and makes your nose produce liquid
-- I have/caught a cold.
+- I `have/caught` a cold.
 
 ## 486. colleague ## noun [C]
 /ˈkɑl.iːg/ 
@@ -3182,7 +3182,7 @@
 ## 487. college ## noun [C or U]
 /ˈkɑl.ɪdʒ/ 
 [A2]a place where students study at a high level to get a degree
-- Where did you go to college?
+- Where did you `go to` college?
 - She graduated from Oberlin College and is now working toward her PhD.
 - the College of Arts and Sciences at Columbia University
 
@@ -3206,14 +3206,14 @@
 ## 491. comparative ## noun [C]
 /kəmˈpær.ə.t̬ɪv/ 
 [A2]the form of an adjective or adverb that expresses a difference in amount, in number, in degree or quality
-- Fatter is the comparative of "fat."
-- "More difficult" is the comparative of "difficult."
+- Fatter is the comparative `of` "fat."
+- "More difficult" is the comparative `of` "difficult."
 
 ## 492. competition ## noun
 /ˌkɑm.pəˈtɪʃ.ən/ EVENT
 [A2]an organized event in which people try to win a prize by being the best, fastest, etc.
 - a swimming/chess competition
-- She's entered a crossword competition.
+- She's `entered` a crossword competition.
 
 ## 493. concert ## noun [C]
 /ˈkɑn.sɜrt/ 
@@ -3241,25 +3241,25 @@
 /ˈkʊk.ɪŋ/ 
 [A2]preparing and cooking food, or a particular way of preparing and cooking food
 - My mother always hated cooking.
-- Who does the cooking in your house?
+- Who `does` the cooking in your house?
 - I love my dad's cooking.
 
 ## 498. corner ## noun [C]
 /ˈkɔːr.nər/ 
 [A2]the point, area or line which is formed by the meeting of two lines, surfaces, roads, etc.
-- Click the icon in the bottom right-hand corner of the screen.
-- There's a mailbox on/at the corner.
-- I've got a bruise where I hit my leg against the corner of the table.
-- They live just around the corner - so we see them all the time.
+- Click the icon `in the` bottom right-hand corner `of` the screen.
+- There's a mailbox `on/at the` corner.
+- I've got a bruise where I hit my leg against `the` corner `of` the table.
+- They live `just around the` corner - so we see them all the time.
 
 ## 499. cost ## noun
 /kɔːst/ MONEY
 [A2]the amount of money that you need to buy or do something
-- The cost of building materials has risen.
-- The cruise ship was built at a cost of $400 million.
-- Software is included at no extra cost.
-- The supermarket chain announced that it was cutting the cost of all its fresh and frozen meat.
-- The cost of living has gone up.
+- The cost `of` building materials has risen.
+- The cruise ship was built `at a` cost `of` $400 million.
+- Software is included `at no extra` cost.
+- The supermarket chain announced that it was `cutting` the cost of all its fresh and frozen meat.
+- The cost `of living` has gone up.
 
 ## 500. couch ## noun [C]
 /kɑʊtʃ/ 
@@ -3269,14 +3269,14 @@
 ## 501. country ## noun
 /ˈkʌn.tri/ the country
 [A2]land that is not in towns, cities or industrial areas and is either used for farming or left in its natural condition
-- He lives out in the country somewhere.
-- Would you prefer to live in the country instead in town?
+- He lives out `in` the country somewhere.
+- Would you prefer to live `in` the country instead in town?
 
 ## 502. course ## noun
 /kɔːrs/ MEAL
 [A2]a part of a meal which is served separately from the other parts
 - a four-course lunch
-- For my main course, I had fish.
+- For my `main` course, I had fish.
 
 ## 503. course ## noun
 /kɔːrs/ of course not
@@ -3302,33 +3302,33 @@
 ## 507. cricket ## noun
 /ˈkrɪk.ɪt/ SPORT
 [A2]a sport in which two teams of eleven players try to score points by hitting a small ball with a bat, and running between two sets of small wooden posts
-- a cricket ball/bat
+- a cricket `ball/bat`
 
 ## 508. crowd ## noun [C]
 /krɑʊd/ 
 [A2]a large group of people who have come together
-- A large crowd gathered outside the pop star's hotel.
+- A large crowd `gathered` outside the pop star's hotel.
 - Shop early to avoid the crowds.
 
 ## 509. curry ## noun [C or U]
 /ˈkɜr.i/ 
 [A2]a type of food, originally from South Asia, consisting of meat or vegetables cooked with hot spices
-- a hot/mild curry
-- vegetable/chicken/lamb curry
+- a `hot/mild` curry
+- `vegetable/chicken/lamb` curry
 - curry sauce
 
 ## 510. curtain ## noun [C]
 /ˈkɜr.tən/ 
 [A2]a piece of material which hangs down to cover a window, stage, etc.
-- Could you close/draw the curtains?
-- She opened the curtains.
+- Could you `close/draw the` curtains?
+- She `opened the` curtains.
 - Heavy curtains blocked out the sunlight.
 
 ## 511. customer ## noun [C]
 /ˈkʌs.tə.mər/ 
 [A2]a person who buys goods or a service
 - a satisfied customer
-- Mrs. Wilson is one of our regular customers.
+- Mrs. Wilson is one of our `regular` customers.
 
 ## 512. cycling ## noun [U]
 /ˈsɑɪ.klɪŋ/ 
@@ -3343,7 +3343,7 @@
 ## 514. dance ## noun
 /dæns/ ACTIVITY
 [A2]the activity or skill of dancing
-- a dance class
+- a dance `class`
 - The performers tell the story through music and dance.
 
 ## 515. dancer ## noun [C]
@@ -3357,14 +3357,14 @@
 [A2]the possibility that someone or something will be harmed or killed, or that something bad will happen
 - Danger! Keep out!
 - the dangers of rock climbing
-- He drove so fast that I really felt my life was in danger.
-- We were in danger of missing our flight.
+- He drove so fast that I really felt my life was `in` danger.
+- We were `in` danger `of` missing our flight.
 
 ## 517. day ## noun
 /deɪ/ LIGHT HOURS
 [A2]the period during the day when there is light from the sun
 - a bright, sunny day
-- It's rained all day today.
+- It's rained `all` day today.
 - These animals sleep in the day and hunt at night.
 
 ## 518. day ## noun
@@ -3373,8 +3373,8 @@
 - a normal working day
 - I work a seven-hour day.
 - We have to work a six-day week to cope with demand.
-- She's at home today - she's having a day off.
-- I have to get some sleep - I've got a big day tomorrow.
+- She's at home today - she's having a day `off`.
+- I have to get some sleep - I've got `a big` day tomorrow.
 
 ## 519. day ## noun
 /deɪ/ these days
@@ -3389,18 +3389,18 @@
 ## 521. deck ## noun [C]
 /dek/ CARDS
 [A2]a set of cards that you use to play a game
-- I brought a deck of cards so we can play on the train.
+- I brought a deck `of cards` so we can play on the train.
 
 ## 522. degree ## noun
 /dəˈgriː/ TEMPERATURE
 [A2]a unit for measuring temperature, shown by the symbol ° written after a number
-- Water boils at 212 degrees Fahrenheit and 100 degrees Celsius/centigrade.
+- Water boils at 212 degrees `Fahrenheit` and 100 degrees `Celsius/centigrade`.
 
 ## 523. delay ## noun [C or U]
 /dɪˈleɪ/ LONG WAIT
 [A2]when you have to wait longer than expected for something to happen, or the time that you have to wait
 - An accident caused long delays on the Interstate.
-- There has been a delay in the book's publication.
+- There has been a delay `in` the book's publication.
 
 ## 524. dentist ## noun [C]
 /ˈden.t̬ɪst/ 
@@ -3410,9 +3410,9 @@
 ## 525. department ## noun [C]
 /dɪˈpɑrt.mənt/ 
 [A2]a part of an organization such as a school, business or government which deals with a particular area of study or work
-- the African Studies department/the department of African Studies
+- the African Studies department/the department `of` African Studies
 - The sales department is having a Christmas party this week.
-- the Department of Health and Human Services
+- the Department `of` Health and Human Services
 
 ## 526. department store ## noun [C]
 /dɪˈpɑrt.məntˌstɔːr/ 
@@ -3423,30 +3423,30 @@
 /ˈdez.ərt/ 
 [A2]a large, hot, dry area of land with very few plants
 - the Sahara Desert
-- They were lost in the desert for nine days.
+- They were lost `in` the desert for nine days.
 
 ## 528. dessert ## noun [C or U]
 /dɪˈzɜrt/ 
 [A2]sweet food eaten after the main part of a meal
-- For dessert there's apple pie, cheesecake or fruit.
-- If you make the main course, I'll make a dessert.
+- `For` dessert there's apple pie, cheesecake or fruit.
+- If you make the main course, I'll `make` a dessert.
 
 ## 529. detail ## noun
 /dɪˈteɪl/ details
 [A2]information about someone or something
 - They haven't given me any details yet.
-- A police officer took down the details of what happened.
+- A police officer `took down` the details `of` what happened.
 
 ## 530. diary ## noun [C]
 /ˈdɑɪ.ə.ri/ 
 [A2]a book in which a person writes a private record of events, thoughts, feelings, etc.
 - I write down my thoughts in my diary every night.
-- I've kept a diary since I was a little girl.
+- I've `kept` a diary since I was a little girl.
 
 ## 531. difference ## noun
 /ˈdɪf.rəns/ WAY
 [A2]the way in which two people or things are not the same
-- What's the difference between an ape and a monkey?
+- What's the difference `between` an ape and a monkey?
 
 ## 532. digital camera ## noun [C]
 /ˌdɪdʒ.ət̬.əlˈkæm.rə/ 
@@ -3461,14 +3461,14 @@
 ## 534. diploma ## noun [C]
 /dəˈploʊ.mə/ 
 [A2]an official document showing that someone has completed a course of study
-- a high school/college diploma
+- a `high school`/`college` diploma
 
 ## 535. directions ## noun [plural]
 /dəˈrek.ʃənz/ 
 [A2]instructions that tell you how to get to a particular place, or how to do something
-- Can you give me directions to your house?
+- Can you `give` me directions `to` your house?
 - "Did you have any difficulty finding the theater?" "No, your directions were excellent."
-- Just follow the directions on the label.
+- Just `follow` the directions on the label.
 
 ## 536. disco ## noun [C]
 /ˈdɪs.koʊ/ 
@@ -3478,8 +3478,8 @@
 ## 537. discount ## noun [C]
 /ˈdɪs.kɑʊnt/ 
 [A2]a reduction in price
-- They usually give you a discount if you buy multiple copies.
-- They offer a 10 percent discount on train travel for students.
+- They usually `give` you a discount if you buy multiple copies.
+- They `offer` a 10 percent discount `on` train travel for students.
 
 ## 538. dish ## noun
 /dɪʃ/ CONTAINER
@@ -3489,36 +3489,36 @@
 ## 539. dish ## noun
 /dɪʃ/ FOOD
 [A2]food prepared in a particular way as part of a meal
-- a chicken/vegetarian dish
+- a `chicken/vegetarian` dish
 
 ## 540. dish ## noun
 /dɪʃ/ the dishes
 [A2]dirty plates, bowls and other objects that have been used for cooking or eating food
-- Who's going to do/wash the dishes?
+- Who's going to `do/wash` the dishes?
 
 ## 541. document ## noun [C]
 /ˈdɑk.jə.mənt/ OFFICIAL INFORMATION
 [A2]a piece of paper with official information on it
-- official/confidential/legal documents
+- `official/confidential/legal` documents
 
 ## 542. drawer ## noun [C]
 /drɔːr/ 
 [A2]a box-shaped container without a top which is part of a piece of furniture. It slides in and out to open and close and is used for keeping things in.
-- I keep my socks in the bottom drawer.
+- I keep my socks `in` the bottom drawer.
 - I don't like to go through other people's drawers.
 
 ## 543. drawing ## noun [C or U]
 /ˈdrɔː.ɪŋ/ 
 [A2]the act of making a picture with a pencil or pen, or a picture made in this way
 - Rosie loves drawing.
-- She gave me a beautiful drawing of a horse.
+- She gave me a beautiful drawing `of` a horse.
 
 ## 544. dream ## noun [C]
 /driːm/ SLEEP
 [A2]a series of events or images that happen in your mind when you are sleeping
-- a bad dream
-- I had a very odd dream about you last night.
-- Paul had a dream that he won the lottery.
+- a `bad` dream
+- I `had` a very odd dream `about` you last night.
+- Paul had a dream `that` he won the lottery.
 
 ## 545. dresser ## noun [C]
 /ˈdres.ər/ 
@@ -3534,19 +3534,19 @@
 ## 547. driver ## noun [C]
 /ˈdrɑɪ.vər/ 
 [A2]someone who drives a vehicle
-- a bus/truck/taxi driver
-- The driver of the van was killed in the accident.
+- a `bus/truck/taxi` driver
+- The driver `of` the van was killed in the accident.
 
 ## 548. driver's license ## noun [C]
 /ˈdrɑɪ.vərzˌlɑɪ.sənts/ 
 [A2]official permission for someone to drive a car, received after passing a driving test, or a document showing this
-- I have a clean driving licence.
+- I have a `clean` driving licence.
 
 ## 549. drum ## noun [C]
 /drʌm/ 
 [A2]a round, hollow musical instrument that you hit with your hand or a stick
 - a bass/snare/kettle drum
-- a drum beat
+- a drum `beat`
 
 ## 550. duck ## noun [C]
 /dʌk/ 
@@ -3556,9 +3556,9 @@
 ## 551. earring ## noun [C]
 /ˈɪr.rɪŋ/ 
 [A2]a piece of jewelry that you wear on or through your ear
-- gold/silver earrings
-- a pair of earrings
-- He was wearing an earring in his left ear.
+- `gold/silver` earrings
+- a `pair of` earrings
+- He was `wearing` an earring in his left ear.
 
 ## 552. east ## noun [U]
 /iːst/ DIRECTION
@@ -3569,14 +3569,14 @@
 ## 553. east ## noun [U]
 /iːst/ the east
 [A2]the part of an area that is further toward the east than the rest
-- Her home is in the east of France.
+- Her home is `in` the east `of` France.
 - Most of the country, except the east, is rural.
 
 ## 554. electricity ## noun [U]
 /eˌlekˈtrɪs.ət̬.i/ 
 [A2]a type of energy that can produce light and heat, or make machines work
-- The electricity has been turned off.
-- an electricity bill
+- The electricity has been `turned off`.
+- an electricity `bill`
 
 ## 555. elephant ## noun [C]
 /ˈel.ə.fənt/ 
@@ -3586,32 +3586,32 @@
 ## 556. elevator ## noun [C]
 /ˈel.əˌveɪt̬.ər/ 
 [A2]a machine that carries people up and down in tall buildings
-- Just take the elevator up to the fourth floor.
+- Just `take` the elevator up to the fourth floor.
 
 ## 557. end ## noun
 /end/ FARTHEST PART
 [A2]the furthest part or final part of a place or thing
 - Our house is the third from the end on the left.
-- They were standing at opposite ends of the room.
+- They were standing at `opposite` ends of the room.
 
 ## 558. engine ## noun [C]
 /ˈen.dʒən/ 
 [A2]the part of a vehicle that uses energy from oil, electricity or steam to make it move
-- a jet/diesel engine
+- a `jet/diesel` engine
 
 ## 559. engineer ## noun [C]
 /ˌen.dʒəˈnɪr/ 
 [A2]someone whose job is to design, build or repair machines, engines, roads, bridges, etc.
-- a civil engineer
-- a mechanical/structural engineer
-- a software engineer
+- a `civil` engineer
+- a `mechanical/structural` engineer
+- a `software` engineer
 
 ## 560. entrance ## noun
 /ˈen.trəns/ DOOR
 [A2]a door, gate, etc. by which you can enter a building or place
 - There are two entrances - one at the front and one around the back.
-- They must have used the back entrance to the building.
-- I'll meet you at the main entrance.
+- They must have used the back entrance `to` the building.
+- I'll meet you `at the` main entrance.
 
 ## 561. envelope ## noun [C]
 /ˈen.vəˌloʊp/ 
@@ -3626,10 +3626,10 @@
 ## 563. exam ## noun [C]
 /ɪgˈzæm/ 
 [A2]an official test of how much you know about something, or how well you can do something
-- How many pupils are taking the chemistry exam this year?
-- I failed my physics exam, but I passed chemistry.
-- final exams
-- exam papers
+- How many pupils are `taking` the chemistry exam this year?
+- I `failed` my physics exam, but I `passed` chemistry.
+- `final` exams
+- exam `papers`
 
 ## 564. examination ## noun
 /ɪgˌzæm.əˈneɪ.ʃən/ TEST
@@ -3639,9 +3639,9 @@
 ## 565. exercise ## noun
 /ˈek.sərˌsɑɪz/ PHYSICAL ACTIVITY
 [A2]physical activity that you do to make your body strong and healthy
-- You really should get more exercise.
-- Swimming is my favorite form of exercise.
-- I do stomach exercises most days.
+- You really should `get` more exercise.
+- Swimming is my favorite `form of` exercise.
+- I `do` stomach exercises most days.
 
 ## 566. exercise ## noun
 /ˈek.sərˌsɑɪz/ PRACTICE
@@ -3651,34 +3651,34 @@
 ## 567. exit ## noun [C]
 /ˈek.sət/ WAY OUT
 [A2]the door or gate which you use to leave a public building or place
-- a fire exit
-- an emergency exit
-- the main exit
+- a `fire` exit
+- an `emergency` exit
+- the `main` exit
 
 ## 568. exit ## noun [C]
 /ˈek.sət/ ROAD
 [A2]a road which you use to leave a highway
-- Take the third exit and turn left at the end of the ramp.
+- `Take` the third exit and turn left at the end of the ramp.
 
 ## 569. fact ## noun
 /fækt/ TRUE THING
 [A2]something that you know is true, exists, or has happened
-- I don't know all the facts about what happened.
-- I'm not angry that you took my car - it's just the fact that you didn't ask me first.
-- I knew for a fact that she was lying.
+- I don't know all the facts `about` what happened.
+- I'm not angry that you took my car - it's just `the` fact `that` you didn't ask me first.
+- I `knew for a` fact that she was lying.
 
 ## 570. fall ## noun
 /fɔːl/ TIME OF YEAR
 [A2]the season of the year between summer and winter, when leaves fall from the trees
-- We like to travel in the fall when there are fewer tourists.
-- Last fall we went to Vermont.
-- fall colors/leaves
+- We like to travel `in the` fall when there are fewer tourists.
+- `Last` fall we went to Vermont.
+- fall `colors/leaves`
 
 ## 571. fan ## noun [C]
 /fæn/ PERSON
 [A2]someone who admires and supports a person, sport, sports team, etc.
 - More than 15,000 Liverpool fans attended Saturday's game.
-- He's a big fan of country music.
+- He's a big fan `of` country music.
 
 ## 572. farmer ## noun [C]
 /ˈfɑr.mər/ 
@@ -3688,14 +3688,14 @@
 ## 573. fashion ## noun
 /ˈfæʃ.ən/ POPULAR STYLE
 [A2]a style that is popular at a particular time, especially in clothes, hair, makeup, etc.
-- Long hair is back in fashion for men.
-- Fur coats have gone out of fashion.
-- She always wears the latest fashions.
+- Long hair is back `in` fashion for men.
+- Fur coats have `gone out of` fashion.
+- She always wears `the latest` fashions.
 
 ## 574. fast food ## noun [U]
 /ˌfæstˈfuːd/ 
 [A2]hot food that can be served very quickly because it is already prepared
-- fast food restaurants
+- fast food `restaurants`
 
 ## 575. field ## noun
 /fiːld/ LAND
@@ -3707,13 +3707,13 @@
 /fɑɪl/ COMPUTER
 [A2]a collection of information such as text, pictures or computer programs stored together electronically with a single name
 - What's the file name?
-- I'm going to copy/save this file.
+- I'm going to `copy/save` this file.
 
 ## 577. file ## noun [C]
 /fɑɪl/ INFORMATION
 [A2]a collection of information and documents about someone or something
-- a project/subject/research file
-- The school keeps files on all its students.
+- a `project/subject/research` file
+- The school `keeps` files `on` all its students.
 
 ## 578. finger ## noun [C]
 /ˈfɪŋ.gər/ ON HAND
@@ -3724,20 +3724,20 @@
 ## 579. fire ## noun
 /fɑɪr/ FLAMES
 [A2]heat, light, and flames that are produced when something burns
-- The library was badly damaged in the fire.
-- It is thought that the fire was started deliberately.
-- It took the firefighters three hours to put out the fire.
-- How many historic buildings are damaged by fire each year?
+- The library was badly damaged `in` the fire.
+- It is thought that the fire was `started` deliberately.
+- It took the firefighters three hours to `put out` the fire.
+- How many historic buildings are damaged `by` fire each year?
 
 ## 580. first name ## noun [C]
 /ˈfɜːrstˌneɪm/ 
 [A2]the personal name that was given to you when you were born and that is not your family's name
-- It can be rude to call someone by their first name if they are much older or more important than you.
+- It can be rude to `call` someone `by` their first name if they are much older or more important than you.
 
 ## 581. fishing ## noun [U]
 /ˈfɪʃ.ɪŋ/ 
 [A2]the sport or job of catching fish
-- My dad loves to go fishing.
+- My dad loves to `go` fishing.
 - salmon fishing
 - Fishing is still their main source of income.
 
@@ -3747,21 +3747,21 @@
 - I'll never forget my first flight.
 - How was your flight?
 - All flights to New York today are delayed because of bad weather.
-- My flight was cancelled/delayed.
+- My flight was `cancelled/delayed`.
 
 ## 583. floor ## noun [C]
 /flɔːr/ BUILDING
 [A2]a particular level of a building
 - This building has five floors.
 - Take the elevator to the 51st floor.
-- We live on the third floor.
+- We live `on` the third floor.
 - a ground floor/first-floor apartment
 
 ## 584. fog ## noun [C or U]
 /fɔːg/ 
 [A2]thick cloud just above the ground or water that makes it difficult to see
-- Thick/Heavy fog has made driving conditions dangerous.
-- It took several hours for the fog to clear/lift.
+- `Thick/Heavy` fog has made driving conditions dangerous.
+- It took several hours for the fog to `clear/lift`.
 
 ## 585. folder ## noun [C]
 /ˈfoʊl.dər/ FOR PAPERS
@@ -3776,10 +3776,10 @@
 ## 587. football ## noun
 /ˈfʊt.bɔːl/ GAME
 [A2]a game in which two teams of players kick, throw, and run with an oval ball to cross a goal line and score points
-- a football player/team/helmet
-- He's playing football.
-- Are you coming to the football game?
-- I'm a big football fan.
+- a football `player/team/helmet`
+- He's `playing` football.
+- Are you coming to the football `game`?
+- I'm a big football `fan`.
 
 ## 588. football ## noun
 /ˈfʊt.bɔːl/ SOCCER
@@ -3790,20 +3790,20 @@
 /ˈfɔːr.əst/ 
 [A2]a large area of trees growing closely together
 - the Black Forest
-- The children got lost in the forest.
+- The children got lost `in` the forest.
 
 ## 590. fork ## noun [C]
 /fɔːrk/ 
 [A2]a small object with three or four points and a handle, that you use to pick up food and eat with
-- a knife and fork.
+- a `knife and` fork.
 
 ## 591. form ## noun [C]
 /fɔːrm/ DOCUMENT
 [A2]a document with spaces for you to write information
-- an application form
-- an entry form
-- Please fill in/out the form with black ink.
-- When you have completed the form, hand it in at the desk.
+- an `application` form
+- an `entry` form
+- Please `fill in/out` the form with black ink.
+- When you have `completed` the form, hand it in at the desk.
 
 ## 592. friend ## noun [C]
 /frend/ INTERNET
@@ -3813,15 +3813,15 @@
 ## 593. front ## noun
 /frʌnt/ the front
 [A2]the side of something that is most important or most often seen because it faces forward
-- The front of the museum is very impressive.
-- You need to write the address clearly on the front of the envelope.
-- There was coffee on the front of his shirt.
+- The front `of` the museum is very impressive.
+- You need to write the address clearly `on` the front `of` the envelope.
+- There was coffee `on` the front `of` his shirt.
 
 ## 594. front ## noun
 /frʌnt/ the front
 [A2]the part of something that is most forward
-- He was standing right at the front.
-- Do you want to sit in the front, next to me?
+- He was standing right `at` the front.
+- Do you want to sit `in` the front, next to me?
 
 ## 595. front ## noun
 /frʌnt/ in front of sth/sb
@@ -3832,18 +3832,18 @@
 ## 596. furniture ## noun [U]
 /ˈfɜr.nɪ.tʃər/ 
 [A2]objects such as chairs, tables, and beds that you put into a room or building
-- They have a lot of antique furniture.
-- The only piece of furniture he has in his room is a bed.
+- They have a lot of `antique` furniture.
+- The only `piece of` furniture he has in his room is a bed.
 
 ## 597. future ## noun
 /ˈfjuː.tʃər/ the future
 [A2]in grammar, the form of the verb used when talking about something that will happen or exist
-- In the sentence "Who will look after the dog?" the verb phrase "will look" is in the future.
+- In the sentence "Who will look after the dog?" the verb phrase "will look" is `in` the future.
 
 ## 598. game ## noun [C]
 /geɪm/ OCCASION
 [A2]a particular competition, match or occasion when people play a game
-- We played a game of volleyball.
+- We `played a` game `of` volleyball.
 - Who won yesterday's game?
 
 ## 599. garage ## noun [C]
@@ -3854,13 +3854,13 @@
 ## 600. garlic ## noun [U]
 /ˈgɑr.lɪk/ 
 [A2]a vegetable like a small onion with a very strong taste and smell
-- a clove of garlic
+- a `clove of` garlic
 
 ## 601. gas ## noun
 /gæs/ LIQUID FUEL
 [A2]a liquid fuel used in cars and trucks
-- the gas tank
-- gas mileage
+- the gas `tank`
+- gas `mileage`
 - We need to stop and get gas.
 
 ## 602. gas station ## noun [C]
@@ -3871,7 +3871,7 @@
 ## 603. gate ## noun [C]
 /geɪt/ STRUCTURE
 [A2]the part of a fence or outside wall that opens and closes like a door
-- Please close the gate.
+- Please `close` the gate.
 
 ## 604. geography ## noun [U]
 /dʒiːˈɑg.rə.fi/ 
@@ -3896,14 +3896,14 @@
 ## 608. glove ## noun [C]
 /glʌv/ 
 [A2]a piece of clothing which covers your fingers and hand
-- a pair of gloves
+- a `pair of` gloves
 
 ## 609. goal ## noun [C]
 /goʊl/ POINT
 [A2]a point scored in sports such as soccer, when a player sends a ball or other object into a particular area, such as between two posts
-- He scored two goals in the second half.
+- He `scored` two goals in the second half.
 - We won by three goals to one.
-- Brinkworth scored the winning goal.
+- Brinkworth scored the `winning` goal.
 
 ## 610. goal ## noun [C]
 /goʊl/ AREA
@@ -3918,19 +3918,19 @@
 ## 612. gold ## noun [U]
 /goʊld/ 
 [A2]a valuable, shiny, yellow metal used to make coins, jewelry, etc.
-- The bracelet was made of solid gold.
+- The bracelet was made of `solid` gold.
 
 ## 613. golf ## noun [U]
 /gɑlf/ 
 [A2]a game on grass where players try to hit a small ball into a series of holes, using a long, thin stick
-- Do you play golf?
-- We often play a round of golf on Saturdays.
-- a golf course
+- Do you `play` golf?
+- We often play a `round of` golf on Saturdays.
+- a golf `course`
 
 ## 614. grade ## noun [C]
 /greɪd/ SCHOOL
 [A2]a school class or group of classes in which all the children are of a similar age or ability
-- Jackie is in the sixth grade.
+- Jackie is `in` the sixth grade.
 
 ## 615. graduate ## noun [C]
  
@@ -4001,7 +4001,7 @@
 ## 628. grape ## noun [C]
 /greɪp/ 
 [A2]a small round purple or pale green fruit that you can eat or make into wine
-- a bunch of grapes
+- a `bunch of` grapes
 
 ## 629. gray ## noun [C or U]
 /greɪ/ 
@@ -4011,7 +4011,7 @@
 ## 630. green ## noun [C or U]
 /griːn/ 
 [A2]the color of grass
-- dark/light green
+- `dark/light` green
 
 ## 631. grocery store ## noun [C]
 /ˈgroʊ.sə.riˌstɔːr/ 
@@ -4032,13 +4032,13 @@
 ## 634. guide ## noun [C]
 /gɑɪd/ PERSON
 [A2]someone whose job is to show interesting places to visitors, or to help people get somewhere
-- a tour guide
+- a `tour` guide
 - The guide at the museum gave us a very interesting talk.
 
 ## 635. guidebook ## noun [C]
 /ˈgɑɪd.bʊk/ 
 [A2]a book that gives visitors information about a particular place
-- a guidebook to/about Venice
+- a guidebook `to/about` Venice
 
 ## 636. guy ## noun [C]
 /gɑɪ/ 
@@ -4058,8 +4058,8 @@
 ## 639. half ## noun ; pronoun ; determiner
 /hæf/ PART
 [A2]one of two equal parts of something
-- Rice is eaten by half of the world's population.
-- It'll take half an hour/a half hour to get there.
+- Rice is eaten by half `of` the world's population.
+- It'll take half `an hour`/`a` half `hour` to get there.
 - Jenny lived in Beijing for a year and a half.
 - He cut up the apple and gave me half.
 
@@ -4067,15 +4067,15 @@
 /hɔːl/ BUILDING
 [A2]a large room or building where meetings, concerts, and other events happen
 - Her dream is to perform at Carnegie Hall.
-- a concert/lecture hall
-- the students' dining hall
-- There's an important meeting at the town hall.
+- a `concert/lecture` hall
+- the students' `dining` hall
+- There's an important meeting at the `town` hall.
 
 ## 641. hall ## noun [C]
 /hɔːl/ ENTRANCE
 [A2]a room or passage in a building that leads to other rooms
-- an entrance hall
-- Children are not allowed to run in the school halls.
+- an `entrance` hall
+- Children are not allowed to run `in` the school halls.
 
 ## 642. ham ## noun [U]
 /hæm/ 
@@ -4090,38 +4090,38 @@
 ## 644. headache ## noun [C]
 /ˈhed.eɪk/ 
 [A2]a pain you feel inside your head
-- I have a splitting headache.
+- I `have` a `splitting` headache.
 
 ## 645. health ## noun [U]
 /helθ/ 
 [A2]the condition of your body
-- to be in good/poor health
+- to be in `good/poor` health
 - Regular exercise is good for your health.
 - I had to stop eating salty foods for health reasons.
 
 ## 646. heart ## noun
 /hɑrt/ ORGAN
 [A2]the organ in your chest that sends the blood around your body
-- heart disease/failure
-- He has a weak/bad heart.
+- heart `disease/failure`
+- He has a `weak/bad` heart.
 
 ## 647. heat ## noun [U]
 /hiːt/ 
 [A2]the system that keeps a building warm
-- Could you turn up/down the heat a little?
+- Could you `turn up/down` the heat a little?
 
 ## 648. helicopter ## noun [C]
 /ˈhel.əˌkɑp.tər/ 
 [A2]an aircraft that flies using long, thin parts on top of it that turn around and around very fast
-- The injured were flown to the hospital by helicopter.
-- a helicopter pilot
+- The injured were flown to the hospital `by` helicopter.
+- a helicopter `pilot`
 
 ## 649. help ## noun
 /help/ WHEN SOMEONE HELPS
 [A2]when someone helps another person
-- I was too embarrassed to ask for help.
-- Do you need any help with those boxes?
-- I could use some help with the cleaning.
+- I was too embarrassed to `ask for` help.
+- Do you need any help `with` those boxes?
+- I could use some help `with` the cleaning.
 
 ## 650. high school ## noun [C or U]
 /ˈhɑɪ.skuːl/ 
@@ -4136,15 +4136,15 @@
 ## 652. hiking ## noun [U]
 /ˈhɑɪk.ɪŋ/ 
 [A2]the activity of going for a long walk for pleasure outdoors
-- We're going hiking in the mountains this weekend.
-- a pair of hiking boots
+- We're `going` hiking in the mountains this weekend.
+- a pair of hiking `boots`
 
 ## 653. hill ## noun [C]
 /hɪl/ 
 [A2]a raised area of land, smaller than a mountain
-- We walked up/down the hill to the village.
-- They climbed the hill to get a better view.
-- Their house is on the top of a hill.
+- We walked `up/down` the hill to the village.
+- They `climbed` the hill to get a better view.
+- Their house is on the `top of` a hill.
 
 ## 654. hip-hop ## noun [U]
 /ˈhɪp.hɑp/ 
@@ -4155,7 +4155,7 @@
 /ˈhɪs.tə.ri/ PAST
 [A2]the whole series of events in the past that relate to the development of a country, subject, or person
 - The Civil War was a terrible time in American history.
-- What do you know about the history of jazz?
+- What do you know about the history `of` jazz?
 
 ## 656. history ## noun
 /ˈhɪs.tə.ri/ SUBJECT
@@ -4198,11 +4198,11 @@
 ## 663. idea ## noun
 /ɑɪˈdiː.ə/ SUGGESTION
 [A2]a suggestion or plan
-- a bad/brilliant/great/stupid idea
-- "Let's go swimming." "That's a good idea!"
-- If you have any ideas for what I can get Josh, let me know.
-- It was Kate's idea to rent a car.
-- I have an idea - why don't we go to the beach?
+- a `bad/brilliant/great/stupid` idea
+- "Let's go swimming." "That's a `good` idea!"
+- If you have any ideas `for` what I can get Josh, let me know.
+- It was Kate's idea `to` rent a car.
+- I `have an` idea - why don't we go to the beach?
 
 ## 664. identification ## noun [U]
 /ɑɪˌdent.ə.fəˈkeɪ.ʃən/ DOCUMENT
@@ -4212,48 +4212,48 @@
 ## 665. information ## noun [U]
 /ˌɪn.fərˈmeɪ.ʃən/ 
 [A2]facts about a situation, person, event, etc.
-- to find out/get information
-- Do you have any information about/on train times?
-- I read an interesting bit/piece of information in the newspaper.
-- For further information, please contact your local library.
-- We have reliable information that a strike is planned next month.
+- to `find out/get` information
+- Do you have any information `about/on` train times?
+- I read an interesting `bit/piece` of information in the newspaper.
+- `For further` information, please contact your local library.
+- We have reliable information `that` a strike is planned next month.
 
 ## 666. insect ## noun [C]
 /ˈɪn.sekt/ 
 [A2]a small creature with six legs, for example a bee or a fly
 - Ants, beetles, butterflies and flies are all insects.
-- I've got some sort of insect bite on my leg.
+- I've got some sort of insect `bite` on my leg.
 
 ## 667. instruction ## noun
 /ɪnˈstrʌk.ʃən/ instructions
 [A2]information that explains how to do or use something
-- You obviously didn't read the instructions properly.
-- They need simple/clear instructions on what to do next.
+- You obviously didn't `read` the instructions properly.
+- They need `simple/clear` instructions `on` what to do next.
 
 ## 668. instrument ## noun [C]
 /ˈɪn.strə.mənt/ MUSIC
 [A2]an object that is used for playing music, such as a piano, guitar or drum
-- They all brought musical instruments with them.
-- Which instrument do you play?
+- They all brought `musical` instruments with them.
+- Which instrument do you `play`?
 
 ## 669. invitation ## noun
 /ˌɪn.vəˈteɪ.ʃən/ SOCIAL
 [A2]when someone invites you to do something or go somewhere
-- Thanks for the invitation to your birthday party.
-- I'm happy to accept your invitation.
+- Thanks for the invitation `to` your birthday party.
+- I'm happy to `accept` your invitation.
 
 ## 670. island ## noun [C]
 /ˈɑɪ.lənd/ 
 [A2]a piece of land completely surrounded by water
 - a desert island
 - a Pacific island
-- They live on the large Japanese island of Hokkaido.
+- They live `on` the large Japanese island of Hokkaido.
 
 ## 671. jam ## noun
 /dʒæm/ SWEET FOOD
 [A2]a sweet food made with fruit and sugar that you can put on bread
 - strawberry/raspberry jam
-- a jar of apricot jam
+- a `jar of` apricot jam
 
 ## 672. jazz ## noun [U]
 /dʒæz/ 
@@ -4271,13 +4271,13 @@
 /ˈdʒuː.əl.ri/ 
 [A2]objects made from gold, silver, and valuable stones that you wear for decoration
 - a jewelry box
-- a piece of gold/silver jewelry
+- a piece of `gold/silver` jewelry
 
 ## 675. job ## noun
 /dʒɑb/ PIECE OF WORK
 [A2]a particular piece of work
 - The builders are aiming to get the job done by the end of the month.
-- He spent the afternoon doing jobs around the house.
+- He spent the afternoon `doing` jobs around the house.
 
 ## 676. key ## noun [C]
 /kiː/ ANSWERS
@@ -4322,7 +4322,7 @@
 ## 684. kind ## noun [C]
 /kɑɪnd/ all kinds of sth
 [A2]many different types of something
-- The cabinet contained all kinds of strange things.
+- The cabinet contained `all` kinds `of` strange things.
 
 ## 685. king ## noun [C]
 /kɪŋ/ RULER
@@ -4333,7 +4333,7 @@
 ## 686. kite ## noun [C]
 /kɑɪt/ 
 [A2]a toy made from paper or cloth which flies in the air on a long string
-- We spent the morning flying a kite in the local park.
+- We spent the morning `flying` a kite in the local park.
 
 ## 687. lake ## noun [C]
 /leɪk/ 
@@ -4344,7 +4344,7 @@
 ## 688. lamp ## noun [C]
 /læmp/ 
 [A2]a piece of equipment that produces light
-- a table/bedside lamp
+- a `table/bedside` lamp
 - an oil lamp
 
 ## 689. laptop ## noun [C]
@@ -4360,13 +4360,13 @@
 ## 691. leather ## noun [U]
 /ˈleð.ər/ 
 [A2]the skin of animals that is used to make things such as shoes and bags
-- a leather jacket/belt/handbag
+- a leather `jacket/belt/handbag`
 
 ## 692. left ## noun
 /left/ LEFT SIDE
 [A2]the left side of your body, or the direction toward this side
-- First I'll introduce the speaker sitting on my left.
-- Your seat is the third from the left.
+- First I'll introduce the speaker sitting `on` my left.
+- Your seat is the third `from` the left.
 - It's to the left of the bookcase.
 
 ## 693. lemon ## noun [C or U]
@@ -4389,7 +4389,7 @@
 ## 696. level ## noun [C]
 /ˈlev.əl/ ABILITY
 [A2]someone's ability compared to other people
-- a course for beginner/intermediate/advanced level students
+- a course for `beginner/intermediate/advanced` level students
 - Students at this level require a lot of help.
 
 ## 697. library ## noun [C]
@@ -4402,17 +4402,17 @@
 /ˈlaɪ·sənts/ 
 [A2]an official document that allows you to do or have something
 - a fishing/driver's license
-- You're going to lose your license if you keep getting speeding tickets.
+- You're going to `lose` your license if you keep getting speeding tickets.
 
 ## 699. lift ## noun
 /lɪft/ 
 [A2]a free ride somewhere in another person's car
-- Can you give me a lift to the airport?
+- Can you `give` me a lift to the airport?
 
 ## 700. light ## noun
 /lɑɪt/ EQUIPMENT
 [A2]a piece of equipment which produces light, such as a lamp or a light bulb
-- Could you turn the light on/off, please?
+- Could you `turn` the light `on/off`, please?
 - She could see the city lights in the distance.
 - As the lights went down, the audience grew quiet.
 - My front bike light isn't working.
@@ -4431,14 +4431,14 @@
 ## 703. list ## noun [C]
 /lɪst/ 
 [A2]a series of names, numbers, or items that are written one below the other
-- a shopping list
-- Is your name on the list?
-- I've made a list of places I'd like to visit while we're in Paris.
+- a `shopping` list
+- Is your name `on the` list?
+- I've `made` a list of places I'd like to visit while we're in Paris.
 
 ## 704. liter ## noun [C]
 /ˈliːt̬.ər/ 
 [A2]a unit for measuring the volume of a liquid, equal to 1.057 quarts
-- a liter of water/soda
+- a liter `of` water/soda
 - Pick up a two-liter bottle of spring water while you're at the store.
 
 ## 705. love ## noun
@@ -4451,16 +4451,16 @@
 /lʌk/ CHANCE
 [A2]good and bad things caused by chance and not by your own actions
 - It was just by luck that she got the job.
-- a good luck charm
-- She had bad luck in the last race, finishing fourth.
-- So your interview's tomorrow? Good luck!
-- The best of luck with your exams!
+- a `good` luck charm
+- She had `bad` luck in the last race, finishing fourth.
+- So your interview's tomorrow? `Good` luck!
+- `The best of` luck `with` your exams!
 
 ## 707. luggage ## noun [U]
 /ˈlʌg.ɪdʒ/ 
 [A2]suitcases and other bags that you carry with you when you are traveling
 - Never leave your luggage unattended.
-- carry-on luggage
+- `carry-on` luggage
 
 ## 708. lunchtime ## noun [C or U]
 /ˈlʌntʃ.tɑɪm/ 
@@ -4472,19 +4472,19 @@
 [A2]a piece of equipment with several moving parts which uses power to do a particular type of work
 - a washing machine
 - a coffee machine
-- Eggs are sorted into different sizes by machine.
+- Eggs are sorted into different sizes `by` machine.
 
 ## 710. magazine ## noun [C]
 /ˌmæg.əˈziːn/ 
 [A2]a thin book published every week or month, that has shiny, colorful pages with articles and pictures
 - She has written articles for several women's magazines.
-- a fashion/celebrity magazine
+- a `fashion/celebrity` magazine
 
 ## 711. magic ## noun [U]
 /ˈmædʒ.ɪk/ SPECIAL POWERS
 [A2]special powers that can make things happen that seem impossible
 - Do you believe in magic?
-- As if by magic, the car changes into a boat when it hits the water.
+- `As if by` magic, the car changes into a boat when it hits the water.
 
 ## 712. magic ## noun [U]
 /ˈmædʒ.ɪk/ ENTERTAINMENT
@@ -4494,19 +4494,19 @@
 ## 713. mail ## noun
 /meɪl/ LETTERS
 [A2]letters and packages that are delivered to homes, places of work, etc.
-- Did the mail come yet? / Was the mail delivered yet?
+- Did the mail `come` yet? / Was the mail `delivered` yet?
 - She spent the morning reading and answering her mail.
 
 ## 714. mail ## noun
 /meɪl/ SYSTEM
 [A2]the public system by which letters and packages are sent and delivered
-- You will be sent your test results by mail.
-- A package for you came in the mail today.
+- You will be sent your test results `by` mail.
+- A package for you came `in the` mail today.
 
 ## 715. mail ## noun
 /meɪl/ E-MAIL
 [A2]e-mail
-- I just want to check my mail before I turn off the computer.
+- I just want to `check` my mail before I turn off the computer.
 
 ## 716. main course ## noun [C]
 /ˌmeɪnˈkɔːrs/ 
@@ -4516,8 +4516,8 @@
 ## 717. makeup ## noun [U]
 /ˈmeɪk.ʌp/ 
 [A2]colored substances used on your face to improve or change your appearance
-- She wears a lot of makeup.
-- I put on a little eye makeup.
+- She `wears` a lot of makeup.
+- I `put on` a little eye makeup.
 
 ## 718. manager ## noun [C]
 /ˈmæn.ɪdʒ.ər/ 
@@ -4535,16 +4535,16 @@
 ## 720. map ## noun [C]
 /mæp/ 
 [A2]a picture that shows where countries, towns, roads, rivers, etc. are
-- a map of the world
-- a map of Paris
-- a road map
-- I'm hopeless at map reading.
+- a map `of` the world
+- a map `of` Paris
+- a `road` map
+- I'm hopeless at map `reading`.
 
 ## 721. mark ## noun [C]
 /mɑrk/ SCORE
 [A2]a number or letter that is written on a piece of work, saying how good the work is
-- What mark did you get in the biology exam?
-- She always gets good marks in English.
+- What mark did you `get` in the biology exam?
+- She always gets `good` marks in English.
 
 ## 722. market ## noun [C]
 /ˈmɑr.kɪt/ PLACE
@@ -4557,7 +4557,7 @@
 /mætʃ/ COMPETITION
 [A2]a sports competition in which two people or teams compete against each other
 - a tennis match
-- She won/lost the match.
+- She `won/lost` the match.
 
 ## 724. math ## noun [U]
 /mæθ/ 
@@ -4568,27 +4568,27 @@
 ## 725. matter ## noun
 /ˈmæt̬.ər/ the matter
 [A2]the reason for pain, worry or a problem
-- What's the matter? Why are you crying?
-- What's the matter with your hand? It's bleeding.
-- Is anything the matter?
+- `What's` the matter? Why are you crying?
+- `What's` the matter `with` your hand? It's bleeding.
+- `Is anything` the matter?
 
 ## 726. mechanic ## noun [C]
 /məˈkæn.ɪk/ 
 [A2]someone whose job is repairing the engines of vehicles and other machines
-- a car/garage/motor mechanic
+- a `car/garage/motor` mechanic
 
 ## 727. medicine ## noun
 /ˈmed.ɪ.sən/ SUBSTANCE
 [A2]a substance used to cure an illness or injury
 - cough medicine
-- Take two spoonfuls of medicine at mealtimes.
+- `Take` two spoonfuls of medicine at mealtimes.
 - The government appealed for food and medicines after the earthquake.
 
 ## 728. meeting ## noun [C]
 /ˈmiːt̬.ɪŋ/ 
 [A2]an event where people come together for a reason, usually to discuss something
-- We're having a meeting on Thursday to discuss the problem.
-- I'm afraid she's in a meeting - I'll ask her to call you back later.
+- We're `having` a meeting on Thursday to discuss the problem.
+- I'm afraid she's `in a` meeting - I'll ask her to call you back later.
 
 ## 729. melon ## noun [C or U]
 /ˈmel.ən/ 
@@ -4598,9 +4598,9 @@
 ## 730. member ## noun [C]
 /ˈmem.bər/ 
 [A2]a person who belongs to a group or an organization
-- family/staff members
-- a member of the older generation
-- He was a member of the university rowing team.
+- `family/staff` members
+- a member `of` the older generation
+- He was a member `of` the university rowing team.
 
 ## 731. memory ## noun
 /ˈmem.ə.ri/ COMPUTING
@@ -4612,12 +4612,12 @@
 [A2]a list of food and drinks that you can order in a restaurant
 - a lunch/dinner menu
 - The waiter brought the menu and the wine list.
-- I ordered the most expensive thing on the menu.
+- I ordered the most expensive thing `on the` menu.
 
 ## 733. menu ## noun [C]
 /ˈmen.juː/ COMPUTING
 [A2]a list that appears on a computer screen of the choices available in a computer program
-- a pop-up menu
+- a `pop-up` menu
 
 ## 734. meter ## noun [C]
 /ˈmiːt̬.ər/ 
@@ -4629,8 +4629,8 @@
 ## 735. middle ## noun
 /ˈmɪd.əl/ the middle
 [A2]in the central part, or in a central position
-- This is my class photo - I'm the one in the middle.
-- He was standing in the middle of the road.
+- This is my class photo - I'm the one `in` the middle.
+- He was standing `in` the middle `of` the road.
 - The middle of the road was covered with weeds.
 
 ## 736. midnight ## noun [U]
@@ -4641,44 +4641,44 @@
 ## 737. mineral water ## noun [U]
 /ˈmɪn.ə.rəlˌwɔːt̬.ər/ 
 [A2]water which is taken from the ground and contains natural chemical substances
-- still/carbonated mineral water
+- `still/carbonated` mineral water
 
 ## 738. minute ## noun [C]
 /ˈmɪn.ɪt/ SHORT TIME
 [A2]a very short period of time
-- I'll be with you in a minute.
-- It'll only take a minute to call him.
-- When you've got a minute, I'd like a brief word with you.
-- Hang on a minute - I'll be with you as soon as I can!
-- Can you hold on a minute - he's on the other side of the yard.
+- I'll be with you `in a` minute.
+- It'll only `take a` minute to call him.
+- When you've `got a` minute, I'd like a brief word with you.
+- `Hang on` a minute - I'll be with you as soon as I can!
+- Can you `hold on` a minute - he's on the other side of the yard.
 
 ## 739. mirror ## noun [C]
 /ˈmɪr.ər/ 
 [A2]a piece of glass with a shiny metallic material on one side which produces an image of anything that is in front of it
 - the bathroom mirror
-- She was looking at her reflection in the mirror.
+- She was looking at her reflection `in the` mirror.
 
 ## 740. mistake ## noun [C]
 /mɪˈsteɪk/ WRONG ACTION
 [A2]something that you do or think that is wrong
-- He made a lot of mistakes in his written test.
-- This letter's full of spelling mistakes.
+- He `made` a lot of mistakes in his written test.
+- This letter's full of `spelling` mistakes.
 - We shouldn't have come here - it was a mistake.
-- It would be a big mistake to quit school.
-- She made the mistake of giving him her phone number.
-- I've discovered a few mistakes in your calculations.
-- I'm not blaming you - we all make mistakes.
+- It would be a `big` mistake to quit school.
+- She `made the` mistake `of` giving him her phone number.
+- I've discovered a few mistakes `in` your calculations.
+- I'm not blaming you - `we all make` mistakes.
 
 ## 741. model ## noun [C]
 /ˈmɑd.əl/ DESIGN
 [A2]a design of machine or car that is made by a particular company
-- a luxury/new model
-- the latest model
+- a `luxury/new` model
+- the `latest` model
 
 ## 742. model ## noun [C]
 /ˈmɑd.əl/ COPY
 [A2]a smaller copy of a real object, often used to show how something works or what it looks like
-- a model of the railroad
+- a model `of` the railroad
 - By looking at this model you can get a better idea of how the bridge will look.
 - a plastic model aircraft
 
@@ -4690,11 +4690,11 @@
 ## 744. moment ## noun
 /ˈmoʊ.mənt/ SHORT TIME
 [A2]a very short period of time
-- I'll be back in a moment.
-- Can you wait a moment?
-- For a moment I thought it was Anna.
-- I'm expecting her to come at any moment.
-- Have you got a moment ?
+- I'll be back `in a` moment.
+- Can you `wait a` moment?
+- ` For a` moment I thought it was Anna.
+- I'm expecting her to come `at any` moment.
+- Have you `got a` moment ?
 
 ## 745. monkey ## noun [C]
 /ˈmʌŋ.ki/ 
@@ -4720,8 +4720,8 @@
 /ˈmɑʊnt.ən/ 
 [A2]a raised part of the Earth's surface, much larger than a hill, the top of which might be covered in snow
 - The Matterhorn is one of the biggest mountains in Europe.
-- The Rockies are a mountain range in the western United States.
-- I'd love to go mountain climbing.
+- The Rockies are a mountain `range` in the western United States.
+- I'd love to go mountain` climbing`.
 
 ## 750. mouse ## noun [C]
 /mɑʊs/ COMPUTER
@@ -4738,7 +4738,7 @@
 /mʌg/ 
 [A2]a large cup with straight sides used for hot drinks
 - a coffee mug
-- I made myself a large mug of hot chocolate and went to bed.
+- I made myself a large mug `of` hot chocolate and went to bed.
 
 ## 753. mushroom ## noun [C]
 /ˈmʌʃ.ruːm/ 
@@ -4749,7 +4749,7 @@
 /ˈneɪ.tʃər/ LIFE
 [A2]all the plants, creatures, substances, and forces that exist in the universe, which are not made by people
 - her love of nature
-- This new technique of artificially growing cells copies what actually happens in nature.
+- This new technique of artificially growing cells copies what actually happens `in` nature.
 - a nature article/book/program
 
 ## 755. neck ## noun [C]
@@ -4761,26 +4761,26 @@
 ## 756. necklace ## noun [C]
 /ˈnek.ləs/ 
 [A2]a piece of jewelry that you wear around your neck
-- a gold/silver necklace
+- a `gold/silver` necklace
 
 ## 757. neighbor ## noun [C]
 /ˈneɪ.bər / LIVING NEAR
 [A2]someone who lives very near you, especially in the next house
 - Some of the neighbors complained about the noise from our party.
-- Have you met Pat, my next-door neighbor?
+- Have you met Pat, my `next-door` neighbor?
 
 ## 758. net ## noun
 /net/ the net
 [A2]the Internet
-- You can find all this information on the Net.
+- You can find all this information `on` the Net.
 
 ## 759. news ## noun [U]
 /nuːz/ INFORMATION
 [A2]new information
-- I've got some good/bad news for you.
+- I've got some `good/bad` news for you.
 - That's the best news I've heard for a long time!
-- Have you heard the news about Tina? She's leaving.
-- We just heard the good news – congratulations on your promotion!
+- Have you `heard the` news about Tina? She's leaving.
+- We just heard `the good` news – congratulations on your promotion!
 - Why don’t you call them and see if there’s any news?
 
 ## 760. newspaper ## noun
@@ -4809,7 +4809,7 @@
 ## 764. note ## noun
 /noʊt/ notes
 [A2]information that is written down to help you study, or to help you remember something you are going to write about
-- The journalist took notes throughout the interview.
+- The journalist `took` notes throughout the interview.
 - I studied European literature, and I still have all my notes.
 
 ## 765. notebook ## noun [C]
@@ -4842,17 +4842,17 @@
 /ˈoʊ.ʃən/ 
 [A2]a very large area of salt water
 - the Atlantic/Pacific/Indian/Arctic/Antarctic Ocean
-- to swim in the ocean
-- These mysterious creatures live at the bottom of the ocean.
-- We rented a house by the ocean for a two-week vacation.
+- to swim in `the` ocean
+- These mysterious creatures live at the bottom `of the` ocean.
+- We rented a house `by the` ocean for a two-week vacation.
 - We're going on an ocean cruise.
 
 ## 771. offer ## noun [C]
 /ˈɔː.fər/ SAYING YOU WILL DO/GIVE
 [A2]when you ask someone if they would like something
-- an offer of help
-- a job offer
-- to accept/refuse an offer
+- an offer `of help`
+- a `job` offer
+- to `accept/refuse` an offer
 - "Can I pick anything up for you from the store?" "It's kind or you to offer."
 
 ## 772. office ## noun
@@ -4860,25 +4860,25 @@
 [A2]a room or building where people work
 - I didn't leave the office until eight o'clock last night.
 - the manager's office
-- an office building
+- an office `building`
 - office staff
 - office equipment
 
 ## 773. office ## noun
 /ˈɔː.fɪs/ MEDICAL
 [A2]the place where a doctor or other medical person sees patients
-- the doctor's/dentist's office
+- the `doctor's/dentist's` office
 
 ## 774. office ## noun
 /ˈɔː.fɪs/ INFORMATION
 [A2]a room or building where you can get information, tickets, or a particular service
-- a ticket office
+- a `ticket` office
 - the passport office
 
 ## 775. oil ## noun
 /ɔɪl/ FOR COOKING
 [A2]a thick liquid produced from plants that is used in cooking
-- olive/sunflower/vegetable oil
+- `olive/sunflower/vegetable` oil
 
 ## 776. omelet ## noun [C]
 /ˈɑm.lət/ 
@@ -4896,8 +4896,8 @@
 [A2]a musical play in which most of the words are sung
 - Carmen is my favorite opera.
 - I've never been a huge fan of opera.
-- He goes to the opera whenever he can.
-- an opera singer
+- He goes to `the` opera whenever he can.
+- an opera `singer`
 
 ## 779. orange ## noun [C or U]
 /ˈɑr.ɪndʒ/ COLOR
@@ -4907,8 +4907,8 @@
 ## 780. order ## noun
 /ˈɔːrd.ər/ REQUEST
 [A2]a request to make, supply or deliver food or goods
-- Did the waiter take our order yet?
-- I would like to place an order for a large pine table.
+- Did the waiter `take` our order yet?
+- I would like to `place` an order for a large pine table.
 
 ## 781. page ## noun [C]
 /peɪdʒ/ WEB SITE
@@ -4918,10 +4918,10 @@
 ## 782. pain ## noun
 /peɪn/ PHYSICAL
 [A2]an unpleasant physical feeling caused by an injury or illness
-- chest/stomach pains
-- Are you in pain?
-- I felt a sharp pain in my foot.
-- He's been suffering various aches and pains for years.
+- `chest/stomach` pains
+- Are you `in` pain?
+- I felt a `sharp` pain `in` my foot.
+- He's been suffering various `aches and` pains for years.
 
 ## 783. painter ## noun [C]
 /ˈpeɪnt.ər/ 
@@ -4931,7 +4931,7 @@
 ## 784. painting ## noun
 /ˈpeɪnt.ɪŋ/ PICTURE
 [A2]a picture that someone has painted
-- a painting by Caravaggio
+- a painting `by` Caravaggio
 - The walls are covered with oil paintings.
 
 ## 785. painting ## noun
@@ -4943,20 +4943,20 @@
 ## 786. pair ## noun [C]
 /per/ TWO THINGS
 [A2]two things that look the same and that are used together
-- a pair of shoes/gloves
+- a pair `of` shoes/gloves
 - I can't find a matching pair of socks.
 
 ## 787. pair ## noun [C]
 /per/ TWO PARTS
 [A2]something that is made of two parts that are joined together
-- a pair of scissors/glasses
-- a pair of jeans
+- a pair `of` scissors/glasses
+- a pair `of` jeans
 - He packed two pairs of trousers and four shirts.
 
 ## 788. pajamas ## noun [plural]
 /pəˈdʒɑm.əz/ 
 [A2]soft, loose clothing that is worn in bed and consists of a shirt and pants
-- I need a new pair of pajamas.
+- I need a new `pair of` pajamas.
 
 ## 789. parking lot ## noun [C]
 /ˈpɑr.kɪŋˌlɑt/ 
@@ -4968,8 +4968,8 @@
 [A2]some but not all of a thing
 - Elsa spent part of the day shopping.
 - Part of the problem is their lack of money.
-- Free parking is offered as part of the hotel package.
-- It's all part of growing up.
+- Free parking is offered `as` part of the hotel package.
+- It's `all` part of growing up.
 
 ## 791. partner ## noun [C]
 /ˈpɑrt.nər/ PERSON YOU DO SOMETHING WITH
@@ -4980,13 +4980,13 @@
 ## 792. passenger ## noun [C]
 /ˈpæs.ən.dʒər/ 
 [A2]someone who is traveling in a vehicle but is not controlling it
-- airline/train/car passengers
+- `airline/train/car` passengers
 
 ## 793. passport ## noun [C]
 /ˈpæs.pɔːrt/ 
 [A2]an official document, often a small book, that you need to enter or leave a country
-- passport control
-- a passport photo
+- passport `control`
+- a passport `photo`
 - Many refugees have arrived at the border without passports.
 - Don't forget to bring your passport - you need to show it when you cross the border.
 
@@ -5004,8 +5004,8 @@
 /pæθ/ TRACK
 [A2]a long, narrow track between one place and another
 - a bike path
-- This is the path to the cliffs.
-- They followed the path until they came to a gate.
+- This is the path `to` the cliffs.
+- They `followed` the path until they came to a gate.
 
 ## 797. pear ## noun [C or U]
 /per/ 
@@ -5021,7 +5021,7 @@
 /ˈpep.ər/ POWDER
 [A2]a black, gray, white or red powder produced by crushing a type of dried berry and used to give food a spicy flavor
 - freshly ground black pepper
-- salt and pepper
+- `salt and` pepper
 
 ## 800. perfume ## noun [C or U]
 /ˈpɜr.fjuːm/ 
@@ -5032,8 +5032,8 @@
 ## 801. photograph ## noun [C]
 /ˈfoʊt̬.əˌgræf/ 
 [A2]a picture produced using a camera
-- a color/black-and-white photograph
-- My parents took a lot of photographs of us when we were small.
+- a `color/black-and-white` photograph
+- My parents `took` a lot of photographs `of` us when we were small.
 
 ## 802. photographer ## noun [C]
 /fəˈtɑg.rə.fər/ 
@@ -5048,30 +5048,30 @@
 ## 804. physics ## noun [U]
 /ˈfɪz.ɪks/ 
 [A2]the scientific study of matter and energy and the effect that they have on each other
-- nuclear physics
-- a physics lab
+- `nuclear` physics
+- a physics `lab`
 
 ## 805. piano ## noun [C]
 /piːˈæn.oʊ/ 
 [A2]a large musical instrument with a row of black and white keys which are pressed to play notes
 - We're buying a new piano.
-- I play the piano.
-- We all joined in the song, with Pat at the piano/on piano.
+- I `play the` piano.
+- We all joined in the song, with Pat `at the` piano/`on` piano.
 
 ## 806. piece ## noun [C]
 /piːs/ PART
 [A2]a part that has come from something bigger
-- a piece of cake
+- a piece `of` cake
 - She cut the pie into six pieces.
-- The bowl fell on the floor and smashed to pieces.
-- The bowl was in pieces.
+- The bowl fell on the floor and smashed `to` pieces.
+- The bowl was `in` pieces.
 
 ## 807. piece ## noun [C]
 /piːs/ SINGLE THING
 [A2]a single object of a particular type
-- a piece of fruit
-- a piece of equipment/furniture
-- He handed me a piece of paper.
+- a piece `of` fruit
+- a piece of `equipment/furniture`
+- He handed me a piece of `paper`.
 
 ## 808. pillow ## noun [C]
 /ˈpɪl.oʊ/ FOR BED
@@ -5081,8 +5081,8 @@
 ## 809. pilot ## noun [C]
 /ˈpɑɪ.lət/ 
 [A2]someone who flies an aircraft
-- an airline pilot
-- a fighter/helicopter pilot
+- an `airline` pilot
+- a `fighter/helicopter` pilot
 
 ## 810. pink ## noun [C or U]
 /pɪŋk/ 
@@ -5092,8 +5092,8 @@
 ## 811. pity ## noun
 /ˈpɪt̬.i/ a pity
 [A2]If something is described as a pity, it is disappointing or not satisfactory.
-- It's a pity (that) she can't come to the movies with us.
-- What a pity you were sick and missed the school trip!
+- `It's` a pity `(that)` she can't come to the movies with us.
+- `What` a pity you were sick and missed the school trip!
 
 ## 812. place ## noun
 /pleɪs/ HOME
@@ -5105,16 +5105,16 @@
 /plæn/ ARRANGEMENT
 [A2]an arrangement for what you intend to do or how you intend to do something
 - vacation plans
-- Do you have any plans for the weekend?
+- Do you have any plans `for` the weekend?
 - The plan is to rent a car once we're there.
-- There's been a change of plans and we're going on Wednesday instead.
-- Luckily, everything went according to plan.
+- There's been a `change of` plans and we're going on Wednesday instead.
+- Luckily, everything went `according to` plan.
 
 ## 814. plastic ## noun [C or U]
 /ˈplæs.tɪk/ 
 [A2]a light, artificial substance that can be made into different shapes when it is soft and is used in a lot of different ways
-- Most children's toys are made of plastic.
-- He put a sheet of plastic over the broken window.
+- Most children's toys are `made of` plastic.
+- He put `a sheet of` plastic over the broken window.
 
 ## 815. platform ## noun [C]
 /ˈplæt.fɔːrm/ TRAIN
@@ -5130,12 +5130,12 @@
 ## 817. player ## noun [C]
 /ˈpleɪ.ər/ MUSIC
 [A2]someone who plays a musical instrument
-- a piano/violin player
+- a `piano/violin` player
 
 ## 818. player ## noun [C]
 /ˈpleɪ.ər/ MACHINE
 [A2]something that produces sound or video
-- a CD/DVD/MP3 player
+- a `CD/DVD/MP3` player
 
 ## 819. playground ## noun [C]
 /ˈpleɪ.grɑʊnd/ 
@@ -5145,21 +5145,21 @@
 ## 820. plural ## noun [C or U]
 /ˈplʊr.əl/ 
 [A2]a word or form which expresses more than one
-- Geese is the plural of "goose."
-- "Woman" in the plural is "women."
+- Geese is the plural `of` "goose."
+- "Woman" `in the` plural is "women."
 
 ## 821. pocket ## noun [C]
 /ˈpɑk.ɪt/ IN CLOTHING
 [A2]a small bag for carrying things in, which forms part of a piece of clothing
-- a jacket/pants/coat pocket
-- She thrust her hands deep in/into her pockets.
-- He took some coins from/out of his pocket.
+- a `jacket/pants/coat` pocket
+- She thrust her hands deep `in/into` her pockets.
+- He took some coins `from/out of` his pocket.
 
 ## 822. police ## noun [plural]
 /pəˈliːs/ 
 [A2]the official organization that makes people obey the law and that protects people and places against crime, or the people who work for this organization
-- I think you should call the police.
-- The police are investigating him.
+- I think you should call `the` police.
+- `The` police are investigating him.
 
 ## 823. police officer ## noun [C]
 /pəˈliːsˌɑ.fə.sər/ 
@@ -5190,9 +5190,9 @@
 /pɑp/ 
 [A2]modern music with a strong beat that is popular with the general public, especially with young people
 - pop music
-- a pop concert/song
+- a pop `concert/song`
 - What do you want to listen to - jazz, classical or pop?
-- She wants to be a pop singer/star like Madonna.
+- She wants to be a pop `singer/star` like Madonna.
 
 ## 829. post office ## noun [C]
 /ˈpoʊstˌɔː.fəs/ 
@@ -5207,13 +5207,13 @@
 ## 831. poster ## noun [C]
 /ˈpoʊ.stər/ 
 [A2]a large, printed picture or notice that you put on a wall, in order to decorate a place or to advertise something
-- The children put up posters on the classroom walls.
+- The children `put up` posters on the classroom walls.
 - We noticed a poster advertising a circus.
 
 ## 832. potato chip ## noun [C]
 /pəˈteɪt̬.oʊˌtʃɪp/ 
 [A2]a very thin slice of potato that has been cooked in oil and is eaten cold
-- a bag of potato chips
+- `a bag of` potato chips
 
 ## 833. practice ## noun
 /ˈpræk.təs/ REPEATING
@@ -5224,8 +5224,8 @@
 ## 834. present ## noun
  SOMETHING GIVEN
 [A2]something that you give to someone, usually for a particular occasion
-- a birthday/Christmas/wedding present
-- They gave me theater tickets as a present.
+- a `birthday/Christmas/wedding` present
+- They `gave` me theater tickets `as` a present.
 
 ## 835. president ## noun [C]
 /ˈprez.əd.ənt/ 
@@ -5237,10 +5237,10 @@
 ## 836. price ## noun
 /prɑɪs/ COST
 [A2]the amount of money that you pay to buy something
-- high/low prices
-- Real estate prices are falling/rising.
-- The price of heating oil has gone up again.
-- Automakers are offering big price cuts.
+- `high/low prices`
+- Real estate prices are `falling/rising`.
+- The price of heating oil has `gone up` again.
+- Automakers are offering big price `cuts`.
 
 ## 837. principal ## noun [C]
 /ˈprɪn.sə.pəl/ 
@@ -5256,10 +5256,10 @@
 ## 839. prize ## noun [C]
 /prɑɪz/ 
 [A2]something given to the winner of a competition or to someone who has done good work
-- to win a prize
-- first/second prize
+- to `win` a `prize`
+- `first/second` prize
 - the Nobel Prize for Literature
-- The committee will award $60,000 in prize money.
+- The committee will award $60,000 in prize `money`.
 
 ## 840. problem ## noun [C]
 /ˈprɑb.ləm/ No problem.
@@ -5274,19 +5274,19 @@
 ## 842. program ## noun [C]
 /ˈproʊ.græm/ TV/RADIO
 [A2]a show on television or radio
-- Did you see that program about spiders last night?
+- Did you see that program `about` spiders last night?
 - It's my favorite TV program - I never miss it.
 
 ## 843. program ## noun [C]
 /ˈproʊ.græm/ COMPUTER
 [A2]a series of instructions which can be put into a computer in order to make it perform an operation
-- a computer program
-- She's written a program to find words which frequently occur together.
+- a `computer` program
+- She's `written` a program to find words which frequently occur together.
 
 ## 844. project ## noun [C]
 /ˈprɑdʒ.ekt/ SCHOOL WORK
 [A2]a piece of school work that involves detailed study of a subject
-- He's doing a class project on pollution.
+- He's `doing` a class project `on` pollution.
 - Everyone had to do a special project for our biology class.
 
 ## 845. purple ## noun [C or U]
@@ -5310,8 +5310,8 @@
 /ˈkwɔːr.t̬.ər/ FOURTH PART
 [A2]one of four equal or almost equal parts of something; ¼
 - He cut the orange into quarters.
-- I waited a quarter of an hour for her.
-- Under a quarter of people questioned said that they were happily married.
+- I waited a quarter `of` an hour for her.
+- Under a quarter `of` people questioned said that they were happily married.
 - My house is situated a mile and three-quarters from here.
 
 ## 849. queen ## noun [C]
@@ -5323,12 +5323,12 @@
 ## 850. question ## noun
 /ˈkwes.tʃən/ EXAM
 [A2]in a test or exam, a problem that tests a person's knowledge or ability
-- Answer as many questions as you can.
+- `Answer` as many questions as you can.
 
 ## 851. quiz ## noun [C]
 /kwɪz/ GAME
 [A2]a game or competition in which you answer questions
-- a television quiz show
+- a television quiz `show`
 
 ## 852. rabbit ## noun [C]
 /ˈræb.ɪt/ 
@@ -5340,13 +5340,13 @@
 [A2]a competition in which people run, ride, drive, etc., against each other in order to see who is the fastest
 - a horse/bike/boat race
 - a 500-meter race
-- She won/lost the race.
-- Let's have a race and see who's ready to leave first.
+- She `won/lost` the race.
+- Let's `have` a race and see who's ready to leave first.
 
 ## 854. racket ## noun
 /ˈræk.ət/ SPORT
 [A2]a net fixed tightly to an oval frame with a long handle, used in various sports for hitting a ball
-- a tennis/squash/badminton racket
+- a `tennis/squash/badminton` racket
 
 ## 855. railroad ## noun [C]
 /ˈreɪl.roʊd/ 
@@ -5363,7 +5363,7 @@
 ## 857. rap ## noun [U]
 /ræp/ 
 [A2]a type of music in which the words are spoken and there is a strong beat
-- a rap artist
+- a rap `artist`
 
 ## 858. rat ## noun [C]
 /ræt/ 
@@ -5374,34 +5374,34 @@
 /ˈriː.zən/ WHY
 [A2]the facts about why something happens or why someone does something
 - The reason I'm calling is to ask you a favor.
-- That was the reason for telling her.
-- There must be a reason why she’s not here yet.
-- The long commute we have now is one of the reasons that we want to move to the city.
-- They moved here for good reason - better schools.
-- For some reason, he's decided to quit.
+- That was the reason `for` telling her.
+- There must be a reason `why` she’s not here yet.
+- The long commute we have now is `one of` the reasons `that` we want to move to the city.
+- They moved here `for good` reason - better schools.
+- `For some` reason, he's decided to quit.
 
 ## 860. receipt ## noun
 /rɪˈsiːt/ PIECE OF PAPER
 [A2]a piece of paper that proves that you have received goods or money
 - Could I have a receipt?
-- Make sure you get a receipt for everything you buy.
+- Make sure you get a receipt `for` everything you buy.
 
 ## 861. receptionist ## noun [C]
 /rɪˈsep.ʃə.nəst/ 
 [A2]someone who works in a hotel or office building, answering the telephone and dealing with guests
-- a hotel receptionist
+- a `hotel` receptionist
 
 ## 862. red ## noun [C or U]
 /red/ 
 [A2]the color of blood
 - She uses a lot of reds and pinks in her paintings.
-- She was dressed all in red.
+- She was dressed all `in` red.
 
 ## 863. rent ## noun [C or U]
 /rent/ 
 [A2]the amount of money that you pay to live in a building that someone else owns
 - I pay a higher rent than the other tenants because my room is bigger.
-- Rents here are very high/low.
+- Rents here are very `high/low`.
 
 ## 864. report card ## noun [C]
 /rɪˈpɔːrtˌkɑd/ 
@@ -5413,13 +5413,13 @@
 [A2]the part of something that remains, or the others that remain
 - Two students are in the library and the rest are in the classroom.
 - I'll keep a third of the money and the rest is for you.
-- Do you have anything planned for the rest of the day?
+- Do you have anything planned for the rest `of` the day?
 
 ## 866. rest ## noun
 /rest/ RELAX
 [A2]a period of time when you relax or sleep
-- Why don't you take a rest?
-- I have to get some rest.
+- Why don't you `take` a rest?
+- I have to `get` some rest.
 - After walking a few miles, we stopped for a rest.
 
 ## 867. restroom ## noun [C]
@@ -5430,27 +5430,27 @@
 ## 868. right ## noun
 /rɑɪt/ DIRECTION
 [A2]the right side of your body, or the direction toward this side
-- You'll find her in the second room on the right.
+- You'll find her in the second room `on the` right.
 
 ## 869. ring ## noun [C]
 /rɪŋ/ JEWELRY
 [A2]a round piece of jewelry that you wear on your finger
-- a wedding ring
+- a `wedding` ring
 - He bought her a diamond ring.
 
 ## 870. rock ## noun
 /rɑk/ MUSIC
 [A2]loud, modern music with a strong beat, often played with electric guitars and drums
-- rock music
-- a rock group
-- a rock star
+- rock `music`
+- a rock `group`
+- a rock `star`
 
 ## 871. roof ## noun [C]
 /ruːf/ 
 [A2]the surface that covers the top of a building or vehicle
-- The house has a flat/shingled roof.
+- The house has a `flat/shingled` roof.
 - He climbed onto the roof.
-- Put the luggage on the roof of the car.
+- Put the luggage `on` the roof of the car.
 
 ## 872. roommate ## noun [C]
 /ˈruːm.meɪt/ 
@@ -5475,7 +5475,7 @@
 ## 876. running ## noun [U]
 /ˈrʌn.ɪŋ/ SPORT
 [A2]the sport of moving on your feet at a speed faster than walking
-- I go running three times a week.
+- I `go` running three times a week.
 - running shoes
 
 ## 877. sailing ## noun [U]
@@ -5489,13 +5489,13 @@
 [A2]a cold mixture of vegetables that usually have not been cooked, sometimes eaten with meat, cheese, etc.
 - a salad bowl
 - Serve the risotto with a mixed salad.
-- Toss the salad with oil and vinegar.
+- `Toss` the salad with oil and vinegar.
 
 ## 879. sale ## noun
 /seɪl/ for sale
 [A2]available to buy
 - Is this painting for sale?
-- Our neighbors put their house up for sale last week.
+- Our neighbors `put` their house `up` for sale last week.
 
 ## 880. sale ## noun
 /seɪl/ on sale
@@ -5516,24 +5516,24 @@
 ## 883. sausage ## noun [C or U]
 /ˈsɔː.sɪdʒ/ 
 [A2]a mixture of meat and spices pressed into a long tube
-- fried/grilled sausages
+- `fried/grilled` sausages
 - sliced garlic sausage
 
 ## 884. scarf ## noun [C]
 /skɑrf/ 
 [A2]a piece of cloth that you wear around your neck, head, or shoulders to keep warm or for decoration
-- a silk/wool scarf
+- a `silk/wool` scarf
 
 ## 885. schedule ## noun [C]
 /ˈskedʒ.uːl/ SCHOOL/COLLEGE
 [A2]a list of the times and days of classes at a school, college, etc.
-- The first class on the schedule for Monday morning is history.
+- The first class `on` the schedule for Monday morning is history.
 
 ## 886. school ## noun
 /skuːl/ TIME
 [A2]the time that you spend at school
-- before/after school
-- School let out early today.
+- `before/after` school
+- School `let out` early today.
 - School starts at 8:30 and ends at 2:30.
 
 ## 887. school ## noun
@@ -5549,9 +5549,9 @@
 ## 889. science ## noun
 /ˈsɑɪ.əns/ STUDY OF NATURAL THINGS
 [A2]the study and knowledge of the structure and behavior of natural things in an organized way
-- a science class
-- a science teacher
-- pure/applied science
+- a science `class`
+- a science `teacher`
+- `pure/applied` science
 - recent developments in science and technology
 - She shows a talent for math and science.
 - Space travel is one of the wonders of modern science.
@@ -5559,7 +5559,7 @@
 ## 890. scissors ## noun [plural]
 /ˈsɪz.ərz/ 
 [A2]a tool for cutting paper, hair, cloth, etc. that you hold in your hand and that has two blades that move against each other
-- a pair of scissors
+- a `pair of` scissors
 - Could you pass me the/those scissors, please?
 
 ## 891. scooter ## noun [C]
@@ -5572,33 +5572,33 @@
 [A2]a flat surface in a movie theater, or on a television, computer, cell phone, etc., on which pictures or words are shown
 - Our television has a 26-inch screen.
 - I spend most of the day working in front of a computer screen.
-- Her ambition is to write for the screen.
-- Write the letter on the computer, then you can make changes easily on screen.
+- Her ambition is to write for `the` screen.
+- Write the letter on the computer, then you can make changes easily `on` screen.
 - My new phone has a touch screen.
 
 ## 893. sea ## noun [C or U]
 /siː/ 
 [A2]a large area of salt water
 - the Caribbean/Mediterranean Sea
-- The sea was calm/rough.
-- The refugees were at sea for forty days before reaching land.
-- When we moved to the US, we shipped our belongings by sea.
+- The sea was `calm/rough`.
+- The refugees were `at` sea for forty days before reaching land.
+- When we moved to the US, we shipped our belongings `by` sea.
 
 ## 894. seat ## noun [C]
 /siːt/ SIT
 [A2]a piece of furniture that you sit on
 - Chairs, stools, sofas and benches are all seats.
-- Please have/take a seat.
-- Just leave you jacket in/on your seat.
+- Please `have/take` a seat.
+- Just leave you jacket `in/on` your seat.
 - I got a seat on the flight to New York.
-- My ticket says 22D but there's already someone in that seat.
+- My ticket says 22D but there's already someone `in` that seat.
 
 ## 895. second ## noun [C]
 /ˈsek.ənd/ PART OF MINUTE
 [A2]one of the 60 parts a minute is divided into
 - There are sixty seconds in a minute.
 - She won by 22 seconds.
-- These computers process millions of instructions per second.
+- These computers process millions of instructions `per` second.
 
 ## 896. secretary ## noun [C]
 /ˈsek.rəˌter.i/ IN OFFICE
@@ -5608,26 +5608,26 @@
 ## 897. semester ## noun
 /səˈmes.tər/ 
 [A2]one of two periods of time that the school or university year is divided into
-- fall/spring semester
+- `fall/spring` semester
 - The first semester ended in mid-January.
 
 ## 898. set ## noun [C]
 /set/ GROUP
 [A2]a group of things that belong together
-- a boxed set of DVDs
+- a boxed set `of` DVDs
 - a chess/train/chemistry set
-- a set of instructions/rules
-- a set of keys
-- We bought Charles and Mandy a set of salad bowls as a wedding present.
+- a set `of` instructions/rules
+- a set `of` keys
+- We bought Charles and Mandy a set `of` salad bowls as a wedding present.
 - I always keep a tool set in the back of my car.
-- It seems like a complicated set of rules!
-- We need to establish a new set of priorities.
+- It seems like a complicated set `of` rules!
+- We need to establish a new set `of` priorities.
 
 ## 899. shame ## noun
 /ʃeɪm/ a shame
 [A2]If you describe something as a shame, you are disappointed that it has happened.
-- It's a real shame to waste all this food.
-- What a shame that they had to destroy such a beautiful building.
+- `It's a` real shame to waste all this food.
+- `What a` shame that they had to destroy such a beautiful building.
 
 ## 900. shampoo ## noun
 /ʃæmˈpuː/ 
@@ -5644,7 +5644,7 @@
 /ʃelf/ 
 [A2]a flat, horizontal board used to put things on, often attached to a wall or inside a cabinet
 - a glass shelf
-- on the top/middle/bottom shelf
+- `on` the `top/middle/bottom` shelf
 - One wall had shelves from floor to ceiling, crammed with books.
 
 ## 903. ship ## noun [C]
@@ -5652,7 +5652,7 @@
 [A2]a large boat that carries people or goods by sea
 - a sailing ship
 - a merchant/naval ship
-- They boarded a ship that was sailing the next day.
+- They `boarded` a ship that was `sailing` the next day.
 
 ## 904. shop ## noun [C]
 /ʃɑp/ 
@@ -5666,24 +5666,24 @@
 [A2]a short pair of pants that stop above or at the knees
 - running/gym shorts
 - cargo/Bermuda shorts
-- He had on a pair of shorts and a T-shirt.
+- He had on a `pair of` shorts and a T-shirt.
 
 ## 906. show ## noun [C]
 /ʃoʊ/ ENTERTAINMENT
 [A2]a television or radio program or a theater performance
-- a TV show
-- a talk show
-- a variety/comedy show
-- I'd like to see a show while we're in London.
+- a `TV` show
+- a `talk` show
+- a `variety/comedy` show
+- I'd like to `see` a show while we're in London.
 
 ## 907. side ## noun
 /sɑɪd/ PART
 [A2]one of the two parts that something would divide into if you drew a line down the middle
 - He likes to sleep on the right side of the bed.
 - In Britain, cars drive on the left side of the road.
-- There is no money on my mother's side (of the family).
-- I could just see Joan on the far/other side of the room.
-- Children came running from all sides.
+- There is no money `on` my mother's side `(of the family)`.
+- I could just see Joan `on the far/other` side `of` the room.
+- Children came running `from all` sides.
 
 ## 908. side ## noun
 /sɑɪd/ SURFACE
@@ -5699,12 +5699,12 @@
 [A2]an edge or border of something
 - A square has four sides.
 - There are trees on both sides of the road.
-- They were surrounded on every side by curious children.
+- They were surrounded `on every` side by curious children.
 
 ## 910. sightseeing ## noun [U]
 /ˈsɑɪtˌsiː.ɪŋ/ 
 [A2]the activity of visiting places that are interesting because they are historic, famous, etc.
-- Did you do much sightseeing while you were in Paris?
+- Did you `do` much sightseeing while you were in Paris?
 
 ## 911. sign ## noun [C]
 /sɑɪn/ NOTICE
@@ -5715,7 +5715,7 @@
 ## 912. silver ## noun [U]
 /ˈsɪl.vər/ 
 [A2]a valuable, shiny, gray-white metal used to make coins and jewelry
-- We gave Alison and Tom a dish made of solid silver as a wedding present.
+- We gave Alison and Tom a dish made of `solid` silver as a wedding present.
 
 ## 913. singer ## noun [C]
 /ˈsɪŋ.ər/ 
@@ -5730,13 +5730,13 @@
 ## 915. singular ## noun [no plural]
 /ˈsɪŋ.gjə.lər/ 
 [A2]a word or form that shows that there is only one of something
-- The singular of "children" is "child."
-- The word "teeth" is plural - in the singular it's "tooth."
+- The singular `of` "children" is "child."
+- The word "teeth" is plural - `in` the singular it's "tooth."
 
 ## 916. sink ## noun [C]
 /sɪŋk/ 
 [A2]a bowl that is fixed to the wall in a kitchen or bathroom in which you wash dishes, your hands, etc.
-- a bathroom/kitchen sink
+- a `bathroom/kitchen` sink
 
 ## 917. site ## noun [C]
 /sɑɪt/ INTERNET
@@ -5748,21 +5748,21 @@
 [A2]how large or small something or someone is
 - The size of those trees is amazing.
 - What is the size of that window?
-- The field was about four acres in size.
-- He had a lump on his head the size of an egg.
+- The field was about four acres `in` size.
+- He had a lump on his head the size `of` an egg.
 
 ## 919. size ## noun
 /sɑɪz/ MEASURE
 [A2]one of the different measurements in which things, for example clothes, food containers, etc. are made
 - a size 14 dress
-- Do these shoes come in children's sizes?
-- What size are you?/What is your size?/What size do you wear/take?
+- Do these shoes come `in` children's sizes?
+- What size are you?/What is your size?/What size do you `wear/take`?
 
 ## 920. skate ## noun [C]
 /skeɪt/ 
 [A2]a boot with a metal part on the bottom, used for moving across ice, or a boot with wheels on the bottom used for moving across the ground
-- a pair of ice skates
-- a pair of inline/roller skates
+- a pair of `ice` skates
+- a pair of `inline/roller` skates
 
 ## 921. skateboard ## noun [C]
 /ˈskeɪt.bɔːrd/ 
@@ -5777,26 +5777,26 @@
 ## 923. skating ## noun [U]
 /ˈskeɪ.t̬ɪŋ/ 
 [A2]the activity or sport of moving on skates
-- ice/inline/roller skating
-- Do you want to go skating tomorrow?
+- `ice/inline/roller` skating
+- Do you want to `go` skating tomorrow?
 
 ## 924. skiing ## noun [U]
 /ˈskiː.ɪŋ/ 
 [A2]the sport of moving over snow on skis
-- We're going skiing next weekend.
+- We're `going` skiing next weekend.
 
 ## 925. sky ## noun [U]
 /skɑɪ/ 
 [A2]the area above the earth in which clouds, the sun, and stars can be seen
-- a blue/cloudy/dark sky
-- Can you see those birds high up in the sky?
+- a `blue/cloudy/dark` sky
+- Can you see those birds high up `in` the sky?
 - White clouds dotted the sky.
-- We looked up at the sky when we heard the plane.
+- We `looked up at` the sky when we heard the plane.
 
 ## 926. slice ## noun
 /slɑɪs/ 
 [A2]a flat piece of food that has been cut from a larger piece
-- a slice of bread/cake
+- a slice `of` bread/cake
 - cucumber/lemon slices
 - Would you like another slice of pizza?
 
@@ -5805,14 +5805,14 @@
 [A2]a small amount of food that is eaten between meals, or a very small meal
 - I had a big lunch, so I'll only need a snack for dinner.
 - Fresh or dried fruit makes an good snack.
-- Many snack foods are high in salt, sugar and fat.
+- Many snack `foods` are high in salt, sugar and fat.
 
 ## 928. snake ## noun [C]
 /sneɪk/ 
 [A2]a long, thin creature with no legs that slides along the ground
-- He's terrified of being bitten by a snake.
+- He's terrified of being `bitten` by a snake.
 - a snake bite
-- snake venom
+- snake `venom`
 
 ## 929. sneaker ## noun [C]
 /ˈsniː.kər/ 
@@ -5828,7 +5828,7 @@
 ## 931. soap ## noun
 /soʊp/ FOR WASHING
 [A2]a substance that you use for washing
-- a bar of soap
+- a `bar` of soap
 - liquid soap
 - soap and water
 - a soap dish
@@ -5836,18 +5836,18 @@
 ## 932. soccer ## noun [U]
 /ˈsɑk.ər/ 
 [A2]a game in which two teams of players kick a round ball and try to score goals
-- a soccer player/team/club/shirt
+- a soccer `player/team/club/shirt`
 - He plays soccer for a local team.
-- Are you coming to the soccer match?
-- I'm a big soccer fan.
+- Are you coming to the soccer `match`?
+- I'm a big soccer `fan`.
 
 ## 933. sock ## noun [C]
 /sɑk/ 
 [A2]a piece of clothing that you wear on your foot inside your shoe
-- a pair of socks
-- wool/cotton socks
+- a `pair` of socks
+- `wool/cotton` socks
 - ankle/knee socks
-- Put on your shoes and socks.
+- Put on your `shoes and` socks.
 
 ## 934. sofa ## noun [C]
 /ˈsoʊ.fə/ 
@@ -5862,23 +5862,23 @@
 ## 936. software ## noun [U]
 /ˈsɑfˌtwer/ 
 [A2]programs that you use to make a computer do different things
-- He's written a piece of software which calculates your tax returns for you.
+- He's written a `piece of` software which calculates your tax returns for you.
 
 ## 937. song ## noun [C]
 /sɔːŋ/ 
 [A2]a usually short piece of music with words which are sung
-- to sing/perform a song
-- a love/folk/pop/country song
+- to `sing/perform` a song
+- a `love/folk/pop/country` song
 - We bought a CD of Cole Porter songs.
 
 ## 938. sort ## noun
 /sɔːrt/ TYPE
 [A2]a type of something
-- We both like the same sort of music.
-- I'm going to have a salad of some sort.
-- What sort of shoes will I need?
-- This sort of camera is very expensive.
-- Plants of this sort need lots of sun.
+- We both like the same sort `of` music.
+- I'm going to have a salad `of some` sort.
+- What sort `of` shoes will I need?
+- This sort `of` camera is very expensive.
+- Plants `of` this sort need lots of sun.
 
 ## 939. sort ## noun
 /sɔːrt/ all sorts of sth
@@ -5894,16 +5894,16 @@
 ## 941. sound ## noun [C or U]
 /sɑʊnd/ 
 [A2]something that you hear or that can be heard
-- They could hear the sound of a bell tolling in the distance.
-- She stood completely still, not making a sound.
-- Sound can travel over very large distances in water.
+- They could `hear` the sound of a bell tolling in the distance.
+- She stood completely still, not `making` a sound.
+- Sound can `travel` over very large distances in water.
 
 ## 942. south ## noun [U]
 /sɑʊθ/ DIRECTION
 [A2]the direction that is toward the part of the earth below the equator, opposite to north, or the part of an area or country that is in this direction
 - The points of the compass are north, south, east and west.
-- The best beaches are on the south of the island.
-- Canberra is/lies to the south of Sydney.
+- The best beaches are `on the` south `of` the island.
+- Canberra `is/lies to the` south `of` Sydney.
 
 ## 943. south ## noun [U]
 /sɑʊθ/ the south
@@ -5913,11 +5913,11 @@
 ## 944. space ## noun
 /speɪs/ EMPTY PLACE
 [A2]an empty area which is available to be used
-- Is there any space for my clothes in that closet?
-- I've got to make (some) space for Mark's things.
-- When the roads are wet, you've got to leave plenty of space between you and the car in front.
-- We found a parking space close to the museum.
-- The blank space at the end of the form is for your name.
+- Is there any space `for` my clothes in that closet?
+- I've got to `make` (some) space for Mark's things.
+- When the roads are wet, you've got to leave plenty of space `between` you and the car in front.
+- We found a `parking` space close to the museum.
+- The `blank` space at the end of the form is for your name.
 
 ## 945. speaker ## noun [C]
 /ˈspiː.kər/ EQUIPMENT
@@ -5929,7 +5929,7 @@
 [A2]forming words with the correct letters in the correct order, or the ability to do this
 - Will I be marked wrong if I use British spellings rather than American?
 - The computer program corrects spelling as you write.
-- Your essay is full of spelling mistakes/errors.
+- Your essay is full of spelling `mistakes/errors`.
 
 ## 947. spoon ## noun [C]
 /spuːn/ 
@@ -5939,8 +5939,8 @@
 ## 948. spring ## noun
 /sprɪŋ/ SEASON
 [A2]the season of the year between winter and summer, when the weather becomes warmer and plants start to grow again
-- spring flowers/weather
-- Many bulbs flower in (the) spring.
+- spring `flowers/weather`
+- Many bulbs flower `in (the)` spring.
 - Janet's coming over for a couple of weeks next spring.
 
 ## 949. square ## noun [C]
@@ -5954,7 +5954,7 @@
 /skwer/ PLACE
 [A2]an open area with buildings around it in a city or town
 - Many New York theaters and hotels are near Times Square.
-- A band was playing in the town square.
+- A band was playing `in` the town square.
 
 ## 951. stadium ## noun [C]
 /ˈsteɪd.iː.əm/ 
@@ -5969,20 +5969,20 @@
 - There is a good relationship between staff and pupils at the school.
 - She joined the staff of the Smithsonian Institution in 1954.
 - The coaching staff feel we need to focus more on defense.
-- He is on the editorial staff of the magazine.
+- He is `on` the editorial staff of the magazine.
 
 ## 953. stage ## noun [C]
 /steɪdʒ/ THEATER
 [A2]the raised area in a theater where actors perform
-- Hamlet is on stage for most of the act.
-- The orchestra went on/off stage to great applause.
+- Hamlet is `on` stage for most of the act.
+- The orchestra `went on/off` stage to great applause.
 - The opera singer returns to the London stage this summer.
 
 ## 954. stairs ## noun [plural]
 /sterz/ 
 [A2]a set of steps which lead from one level of a building to another
 - Go up the stairs and her office is on the right.
-- He stood at the foot of the stairs and called out, "Breakfast's ready!"
+- He stood at the `foot` of the stairs and called out, "Breakfast's ready!"
 
 ## 955. stamp ## noun [C]
 /stæmp/ 
@@ -5993,13 +5993,13 @@
 ## 956. star ## noun [C]
 /stɑr/ PERFORMER
 [A2]a famous singer, actor, sports person, etc.
-- a rock/movie/basketball star
+- a `rock/movie/basketball` star
 - Kids wanting to be stars come to Hollywood.
 
 ## 957. star ## noun [C]
 /stɑr/ OBJECT IN SPACE
 [A2]a ball of burning gases that you see as a small point of light in the sky at night
-- Stars twinkled/shone in the night sky.
+- Stars `twinkled/shone` in the night sky.
 
 ## 958. star ## noun [C]
 /stɑr/ SHAPE
@@ -6016,10 +6016,10 @@
 ## 960. stomach ## noun [C]
 /ˈstʌm.ək/ 
 [A2]the organ inside your body where food goes after it has been eaten and where it starts to be digested
-- He has an upset stomach.
-- The doctor asked him to lie down on his stomach.
-- The sight of blood turns my stomach.
-- She has stomach problems.
+- He has an `upset` stomach.
+- The doctor asked him to lie down `on` his stomach.
+- The sight of blood `turns` my stomach.
+- She has stomach `problems`.
 
 ## 961. stomachache ## noun [C or U]
 /ˈstʌm.əkˌeɪk/ 
@@ -6035,15 +6035,15 @@
 ## 963. story ## noun [C]
 /ˈstɔːr.i/ DESCRIPTION
 [A2]a description of a series of real or imaginary events that is intended to entertain people
-- Will you read/tell me a story, daddy?
-- Martha asked me to read to her from her favorite book of bedtime stories.
-- He writes children's stories.
+- Will you `read/tell` me a story, daddy?
+- Martha asked me to read to her from her favorite book of `bedtime` stories.
+- He writes `children's` stories.
 - I don't know if it's true but it's a good story.
 
 ## 964. stove ## noun [C]
 /stoʊv/ 
 [A2]a large box-shaped device which is used to cook and heat food either by putting the food inside or by putting it on the top
-- a gas/electric stove
+- a `gas/electric` stove
 
 ## 965. study ## noun
 /ˈstʌd.i/ studies
@@ -6059,7 +6059,7 @@
 ## 967. suitcase ## noun [C]
 /ˈsuːt.keɪs/ 
 [A2]a large rectangular container with a handle for carrying clothes and possessions while traveling
-- Have you packed/unpacked your suitcase yet?
+- Have you `packed/unpacked` your suitcase yet?
 
 ## 968. sunglasses ## noun [plural]
 /ˈsʌnˌglæs.ɪz/ 
@@ -6069,26 +6069,26 @@
 ## 969. superlative ## noun [C]
 /sʊˈpɜr.lət̬.ɪv/ 
 [A2]the form of an adjective or adverb which expresses that the thing or person being described has more of the particular quality than anything or anyone else of the same type
-- Richest is the superlative of "rich."
+- Richest is `the` superlative `of` "rich."
 - The whole article was full of superlatives.
 
 ## 970. supper ## noun [C or U]
 /ˈsʌp.ər/ 
 [A2]a meal that you eat in the evening
-- What are we having for supper?
+- What are we having `for` supper?
 - I just heat a quick supper in the microwave if I get home late from work.
 
 ## 971. surfing ## noun [U]
 /ˈsɜr.fɪŋ/ 
 [A2]the sport of riding on a wave on a special board
-- Let's go surfing this afternoon.
+- Let's `go` surfing this afternoon.
 
 ## 972. surprise ## noun
 /sərˈprɑɪz/ EVENT
 [A2]an event that you did not expect to happen
 - Don't tell Anne we're having a party for her - I want it to be a surprise.
 - It was a nice surprise to get home and find the letter.
-- Last night's heavy snow came as a complete surprise.
+- Last night's heavy snow `came as a` complete surprise.
 
 ## 973. sweater ## noun [C]
 /ˈswet̬.ər/ 
@@ -6104,12 +6104,12 @@
 ## 975. swim ## noun [no plural]
 /swɪm/ 
 [A2]a time when you swim
-- Do you want to go for swim this afternoon?
+- Do you want to `go for` swim this afternoon?
 
 ## 976. swimming ## noun [U]
 /ˈswɪm.ɪŋ/ 
 [A2]the activity of moving through water by moving your body
-- Let's go swimming today.
+- Let's `go` swimming today.
 - The doctor recommended swimming as the best all-round exercise.
 
 ## 977. swimsuit ## noun [C]
@@ -6141,13 +6141,13 @@
 ## 982. temperature ## noun
 /ˈtemp.rə.tʃər/ HEAT
 [A2]how hot or cold something is
-- Preheat the oven to a temperature of 350 degrees.
+- Preheat the oven to `a` temperature `of` 350 degrees.
 - There has been a sudden rise in temperature over the past few days.
 
 ## 983. text ## noun
 /tekst/ CELL PHONE
 [A2]a text message
-- Send me a text when you get there.
+- `Send` me a text when you get there.
 
 ## 984. text message ## noun [C]
 /ˈtekstˌmes.ɪdʒ/ 
@@ -6191,36 +6191,36 @@
 ## 991. tights ## noun [plural]
 /tɑɪts/ 
 [A2]a piece of women's clothing made of thin material that covers body below the waist, including the legs
-- a pair of tights
+- a `pair of` tights
 - Ballet students should wear a leotard and tights.
 - I need a few pairs of warm tights for the winter.
 
 ## 992. time ## noun
 /tɑɪm/ PERIOD
 [A2]a particular amount of time
-- It takes a long time to get from Los Angeles to Sydney.
-- It was some time ago that I last heard from her.
-- We'd save time on our trip if we went by train.
-- What do you like doing in your spare/free time?
-- I don't know how you find time to do all the things you do.
-- I thought we'd give her a bit more time to get the job done.
-- When Paula was ill, I took her some magazines to help her pass the time.
+- It `takes a` long time to get from Los Angeles to Sydney.
+- It was `some` time `ago` that I last heard from her.
+- We'd `save` time on our trip if we went by train.
+- What do you like doing in your `spare/free` time?
+- I don't know how you `find` time `to` do all the things you do.
+- I thought we'd `give` her a bit more time to get the job done.
+- When Paula was ill, I took her some magazines to help her `pass` the time.
 
 ## 993. time ## noun
 /tɑɪm/ MINUTES/DAYS/YEARS
 [A2]Time is what we measure in minutes, hours, days, etc.
-- He wants to spend more time with his family.
-- If you'd done your work instead of wasting time talking, you'd be finished by now.
-- She grew more and more fascinated by the subject as time went on/by.
+- He wants to `spend` more time with his family.
+- If you'd done your work instead of `wasting` time talking, you'd be finished by now.
+- She grew more and more fascinated by the subject as time `went on/by`.
 
 ## 994. time ## noun
 /tɑɪm/ OCCASION
 [A2]an occasion or period, or the experience connected with it
-- The last time we went to Florida, it rained every day.
-- We were very young at the time.
-- Every time/Each time I ask you to do something, you always say you're too busy.
-- They go swimming three or four times a week.
-- Did you have a good time at the conference?
+- The `last` time we went to Florida, it rained every day.
+- We were very young `at the` time.
+- `Every` time/`Each` time I ask you to do something, you always say you're too busy.
+- They go swimming three or four times `a week`.
+- Did you `have a good` time at the conference?
 
 ## 995. time ## noun
 /tɑɪm/ all the time
@@ -6230,19 +6230,19 @@
 ## 996. tire ## noun [C]
 /tɑɪr/ 
 [A2]a thick, round piece of rubber filled with air, that fits around a wheel
-- I've got a flat tire.
-- I keep a spare tire in the back of the car.
+- I've got a `flat` tire.
+- I keep a `spare` tire in the back of the car.
 
 ## 997. toast ## noun
 /toʊst/ BREAD
 [A2]bread that has been heated to make it brown
-- a slice of toast
-- I have toast and marmalade for breakfast.
+- a `slice of` toast
+- I have toast `and` marmalade for breakfast.
 
 ## 998. toe ## noun [C]
 /toʊ/ ON FOOT
 [A2]one of the five separate parts at the end of your foot
-- your big/little toe
+- your `big/little` toe
 
 ## 999. tonight ## noun [U]
 /təˈnɑɪt/ 
@@ -6263,16 +6263,16 @@
 ## 1002. top ## noun
 /tɑp/ HIGHEST PART
 [A2]the highest part of something
-- She waited for me at the top of the stairs.
-- There were cherries on top of the cake.
-- We reached the top of the mountain in just under 6 hours.
+- She waited for me `at the` top `of` the stairs.
+- There were cherries `on` top `of` the cake.
+- We reached the top `of` the mountain in just under 6 hours.
 
 ## 1003. tour ## noun [C or U]
 /tʊr/ 
 [A2]a visit to and around a place, area, or country
-- a tour of Europe
-- We went on a guided tour of the cathedral.
-- The band is on tour.
+- a tour `of` Europe
+- We went on a `guided` tour of the cathedral.
+- The band is `on` tour.
 
 ## 1004. tour guide ## noun [C]
 /ˈtʊrˌgɑɪd/ 
@@ -6283,34 +6283,34 @@
 /ˈtʊr.ɪst/ 
 [A2]someone who visits a place for pleasure and does not live there
 - Millions of tourists visit Rome every year.
-- Disneyworld is one of Florida's major tourist attractions.
+- Disneyworld is one of Florida's major tourist `attractions`.
 
 ## 1006. towel ## noun [C]
 /ˈtɑʊ.əl/ FOR DRYING
 [A2]a soft piece of cloth or paper that you use for drying yourself or for drying something
-- a bath/beach towel
+- a `bath/beach` towel
 - She came downstairs wrapped in a towel.
-- Dry your hands on a paper towel.
+- Dry your hands on a `paper` towel.
 
 ## 1007. town ## noun
 /tɑʊn/ NEARBY PLACE
 [A2]a larger city or town nearby where people go to work or shop or for entertainment
-- She's going into town to do some shopping.
-- I'll be in town on Tuesday.
+- She's `going into` town to do some shopping.
+- I'll be `in` town on Tuesday.
 
 ## 1008. toy ## noun [C]
 /tɔɪ/ 
 [A2]an object for children to play with
-- cuddly/soft toys
+- `cuddly/soft` toys
 - a toy train/farm/soldier
 - Put your toys away now - it's time for bed.
 
 ## 1009. traffic ## noun [U]
 /ˈtræf.ɪk/ VEHICLES
 [A2]the cars, trucks, etc. using a road
-- The traffic is heavy in both directions.
-- We got stuck in traffic for several hours.
-- Five people were injured in a traffic accident.
+- The traffic is `heavy` in both directions.
+- We got `stuck in` traffic for several hours.
+- Five people were injured in a traffic `accident`.
 
 ## 1010. traffic light ## noun [C]
 /ˈtræf.ɪkˌlɑɪt/ 
@@ -6327,22 +6327,22 @@
 [A2]an occasion when you go to a place for a short time and come back again
 - a camping/shopping trip
 - They went on a three-week trip to Europe.
-- The trip from New York to Boston takes about three hours by train.
-- Are you going on the school trip this year?
-- She's away on a business trip and won't be back until next week.
+- The trip `from` New York `to` Boston takes about three hours by train.
+- Are you going `on` the school trip this year?
+- She's away on a `business` trip and won't be back until next week.
 
 ## 1013. type ## noun [C]
 /tɑɪp/ SIMILAR
 [A2]a person or thing that is part of a group of people or things that have similar qualities, or a group of people or things that have similar qualities
-- What type of house do they live in?
-- They sell over 50 different types of cheese.
-- Illnesses of this type are very common in children.
-- They sell dried flowers and baskets and that type of thing.
+- What type `of` house do they live in?
+- They sell over 50 `different` types of cheese.
+- Illnesses `of this` type are very common in children.
+- They sell dried flowers and baskets and that type `of thing`.
 
 ## 1014. umbrella ## noun [C]
 /ʌmˈbrel.ə/ 
 [A2]a thing that you hold above your head to keep yourself dry when it is raining
-- I felt a few spots of rain so I put my umbrella up.
+- I felt a few spots of rain so I `put` my umbrella up.
 - I left my umbrella on the bus yesterday.
 
 ## 1015. uncle ## noun [C]
@@ -6354,15 +6354,15 @@
 ## 1016. uniform ## noun [C]
 /ˈjuː.nəˌfɔːrm/ 
 [A2]a special set of clothes that are worn by people who do a particular job or go to a particular school
-- a school uniform
+- a `school` uniform
 - a nurse's uniform
 
 ## 1017. use ## noun
  USING
 [A2]when you use something, or when something is being used
-- an increase in the use of mobile phones
-- Guests have free use of the swimming pool.
-- Turn the machine off when it's not in use.
+- an increase in the use `of` mobile phones
+- Guests have free use `of` the swimming pool.
+- Turn the machine off when it's not `in` use.
 
 ## 1018. variety ## noun
 /vəˈrɑɪ.ət̬.i/ a variety of sth/sb
@@ -6372,7 +6372,7 @@
 ## 1019. verb ## noun [C]
 /vɜrb/ 
 [A2]a word that is used to say that someone does something or that something happens. For example, the words "arrive," "make," "be," and "feel" are verbs.
-- a regular/irregular verb
+- a `regular/irregular` verb
 
 ## 1020. video ## noun
 /ˈvɪd.iːˌoʊ/ SHORT FILM
@@ -6385,7 +6385,7 @@
 /ˈvɪd.iːˌoʊ/ MAGNETIC STRIP
 [A2]a film, television program, etc. recorded on a long, narrow, magnetic strip, or the recorded strip itself that is inside a rectangular plastic container
 - He just used to stay in and watch videos.
-- We had the whole series on video.
+- We had the whole series `on` video.
 
 ## 1022. video game ## noun [C]
 /ˈvɪd.iː.oʊˌgeɪm/ 
@@ -6395,7 +6395,7 @@
 ## 1023. view ## noun
 /vjuː/ THINGS YOU SEE
 [A2]the things that you can see from a place
-- On a clear day, the view from the top of the mountain is amazing.
+- On a clear day, the view `from` the top of the mountain is amazing.
 - The rooftop restaurant has a spectacular view across the bay.
 
 ## 1024. violin ## noun [C]
@@ -6412,7 +6412,7 @@
 ## 1026. vocabulary ## noun
 /voʊˈkæb.jəˌler.i/ 
 [A2]all the words you know in a particular language
-- a large/big/limited vocabulary
+- a `large/big/limited` vocabulary
 - Reading helps to expand your vocabulary.
 
 ## 1027. volleyball ## noun [U]
@@ -6423,14 +6423,14 @@
 ## 1028. walk ## noun [C]
 /wɔːk/ TRIP
 [A2]a trip that you make by walking, often for enjoyment
-- He had/went for/took a walk to get some air.
+- He `had/went for/took` a walk to get some air.
 - Every afternoon she takes her dog out for a walk.
 
 ## 1029. walking ## noun [U]
 /ˈwɔː.kɪŋ/ 
 [A2]the activity of going for a walk
 - Walking is good exercise.
-- a pair of walking shoes
+- a pair of walking `shoes`
 
 ## 1030. wallet ## noun [C]
 /ˈwɑl.ɪt/ 
@@ -6444,15 +6444,15 @@
 - nuclear war
 - civil war
 - a war film/grave/hero
-- If this country goes to war we will have to face the fact that many people will die.
-- Britain and France declared war on Germany in 1939.
-- War broke out between the two countries after a border dispute.
-- They've been at war for the last five years.
+- If this country `goes to` war we will have to face the fact that many people will die.
+- Britain and France `declared` war `on` Germany in 1939.
+- War `broke out` between the two countries after a border dispute.
+- They've been `at` war for the last five years.
 
 ## 1032. washing machine ## noun [C]
 /ˈwɑʃ.ɪŋ.məˌʃiːn/ 
 [A2]a machine for washing clothes, sheets and other things made of cloth
-- Could you empty/load the washing machine, please?
+- Could you `empty/load` the washing machine, please?
 
 ## 1033. wastebasket ## noun [C]
 /ˈweɪstˌbæs.kɪt/ 
@@ -6463,26 +6463,26 @@
 /ˈwɔːt̬.ər/ OCEAN/LAKE
 [A2]an area of water, such as the ocean, a lake, or a swimming pool
 - The water's much warmer today - are you coming for a swim?
-- Dad, I swam a whole length of the pool under water!
+- Dad, I swam a whole length of the pool `under` water!
 
 ## 1035. way ## noun
 /weɪ/ METHOD
 [A2]how you do something
-- There are many ways of solving the problem.
-- That's not the way to do it - let me show you.
+- There are many ways `of` solving the problem.
+- That's not the way `to` do it - let me show you.
 - This method hasn't worked, so let's try your way.
 
 ## 1036. way ## noun
 /weɪ/ ROUTE
 [A2]the route you take to get from one place to another
-- Do you know the way to the train station?
-- I've only been living in Chicago for a couple of weeks so I don't really know my way around yet.
-- We'll have to stop for gas on the way to the airport.
-- Can you find your own way out of the building?
-- The bus stopped for us to eat lunch, but within half an hour we were on our way way again.
-- The fastest way through town is by the old highway.
-- Many people have lost their way in the forest.
-- Somehow the dog found its way home.
+- Do you know the way `to` the train station?
+- I've only been living in Chicago for a couple of weeks so I don't really know my way `around` yet.
+- We'll have to stop for gas `on the` way to the airport.
+- Can you `find` your own way `out of` the building?
+- The bus stopped for us to eat lunch, but within half an hour we were `on` our way way again.
+- The fastest way `through` town is by the old highway.
+- Many people have `lost` their way in the forest.
+- Somehow the dog `found` its way home.
 
 ## 1037. way ## noun
 /weɪ/ by the way
@@ -6493,8 +6493,8 @@
 ## 1038. web ## noun [C]
 /web/ the Web
 [A2]the connected pages on the Internet, which you can search to find particular information
-- Jane's been surfing the Web all morning.
-- The data is available on the Web.
+- Jane's been `surfing` the Web all morning.
+- The data is available `on `the Web.
 
 ## 1039. weekday ## noun [C]
 /ˈwiːk.deɪ/ 
@@ -6505,7 +6505,7 @@
 /west/ DIRECTION
 [A2]the direction that you face to see the sun go down
 - The points of the compass are North, South, East and West.
-- The sun rises in the east and sets in the west.
+- The sun rises in the east and sets `in the` west.
 
 ## 1041. west ## noun [U]
 /west/ the west
@@ -6517,7 +6517,7 @@
 /wiːl/ ON VEHICLE
 [A2]a circular object fixed under a vehicle so that it moves smoothly over the ground
 - My bike needs a new wheel.
-- He lost control of his car when the front/rear wheel hit a rock.
+- He lost control of his car when the `front/rear` wheel hit a rock.
 
 ## 1043. white ## noun [C or U]
 /wɑɪt/ 
@@ -6529,30 +6529,30 @@
 [A2]someone who wins a game or competition
 - There'll be a prize for the winner.
 - The winner of this game will be the league champion.
-- And to find out who the lucky winners of our competition are, Samantha is going to draw some names out of the bag.
+- And to find out who the `lucky` winners of our competition are, Samantha is going to draw some names out of the bag.
 
 ## 1045. wish ## noun [C]
 /wɪʃ/ best wishes
 [A2]something that you write at the end of a letter
-- With best wishes, Anna
+- `With` best wishes, Anna
 
 ## 1046. wood ## noun
 /wʊd/ MATERIAL
 [A2]the hard material that trees are made of
 - He gathered some wood to build a fire.
-- The box is made of wood and it's very heavy.
+- The box is `made of` wood and it's very heavy.
 
 ## 1047. woods ## noun [plural]
 /wʊdz/ GROUP OF TREES
 [A2]an area of land covered with a thick growth of trees
-- We went for a walk in the woods after lunch.
+- We went for a walk `in the` woods after lunch.
 
 ## 1048. wool ## noun [U]
 /wʊl/ 
 [A2]thick thread or material that is made from the hair of a sheep
 - The blankets are made of wool and the sheets are cotton.
 - Put on your red wool scarf - it'll be nice and warm.
-- How many balls of wool did you need to knit that sweater?
+- How many `balls of` wool did you need to knit that sweater?
 
 ## 1049. work ## noun
 /wɜrk/ ACTIVITY
@@ -6568,7 +6568,7 @@
 ## 1051. worker ## noun [C]
 /ˈwɜr.kər/ IN COMPANY
 [A2]someone who works for a company or organization but does not have a powerful position
-- factory workers
+- `factory` workers
 - Many companies still treat their management staff better than their workers.
 
 ## 1052. world ## noun
@@ -6584,15 +6584,15 @@
 ## 1054. yard ## noun [C]
 /jɑrd/ AREA
 [A2]a small area of land next to a house that is usually covered with grass and may have a fence around it
-- We have an oak tree in our back/front yard.
+- We have an oak tree in our `back/front` yard.
 - She saw them playing in the yard.
 
 ## 1055. year ## noun
 /jɪr/ PERIOD OF STUDY
 [A2]the part of the year, in a school or university, during which courses are taught
-- the school/academic year
-- Jack is now in his final/first/second year at the University of Chicago.
-- my freshman/sophomore/junior/senior year
+- the `school/academic` year
+- Jack is now `in his final/first/second year` at the University of Chicago.
+- my `freshman/sophomore/junior/senior` year
 
 ## 1056. yellow ## noun [C or U]
 /ˈjel.oʊ/ 
@@ -6602,15 +6602,15 @@
 ## 1057. yogurt ## noun [C or U]
 /ˈjoʊ.gərt/ 
 [A2]a slightly sour, thick liquid made from milk with bacteria added to it, sometimes sweetened and with a fruit flavor added, and sometimes eaten plain
-- natural/plain yogurt
+- `natural/plain` yogurt
 - strawberry yogurt
-- low-fat yogurt
+- `low-fat` yogurt
 - I only had a yogurt for lunch.
 
 ## 1058. CD-ROM ## noun [C or U]
 /ˌsiː.diːˈrɑm/ 
 [B1]compact disc read-only memory: a disc that holds large amounts of information that can be read by a computer but cannot be changed
-- Cambridge dictionaries are available on CD-ROM.
+- Cambridge dictionaries are available `on` CD-ROM.
 
 ## 1059. CV ## noun [C]
 /siːˈviː/ 
@@ -6625,26 +6625,26 @@
 ## 1061. ability ## noun [C or U]
 /əˈbɪl.ət̬.i/ 
 [B1]the physical or mental skill or qualities that you need to do something
-- She had the ability to explain things clearly.
-- athletic/academic ability
+- She `had the` ability `to` explain things clearly.
+- `athletic/academic` ability
 
 ## 1062. accent ## noun [C]
 /ˈæk.sent/ PRONUNCIATION
 [B1]the way in which people in a particular area, country or social group pronounce words
 - a Boston/Southern accent
-- He speaks with a heavy/strong Russian accent.
+- He speaks with a `heavy/strong` Russian accent.
 
 ## 1063. access ## noun [U]
 /ˈæk.ses/ RIGHT/OPPORTUNITY
 [B1]the right or opportunity to use or look at something
-- Internet access
-- The system has been designed to give the user quick and easy access to the required information.
+- `Internet` access
+- The system has been designed to give the user quick and easy access `to` the required information.
 
 ## 1064. access ## noun [U]
 /ˈæk.ses/ METHOD
 [B1]the way in which you can enter a place or get to a place
-- disabled access
-- The only access to the island is by boat.
+- `disabled` access
+- The only access `to` the island is by boat.
 
 ## 1065. accident ## noun [C]
 /ˈæk.sɪ.dənt/ by accident
@@ -6654,26 +6654,26 @@
 ## 1066. account ## noun
 /əˈkɑʊnt/ BANK
 [B1]an arrangement with a bank to keep your money there and to allow you to take it out when you need to
-- a checking/savings account
-- I've opened an account at another bank.
-- I deposited the money in my account this morning.
+- a `checking/savings` account
+- I've `opened` an account `at` another bank.
+- I deposited the money `in` my account this morning.
 
 ## 1067. accountant ## noun [C]
 /əˈkɑʊnt.ənt/ 
 [B1]someone whose job is to keep or examine the financial records of a person or organization
-- a tax accountant
+- a `tax` accountant
 
 ## 1068. ache ## noun [C]
 /eɪk/ 
 [B1]a feeling of pain over an area of your body which continues for a long time
-- As you get older, you have all sorts of aches and pains.
+- As you get older, you have all sorts of aches `and pains`.
 - I've got an ache in my lower back.
 
 ## 1069. achievement ## noun [C or U]
 /əˈtʃiːv.mənt/ 
 [B1]something very good and difficult that you have succeeded in doing
-- An Olympic silver medal is a remarkable achievement for such a young athlete.
-- It gives you a sense of achievement if you actually make it to the end of a very long book.
+- An Olympic silver medal is a `remarkable` achievement for such a young athlete.
+- It gives you a `sense of` achievement if you actually make it to the end of a very long book.
 
 ## 1070. act ## noun
 /ækt/ THEATER
@@ -6705,8 +6705,8 @@
 ## 1075. advantage ## noun
 /ədˈvæn.t̬ɪdʒ/ USEFUL THING
 [B1]something good about a situation that helps you
-- One of the advantages of booking a flight in advance is that you get better seats.
-- For a basketball player, it's an advantage to to be tall.
+- One of the advantages `of` booking a flight in advance is that you get better seats.
+- For a basketball player, it's an advantage `to` to be tall.
 
 ## 1076. advantage ## noun
 /ədˈvæn.t̬ɪdʒ/ take advantage of sth
@@ -6721,13 +6721,13 @@
 ## 1078. ages ## noun [plural]
 /ˈeɪdʒ.ɪz/ 
 [B1]a very long time
-- I've been waiting here for ages.
+- I've been waiting here `for `ages.
 
 ## 1079. aim ## noun
 /eɪm/ 
 [B1]the purpose of doing something, and what you hope to achieve
-- He went to Paris with the aim of improving his French.
-- My main aim is to make people laugh.
+- He went to Paris `with` the aim `of` improving his French.
+- My `main` aim is to make people laugh.
 
 ## 1080. air conditioning ## noun [U]
 /ˈer.kənˌdɪʃ.ən.ɪŋ/ 
@@ -6747,18 +6747,18 @@
 ## 1083. alarm ## noun
 /əˈlɑrm/ WARNING
 [B1]a loud noise or flashing light that warns you of danger
-- a burglar/car/fire/smoke alarm
-- What set off the alarm?
+- a `burglar/car/fire/smoke` alarm
+- What `set off` the alarm?
 
 ## 1084. alarm ## noun
 /əˈlɑrm/ WAKING
 [B1]a clock or a device in a watch, cell phone, etc. that makes a noise to wake you
-- The alarm went off at 5:30 and she got up immediately.
+- The alarm `went off` at 5:30 and she got up immediately.
 
 ## 1085. album ## noun [C]
 /ˈæl.bəm/ MUSIC
 [B1]several songs or pieces of music on a CD, a record, etc.
-- They've just make/recorded a new album.
+- They've just `make/recorded` a new album.
 - Jovanotti has a new album out.
 
 ## 1086. alphabet ## noun [C]
@@ -6769,22 +6769,22 @@
 ## 1087. ambition ## noun
 /æmˈbɪʃ.ən/ HOPE
 [B1]something you want to achieve
-- His ambition is to run his own business.
-- He has already achieved his main ambition in life - to become wealthy.
+- His ambition is `to` run his own business.
+- He has already `achieved` his main ambition in life - to become wealthy.
 
 ## 1088. ambulance ## noun [C]
 /ˈæm.bjə.ləns/ 
 [B1]a special vehicle used to take ill or injured people to the hospital
-- I called for an ambulance.
-- an ambulance driver
+- I `called for` an ambulance.
+- an ambulance `driver`
 
 ## 1089. amount ## noun [C]
 /əˈmɑʊnt/ 
 [B1]how much there is of something
-- They didn't deliver the right amount of sand.
-- Small amounts of land were used for keeping animals.
+- They didn't deliver the right amount `of` sand.
+- Small amounts `of` land were used for keeping animals.
 - I didn't expect the bill to come to this amount.
-- You wouldn't believe the amount of trouble I've had with this car.
+- You wouldn't believe `the` amount `of` trouble I've had with this car.
 
 ## 1090. angel ## noun [C]
 /ˈeɪn.dʒəl/ 
@@ -6794,30 +6794,30 @@
 ## 1091. animation ## noun
 /ˌæn.əˈmeɪ.ʃən/ 
 [B1]an animated film, or the process of making animated films
-- a course in computer animation
+- a course in `computer animation`
 
 ## 1092. ankle ## noun [C]
 /ˈæŋ.kəl/ 
 [B1]the joint between the foot and the leg, or the thin part of the leg just above the foot
-- I fell over and sprained/twisted my ankle.
+- I fell over and `sprained/twisted` my ankle.
 
 ## 1093. anniversary ## noun [C]
 /ˌæn.əˈvɜr.sə.ri/ 
 [B1]the day on which an important event happened in a previous year
-- We always celebrate our wedding anniversary with dinner at an expensive restaurant.
-- Tomorrow is the fiftieth anniversary of the revolution.
+- We always celebrate our `wedding` anniversary with dinner at an expensive restaurant.
+- Tomorrow is the fiftieth anniversary `of` the revolution.
 
 ## 1094. announcement ## noun [C or U]
 /əˈnɑʊn.smənt/ 
 [B1]something that someone says officially, giving information about something
-- The President made an unexpected announcement this morning.
+- The President `made` an unexpected announcement this morning.
 
 ## 1095. answer ## noun
 /ˈæn.sər/ SOLUTION
 [B1]a way of solving a problem
 - It's a difficult situation and I don't know what the answer is.
-- So what's the answer to the problem?
-- There's no easy answer to the problem.
+- So what's the answer `to` the problem?
+- There's no `easy` answer to the problem.
 
 ## 1096. ant ## noun [C]
 /ænt/ 
@@ -6827,29 +6827,29 @@
 ## 1097. antique ## noun [C]
 /ænˈtiːk/ 
 [B1]an object that is old, and often rare or beautiful
-- an antique shop
-- My mother collects antiques.
+- an antique `shop`
+- My mother `collects` antiques.
 
 ## 1098. apology ## noun [C or U]
 /əˈpɑl.ə.dʒi/ 
 [B1]something you say or write to say that you are sorry about something you have done
-- I have an apology to make to you - I'm afraid I opened your letter by mistake.
-- I owe you an apology, Chris.
-- "Was he at all sorry for what he'd done?" "Oh he was full of apologies."
+- I have an apology to `make` to you - I'm afraid I opened your letter by mistake.
+- I `owe you an` apology, Chris.
+- "Was he at all sorry for what he'd done?" "Oh he was `full of` apologies."
 
 ## 1099. appearance ## noun
 /əˈpɪr.əns/ WAY YOU LOOK
 [B1]the way a person or thing looks to other people
-- The buildings are very similar in appearance.
-- You can alter/change the whole appearance of a room just by lighting it in a certain way.
-- She gives the appearance of being very efficient.
+- The buildings are very similar `in` appearance.
+- You can `alter/change` the whole appearance `of` a room just by lighting it in a certain way.
+- She `gives the` appearance `of` being very efficient.
 
 ## 1100. application ## noun
 /ˌæp.ləˈkeɪ.ʃən/ REQUEST
 [B1]an official request for something, usually in writing
-- a job/college application
-- I've sent off applications for four different jobs.
-- Have you filled in the application form for your passport yet?
+- a `job/college` application
+- I've sent off applications `for` four different jobs.
+- Have you filled in the application `form` for your passport yet?
 
 ## 1101. architect ## noun [C]
 /ˈɑr.kɪˌtekt/ 
@@ -6860,7 +6860,7 @@
 /ˈɑr.kɪˌtek.tʃər/ STYLE
 [B1]the design and style of buildings
 - Roman architecture
-- modern architecture
+- `modern` architecture
 
 ## 1103. architecture ## noun [U]
 /ˈɑr.kɪˌtek.tʃər/ SUBJECT
@@ -6870,39 +6870,39 @@
 ## 1104. area ## noun [C]
 /ˈer.iː.ə/ PART
 [B1]a part of a building or piece of land used for a particular purpose
-- a play/picnic area
+- a `play/picnic` area
 
 ## 1105. argument ## noun [C]
 /ˈɑr.gjə.mənt/ DISAGREEMENT
 [B1]an angry discussion with someone in which you both disagree
-- The children had an argument about/over what game to play.
-- He got into an argument with a man in the restaurant last night.
+- The children `had` an argument `about/over` what game to play.
+- He `got into an` argument `with` a man in the restaurant last night.
 
 ## 1106. army ## noun
 /ˈɑr.mi/ the army
 [B1]a particular country's fighting force
 - When did you join the army?
-- He has decided on a career in the army.
+- He has decided on a career `in` the army.
 - The army was called out to enforce the curfew.
 
 ## 1107. arrangement ## noun
 /əˈreɪndʒ.mənt/ PLANS
 [B1]plans for how something will happen
-- They'd made all the arrangements for the party.
-- Arrangements were made to move the prisoners to another jail.
+- They'd `made` all the arrangements `for` the party.
+- Arrangements were made `to` move the prisoners to another jail.
 - What are your current childcare arrangements?
 
 ## 1108. arrival ## noun
 /əˈrɑɪ.vəl/ 
 [B1]when someone or something arrives somewhere
-- Hundreds gathered to await the boxer's arrival at the airport.
-- On arrival at the police station, they were taken to a room for questioning.
-- We regret the late arrival of flight 237.
+- Hundreds gathered to await the boxer's arrival `at` the airport.
+- `On` arrival `at` the police station, they were taken to a room for questioning.
+- We regret the late arrival `of` flight 237.
 
 ## 1109. article ## noun [C]
 /ˈɑrt̬.ɪ.kəl/ NEWSPAPER
 [B1]a piece of writing on a particular subject in a newspaper or magazine
-- There was an interesting article on climate change in the paper yesterday.
+- There was an interesting article `on` climate change in the paper yesterday.
 
 ## 1110. article ## noun [C]
 /ˈɑrt̬.ɪ.kəl/ GRAMMAR
@@ -6917,7 +6917,7 @@
 ## 1112. assignment ## noun [C]
 /əˈsɑɪn.mənt/ 
 [B1]a piece of work, especially school work, or a job that you are given to do
-- a vocabulary/reading/math assignment
+- a `vocabulary/reading/math` assignment
 - The assignment is due on Friday.
 
 ## 1113. assistant ## noun [C]
@@ -6929,27 +6929,27 @@
 ## 1114. athlete ## noun [C]
 /ˈæθˌliːt/ 
 [B1]a person who is very good at sports or physical exercise, especially one who competes in organized events
-- He became a professional athlete at the age of 16.
+- He became a `professional` athlete at the age of 16.
 
 ## 1115. atmosphere ## noun
 /ˈæt.məsˌfɪr/ FEELING
 [B1]the feeling which exists in a place or situation
 - There's a very relaxed atmosphere in our office.
-- There has been an atmosphere of gloom in the factory since it was announced that it would be closing.
+- There has been `an` atmosphere `of` gloom in the factory since it was announced that it would be closing.
 
 ## 1116. attack ## noun [C or U]
 /əˈtæk/ 
 [B1]a violent act intended to hurt or damage someone or something
 - a racist attack
-- a terrorist attack on the capital
-- The town was once again under attack.
+- a terrorist attack `on` the capital
+- The town was once again `under` attack.
 
 ## 1117. attention ## noun [U]
 /əˈten.tʃən/ NOTICE
 [B1]when you watch, listen to, or think about something carefully or with interest
-- Ladies and gentlemen, could I have your attention, please?
-- Wait a moment and I'll give you my full attention.
-- After an hour, my attention started to wander.
+- Ladies and gentlemen, could I `have your` attention, please?
+- Wait a moment and I'll `give` you my `full` attention.
+- After an hour, my attention started to `wander`.
 
 ## 1118. attention ## noun [U]
 /əˈten.tʃən/ pay attention (to sth)
@@ -6959,39 +6959,39 @@
 ## 1119. attitude ## noun [C or U]
 /ˈæt̬.əˌtuːd/ 
 [B1]how you think or feel about something, and how this makes you behave
-- He has a very bad attitude to/toward work.
-- That boy has a real attitude problem.
-- She has a very positive attitude generally.
+- He has a very bad attitude `to/toward` work.
+- That boy has a real attitude `problem`.
+- She has a very `positive` attitude generally.
 
 ## 1120. attraction ## noun
 /əˈtræk.ʃən/ THING TO SEE OR DO
 [B1]something that makes people come to a place or do a particular thing
-- tourist attractions
-- The opportunity to travel is one of the main attractions of this job.
+- `tourist` attractions
+- The opportunity to travel is one of the `main` attractions of this job.
 
 ## 1121. audience ## noun [C]
 /ˈɔːd.iː.əns/ GROUP
 [B1]the people who sit and watch a performance at a theater, hall, outdoors, etc.
-- There were a lot of children in the audience.
+- There were a lot of children `in the` audience.
 - The audience was clearly enjoyed the performance.
 
 ## 1122. author ## noun [C]
 /ˈɔː.θər/ 
 [B1]the writer of a book, article, play, etc.
-- He is the author of two books on French history.
+- He is the author `of` two books on French history.
 
 ## 1123. average ## noun
 /ˈæv.rɪdʒ/ AMOUNT
 [B1]the result you get by adding two or more amounts together and dividing the total by the number of amounts
-- Prices have risen by an average of 4% over the past year.
+- Prices have risen by an average `of` 4% over the past year.
 
 ## 1124. average ## noun
 /ˈæv.rɪdʒ/ USUAL/TYPICAL
 [B1]the usual or typical amount
-- An 8-hour working day is about the average.
+- An 8-hour working day is about `the` average.
 - The audience figures were lower than average for this sort of film.
-- The quality of candidates was (well)below/above average.
-- I expect to spend an average of $20 for a meal in a restaurant.
+- The quality of candidates was `(well)``below/above` average.
+- I expect to spend `an` average `of` $20 for a meal in a restaurant.
 
 ## 1125. babysitter ## noun [C]
 /ˈbeɪ.biˌsɪt̬.ər/ 
@@ -7011,8 +7011,8 @@
 ## 1128. background ## noun
 /ˈbæk.grɑʊnd/ EXPERIENCE
 [B1]a person's education, family and experience of life
-- The school has pupils from many different ethnic/cultural/religious backgrounds.
-- They come from a wealthy background.
+- The school has pupils `from` many different `ethnic/cultural/religious` backgrounds.
+- They `come from` a wealthy background.
 
 ## 1129. backpacker ## noun [C]
 /ˈbæk.pæk.ər/ 
@@ -7022,7 +7022,7 @@
 ## 1130. backpacking ## noun [U]
 /ˈbæk.pæk.ɪŋ/ 
 [B1]when you travel around an area without spending much money, carrying a backpack
-- I went backpacking when I was a student.
+- I `went` backpacking when I was a student.
 
 ## 1131. backyard ## noun [C]
 /ˈbækˈjɑrd/ 
@@ -7033,14 +7033,14 @@
 /ˈbeɪ.kən/ 
 [B1]meat from a pig cut into long thin slices
 - a bacon sandwich
-- a slice of bacon
-- bacon and eggs
+- a `slice of` bacon
+- bacon `and eggs`
 
 ## 1133. baggage ## noun [U]
 /ˈbæg.ɪdʒ/ BAGS
 [B1]all the bags that you take with you when you travel
-- checked/carry-on baggage
-- We had to pay extra for our excess baggage.
+- `checked/carry-on` baggage
+- We had to pay extra for our `excess` baggage.
 
 ## 1134. baker ## noun [C]
 /ˈbeɪ.kər/ 
@@ -7066,12 +7066,12 @@
 /ˈbɑr.gən/ 
 [B1]something that is on sale for less than its usual price or its real value
 - This coat was half-price - a real bargain.
-- The airline regularly offers last-minute airfares at bargain prices.
+- The airline regularly offers last-minute airfares at bargain `prices`.
 
 ## 1139. basket ## noun [C]
 /ˈbæs.kɪt/ 
 [B1]a container, usually with a handle, that is made of thin pieces of wood, wire, plastic, etc.
-- a shopping/picnic basket
+- a `shopping/picnic` basket
 - a laundry basket
 
 ## 1140. bat ## noun [C]
@@ -7088,59 +7088,59 @@
 /ˈbæt̬.əl/ WAR
 [B1]a fight between armed forces in a war
 - the Battle of Gettysburg
-- He was killed in battle.
+- He was killed `in` battle.
 
 ## 1143. bay ## noun [C]
 /beɪ/ WATER
 [B1]an area of water with land on three sides
 - San Francisco Bay
-- the Bay of Naples
+- the Bay `of` Naples
 
 ## 1144. beauty ## noun [U]
 /ˈbjuːt̬.i/ BEING BEAUTIFUL
 [B1]the quality of being beautiful
-- This is an area of outstanding natural beauty.
+- This is an area of outstanding `natural` beauty.
 
 ## 1145. bee ## noun [C]
 /biː/ 
 [B1]a yellow and black flying insect which makes honey and can sting you
-- A swarm of bees flew into the garden.
-- I was stung by a bee.
+- A `swarm of` bees flew into the garden.
+- I was `stung by` a bee.
 
 ## 1146. beef ## noun [U]
 /biːf/ 
 [B1]the meat of a cow
-- roast beef
+- `roast` beef
 
 ## 1147. behavior ## noun [U]
 /bəˈheɪ.vjər/ 
 [B1]the way that you behave
-- bad/good behavior
+- `bad/good` behavior
 - Did you notice anything strange about his behavior?
 
 ## 1148. bell ## noun [C]
 /bel/ ELECTRICAL OBJECT
 [B1]an electrical object that makes a ringing sound when you press a button
-- Please ring the bell for attention.
+- Please `ring` the bell for attention.
 
 ## 1149. benefit ## noun [C or U]
 /ˈben.ə.fɪt/ HELP
 [B1]something that helps you or gives you an advantage
 - The discovery of oil brought many benefits to the town.
-- One of the many benefits of foreign travel is learning how to cope with the unexpected.
-- He's had the benefit of an expensive education and yet he continues to work as a waiter.
+- One of the many benefits `of` foreign travel is learning how to cope with the unexpected.
+- He's `had the` benefit `of` an expensive education and yet he continues to work as a waiter.
 
 ## 1150. benefit ## noun [C or U]
 /ˈben.ə.fɪt/ SERVICE
 [B1]a helpful service employees receive in addition to their pay
-- health/medical benefits
+- `health/medical` benefits
 - The personnel director outlined the employee benefits -- health insurance, retirement plan, etc.
 
 ## 1151. best ## noun
 /best/ the best
 [B1]someone or something that is better than any other
 - I like all of Hitchcock's films, but I think "Notorious" is the best.
-- Chris and I are the best of friends.
+- Chris and I are the best `of` friends.
 
 ## 1152. best ## noun
 /best/ at his/its, etc. best
@@ -7155,7 +7155,7 @@
 ## 1154. bike ## noun [C]
 /bɑɪk/ MOTORCYCLE
 [B1]a motorcycle
-- He came on his bike.
+- He came `on` his bike.
 
 ## 1155. bill ## noun [C]
 /bɪl/ MONEY
@@ -7165,19 +7165,19 @@
 ## 1156. biography ## noun [C]
 /bɑɪˈɑg.rə.fi/ 
 [B1]the life story of a person written by someone else
-- He wrote a biography of Winston Churchill.
+- He wrote a biography `of` Winston Churchill.
 
 ## 1157. bit ## noun [C]
 /bɪt/ SMALL AMOUNT
 [B1]a small amount or piece of something
-- There were little bits of paper all over the floor.
-- Be sure to sweep up every bit of the broken glass.
-- She tries to do a bit of exercise every day.
+- There were `little` bits `of` paper all over the floor.
+- Be sure to sweep up `every` bit `of` the broken glass.
+- She tries to do a bit `of` exercise every day.
 
 ## 1158. bit ## noun [C]
 /bɪt/ quite a bit
 [B1]a lot
-- He does quite a bit of traveling.
+- He does quite a bit `of` traveling.
 - She's quite a bit older than him.
 
 ## 1159. blog ## noun [C]
@@ -7193,8 +7193,8 @@
 ## 1161. board ## noun
 /bɔːrd/ SURFACE
 [B1]a flat piece of wood, plastic, etc. used for a particular purpose
-- Cut the vegetables on a chopping board.
-- an ironing board
+- Cut the vegetables on a `chopping` board.
+- an `ironing` board
 
 ## 1162. board ## noun
 /bɔːrd/ on board
@@ -7209,14 +7209,14 @@
 ## 1164. bomb ## noun [C]
 /bɑm/ 
 [B1]a weapon that explodes and causes damage
-- The bomb exploded/went off near a busy market.
-- a nuclear bomb
-- a car bomb
+- The bomb `exploded/went off` near a busy market.
+- a `nuclear` bomb
+- a `car` bomb
 
 ## 1165. bone ## noun [C or U]
 /boʊn/ 
 [B1]one of the hard pieces that make the structure inside a human or animal
-- The X-ray showed a broken bone in his left hand.
+- The X-ray showed a `broken` bone in his left hand.
 - There's still a lot of meat left on the bone - should I slice some off for you?
 
 ## 1166. book ## noun [C]
@@ -7230,17 +7230,17 @@
 /ˈbɔːrd.ər/ 
 [B1]the line that divides one country from another
 - Were you stopped at the border?
-- The train crosses the border between the US and Canada near Buffalo, NY.
+- The train `crosses` the border `between` the US and Canada near Buffalo, NY.
 
 ## 1168. bottom ## noun
 /ˈbɑt̬.əm/ LOWEST POSITION
 [B1]the lowest position in a group, organization, etc.
-- When Einstein was in school, he was at the bottom of his class.
+- When Einstein was in school, he was `at the` bottom `of` his class.
 
 ## 1169. bottom ## noun
 /ˈbɑt̬.əm/ SEA/RIVER/LAKE
 [B1]the ground under a river, lake, or sea
-- The ship had sunk to the bottom of the sea.
+- The ship had sunk to `the` bottom `of` the sea.
 
 ## 1170. boxing ## noun [U]
 /ˈbɑk.sɪŋ/ 
@@ -7261,13 +7261,13 @@
 ## 1173. branch ## noun [C]
 /bræntʃ/ BUSINESS
 [B1]one of several stores, offices, etc. that are part of a company or organization
-- I used to work in the local branch of a large bank.
-- She's a branch manager.
+- I used to work in the `local` branch `of` a large bank.
+- She's a branch `manager`.
 
 ## 1174. break ## noun [C]
 /breɪk/ VACATION
 [B1]a vacation or period of time away from work, school, etc.
-- Where are you going over spring break?
+- Where are you going `over spring` break?
 
 ## 1175. break ## noun [C]
 /breɪk/ DAMAGE
@@ -7279,7 +7279,7 @@
 /brest/ 
 [B1]either of the two soft, rounded parts of a woman's chest that produce milk after she has a baby
 - When a woman becomes pregnant her breasts tend to grow larger.
-- breast cancer
+- breast `cancer`
 
 ## 1177. breath ## noun [U]
 /breθ/ AIR
@@ -7289,14 +7289,14 @@
 ## 1178. breeze ## noun [C]
 /briːz/ 
 [B1]a light and pleasant wind
-- a cool breeze
-- She let the gentle breeze cool her face.
+- a `cool` breeze
+- She let the `gentle` breeze cool her face.
 
 ## 1179. bride ## noun [C]
 /brɑɪd/ 
 [B1]a woman who is getting married
-- He returned from New York with his lovely new bride.
-- The bride and groom posed for pictures outside the church.
+- He returned from New York with his lovely `new` bride.
+- The bride `and groom` posed for pictures outside the church.
 
 ## 1180. broccoli ## noun [U]
 /ˈbrɑk.li/ 
@@ -7306,12 +7306,12 @@
 ## 1181. brochure ## noun [C]
 /broʊˈʃʊr/ 
 [B1]a thin book with pictures and information, usually advertising something
-- We looked at some tourist brochures last night.
+- We looked at some `tourist` brochures last night.
 
 ## 1182. bucket ## noun [C]
 /ˈbʌk.ɪt/ 
 [B1]a container with an open top and a handle, often used for carrying liquids
-- a bucket of water
+- a bucket `of` water
 - Armed with a bucket and a mop, I started washing the floor.
 
 ## 1183. bug ## noun [C]
@@ -7337,12 +7337,12 @@
 ## 1187. bulletin board ## noun [C]
 /ˈbʊl.ə.tɪnˌbɔːrd/ 
 [B1]a board on the wall where you put advertisements and announcements
-- The class schedule is up on the bulletin board.
+- The class schedule is up `on the` bulletin board.
 
 ## 1188. bunch ## noun
 /bʌntʃ/ THINGS
 [B1]a number of things of the same type which are joined or held together
-- a bunch of flowers/grapes/bananas/keys
+- a bunch `of flowers/grapes/bananas/keys`
 
 ## 1189. bunch ## noun
 /bʌntʃ/ PEOPLE
@@ -7352,7 +7352,7 @@
 ## 1190. business ## noun
 /ˈbɪz.nəs/ WORK
 [B1]the work that you do to earn money
-- I'm in Baltimore on business.
+- I'm in Baltimore `on` business.
 
 ## 1191. butcher ## noun [C]
 /ˈbʊtʃ.ər/ 
@@ -7377,12 +7377,12 @@
 ## 1195. buyer ## noun [C]
 /ˈbɑɪ.ər/ 
 [B1]someone who buys something expensive such as a house
-- He's still looking for a buyer for his house.
+- He's still looking for a buyer `for` his house.
 
 ## 1196. cab ## noun [C]
 /kæb/ 
 [B1]a taxi
-- We took a cab to the theater.
+- We `took` a cab to the theater.
 
 ## 1197. cabbage ## noun [C or U]
 /ˈkæb.ɪdʒ/ 
@@ -7393,7 +7393,7 @@
 ## 1198. cabin ## noun [C]
 /ˈkæb.ɪn/ AIRCRAFT
 [B1]the area where passengers sit on an aircraft
-- cabin crew
+- cabin `crew`
 
 ## 1199. cabin ## noun [C]
 /ˈkæb.ɪn/ HOUSE
@@ -7404,8 +7404,8 @@
 ## 1200. cable ## noun
 /ˈkeɪ.bəl/ TELEVISION/TELEPHONE
 [B1]the system of sending signals carrying information for television, telephone, or Internet along wires
-- cable TV/television
-- This channel is only available on cable.
+- cable `TV/television`
+- This channel is only available `on` cable.
 - a cable modem
 
 ## 1201. cage ## noun [C]
@@ -7416,7 +7416,7 @@
 ## 1202. calculator ## noun [C]
 /ˈkæl.kjəˌleɪt̬.ər/ 
 [B1]an electronic device that you use to do mathematical calculations
-- a pocket calculator
+- a `pocket` calculator
 
 ## 1203. calf ## noun [C]
 /kæf/ ANIMAL
@@ -7426,8 +7426,8 @@
 ## 1204. call ## noun [C]
 /kɔːl/ SHOUT
 [B1]when someone shouts something
-- She could hear calls for help from inside the burning building.
-- I'll be in the next room, so give me a call if you need any help.
+- She could hear calls `for help` from inside the burning building.
+- I'll be in the next room, so `give` me a call if you need any help.
 
 ## 1205. call ## noun [C]
 /kɔːl/ sb's call
@@ -7442,12 +7442,12 @@
 ## 1207. camp ## noun [C or U]
 /kæmp/ TENTS/BUILDINGS
 [B1]a place where people stay in tents or other temporary structures
-- We set up camp near the lake.
+- We `set up` camp near the lake.
 
 ## 1208. camp ## noun [C or U]
 /kæmp/ vacation place
 [B1]a place in the countryside where you go for a vacation and that has cabins or tents and offers a program of things to do
-- The kids go away to summer camp for two weeks every August.
+- The kids go away to `summer` camp for two weeks every August.
 
 ## 1209. campsite ## noun [C]
 /ˈkæmp.sɑɪt/ 
@@ -7464,13 +7464,13 @@
 [B1]a serious disease that is caused when cells in the body grow in a way that is uncontrolled and not normal
 - breast/lung cancer
 - He died of liver cancer.
-- cancer of the stomach
+- cancer `of` the stomach
 - a cancer patient
 
 ## 1212. candle ## noun [C]
 /ˈkæn.dəl/ 
 [B1]a stick of wax with string going through it which produces light as it burns
-- Shall I light a candle?
+- Shall I `light` a candle?
 
 ## 1213. captain ## noun [C]
 /ˈkæp.tən/ SPORTS
@@ -7480,8 +7480,8 @@
 ## 1214. card ## noun [C]
 /kɑrd/ INFORMATION
 [B1]a small piece of stiff paper or plastic that has information printed on it
-- a library card
-- He gave me his business card.
+- a `library` card
+- He gave me his `business` card.
 
 ## 1215. card ## noun [C]
 /kɑrd/ COMPUTER
@@ -7491,32 +7491,32 @@
 ## 1216. care ## noun
 /ker/ take care of sb/sth
 [B1]to look after someone or something
-- Take good care of your sister, Patrick.
+- Take `good` care of your sister, Patrick.
 - Don't worry about me, I can take care of myself.
 - My parents will take care of the house while we're away.
 
 ## 1217. care ## noun
 /ker/ ATTENTION
 [B1]when you give a lot of attention to something so that you do not make a mistake or damage anything
-- The roads are icy, so drive with care.
-- Take care that you don't fall.
-- The package had a label on it saying "Handle with care."
+- The roads are icy, so drive `with` care.
+- `Take` care `that` you don't fall.
+- The package had a label on it saying "`Handle with` care."
 
 ## 1218. career ## noun [C]
 /kəˈrɪr/ JOB
 [B1]the job or series of jobs that you do during your working life, especially if you continue to get better jobs and earn more money
 - He hasn't yet chosen a career.
-- a successful career in marketing
-- What are the career prospects?
+- a successful career `in` marketing
+- What are the career `prospects`?
 
 ## 1219. case ## noun
 /keɪs/ SITUATION
 [B1]a particular situation or example of something
-- Over fifty people were injured, in several cases seriously.
-- I wouldn't normally agree but I'll make an exception in this case.
-- The number of new cases of flu has risen.
-- We have lots of applications from people who want to study here and in each case we consider the candidate very carefully.
-- She was suffering from an extreme case of sunburn.
+- Over fifty people were injured, `in` several cases seriously.
+- I wouldn't normally agree but I'll make an exception `in this` case.
+- The number of new cases `of` flu has risen.
+- We have lots of applications from people who want to study here and in `each` case we consider the candidate very carefully.
+- She was suffering from an `extreme` case of sunburn.
 
 ## 1220. case ## noun
 /keɪs/ in case of sth
@@ -7532,7 +7532,7 @@
 ## 1222. cash ## noun [U]
 /kæʃ/ MONEY
 [B1]money in any form
-- I'm a bit short of cash at the moment.
+- I'm a bit `short of` cash at the moment.
 
 ## 1223. cash machine ## noun [C]
 /ˈkæʃ.məˌʃiːn/ 
@@ -7542,7 +7542,7 @@
 ## 1224. cattle ## noun [plural]
 /ˈkæt̬.əl/ 
 [B1]male and female cows kept on a farm for their milk or meat
-- beef/dairy cattle
+- `beef/dairy` cattle
 
 ## 1225. cave ## noun [C]
 /keɪv/ 
@@ -7553,7 +7553,7 @@
 /ˌsel.əˈbreɪ.ʃən/ 
 [B1]a special social event, such as a party, when you celebrate something, or the act of celebrating something
 - There were New Year's celebrations all over town.
-- Such good news calls for a celebration!
+- Such good news `calls for a` celebration!
 
 ## 1227. celebrity ## noun [C]
 /səˈleb.rət̬.i/ 
@@ -7568,13 +7568,13 @@
 ## 1229. ceremony ## noun [C]
 /ˈser.əˌmoʊ.ni/ 
 [B1]a formal event that is performed on important social or religious occasions
-- a wedding/graduation ceremony
+- a `wedding/graduation` ceremony
 
 ## 1230. certificate ## noun [C]
 /sərˈtɪf.ɪ.kət/ 
 [B1]an official document that gives details to show that something is true
-- a birth/marriage/death certificate
-- a doctor's/medical certificate
+- a `birth/marriage/death` certificate
+- a `doctor's/medical` certificate
 
 ## 1231. chain ## noun
 /tʃeɪn/ BUSINESS
@@ -7585,63 +7585,63 @@
 ## 1232. challenge ## noun
 /ˈtʃæl.əndʒ/ DIFFICULT
 [B1]something that is difficult and that tests someone's ability or determination
-- Finding a solution to this problem is one of the greatest challenges faced by scientists today.
+- Finding a solution to this problem is one of the greatest challenges `faced` by scientists today.
 - You know me - I like a challenge.
-- It's going to be a difficult job but I'm sure she'll rise to the challenge.
+- It's going to be a difficult job but I'm sure she'll `rise to the` challenge.
 
 ## 1233. champion ## noun [C]
 /ˈtʃæm.pi.ən/ WINNER
 [B1]a person, animal, or team that wins a competition
 - an Olympic champion
 - the division/league/World champions
-- She is the world champion for the third year in a row.
-- The defending champion plays his first match of this tournament tomorrow.
+- She is the `world` champion for the third year in a row.
+- The `defending` champion plays his first match of this tournament tomorrow.
 
 ## 1234. championship ## noun [C]
 /ˈtʃæm.pi.ənˌʃɪp/ 
 [B1]a competition to find the best team or player in a particular game or sport
-- the national/world championships
+- the `national/world` championships
 - He played professional golf and won both the British Open and the PGA Championship.
 - He has been playing championship tennis for three years now.
 
 ## 1235. chance ## noun
 /tʃæns/ POSSIBILITY
 [B1]the possibility that something will happen
-- There's a chance (that) he'll still be there.
-- Does she have any chance of winning?
-- You'd have a better chance of passing your exams if you worked a bit harder.
-- There's a good chance (that) I'll have this essay finished by tomorrow.
+- There's a chance `(that)` he'll still be there.
+- Does she have `any` chance `of` winning?
+- You'd have `a better` chance `of` passing your exams if you worked a bit harder.
+- There's `a good` chance `(that)` I'll have this essay finished by tomorrow.
 
 ## 1236. chance ## noun
 /tʃæns/ OPPORTUNITY
 [B1]the opportunity to do something
-- I didn't get/have a chance to speak to her.
-- If you give me a chance to speak, I'll explain.
-- This trip is the chance of a lifetime.
-- He left and I missed my chance to say goodbye to him.
+- I didn't `get/have` a chance `to` speak to her.
+- If you `give` me a chance `to` speak, I'll explain.
+- This trip is `the` chance `of a lifetime`.
+- He left and I `missed` my chance to say goodbye to him.
 
 ## 1237. chance ## noun
 /tʃæns/ LUCK
 [B1]when something happens because of luck, or without being planned
-- I ran into her by chance in the supermarket.
+- I ran into her `by` chance in the supermarket.
 
 ## 1238. change ## noun
 /tʃeɪndʒ/ MONEY
 [B1]the money which is returned to someone who has paid for something which costs less than the amount that they gave
-- I think you've given me the wrong change.
+- I think you've given me the `wrong` change.
 
 ## 1239. change ## noun
 /tʃeɪndʒ/ COINS
 [B1]money which is coins rather than notes
-- She gave me $2 in change.
-- My dad always used to carry a lot of loose/small change in his pocket.
+- She gave me $2 `in` change.
+- My dad always used to carry a lot of `loose/small` change in his pocket.
 
 ## 1240. change ## noun
 /tʃeɪndʒ/ NEW EXPERIENCE
 [B1]something which is pleasant or interesting because it is unusual or new
-- It's nice to see her smile for a change.
-- "Should we eat in the garden?" "Why not - it'll make a nice change."
-- We've always had a red car - it's time we had a change!
+- It's nice to see her smile `for a` change.
+- "Should we eat in the garden?" "Why not - it'll `make a` nice change."
+- We've always had a red car - it's time we `had a` change!
 
 ## 1241. chapter ## noun [C]
 /ˈtʃæp.tər/ 
@@ -7653,44 +7653,44 @@
 [B1]a person represented in a film, play or story
 - The story revolves around three main characters.
 - She had Mickey Mouse or some other cartoon/Disney character on her sweater.
-- He made his name as a character actor.
+- He made his name as a character `actor`.
 
 ## 1243. character ## noun
 /ˈkær.ɪk.tər/ QUALITIES/PERSONALITY
 [B1]the combination of qualities and personality that makes a person different from others
 - Politeness is traditionally part of the British character.
-- It would be very out of character of her to lie.
+- It would be very `out of` character of her to lie.
 - One of the joys of being a parent is watching your child's character develop.
-- It's not in his character to be jealous.
+- It's not `in his` character to be jealous.
 
 ## 1244. charge ## noun
 /tʃɑrdʒ/ MONEY
 [B1]the amount of money that you have to pay for something, especially for an activity or service
-- There's no charge for children under ten.
-- There's an admission charge.
-- They fixed my watch free of charge.
+- There's no charge `for` children under ten.
+- There's an `admission` charge.
+- They fixed my watch `free of` charge.
 
 ## 1245. charge ## noun
 /tʃɑrdʒ/ be in charge
 [B1]to be the person who has control of or is responsible for someone or something
-- She's in charge of a team of 20 people.
+- She's in charge `of` a team of 20 people.
 - Who's in charge of organizing the music for the party?
 
 ## 1246. charity ## noun
 /ˈtʃær.ət̬.i/ ORGANIZATION
 [B1]an official organization that gives money, food, or help to people who need it, or money, food, or help that is given to people who need it
 - UNICEF is an international charity.
-- She does a lot of work for charity.
-- She does a lot of charity work.
-- People tend to give to charity at Christmas time.
-- Money from the sale of these cards will go to local charities.
+- She does a lot of work `for` charity.
+- She does a lot of charity `work`.
+- People tend to `give to` charity at Christmas time.
+- Money from the sale of these cards will `go to` local charities.
 
 ## 1247. check ## noun [C]
 /tʃek/ EXAMINATION
 [B1]an examination of something in order to make certain that it is correct or the way it should be
 - We gave our diving equipment a final check before setting off.
-- We do safety checks on all our electrical equipment.
-- Security checks have become really strict at the airport.
+- We `do` safety checks on all our electrical equipment.
+- `Security` checks have become really strict at the airport.
 
 ## 1248. check-in (counter) ## noun [C]
 /ˈtʃek.ɪnˌkaʊn.tər/ 
@@ -7702,7 +7702,7 @@
 /ˈtʃek.ɑʊt/ store
 [B1]the place in a store, especially a large food store, where you pay for the things you are buying
 - There were long lines at the checkout.
-- She works at the checkout at the local supermarket.
+- She works `at` the checkout at the local supermarket.
 
 ## 1250. checkout ## noun [C]
 /ˈtʃek.ɑʊt/ WEB SITE
@@ -7729,7 +7729,7 @@
 ## 1254. chewing gum ## noun [U]
 /ˈtʃuː.ɪŋˌgʌm/ 
 [B1]a soft, flavored substance that you chew but do not swallow
-- Would you like a piece/stick of chewing gum?
+- Would you like a `piece/stick of` chewing gum?
 
 ## 1255. childhood ## noun [C or U]
 /ˈtʃɑɪld.hʊd/ 
@@ -7752,27 +7752,27 @@
 ## 1258. choice ## noun
 /tʃɔɪs/ RIGHT
 [B1]when you can choose between two or more things, or the decision to choose one thing or person and not someone or something else
-- If I had a choice, I'd give up work.
-- I had to go - I had no choice.
-- It's a difficult choice to make.
+- If I `had a` choice, I'd give up work.
+- I had to go - I `had no` choice.
+- It's a difficult choice to `make`.
 - It's your choice/The choice is yours.
-- It was a choice between black or brown.
-- Given the choice, I'd stay at home.
-- I'd prefer not to work Saturdays but I don't have much choice.
+- It was a choice `between` black or brown.
+- `Given the` choice, I'd stay at home.
+- I'd prefer not to work Saturdays but I `don't have much` choice.
 
 ## 1259. choice ## noun
 /tʃɔɪs/ VARIETY
 [B1]the range of different things from which you can choose
 - There wasn't much choice on the menu.
-- The evening menu offers a wide choice of dishes.
-- The dress is available in a choice of colors.
+- The evening menu offers a `wide` choice of dishes.
+- The dress is available `in a` choice `of` colors.
 
 ## 1260. choice ## noun
 /tʃɔɪs/ PERSON/THING
 [B1]a person or thing that has been chosen or that can be chosen
-- Harvard was not his first choice.
-- He wouldn't be my choice as a friend.
-- This type of nursery care may well be the best choice for your child.
+- Harvard was not his `first` choice.
+- He wouldn't be my choice `as` a friend.
+- This type of nursery care may well be the best choice `for` your child.
 
 ## 1261. cinema ## noun
 /ˈsɪn.ə.mə/ BUILDING
@@ -7783,7 +7783,7 @@
 ## 1262. circus ## noun [C]
 /ˈsɜr.kəs/ 
 [B1]a show in which a group of people and animals perform in a large tent
-- a circus ring
+- a circus `ring`
 - The children loved being taken to the circus.
 
 ## 1263. cliff ## noun [C]
@@ -7795,7 +7795,7 @@
 ## 1264. climate ## noun
 /ˈklɑɪ.mət/ WEATHER
 [B1]the weather conditions that an area usually has
-- a hot/dry/cold/wet climate
+- a `hot/dry/cold/wet` climate
 - The Mediterranean climate is good for growing citrus fruits and grapes.
 
 ## 1265. clinic ## noun [C]
@@ -7824,9 +7824,9 @@
 ## 1269. coast ## noun [C]
 /koʊst/ 
 [B1]the land next to or close to the sea
-- Rimini is a thriving holiday resort on the east coast of Italy.
-- The accident happened three miles off the coast.
-- The rail line runs along/down the California coast.
+- Rimini is a thriving holiday resort `on the` east coast of Italy.
+- The accident happened three miles `off the` coast.
+- The rail line runs `along`/down the California coast.
 
 ## 1270. coconut ## noun [C or U]
 /ˈkoʊ.kəˌnʌt/ 
@@ -7846,8 +7846,8 @@
 - gold coins
 - The one dollar coin has never become popular.
 - He collects old coins.
-- I asked for ten dollars in coins.
-- The machine takes dollar coins.
+- I asked for ten dollars `in` coins.
+- The machine `takes` dollar coins.
 
 ## 1273. cold ## noun
 /koʊld/ the cold
@@ -7863,18 +7863,18 @@
 ## 1275. collection ## noun
 /kəˈlek.ʃən/ OBJECTS
 [B1]a group of objects of one type that have been collected by one person or in one place
-- a private art collection
+- a `private` art collection
 - a valuable stamp collection
 
 ## 1276. collection ## noun
 /kəˈlek.ʃən/ GROUP
 [B1]a group of things or people
-- There's quite a collection of toothbrushes in the bathroom.
+- There's quite a collection `of` toothbrushes in the bathroom.
 
 ## 1277. comedy ## noun [C or U]
 /ˈkɑm.əd.i/ 
 [B1]entertainment such as a film, play, etc. which is funny
-- His latest film is described as a romantic comedy.
+- His latest film is described as a `romantic` comedy.
 - I prefer Shakespeare's comedies to his tragedies.
 
 ## 1278. comma ## noun [C]
@@ -7885,9 +7885,9 @@
 ## 1279. comment ## noun [C]
 /ˈkɑm.ent/ THING SAID
 [B1]something that you say or write that expresses your opinion
-- I don't want any comments about my new haircut!
-- Tell us what you think - go to our web page and post/leave/add a comment.
-- He made negative comments to the press.
+- I don't want any comments `about` my new haircut!
+- Tell us what you think - go to our web page and `post/leave/add` a comment.
+- He `made` negative comments to the press.
 
 ## 1280. commercial ## noun [C]
 /kəˈmɜr.ʃəl/ 
@@ -7907,11 +7907,11 @@
 ## 1283. communication ## noun [U]
 /kəˌmjuː.nəˈkeɪ.ʃən/ 
 [B1]the act of communicating with people
-- Television is an increasingly important means of communication.
-- We are in direct communication with Moscow.
+- Television is an increasingly important `means of` communication.
+- We are `in` direct communication `with` Moscow.
 - With an hour's walk to the nearest telephone, communication is difficult.
-- There's very little communication between mother and daughter.
-- a course on communication skills
+- There's very little communication `between` mother and daughter.
+- a course on communication `skills`
 
 ## 1284. competitor ## noun [C]
 /kəmˈpet̬.ət̬.ər/ 
@@ -7922,9 +7922,9 @@
 ## 1285. complaint ## noun
 /kəmˈpleɪnt/ SOMETHING WRONG
 [B1]when someone says that something is wrong or not satisfactory
-- We've received a complaint from one of our listeners about offensive language.
-- I've made a complaint to the police about the noise.
-- We've had complaints that you've been playing your radio too loud.
+- We've received a complaint from one of our listeners `about` offensive language.
+- I've `made a` complaint `to` the police about the noise.
+- We've had complaints `that` you've been playing your radio too loud.
 
 ## 1286. composition ## noun
 /ˌkɑm.pəˈzɪʃ.ən/ WRITING
@@ -7934,35 +7934,35 @@
 ## 1287. conclusion ## noun
 /kənˈkluː.ʒən/ JUDGMENT
 [B1]the opinion you have after considering all the information about something
-- At first I thought he was being rude, but I've come to/reached the conclusion that he's just shy.
+- At first I thought he was being rude, but I've `come to/reached the` conclusion that he's just shy.
 
 ## 1288. condition ## noun
 /kənˈdɪʃ.ən/ STATE
 [B1]the particular state that something or someone is in
-- My bike's a few years old, but it's in really good condition.
+- My bike's a few years old, but it's `in` really `good` condition.
 - They left the apartment in a terrible condition - it was a mess.
-- He's in no condition to drive home.
+- He's `in no` condition `to` drive home.
 
 ## 1289. condition ## noun
 /kənˈdɪʃ.ən/ conditions
 [B1]the physical situation that someone or something is in and affected by
-- The prisoners were kept in the most appalling conditions.
-- Severe weather conditions are making driving difficult.
-- What are their living/working conditions like?
-- Under what conditions do plants grow best?
+- The prisoners were kept `in` the most appalling conditions.
+- Severe `weather` conditions are making driving difficult.
+- What are their `living/working` conditions like?
+- `Under` what conditions do plants grow best?
 
 ## 1290. conference ## noun [C]
 /ˈkɑn.fə.rəns/ 
 [B1]a large, formal meeting, often lasting a few days, where people discuss their work, politics, subjects they are studying, etc.
-- a conference on women's rights
-- the annual sales conference
-- They frequently hold conferences at the hotel.
-- I'm speaking at/attending a conference next week.
+- a conference `on` women's rights
+- the annual `sales` conference
+- They frequently `hold` conferences at the hotel.
+- I'm `speaking at/attending` a conference next week.
 
 ## 1291. connection ## noun
 /kəˈnek.ʃən/ JOINING THINGS
 [B1]something that joins things together
-- Many companies now offer free connection to the Internet.
+- Many companies now offer free connection `to` the Internet.
 
 ## 1292. consonant ## noun [C]
 /ˈkɑn.sə.nənt/ 
@@ -7972,29 +7972,29 @@
 ## 1293. contact ## noun
 /ˈkɑn.tækt/ COMMUNICATION
 [B1]communication with someone, especially by speaking or writing to them regularly
-- Do you still keep in contact with Peter?
-- I'm still in contact with Sarah - we write a couple of times a year.
-- There isn't enough contact between teachers and parents.
-- I'd hate to lose contact with my old school friends.
-- If you manage to make contact with her, do let me know.
-- The school likes to have a contact number for parents during school hours.
+- Do you still `keep in` contact `with` Peter?
+- I'm still `in` contact `with` Sarah - we write a couple of times a year.
+- There isn't enough contact `between` teachers and parents.
+- I'd hate to `lose` contact `with` my old school friends.
+- If you manage to `make` contact `with` her, do let me know.
+- The school likes to have a contact `number` for parents during school hours.
 
 ## 1294. contents ## noun [plural]
 /ˈkɑn.tents/ THINGS INSIDE
 [B1]everything that is contained within something
-- The contents of his bag spilled all over the floor.
-- He hardly needed to open the letter because he already knew the contents.
+- `The` contents `of` his bag spilled all over the floor.
+- He hardly needed to open the letter because he already knew `the` contents.
 
 ## 1295. contents ## noun [plural]
 /ˈkɑn.tents/ INFORMATION
 [B1]the information or ideas that are written in a book, letter, document, etc.
-- the contents of his will
+- `the` contents `of` his will
 
 ## 1296. contest ## noun [C]
 /ˈkɑn.test/ COMPETITION
 [B1]a competition to do better than other people, usually in which prizes are given
 - a dance/sports/essay contest
-- She's won a lot of beauty contests.
+- She's won a lot of `beauty` contests.
 
 ## 1297. continent ## noun [C]
 /ˈkɑnt.ən.ənt/ 
@@ -8006,34 +8006,34 @@
 /ˈkɑn.trækt/ 
 [B1]a legal agreement between two people, two organizations or a person and an organization
 - an employment/construction/service contract
-- a long-term/short-term contract
-- He signed a new three-year contract with the St. Louis Cardinals.
-- My lawyer is drawing up a contract.
-- Don't sign/enter into any contract before examining its conditions carefully.
+- a `long-term/short-term` contract
+- He signed a new three-year contract `with` the St. Louis Cardinals.
+- My lawyer is `drawing up` a contract.
+- Don't `sign/enter into` any contract before examining its conditions carefully.
 
 ## 1299. copy ## noun [C]
 /ˈkɑp.i/ MADE THE SAME
 [B1]something that has been made to be exactly like something else
 - This painting is only a copy - the original hangs in the Louvre.
-- I always keep a copy of any official or important letters that I send off.
-- Could you make a copy of this for tomorrow's meeting, please?
+- I always `keep` a copy `of` any official or important letters that I send off.
+- Could you `make` a copy `of` this for tomorrow's meeting, please?
 
 ## 1300. corn ## noun [U]
 /kɔːrn/ 
 [B1]a tall plant with yellow seeds that are eaten as food
 - a corn field
-- I bought four ears of corn for dinner.
+- I bought four `ears of` corn for dinner.
 
 ## 1301. correction ## noun [C or U]
 /kəˈrek.ʃən/ 
 [B1]a change made to something in order to correct or improve it, or when you make such a change
-- I made some corrections before handing in my essay.
+- I `made` some corrections before handing in my essay.
 - She was disappointed to see her essay returned with a mass of corrections in red ink.
 
 ## 1302. cottage ## noun [C]
 /ˈkɑt̬.ɪdʒ/ 
 [B1]a small house, usually in the countryside
-- They live in a country cottage, with roses around the door.
+- They live in a `country` cottage, with roses around the door.
 
 ## 1303. cotton ## noun [U]
 /ˈkɑ.t̬ən/ 
@@ -8046,7 +8046,7 @@
 /kɔːf/ 
 [B1]when you cough or an illness that makes you cough
 - a dry cough
-- Emily has a nasty cough.
+- Emily `has` a nasty cough.
 
 ## 1305. count noun ## noun [C]
 /ˈkɑʊntˌnɑʊn/ 
@@ -8062,19 +8062,19 @@
 ## 1307. couple ## noun
 /ˈkʌp.əl/ SOME
 [B1]two or a few
-- He'll be better in a couple of days.
-- I'm going away with a couple of friends.
-- We'll have to wait another couple of hours for the paint to dry.
-- She'll be retiring in a couple more years.
-- The weather's been terrible for the last couple of days.
-- Many economists expect unemployment to fall over the next couple of months.
-- I've been so busy over the past couple of weeks.
+- He'll be better in `a` couple `of` days.
+- I'm going away with `a` couple `of` friends.
+- We'll have to wait `another` couple `of` hours for the paint to dry.
+- She'll be retiring in `a` couple `more` years.
+- The weather's been terrible for `the last` couple `of` days.
+- Many economists expect unemployment to fall over `the next` couple `of` months.
+- I've been so busy over `the past` couple `of` weeks.
 
 ## 1308. couple ## noun
 /ˈkʌp.əl/ TWO PEOPLE
 [B1]two people who are married or in a romantic or sexual relationship, or two people who are together for a particular purpose
-- a married couple
-- A young couple walked into the bar.
+- a `married` couple
+- A `young` couple walked into the bar.
 - The couple skated well throughout the competition.
 
 ## 1309. course ## noun
@@ -8085,18 +8085,18 @@
 ## 1310. course ## noun
 /kɔːrs/ SPORTS AREA
 [B1]an area of land or water used for a sports event
-- a golf course
+- a `golf` course
 
 ## 1311. court ## noun
 /kɔːrt/ SPORTS
 [B1]an area drawn out on the ground that is used for playing sports such as tennis and basketball
-- a tennis/basketball/squash court
-- They were penalized for having too many players on the court.
+- a `tennis/basketball/squash` court
+- They were penalized for having too many players `on` the court.
 
 ## 1312. cover ## noun
 /ˈkʌv.ər/ BOOK
 [B1]the outer part of a book, magazine, etc., that protects the pages
-- Her picture is on the cover of several magazines.
+- Her picture is `on the` cover of several magazines.
 
 ## 1313. cover ## noun
 /ˈkʌv.ər/ PROTECTION
@@ -8107,21 +8107,21 @@
 ## 1314. crash ## noun [C]
 /kræʃ/ VEHICLE
 [B1]an accident in which a vehicle hits something
-- a car/plane crash
-- They had a crash on the way to work.
-- She died in a car crash.
+- a `car/plane` crash
+- They `had` a crash on the way to work.
+- She died `in a` car crash.
 
 ## 1315. cream ## noun
 /kriːm/ FOR SKIN
 [B1]a soft substance that you rub into your skin
-- face/hand cream
+- `face/hand` cream
 - moisturizing cream
 
 ## 1316. creature ## noun [C]
 /ˈkriː.tʃər/ 
 [B1]anything that lives but is not a plant
 - Rain forests are filled with amazing creatures.
-- Don't all living creatures have certain rights?
+- Don't all `living` creatures have certain rights?
 - Blue whales are the largest living creatures.
 
 ## 1317. credit ## noun
@@ -8133,8 +8133,8 @@
 ## 1318. credit ## noun
 /ˈkred.ɪt/ PAYMENT
 [B1]a method of paying for goods or services at a later time, usually paying interest as well as the original money
-- They decided to buy the sofa on credit.
-- The shop was offering six months' interest-free credit on kitchen appliances.
+- They decided to buy the sofa `on` credit.
+- The shop was offering six months' `interest-free` credit on kitchen appliances.
 
 ## 1319. crew ## noun [C]
 /kruː/ SHIP/AIRCRAFT
@@ -8145,18 +8145,18 @@
 ## 1320. crime ## noun
 /krɑɪm/ ILLEGAL ACTIVITIES
 [B1]illegal activities
-- crime prevention
-- serious/violent crime
-- We need tough new measures to fight crime.
+- crime `prevention`
+- `serious/violent` crime
+- We need tough new measures to `fight` crime.
 - a life of crime
 
 ## 1321. crime ## noun
 /krɑɪm/ ILLEGAL ACT
 [B1]an illegal act
-- He admitted committing several crimes, including two robberies.
-- The defendant is accused of/charged with arson.
-- A knife was found at the scene of the crime.
-- Bombing civilians is a crime against humanity.
+- He admitted `committing` several crimes, including two robberies.
+- The defendant is `accused of/charged with` arson.
+- A knife was found at `the scene of the` crime.
+- Bombing civilians is a crime `against humanity`.
 
 ## 1322. criminal ## noun [C]
 /ˈkrɪm.ən.əl/ 
@@ -8167,7 +8167,7 @@
 /krɑp/ 
 [B1]a plant such as a grain, fruit or vegetable that is grown in large amounts, or the amount of plants of a particular type that are produced at one time
 - The main crops grown for export are coffee and rice.
-- We had a bumper potato crop this year.
+- We had a `bumper` potato crop this year.
 
 ## 1324. cross ## noun [C]
 /krɔːs/ RELIGION
@@ -8182,12 +8182,12 @@
 ## 1326. cruise ## noun [C]
 /kruːz/ 
 [B1]a vacation on a large ship, sailing from place to place
-- My parents are going on a cruise this summer.
+- My parents are `going on a` cruise this summer.
 
 ## 1327. cry ## noun [C]
 /krɑɪ/ 
 [B1]a shout, especially one that shows someone is frightened, hurt, etc.
-- a cry of pain
+- a cry `of` pain
 - I could hear the cries of children playing in the street.
 
 ## 1328. cucumber ## noun [C or U]
@@ -8204,7 +8204,7 @@
 ## 1330. culture ## noun
 /ˈkʌl.tʃər/ ARTS
 [B1]music, art, theater, literature, etc.
-- popular culture
+- `popular` culture
 - If you're looking for culture, this may not be the place for you.
 
 ## 1331. cup ## noun [C]
@@ -8222,29 +8222,29 @@
 ## 1333. currency ## noun [C or U]
 /ˈkɜr.ən.si/ 
 [B1]the money that is used in a particular country at a particular time
-- foreign currency
+- `foreign` currency
 
 ## 1334. curriculum ## noun [C]
 /kəˈrɪk.jə.ləm/ 
 [B1]the group of subjects studied in a school, college, etc.
-- the school curriculum
+- the `school` curriculum
 
 ## 1335. cushion ## noun [C]
 /ˈkʊʃ.ən/ CLOTH BAG
 [B1]a cloth bag filled with something soft which you sit on or lean against to make you comfortable
-- She sank back against/into the cushions.
+- She sank back `against/into` the cushions.
 
 ## 1336. custom ## noun [C or U]
 /ˈkʌs.təm/ 
 [B1]a way of behaving or a belief which has been established for a long time
-- local/ancient customs
-- In my country, it's the custom to get married in white.
+- `local/ancient` customs
+- In my country, it's `the` custom `to` get married in white.
 
 ## 1337. customs ## noun [U]
 /ˈkʌs.təmz/ 
 [B1]the place where your bags are examined when you are going into a country, to make sure you are not carrying anything illegal
 - customs officials
-- to go through customs
+- to `go through` customs
 
 ## 1338. cut ## noun [C]
 /kʌt/ INJURY
@@ -8259,9 +8259,9 @@
 ## 1340. damage ## noun [U]
 /ˈdæm.ɪdʒ/ 
 [B1]harm or injury
-- Strong winds had caused serious damage to the roof.
-- storm/flood/fire/bomb damage
-- He suffered brain damage in the car crash.
+- Strong winds had caused `serious` damage `to` the roof.
+- `storm/flood/fire/bomb` damage
+- He suffered `brain` damage in the car crash.
 
 ## 1341. dance ## noun
 /dæns/ STEPS
@@ -8271,8 +8271,8 @@
 ## 1342. danger ## noun
 /ˈdeɪn.dʒər/ THREAT
 [B1]something or someone that may harm you
-- Icy roads are a danger to drivers.
-- The judge described him as a danger to society.
+- Icy roads are a danger `to` drivers.
+- The judge described him as a danger `to` society.
 
 ## 1343. dark ## noun
 /dɑrk/ the dark
@@ -8289,14 +8289,14 @@
 ## 1345. date ## noun [C]
 /deɪt/ PLANNED TIME
 [B1]a plan for something to happen at a particular time
-- Let's make a date to have lunch.
-- I'd like to set a date for our next meeting.
-- We've agreed to meet again at a later date.
+- Let's `make` a date to have lunch.
+- I'd like to `set` a date for our next meeting.
+- We've agreed to meet again at a `later` date.
 
 ## 1346. date ## noun [C]
 /deɪt/ SOCIAL TIME TOGETHER
 [B1]a social meeting when two people go somewhere together, such as to a restaurant or to see a film
-- He's asked her out on a date.
+- He's asked her out `on a` date.
 - She has a date tonight.
 
 ## 1347. date ## noun [C]
@@ -8307,7 +8307,7 @@
 ## 1348. date ## noun [C]
 /deɪt/ up to date
 [B1]modern, recent or containing the latest information
-- Great care is taken to keep our database up to date.
+- Great care is taken to `keep` our database up to date.
 
 ## 1349. day ## noun
 /deɪ/ the other day
@@ -8335,28 +8335,28 @@
 ## 1353. decision ## noun [C]
 /dɪˈsɪʒ.ən/ 
 [B1]a choice that you make about something after thinking about several possibilities
-- She had to make some very difficult decisions.
-- The company will reach/come to/make a decision shortly.
+- She had to `make` some very difficult decisions.
+- The company will `reach/come to/make` a decision shortly.
 - Let me have a/your decision by next week.
-- It was his decision to leave.
-- We need to take a lot of factors into account in our decision-making.
+- It was his decision `to` leave.
+- We need to take a lot of factors into account in our decision`-making`.
 
 ## 1354. decrease ## noun [C or U]
  
 [B1]a reduction
-- There has been a steady decrease in the number of visitors.
+- There has been a steady decrease `in` the number of visitors.
 
 ## 1355. defeat ## noun
 /dəˈfiːt/ LOSING
 [B1]when someone loses against someone else in a fight, war or competition
-- After their defeat in battle, the soldiers surrendered.
-- Lat night the Yankees suffered their worst defeat ever.
+- After their defeat `in battle`, the soldiers surrendered.
+- Lat night the Yankees `suffered` their worst defeat ever.
 
 ## 1356. defense ## noun
 /dəˈfens/ PROTECTION
 [B1]protection or support against attack, criticism or infection
-- When Helen criticized me, Chris came/rushed to my defense.
-- She argued strongly in defense of her actions.
+- When Helen criticized me, Chris `came/rushed to` my defense.
+- She argued strongly `in` defense `of` her actions.
 - A good diet helps build the body's natural defenses.
 
 ## 1357. defense ## noun
@@ -8372,8 +8372,8 @@
 ## 1359. degree ## noun
 /dəˈgriː/ ACHIEVEMENT
 [B1]a title of achievement given for completing a course of study at a college or university
-- What is your degree in? "Art History."
-- She's got a physics degree/a degree in physics from Princeton.
+- What is your degree `in`? "Art History."
+- She's `got` a physics degree/a degree `in` physics `from` Princeton.
 
 ## 1360. delay ## noun [C or U]
 /dɪˈleɪ/ without delay
@@ -8383,51 +8383,51 @@
 ## 1361. delivery ## noun [C or U]
 /dɪˈlɪv.ə.ri/ 
 [B1]when things such as goods, letters, or packages are taken to people's houses or places of work
-- a delivery truck
-- The store gets two deliveries of baked goods each day.
-- You can pay for the carpet on delivery.
-- We expect to take delivery of our new car next week.
+- a delivery `truck`
+- The store gets two deliveries `of` baked goods each day.
+- You can pay for the carpet `on` delivery.
+- We expect to `take` delivery `of` our new car next week.
 
 ## 1362. demand ## noun
 /dɪˈmænd/ REQUEST
 [B1]a strong request
 - You can't give in to children's demands all the time.
-- The government is unlikely to agree to the rebels' demands for independence.
-- They received a final demand for payment.
+- The government is unlikely to agree to the rebels' demands `for` independence.
+- They received a `final` demand `for` payment.
 
 ## 1363. departure ## noun [C or U]
 /dɪˈpɑr.tʃər/ 
 [B1]when someone or something leaves a place, especially to start a journey to another place
-- There are four departures daily to Albany from Rochester.
+- There are four departures daily `to` Albany `from` Rochester.
 - Our departure was delayed because of bad weather.
-- departure time
+- departure `time`
 
 ## 1364. deposit ## noun [C]
 /dəˈpɑz.ət/ BUYING
 [B1]a payment of part of the total cost of something that you want to buy and will finish paying for later
-- They've put down a deposit on a house.
+- They've `put down` a deposit `on` a house.
 
 ## 1365. depth ## noun
 /depθ/ DISTANCE DOWN
 [B1]the distance down either from the top of something to the bottom, or to a distance below the top surface of something
-- the depth of a lake/pond
-- There are very few fish at depths below 3000 meters.
-- The river froze to a depth of over three feet.
+- the depth `of` a lake/pond
+- There are very few fish `at` depths below 3000 meters.
+- The river froze `to` a depth `of` over three feet.
 
 ## 1366. description ## noun [C or U]
 /dəˈskrɪp.ʃən/ 
 [B1]something that tells you what something or someone is like
-- Write a description of your favorite vacation spot.
+- Write a description `of` your favorite vacation spot.
 - Your essay contains too much description, and not enough discussion of the issues.
-- She has given the police a very detailed/full description of the robber.
+- She has `given` the police a very `detailed/full` description `of` the robber.
 
 ## 1367. design ## noun
 /dəˈzɑɪn/ PLANNING
 [B1]the way in which something is planned and made
-- I don't like the design of this kettle.
-- The building was originally Victorian in design.
-- a serious design fault
-- The car has some excellent design features.
+- I don't like the design `of` this kettle.
+- The building was originally Victorian `in` design.
+- a serious design `fault`
+- The car has some excellent design `features`.
 
 ## 1368. design ## noun
 /dəˈzɑɪn/ PROCESS
@@ -8443,45 +8443,45 @@
 ## 1370. designer ## noun [C]
 /dəˈzɑɪ.nər/ 
 [B1]someone who draws and plans how something will be made
-- a fashion/software designer
+- a `fashion`/software designer
 
 ## 1371. destination ## noun [C]
 /ˌdes.təˈneɪ.ʃən/ 
 [B1]the place where someone or something is going
-- We arrived at our destination tired and hungry.
-- His letter never reached its destination.
-- The Caribbean is a popular tourist/vacation destination.
+- We `arrived at` our destination tired and hungry.
+- His letter never `reached` its destination.
+- The Caribbean is a popular `tourist`/`vacation` destination.
 
 ## 1372. detail ## noun
 /dɪˈteɪl/ FACT
 [B1]one of many facts or pieces of information about something
-- She insisted on telling me every single detail.
-- We don't know the full/precise details of the story yet.
+- She insisted on telling me `every single` detail.
+- We don't know the `full/precise` details of the story yet.
 
 ## 1373. detail ## noun
 /dɪˈteɪl/ in detail
 [B1]including or considering all the information about something or every part of something
-- We haven't discussed the matter in detail yet.
-- The book described her sufferings in great detail.
+- We haven't `discussed` the matter in detail yet.
+- The book `described` her sufferings in `great` detail.
 
 ## 1374. detective ## noun [C]
 /dɪˈtek.tɪv/ 
 [B1]someone, especially a police officer, whose job is to discover information about a crime
-- a private detective
-- detective stories
+- a `private` detective
+- detective `stories`
 
 ## 1375. development ## noun
 /dɪˈvel.əp.mənt/ CHANGE
 [B1]when someone or something grows or changes and becomes more advanced
 - healthy growth and development
-- The program traced the development of popular music through the ages.
-- a development project in Pakistan
+- The program traced the development `of` popular music through the ages.
+- a development `project` in Pakistan
 
 ## 1376. development ## noun
 /dɪˈvel.əp.mənt/ PROCESS
 [B1]the process of developing something new
 - the development of new drugs
-- Mr. Berkowitz is in charge of product development.
+- Mr. Berkowitz is in charge of `product` development.
 
 ## 1377. diagram ## noun [C]
 /ˈdɑɪ.əˌgræm/ 
@@ -8491,45 +8491,45 @@
 ## 1378. diet ## noun
 /ˈdɑɪ.ət/ USUAL FOOD
 [B1]the type of food that someone usually eats
-- a healthy/balanced diet
-- The children seem to exist on a diet of burgers and french fries.
+- a `healthy/balanced` diet
+- The children seem to exist on a diet `of` burgers and french fries.
 
 ## 1379. diet ## noun
 /ˈdɑɪ.ət/ WEIGHT LOSS
 [B1]when someone eats less food, or only particular types of food, because they want to become thinner or for medical reasons
-- I'm going on a diet next week and hope to lose five pounds before Christmas.
-- The doctor put me on a low-salt diet to reduce my blood pressure.
+- I'm `going on` a diet next week and hope to lose five pounds before Christmas.
+- The doctor `put` me `on` a low-salt diet to reduce my blood pressure.
 
 ## 1380. difference ## noun
 /ˈdɪf.rəns/ AMOUNT
 [B1]the amount by which one thing is different from another
-- a(n) age/price/temperature difference
-- There's a big difference in age between them.
+- a(n) `age/price/temperature` difference
+- There's a big difference `in` age `between` them.
 
 ## 1381. difficulty ## noun
 /ˈdɪf.ə.kəl.ti/ NOT EASY
 [B1]when something is not easy to do or understand
-- We finished the job, but only with great difficulty.
-- The difficulty of the task excited them.
-- She had great difficulty finding a job.
+- We finished the job, but only `with` great difficulty.
+- The difficulty `of` the task excited them.
+- She `had` great difficulty finding a job.
 
 ## 1382. direction ## noun
 /dəˈrek.ʃən/ WAY
 [B1]the way that someone or something is moving or facing
-- No, go that way, I said, pointing in the opposite direction.
-- He was going in the direction of the bedroom.
+- No, go that way, I said, pointing `in` the opposite direction.
+- He was going `in` the direction `of` the bedroom.
 - They drove away in opposite directions.
 
 ## 1383. director ## noun [C]
 /dəˈrek.tər/ MANAGER
 [B1]an important manager in an organization or company
-- the board of directors
-- She was appointed director of the new information center.
+- the `board of` directors
+- She was appointed director `of` the new information center.
 
 ## 1384. director ## noun [C]
 /dəˈrek.tər/ MOVIE/PLAY
 [B1]someone who tells the actors in a movie or play what to do
-- a famous film/movie director
+- a famous `film/movie` director
 
 ## 1385. dirt ## noun [U]
 /dɜrt/ 
@@ -8539,20 +8539,20 @@
 ## 1386. disadvantage ## noun [C]
 /ˌdɪs.ədˈvæn.t̬ɪdʒ/ MAKING DIFFICULT
 [B1]something which makes a situation more difficult, or makes you less likely to succeed
-- One disadvantage of living in the town is the lack of safe places for the children to play.
+- One disadvantage `of` living in the town is the lack of safe places for the children to play.
 - We need to consider whether the disadvantages of the plan outweigh the advantages.
 
 ## 1387. disappointment ## noun
 /ˌdɪs.əˈpɔɪnt.mənt/ FEELING
 [B1]the feeling of being disappointed
-- Book early to avoid disappointment.
-- To my (great) disappointment, he decided to leave.
+- Book early to `avoid` disappointment.
+- `To` my `(great)` disappointment, he decided to leave.
 
 ## 1388. disappointment ## noun
 /ˌdɪs.əˈpɔɪnt.mənt/ PERSON/THING
 [B1]something or someone that disappoints you
-- The party turned out to be a big / huge / great disappointment.
-- I'm afraid I've been a disappointment to my parents.
+- The party turned out to be a `big / huge / great` disappointment.
+- I'm afraid I've been a disappointment `to` my parents.
 
 ## 1389. disc jockey ## noun [C]
 /ˈdɪskˌdʒɑk.i/ 
@@ -8562,23 +8562,23 @@
 ## 1390. discussion ## noun [C or U]
 /dɪˈskʌʃ.ən/ 
 [B1]when people talk about something and tell each other their ideas or opinions
-- They were having a discussion about football.
-- I can say nothing - the matter is still under discussion.
-- Management is holding/having discussions with the union about possible layoffs.
+- They were having a discussion `about` football.
+- I can say nothing - the matter is still `under` discussion.
+- Management is `holding/having` discussions `with` the union about possible layoffs.
 
 ## 1391. disease ## noun [C or U]
 /dəˈziːz/ 
 [B1](an) illness caused by infection or by a failure of health rather than by an accident
-- heart disease
-- a common/rare disease
-- They reported a sudden outbreak of the disease in the south of the country.
-- The first symptom of the disease is a very high temperature.
+- `heart` disease
+- a `common/rare` disease
+- They reported a sudden `outbreak of` the disease in the south of the country.
+- The first `symptom of` the disease is a very high temperature.
 - Starvation and disease have killed thousands of refugees.
 
 ## 1392. dishwasher ## noun [C]
 /ˈdɪʃˌwɑʃ.ər/ 
 [B1]a machine that washes dirty plates, cups, forks, etc.
-- I was just loading the dishwasher.
+- I was just `loading` the dishwasher.
 
 ## 1393. disk ## noun [C]
 /dɪsk/ RECORDING
@@ -8588,8 +8588,8 @@
 ## 1394. disk ## noun [C]
 /dɪsk/ COMPUTER STORAGE
 [B1]a piece of computer equipment that records and stores information electronically
-- the hard disk
-- How much disk space is there?
+- the `hard` disk
+- How much disk `space` is there?
 
 ## 1395. dislike ## noun
 /dɪsˈlɑɪk/ likes and dislikes
@@ -8614,15 +8614,15 @@
 ## 1399. distance ## noun
 /ˈdɪs.təns/ LENGTH
 [B1]the amount of space between two places
-- What's the distance between Madrid and Barcelona/from Madrid to Barcelona?
+- What's the distance `between` Madrid and Barcelona/`from` Madrid `to` Barcelona?
 - He travels quite a distance to work every day.
-- Does she live withinwalking distance of her parents?
+- Does she live `within``walking` distance of her parents?
 
 ## 1400. district ## noun [C]
 /ˈdɪs.trɪkt/ 
 [B1]a part of a city or country, either an official area or one that is known for having a particular feature or characteristic
 - the 23rd Congressional District Council
-- the financial/business district
+- the `financial/business` district
 - the Lake District/the Historic District
 
 ## 1401. diver ## noun [C]
@@ -8633,15 +8633,15 @@
 ## 1402. diving ## noun [U]
 /ˈdɑɪv.ɪŋ/ 
 [B1]the activity of swimming under water, usually with breathing equipment
-- I want to go diving in Malta.
+- I want to `go` diving in Malta.
 
 ## 1403. divorce ## noun [C or U]
 /dəˈvɔːrs/ 
 [B1]when two people officially stop being married
-- The last I heard they were getting a divorce.
+- The last I heard they were `getting a` divorce.
 - Divorce is on the increase.
 - Ellie wants a divorce.
-- What are the chances of a marriage ending in divorce?
+- What are the chances of a marriage `ending in` divorce?
 
 ## 1404. document ## noun [C]
 /ˈdɑk.jə.mənt/ ON COMPUTER
@@ -8652,7 +8652,7 @@
 /ˌdɑk.jəˈmen.t̬ə.ri/ 
 [B1]a film, television or radio program that gives facts and information about a subject
 - The documentary took a fresh look at the life of Darwin.
-- They showed a documentary on animal communication.
+- They showed a documentary `on` animal communication.
 
 ## 1406. dolphin ## noun [C]
 /ˈdɑl.fɪn/ 
@@ -8672,36 +8672,36 @@
 ## 1409. doubt ## noun [C or U]
 /dɑʊt/ NOT CERTAIN
 [B1]when you are not certain about something, or do not trust someone or something
-- I'm having doubts about his ability to do the job.
-- If there's any doubt about the rocket's engines, we ought to cancel the launch.
+- I'm `having` doubts `about` his ability to do the job.
+- If there's any doubt `about` the rocket's engines, we ought to cancel the launch.
 
 ## 1410. doubt ## noun [C or U]
 /dɑʊt/ have no doubt
 [B1]to be certain
-- I have no doubt (that) I made the right decision.
-- I never had any doubt (that) you would win.
+- I have no doubt `(that)` I made the right decision.
+- I never had any doubt `(that)` you would win.
 
 ## 1411. doubt ## noun [C or U]
 /dɑʊt/ there's no doubt
 [B1]it is certain
-- There is no doubt (that) he's a good player.
+- There is no doubt `(that)` he's a good player.
 
 ## 1412. download ## noun [C]
  
 [B1]a computer program, music or other information that has been or can be downloaded
-- a free download
+- a `free` download
 
 ## 1413. dozen ## noun [C] ; determiner
 /ˈdʌz.ən/ 
 [B1]twelve
-- a dozen eggs
+- a dozen `eggs`
 - This recipe makes three dozen cookies.
-- Could you get me half a dozen eggs when you go to the store?
+- Could you get me `half a` dozen eggs when you go to the store?
 
 ## 1414. drama ## noun [C or U]
 /ˈdrɑm.ə/ THEATER
 [B1]a play in a theater or on television or radio, or plays and acting generally
-- She's been in several television dramas.
+- She's been in several `television` dramas.
 - He's the drama critic for the Times.
 - She studied English and drama in college.
 
@@ -8715,7 +8715,7 @@
 /driːm/ HOPE
 [B1]something that you want to happen very much but that is not very likely
 - It's always been my dream to take flying lessons.
-- Winning all that money was a dream come true.
+- Winning all that money was a dream `come true`.
 
 ## 1417. drive ## noun
 /drɑɪv/ JOURNEY
@@ -8730,8 +8730,8 @@
 ## 1419. drop ## noun
 /drɑp/ LIQUID
 [B1]a small round-shaped amount of liquid
-- I thought I felt a drop of rain.
-- There were little drops of paint on the kitchen floor.
+- I thought I felt a drop `of` rain.
+- There were little drops `of` paint on the kitchen floor.
 
 ## 1420. drugstore ## noun [C]
 /ˈdrʌg.stɔːr/ 
@@ -8749,8 +8749,8 @@
 ## 1422. duty ## noun
 /ˈduːt̬.i/ RIGHT THING TO DO
 [B1]something that you have to do because it is part of your job, or something that you feel is the right thing to do
-- I felt it was my duty to tell them the truth.
-- He only went to see her out of a sense of duty.
+- I felt it was my duty `to` tell them the truth.
+- He only went to see her `out of` a sense of duty.
 
 ## 1423. earache ## noun [C or U]
 /ˈɪr.eɪk/ 
@@ -8761,7 +8761,7 @@
 /ɜrθ/ PLANET
 [B1]the planet that we live on
 - The Earth takes approximately 365 days to go round the Sun.
-- Swimming in a pool is the best place on Earth to be on a hot day like this.
+- Swimming in a pool is the best place `on` Earth to be on a hot day like this.
 
 ## 1425. economics ## noun [U]
 /ˌiː.kəˈnɑm.ɪks/ 
@@ -8771,24 +8771,24 @@
 ## 1426. edge ## noun [C]
 /edʒ/ OUTER POINT
 [B1]the part of something that is farthest from the center
-- He'd piped fresh cream around the edge of the cake.
-- They built the church on the edge of the village.
+- He'd piped fresh cream around the edge `of` the cake.
+- They built the church `on the` edge `of` the village.
 - I caught my leg on the edge of the table as I walked past.
 - A man was standing at the water's edge with a small boy.
 
 ## 1427. education ## noun [U or no plural]
 /ˌedʒ.ʊˈkeɪ.ʃən/ 
 [B1]the process of teaching or learning in a school or college, or the knowledge that you get from this
-- primary/secondary/adult/university/higher education
-- As a child he received most of his education at home.
+- `primary/secondary/adult/university/higher` education
+- As a child he `received` most of his education at home.
 - It's a country which places great importance on education.
 - It's important for children to get a good education.
 
 ## 1428. effect ## noun
 /ɪˈfekt/ RESULT
 [B1]the result of a particular influence
-- The accident had a big effect on her life.
-- The medicine had the effect of making me sleepy.
+- The accident `had` a big effect `on` her life.
+- The medicine had the effect `of` making me sleepy.
 
 ## 1429. effect ## noun
 /ɪˈfekt/ a sound/special/visual effect
@@ -8798,16 +8798,16 @@
 ## 1430. effort ## noun
 /ˈef.ərt/ ATTEMPT
 [B1]an attempt to do something
-- If we could all make an effort to keep this office neater it would help.
-- In their efforts to reduce crime the city has expanded the police force.
-- He's jogging around the park every morning in an effort to get in shape for the football season.
+- If we could all `make` an effort `to` keep this office neater it would help.
+- `In` their efforts `to` reduce crime the city has expanded the police force.
+- He's jogging around the park every morning `in` an effort `to` get in shape for the football season.
 
 ## 1431. effort ## noun
 /ˈef.ərt/ ENERGY
 [B1]the energy that you need to do something
-- They've put a lot of effort into getting the design of the magazine right.
-- It takes a long time to prepare the dish but the results are so good that it's worth the effort.
-- It would take too much effort to straighten up his bedroom.
+- They've `put` a lot of effort `into` getting the design of the magazine right.
+- It takes a long time to prepare the dish but the results are so good that it's `worth the` effort.
+- It would `take` too much effort to straighten up his bedroom.
 
 ## 1432. elbow ## noun [C]
 /ˈel.boʊ/ 
@@ -8818,14 +8818,14 @@
 /ɪˈlek.ʃən/ 
 [B1]a time when people vote in order to choose someone for a political or official job
 - a presidential election
-- Who do you think will win the election?
-- Local government elections will take place in May.
-- The first election results have started to come in.
+- Who do you think will `win` the election?
+- Local government elections will `take place` in May.
+- The first election `results` have started to come in.
 
 ## 1434. elementary school ## noun [C]
 /el.əˈmen.triˌskuːl/ 
 [B1]a school for children aged 5 to 11 or 13
-- I have two children in elementary school.
+- I have two children `in `elementary school.
 
 ## 1435. embassy ## noun [C]
 /ˈem.bə.si/ 
@@ -8836,10 +8836,10 @@
 ## 1436. emergency ## noun [C or U]
 /ɪˈmɜr.dʒən.si/ 
 [B1]a serious or dangerous situation that needs immediate action
-- Call him - it's an emergency.
-- How would disabled people escape in an emergency?
-- Is the emergency exit suitable for wheelchairs?
-- The pilot of the aircraft was forced to make an emergency landing on Lake Geneva.
+- Call him - `it's an` emergency.
+- How would disabled people escape `in` an emergency?
+- Is the emergency `exit` suitable for wheelchairs?
+- The pilot of the aircraft was forced to make an emergency `landing` on Lake Geneva.
 
 ## 1437. employee ## noun [C]
 /emˌplɔɪˈiː/ 
@@ -8855,9 +8855,9 @@
 ## 1439. employment ## noun [U]
 /ɪmˈplɔɪ.mənt/ 
 [B1]when someone is paid to work for a company or organization
-- full-time/part-time/temporary/permanent/regular employment
+- `full-time/part-time/temporary/permanent/regular` employment
 - Employment levels are unlikely to rise significantly before the end of next year.
-- It's not easy to find employment in the countryside.
+- It's not easy to `find` employment in the countryside.
 
 ## 1440. end ## noun
 /end/ in the end
@@ -8867,7 +8867,7 @@
 ## 1441. ending ## noun [C]
 /ˈen.dɪŋ/ FINAL PART
 [B1]the last part of a story, film, etc.
-- People want love stories with happy endings.
+- People want love stories with `happy` endings.
 
 ## 1442. ending ## noun [C]
 /ˈen.dɪŋ/ WORD
@@ -8877,23 +8877,23 @@
 ## 1443. enemy ## noun
 /ˈen.ə.mi/ PERSON
 [B1]a person who you dislike or oppose
-- He's made a few enemies in this company.
+- He's `made` a few enemies in this company.
 - political enemies
 
 ## 1444. energy ## noun [U]
 /ˈen.ər.dʒi/ STRENGTH
 [B1]the power and ability to be very active without becoming tired
 - Looking after children takes up a lot of time and energy.
-- I was going to go out this evening, but I just don't have the energy.
-- I didn't even have the energy to get out of bed.
+- I was going to go out this evening, but I just don't `have the` energy.
+- I didn't even `have the` energy `to` get out of bed.
 
 ## 1445. energy ## noun [U]
 /ˈen.ər.dʒi/ ELECTRICITY, GAS, ETC.
 [B1]the power that comes from electricity, gas, etc.
-- It is important for us to save energy.
-- We mustn't waste energy.
-- nuclear/wind energy
-- energy conservation/efficiency
+- It is important for us to `save` energy.
+- We mustn't `waste` energy.
+- `nuclear/wind` energy
+- energy `conservation/efficiency`
 
 ## 1446. engineering ## noun [U]
 /ˌen.dʒəˈnɪr.ɪŋ/ 
@@ -8903,7 +8903,7 @@
 ## 1447. entertainment ## noun [C or U]
 /ˌen.tərˈteɪn.mənt/ 
 [B1]shows, movies, television, or other performances or activities that entertain people
-- There is live entertainment in the bar every night.
+- There is `live` entertainment in the bar every night.
 - There's not much in the way of entertainment in this town - just the movie theater and a couple of cafés offering live music.
 
 ## 1448. entrance ## noun
@@ -8915,64 +8915,64 @@
 /ˈen.tri/ INFORMATION
 [B1]a separate piece of information that is recorded in a book such as a dictionary, or on the Internet
 - They've updated a lot of the entries on the website.
-- As his illness progressed, he made fewer entries in his diary.
+- As his illness progressed, he `made` fewer entries in his diary.
 
 ## 1450. entry ## noun
 /ˈen.tri/ PLACE
 [B1]the right or ability to come into or go into a place
-- She was refused entry.
-- A flock of sheep blocked our entry to the village.
+- She was `refused` entry.
+- A flock of sheep blocked our entry `to` the village.
 - I can't go down that street - there's a 'No entry' sign.
 - There's free entry to the exhibition for students after 6 pm.
 
 ## 1451. entry ## noun
 /ˈen.tri/ JOINING OR TAKING PART
 [B1]when you join an organization or take part in a competition
-- Are there lots of exams for entry into the legal profession?
-- Have you filled in your entry form yet?
+- Are there lots of exams for entry `into` the legal profession?
+- Have you filled in your entry `form` yet?
 
 ## 1452. entry ## noun
 /ˈen.tri/ COMPETITION WORK
 [B1]a piece of work that you do to try to win a competition
 - There have been a fantastic number of entries for this year's poetry competition.
-- the winning entries
+- the `winning` entries
 
 ## 1453. environment ## noun
 /enˈvɑɪ.rən.mənt/ the environment
 [B1]the air, land and water where people, animals and plants live
-- We're not doing enough to protect the environment from pollution.
-- The new road may cause damage to the environment.
+- We're not doing enough to `protect` the environment from pollution.
+- The new road may `cause damage to` the environment.
 
 ## 1454. equipment ## noun [U]
 /ɪˈkwɪp.mənt/ 
 [B1]the set of necessary tools, clothing, etc. for a particular purpose
-- office/camping/kitchen equipment
-- electrical equipment
-- This is a really useful piece of equipment.
+- `office/camping/kitchen` equipment
+- `electrical` equipment
+- This is a really useful `piece of` equipment.
 
 ## 1455. essay ## noun [C]
 /ˈes.eɪ/ 
 [B1]a short piece of writing about a particular subject, especially one done by students
-- For homework I want you to write an essay on endangered species.
+- For homework I want you to write an essay `on` endangered species.
 
 ## 1456. event ## noun [C]
 /ɪˈvent/ HAPPENING
 [B1]something that happens, especially something important or unusual
-- Local people have been shocked by recent events in town.
-- The police are trying to determine the series of events that led up to the murder.
+- Local people have been shocked by `recent` events in town.
+- The police are trying to determine the `series of` events that led up to the murder.
 
 ## 1457. event ## noun [C]
 /ɪˈvent/ RACE
 [B1]a race, party, competition, etc. that has been organized for a particular time
 - Over two thousand people took part in the event.
-- They stage big sports events here.
-- They organize a lot of social events.
+- They stage big `sports` events here.
+- They organize a lot of `social` events.
 
 ## 1458. exchange ## noun
 /ɪksˈtʃeɪndʒ/ GIVING
 [B1]when you give something to someone and they give you something else
-- an exchange of ideas/information
-- They were given food and shelter in exchange for work.
+- an exchange ` of ideas/information`
+- They were given food and shelter `in` exchange `for` work.
 
 ## 1459. exchange ## noun
 /ɪksˈtʃeɪndʒ/ STUDENTS
@@ -8993,37 +8993,37 @@
 ## 1462. excuse ## noun [C]
  REASON
 [B1]a reason that you give to explain why you did something wrong
-- What was his excuse for being late?
-- He'd better have a good excuse for not being here!
-- I've never known him to miss a meeting - I'm sure he'll have an excuse.
-- There's no excuse for that sort of behavior.
+- What was his excuse `for` being late?
+- He'd better have a `good` excuse for not being here!
+- I've never known him to miss a meeting - I'm sure he'll `have` an excuse.
+- There's `no` excuse `for` that sort of behavior.
 
 ## 1463. excuse ## noun [C]
  FALSE REASON
 [B1]a false reason that you give to explain why you do something
-- Nick was just looking for an excuse to call her.
-- He'll give any excuse for taking a day off.
+- Nick was just looking for an excuse `to` call her.
+- He'll give `any` excuse `for` taking a day off.
 
 ## 1464. exhibition ## noun [C or U]
 /ˌek.səˈbɪʃ.ən/ 
 [B1]when objects such as paintings are shown to the public
-- to see/visit an exhibition
-- an exhibition center
-- There's a new exhibition of sculpture on at the main gallery.
+- to `see/visit` an exhibition
+- an exhibition `center`
+- There's a new exhibition `of` sculpture on at the main gallery.
 
 ## 1465. expedition ## noun [C]
 /ˌek.spəˈdɪʃ.ən/ 
 [B1]an organized journey, especially a long one for a particular purpose
-- Shackleton led several expeditions in the Antarctic.
+- Shackleton `led` several expeditions in the Antarctic.
 
 ## 1466. experience ## noun
 /ɪkˈspɪr.iː.əns/ KNOWLEDGE
 [B1]knowledge that you get from doing a job, or from doing, seeing, or feeling something
-- She has a lot of teaching experience.
-- You become more confident in your work as you get more experience.
+- She `has` a lot of teaching experience.
+- You become more confident in your work as you `get` more experience.
 - Do you have any experience working with children?
-- I know from experience that you can't trust him.
-- In my experience, people smile back if you smile at them.
+- I know `from` experience that you can't trust him.
+- `In my` experience, people smile back if you smile at them.
 
 ## 1467. experience ## noun
 /ɪkˈspɪr.iː.əns/ SOMETHING THAT HAPPENS TO YOU
@@ -9034,25 +9034,25 @@
 ## 1468. experiment ## noun [C]
  
 [B1]a test, especially a scientific one, that you do in order to learn something or to discover whether something is true
-- Some people believe that experiments on animals should be banned.
-- Scientists are carrying out/doing experiments to test the effectiveness of the new drug.
+- Some people believe that experiments `on` animals should be banned.
+- Scientists are `carrying out/doing` experiments `to` test the effectiveness of the new drug.
 
 ## 1469. expert ## noun [C]
 /ˈek.spɜrt/ 
 [B1]someone who has a lot of skill in something or a lot of knowledge of something
 - a computer/gardening/medical expert
-- He's an expert on Japanese literature.
+- He's an expert `on` Japanese literature.
 
 ## 1470. explanation ## noun [C or U]
 /ˌek.spləˈneɪ.ʃən/ 
 [B1]the details or reasons that someone gives to make something clear or easy to understand
-- What was her explanation for why she was late?
-- Could you give me a quick explanation of how it works?
+- What was her explanation `for` why she was late?
+- Could you `give` me a quick explanation `of` how it works?
 
 ## 1471. extra ## noun [C]
 /ˈek.strə/ SOMETHING MORE
 [B1]something that you can get with something else if you pay a little more money
-- A sunroof is an optional extra on this model of the car.
+- A sunroof is an `optional` extra on this model of the car.
 
 ## 1472. extreme sports ## noun [C or U]
 /ɪkˌstriːmˈspɔːrts/ 
@@ -9072,7 +9072,7 @@
 ## 1475. facility ## noun [C]
 /fəˈsɪl.ət̬.i/ BUILDING
 [B1]a building or other place provided for a particular purpose
-- a training/research/medical facility
+- a `training/research/medical` facility
 - The team has training facilities in New York and Florida.
 
 ## 1476. fact ## noun
@@ -9090,15 +9090,15 @@
 ## 1478. fall ## noun
 /fɔːl/ LOWER AMOUNT
 [B1]when the size, amount or strength of something gets lower
-- the recent fall in the price of gas
-- a fall in the unemployment rate
-- We could hear the rise and fall of voices in the other room.
+- the recent fall `in` the price of gas
+- a fall `in` the unemployment rate
+- We could hear the `rise and` fall of voices in the other room.
 
 ## 1479. family ## noun
 /ˈfæm.ə.li/ CHILDREN
 [B1]the children of a family
-- He's a single parent raising a family on his own.
-- Paul and Alison are hoping to start a family soon.
+- He's a single parent `raising` a family on his own.
+- Paul and Alison are hoping to `start` a family soon.
 
 ## 1480. fan ## noun [C]
 /fæn/ MACHINE/OBJECT
@@ -9108,7 +9108,7 @@
 ## 1481. fare ## noun [C]
 /fer/ 
 [B1]the money that you pay for a journey on a vehicle such as a bus or train
-- Air/Bus/Train fares are going up again.
+- `Air/Bus/Train` fares are going up again.
 
 ## 1482. farming ## noun [U]
 /ˈfɑr.mɪŋ/ 
@@ -9118,13 +9118,13 @@
 ## 1483. fashion ## noun
 /ˈfæʃ.ən/ BUSINESS
 [B1]making and selling clothes
-- the fashion industry
-- fashion magazines
+- the fashion `industry`
+- fashion `magazines`
 
 ## 1484. faucet ## noun [C]
 /ˈfɔː.sət/ 
 [B1]the part at the end of a pipe that controls the flow of water
-- Turn on/off the faucet.
+- `Turn on/off` the faucet.
 - The faucet in the bathroom sink is leaking.
 
 ## 1485. fault ## noun
@@ -9136,8 +9136,8 @@
 ## 1486. favor ## noun
 /ˈfeɪ.vər/ HELP
 [B1]something that you do to help someone
-- She called up to ask me a favor.
-- Could you do me a favor - could you give this to Sean, please?
+- She called up to `ask` me a favor.
+- Could you `do` me a favor - could you give this to Sean, please?
 
 ## 1487. favorite ## noun [C]
 /ˈfeɪ.və.rɪt/ 
@@ -9147,55 +9147,55 @@
 ## 1488. fear ## noun [C or U]
 /fɪr/ BAD FEELING
 [B1]a strong, unpleasant feeling that you get when you think that something bad, dangerous, or frightening might happen
-- her fear of snakes
-- Shaking/Trembling with fear, she handed over the money to the gunman.
-- There are fears that the disease will spread to other countries.
-- Fears for her safety are growing.
-- The low profit figures simply confirmed my worst fears.
+- her fear `of` snakes
+- `Shaking/Trembling with` fear, she handed over the money to the gunman.
+- There are fears `that` the disease will spread to other countries.
+- Fears `for` her safety are growing.
+- The low profit figures simply confirmed my `worst` fears.
 
 ## 1489. fee ## noun [C]
 /fiː/ 
 [B1]an amount of money that you pay to do something, to use something, or to get a service
-- legal/late fees
-- an admission/registration fee
+- `legal/late` fees
+- an `admission/registration` fee
 
 ## 1490. feeling ## noun
 /ˈfiː.lɪŋ/ EMOTION
 [B1]emotion
-- a feeling of joy/sadness
-- The feeling of loneliness was suddenly too much for him.
+- a feeling of `joy/sadness`
+- The feeling `of` loneliness was suddenly too much for him.
 - Her performance seemed to me completely lacking in feeling.
 
 ## 1491. feeling ## noun
 /ˈfiː.lɪŋ/ feelings
 [B1]Your feelings are your beliefs and emotions, especially those influenced by other people.
-- You can't hide your feelings from me.
-- I didn't want to hurt his feelings, so I didn't tell him what she'd said about him.
+- You can't `hide` your feelings from me.
+- I didn't want to `hurt` his feelings, so I didn't tell him what she'd said about him.
 
 ## 1492. feeling ## noun
 /ˈfiː.lɪŋ/ IDEA
 [B1]an idea that something is true or exists
-- I had the strange feeling that we had met before.
-- I got the feeling that she was unhappy with the arrangement.
+- I `had` the strange feeling that we had met before.
+- I `got` the feeling that she was unhappy with the arrangement.
 
 ## 1493. feeling ## noun
 /ˈfiː.lɪŋ/ PHYSICAL SENSE
 [B1]when you feel something physical
-- I've got this odd feeling in my stomach.
+- I've got this odd feeling `in` my stomach.
 - My toes were so cold that I'd lost all feeling in them.
 
 ## 1494. ferry ## noun [C]
 /ˈfer.i/ 
 [B1]a boat that regularly carries passengers and often vehicles across an area of water
 - a car ferry
-- We're going across to France by/on the ferry.
-- We took the ferry to Staten Island.
+- We're going across to France `by`/`on the` ferry.
+- We `took` the ferry to Staten Island.
 
 ## 1495. festival ## noun [C]
 /ˈfes.tə.vəl/ PERFORMANCES
 [B1]a series of special events, performances, etc. that often takes place over several days
-- a film/music/jazz festival
-- The Aldeburgh Festival is held every year in June.
+- a `film/music/jazz` festival
+- The Aldeburgh Festival is `held` every year in June.
 - the Cannes Film Festival
 
 ## 1496. festival ## noun [C]
@@ -9206,12 +9206,12 @@
 ## 1497. fever ## noun
 /ˈfiː.vər/ ILLNESS
 [B1]when someone's body temperature rises because they are ill
-- He's got a headache and a high/slight fever.
+- He's got a headache and a `high/slight` fever.
 
 ## 1498. fiction ## noun
 /ˈfɪk.ʃən/ STORIES
 [B1]literature and stories about imaginary characters and events
-- The book is a work of fiction and not intended as a historical account.
+- The book is a `work of` fiction and not intended as a historical account.
 - a writer of children's fiction
 
 ## 1499. field ## noun
@@ -9228,16 +9228,16 @@
 ## 1501. fight ## noun [C]
 /fɑɪt/ PHYSICAL FORCE
 [B1]when people use physical force to hurt or attack others
-- Jeff's always getting into/starting fights.
-- The older boys broke up the fight.
-- He put up a fight when the police tried to arrest him.
+- Jeff's always `getting into/starting` fights.
+- The older boys `broke up` the fight.
+- He `put up a` fight when the police tried to arrest him.
 
 ## 1502. figure ## noun [C]
 /ˈfɪg.jər/ NUMBER
 [B1]the symbol for a number or an amount expressed in numbers
 - Can you read this figure? Is it a three or an eight?
 - Write the amount in both words and figures.
-- I looked quickly down the column of figures.
+- I looked quickly down the `column of` figures.
 - He earns a six-figure salary.
 
 ## 1503. figure ## noun [C]
@@ -9249,8 +9249,8 @@
 /fɪlm/ PICTURE
 [B1]a story shown in moving pictures, shown at a movie theater or on television
 - She's an artist who makes experimental films.
-- a film critic
-- the film industry
+- a film `critic`
+- the film `industry`
 
 ## 1505. film-maker ## noun [C]
 /ˈfɪlm.meɪ.kər/ 
@@ -9260,23 +9260,23 @@
 ## 1506. final ## noun [C]
 /ˈfɑɪn.əl/ 
 [B1]the last in a series of games, races or competitions, usually the one in which the winner is chosen
-- They're in the final.
+- They're `in the` final.
 - The men's basketball finals will be broadcast Sunday.
 
 ## 1507. fine ## noun [C]
 /fɑɪn/ 
 [B1]an amount of money that you must pay for breaking a rule or law
-- She had to pay a fine.
-- a parking fine
+- She had to `pay` a fine.
+- a `parking` fine
 - The maximum penalty is a $1000 fine.
-- If found guilty, he faces a heavy fine.
+- If found guilty, he faces a `heavy` fine.
 
 ## 1508. finish ## noun [C]
 /ˈfɪn.ɪʃ/ 
 [B1]the end of a race, or the last part of something
 - a close finish
 - They replayed the finish in slow motion.
-- I enjoyed the film from start to finish.
+- I enjoyed the film `from start to` finish.
 
 ## 1509. fire ## noun
 /fɑɪr/ catch fire
@@ -9291,9 +9291,9 @@
 ## 1511. fire ## noun
 /fɑɪr/ NATURAL HEAT
 [B1]a small controlled fire that is used for heating or cooking
-- It's very cold in here - should I light a fire?
-- We built a fire on the beach.
-- We put up our tents and made a small fire.
+- It's very cold in here - should I `light` a fire?
+- We `built` a fire on the beach.
+- We put up our tents and `made` a small fire.
 
 ## 1512. fire station ## noun [C]
 /ˈfɑɪrˌsteɪ.ʃən/ 
@@ -9308,16 +9308,16 @@
 ## 1514. firework ## noun [usually plural]
 /ˈfɑɪr.wɜrk/ 
 [B1]a small object that explodes to produce a loud noise and bright colors, often used to celebrate special events
-- a fireworks display
-- When it gets dark they'll set off the fireworks.
+- a fireworks `display`
+- When it gets dark they'll `set off` the fireworks.
 - What time do the fireworks start?
 
 ## 1515. first ## noun
 /fɜrst/ the first
 [B1]the first person or thing to do or be something, or the first person or thing mentioned
-- Tonight sees the first of three documentaries about cancer.
-- She was one of the first to arrive.
-- He is the first to admit that much of his success is due to his good looks.
+- Tonight sees the first `of` three documentaries about cancer.
+- She was `one of` the first `to` arrive.
+- He is the first `to` admit that much of his success is due to his good looks.
 
 ## 1516. fitness ## noun [U]
 /ˈfɪt.nəs/ 
@@ -9328,14 +9328,14 @@
 /flæg/ 
 [B1]a piece of cloth with a special design and colors, that is the symbol of a country or a group, or has a particular meaning
 - the Brazilian flag
-- Flags of all twenty-seven countries are flying outside the building.
+- Flags of all twenty-seven countries are `flying` outside the building.
 - Colorful flags decorated the hall.
 
 ## 1518. flavor ## noun
 /ˈfleɪ.vər/ TASTE
 [B1]the way a food or drink tastes, or a particular taste itself
-- Add a little salt to bring out the flavor of the herbs.
-- My fish was delicious but Juan's beef had almost no flavor.
+- Add a little salt to bring out the flavor `of` the herbs.
+- My fish was delicious but Juan's beef had almost `no` flavor.
 - We sell 32 different flavors of ice cream.
 
 ## 1519. flood ## noun [C]
@@ -9346,7 +9346,7 @@
 ## 1520. floor ## noun [C]
 /flɔːr/ AREA
 [B1]an area where a particular activity happens
-- a dance floor
+- a `dance` floor
 
 ## 1521. flour ## noun [U]
 /flɑʊr/ 
@@ -9357,7 +9357,7 @@
 /fluː/ 
 [B1]an infectious illness which is like a very bad cold, but which causes a fever
 - a flu virus
-- I had the flu last week.
+- I `had the` flu last week.
 
 ## 1523. flute ## noun [C]
 /fluːt/ 
@@ -9382,7 +9382,7 @@
 ## 1527. fool ## noun
 /fuːl/ PERSON
 [B1]a stupid person
-- I was a fool to trust him.
+- I was a fool `to` trust him.
 - I felt like a complete fool.
 - He's a fool if he thinks she's interested.
 
@@ -9396,12 +9396,12 @@
 ## 1529. forecast ## noun [C]
 /ˈfɔːr.kæst/ 
 [B1]a report saying what the weather is likely to be like
-- The weather forecast said it was going to rain later today.
+- The `weather` forecast said it was going to rain later today.
 
 ## 1530. forehead ## noun [C]
 /ˈfɑr.əd/ 
 [B1]the flat part of the face, above the eyes and below the hair
-- She's got a high forehead.
+- She's got a `high` forehead.
 
 ## 1531. foreigner ## noun [C]
 /ˈfɔːr.ə.nər/ 
@@ -9423,7 +9423,7 @@
 ## 1534. frame ## noun [C]
 /freɪm/ BORDER
 [B1]a border that surrounds and supports a picture, door or window
-- a picture/window frame
+- a `picture/window` frame
 
 ## 1535. freezer ## noun [C]
 /ˈfriː.zər/ 
@@ -9454,7 +9454,7 @@
 ## 1540. friendship ## noun [C or U]
 /ˈfrend.ʃɪp/ 
 [B1]when two people are friends
-- a close friendship
+- a `close` friendship
 - I value her friendship above anything else.
 
 ## 1541. frog ## noun [C]
@@ -9466,7 +9466,7 @@
 /frʌnt/ in front
 [B1]further forward than someone or something else
 - The car in front suddenly stopped and I ran into the back of it.
-- She started talking to the man in front of her.
+- She started talking to the man in front `of` her.
 
 ## 1543. frying pan ## noun [C]
 /ˈfrɑɪ.ɪŋˌpæn/ 
@@ -9487,16 +9487,16 @@
 ## 1546. fur ## noun [U]
 /fɜr/ 
 [B1]the thick hair that covers the bodies of some animals, like cats or rabbits
-- She stroked the rabbit's soft fur.
+- She stroked the rabbit's `soft` fur.
 
 ## 1547. future ## noun
 /ˈfjuː.tʃər/ the future
 [B1]the time that is to come
 - Do you worry about the future?
-- We need to plan for the future.
-- I wonder what the future holds for you and me.
-- I'm sure at some point in the future I'll want to change jobs.
-- Do you plan to leave Houston in the near future?
+- We need to `plan for` the future.
+- I wonder what the future `holds` for you and me.
+- I'm sure at some point `in` the future I'll want to change jobs.
+- Do you plan to leave Houston `in the near` future?
 
 ## 1548. future ## noun
 /ˈfjuː.tʃər/ in the future
@@ -9507,7 +9507,7 @@
 ## 1549. future ## noun
 /ˈfjuː.tʃər/ SUCCESS
 [B1]the chance of continuing to exist or succeed
-- There's no future in this line of work.
+- There's `no` future in this line of work.
 
 ## 1550. gallery ## noun [C]
 /ˈgæl.ə.ri/ 
@@ -9517,19 +9517,19 @@
 ## 1551. garage ## noun [C]
 /gəˈrɑʒ/ BUSINESS
 [B1]a business that repairs cars, and sometimes also sells fuel
-- The car's still at the garage getting fixed.
+- The car's still `at` the garage getting fixed.
 
 ## 1552. garbage ## noun [U]
 /ˈgɑr.bɪdʒ/ THINGS THROWN AWAY
 [B1]food waste and other things that you throw away because you do not want them
-- a garbage bag/can
-- Please take out the garbage.
-- We were stuck driving behind a garbage truck.
+- a garbage `bag/can`
+- Please `take out` the garbage.
+- We were stuck driving behind a garbage `truck`.
 
 ## 1553. gas ## noun
 /gæs/ FUEL
 [B1]a substance in a form like air that is used as a fuel for heating and cooking
-- a gas stove
+- a gas `stove`
 - Do you prefer cooking with electricity or gas?
 
 ## 1554. gate ## noun [C]
@@ -9540,13 +9540,13 @@
 ## 1555. generation ## noun
 /ˌdʒen.əˈreɪ.ʃən/ PEOPLE
 [B1]all the people in a society or family who are approximately the same age
-- the older/younger generation
+- the `older/younger` generation
 - This is the story of three generations of women.
 
 ## 1556. ghost ## noun [C]
 /goʊst/ 
 [B1]the spirit of a dead person
-- Do you believe in ghosts?
+- Do you `believe in` ghosts?
 
 ## 1557. giraffe ## noun [C]
 /dʒəˈræf/ 
@@ -9561,9 +9561,9 @@
 ## 1559. goal ## noun [C]
 /goʊl/ AIM
 [B1]an aim or purpose
-- Do you think I'll be able to achieve my goal of losing 10 pounds?
+- Do you think I'll be able to `achieve` my goal of losing 10 pounds?
 - Andy's goal is to run in the New York Marathon.
-- Always set realistic goals for yourself.
+- Always `set` realistic goals `for` yourself.
 
 ## 1560. goalkeeper ## noun [C]
 /ˈgoʊlˌkiː.pər/ 
@@ -9573,8 +9573,8 @@
 ## 1561. goat ## noun [C]
 /goʊt/ 
 [B1]an animal with horns which is kept to provide milk, meat, etc.
-- goat cheese
-- goat's milk
+- goat `cheese`
+- goat's `milk`
 
 ## 1562. god ## noun [C]
 /gɑd/ Oh my God!
@@ -9595,13 +9595,13 @@
 ## 1565. grade ## noun [C]
 /greɪd/ SCORE
 [B1]a number or letter that shows how good someone's work or performance is
-- Steve never studies, but he always gets good grades.
+- Steve never studies, but he always `gets` good grades.
 - Carla's German grade was an A.
 
 ## 1566. graduation ## noun
 /ˌgrædʒ.uˈeɪ.ʃən/ CEREMONY
 [B1]a ceremony at which students are given a certificate stating a course of study has been successfully completed or a degree has been awarded
-- Ann decided not to go to graduation.
+- Ann decided not to `go to` graduation.
 - We all went out to lunch after Casey's graduation.
 
 ## 1567. graduation ## noun
@@ -9613,27 +9613,27 @@
 ## 1568. graphics ## noun [plural]
 /ˈgræf.ɪks/ 
 [B1]images shown on a computer screen
-- computer graphics
+- `computer` graphics
 
 ## 1569. greeting ## noun [C]
 /ˈgriːt̬.ɪŋ/ 
 [B1]something friendly or polite that you say or do when you meet or welcome someone
-- They exchanged greetings before starting the session.
+- They `exchanged` greetings before starting the session.
 
 ## 1570. grill ## noun [C]
 /grɪl/ 
 [B1]a piece of equipment with a frame of metal bars for cooking food, usually over a fire
-- Put the burgers on the grill.
+- Put the burgers `on` the grill.
 
 ## 1571. groceries ## noun [plural]
 /ˈgroʊ.sə.riːz/ 
 [B1]food and other things you buy in a food store
-- We usually shop for groceries on Saturday.
+- We usually `shop for` groceries on Saturday.
 
 ## 1572. groom ## noun [C]
 /gruːm/ 
 [B1]a man who is getting married
-- The bride and groom were posing for pictures.
+- The `bride and` groom were posing for pictures.
 
 ## 1573. ground ## noun
 /grɑʊnd/ the ground
@@ -9643,21 +9643,21 @@
 ## 1574. guard ## noun [C]
 /gɑrd/ PERSON WHO PROTECTS
 [B1]someone whose job is to protect a person, place or thing from danger or attack, or to prevent a person such as a criminal from escaping
-- a security guard
-- prison guards
-- The frontier is patrolled by border guards.
+- a `security` guard
+- `prison` guards
+- The frontier is patrolled by `border` guards.
 
 ## 1575. guess ## noun [C]
 /ges/ 
 [B1]an attempt to give the right answer when you are not certain if you are correct
 - How old do you think John is? Go on, take a guess.
-- Both teams made some wild guesses, none of them right.
+- Both teams made some `wild` guesses, none of them right.
 
 ## 1576. guide ## noun [C]
 /gɑɪd/ BOOK
 [B1]a book that gives information about something or tells you how to do something
-- a hotel/restaurant guide
-- a user's guide
+- a `hotel/restaurant` guide
+- a `user's` guide
 
 ## 1577. guitarist ## noun [C]
 /gəˈtɑr.ɪst/ 
@@ -9683,10 +9683,10 @@
 /ˈhæb.ɪt/ REGULAR ACTIVITY
 [B1]something that you do often and regularly, almost without knowing that you are doing it
 - healthy eating habits
-- I always buy the same toothpaste out of habit.
-- I'm trying not to get into the habit of watching TV all the time.
-- He can't break the habit of putting sugar in his coffee.
-- They weren't in the habit of recycling.
+- I always buy the same toothpaste `out of` habit.
+- I'm trying not to `get into` the habit of watching TV all the time.
+- He can't `break` the habit of putting sugar in his coffee.
+- They weren't `in the` habit `of` recycling.
 
 ## 1582. hair dryer ## noun [C]
 /ˈherˌ drɑɪ.ər/ 
@@ -9696,8 +9696,8 @@
 ## 1583. haircut ## noun [C]
 /ˈher.kʌt/ 
 [B1]when someone cuts your hair, or the style in which it has been cut
-- to get a haircut
-- I really need a haircut.
+- to `get` a haircut
+- I really `need` a haircut.
 - I like your new haircut.
 
 ## 1584. hairdresser ## noun [C]
@@ -9720,8 +9720,8 @@
 ## 1587. hand ## noun [C]
 /hænd/ a hand
 [B1]some help, especially to do something practical
-- Could you give me a hand with these suitcases?
-- I think Matthew might need a hand with his homework.
+- Could you `give` me a hand with these suitcases?
+- I think Matthew might `need` a hand with his homework.
 
 ## 1588. hand ## noun [C]
 /hænd/ by hand
@@ -9743,7 +9743,7 @@
 /ˈhæp.iː.nəs/ 
 [B1]the feeling of being happy
 - It was only later in life that she found happiness and peace of mind.
-- Will you join me in wishing the bride and groom every happiness?
+- Will you join me in wishing the bride and groom `every` happiness?
 
 ## 1592. harbor ## noun [C]
 /ˈhɑr.bər/ 
@@ -9766,12 +9766,12 @@
 /hed/ MIND
 [B1]the mind and mental abilities
 - All these thoughts were going through my head.
-- What put that (idea)into your head?
+- What put that `(idea)``into` your head?
 
 ## 1596. headline ## noun [C]
 /ˈhed.lɑɪn/ IN NEWSPAPER
 [B1]the title of a newspaper story that is printed in large letters above it
-- a front-page headline
+- a `front-page` headline
 
 ## 1597. heart ## noun
 /hɑrt/ EMOTIONS
@@ -9782,12 +9782,12 @@
 /hɑrt/ the heart of sth
 [B1]the center of something or the most important part of something
 - Kansas City is in the heart of cattle country.
-- Economic issues are at the heart of the debate.
+- Economic issues are `at ` the heart of the debate.
 
 ## 1599. heart attack ## noun [C]
 /ˈhɑrt̬.əˌtæk/ 
 [B1]a serious medical condition in which the heart does not get enough blood, causing great pain and often leading to death
-- John had a heart attack three years ago.
+- John `had` a heart attack three years ago.
 
 ## 1600. heat ## noun [U]
 /hiːt/ 
@@ -9795,13 +9795,13 @@
 - the heat of the sun/fire
 - How do you manage to work in this heat without air conditioning?
 - She always wore a coat, even in the heat of summer.
-- Cook the sauce on high/medium/low heat.
+- Cook the sauce `on high/medium/low` heat.
 
 ## 1601. heater ## noun [C]
 /ˈhiːt̬.ər/ 
 [B1]a machine that heats air or water
 - The heater comes on automatically.
-- Turn your water heater down to 120 degrees to save energy.
+- Turn your `water` heater down to 120 degrees to save energy.
 
 ## 1602. heel ## noun [C]
 /hiːl/ SHOE PART
@@ -9813,7 +9813,7 @@
 [B1]how tall or high something or someone is
 - She's about my height.
 - The sheer height of New York's skyscrapers is so impressive.
-- The tower measures 305 feet in height.
+- The tower measures 305 feet `in` height.
 
 ## 1604. height ## noun [C or U]
 /hɑɪt/ HOW FAR UP
@@ -9828,15 +9828,15 @@
 ## 1606. herb ## noun [C]
 /ɜrb/ 
 [B1]a plant that is used in cooking to add flavor to food or is used in medicines
-- dried/fresh herbs
+- `dried/fresh` herbs
 - Basil, oregano, thyme and rosemary are all herbs.
-- A large range of herbs and spices are used in South Asian cooking.
+- A large range of herbs `and spices` are used in South Asian cooking.
 
 ## 1607. hero ## noun [C]
 /ˈhɪr.oʊ/ BRAVE PERSON
 [B1]someone who does something brave or good, which people respect or admire them for
 - a war hero
-- He became a national hero for his part in the revolution.
+- He became a `national` hero for his part in the revolution.
 - They consider her a hero.
 - Graham says he'll take my parents to the airport at four o'clock in the morning - what a hero!
 
@@ -9850,14 +9850,14 @@
 [B1]a thing or person that is very popular or successful
 - The Beatles had a string of number-one hits in the 1960s.
 - Your cake was a real hit at the party - everyone loved it.
-- They just released a CD of their greatest hits.
+- They just released a CD of their `greatest` hits.
 
 ## 1610. hole ## noun [C]
 /hoʊl/ 
 [B1]a hollow space in something, or an opening in a surface
 - a bullet hole
-- There's a hole in the roof.
-- We dug a hole to plant the tree.
+- There's a hole `in` the roof.
+- We `dug` a hole to plant the tree.
 
 ## 1611. home ## noun
 /hoʊm/ feel at home
@@ -9867,14 +9867,14 @@
 ## 1612. honeymoon ## noun [C]
 /ˈhʌn.i.muːn/ 
 [B1]a vacation taken by two people who have just gotten married
-- We went to the Bahamas on our honeymoon.
+- We went to the Bahamas `on` our honeymoon.
 
 ## 1613. hope ## noun [C or U]
 /hoʊp/ 
 [B1]a positive feeling about the future, or something that you want to happen or be true
 - a message full of hope
-- What are your hopes for the future?
-- Don't give up hope - I'm sure he'll be fine.
+- What are your hopes `for` the future?
+- Don't `give up` hope - I'm sure he'll be fine.
 - Young people are growing up in our cities without any hope of getting a job.
 
 ## 1614. horror ## noun [U]
@@ -9895,19 +9895,19 @@
 ## 1617. hour ## noun [C]
 /ɑʊr/ hours
 [B1]a long time
-- I spent hours doing my homework.
-- They kept us waiting for hours and hours.
+- I `spent` hours doing my homework.
+- They kept us waiting for hours `and hours`.
 
 ## 1618. housework ## noun [U]
 /ˈhɑʊs.wɜrk/ 
 [B1]the work of keeping a house clean and neat
-- I hate doing housework.
+- I hate `doing` housework.
 
 ## 1619. hug ## noun [C]
 /hʌg/ 
 [B1]when you put your arms around someone and hold them tightly
-- Come here and give me a big hug.
-- We always exchange hugs and kisses when we meet.
+- Come here and `give` me a `big` hug.
+- We always exchange hugs `and kisses` when we meet.
 
 ## 1620. human ## noun [C]
 /ˈhjuː.mən/ 
@@ -9922,17 +9922,17 @@
 ## 1622. hunger ## noun
 /ˈhʌŋ.gər/ NEED FOR FOOD
 [B1]the feeling you have when you need to eat or have not eaten enough
-- Drinks don't satisfy your hunger the way solid food does.
-- By about 9 o'clock she started to feel faint from/with hunger.
+- Drinks don't `satisfy` your hunger the way solid food does.
+- By about 9 o'clock she started to feel `faint from/with` hunger.
 
 ## 1623. hurry ## noun [C or no plural]
 /ˈhɜr.i/ 
 [B1]the need to move or do things more quickly than normal
-- We left in such a hurry that we forgot our tickets.
-- "Can you wait a few minutes?" "Yes, I'm not in any hurry/I'm in no hurry."
-- Are you in a hurry to leave?
+- We left `in` such `a` hurry that we forgot our tickets.
+- "Can you wait a few minutes?" "Yes, I'm not `in any` hurry/I'm `in no` hurry."
+- Are you `in a` hurry `to` leave?
 - What's (all) the hurry (for)/Why (all) the hurry? We have plenty of time.
-- "I'll give this back to you next week." "That's all right, there's no (great) hurry/there isn't any (great) hurry ."
+- "I'll give this back to you next week." "That's all right, there's no `(great)` hurry/there isn't any `(great)` hurry ."
 
 ## 1624. hut ## noun [C]
 /hʌt/ 
@@ -9953,9 +9953,9 @@
 ## 1627. idea ## noun
 /ɑɪˈdiː.ə/ OPINION
 [B1]an opinion or belief
-- We have very different ideas about the environment.
-- Leach presents the idea that it is impossible to spoil a child.
-- I'm not a singer - where did you get that idea?
+- We have very different ideas `about` the environment.
+- Leach presents the idea `that` it is impossible to spoil a child.
+- I'm not a singer - where did you `get` that idea?
 
 ## 1628. illness ## noun
 /ˈɪl.nəs/ DISEASE
@@ -9966,8 +9966,8 @@
 /ɪˌmædʒ.əˈneɪ.ʃən/ PART OF MIND
 [B1]the part of your mind that creates ideas or pictures of things that are not real or that you have not seen
 - There's nothing out here - it's just your imagination.
-- Rafael has a very vivid imagination.
-- For some reason the story captured imagination of the public.
+- Rafael has a very `vivid` imagination.
+- For some reason the story `captured` imagination `of` the public.
 
 ## 1630. imagination ## noun
 /ɪˌmædʒ.əˈneɪ.ʃən/ ABILITY
@@ -9977,21 +9977,21 @@
 ## 1631. immigration ## noun [U]
 /ˌɪm.əˈgreɪ.ʃən/ PLACE
 [B1]the place where people's official documents are checked when they enter a country at an airport, port, border, etc.
-- After you've been through immigration (control), you can go and get your luggage.
-- immigration officers
+- After you've been through immigration `(control)`, you can go and get your luggage.
+- immigration `officers`
 
 ## 1632. importance ## noun [U]
 /ɪmˈpɔːrt.əns/ 
 [B1]how important someone or something is
-- Your views are of great importance to us.
-- The company understands the importance of regular staff training.
+- Your views are `of` great importance `to` us.
+- The company `understands` the importance `of` regular staff training.
 - Please list your choices in order of importance.
 
 ## 1633. improvement ## noun
 /ɪmˈpruːv.mənt/ BETTER
 [B1]progress in becoming better, or when something has been made better
-- We are seeing significant improvements in test scores.
-- He is still recovering, but the doctors say he has shown some improvement.
+- We are seeing `significant` improvements `in` test scores.
+- He is still recovering, but the doctors say he has `shown` some improvement.
 
 ## 1634. improvement ## noun
 /ɪmˈpruːv.mənt/ CHANGE
@@ -10023,18 +10023,18 @@
 /ɪnˈfɪn.ə.tɪv/ 
 [B1]the basic form of a verb that usually follows "to"
 - In the sentences "I had to go" and "I must go," "go" is an infinitive.
-- "Go" is the infinitive form.
+- "Go" is the infinitive `form`.
 
 ## 1639. ingredient ## noun [C often plural]
 /ɪnˈgriːd.iː.ənt/ FOOD
 [B1]a food that is used with other foods in the preparation of a particular dish
-- The list of ingredients included 1/2 cup of almonds.
+- The `list of` ingredients included 1/2 cup of almonds.
 
 ## 1640. initial ## noun [C usually plural]
 /ɪˈnɪʃ.əl/ 
 [B1]the first letter of a name, especially when used to represent a name
 - He wrote his initials, P.M.R., at the bottom of the page.
-- Paul M. Reynolds refused to say what the initial "M" stood for.
+- Paul M. Reynolds refused to say what the initial "M" `stood for`.
 - They carved their initials into a tree.
 
 ## 1641. ink ## noun [C or U]
@@ -10042,14 +10042,14 @@
 [B1]a colored liquid that you use for writing, printing, or drawing
 - a bottle of ink
 - blue/black/red ink
-- Please write in ink, not in pencil.
+- Please write `in` ink, not in pencil.
 - The book is printed in three different colored inks.
 
 ## 1642. inquiry ## noun
 /ɪnˈkwɑɪ.ri/ 
 [B1]a question that you ask when you want more information
-- I've made some inquiries about the cost of a round-the-world ticket.
-- Inquiry into the matter is pointless - no one will tell you anything.
+- I've `made` some inquiries `about` the cost of a round-the-world ticket.
+- Inquiry `into` the matter is pointless - no one will tell you anything.
 
 ## 1643. instance ## noun
 /ˈɪn.stəns/ for instance
@@ -10064,10 +10064,10 @@
 ## 1645. interest ## noun
 /ˈɪn.trəst/ FEELING
 [B1]the feeling of wanting to give your attention to something or of wanting to discover more about it
-- I've always had an interest in astronomy.
-- He didn't show any interest in his dinner.
-- I lost interest halfway through the movie.
-- She takes more of an interest in politics these days.
+- I've always `had` an interest `in` astronomy.
+- He didn't `show` any interest `in` his dinner.
+- I `lost` interest halfway through the movie.
+- She `takes` more of `an` interest in politics these days.
 
 ## 1646. interest ## noun
 /ˈɪn.trəst/ ACTIVITY/SUBJECT
@@ -10077,8 +10077,8 @@
 ## 1647. interest ## noun
 /ˈɪn.trəst/ QUALITY
 [B1]the quality that makes you think that something is interesting
-- Nothing much of interest was discussed.
-- Would this book be of any interest to you?
+- Nothing much `of` interest was discussed.
+- Would this book `be of` any interest `to` you?
 
 ## 1648. intermission ## noun [C]
 /ˌɪnt.ərˈmɪʃ.ən/ 
@@ -10088,14 +10088,14 @@
 ## 1649. interview ## noun [C]
 /ˈɪn.t̬ərˌvjuː/ FOR JOB
 [B1]a meeting in which someone asks you questions to see if you are suitable for a job or course
-- a job interview
-- I had an interview for a job with a publishing company.
+- a `job` interview
+- I `had` an interview `for` a job with a publishing company.
 
 ## 1650. interview ## noun [C]
 /ˈɪn.t̬ərˌvjuː/ FOR ARTICLE/TV, ETC.
 [B1]a meeting in which someone is asked questions about themselves for a newspaper article, television show, etc
-- an exclusive interview with Paul Simon
-- In a television interview last night she denied she had any intention of resigning.
+- an exclusive interview `with` Paul Simon
+- `In` a television interview last night she denied she had any intention of resigning.
 
 ## 1651. invention ## noun [C or U]
 /ɪnˈven.tʃən/ 
@@ -10106,7 +10106,7 @@
 ## 1652. iron ## noun
 /ˈɑɪ.ərn/ METAL
 [B1]a dark grey metal used to make steel and found in very small amounts in blood and food
-- an iron bar
+- an iron `bar`
 - Iron rusts easily.
 - Liver is a particularly rich source of iron.
 
@@ -10119,54 +10119,54 @@
 ## 1654. ironing ## noun [U]
 /ˈɑɪ.ər.nɪŋ/ 
 [B1]the activity of making clothes flat and smooth, using an iron
-- I must do some ironing tonight.
+- I must `do` some ironing tonight.
 
 ## 1655. issue ## noun [C]
 /ˈɪʃ.uː/ SUBJECT
 [B1]a subject or problem which people are thinking and talking about
-- environmental/moral/personal issues
-- As employers we need to be seen to be addressing these issues sympathetically.
+- `environmental/moral/personal` issues
+- As employers we need to be seen to be `addressing` these issues sympathetically.
 
 ## 1656. item ## noun [C]
 /ˈɑɪt̬.əm/ PART OF SET
 [B1]a single thing in a set or on a list
 - the last item on the list
 - The restaurant has a long menu of about 50 items.
-- Several items of clothing lay on the floor.
+- Several items `of clothing` lay on the floor.
 
 ## 1657. jail ## noun [C or U]
 /dʒeɪl/ 
 [B1]a place where criminals are kept as a punishment
 - the country's overcrowded jails
-- a 13-year jail sentence/term
-- He was sent to jail for five years.
-- The financier was released from jail last week.
-- They spent ten years in jail for fraud.
+- a 13-year jail `sentence/term`
+- He was `sent to` jail for five years.
+- The financier was `released from` jail last week.
+- They spent ten years `in` jail `for` fraud.
 
 ## 1658. jar ## noun [C]
 /dʒɑr/ 
 [B1]a glass container used for storing food
 - a jar of coffee/honey
-- a cookie jar
+- a `cookie` jar
 
 ## 1659. jet ## noun [C]
 /dʒet/ 
 [B1]an aircraft with a jet engine, which is able to fly very fast
 - a jet plane
 - a private jet
-- We flew to New York on a jet.
+- We flew to New York `on a` jet.
 
 ## 1660. jogging ## noun [U]
 /ˈdʒɑg.ɪŋ/ 
 [B1]when you jog
-- Let's go jogging.
+- Let's `go` jogging.
 
 ## 1661. joke ## noun [C]
 /dʒoʊk/ FUNNY
 [B1]something which someone says to make people laugh, usually a short story with a funny ending
-- Did I tell you the joke about the chicken crossing the road?
-- I hope you're not going to tell that old joke about the chicken again.
-- Don't you get the joke?
+- Did I `tell` you the joke about the chicken crossing the road?
+- I hope you're not going to tell that `old` joke about the chicken again.
+- Don't you `get` the joke?
 
 ## 1662. journalist ## noun [C]
 /ˈdʒɜrn.əl.ɪst/ 
@@ -10209,7 +10209,7 @@
 ## 1669. key ## noun [C]
 /kiː/ METHOD
 [B1]a way of explaining or achieving something
-- Hard work is the key to success.
+- Hard work is the key `to` success.
 
 ## 1670. killer ## noun [C]
 /ˈkɪl.ər/ 
@@ -10234,7 +10234,7 @@
 ## 1674. kit ## noun [C]
 /kɪt/ 
 [B1]a collection of things kept in a container for a particular use
-- a first-aid/tool kit
+- a `first-aid/tool` kit
 
 ## 1675. kitten ## noun [C]
 /ˈkɪt.ən/ 
@@ -10245,21 +10245,21 @@
 /niː/ 
 [B1]the middle part of your leg where it bends
 - a knee injury
-- The baby was crawling around on its hands and knees.
-- He got/went down on his knees in front of the altar.
+- The baby was crawling around on its `hands and` knees.
+- He got/went `down on` his knees in front of the altar.
 
 ## 1677. knowledge ## noun
 /ˈnɑl.ɪdʒ/ UNDERSTANDING
 [B1]information and understanding that you have in your mind
-- Her knowledge of English grammar is very extensive.
-- He has a limited knowledge of French.
-- The details of the scandal are now common knowledge.
+- Her knowledge `of` English grammar is very extensive.
+- He has `a` limited knowledge `of` French.
+- The details of the scandal are now `common` knowledge.
 
 ## 1678. lab ## noun [C]
 /læb/ 
 [B1]a laboratory
-- a science/computer lab
-- a lab technician
+- a `science/computer` lab
+- a lab `technician`
 
 ## 1679. label ## noun [C]
 /ˈleɪ.bəl/ INFORMATION
@@ -10271,9 +10271,9 @@
 ## 1680. label ## noun [C]
 /ˈleɪ.bəl/ COMPANY
 [B1]the name or symbol of a company that produces goods for sale, or the goods themselves or the company itself
-- The group has signed with a new record label.
-- A major/independent label will release their new album.
-- Her favorite designer label is Armani.
+- The group has signed with a new `record` label.
+- A `major/independent` label will release their new album.
+- Her favorite `designer` label is Armani.
 - Everything we produce goes out under our own label.
 
 ## 1681. laboratory ## noun [C]
@@ -10288,38 +10288,38 @@
 [B1]not having something, or not having enough of something
 - Your problem is lack of confidence.
 - Lack of sleep had made him irritable.
-- If he fails it won't be through lack of effort.
+- If he fails it won't be `through` lack of effort.
 - She certainly has no lack of friends.
 - a lack of money
 
 ## 1683. ladder ## noun [C]
 /ˈlæd.ər/ EQUIPMENT
 [B1]a piece of equipment that is used to reach high places, consisting of short steps attached between two long sides
-- She was up on a ladder, cleaning the window.
+- She was `up on` a ladder, cleaning the window.
 
 ## 1684. lady ## noun [C]
 /ˈleɪd.i/ 
 [B1]a polite or old fashioned way of referring to or talking to a woman
 - There's a young lady here to see you.
-- Ladies and gentlemen, may I have your attention.
+- Ladies `and gentlemen`, may I have your attention.
 
 ## 1685. lamb ## noun [C or U]
 /læm/ 
 [B1]a young sheep, or the flesh of a young sheep eaten as meat
 - We were staying on a farm where there were newborn lambs.
-- roast lamb
+- `roast` lamb
 
 ## 1686. land ## noun
 /lænd/ AREA OF GROUND
 [B1]an area of ground, especially when used for a particular purpose such as farming or building
 - This land here is good for growing potatoes.
-- We want to buy a plot of land to build a house.
+- We want to buy `a plot of` land to build a house.
 - They just bought 150 acres of land in Idaho.
 
 ## 1687. landscape ## noun [C]
 /ˈlænd.skeɪp/ 
 [B1]the appearance of an area of land, especially in the countryside
-- a rural landscape
+- a `rural` landscape
 - The castle dominates the landscape for miles around.
 
 ## 1688. language ## noun
@@ -10337,14 +10337,14 @@
 /læf/ 
 [B1]the act or sound of laughing
 - a loud/nervous laugh
-- I was embarrassed at the time, but I had a good laugh about it later.
+- I was embarrassed at the time, but I `had a good` laugh about it later.
 
 ## 1691. law ## noun
 /lɔː/ SUBJECT
 [B1]the subject or job of understanding and dealing with the official laws of a country
-- to study/practice law
-- a law school/firm
-- civil/criminal/international law
+- to `study/practice` law
+- a law `school/firm`
+- `civil/criminal/international` law
 
 ## 1692. lawyer ## noun [C]
 /ˈlɔɪ.ər/ 
@@ -10356,7 +10356,7 @@
 [B1]a person in control of a group, country, or situation
 - a business/community/political leader
 - a band leader
-- Meet your tour/group leader in front of the hotel.
+- Meet your `tour/group` leader in front of the hotel.
 - The Russian leader wants to introduce further changes.
 
 ## 1694. leaf ## noun [C]
@@ -10371,26 +10371,26 @@
 [B1]a group of teams that compete against each other in a sport
 - the National League
 - the major/minor leagues
-- Will Boston win the league championship this year?
+- Will Boston `win` the league championship this year?
 - Our team has the worst record in the league.
 - Do you belong to a bowling league?
 
 ## 1696. lecture ## noun [C]
 /ˈlek.tʃər/ 
 [B1]a formal talk on a serious or specialist subject given to a group of people, especially students
-- We went to a lecture on Italian art.
-- Who's giving the lecture this afternoon?
+- We went to a lecture `on` Italian art.
+- Who's `giving` the lecture this afternoon?
 
 ## 1697. leisure ## noun [U]
 /ˈliː.ʒər/ 
 [B1]the time when you are not working
-- leisure activities
-- Most people have a limited amount of leisure time.
+- leisure `activities`
+- Most people have a limited amount of leisure `time`.
 
 ## 1698. length ## noun [C or U]
 /leŋθ/ DISTANCE
 [B1]the measurement or distance of something from one end to the other
-- The boat is 20 feet in length.
+- The boat is 20 feet `in` length.
 - The length of the living room is 25 feet, the width is 12 feet.
 
 ## 1699. lettuce ## noun [C or U]
@@ -10401,12 +10401,12 @@
 ## 1700. lie ## noun [C]
 /lɑɪ/ 
 [B1]something that you say which you know is not true
-- I told a lie when I said I liked her haircut.
+- I `told` a lie when I said I liked her haircut.
 
 ## 1701. life ## noun
 /lɑɪf/ PLANTS/ANIMALS
 [B1]everything which is alive
-- animal/marine/plant life
+- `animal/marine/plant` life
 
 ## 1702. life ## noun
 /lɑɪf/ WAY OF LIVING
@@ -10420,8 +10420,8 @@
 [B1]one part of someone's existence
 - I never talk about my private life.
 - I like to keep my home life and work life separate, so I don't bring work home from the office.
-- my working life
-- We interviewed senior politicians, famous writers and others in public life.
+- my `working` life
+- We interviewed senior politicians, famous writers and others in `public` life.
 
 ## 1704. life ## noun
 /lɑɪf/ a/sb's way of life
@@ -10431,7 +10431,7 @@
 ## 1705. light ## noun
 /lɑɪt/ BRIGHTNESS
 [B1]the brightness that comes from the sun, fire, etc. and from electrical devices, and that allows things to be seen
-- bright light
+- `bright` light
 - Light was streaming in through the windows.
 - This room faces north, so it doesn't get much light.
 
@@ -10443,10 +10443,10 @@
 ## 1707. lightning ## noun [U]
 /ˈlɑɪt.nɪŋ/ 
 [B1]a sudden flash of light in the sky during a storm
-- thunder and lightning
-- a flash of lightning
-- That tree was struck by lightning.
-- She changed her clothes with lightning speed.
+- `thunder and` lightning
+- a `flash of` lightning
+- That tree was `struck by` lightning.
+- She changed her clothes `with` lightning `speed`.
 
 ## 1708. like ## noun
 /lɑɪk/ likes and dislikes
@@ -10456,19 +10456,19 @@
 ## 1709. limit ## noun [C]
 /ˈlɪm.ət/ LARGEST POSSIBLE AMOUNT
 [B1]the largest amount of something that is possible or allowed
-- Is there a limit on the number of tickets you can get?
+- Is there a limit `on` the number of tickets you can get?
 - Two cups of coffee - that's my limit.
-- I think we ought to put a limit on the amount of time we can spend on the project.
-- There's a limit to my patience.
-- We set a time limit of thirty minutes for the test.
+- I think we ought to `put` a limit `on` the amount of time we can spend on the project.
+- There's a limit `to` my patience.
+- We `set` a `time` limit `of` thirty minutes for the test.
 
 ## 1710. line ## noun [C]
 /lɑɪn/ PEOPLE WAITING
 [B1]a group of people standing one behind the other who are waiting for something
-- Are you in line?
-- There was a long line at the movie theater.
-- Just get in/on line and wait your turn like everyone else.
-- I had to wait/stand in line for three hours to get tickets.
+- Are you `in` line?
+- There was `a` long line at the movie theater.
+- Just `get in/on` line and wait your turn like everyone else.
+- I had to `wait/stand in` line for three hours to get tickets.
 
 ## 1711. line ## noun [C]
 /lɑɪn/ WORDS
@@ -10505,7 +10505,7 @@
 [B1]books, poems, etc. that are considered to be art
 - American/French/world literature
 - contemporary literature
-- great works of literature
+- great `works` of literature
 - The course in English literature covers Shakespeare’s plays.
 
 ## 1717. load ## noun [C]
@@ -10517,39 +10517,39 @@
 ## 1718. loan ## noun [C]
 /loʊn/ MONEY
 [B1]money that someone has borrowed
-- She's going to take out a loan to start her own business.
-- We'd have to get a loan to be able to buy a car.
-- My brother repaid his student loan within five years.
+- She's going to `take out` a loan to start her own business.
+- We'd have to `get` a loan to be able to buy a car.
+- My brother `repaid` his student loan within five years.
 
 ## 1719. location ## noun [C]
 /loʊˈkeɪ.ʃən/ PLACE
 [B1]a place or position
-- The hotel is in a lovely location overlooking the lake.
-- A map showing the location of the property will be sent to you.
+- The hotel is `in` a lovely location overlooking the lake.
+- A map showing the location `of` the property will be sent to you.
 
 ## 1720. lock ## noun [C]
 /lɑk/ 
 [B1]the thing that is used to close a door, window, etc., and that needs a key to open it
-- I heard someone turn a key in the lock.
+- I heard someone turn a key `in` the lock.
 - safety locks
 - Thieves got in by smashing the lock off the door.
 
 ## 1721. logo ## noun [C]
 /ˈloʊ.goʊ/ 
 [B1]a design or symbol used by a company to advertise its products
-- a corporate logo
+- a `corporate` logo
 
 ## 1722. look ## noun
 /lʊk/ SEE
 [B1]when you look at someone or something
-- She gave him a look of real dislike.
-- Take a (good) look at this picture and see if you recognize anyone.
-- Can I have a look at your dictionary?
+- She gave him a look `of` real dislike.
+- `Take a (good)` look `at` this picture and see if you recognize anyone.
+- Can I `have a` look `at` your dictionary?
 
 ## 1723. look ## noun
 /lʊk/ SEARCH
 [B1]when you look for someone or something
-- I had another look for the watch, but couldn't find it.
+- I `had` another look `for` the watch, but couldn't find it.
 
 ## 1724. lottery ## noun [C]
 /ˈlɑt̬.ə.ri/ 
@@ -10560,21 +10560,21 @@
 /lʌv/ FRIENDS/FAMILY
 [B1]when you like a friend or person in your family very much
 - Nothing is as strong as the love you have for your kids.
-- "I'm seeing Laura next week." "Oh, please give her my love."
+- "I'm seeing Laura next week." "Oh, please `give` her my love."
 
 ## 1726. love ## noun
 /lʌv/ ROMANCE
 [B1]when you like someone very much and have romantic feelings for them
-- He's madly in love with her.
-- She fell in love with her friend's brother.
+- He's madly `in` love with her.
+- She `fell in` love with her friend's brother.
 - "I've been seeing him over a year now." "Is it love?"
-- How's your love life these days?
+- How's your love `life` these days?
 
 ## 1727. love ## noun
 /lʌv/ PERSON
 [B1]a person that you love and feel attracted to
-- He was the love of my life.
-- She was my first love.
+- He was the love `of my life`.
+- She was my `first` love.
 
 ## 1728. lover ## noun [C]
 /ˈlʌv.ər/ PERSON
@@ -10591,7 +10591,7 @@
 [B1]great comfort or pleasure from expensive or beautiful things
 - a luxury cruise
 - a luxury hotel
-- to live in luxury
+- to live `in` luxury
 
 ## 1731. ma'am ## noun [U]
 /mæm/ 
@@ -10611,7 +10611,7 @@
 ## 1734. marriage ## noun [C or U]
 /ˈmær.ɪdʒ/ 
 [B1]the legal relationship of a man and a woman being a husband and a wife, or the ceremony where people become a husband and a wife
-- They had a long and happy marriage.
+- They had a long and `happy` marriage.
 - She went to live abroad after the break-up of her marriage.
 - She has two daughters by her first marriage.
 - a marriage certificate
@@ -10630,52 +10630,52 @@
 ## 1737. maximum ## noun [no plural]
 /ˈmæk.sə.məm/ 
 [B1]the largest amount allowed or possible
-- The temperature will reach a maximum of 60°F today.
-- The school has a maximum of 30 students per class.
+- The temperature will reach `a` maximum `of` 60°F today.
+- The school has `a` maximum `of` 30 students per class.
 
 ## 1738. meaning ## noun
 /ˈmiː.nɪŋ/ EXPRESS
 [B1]The meaning of words, signs, or actions is what they express or represent.
 - The word "squash" has several meanings.
 - The meaning of his gesture was clear.
-- His novels often have a hidden meaning.
+- His novels often have a `hidden` meaning.
 
 ## 1739. medicine ## noun
 /ˈmed.ɪ.sən/ TREATMENT
 [B1]treatment for illness or injury, or the study of this
 - Western/Chinese medicine
 - a career in medicine
-- She is a doctor, but is unable to practice medicine in her own country.
+- She is a doctor, but is unable to `practice` medicine in her own country.
 
 ## 1740. membership ## noun [C or U]
 /ˈmem.bərˌʃɪp/ BEING A MEMBER
 [B1]the state of being a member of a group or organization
-- We applied for membership in the country club.
-- a membership card/fee
+- We `applied for` membership `in` the country club.
+- a membership `card/fee`
 - Some fitness clubs sell lifetime memberships.
 
 ## 1741. memory ## noun
 /ˈmem.ə.ri/ ABILITY TO REMEMBER
 [B1]your ability to remember
-- You have a good memory.
-- She has an excellent memory for names.
-- He had a photographic memory.
-- memory loss
+- You have a `good` memory.
+- She has an excellent memory `for` names.
+- He had a `photographic` memory.
+- memory `loss`
 
 ## 1742. memory ## noun
 /ˈmem.ə.ri/ EVENT REMEMBERED
 [B1]something that you remember from the past
-- I have very fond memories of that period of my life.
-- I have vivid memories of that evening.
-- That tune really brings back memories.
+- I have very fond memories `of` that period of my life.
+- I have vivid memories `of` that evening.
+- That tune really `brings back` memories.
 
 ## 1743. mess ## noun
 /mes/ NOT NEAT
 [B1]Something or someone that is a mess or is in a mess, looks dirty and disorganized and is not neat.
 - My hair's such a mess!
-- The house is in a mess.
-- He makes a terrible mess when he's cooking.
-- Go and clean up that mess in the kitchen.
+- The house is `in a` mess.
+- He `makes a` terrible mess when he's cooking.
+- Go and `clean up` that mess in the kitchen.
 
 ## 1744. message board ## noun [C]
 /ˈmes.ɪdʒ.bɔːrd/ 
@@ -10686,21 +10686,21 @@
 /ˈmet̬.əl/ 
 [B1]a usually hard, shiny material such as iron, gold, or silver which heat and electricity can travel through
 - Metal, paper and glass can be recycled.
-- Silver, gold and platinum are precious metals.
+- Silver, gold and platinum are `precious` metals.
 - Metals are used for making machinery and tools.
 
 ## 1746. method ## noun [C]
 /ˈmeθ.əd/ 
 [B1]a way of doing something, often one that involves a system or plan
-- What's the best method of/for solving this problem?
+- What's the best method `of/for` solving this problem?
 - Traveling by train is still one of the safest methods of transportation.
 - traditional teaching methods
 
 ## 1747. middle ## noun
 /ˈmɪd.əl/ the middle
 [B1]the central point in a period of time
-- The letter should arrive by the middle of next week.
-- The noise woke us up in the middle of the night.
+- The letter should arrive `by` the middle `of` next week.
+- The noise woke us up `in` the middle `of` the night.
 
 ## 1748. middle ## noun
 /ˈmɪd.əl/ be in the middle of (doing) sth
@@ -10712,7 +10712,7 @@
 [B1]a unit for measuring distance, equal to 1609 meters or 1760 yards
 - a ten-mile drive
 - The nearest town is ten miles away.
-- The latest high-speed trains can travel at 140 miles an/per hour.
+- The latest high-speed trains can travel at 140 miles `an/per hour`.
 
 ## 1750. millimeter ## noun [C]
 /ˈmɪl.əˌmiːt̬.ər/ 
@@ -10723,8 +10723,8 @@
 /mɑɪnd/ THINKING
 [B1]someone's memory or their ability to think, feel emotions, and be aware of things
 - My mind was full of what had happened the night before, and I wasn't concentrating.
-- I just said the first thing that came into my mind.
-- For some reason her words stuck in my mind.
+- I just said the first thing that `came into` my mind.
+- For some reason her words `stuck in` my mind.
 - She has a very logical mind.
 
 ## 1752. mind ## noun [C]
@@ -10736,15 +10736,15 @@
 ## 1753. mind ## noun [C]
 /mɑɪnd/ make up your mind or make your mind up
 [B1]to make a decision
-- I haven't made up my mind whether to apply for the job yet.
-- They couldn't make their minds up about where to go on vacation.
+- I haven't made up my mind `whether` to apply for the job yet.
+- They couldn't make their minds up `about` where to go on vacation.
 
 ## 1754. minimum ## noun [C usually no plural]
 /ˈmɪn.ə.məm/ 
 [B1]the smallest amount that is allowed, needed, or possible
-- The judge sentenced him to a minimum of five years in prison.
-- We need a minimum of ten people to play this game.
-- Wage increases are being kept to a minimum because of the recession.
+- The judge sentenced him to `a` minimum `of` five years in prison.
+- We need `a` minimum `of` ten people to play this game.
+- Wage increases are being `kept to a` minimum because of the recession.
 
 ## 1755. minute ## noun [C]
 /ˈmɪn.ɪt/ wait a minute
@@ -10760,8 +10760,8 @@
 ## 1757. mix ## noun
 /mɪks/ 
 [B1]a combination of things or people, often in a group
-- There's a good mix of nationalities in the class.
-- There was an odd mix of people at Patrick's party.
+- There's a good mix `of` nationalities in the class.
+- There was an odd mix `of` people at Patrick's party.
 - "She's studying physics and philosophy." "That's an interesting mix."
 
 ## 1758. modal (verb) ## noun [C]
@@ -10777,8 +10777,8 @@
 ## 1760. moment ## noun
 /ˈmoʊ.mənt/ POINT IN TIME
 [B1]a point in time
-- Just at that moment, the phone rang.
-- Don't leave it to/till the last moment.
+- Just `at that` moment, the phone rang.
+- Don't leave it to/till `the last` moment.
 
 ## 1761. moment ## noun
 /ˈmoʊ.mənt/ wait a moment
@@ -10794,16 +10794,16 @@
 ## 1763. monument ## noun [C]
 /ˈmɑn.jə.mənt/ BUILDING/PLACE
 [B1]an old building or place that is important in history
-- an ancient monument
+- an `ancient` monument
 
 ## 1764. mood ## noun [C or U]
 /muːd/ WAY YOU FEEL
 [B1]the way you feel at a particular time
-- She's in a bad mood.
-- You're in a good mood today.
+- She's `in a bad` mood.
+- You're `in a good` mood today.
 - What sort of mood is Ted in today?
 - Her mood seemed to change during the course of the conversation.
-- The public mood changed dramatically after the bombing.
+- The `public` mood changed dramatically after the bombing.
 - The mood of the crowd suddenly turned aggressive.
 
 ## 1765. morning ## noun [C or U]
@@ -10824,10 +10824,10 @@
 ## 1768. murder ## noun [C or U]
 /ˈmɜrd.ər/ 
 [B1]the crime of intentionally killing a person
-- to commit murder
-- She was charged with attempted murder.
-- Two sisters have been charged with murder.
-- a murder weapon
+- to `commit` murder
+- She was charged with `attempted` murder.
+- Two sisters have been `charged with` murder.
+- a murder `weapon`
 
 ## 1769. murderer ## noun [C]
 /ˈmɜrd.ə.rər/ 
@@ -10837,7 +10837,7 @@
 ## 1770. musician ## noun [C]
 /mjʊˈzɪʃ.ən/ 
 [B1]someone who plays a musical instrument, often as a job
-- a talented jazz/classical musician
+- a `talented` jazz/classical musician
 - The concert features dancers, singers and musicians of all nationalities.
 
 ## 1771. mustache ## noun [C]
@@ -10848,15 +10848,15 @@
 ## 1772. mystery ## noun [C or U]
 /ˈmɪs.tə.ri/ 
 [B1]something strange or unknown which has not yet been explained or understood
-- an unsolved mystery
-- How the massive stones were brought here from hundreds of miles away remains a mystery.
-- He never gave up hope that he would solve the mystery of his son's disappearance.
-- He's out of work, so how he pays his rent is a mystery to me.
+- an `unsolved` mystery
+- How the massive stones were brought here from hundreds of miles away `remains a` mystery.
+- He never gave up hope that he would `solve` the mystery of his son's disappearance.
+- He's out of work, so how he pays his rent is a mystery `to` me.
 
 ## 1773. neighborhood ## noun [C]
 /ˈneɪ.bər.hʊd/ 
 [B1]an area of a town or city that people live in
-- There were lots of kids in my neighborhood when I was growing up.
+- There were lots of kids` in` my neighborhood when I was growing up.
 - This is a good neighborhood.
 
 ## 1774. nephew ## noun [C]
@@ -10874,16 +10874,16 @@
 ## 1776. news ## noun [U]
 /nuːz/ the news
 [B1]the announcement of important events on television, radio, and in newspapers
-- It was on the 6 o'clock news.
-- the nightly news
+- It was `on` the 6 o'clock news.
+- the `nightly` news
 - I usually listen to/watch the 11 o'clock news.
 
 ## 1777. nickname ## noun [C]
 /ˈnɪk.neɪm/ 
 [B1]a name used informally instead of your real name
 - Do you have a nickname?
-- Angel is his nickname for her.
-- He is very big so that's how he earned the nickname "tiny."
+- Angel is his nickname `for` her.
+- He is very big so that's how he `earned` the nickname "tiny."
 
 ## 1778. niece ## noun [C]
 /niːs/ 
@@ -10903,7 +10903,7 @@
 ## 1781. nightmare ## noun [C]
 /ˈnɑɪt.mer/ BAD EXPERIENCE
 [B1]a very unpleasant experience
-- Being trapped underwater is my worst nightmare.
+- Being trapped underwater is my `worst` nightmare.
 - The whole journey was a nightmare - we lost our luggage and we arrived two days late.
 
 ## 1782. nightmare ## noun [C]
@@ -10915,39 +10915,39 @@
 ## 1783. northeast ## noun [U]
 /nɔːrˈθiːst/ 
 [B1]the direction which is between north and east or the northeast part of a country
-- They live in the northeast.
+- They live in `the` northeast.
 
 ## 1784. northwest ## noun [U]
 /nɔːrθˈwest/ 
 [B1]the direction which is between north and west or the northwest part of a country
-- The wind is coming from the northwest.
+- The wind is coming from `the` northwest.
 
 ## 1785. notice ## noun
 /ˈnoʊt̬.ɪs/ WARNING
 [B1]a warning that something will happen
-- The next time you visit, can you give me more notice?
-- The building is closed until further notice.
-- The emergency services are ready to spring into action at a moment's notice.
-- I'm sorry for the short notice.
+- The next time you visit, can you `give` me more notice?
+- The building is closed `until further` notice.
+- The emergency services are ready to spring into action `at a moment's` notice.
+- I'm sorry for the `short` notice.
 
 ## 1786. notice ## noun
 /ˈnoʊt̬.ɪs/ ATTENTION
 [B1]attention
-- I didn't take any notice of his advice.
+- I didn't `take` any notice `of` his advice.
 
 ## 1787. novel ## noun [C]
 /ˈnɑv.əl/ 
 [B1]a book that tells a story about imaginary people and events
-- historical/romantic novels
-- Have you read any of Jane Austen's novels?
+- `historical/romantic` novels
+- Have you `read` any of Jane Austen's novels?
 - His latest novel is selling really well.
 
 ## 1788. number ## noun
 /ˈnʌm.bər/ AMOUNT
 [B1]an amount
-- The number of people killed in road accidents fell last month.
-- A small number of children are educated at home.
-- A large number of people were contacted.
+- The number `of` people killed in road accidents fell last month.
+- A `small` number of children are educated at home.
+- A `large` number of people were contacted.
 
 ## 1789. object ## noun [C]
  THING
@@ -10958,15 +10958,15 @@
 ## 1790. object ## noun [C]
  GRAMMAR
 [B1]in grammar, the person or thing that is affected by the action of the verb or the person or thing that comes after a preposition
-- In the sentence "I like ice cream," "ice cream" is the object of the verb "like."
+- In the sentence "I like ice cream," "ice cream" is the object `of` the verb "like."
 
 ## 1791. occasion ## noun [C]
 /əˈkeɪ.ʒən/ SPECIAL TIME
 [B1]an important event or ceremony
-- a special occasion
-- At the wedding, he sang a song written just for the occasion.
-- I have a suit but I only wear it on special occasions.
-- Congratulations on the occasion of your 25th wedding anniversary.
+- a `special` occasion
+- At the wedding, he sang a song written just `for the` occasion.
+- I have a suit but I only wear it `on` special occasions.
+- Congratulations `on the` occasion `of` your 25th wedding anniversary.
 
 ## 1792. offense ## noun
 /əˈfens/ SPORTS
@@ -10976,7 +10976,7 @@
 ## 1793. offer ## noun [C]
 /ˈɔː.fər/ CHEAP
 [B1]a cheap price or special arrangement for something you are buying
-- This special offer ends on Friday.
+- This `special` offer ends on Friday.
 
 ## 1794. officer ## noun [C]
 /ˈɔː.fɪ.sər/ POLICE
@@ -10988,7 +10988,7 @@
 [B1]a person who has a position of authority in an organization
 - I had an interview with the university admissions officer.
 - the chief executive/financial officer
-- a customs/corrections officer
+- a `customs/corrections` officer
 
 ## 1796. oil ## noun
 /ɔɪl/ FUEL
@@ -10999,62 +10999,62 @@
 ## 1797. olive ## noun [C]
 /ˈɑl.ɪv/ 
 [B1]a small green or black fruit with a bitter taste that is eaten or used to produce oil
-- olive oil
-- olive trees
+- olive `oil`
+- olive `trees`
 
 ## 1798. operation ## noun
 /ˌɑp.əˈreɪ.ʃən/ MEDICAL PROCEDURE
 [B1]a medical procedure where a doctor cuts someone's body to remove or repair part of it
-- a major/minor operation
-- He's got to have an operation on his shoulder.
-- We will know in a couple of days if the operation to restore her sight was successful.
+- a `major/minor` operation
+- He's got to `have` an operation `on` his shoulder.
+- We will know in a couple of days if the operation `to` restore her sight was successful.
 
 ## 1799. opinion ## noun
 /əˈpɪn.jən/ OF PERSON
 [B1]a thought or belief about something or someone
-- What's your opinion about/on this plan?
-- Some people always have strong opinions.
-- He didn't express/give an opinion on the matter.
-- Who, in your opinion, is the best player in the league?
-- Her opinion of Adam changed after he'd been so helpful at the wedding.
-- I want to get a second opinion on whether I need knee surgery.
+- What's your opinion `about/on` this plan?
+- Some people always `have` strong opinions.
+- He didn't `express/give` an opinion on the matter.
+- Who, `in your` opinion, is the best player in the league?
+- Her opinion `of` Adam changed after he'd been so helpful at the wedding.
+- I want to get a `second` opinion on whether I need knee surgery.
 
 ## 1800. opportunity ## noun
 /ˌɑp.ərˈtuː.nət̬.i/ CHANCE
 [B1]a situation in which it is possible for you to do something, or a possibility of doing something
-- Everyone will have an opportunity to comment.
-- The exhibition is a unique opportunity to see her later work.
-- An ankle injury meant she missed the opportunity to take part in the race.
-- He goes fishing at every opportunity.
-- Please contact us at the earliest opportunity.
+- Everyone will `have` an opportunity to comment.
+- The exhibition is a `unique` opportunity `to` see her later work.
+- An ankle injury meant she `missed` the opportunity `to` take part in the race.
+- He goes fishing `at every` opportunity.
+- Please contact us `at the earliest` opportunity.
 
 ## 1801. opposite ## noun [C]
 /ˈɑp.ə.zɪt/ 
 [B1]something or someone that is completely different from another person or thing
-- The opposite of "fast" is "slow."
-- My father is a very calm person, but my mother is just the opposite.
-- She turned out to be the exact opposite of what everyone expected.
+- `The` opposite `of` "fast" is "slow."
+- My father is a very calm person, but my mother is just `the` opposite.
+- She turned out to be `the exact` opposite `of` what everyone expected.
 
 ## 1802. option ## noun [C]
 /ˈɑp.ʃən/ CHOICE
 [B1]a choice
-- We don't have many options.
-- I'm still considering my options.
+- We don't `have` many options.
+- I'm still `considering` my options.
 - The program helps students explore career options.
-- The best option would be to cancel the trip altogether.
+- The `best` option would be to cancel the trip altogether.
 
 ## 1803. orchestra ## noun [C + singular or plural verb]
 /ˈɔːr.kɪ.strə/ 
 [B1]a large group of musicians who play different instruments together
 - a symphony orchestra
-- She's a violinist with/in the Boston Symphony Orchestra.
+- She's a violinist `with/in` the Boston Symphony Orchestra.
 
 ## 1804. order ## noun
 /ˈɔːrd.ər/ ARRANGEMENT
 [B1]the way in which people or things are arranged, either in relation to one another or according to a particular characteristic
-- The children lined up in age/height order.
-- I can't find the file I need because they're all out of order.
-- I put the files in alphabetical order.
+- The children lined up `in` age/height order.
+- I can't find the file I need because they're all `out of` order.
+- I put the files in `alphabetical` order.
 
 ## 1805. order ## noun
 /ˈɔːrd.ər/ in order (for sb/sth) to do sth
@@ -11076,32 +11076,32 @@
 ## 1808. organization ## noun
 /ˌɔːr.gə.nəˈzeɪ.ʃən/ PLANNING
 [B1]the planning of an activity or event
-- He didn't want to be involved in the organization of/for the conference, although he agreed to attend.
+- He didn't want to be involved in the organization `of/for` the conference, although he agreed to attend.
 
 ## 1809. oven ## noun [C]
 /ˈʌv.ən/ 
 [B1]a boxlike part of a stove or separate device with a door, which is used to cook food
-- a toaster/microwave oven
-- a warm/hot oven
-- Pour the cake batter into the pan, place it in the oven, and bake at 350° for 30 minutes.
+- a `toaster/microwave` oven
+- a `warm/hot` oven
+- Pour the cake batter into the pan, place it `in` the oven, and bake at 350° for 30 minutes.
 
 ## 1810. owner ## noun [C]
 /ˈoʊ.nər/ 
 [B1]someone who owns something
-- Are you the owner of this car?
+- Are you the owner `of` this car?
 - We still haven't found the dog's owner.
 
 ## 1811. palace ## noun [C]
 /ˈpæl.əs/ 
 [B1]a very large building where a king, queen or president lives
-- a royal/presidential palace
+- a `royal/presidential` palace
 - While in Istanbul, we saw the Blue Mosque and the Topkapi Palace.
 
 ## 1812. pan ## noun [C]
 /pæn/ COOKING CONTAINER
 [B1]a round, metal container with a handle and usually a lid, that is used for cooking food
 - Heat the milk in the small pan.
-- This dishwasher even washes pots and pans.
+- This dishwasher even washes `pots and` pans.
 
 ## 1813. pantyhose ## noun [plural]
 /ˈpænt.iːˌhoʊz/ 
@@ -11111,7 +11111,7 @@
 ## 1814. paper ## noun
 /ˈpeɪ.pər/ NEWSPAPER
 [B1]a newspaper
-- a daily/weekly/local/national paper
+- a `daily/weekly/local/national` paper
 - The photo was on the front page of all the papers.
 
 ## 1815. paper ## noun
@@ -11127,8 +11127,8 @@
 ## 1817. parking ## noun [U]
 /ˈpɑr.kɪŋ/ LEAVING VEHICLE
 [B1]leaving a vehicle in a particular place for a period of time
-- a parking space/spot
-- street/underground parking
+- a parking `space/spot`
+- `street/underground` parking
 - Some people aren't good at parallel parking.
 
 ## 1818. parking ## noun [U]
@@ -11144,12 +11144,12 @@
 ## 1820. part ## noun
 /pɑrt/ MOVIE/PLAY
 [B1]a character in a movie or play
-- He plays the part of the father in the movie version.
+- He `plays` the part of the father in the movie version.
 
 ## 1821. part ## noun
 /pɑrt/ take part
 [B1]to be involved in an activity with other people
-- She doesn't usually take part in class activities.
+- She doesn't usually take part `in` class activities.
 
 ## 1822. partner ## noun [C]
 /ˈpɑrt.nər/ RELATIONSHIP
@@ -11159,16 +11159,16 @@
 ## 1823. party ## noun [C]
 /ˈpɑrt̬.i/ POLITICS
 [B1]an organization of people who share the same political beliefs and try to win elections
-- a political party
+- a `political` party
 - the Republican/Democratic Party
-- He lost the Republican primary but may run as a third party candidate.
-- Members of his own party voted against the bill.
+- He lost the Republican primary but may run as a `third` party `candidate`.
+- `Members of `his own party voted against the bill.
 
 ## 1824. pass ## noun [C]
 /pæs/ DOCUMENT
 [B1]an official document or ticket that allows you to do something
-- a bus/train pass
-- a boarding pass
+- a `bus/train` pass
+- a `boarding` pass
 
 ## 1825. passive ## noun
 /ˈpæs.ɪv/ the passive
@@ -11183,8 +11183,8 @@
 ## 1827. past ## noun
 /pæst/ the past
 [B1]the time before the present and all the things that happened then
-- the distant/recent past
-- In the past, more travel was by train.
+- the `distant/recent` past
+- `In` the past, more travel was by train.
 
 ## 1828. past ## noun
 /pæst/ sb's past
@@ -11205,44 +11205,44 @@
 ## 1831. pay ## noun [U]
 /peɪ/ 
 [B1]the money you receive for doing a job
-- Did you get a pay increase?
+- Did you get a pay `increase`?
 - It's a nice job but the pay is terrible.
 
 ## 1832. pea ## noun [C]
 /piː/ 
 [B1]a round green seed, several of which grow in a pod, eaten as a vegetable
-- frozen/dried peas
+- `frozen/dried` peas
 - pea soup
 
 ## 1833. peace ## noun [U]
 /piːs/ CALM
 [B1]calm and quiet
-- You'll need peace and quiet to study.
-- He says he's at peace when he's walking in the mountains.
-- Go away and let us to finish our dinner in peace.
-- There'll be no peace until she gets what she wants.
+- You'll need peace `and quiet` to study.
+- He says he's `at` peace when he's walking in the mountains.
+- Go away and `let` us to finish our dinner `in` peace.
+- There'll be `no` peace until she gets what she wants.
 
 ## 1834. peach ## noun [C or U]
 /piːtʃ/ 
 [B1]a round fruit with sweet yellow flesh that has a lot of juice, a slightly furry red and yellow skin and a large seed in its center
-- Would you like peaches and cream for dessert?
+- Would you like peaches `and cream` for dessert?
 
 ## 1835. peak ## noun [C]
 /piːk/ MOUNTAIN TOP
 [B1]the top of a mountain, or the mountain itself
-- snow-covered peaks
-- It is one of the most difficult peaks to climb.
+- `snow-covered` peaks
+- It is one of the most difficult peaks to `climb`.
 
 ## 1836. peanut ## noun [C]
 /ˈpiː.nʌt/ 
 [B1]an oval-shaped nut with a thin brown shell
-- peanut oil
-- salted/dry-roast(ed) peanuts
+- peanut `oil`
+- `salted/dry-roast(ed)` peanuts
 
 ## 1837. pedestrian ## noun [C]
 /pəˈdes.triː.ən/ 
 [B1]a person who is walking and not traveling in a vehicle
-- a pedestrian crossing
+- a pedestrian `crossing`
 - Many streets are reserved for cyclists and pedestrians.
 
 ## 1838. penguin ## noun [C]
@@ -11259,15 +11259,15 @@
 ## 1840. pepper ## noun
 /ˈpep.ər/ VEGETABLE
 [B1]a hollow green, red or yellow vegetable that tastes mild or a similar vegetable that tastes hot
-- green/red/bell peppers
-- Do you like hot peppers?
+- `green/red/bell` peppers
+- Do you like `hot` peppers?
 - chili/jalapeno peppers
 
 ## 1841. performance ## noun
 /pərˈfɔːr.məns/ ENTERTAINMENT
 [B1]acting, dancing, singing, or playing music to entertain people
 - a performance of Arthur Miller's play, "The Crucible"
-- She gave a superb performance as Lady Macbeth.
+- She `gave` a superb performance as Lady Macbeth.
 
 ## 1842. performer ## noun [C]
 /pərˈfɔːr.mər/ 
@@ -11278,9 +11278,9 @@
 /ˈpɪr.iː.əd/ TIME
 [B1]a length of time
 - Her work means that she spends long periods away from home.
-- Unemployment in the first half of the year was 2% lower than in the same period last year.
-- The study will be carried out over a six-month period.
-- The house was built during the colonial period.
+- Unemployment in the first half of the year was 2% lower than `in` the same period last year.
+- The study will be carried out `over` a six-month period.
+- The house was built `during` the colonial period.
 
 ## 1844. period ## noun [C]
 /ˈpɪr.iː.əd/ SCHOOL
@@ -11295,10 +11295,10 @@
 ## 1846. permission ## noun [U]
 /pərˈmɪʃ.ən/ 
 [B1]when you allow someone to do something
-- She gave him permission immediately.
-- They even have to ask for permission before they go to the rest room.
-- The authorities have refused permission for the march to take place.
-- The zoning board has refused to grant permission to build until the plan is revised to include adequate parking.
+- She `gave` him permission immediately.
+- They even have to `ask for` permission before they go to the rest room.
+- The authorities have `refused` permission for the march to take place.
+- The zoning board has refused to `grant` permission to build until the plan is revised to include adequate parking.
 
 ## 1847. pharmacy ## noun [C]
 /ˈfɑr.mə.si/ 
@@ -11334,23 +11334,23 @@
 ## 1853. piece ## noun [C]
 /piːs/ SINGLE AMOUNT
 [B1]a single amount of a particular type of thing
-- I have an interesting piece of information/news for you.
-- She gave me a very useful piece of advice.
+- I have an interesting piece of `information/news` for you.
+- She gave me a very useful piece of `advice`.
 
 ## 1854. pile ## noun [C]
 /pɑɪl/ HEAP
 [B1]objects positioned one on top of another
-- a large pile of sand
-- a pile of books
-- The clothes were arranged in piles on the floor.
+- a large pile `of` sand
+- a pile `of` books
+- The clothes were arranged `in` piles on the floor.
 
 ## 1855. pill ## noun [C]
 /pɪl/ 
 [B1]a small, hard piece of medicine that you swallow
 - a sleeping pill
 - a vitamin pill
-- My mother takes three or four pills a day.
-- Jamie's always had trouble swallowing pills.
+- My mother `takes` three or four pills a day.
+- Jamie's always had trouble `swallowing` pills.
 
 ## 1856. pillow ## noun [C]
 /ˈpɪl.oʊ/ FOR CHAIR
@@ -11365,15 +11365,15 @@
 ## 1858. pineapple ## noun [C or U]
 /ˈpɑɪˌnæp.əl/ 
 [B1]a large fruit with thick skin and sharp leaves sticking out of the top which is sweet and yellow inside
-- pineapple juice
-- We ate some slices of pineapple.
+- pineapple `juice`
+- We ate some `slices` of pineapple.
 
 ## 1859. pipe ## noun [C]
 /pɑɪp/ 
 [B1]a long tube inside through which liquid or gas can move
-- The water pipe burst.
-- a steam/gas pipe
-- a broken/leaky pipe
+- The `water` pipe `burst`.
+- a `steam/gas` pipe
+- a `broken/leaky` pipe
 
 ## 1860. pirate ## noun [C]
 /ˈpɑɪ.rət/ 
@@ -11384,13 +11384,13 @@
 /pleɪs/ SEAT
 [B1]the seat where you sit in a theater, a class, a train, etc.
 - The children accepted their prizes and then went back to their places.
-- Could you hold my place for just a minute?
+- Could you `hold` my place for just a minute?
 
 ## 1862. place ## noun
 /pleɪs/ OPPORTUNITY
 [B1]an position at a school, on a team, in society, etc.
-- He hopes to win a place on the swim team.
-- She has a place in the history of American art.
+- He hopes to win a place `on` the swim team.
+- She has a place `in` the history of American art.
 
 ## 1863. place ## noun
 /pleɪs/ take place
@@ -11411,20 +11411,20 @@
 ## 1866. pleasure ## noun
 /ˈpleʒ.ər/ FEELING
 [B1]a feeling of happiness or enjoyment
-- His visits gave his grandparents such pleasure.
-- Why do so many boys take pleasure in killing insects?
+- His visits `gave` his grandparents such pleasure.
+- Why do so many boys `take` pleasure `in` killing insects?
 
 ## 1867. pleasure ## noun
 /ˈpleʒ.ər/ EXPERIENCE
 [B1]an enjoyable activity or experience
-- It was such a pleasure to meet you.
-- He wrote an article on the pleasures and pains of camping.
+- `It` was such a pleasure `to` meet you.
+- He wrote an article on the pleasures and pains `of` camping.
 - Reading is one of my few pleasures.
 
 ## 1868. plug ## noun [C]
 /plʌg/ ELECTRICAL OBJECT
 [B1]a plastic or rubber object with metal pins, used to connect electrical equipment to an electricity supply
-- a three-prong/two-prong plug
+- a `three-prong/two-prong` plug
 - Is the plug in?
 - If a plug is broken, it can be dangerous.
 
@@ -11436,13 +11436,13 @@
 ## 1870. pocket ## noun [C]
 /ˈpɑk.ɪt/ IN BAG
 [B1]a container which is sewn into or onto a bag or fixed to a seat or door in a vehicle
-- Sarah put her maps in the inside/outside pocket of her backpack.
-- The safety instructions are in the pocket of the seat in front of you.
+- Sarah put her maps in the `inside/outside` pocket of her backpack.
+- The safety instructions are in the pocket `of` the seat in front of you.
 
 ## 1871. poem ## noun [C]
 /ˈpoʊ.əm/ 
 [B1]a piece of writing, especially one which has short lines and uses words that sound similar
-- a book of love poems
+- a book of `love` poems
 
 ## 1872. poet ## noun [C]
 /ˈpoʊ.ɪt/ 
@@ -11452,17 +11452,17 @@
 ## 1873. poetry ## noun [U]
 /ˈpoʊ.ə.tri/ 
 [B1]poems in general as a form of literature
-- modern poetry
-- I enjoy all kinds of poetry, especially love poetry.
-- She started writing poetry at a young age.
+- `modern` poetry
+- I enjoy all kinds of poetry, especially `love` poetry.
+- She started `writing` poetry at a young age.
 
 ## 1874. point ## noun
 /pɔɪnt/ IDEA
 [B1]an idea, opinion, or fact that someone says or writes
-- I'd like to discuss the first point in your essay.
-- He explained his point by drawing a diagram.
-- Could I make a point about noise levels?
-- I take your point about cycling, but I still prefer to walk.
+- I'd like to discuss the `first` point in your essay.
+- He `explained` his point by drawing a diagram.
+- Could I `make` a point about noise levels?
+- I `take` your point about cycling, but I still prefer to walk.
 
 ## 1875. point ## noun
 /pɔɪnt/ SPORTS
@@ -11477,15 +11477,15 @@
 ## 1877. politics ## noun [U]
 /ˈpɑl.əˌtɪks/ 
 [B1]ideas and activities relating to how a country or area is governed
-- He has little interest in local politics.
+- He has little interest in `local` politics.
 - She's planning to retire from politics next year.
 
 ## 1878. pollution ## noun [U]
 /pəˈluː.ʃən/ 
 [B1]damage caused to water, air, etc. by harmful substances or waste
-- air/water pollution
+- `air/water` pollution
 - The book shows simple things you can do to reduce pollution from your car.
-- The manifesto includes tough measures to tackle road congestion and environmental pollution.
+- The manifesto includes tough measures to tackle road congestion and `environmental` pollution.
 
 ## 1879. pool ## noun
 /puːl/ GAME
@@ -11495,8 +11495,8 @@
 ## 1880. population ## noun
 /ˌpɑp.jəˈleɪ.ʃən/ NUMBER
 [B1]the number of people living in a particular area
-- a growing/shrinking population
-- What's the population of Brazil?
+- a `growing/shrinking` population
+- What's the population `of` Brazil?
 
 ## 1881. pork ## noun [U]
 /pɔːrk/ 
@@ -11507,73 +11507,73 @@
 ## 1882. port ## noun [C or U]
 /pɔːrt/ 
 [B1]a town by the sea or by a river that has a harbor, or the harbor itself
-- a fishing/container port
+- a `fishing/container` port
 - the Belgian port of Zeebrugge
-- We had a good view of all the ships coming into/leaving port.
+- We had a good view of all the ships `coming into/leaving` port.
 
 ## 1883. position ## noun
 /pəˈzɪʃ.ən/ SITUATION
 [B1]the situation that someone is in
-- When two of your best friends argue it puts you in a bad position.
+- When two of your best friends argue it `puts` you `in` a `bad` position.
 
 ## 1884. position ## noun
 /pəˈzɪʃ.ən/ PLACE
 [B1]the place where something or someone is, often in relation to other things
 - I found our position on the map.
-- You've moved the furniture around - the sofa is in a different position.
+- You've moved the furniture around - the sofa is `in` a different position.
 
 ## 1885. position ## noun
 /pəˈzɪʃ.ən/ SITTING/STANDING
 [B1]the way someone is sitting, standing, or lying, or if something is pointing up or down, etc.
 - a kneeling position
-- I go to sleep on my back but I always wake up in a different position.
-- Keep the bottles in an upright position.
+- I go to sleep on my back but I always wake up `in` a different position.
+- Keep the bottles `in` an upright position.
 
 ## 1886. position ## noun
 /pəˈzɪʃ.ən/ SPORTS
 [B1]the part that someone plays in a game such as football
-- I didn't know you played hockey - what position do you play?
+- I didn't know you played hockey - what position do you `play`?
 
 ## 1887. possibility ## noun
 /ˌpɑs.əˈbɪl.ət̬.i/ MAY HAPPEN/BE TRUE
 [B1]a chance that something may happen or be true
-- The forecast said that there's a possibility of snow tonight.
-- Is there any possibility (that) you could pick me up at the station?
-- There is a strong possibility that she was lying.
+- The forecast said that there's a possibility `of` snow tonight.
+- Is there any possibility `(that)` you could pick me up at the station?
+- There is a `strong` possibility that she was lying.
 
 ## 1888. pot ## noun [C]
 /pɑt/ 
 [B1]a round container, usually used for storing things or for cooking
 - a flower pot
-- There's plenty of space in the kitchen for all your pots and pans.
+- There's plenty of space in the kitchen for all your pots `and pans`.
 - Fill a large pot with water and bring it to a boil.
 
 ## 1889. powder ## noun [C or U]
 /ˈpɑʊd.ər/ 
 [B1]a dry substance made of many small, loose grains
-- curry/chilli powder
+- `curry/chilli` powder
 - A packet of white powder was found and police scientists are analyzing it.
 
 ## 1890. power ## noun
 /ˈpɑʊ.ər/ ELECTRICITY
 [B1]energy, usually electricity, that is used to provide light, heat, etc.
-- power lines
-- nuclear/wind/solar power
-- We lost power for three days.
+- power `lines`
+- `nuclear/wind/solar` power
+- We `lost` power for three days.
 
 ## 1891. prayer ## noun [C]
 /prer/ 
 [B1]the words you say to a god
-- a prayer of thanks
-- She always says her prayers before she goes to sleep.
-- We thought he'd been killed, but our prayers were answered when he arrived home safely.
+- a prayer `of` thanks
+- She always `says` her prayers before she goes to sleep.
+- We thought he'd been killed, but our prayers were `answered` when he arrived home safely.
 
 ## 1892. preparation ## noun
 /ˌprep.əˈreɪ.ʃən/ GETTING READY
 [B1]the things that you do or the time that you spend preparing for something
-- The teacher was arranging the classroom in preparation for the new students.
-- The team blamed injuries and lack of preparation for the loss.
-- Yasmin assisted in the preparation of this article.
+- The teacher was arranging the classroom `in` preparation `for` the new students.
+- The team blamed injuries and `lack of` preparation for the loss.
+- Yasmin assisted `in the` preparation `of` this article.
 
 ## 1893. preposition ## noun [C]
 /ˌprep.əˈzɪʃ.ən/ 
@@ -11584,21 +11584,21 @@
 /prɪˈskrɪp.ʃən/ 
 [B1]a piece of paper on which a doctor writes the details of the medicine or drugs that someone needs
 - a doctor's prescription
-- a prescription for sleeping pills
-- The doctor renewed my prescription for three more months.
-- This drug is only available by prescription.
-- My insurance has a very low co-pay for prescription drugs.
+- a prescription `for` sleeping pills
+- The doctor `renewed` my prescription for three more months.
+- This drug is only available `by` prescription.
+- My insurance has a very low co-pay for prescription `drugs`.
 
 ## 1895. present ## noun
  the present
 [B1]the period of time that is happening now
-- The play is set in the present.
-- We have no positions available at the present time.
+- The play is set `in` the present.
+- We have no positions available at the present `time`.
 
 ## 1896. presentation ## noun
 /ˌprez.ənˈteɪ.ʃən/ EVENT
 [B1]a talk giving information about something
-- The speaker gave an interesting presentation on urban transportation.
+- The speaker `gave` an interesting presentation on urban transportation.
 
 ## 1897. priest ## noun [C]
 /priːst/ 
@@ -11619,10 +11619,10 @@
 ## 1900. prison ## noun [C or U]
 /ˈprɪz.ən/ 
 [B1]a building where criminals must live as a punishment
-- He's spent a lot of time in prison.
-- She went to/was sent to prison for six months.
-- They should put him in prison and throw away the key!
-- a prison cell/sentence
+- He's spent a lot of time `in` prison.
+- She `went to/was sent to` prison for six months.
+- They should `put` him `in` prison and throw away the key!
+- a prison `cell/sentence`
 
 ## 1901. prisoner ## noun [C]
 /ˈprɪz.ə.nər/ PERSON IN PRISON
@@ -11634,14 +11634,14 @@
 [B1]something that is made or grown to be sold
 - They make skin-care products.
 - The product is so good it sells itself.
-- I'm trying to cut down on dairy products.
+- I'm trying to cut down on `dairy` products.
 
 ## 1903. profession ## noun
 /prəˈfeʃ.ən/ WORK
 [B1]a type of work that needs special training or education
 - What's your profession?
-- He's a doctor by profession.
-- The report notes that forty per cent of lawyers entering the profession are women.
+- He's a doctor `by` profession.
+- The report notes that forty per cent of lawyers `entering` the profession are women.
 
 ## 1904. professor ## noun [C]
 /prəˈfes.ər/ 
@@ -11653,13 +11653,13 @@
 ## 1905. progress ## noun [U]
  IMPROVEMENT
 [B1]development and improvement of skills, knowledge, etc.
-- I don't feel that I'm making much progress in learning Spanish.
+- I don't feel that I'm `making` much progress `in` learning Spanish.
 
 ## 1906. promise ## noun [C]
 /ˈprɑm.əs/ SAY
 [B1]when you say that you will certainly do something
 - I'll put my things away tonight - and that's a promise!
-- I'm not sure I can do it so I won't make any promises.
+- I'm not sure I can do it so I won't `make` any promises.
 
 ## 1907. pronoun ## noun [C]
 /ˈproʊ.nɑʊn/ 
@@ -11676,17 +11676,17 @@
 ## 1909. property ## noun
 /ˈprɑp.ərt̬.i/ THINGS OWNED
 [B1]objects that belong to someone
-- The books you borrow remain the property of the library.
-- The club does not accept responsibility for loss of or damage to club members' personal property.
+- The books you borrow remain the property `of` the library.
+- The club does not accept responsibility for loss of or damage to club members' `personal` property.
 - Children need to be taught to have respect for other people's property.
 
 ## 1910. public ## noun
 /ˈpʌb.lɪk/ the public
 [B1]all ordinary people
 - The public has a right to know about this.
-- The park is open to the public until sunset.
-- When will the book be available to the general public?
-- Members of the public were asked about their shopping habits.
+- The park is `open to` the public until sunset.
+- When will the book be available to the `general` public?
+- `Members of` the public were asked about their shopping habits.
 
 ## 1911. public transportation ## noun [U]
 /ˌpʌb.lɪk.træn.spɔːrˈteɪ.ʃən/ 
@@ -11701,7 +11701,7 @@
 ## 1913. pump ## noun [C]
 /pʌmp/ 
 [B1]a piece of equipment which is used to cause liquid, air or gas to move from one place to another
-- a water/gas pump
+- a `water/gas` pump
 - Can I borrow your bicycle pump?
 
 ## 1914. punctuation ## noun [U]
@@ -11724,8 +11724,8 @@
 ## 1917. purpose ## noun
 /ˈpɜr.pəs/ REASON
 [B1]why you do something or why something exists
-- The primary purpose of the meeting is to discuss the future of the company.
-- The school's new lab will be used for research purposes only.
+- The `primary` purpose `of` the meeting is to discuss the future of the company.
+- The school's new lab will be `used for` research purposes only.
 - a multi-purpose kitchen knife
 
 ## 1918. purpose ## noun
@@ -11736,16 +11736,16 @@
 ## 1919. push ## noun
 /pʊʃ/ PRESS
 [B1]when you move someone or something by pressing them with your hands or body
-- Get on the swing and I'll give you a push.
-- I gave the door a good push, but it still wouldn't open.
+- Get on the swing and I'll `give` you a push.
+- I `gave` the door a good push, but it still wouldn't open.
 
 ## 1920. quality ## noun
 /ˈkwɑl.ət̬.i/ GOOD OR BAD
 [B1]how good or bad something is
-- good/high quality
-- poor/low quality
+- `good/high` quality
+- `poor/low` quality
 - The air quality in this area is terrible.
-- All we are asking for is a decent quality of life.
+- All we are asking for is a decent quality `of life`.
 
 ## 1921. quality ## noun
 /ˈkwɑl.ət̬.i/ GOOD
@@ -11755,9 +11755,9 @@
 ## 1922. quantity ## noun [C or U]
 /ˈkwɑnt.ət̬.i/ AMOUNT
 [B1]the amount or number of something
-- a large/small quantity
-- We consume vast quantities of sugar in this country.
-- They are now developing ways to produce the vaccine in large quantities.
+- a `large/small` quantity
+- We consume `vast` quantities `of` sugar in this country.
+- They are now developing ways to produce the vaccine `in` large quantities.
 - This recipe is only for two, so I usually double the quantity if I'm cooking for my family.
 
 ## 1923. question mark ## noun [C]
@@ -11768,7 +11768,7 @@
 ## 1924. questionnaire ## noun [C]
 /ˌkwes.tʃəˈner/ 
 [B1]a set of questions asked of a large number of people to discover information about a subject
-- Residents have been sent questionnaires about their homes and energy use.
+- Residents have been sent questionnaires `about` their homes and energy use.
 
 ## 1925. quiz ## noun [C]
 /kwɪz/ TEST
@@ -11780,27 +11780,27 @@
 ## 1926. radio ## noun
 /ˈreɪd.iːˌoʊ/ SYSTEM
 [B1]a system of sending and receiving sound through the air
-- local radio
-- a radio station
+- `local` radio
+- a radio `station`
 
 ## 1927. rail ## noun
 /reɪl/ TRAINS
 [B1]trains as a method of transportation
-- Thousands of commuters travel to work by rail.
+- Thousands of commuters travel to work `by` rail.
 - The rail line has been extended into Bayonne.
-- rail service/transportation
+- rail `service/transportation`
 
 ## 1928. rain forest ## noun [C]
 /ˈreɪn.fɔːr.əst/ 
 [B1]a forest in a tropical area which receives a lot of rain
-- a tropical rain forest
+- a `tropical` rain forest
 
 ## 1929. range ## noun
 /reɪndʒ/ OF THINGS
 [B1]a group of different things of the same general type
-- a range of colors/patterns
-- We discussed a wide range of subjects.
-- The clinic provides a full range of medical services.
+- a range `of` colors/patterns
+- We discussed a `wide` range of subjects.
+- The clinic provides a `full` range of medical services.
 
 ## 1930. range ## noun
 /reɪndʒ/ MOUNTAINS
@@ -11811,9 +11811,9 @@
 ## 1931. reader ## noun [C]
 /ˈriːd.ər/ PERSON
 [B1]someone who reads
-- He's a great reader.
+- He's a `great` reader.
 - Many readers of our magazine have contacted us about the last issue on climate change.
-- He's a very slow/fast reader.
+- He's a very `slow/fast` reader.
 
 ## 1932. reader ## noun [C]
 /ˈriːd.ər/ BOOK
@@ -11823,8 +11823,8 @@
 ## 1933. recipe ## noun [C]
 /ˈres.ə.piː/ 
 [B1]a list of foods and a set of instructions telling you how to cook something
-- Do you know a good recipe for a multigrain bread?
-- When I make pies, I don’t need to follow a recipe.
+- Do you know a good recipe `for` a multigrain bread?
+- When I make pies, I don’t need to `follow` a recipe.
 
 ## 1934. record ## noun
  SONG/MUSIC
@@ -11834,20 +11834,20 @@
 ## 1935. record ## noun
  BEST
 [B1]the best, biggest, longest, tallest, etc.
-- He ran the 100 meters in 9.79 seconds and broke the world record.
-- He holds the world record for 100 meters.
-- She set a new record for the high jump.
+- He ran the 100 meters in 9.79 seconds and `broke` the `world` record.
+- He `holds the` world record for 100 meters.
+- She `set` a new record for the high jump.
 
 ## 1936. recording ## noun
 /rəˈkɔːrd.ɪŋ/ MUSIC/SPEECH
 [B1]a piece of music or a speech which has been recorded onto a disc, tape, etc.
-- I bought a recording of Maria Callas singing Verdi.
+- I bought a recording `of` Maria Callas singing Verdi.
 
 ## 1937. recycling ## noun [U]
 /riːˈsɑɪ.klɪŋ/ PROCESS
 [B1]when paper, glass, plastic, etc., is put through a process so that it can be used again
 - ways to encourage recycling
-- a recycling center
+- a recycling `center`
 
 ## 1938. refreshments ## noun [plural]
 /rɪˈfreʃ.mənts/ 
@@ -11857,13 +11857,13 @@
 ## 1939. refund ## noun [C]
 /ˈriː.fʌnd/ 
 [B1]an amount of money that is given back to you, especially because you are not happy with something you have bought
-- The airline was responsible for the cancellation and we expect to get/receive a full refund.
+- The airline was responsible for the cancellation and we expect to `get/receive` a `full` refund.
 
 ## 1940. regard ## noun [U]
 /rɪˈgɑrd/ regards
 [B1]greetings
-- Best regards
-- Give my regards to your mother.
+- `Best` regards
+- ` Give my` regards `to` your mother.
 
 ## 1941. region ## noun [C]
 /ˈriː.dʒən/ AREA
@@ -11880,29 +11880,29 @@
 /rəˈleɪ.ʃən/ FAMILY MEMBER
 [B1]someone who belongs to the same family as you
 - On our trip, we visited friends and relations on both sides of the family.
-- He's Ken Russell, but he's no relation to the movie director.
+- He's Ken Russell, but he's `no` relation `to` the movie director.
 
 ## 1944. relationship ## noun [C]
 /rəˈleɪ.ʃənˌʃɪp/ TWO PEOPLE/GROUPS
 [B1]the way two people or groups feel about and behave toward each other
-- He has a very good relationship with his father.
+- He has a very good relationship `with` his father.
 
 ## 1945. relationship ## noun [C]
 /rəˈleɪ.ʃənˌʃɪp/ ROMANTIC
 [B1]a romantic friendship
-- Are you in a relationship at the moment?
+- Are you `in a` relationship at the moment?
 
 ## 1946. relative ## noun [C]
 /ˈrel.ət̬.ɪv/ 
 [B1]a member of your family
 - All of these people are my relatives.
-- There was a party for friends and relatives.
-- All her close/distant relatives came to the wedding.
+- There was a party for `friends and` relatives.
+- All her `close/distant` relatives came to the wedding.
 
 ## 1947. relaxation ## noun [U]
 /ˌriː.lækˈseɪ.ʃən/ 
 [B1]the feeling of being relaxed
-- He plays the piano for relaxation.
+- He plays the piano `for` relaxation.
 
 ## 1948. religion ## noun [C or U]
 /rəˈlɪdʒ.ən/ 
@@ -11918,22 +11918,22 @@
 /rɪˈper/ 
 [B1]something that you do to fix something that is broken or damaged
 - My car is in the garage for repairs.
-- The repairs to the roof will be expensive.
+- The repairs `to` the roof will be expensive.
 
 ## 1951. reply ## noun [C or U]
 /rəˈplɑɪ/ 
 [B1]an answer
 - Her reply was short and unfriendly.
-- Did you get a reply to your e-mail?
-- In reply to their questions, she just shrugged.
-- When he made no reply, she continued.
+- Did you get a reply `to` your e-mail?
+- `In` reply `to` their questions, she just shrugged.
+- When he `made` no reply, she continued.
 
 ## 1952. report ## noun [C]
 /rəˈpɔːrt/ 
 [B1]a description of an event or situation
-- a news/weather report
+- a `news/weather` report
 - a company's financial report
-- a report on climate change
+- a report `on` climate change
 - According to reports there has been an earthquake in Los Angeles.
 - Remember to hand in your book reports on Tuesday.
 
@@ -11945,32 +11945,32 @@
 ## 1954. request ## noun [C or U]
 /rəˈkwest/ 
 [B1]when you politely or officially ask for something
-- They received hundreds of requests for more information.
-- He made a request for the report to be sent to his doctor.
-- An application form is available on request.
-- The clause was added to the contract at her request.
-- The manager refused their request to leave work early.
+- They received hundreds of requests `for` more information.
+- He `made` a request for the report to be sent to his doctor.
+- An application form is available `on` request.
+- The clause was added to the contract `at` her request.
+- The manager refused their request `to` leave work early.
 
 ## 1955. rescue ## noun [C or U]
 /ˈres.kjuː/ SAVE
 [B1]when someone is saved from a dangerous or unpleasant situation
 - Lifeboats carry out many rescues every month.
-- an unsuccessful rescue attempt
+- an unsuccessful rescue `attempt`
 
 ## 1956. research ## noun [U]
  
 [B1]the study of a subject in detail to find information or to gain a better understanding of it
-- scientific/medical research
+- `scientific/medical` research
 - a research center
-- research on language development
-- I like doing research.
+- research `on` language development
+- I like `doing` research.
 - I've done some research on the best beaches to visit.
 
 ## 1957. reservation ## noun
 /ˌrez.ərˈveɪ.ʃən/ ARRANGEMENT
 [B1]an arrangement that you make to have a seat on an aircraft, a room in a hotel, etc.
 - I made a reservation at the restaurant for 7 o’clock.
-- Please confirm your reservation two days in advance.
+- Please `confirm` your reservation two days in advance.
 
 ## 1958. resort ## noun [C]
 /rɪˈzɔːrt/ VACATION
@@ -11981,21 +11981,21 @@
 ## 1959. respect ## noun
 /rəˈspekt/ ADMIRATION
 [B1]when you admire someone because of their knowledge, skill, or achievements
-- She's an excellent teacher and I have the greatest respect for her.
-- New teachers have to earn the respect of their students.
+- She's an excellent teacher and I have the greatest respect `for` her.
+- New teachers have to `earn` the respect `of` their students.
 
 ## 1960. respect ## noun
 /rəˈspekt/ POLITENESS
 [B1]when you are polite to someone, especially because they are older or more important than you
-- You should show more respect for your parents.
-- Teachers should be treated with respect.
-- She has no respect for her boss.
+- You should show more respect `for` your parents.
+- Teachers should be `treated with` respect.
+- She has `no` respect for her boss.
 
 ## 1961. result ## noun
 /rɪˈzʌlt/ HAPPEN
 [B1]something that happens or exists because something else has happened
-- Most accidents are the result of human error.
-- Unemployment has risen as a direct result of new economic policies.
+- Most accidents are `the` result `of` human error.
+- Unemployment has risen `as a` direct result `of` new economic policies.
 
 ## 1962. result ## noun
 /rɪˈzʌlt/ INFORMATION
@@ -12012,20 +12012,20 @@
 ## 1964. return ## noun
 /rɪˈtɜrn/ GOING BACK
 [B1]when someone goes or comes back to a place where they were before
-- The whole town came out to celebrate his return from the war.
-- On his return to Sydney, he started up a business.
+- The whole town came out to celebrate his return `from` the war.
+- `On` his return to Sydney, he started up a business.
 
 ## 1965. return ## noun
 /rɪˈtɜrn/ COMPUTER
 [B1]a key on a computer keyboard that is used to make the computer accept information or to start a new line in a document
-- Type in the password and press return.
+- Type in the password and `press` return.
 
 ## 1966. review ## noun
 /rɪˈvjuː/ REPORT
 [B1]a report in a newspaper, magazine, or program that gives an opinion about a new book, film, etc.
-- He writes movie/theater/book reviews for the newspapers.
-- Her latest novel had/received excellent reviews.
-- The film has had mixed reviews.
+- He writes `movie/theater/book` reviews for the newspapers.
+- Her latest novel `had/received` excellent reviews.
+- The film has had `mixed` reviews.
 
 ## 1967. review ## noun
 /rɪˈvjuː/ STUDY
@@ -12035,26 +12035,26 @@
 ## 1968. reward ## noun [C]
 /rɪˈwɔːrd/ SOMETHING GOOD
 [B1]something good that you get or experience because you have worked hard, behaved well, etc.
-- There'll be a reward for whoever finishes first.
-- I told her she could choose a toy as a reward for her good behavior.
+- There'll be a reward `for` whoever finishes first.
+- I told her she could choose a toy `as a` reward for her good behavior.
 
 ## 1969. reward ## noun [C]
 /rɪˈwɔːrd/ MONEY
 [B1]an amount of money given to someone for helping to find something or for helping the police to return stolen property
-- The police offered a reward for any information about the robbery.
+- The police offered a reward `for` any information about the robbery.
 
 ## 1970. ride ## noun [C]
 /rɑɪd/ VEHICLE
 [B1]a trip in a vehicle or train
 - It's a short bus ride to the airport.
-- Can I give you a ride to the station?
+- Can I `give` you a ride to the station?
 - He asked me for a ride into town.
 
 ## 1971. ride ## noun [C]
 /rɑɪd/ BICYCLE
 [B1]a trip you take by riding a bicycle, motorcycle, or horse
-- He's gone out for a ride on his bike.
-- Do you want to come for a ride on my motorbike?
+- He's gone out for a ride `on` his bike.
+- Do you want to come for a ride `on` my motorbike?
 
 ## 1972. ride ## noun [C]
 /rɑɪd/ PLAYING
@@ -12074,7 +12074,7 @@
 ## 1975. rock ## noun
 /rɑk/ HARD SUBSTANCE
 [B1]the hard, natural substance that forms part of the earth's surface, or an area of this substance sticking out of the sea or ground
-- a layer of rock
+- a `layer` of rock
 - Mountains and cliffs are formed from rock.
 - Waves crashed against the rocks.
 - We climbed over the rocks and up to the top of the hill.
@@ -12082,8 +12082,8 @@
 ## 1976. role ## noun [C]
 /roʊl/ ACTING
 [B1]an actor's part in a film or play
-- She's got a leading/supporting role in the school play.
-- He plays the role of a young lawyer.
+- She's got a `leading/supporting` role in the school play.
+- He `plays` the role `of` a young lawyer.
 
 ## 1977. roll ## noun [C]
 /roʊl/ BREAD
@@ -12094,28 +12094,28 @@
 /roʊˈmæns/ 
 [B1]a close relationship between two people who are in love with each other
 - Their three-year romance never went smoothly.
-- Office romances are usually a bad idea.
+- `Office` romances are usually a bad idea.
 
 ## 1979. room ## noun
 /ruːm/ SPACE
 [B1]space for things to fit into
-- Is there enough room for me in the car?
-- That sofa would take up too much room in the apartment.
-- Rick took the books off the table to make room for the television.
+- Is there enough room `for` me in the car?
+- That sofa would `take up` too much room in the apartment.
+- Rick took the books off the table to `make` room `for` the television.
 
 ## 1980. rose ## noun [C]
 /roʊz/ 
 [B1]a flower with a pleasant smell and thorns, that grows on a bush
 - a rose bush
-- She sent him a bunch of red roses.
+- She sent him a `bunch of` red roses.
 
 ## 1981. route ## noun [C]
 /ruːt/ ROAD
 [B1]the roads or paths you follow to get from one place to another place
 - an escape route
 - I'm just planning my route.
-- What's the best route to the station?
-- Crowds gathered all along the route to watch the race.
+- What's the best route `to` the station?
+- Crowds gathered `all along the` route to watch the race.
 
 ## 1982. route ## noun [C]
 /ruːt/ Route
@@ -12126,20 +12126,20 @@
 ## 1983. routine ## noun [C or U]
 /ruːˈtiːn/ 
 [B1]the things you regularly do and how and when you do them
-- Getting coffee and a bagel was part of my daily routine.
+- Getting coffee and a bagel was part of my `daily` routine.
 - He longed to escape the routine of an office job.
-- We don't have a set/fixed routine - every day is different.
+- We don't have a `set/fixed` routine - every day is different.
 
 ## 1984. row ## noun [C]
 /roʊ/ LINE
 [B1]a straight line of people or things
 - a row of chairs/houses
-- My students sit at desks in rows for most of the time.
+- My students sit at desks `in` rows for most of the time.
 
 ## 1985. row ## noun [C]
 /roʊ/ SEATS
 [B1]a line of seats
-- to sit in the back/front row
+- to sit in the `back/front` row
 - Isn't that Anita sitting in the row behind us?
 
 ## 1986. rug ## noun [C]
@@ -12150,25 +12150,25 @@
 ## 1987. ruin ## noun
 /ˈruː.ən/ REMAINS
 [B1]the broken remains that are left from an old building after it has been destroyed
-- Thousands of tourists wander around these ancient ruins every year.
+- Thousands of tourists wander around these `ancient` ruins every year.
 
 ## 1988. rule ## noun
 /ruːl/ INSTRUCTION
 [B1]an official instruction about what you must or must not do
-- to break the rules
-- to obey/follow the rules
-- You can't run in the hallways, it's against the rules.
+- to `break` the rules
+- to `obey/follow` the rules
+- You can't run in the hallways, it's `against the` rules.
 
 ## 1989. rule ## noun
 /ruːl/ PRINCIPLE
 [B1]a principle of a system, such as a language or science
-- the rules of grammar
+- the rules of `grammar`
 
 ## 1990. run ## noun [C]
 /rʌn/ MOVE FAST
 [B1]when you move on your feet at a speed faster than walking, especially for exercise
-- We go for a three-mile run every evening after work.
-- If you set off at a run, you'll be exhausted later.
+- We `go for` a three-mile run every evening after work.
+- If you set off `at a` run, you'll be exhausted later.
 
 ## 1991. résumé ## noun [C]
 /ˈrez.əˌmeɪ/ 
@@ -12183,11 +12183,11 @@
 ## 1993. salary ## noun [C or U]
 /ˈsæl.ə.ri/ 
 [B1]a fixed amount of money that you receive from your employer, usually every month
-- an annual salary of $50,000
-- His net monthly salary is $3500.
-- She has quite a good/decent salary in her present job.
-- He took a drop in salary when he changed jobs.
-- a 10 percent salary increase
+- an `annual` salary of $50,000
+- His net `monthly` salary is $3500.
+- She `has` quite a `good/decent` salary in her present job.
+- He `took a drop in` salary when he changed jobs.
+- a 10 percent salary `increase`
 
 ## 1994. sale ## noun
 /seɪl/ on sale
@@ -12208,7 +12208,7 @@
 ## 1997. salmon ## noun [C or U]
 /ˈsæm.ən/ 
 [B1]a large, silver fish, or the pink meat of this fish
-- fresh/smoked/canned salmon
+- `fresh/smoked/canned` salmon
 - salmon fishing
 
 ## 1998. salon ## noun [C]
@@ -12221,19 +12221,19 @@
 /sænd/ 
 [B1]a substance that is found on beaches and in deserts, which is made from very small grains of rock
 - a grain of sand
-- The children played all day in the sand.
+- The children played all day `in` the sand.
 - coarse/fine sand
 
 ## 2000. sandal ## noun [C]
 /ˈsæn.dəl/ 
 [B1]a light shoe with straps that you wear in warm weather
-- a pair of sandals
+- a `pair` of sandals
 
 ## 2001. saucer ## noun [C]
 /ˈsɔː.sər/ 
 [B1]a small plate that you put under a cup
 - a cup and saucer
-- She gave the cat a saucer of milk.
+- She gave the cat a saucer `of` milk.
 
 ## 2002. scene ## noun
 /siːn/ FILM/BOOK, ETC.
@@ -12245,7 +12245,7 @@
 /ˈsiː.nə.ri/ 
 [B1]the attractive, natural things that you see outdoors in the country
 - beautiful/breathtaking/spectacular scenery
-- They stopped at the top of the hill to admire the scenery.
+- They stopped at the top of the hill to `admire` the scenery.
 
 ## 2004. schedule ## noun [C]
 /ˈskedʒ.uːl/ BUS/TRAIN
@@ -12256,7 +12256,7 @@
 /skuːl/ COLLEGE/UNIVERSITY
 [B1]a college or university, or a part of a college or university where students study a particular subject
 - She's in graduate school now.
-- We were in school together at the University of Michigan.
+- We were `in` school together `at` the University of Michigan.
 - law/medical/business school
 
 ## 2006. science ## noun
@@ -12264,7 +12264,7 @@
 [B1]a particular type of science
 - computer science
 - Chemistry, physics, and biology are all sciences.
-- advances in medical science
+- advances in `medical` science
 
 ## 2007. science fiction ## noun [U]
 /ˌsɑɪ.ənsˈfɪk.ʃən / 
@@ -12279,10 +12279,10 @@
 ## 2009. score ## noun [C]
 /skɔːr/ 
 [B1]the number of points someone gets in a game or test
-- a high/low score
+- a `high/low score`
 - What's the score?
-- At half time, the score was tied at 2–2.
-- The final score was 3-0.
+- At half time, the score `was tied` at 2–2.
+- The `final` score was 3-0.
 
 ## 2010. scream ## noun [C]
 /skriːm/ 
@@ -12295,25 +12295,25 @@
 - a wood/bronze/marble sculpture
 - modern sculpture
 - Tom teaches sculpture at the art school.
-- The museum has several life-sized sculptures of people and animals.
+- The museum has several life-sized sculptures `of` people and animals.
 
 ## 2012. search ## noun
 /sɜrtʃ/ TRY TO FIND
 [B1]when you try to find someone or something
 - After a long search, they eventually found the missing papers.
-- The police carried out/conducted/made a thorough search of the house.
+- The police `carried out/conducted/made` a thorough search `of` the house.
 
 ## 2013. search ## noun
 /sɜrtʃ/ USE COMPUTER
 [B1]when you use a computer to find information, especially on the Internet
-- Why not do a search on Google for hotels in the area?
-- We're doing a computer search for all words beginning with "high."
+- Why not `do` a search on Google for hotels in the area?
+- We're `doing` a computer search `for` all words beginning with "high."
 
 ## 2014. seaside ## noun
 /ˈsiː.sɑɪd/ 
 [B1]an area or town next to the sea
 - a seaside resort/town
-- We had a picnic at the seaside.
+- We had a picnic `at` the seaside.
 
 ## 2015. season ## noun [C]
 /ˈsiː.zən/ PART OF YEAR
@@ -12323,16 +12323,16 @@
 ## 2016. season ## noun [C]
 /ˈsiː.zən/ FOR PARTICULAR EVENT
 [B1]a period of the year when a particular thing happens
-- How long does the dry/hurricane/wet season last?
+- How long does the `dry/hurricane/wet` season last?
 - The baseball season lasts from April to October.
 
 ## 2017. second ## noun [C]
 /ˈsek.ənd/ VERY SHORT PERIOD
 [B1]a very short period of time
-- Come on, hurry up! "I'll just/only be a second - I have to lock the back door."
+- Come on, hurry up! "I'll `just/only` be a second - I have to lock the back door."
 - Have you got a second, Paul? I'd like to have a word with you.
 - It won't take a second.
-- Wait a couple of/a few seconds before trying again.
+- Wait `a couple of/a few` seconds before trying again.
 
 ## 2018. secondary school ## noun [C]
 /ˈsek.ən.der.iˌskuːl/ 
@@ -12343,29 +12343,29 @@
 /ˈsiː.krət/ NOT TELL
 [B1]something that you tell no one about or only a few people
 - I'm having a party for him but it's a secret.
-- Can you keep a secret?
-- We don't keep secrets from each other.
-- Aren't you going to let me in on the secret?
-- She makes no secret of her desire to sell the house.
-- That restaurant is one of the best-kept secrets in Denver.
+- Can you `keep` a secret?
+- We don't `keep` secrets `from` each other.
+- Aren't you going to `let` me `in on` the secret?
+- She `makes no` secret `of` her desire to sell the house.
+- That restaurant is one of the `best-kept` secrets in Denver.
 
 ## 2020. section ## noun [C]
 /ˈsek.ʃən/ 
 [B1]one of the parts that something is divided into
-- the sports section of the newspaper
-- the tail section of an aircraft
-- He lived in a poor section of town.
+- the sports section `of` the newspaper
+- the tail section `of` an aircraft
+- He lived in a poor section `of` town.
 - You’ll find ice cream in the frozen food section.
 
 ## 2021. security ## noun [U]
 /sɪˈkjur.ət̬.i/ PROTECTION
 [B1]protection of a person, building, organization or country against threats such as crime or attacks by foreign countries
-- security forces/guards
-- security measures
-- security concerns/issues
-- For security reasons, they felt it necessary to close the avenue.
-- He sold information that may have damaged our national security.
-- The new measures will improve border/airport security.
+- security `forces/guards`
+- security `measures`
+- security `concerns/issues`
+- For security `reasons`, they felt it necessary to close the avenue.
+- He sold information that may have damaged our `national` security.
+- The new measures will improve `border/airport` security.
 
 ## 2022. seller ## noun [C]
 /ˈsel.ər/ 
@@ -12387,20 +12387,20 @@
 ## 2025. series ## noun [C]
 /ˈsɪr.iːz/ BROADCASTS
 [B1]a group of television or radio programs that have the same main characters or deal with the same subject
-- a comedy series
+- a `comedy` series
 - I missed the second episode of the series so I don't know what's going on now.
 
 ## 2026. server ## noun [C]
 /ˈsɜr.vər/ 
 [B1]a central computer from which other computers get information
-- a network/file server
+- a `network/file` server
 
 ## 2027. service ## noun
 /ˈsɜr.vɪs/ PUBLIC NEED
 [B1]a system or organization that provides something that people need
-- the postal service
-- medical/social services
-- We will be operating normal rush-hour train service.
+- the `postal` service
+- `medical/social` services
+- We will be `operating` normal rush-hour train service.
 - My brother runs a car service business that rents cars with drivers.
 - There is bus service to the airport every twenty minutes.
 
@@ -12412,36 +12412,36 @@
 ## 2029. session ## noun [C]
 /ˈseʃ.ən/ 
 [B1]a period of time or a meeting arranged for a particular activity
-- The 21-year-old runner twisted his ankle in a training session last Friday.
-- As the heads of state gathered, the press were allowed in for a photo session.
+- The 21-year-old runner twisted his ankle in a `training` session last Friday.
+- As the heads of state gathered, the press were allowed in for a `photo` session.
 
 ## 2030. sex ## noun [U]
 /seks/ MALE OR FEMALE
 [B1]the state of being either male or female
 - What sex is your cat?
-- Some tests enable you to find out the sex of your baby before it's born.
+- Some tests enable you to find out the sex `of` your baby before it's born.
 
 ## 2031. sex ## noun [U]
 /seks/ ACTIVITY
 [B1]sexual activity between people
 - She was complaining about all the sex and violence on television.
-- Most young people now receive sex education at school.
-- unprotected sex
+- Most young people now receive sex `education` at school.
+- `unprotected` sex
 
 ## 2032. shade ## noun
 /ʃeɪd/ LESS SUN
 [B1]an area where light from the sun is blocked and so it is darker and not as hot
-- I'd prefer to sit in the shade.
+- I'd prefer to sit `in the` shade.
 - The sun was hot, and there were no trees to offer us shade.
-- The children played in/under the shade of a large beach umbrella.
+- The children played `in/under the` shade `of` a large beach umbrella.
 
 ## 2033. shadow ## noun [C or U]
 /ˈʃæd.oʊ/ NO LIGHT
 [B1]a dark area made by something that is stopping the light
-- The tree had cast a long shadow.
+- The tree had `cast` a long shadow.
 - The children were playing, jumping on each other's shadows.
 - Jamie followed his mother around all day like a shadow.
-- This corner of the room is always in shadow.
+- This corner of the room is always `in` shadow.
 
 ## 2034. shape ## noun [C or U]
 /ʃeɪp/ PHYSICAL FORM
@@ -12450,9 +12450,9 @@
 - You can recognize trees by the shape of their leaves.
 - These old sweatpants are all stretched out of shape
 - These bricks are all different shapes.
-- Kim's birthday cake was in the shape of a train.
-- My bicycle wheel is bent out of shape.
-- This T-shirt has been washed so many times that it's lost its shape.
+- Kim's birthday cake was `in the` shape `of` a train.
+- My bicycle wheel is bent `out of` shape.
+- This T-shirt has been washed so many times that it's `lost` its shape.
 - A triangle is a shape with three sides.
 
 ## 2035. shark ## noun [C]
@@ -12469,29 +12469,29 @@
 ## 2037. shock ## noun
 /ʃɑk/ SURPRISE
 [B1]a big, unpleasant surprise
-- We got a nasty shock when he gave us the bill.
-- Her death came as a terrible shock to him.
-- They are still in shock from the accident.
+- We `got a` nasty shock when he gave us the bill.
+- Her death `came as a` terrible shock to him.
+- They are still `in` shock from the accident.
 
 ## 2038. shore ## noun [C or U]
 /ʃɔːr/ 
 [B1]the area of land along the edge of the sea or a lake
 - You can walk for miles along the shore.
 - We rode into the city along the shore of Lake Washington.
-- The boat was about a mile from (the)/off shore when the engine suddenly died.
+- The boat was about a mile `from (the)/off` shore when the engine suddenly died.
 
 ## 2039. shoulder ## noun [C]
 /ˈʃoʊl.dər/ 
 [B1]one of the two parts of your body where your arms join your neck
 - The baby laid his head on her shoulder.
 - Then she put her arm around my shoulder and said everything would be OK.
-- She glanced nervously over her shoulder to make sure no one else was listening.
+- She `glanced` nervously `over` her shoulder to make sure no one else was listening.
 
 ## 2040. shout ## noun [C]
 /ʃɑʊt/ 
 [B1]when you say something very loudly or make a very loud sound with your voice
 - He heard an angry shout.
-- shouts of anger
+- shouts `of` anger
 
 ## 2041. shower ## noun [C]
 /ˈʃɑʊ.ər/ RAIN
@@ -12508,8 +12508,8 @@
 ## 2043. side ## noun
 /sɑɪd/ NEXT TO
 [B1]the area next to something
-- I have a small table at/by the side of my bed.
-- He stood at/by her side as she welcomed the guests one by one.
+- I have a small table `at/by` the side of my bed.
+- He stood `at/by` her side as she welcomed the guests one by one.
 
 ## 2044. sidewalk ## noun [C]
 /ˈsɑɪd.wɔːk/ 
@@ -12521,7 +12521,7 @@
 /sɑɪt/ ABILITY TO SEE
 [B1]the ability to see
 - If your sight is poor, you should not drive a car.
-- The old woman has lost her sight.
+- The old woman has `lost` her sight.
 
 ## 2046. sight ## noun
 /sɑɪt/ the sights
@@ -12531,20 +12531,20 @@
 ## 2047. sign ## noun [C]
 /sɑɪn/ SHOWING
 [B1]something which shows that something is happening or that it exists or is true
-- Flowers are the first sign of spring.
-- There was nobody in the place, and I thought that was a bad sign.
-- His inability to handle the situation is a sign of weakness.
-- The fact that he's eating more is a sign that he's feeling better.
-- There's no sign of progress with the construction work.
-- Allie's work at school has shown signs of improvement.
-- There is every sign that the worst is over.
+- Flowers are the first sign `of` spring.
+- There was nobody in the place, and I thought that was a `bad` sign.
+- His inability to handle the situation is a sign `of` weakness.
+- The fact that he's eating more is a sign `that` he's feeling better.
+- There's `no` sign `of` progress with the construction work.
+- Allie's work at school has `shown` signs` of` improvement.
+- `There is every` sign that the worst is over.
 
 ## 2048. sign ## noun [C]
 /sɑɪn/ BODY MOVEMENT
 [B1]a movement you make to give someone information or tell them what to do
-- She pointed to her watch as a sign that it was getting late and she wanted to leave.
-- He made the thumbs up sign, so I knew everything was OK.
-- Give me a sign when you're ready to head home.
+- She pointed to her watch `as a` sign `that` it was getting late and she wanted to leave.
+- He `made` the thumbs up sign, so I knew everything was OK.
+- `Give` me a sign when you're ready to head home.
 
 ## 2049. signature ## noun [C]
 /ˈsɪg.nə.tʃər/ 
@@ -12559,8 +12559,8 @@
 ## 2051. silence ## noun
 /ˈsɑɪ.ləns/ NO SOUND
 [B1]when there is no sound
-- The three men ate in silence.
-- A loud crash of thunder broke the silence of the night.
+- The three men ate `in` silence.
+- A loud crash of thunder `broke` the silence of the night.
 
 ## 2052. silk ## noun [U]
 /sɪlk/ 
@@ -12579,40 +12579,40 @@
 [B1]a place where something is, was, or will be built, or where something happened, is happening, or will happen
 - a building site
 - The site for the new school hasn't been chosen yet.
-- This is the site of the accident.
+- This is the site `of` the accident.
 
 ## 2055. situation ## noun [C]
 /ˌsɪtʃ.uˈeɪ.ʃən/ 
 [B1]the set of things that are happening and the conditions that exist at a particular time and place
-- the economic/political situation
-- "Would you get involved in this dispute?" "It would depend on the situation."
-- I was in a situation where I didn’t have cash handy.
+- the `economic/political` situation
+- "Would you get involved in this dispute?" "It would `depend on the` situation."
+- I was `in a` situation where I didn’t have cash handy.
 
 ## 2056. ski ## noun [C]
 /skiː/ 
 [B1]one of a pair of long, thin pieces of wood or plastic that you wear on the bottom of boots to move over snow
-- a pair of skis
+- a `pair` of skis
 - ski boots
 - a ski club/resort
 
 ## 2057. skill ## noun [C or U]
 /skɪl/ 
 [B1]an ability to do a job or an activity well, especially because you have practiced it
-- Ruth had great management skills.
-- He lacked skill as a painter.
+- Ruth `had` great management skills.
+- He lacked skill `as` a painter.
 - Schools often do not provide students with marketable skills.
 
 ## 2058. skin ## noun [C or U]
 /skɪn/ BODY
 [B1]the outer layer of a person or animal's body
-- dark/fair skin
+- `dark/fair` skin
 - skin cancer
 - Babies have soft skin.
 
 ## 2059. sleep ## noun
 /sliːp/ NOT AWAKE
 [B1]the resting state in which the body is not active and the mind is unconscious
-- I have to get some sleep - I'm exhausted.
+- I have to `get` some sleep - I'm exhausted.
 
 ## 2060. sleep ## noun
 /sliːp/ get/go to sleep
@@ -12623,36 +12623,36 @@
 ## 2061. sleep ## noun
 /sliːp/ PERIOD OF SLEEPING
 [B1]a period of sleeping
-- He fell into a deep sleep.
+- He `fell into a deep` sleep.
 
 ## 2062. sleeve ## noun [C]
 /sliːv/ CLOTHING
 [B1]the part of a jacket, shirt, etc. that covers your arm
 - short/long sleeves
 - The sleeves are too long for me.
-- You'd better roll your sleeves up or you'll get them dirty.
+- You'd better `roll` your sleeves `up` or you'll get them dirty.
 
 ## 2063. smell ## noun
 /smel/ CHARACTERISTIC
 [B1]the quality something has that you notice by using your nose
 - What's your favorite smell?
-- I love the smell of orange blossom.
+- I love `the` smell `of` orange blossom.
 - The market was filled with delightful smells.
-- There's a delicious smell in here.
+- There's a `delicious` smell in here.
 
 ## 2064. smile ## noun [C]
 /smɑɪl/ 
 [B1]a happy or friendly expression in which the corners of your mouth curve up
-- Amy had a big smile on her face.
+- Amy had a `big` smile `on` her face.
 - She has a nice smile.
-- He gave me a smile.
-- It's nice to be able to bring a smile to people's faces.
+- He `gave` me a smile.
+- It's nice to be able to `bring` a smile `to` people's faces.
 
 ## 2065. smoke ## noun [U]
 /smoʊk/ 
 [B1]the gray or black gas that is produced when something burns
-- cigarette smoke
-- a tiny smoke-filled waiting room
+- `cigarette` smoke
+- a tiny smoke`-filled` waiting room
 
 ## 2066. snowboard ## noun [C]
 /ˈsnoʊ.bɔːrd/ 
@@ -12677,10 +12677,10 @@
 ## 2070. society ## noun
 /səˈsɑɪ.ət̬.i/ PEOPLE
 [B1]a large group of people who live in the same country or area and have the same laws, traditions, etc.
-- a civilized/multicultural society
+- a `civilized/multicultural` society
 - Societies change over the course of time.
 - There's a danger that we will end up blaming innocent children for society's problems.
-- We must also consider the needs of the younger/older members of society.
+- We must also consider the needs of the younger/older `members of` society.
 
 ## 2071. soldier ## noun [C]
 /ˈsoʊl.dʒər/ 
@@ -12691,9 +12691,9 @@
 ## 2072. solution ## noun [C]
 /səˈluː.ʃən/ 
 [B1]the answer to a problem
-- There's no easy solution to this problem.
+- There's no easy solution `to` this problem.
 - She just seems so unhappy and I don't know what the solution is.
-- You'll find the solution to the puzzle on the back page.
+- You'll find the solution `to` the puzzle on the back page.
 - They help you talk through your problems but they don't give you any solutions.
 
 ## 2073. sort ## noun
@@ -12704,7 +12704,7 @@
 ## 2074. southeast ## noun [U]
 /sɑʊˈθiːst/ 
 [B1]the direction that is between south and east, or the southeast part of a country
-- We live in the southeast.
+- We live in `the` southeast.
 
 ## 2075. southwest ## noun [U]
 /sɑʊθˈwest/ 
@@ -12721,7 +12721,7 @@
 [B1]the area outside the earth's atmosphere, where the planets and the stars are
 - space exploration/travel
 - travel in outer space
-- Who was the first human being in space/the first to go into space?
+- Who was the first human being `in` space/the first to go `into` space?
 
 ## 2078. speaker ## noun [C]
 /ˈspiː.kər/ PERSON
@@ -12731,23 +12731,23 @@
 ## 2079. speaker ## noun [C]
 /ˈspiː.kər/ IN PUBLIC
 [B1]someone who makes a speech to a group of people
-- a good public speaker
-- Please join with me in welcoming our guest speaker tonight.
+- a good `public` speaker
+- Please join with me in welcoming our `guest` speaker tonight.
 
 ## 2080. speech ## noun
 /spiːtʃ/ ABILITY TO TALK
 [B1]someone's ability to talk, or an example of someone talking
 - People who suffer a stroke may experience a loss of speech.
 - His speech became slurred and indistinct.
-- Some expressions are used more in speech than in writing.
+- Some expressions are used more `in` speech than in writing.
 
 ## 2081. speed ## noun
 /spiːd/ RATE OF MOVEMENT
 [B1]how fast something moves or happens
-- high/low speed
-- a speed of 25 miles per hour
-- They came racing down the hill at top speed.
-- You should reduce speed as you approach a red light.
+- `high/low` speed
+- a speed `of` 25 miles per hour
+- They came racing down the hill at `top` speed.
+- You should `reduce` speed as you approach a red light.
 - It was the speed at which it all happened that shocked me.
 - This electric drill has two speeds.
 
@@ -12788,7 +12788,7 @@
 /skwɑʃ/ 
 [B1]a sport in which two people hit a small rubber ball against the four walls of a room
 - a game of squash
-- a squash court/racket
+- a squash `court/racket`
 
 ## 2089. stain ## noun [C]
 /steɪn/ 
@@ -12804,10 +12804,10 @@
 ## 2091. start ## noun
 /stɑrt/ BEGINNING
 [B1]the beginning of something
-- We were doubtful from the start.
-- They announced the start of a new commercial venture.
-- The weather was good at the start of the week.
-- The event got off to a bad/slow/shaky start.
+- We were doubtful `from` the start.
+- They announced the start `of` a new commercial venture.
+- The weather was good `at` the start of the week.
+- The event `got off to` a bad/slow/shaky start.
 
 ## 2092. state ## noun [C]
 /steɪt/ PART OF COUNTRY
@@ -12818,14 +12818,14 @@
 ## 2093. station ## noun [C]
 /ˈsteɪ.ʃən/ BROADCASTING
 [B1]a company that broadcasts television or radio programs
-- a radio/television station
-- The reception is not very good - try to tune in to another station.
+- a `radio/television` station
+- The reception is not very good - try to `tune in to` another station.
 
 ## 2094. statue ## noun [C]
 /ˈstætʃ.uː/ 
 [B1]a model that looks like a person or animal, usually made from stone or metal
-- a statue of a boy
-- They planned to put up/erect a statue to the President.
+- a statue `of` a boy
+- They planned to `put up/erect` a statue `to` the President.
 
 ## 2095. stay ## noun [C]
 /steɪ/ 
@@ -12835,14 +12835,14 @@
 ## 2096. step ## noun [C]
 /step/ FOOT MOVEMENT
 [B1]one of the movements you make with your feet when you walk
-- Sophie took her first steps when she was eleven months old.
-- He rose to his feet and took a couple of steps toward her.
-- With every step, her feet hurt her more and more.
+- Sophie `took` her first steps when she was eleven months old.
+- He rose to his feet and `took` a couple of steps `toward` her.
+- `With` every step, her feet hurt her more and more.
 
 ## 2097. step ## noun [C]
 /step/ STAIR
 [B1]one of the surfaces that you walk on when you go up or down stairs
-- Mom took a picture of us sitting on the front steps of the house.
+- Mom took a picture of us sitting on the `front` steps of the house.
 
 ## 2098. stick ## noun [C]
 /stɪk/ THIN PIECE
@@ -12859,10 +12859,10 @@
 ## 2100. stone ## noun
 /stoʊn/ ROCK
 [B1]a hard, natural substance that is found in the ground
-- a stone wall/floor
+- a stone `wall/floor`
 - a stone stairway
-- They cut enormous blocks of stone out of the hillside.
-- The kids were throwing stones at a wooden box.
+- They cut enormous `blocks` of stone out of the hillside.
+- The kids were `throwing` stones at a wooden box.
 
 ## 2101. stone ## noun
 /stoʊn/ JEWEL
@@ -12872,41 +12872,41 @@
 ## 2102. stop ## noun [C]
 /stɑp/ TRIP/ACTIVITY
 [B1]when you stop an activity or trip, or a period of time when you stop
-- Please remain in your seat until the plane comes to a complete stop.
-- We'd have been here sooner, but we made a few stops along the way.
-- At the beginning of the project there were a lot of stops and starts.
+- Please remain in your seat until the plane `comes to a` complete stop.
+- We'd have been here sooner, but we `made` a few stops along the way.
+- At the beginning of the project there were a lot of stops `and starts`.
 
 ## 2103. stranger ## noun [C]
 /ˈstreɪn.dʒər/ 
 [B1]someone you have never met before
 - Mom always warned us to never talk to strangers.
-- I can't just walk up to complete strangers and start talking to them.
+- I can't just walk up to `complete` strangers and start talking to them.
 
 ## 2104. strawberry ## noun [C]
 /ˈstrɔːˌber.i/ 
 [B1]a small, red fruit with a green leaf at the top and small, brown seeds on its surface
 - I picked some fresh strawberries today - would you like some?
-- strawberry jam/ice cream
+- strawberry `jam/ice cream`
 
 ## 2105. stream ## noun [C]
 /striːm/ SMALL RIVER
 [B1]a small river
-- a mountain stream
+- a `mountain` stream
 - underground streams
-- A little stream flows through their garden.
+- A little stream `flows` through their garden.
 
 ## 2106. stress ## noun
 /stres/ WORRY
 [B1]feelings of worry caused by difficult situations such as problems at work
-- People under a lot of stress may experience headaches, minor pains and sleeping difficulties.
-- Yoga is a very effective technique for dealing with stress.
-- the stresses and strains of work
-- stress-related illness
+- People `under` a lot of stress may experience headaches, minor pains and sleeping difficulties.
+- Yoga is a very effective technique for `dealing with` stress.
+- the stresses `and strains` of work
+- stress`-related` illness
 
 ## 2107. strike ## noun [C or U]
 /strɑɪk/ 
 [B1]a period of time when people are not working because they want more money, better working conditions, etc.
-- The city's bus drivers have been on strike for three weeks.
+- The city's bus drivers have been `on` strike for three weeks.
 - a teachers' strike
 
 ## 2108. stripe ## noun [C]
@@ -12918,7 +12918,7 @@
 /ˈstuːd.iːˌoʊ/ TV/RADIO/MUSIC
 [B1]a room where television/radio programs are made or music is recorded
 - She spent three months in the studio working on her latest album.
-- a studio audience
+- a studio `audience`
 
 ## 2110. studio ## noun [C]
 /ˈstuːd.iːˌoʊ/ FILM
@@ -12935,22 +12935,22 @@
 [B1]used to refer to a substance or a group of things, ideas, etc., without saying exactly what they are
 - There's sticky stuff all over the chair.
 - We'll have to carry all our camping stuff.
-- This week in class, we're discussing articles about industrial pollution, global warming, and stuff like that.
+- This week in class, we're discussing articles about industrial pollution, global warming, and stuff `like that`.
 - Do you want help bringing your stuff in from the van?
 - I’ve got a lot of stuff to do this weekend.
 
 ## 2113. style ## noun
 /stɑɪl/ WAY
 [B1]a way of doing something that is typical of a particular person, group, place, or period
-- a style of painting/writing
-- Jon has an interesting hands-on style of management.
+- a style `of` painting/writing
+- Jon has an interesting hands-on style `of` management.
 
 ## 2114. style ## noun
 /stɑɪl/ FASHION
 [B1]a way of designing hair, clothes, furniture, etc.
 - She's had her hair cut in a really nice style.
 - the latest styles
-- The classic black dress is always in style.
+- The classic black dress is always `in` style.
 
 ## 2115. subject ## noun [C]
 /ˈsʌb.dʒɪkt/ GRAMMAR
@@ -12961,36 +12961,36 @@
 /ˈsʌb.dʒɪkt/ THING TALKED ABOUT
 [B1]what someone is writing or talking about
 - Our subject for discussion is homelessness.
-- She has made a series of documentaries on the subject of family relationships.
+- She has made a series of documentaries `on the` subject `of` family relationships.
 
 ## 2117. success ## noun
 /səkˈses/ ACHIEVEMENT
 [B1]when you achieve what you want to achieve
-- I'm not having any success reaching him by phone.
-- We’ve tried to contact him, but so far without success.
-- We are all very proud of the success of of our graduates.
-- The success rate for this operation is very low.
+- I'm not `having` any success reaching him by phone.
+- We’ve tried to contact him, but so far `without` success.
+- We are all very proud of `the` success `of` of our graduates.
+- The success `rate` for this operation is very low.
 
 ## 2118. success ## noun
 /səkˈses/ GOOD THING
 [B1]something that has a good result or that is very popular
-- The movie is a big/huge box-office success.
-- She's determined to make a success of her new business.
-- The dinner party was a great success.
+- The movie is a `big/huge` box-office success.
+- She's determined to `make a` success `of` her new business.
+- The dinner party was a `great` success.
 
 ## 2119. suggestion ## noun [C]
 /səgˈdʒes.tʃən/ IDEA
 [B1]an idea or plan that someone suggests
-- We don't know where to eat out tonight - have you got any suggestions?
-- Clara made some very helpful suggestions.
-- They didn't like my suggestion that we should all share the cost.
-- I know only one restaurant in town, so I'm open to suggestions.
+- We don't know where to eat out tonight - have you `got` any suggestions?
+- Clara `made` some very helpful suggestions.
+- They didn't like my suggestion `that` we should all share the cost.
+- I know only one restaurant in town, so I'm `open to` suggestions.
 
 ## 2120. sum ## noun [C]
 /sʌm/ 
 [B1]an amount of money
-- Huge sums of money are spent on cleaning up the oil spill.
-- The sum involved in the sale was not reported.
+- Huge sums `of money` are spent on cleaning up the oil spill.
+- `The` sum involved in the sale was not reported.
 
 ## 2121. sunrise ## noun [C or U]
 /ˈsʌn.rɑɪz/ 
@@ -13005,13 +13005,13 @@
 ## 2123. sunshine ## noun [U]
 /ˈsʌn.ʃɑɪn/ 
 [B1]the light and heat that come from the sun
-- The children were out playing in the sunshine.
+- The children were out playing `in the` sunshine.
 
 ## 2124. support ## noun [U]
 /səˈpɔːrt/ HELP
 [B1]help or encouragement given to someone when they are having problems
-- Carol gave me a lot of support when I lost my job.
-- She's been a great support to my mom.
+- Carol `gave` me a lot of support when I lost my job.
+- She's been a great support `to` my mom.
 
 ## 2125. sweatshirt ## noun [C]
 /ˈswet.ʃɜrt/ 
@@ -13022,12 +13022,12 @@
 ## 2126. swimmer ## noun [C]
 /ˈswɪm.ər/ 
 [B1]someone who is swimming or who can swim
-- Oliver is a very strong swimmer.
+- Oliver is a very `strong` swimmer.
 
 ## 2127. switch ## noun [C]
 /swɪtʃ/ 
 [B1]a small object that you push up or down with your finger to turn something electrical on or off
-- a light switch
+- a `light` switch
 - Can you flip the switch?
 
 ## 2128. system ## noun [C]
@@ -13060,13 +13060,13 @@
 ## 2133. talent ## noun [C or U]
 /ˈtæl.ənt/ 
 [B1]a natural ability to do something
-- Her talent for music showed at an early age.
+- Her talent `for` music showed at an early age.
 - his artistic talents
 
 ## 2134. talk ## noun
 /tɔːk/ CONVERSATION
 [B1]a conversation between two people, often about a particular subject
-- He's going to have a talk with his parents and see what they think.
+- He's going to `have a` talk `with` his parents and see what they think.
 
 ## 2135. talk show ## noun [C]
 /ˈtɔːkˌʃoʊ/ 
@@ -13076,16 +13076,16 @@
 ## 2136. taste ## noun
 /teɪst/ FLAVOR
 [B1]the flavor of a particular food in your mouth
-- I love the taste of garlic.
+- I love the taste `of` garlic.
 - The soup had a slightly sour taste.
 
 ## 2137. tax ## noun [C or U]
 /tæks/ 
 [B1]money that you have to pay to the government from what you earn or when you buy things
-- They're raising the tax on cigarettes.
-- Tax cuts are always popular.
-- What do you earn before/after tax?
-- I pay my taxes.
+- They're raising the tax `on` cigarettes.
+- Tax `cuts` are always popular.
+- What do you earn `before/after` tax?
+- I `pay` my taxes.
 
 ## 2138. teaching ## noun [U]
 /ˈtiː.tʃɪŋ/ 
@@ -13097,14 +13097,14 @@
 /tiːm/ WORK GROUP
 [B1]a group of people who work together to do something
 - a management team
-- a team of advisers
+- a team `of` advisers
 
 ## 2140. tear ## noun [C usually plural]
 /tɪr/ CRYING
 [B1]a drop of water that comes from your eye when you cry
-- These are tears of joy.
-- Did you notice the tears in his eyes when he talked about Diane?
-- Her eyes filled with tears.
+- These are tears `of` joy.
+- Did you notice the tears `in his eyes` when he talked about Diane?
+- Her `eyes filled with` tears.
 
 ## 2141. tear ## noun [C usually plural]
 /tɪr/ in tears
@@ -13119,26 +13119,26 @@
 ## 2143. technique ## noun [C or U]
 /tekˈniːk/ 
 [B1]a particular or special way of doing something
-- We have developed a new technique for detecting errors in the manufacturing process.
+- We have developed a new technique `for` detecting errors in the manufacturing process.
 - She's a wonderfully creative dancer but she doesn't have the technique of a truly great performer.
 
 ## 2144. technology ## noun [C or U]
 /tekˈnɑl.ə.dʒi/ 
 [B1]knowledge, equipment, and methods that are used in science and industry
 - computer technology
-- modern technology
-- What this country needs is a long-term policy for investment in science and technology.
+- `modern` technology
+- What this country needs is a long-term policy for investment in `science and` technology.
 
 ## 2145. television ## noun
 /ˈtel.ə.vɪʒ.ən/ SYSTEM
 [B1]the system or business of making and broadcasting programs for television
-- She works in television.
+- She works `in` television.
 - a television company/network
 
 ## 2146. temperature ## noun
 /ˈtemp.rə.tʃər/ BODY
 [B1]how hot or cold someone's body is
-- The doctor examined him and took his temperature.
+- The doctor examined him and `took` his temperature.
 
 ## 2147. temperature ## noun
 /ˈtemp.rə.tʃər/ have a temperature
@@ -13153,12 +13153,12 @@
 ## 2149. tense ## noun [C]
 /tens/ 
 [B1]any of the forms of a verb which show the time at which an action happened
-- I sing is in the present tense, "I will sing" is in the future tense and '" sang" is in the past tense.
+- I sing is in the `present` tense, "I will sing" is in the `future` tense and '" sang" is in the `past` tense.
 
 ## 2150. tent ## noun [C]
 /tent/ 
 [B1]a structure made of metal poles and cloth which is attached to the ground with ropes and used as a cover or to sleep under
-- It only took twenty minutes to put the tent up.
+- It only took twenty minutes to `put` the tent `up`.
 
 ## 2151. test ## noun [C]
 /test/ MEDICAL
@@ -13166,7 +13166,7 @@
 - an eye test
 - a blood/urine test
 - a pregnancy test
-- The doctors have done some tests to try to find out what's wrong with her.
+- The doctors have `done` some tests to try to find out what's wrong with her.
 
 ## 2152. text ## noun
 /tekst/ WORDS, NOT PICTURES
@@ -13181,18 +13181,18 @@
 ## 2154. thank you ## noun [C usually no plural]
 /ˈθæŋ.kˌjuː/ 
 [B1]something that you say or do in order to show that you are grateful for something
-- I'd like to say a big thank you to everyone for all their help.
-- The chocolates were a thank you for looking after the children.
+- I'd like to say a `big` thank you `to` everyone for all their help.
+- The chocolates were a thank you `for` looking after the children.
 
 ## 2155. the first floor ## noun [no plural]
 /ˈfɜːrstˈflɔːr/ 
 [B1]the floor of a building that is at the same level as the ground outside
-- She works on the first floor.
+- She works `on` the first floor.
 
 ## 2156. the ground floor ## noun [no plural]
 /ˈgrɑʊndˈflɔːr/ 
 [B1]the floor of a building that is at the same level as the ground outside
-- My office is on the ground floor.
+- My office is `on` the ground floor.
 
 ## 2157. thief ## noun [C]
 /θiːf/ 
@@ -13209,12 +13209,12 @@
 ## 2159. thing ## noun
 /θɪŋ/ the same thing
 [B1]the same
-- Training isn't the same thing as education.
+- Training isn't the same thing `as` education.
 
 ## 2160. thing ## noun
 /θɪŋ/ things
 [B1]what is happening, especially in your life
-- How are things with you?
+- `How are` things with you?
 - Things have been going very well recently.
 
 ## 2161. thing ## noun
@@ -13225,9 +13225,9 @@
 ## 2162. thought ## noun
 /θɔːt/ IDEA
 [B1]an idea or opinion or an image that comes into your mind
-- Do you have any thoughts about/on where you want to spend Christmas?
-- The thought of seeing her again filled him with happiness.
-- If you could let me have your thoughts on that report by Friday, I'd be grateful.
+- Do you have any thoughts `about/on` where you want to spend Christmas?
+- The thought `of` seeing her again filled him with happiness.
+- If you could let me have your thoughts `on` that report by Friday, I'd be grateful.
 
 ## 2163. thriller ## noun [C]
 /ˈθrɪl.ər/ 
@@ -13237,19 +13237,19 @@
 ## 2164. throat ## noun [C]
 /θroʊt/ 
 [B1]the front of the neck, or the space inside the neck down which food and air can go
-- a sore throat
-- A fish bone got stuck in my throat.
-- He cleared his throat and started speaking.
+- a `sore` throat
+- A fish bone got `stuck in` my throat.
+- He `cleared` his throat and started speaking.
 
 ## 2165. thumb ## noun [C]
 /θʌm/ 
 [B1]the short thick finger on the side of your hand which makes it possible to hold and pick things up easily
-- She still sucks her thumb.
+- She still `sucks` her thumb.
 
 ## 2166. thunder ## noun [U]
 /ˈθʌn.dər/ 
 [B1]the loud noise in the sky that you hear during a storm
-- thunder and lightning
+- thunder `and lightning`
 
 ## 2167. tiger ## noun [C]
 /ˈtɑɪ.gər/ 
@@ -13261,23 +13261,23 @@
 [B1]a particular point of the day, week, month, year, etc. that is suitable for a particular activity, or at which something is expected to happen
 - vacation time
 - party time
-- When would be a good time for me to call you?
+- When would be `a good` time for me to call you?
 
 ## 2169. time ## noun
 /tɑɪm/ it's time
 [B1]used to say that something should happen or be done now
 - It's time we got going.
-- OK kids, it's time for bed now.
-- It's time to leave for work.
+- OK kids, it's time `for` bed now.
+- It's time `to` leave for work.
 
 ## 2170. time ## noun
 /tɑɪm/ AVAILABLE OR NEEDED
 [B1]a number of minutes, hours, days, etc. that is available for something or that is needed for something
-- If I have time, I'll call Sam.
-- Have you got time for a quick drink after work?
-- I'd like to learn to sail, but I haven't the time.
-- I haven't got time to go shopping today.
-- She ran out of time and didn't finish the last question.
+- If I `have` time, I'll call Sam.
+- Have you got time `for` a quick drink after work?
+- I'd like to learn to sail, but I haven't `the` time.
+- I haven't got time `to` go shopping today.
+- She `ran out of` time and didn't finish the last question.
 
 ## 2171. time ## noun
 /tɑɪm/ in time
@@ -13313,15 +13313,15 @@
 ## 2177. tip ## noun [C]
 /tɪp/ ADVICE
 [B1]a piece of useful advice
-- He includes a few tips on growing vegetables.
-- She's given me a number of useful gardening tips.
+- He includes a few tips `on` growing vegetables.
+- She's `given` me a number of useful gardening tips.
 
 ## 2178. tip ## noun [C]
 /tɪp/ PAYMENT
 [B1]an extra amount of money that you give to a driver, someone working in a restaurant, etc. to thank them
 - a 15% tip
-- He gave the porter a tip.
-- Have you left a tip for the waiter?
+- He `gave` the porter a tip.
+- Have you `left` a tip `for` the waiter?
 
 ## 2179. tissue ## noun [C]
 /ˈtɪʃ.uː/ 
@@ -13331,8 +13331,8 @@
 ## 2180. title ## noun [C]
 /ˈtɑɪt̬.əl/ BOOK/FILM, ETC.
 [B1]the name of a book, movie, etc.
-- The title of Evelyn Waugh's first novel was "Decline and Fall."
-- And this next record is the title track on the album "The Red Shoes."
+- The title `of` Evelyn Waugh's first novel was "Decline and Fall."
+- And this next record is the title `track` on the album "The Red Shoes."
 
 ## 2181. tongue ## noun
 /tʌŋ/ IN MOUTH
@@ -13359,13 +13359,13 @@
 /ˈtoʊt̬.əl/ 
 [B1]the amount you get when you add several smaller amounts together
 - That figure at the bottom of the column is the total.
-- A total of 21 horses were entered for the race.
-- We made $700 in total, over three days of trading.
+- `A` total `of` 21 horses were entered for the race.
+- We made $700 `in` total, over three days of trading.
 
 ## 2186. touch ## noun
 /tʌtʃ/ be/get/keep, etc. in touch
 [B1]to communicate or continue to communicate with someone by telephoning, or writing to them
-- Are you still in touch with any of your old school friends?
+- Are you still in touch `with` any of your old school friends?
 - Jane and I never kept in touch after college.
 
 ## 2187. tourism ## noun [U]
@@ -13378,20 +13378,20 @@
 /ˈtʊr.nə.mənt/ 
 [B1]a competition with a series of games between many teams or players, with one winner at the end
 - a tennis/chess/golf tournament
-- They were defeated in the first round of the tournament.
+- They were defeated in the first `round of the` tournament.
 
 ## 2189. tower ## noun [C]
 /ˈtɑʊ.ər/ 
 [B1]a very tall, narrow building, or part of a building
 - the Eiffel Tower
-- There's a clock on the church tower.
-- He works in an office tower in downtown San Francisco.
+- There's a clock on the `church` tower.
+- He works in an `office` tower in downtown San Francisco.
 
 ## 2190. town ## noun
 /tɑʊn/ PLACE YOU LIVE
 [B1]the place where you live or work
 - I'm leaving town for a few days.
-- Barbara is out of town on business this week.
+- Barbara is `out of` town on business this week.
 
 ## 2191. track ## noun
 /træk/ PATH
@@ -13407,14 +13407,14 @@
 ## 2193. trade ## noun
 /treɪd/ BUYING AND SELLING
 [B1]the buying and selling of large numbers of goods or services, especially between countries
-- The country's trade in manufactured goods has expanded in the last ten years.
-- They rely heavily on trade with Europe.
-- The two countries have signed a trade agreement for one year only.
+- The country's trade `in` manufactured goods has expanded in the last ten years.
+- They rely heavily on trade `with` Europe.
+- The two countries have signed a trade `agreement` for one year only.
 
 ## 2194. traffic jam ## noun [C]
 /ˈtræf.ɪkˌdʒæm/ 
 [B1]a line of cars, trucks, etc. that are moving slowly or not moving at all
-- They got stuck in a traffic jam.
+- They got `stuck in a` traffic jam.
 
 ## 2195. trainer ## noun [C]
 /ˈtreɪ.nər/ PERSON
@@ -13428,7 +13428,7 @@
 [B1]the process of learning the skills you need to do a particular job or activity
 - a training course
 - a career-training school
-- New staff have/receive a week's training in how to use the computers.
+- New staff `have/receive` a week's training `in` how to use the computers.
 
 ## 2197. training ## noun [U]
 /ˈtreɪ.nɪŋ/ SPORTS
@@ -13440,26 +13440,26 @@
 [B1]something that has been translated from one language to another, or the process of translating
 - It's a translation from the original Spanish.
 - In the second paper they are asked to do a translation.
-- Much of the beauty of the rhymes is lost in translation.
+- Much of the beauty of the rhymes is `lost in` translation.
 
 ## 2199. transportation ## noun [U]
 /ˌtræn.spərˈteɪ.ʃən/ TRAVEL METHOD
 [B1]a method or system of travel for getting from one place to another
 - My car broke down and I don't know what I'll do for transportation tomorrow.
-- In Los Angeles many companies encourage their employees to use alternative means of transportation, rather than the car.
+- In Los Angeles many companies encourage their employees to use alternative `means of` transportation, rather than the car.
 
 ## 2200. trash ## noun [U]
 /træʃ/ 
 [B1]things that you throw away because you do not want them
-- a trash can
-- Paper and plastic that should be recycled sometimes ends up in the trash.
+- a trash `can`
+- Paper and plastic that should be recycled sometimes ends up `in the` trash.
 - a piece/pile of trash
 
 ## 2201. travel ## noun [U]
 /ˈtræv.əl/ 
 [B1]the activity of taking a trip from one place to another
-- air/space travel
-- business travel
+- `air/space` travel
+- `business` travel
 - the travel industry
 - A lot of my travel is business related.
 - We share a love of literature, food, and travel.
@@ -13477,40 +13477,40 @@
 ## 2204. trend ## noun [C]
 /trend/ 
 [B1]a general development or change in a situation or in the way that people are behaving
-- I'm not familiar with the latest trends in teaching methodology.
-- The trend at the moment is toward a more natural and less made-up look.
-- Surveys show a trend away from home-ownership and toward rented accommodations.
-- There's been a downward/upward trend in sales in the last few years.
+- I'm not familiar with the latest trends `in` teaching methodology.
+- The trend at the moment is `toward` a more natural and less made-up look.
+- Surveys show a trend `away from` home-ownership and toward rented accommodations.
+- There's been a `downward/upward` trend in sales in the last few years.
 
 ## 2205. trick ## noun [C]
 /trɪk/ DECEIVE
 [B1]something you do to deceive or cheat someone, or to make someone look stupid as a joke
-- She played a really nasty trick on me - she put syrup in my shampoo bottle!
-- It's trick photography - it looks like she's floating but she isn't really.
+- She `played` a really nasty trick `on` me - she put syrup in my shampoo bottle!
+- It's trick `photography` - it looks like she's floating but she isn't really.
 
 ## 2206. trick ## noun [C]
 /trɪk/ MAGIC
 [B1]something that is done to entertain people and that seems to be magic
 - a card trick
-- My niece likes to do magic tricks for us.
+- My niece likes to `do` magic tricks for us.
 
 ## 2207. trouble ## noun
 /ˈtrʌb.əl/ DIFFICULTIES
 [B1]problems, difficulties, or worries
-- Parents often have trouble finding restaurants that welcome young children.
-- The form was terribly complicated and I had a lot of trouble with it.
+- Parents often `have` trouble finding restaurants that welcome young children.
+- The form was terribly complicated and I `had` a lot of trouble `with` it.
 - The trouble started when my father came to live with us.
 - I should get it finished over the weekend without too much trouble.
-- I'd like to go to the party, but the trouble is my parents won't let me.
+- I'd like to go to the party, but `the` trouble `is` my parents won't let me.
 
 ## 2208. trouble ## noun
 /ˈtrʌb.əl/ PUNISHMENT
 [B1]when you have done something wrong and are likely to be punished
-- Her children are always in trouble.
-- They got into trouble with the police.
-- He's never been in trouble with his teachers before.
-- She'll be in big trouble if she's late again.
-- It's a great way of getting kids off the street and keeping them out of trouble.
+- Her children are always `in` trouble.
+- They `got into` trouble with the police.
+- He's never been `in` trouble `with` his teachers before.
+- She'll be in `big` trouble if she's late again.
+- It's a great way of getting kids off the street and `keeping` them `out of` trouble.
 
 ## 2209. truck ## noun [C]
 /trʌk/ 
@@ -13526,14 +13526,14 @@
 ## 2211. trunk ## noun [C]
 /trʌŋk/ CAR
 [B1]a closed space at the back of a car for putting things in
-- I'll put your luggage in the trunk.
+- I'll put your luggage `in the` trunk.
 
 ## 2212. truth ## noun
 /truːθ/ the truth
 [B1]the real facts about a situation, event or person
-- But was he telling the truth?
-- I don't suppose we'll ever know the truth about what happened that day.
-- To tell (you) the truth I'm quite pleased he's not coming.
+- But was he `telling` the truth?
+- I don't suppose we'll ever know the truth `about` what happened that day.
+- `To tell (you)` the truth I'm quite pleased he's not coming.
 
 ## 2213. tube ## noun
 /tuːb/ CONTAINER
@@ -13559,8 +13559,8 @@
 /tɜrn/ TIME
 [B1]the time when you can or must do something, usually before or after someone else
 - Is it my turn yet?
-- It's your turn to wash the dishes!
-- In this game if you give the wrong answer you have to miss a turn.
+- It's your turn `to` wash the dishes!
+- In this game if you give the wrong answer you have to `miss` a turn.
 
 ## 2218. twin ## noun [C]
 /twɪn/ 
@@ -13586,8 +13586,8 @@
 ## 2222. unemployment ## noun [U]
 /ˌʌn.ɪmˈplɔɪ.mənt/ 
 [B1]the number of people who are unemployed
-- a rise/fall in unemployment
-- Unemployment has fallen/risen again for the third month in a row.
+- a `rise/fall in` unemployment
+- Unemployment has `fallen/risen` again for the third month in a row.
 
 ## 2223. union ## noun
 /ˈjuːn.jən/ REPRESENTATIVE ORGANIZATION
@@ -13610,8 +13610,8 @@
  PURPOSE
 [B1]a purpose for which something is used
 - A food processor has a variety of uses in the kitchen.
-- I'd have no use for a boat.
-- The land was no good for farming, but he found other uses for it.
+- I'd have no use `for` a boat.
+- The land was no good for farming, but he `found` other uses `for` it.
 
 ## 2227. use ## noun
  WORD
@@ -13622,7 +13622,7 @@
 /ˈjuː.zər/ 
 [B1]someone who uses a product, machine or service
 - drug users
-- More than a million people are daily users of the subway system.
+- More than a million people are daily users `of` the subway system.
 - When you log in, you will be asked for your user name and password.
 
 ## 2229. valley ## noun [C]
@@ -13630,33 +13630,33 @@
 [B1]an area of low land between hills or mountains, often with a river running through it
 - the Nile Valley
 - the Ohio River valley
-- There was snow on the hilltops but not in the valley.
+- There was snow on the hilltops but not `in` the valley.
 
 ## 2230. value ## noun
 /ˈvæl.juː/ MONEY
 [B1]how much money something could be sold for
-- The new road has affected the value of these houses.
-- She had already sold everything of value that she possessed.
-- Cars quickly go down in value.
-- The value of the dollar depends on the demand in the marketplace for dollars.
+- The new road has affected the value `of` these houses.
+- She had already sold everything `of` value that she possessed.
+- Cars quickly go down `in` value.
+- The value `of` the dollar depends on the demand in the marketplace for dollars.
 
 ## 2231. value ## noun
 /ˈvæl.juː/ (a) good value
 [B1]If something is good value or is a good value, it is of good quality or you think the amount of money you spent on it was right.
-- This car is a very good value for the money.
+- This car is a very good value `for the money`.
 - Many wines from Austria and South Africa also provide good value.
 
 ## 2232. value ## noun
 /ˈvæl.juː/ IMPORTANCE
 [B1]how useful or important something is
-- The documents are of great historical value.
-- The necklace had a lot of sentimental value.
+- The documents are `of` great historical value.
+- The necklace had a lot of `sentimental` value.
 
 ## 2233. van ## noun [C]
 /væn/ 
 [B1]a vehicle that is used for carrying things but that is smaller than a truck
-- a delivery van
-- a van driver
+- a `delivery` van
+- a van `driver`
 
 ## 2234. variety ## noun
 /vəˈrɑɪ.ət̬.i/ BEING DIFFERENT
@@ -13668,12 +13668,12 @@
 /veɪs/ 
 [B1]a container that you put flowers in
 - a glass vase
-- a vase of flowers
+- a vase `of flowers`
 
 ## 2236. vegetarian ## noun [C]
 /ˌvedʒ.əˈter.iː.ən/ 
 [B1]someone who does not eat meat or fish
-- We feel a lot better since we became vegetarians.
+- We feel a lot better since we `became` vegetarians.
 
 ## 2237. vehicle ## noun [C]
 /ˈviː.ə.kəl/ 
@@ -13693,10 +13693,10 @@
 ## 2240. view ## noun
 /vjuː/ OPINION
 [B1]your opinion
-- We have different views about/on education.
-- In my view, her criticisms were justified.
-- I take the view that everyone should be free to decide for themselves.
-- It's my view that everyone should have the right to choose.
+- We have different views `about/on` education.
+- `In my` view, her criticisms were justified.
+- I `take the` view that everyone should be free to decide for themselves.
+- It's my view `that` everyone should have the right to choose.
 - We had a friendly exchange of views.
 
 ## 2241. virus ## noun [C]
@@ -13707,66 +13707,66 @@
 ## 2242. visa ## noun [C]
 /ˈviː.zə/ 
 [B1]an official mark in your passport that allows you to enter or leave a particular country
-- We traveled to Argentina on a tourist visa.
+- We traveled to Argentina `on` a tourist visa.
 
 ## 2243. visit ## noun [C]
 /ˈvɪz.ɪt/ 
 [B1]when you visit a place or a person
-- the President's visit to Argentina
-- I think I'll pay a visit to the hairdresser's while I'm in town.
-- We had a visit from the building inspector last week.
+- the President's visit `to` Argentina
+- I think I'll `pay` a visit `to` the hairdresser's while I'm in town.
+- We `had` a visit `from` the building inspector last week.
 
 ## 2244. voice ## noun
 /vɔɪs/ SOUNDS
 [B1]the sounds that are made when people speak or sing
-- She has a very loud/quiet/soft voice.
-- a clear/deep voice
-- a high/low voice
+- She `has` a very loud/quiet/soft voice.
+- a `clear/deep` voice
+- a `high/low `voice
 - You could tell from her voice that she wasn't happy.
-- She lowered her voice to a whisper.
-- You'll have to raise your voice if you want to be heard in here.
-- Could you please keep your voices down?
+- She `lowered` her voice to a whisper.
+- You'll have to `raise` your voice if you want to be heard in here.
+- Could you please `keep your` voices `down`?
 
 ## 2245. volume ## noun
 /ˈvɑl.jəm/ SOUND
 [B1]the level of sound produced by a television, radio, etc.
-- Could you turn the volume up/down, please.
+- Could you `turn` the volume `up/down`, please.
 
 ## 2246. vote ## noun
 /voʊt/ SHOW CHOICE
 [B1]when someone shows their choice or opinion in an election or meeting by doing something such as writing a mark on an official piece of paper, using a special machine to record their choice, or putting their hand up
 - He lost the election by twenty votes.
 - The motion was approved, with 25 votes in favor and 7 against.
-- She cast her vote for the Democratic Party candidate.
+- She `cast` her vote for the Democratic Party candidate.
 
 ## 2247. vowel ## noun [C]
 /ˈvɑʊ.əl/ 
 [B1]a speech sound that you make with your lips and teeth open, shown in English by the letters a, e, i, o, or u
-- A short vowel is a short sound as in the word "cup."
-- A long vowel is a long sound as in the word "shoe."
+- A `short` vowel is a short sound as in the word "cup."
+- A `long` vowel is a long sound as in the word "shoe."
 
 ## 2248. wage ## noun [no plural]
 /weɪdʒ/ 
 [B1]the amount of money a person regularly receives for a job, usually when paid for the number of hours worked
-- The factory pays low/high/fair/decent wages.
+- The factory pays `low/high/fair/decent` wages.
 - The average wage is $8.50 an hour.
-- the minimum wage
-- a laborer's hourly/daily/weekly wage
+- the `minimum` wage
+- a laborer's `hourly/daily/weekly` wage
 
 ## 2249. warning ## noun [C or U]
 /ˈwɔːr.nɪŋ/ 
 [B1]something that tells or shows you that something bad may happen
 - There's a health warning on every pack of cigarettes.
-- A bad storm can strike without warning.
-- Just a word of warning - restaurants in this area can be very expensive.
-- The Food and Drug Administration issued a warning to doctors about the dangers of the drug.
+- A bad storm can strike `without` warning.
+- Just a `word of` warning - restaurants in this area can be very expensive.
+- The Food and Drug Administration `issued` a warning to doctors about the dangers of the drug.
 
 ## 2250. waste ## noun
 /weɪst/ BAD USE
 [B1]an unnecessary or wrong use of money, substances, time, energy, abilities, etc.
-- That meeting achieved absolutely nothing - it was a complete waste of time.
-- She's been unemployed for two years and it's such a waste of her talents.
-- This food mixer's been a total waste of money - we never use it.
+- That meeting achieved absolutely nothing - it was `a` complete waste `of time`.
+- She's been unemployed for two years and it's such `a` waste `of` her talents.
+- This food mixer's been a total waste of `money` - we never use it.
 
 ## 2251. waterfall ## noun [C]
 /ˈwɔːt̬.ərˌfɔːl/ 
@@ -13776,27 +13776,27 @@
 ## 2252. wave ## noun [C]
 /weɪv/ WATER
 [B1]a line of higher water that moves across the surface of an area of water, especially the ocean
-- At night, I listened to the sound of the waves breaking/crashing against the shore.
+- At night, I listened to the sound of the waves `breaking/crashing` against the shore.
 
 ## 2253. way ## noun
 /weɪ/ DIRECTION
 [B1]the direction in which something is facing or travels
 - Which way does the room face? "North."
-- This bus is going the wrong way.
-- a one-way street
-- Which way up should this box be?
-- The numbers are the wrong way around - it should be 71, not 17.
+- This bus is going the `wrong` way.
+- a `one-way `street
+- Which way `up` should this box be?
+- The numbers are the wrong way `around` - it should be 71, not 17.
 
 ## 2254. way ## noun
 /weɪ/ DISTANCE
 [B1]a distance or a period of time
-- We walked a long way yesterday.
-- Thanksgiving seems like it's a long way away/off.
+- We walked `a long` way yesterday.
+- Thanksgiving seems like it's `a long` way `away/off`.
 
 ## 2255. way ## noun
 /weɪ/ no way
 [B1]used to tell someone that something is impossible
-- I'm sorry, but there's no way we can help you.
+- I'm sorry, but `there's` no way we can help you.
 - No way will she agree to you leaving early.
 
 ## 2256. way ## noun
@@ -13828,22 +13828,22 @@
 ## 2261. wedding ## noun [C]
 /ˈwed.ɪŋ/ 
 [B1]a marriage ceremony and any celebrations such as a meal or a party that follow it
-- a wedding cake/dress/invitation/present/reception
+- a wedding `cake/dress/invitation/present/reception`
 - Do you know the date of Cathy and Matthew's wedding?
 - It was their twenty-fifth wedding anniversary last week.
 
 ## 2262. weight ## noun
 /weɪt/ AMOUNT
 [B1]the amount that something or someone weighs
-- He's about average height and weight.
-- I need to lose a little weight.
-- Doug has gained a lot of weight recently.
+- He's about `average` height and weight.
+- I need to `lose` a little weight.
+- Doug has `gained` a lot of weight recently.
 
 ## 2263. welcome ## noun [C or U]
 /ˈwel.kəm/ FRIENDLY TREATMENT
 [B1]when someone is met and spoken to in a friendly way when they arrive in a place
-- They were given a warm welcome.
-- She referred to his previous visit in her welcome speech.
+- They were `given` a `warm` welcome.
+- She referred to his previous visit in her welcome `speech`.
 
 ## 2264. whale ## noun [C]
 /weɪl/ 
@@ -13858,18 +13858,18 @@
 ## 2266. while ## noun
 /wɑɪl/ a while
 [B1]a length of time
-- I only stayed for a short while.
+- I only stayed for a `short` while.
 - You were there a while, weren't you?
-- "When did that happen?" "Oh, it was a while ago".
-- After a while, Roberto came back inside.
-- I haven't seen him for a while.
-- I'll be fine in a while.
+- "When did that happen?" "Oh, it was a while `ago`".
+- `After` a while, Roberto came back inside.
+- I haven't seen him `for` a while.
+- I'll be fine `in` a while.
 
 ## 2267. while ## noun
 /wɑɪl/ quite a while
 [B1]a long time
 - I hadn’t seen Rebecca in quite a while.
-- It took quite a while to clean out the garage.
+- It took quite a while `to` clean out the garage.
 
 ## 2268. whole ## noun
 /hoʊl/ on the whole
@@ -13880,7 +13880,7 @@
 /ˈwɑɪld.lɑɪf/ 
 [B1]animals and plants that grow independently of people in their natural environment
 - a documentary on Peruvian wildlife
-- wildlife groups/conservation
+- wildlife `groups/conservation`
 
 ## 2270. window ## noun [C]
 /ˈwɪn.doʊ/ COMPUTER
@@ -13910,7 +13910,7 @@
 ## 2275. work ## noun
 /wɜrk/ EFFORT
 [B1]when you use physical or mental effort to do something
-- Carrying heavy loads around all day is hard work.
+- Carrying heavy loads around all day is `hard` work.
 - I can certainly do a report for you but it will be a lot of work.
 
 ## 2276. worker ## noun [C]
@@ -13932,18 +13932,18 @@
 ## 2279. worry ## noun
 /ˈwɜr.i/ PROBLEM
 [B1]a problem that makes you feel anxious
-- health/financial worries
+- `health/financial` worries
 - Keeping warm in the winter is a major worry for many old people.
 
 ## 2280. worst ## noun [no plural]
 /wɜːrst/ MOST UNPLEASANT/DIFFICULT
 [B1]the most unpleasant or difficult thing, person, or situation
-- That was the worst I've seen him play in several years.
+- That was `the` worst I've seen him play in several years.
 
 ## 2281. writer ## noun [C]
 /ˈrɑɪt̬.ər/ 
 [B1]a person who writes books or articles to be published
-- a travel/sports/fiction/crime writer
+- a `travel/sports/fiction/crime` writer
 - She is a well-known writer of children's books.
 
 ## 2282. writing ## noun [U]
@@ -13978,7 +13978,7 @@
 - an earthquake zone
 - a nuclear-free zone
 - He was charged with driving 75 mph in a 55 mph zone.
-- The UN Security Council has established a no-fly zone.
+- The UN Security Council has `established` a `no-fly` zone.
 
 ## 2288. X-ray ## noun [C]
 /ˈeks.reɪ/ 
@@ -13988,30 +13988,30 @@
 ## 2289. absence ## noun
 /ˈæb.səns/ NOT PRESENT
 [B2]when someone is not where they are usually expected to be
-- A new manager was appointed during/in her absence.
-- She has had repeated absences from school this year.
+- A new manager was appointed `during/in` her absence.
+- She has had repeated absences `from` school this year.
 
 ## 2290. absence ## noun
 /ˈæb.səns/ NOT EXISTING
 [B2]when something does not exist
-- He drew attention to the absence of concrete evidence against the defendant.
+- He drew attention to the absence `of` concrete evidence against the defendant.
 
 ## 2291. abuse ## noun
 /əˈbjuːs/ BAD TREATMENT
 [B2]bad or cruel treatment of people or animals
-- sexual/psychological/mental abuse
-- The rescued dogs had been victims of physical abuse.
+- `sexual/psychological/mental` abuse
+- The rescued dogs had been victims of `physical` abuse.
 
 ## 2292. abuse ## noun
 /əˈbjuːs/ WRONG USE
 [B2]the use of a substance in an unsuitable and harmful way or for the wrong purpose
-- Drug and alcohol abuse contributed to his early death.
+- `Drug` and `alcohol` abuse contributed to his early death.
 - This program tries to address problems that lead to substance abuse.
 
 ## 2293. accent ## noun [C]
 /ˈæk.sent/ MARK
 [B2]a mark written or printed over a letter to show you how to pronounce it
-- There's an acute accent on the "e" of "café."
+- There's an acute accent `on` the "e" of "café."
 
 ## 2294. accommodations ## noun [plural]
 /əˌkɑm.əˈdeɪ.ʃənz/ 
@@ -14021,8 +14021,8 @@
 ## 2295. account ## noun
 /əˈkɑʊnt/ REPORT
 [B2]a written or spoken description of something that has happened
-- She gave a thrilling account of her life in the jungle.
-- The documents provide a detailed account of the town's early history.
+- She `gave` a thrilling account ` of` her life in the jungle.
+- The documents provide a `detailed` account of the town's early history.
 
 ## 2296. account ## noun
 /əˈkɑʊnt/ take account of sth
@@ -14032,7 +14032,7 @@
 ## 2297. account ## noun
 /əˈkɑʊnt/ take into account sth
 [B2]to consider something when judging a situation
-- I think you have to take into account the fact that he's a good deal younger than the rest of us.
+- I think you have to take into account `the fact that` he's a good deal younger than the rest of us.
 
 ## 2298. account ## noun
 /əˈkɑʊnt/ on account of sth
@@ -14042,7 +14042,7 @@
 ## 2299. accuracy ## noun [U]
 /ˈæk.jʊ.rə.si/ 
 [B2]how correct or exact something is
-- We can predict changes with a surprising degree of accuracy.
+- We can predict changes with `a` surprising `degree of` accuracy.
 
 ## 2300. acid ## noun [C or U]
 /ˈæs.ɪd/ 
@@ -14053,47 +14053,47 @@
 ## 2301. act ## noun
 /ækt/ THING DONE
 [B2]something that someone does
-- an act of aggression/kindness/terrorism
-- a kind/thoughtless/selfish act
+- an act `of aggression/kindness/terrorism`
+- a `kind/thoughtless/selfish` act
 - The simple act of telling someone about a problem can help.
 
 ## 2302. action ## noun
 /ˈæk.ʃən/ DO
 [B2]something that you do
-- We must take action before the problem gets worse.
-- She has to accept the consequences of her actions.
-- What do you think is the best course of action?
+- We must `take` action before the problem gets worse.
+- She has to accept the `consequences of` her actions.
+- What do you think is the best `course of` action?
 
 ## 2303. activity ## noun
 /ækˈtɪv.ət̬.i/ WORK
 [B2]the work of a group or organization to achieve an aim
-- Energy companies have concentrated their business activity in Houston.
-- illegal/criminal activities
+- Energy companies have concentrated their `business` activity in Houston.
+- `illegal/criminal` activities
 
 ## 2304. activity ## noun
 /ækˈtɪv.ət̬.i/ MOVEMENT
 [B2]when a lot of things are happening or people are moving around
-- Officials are concerned by the low level of economic activity.
+- Officials are concerned by the low level of `economic` activity.
 - There was a lot of activity the other side of the room.
 
 ## 2305. addict ## noun [C]
 /ˈæd.ɪkt/ 
 [B2]a person who cannot stop doing or using something, especially something harmful
-- a drug/heroin addict
-- a gambling addict
+- a `drug/heroin` addict
+- a `gambling` addict
 - I'm a chocolate/shopping addict.
 
 ## 2306. addiction ## noun [C or U]
 /əˈdɪk.ʃən/ 
 [B2]when you cannot stop doing or taking something because you are addicted to it
-- drug addiction
-- an addiction to alcohol
+- `drug` addiction
+- an addiction `to` alcohol
 - His addiction to computer games means he is spending far too much time indoors.
 
 ## 2307. addition ## noun
 /əˈdɪʃ.ən/ NEW THING
 [B2]a new or extra thing which is added to something
-- Matt is the latest addition to the team.
+- Matt is the latest addition `to` the team.
 
 ## 2308. addition ## noun
 /əˈdɪʃ.ən/ NUMBERS/AMOUNTS
@@ -14103,19 +14103,19 @@
 ## 2309. adjustment ## noun [C or U]
 /əˈdʒʌst.mənt/ 
 [B2]a small change that you make to something so that it works better, fits better, or is more suitable
-- We've made a few adjustments to the schedule.
-- I have a few minor adjustments to make.
+- We've `made` a few adjustments `to` the schedule.
+- I have a few `minor` adjustments to make.
 
 ## 2310. admiration ## noun [U]
 /ˌæd.məˈreɪ.ʃən/ 
 [B2]when you admire someone or something
-- My admiration for that woman grows daily.
-- She gazed in admiration at his broad, muscular shoulders.
+- My admiration `for` that woman grows daily.
+- She gazed `in` admiration at his broad, muscular shoulders.
 
 ## 2311. admission ## noun
 /ədˈmɪʃ.ən/ PERMISSION
 [B2]when someone is given permission to enter somewhere or to become a member of a club, university, etc.
-- She's applied for admission to law school.
+- She's applied for admission `to` law school.
 
 ## 2312. adoption ## noun [C or U]
 /əˈdɑp.ʃən/ 
@@ -14125,9 +14125,9 @@
 ## 2313. advance ## noun
 /ədˈvæns/ PROGRESS
 [B2]new discoveries and inventions
-- technological/scientific advances
-- Our lives have been improved by the many recent advances in computer technology.
-- the advance of modern medicine
+- `technological/scientific` advances
+- Our lives have been improved by the many recent advances `in` computer technology.
+- `the` advance `of` modern medicine
 
 ## 2314. advantage ## noun
 /ədˈvæn.t̬ɪdʒ/ take advantage of sb/sth
@@ -14137,12 +14137,12 @@
 ## 2315. advantage ## noun
 /ədˈvæn.t̬ɪdʒ/ SUCCESS
 [B2]something that will help you to succeed
-- These new routes will give the airline an advantage over its competitors.
+- These new routes will `give` the airline an advantage `over` its competitors.
 
 ## 2316. advertising ## noun [U]
 /ˈæd.vərˌtɑɪ.zɪŋ/ 
 [B2]the business of trying to persuade people to buy products or services
-- Fiona works in advertising.
+- Fiona works `in` advertising.
 - the advertising industry
 
 ## 2317. affair ## noun
@@ -14154,14 +14154,14 @@
 ## 2318. affair ## noun
 /əˈfer/ RELATIONSHIP
 [B2]a sexual relationship, especially a secret one
-- Do you think he's having an affair with someone?
-- The book is the story of a long love affair that has a sad ending.
+- Do you think he's `having` an affair with someone?
+- The book is the story of a long `love` affair that has a sad ending.
 
 ## 2319. affection ## noun [C or U]
 /əˈfek.ʃən/ 
 [B2]a feeling of liking or loving a person or place
-- He had a deep affection for his aunt.
-- She felt no affection for the child.
+- He `had` a deep affection `for` his aunt.
+- She `felt` no affection `for` the child.
 
 ## 2320. age ## noun
 /eɪdʒ/ PERIOD
@@ -14177,22 +14177,22 @@
 ## 2322. agent ## noun [C]
 /ˈeɪ.dʒənt/ SECRET INFORMATION
 [B2]someone who tries to find out secret information, especially about another country
-- a secret agent
+- a `secret` agent
 
 ## 2323. agreement ## noun
 /əˈgriː.mənt/ DECISION
 [B2]a promise or decision made between two or more groups or people
-- an agreement with the company
-- an agreement between both parties
-- It was difficult to reach an agreement.
-- The president has signed an international agreement on climate change.
-- They have broken the agreement on human rights.
+- an agreement `with` the company
+- an agreement `between` both parties
+- It was difficult to `reach` an agreement.
+- The president has `signed` an international agreement on climate change.
+- They have `broken` the agreement `on` human rights.
 
 ## 2324. agreement ## noun
 /əˈgriː.mənt/ SAME OPINION
 [B2]when people have the same opinion or make the same decision
-- Are we all in agreement?
-- There was broad agreement about/on what to do.
+- Are we all `in` agreement?
+- There was broad agreement `about/on` what to do.
 
 ## 2325. agriculture ## noun [U]
 /ˈæg.rəˌkʌl.tʃər/ 
@@ -14208,30 +14208,30 @@
 ## 2327. aircraft ## noun [C]
 /ˈer.kræft/ 
 [B2]any vehicle, with or without an engine, which can fly, such as a plane or helicopter
-- military/commercial aircraft
+- `military/commercial` aircraft
 
 ## 2328. alternative ## noun [C]
 /ɔːlˈtɜr.nət̬.ɪv/ 
 [B2]one of two or more things that you can choose between
-- It's a low-fat alternative to butter.
-- I'm afraid I have no alternative but to ask you to leave.
+- It's a low-fat alternative `to` butter.
+- I'm afraid I `have no` alternative `but to` ask you to leave.
 
 ## 2329. aluminum ## noun [U]
 /əˈluː.mə.nəm/ 
 [B2]a light, silver-colored metal used for making containers, cooking equipment and aircraft parts
-- Cover the fish with aluminum foil and bake.
+- Cover the fish with aluminum `foil` and bake.
 
 ## 2330. amazement ## noun [U]
 /əˈmeɪz.mənt/ 
 [B2]extreme surprise
-- She stared in amazement.
-- To my amazement, he ate the whole thing.
+- She stared `in` amazement.
+- `To my` amazement, he ate the whole thing.
 
 ## 2331. ambassador ## noun [C]
 /æmˈbæs.əd.ər/ 
 [B2]the main official sent by a government of a country to represent it in another country
-- Britain's ambassador in Moscow has refused to comment.
-- She's a former ambassador to the United States.
+- Britain's ambassador `in` Moscow has refused to comment.
+- She's a former ambassador `to` the United States.
 
 ## 2332. ambition ## noun
 /æmˈbɪʃ.ən/ STRONG FEELING
@@ -14241,24 +14241,24 @@
 ## 2333. amusement ## noun
 /əˈmjuːz.mənt/ FEELING
 [B2]the feeling that you have when something makes you smile or laugh
-- She looked at him with great amusement.
-- Carl came last in the race, much to my amusement.
+- She looked at him `with` great amusement.
+- Carl came last in the race, `much to my` amusement.
 
 ## 2334. amusement ## noun
 /əˈmjuːz.mənt/ ENTERTAINMENT
 [B2]an enjoyable way of spending your time
-- I play the piano, but just for my own amusement.
+- I play the piano, but just `for` my `own` amusement.
 
 ## 2335. analysis ## noun [C or U]
 /əˈnæl.ə.sɪs/ 
 [B2]the process of analyzing something
 - Chemical analysis revealed a high content of copper.
-- I was interested in Clare's analysis of the situation.
+- I was interested in Clare's analysis `of` the situation.
 
 ## 2336. analyst ## noun [C]
 /ˈæn.əl.ɪst/ 
 [B2]someone whose job is to study or examine something in detail
-- a financial/political/systems analyst
+- a `financial/political/systems` analyst
 
 ## 2337. ancestor ## noun [C]
 /ˈænˌses.tər/ 
@@ -14268,8 +14268,8 @@
 ## 2338. anger ## noun [U]
 /ˈæŋ.gər/ 
 [B2]a strong feeling against someone who has behaved badly, making you want to shout at them or hurt them
-- I think he feels a lot of anger towards his father who treated him very badly as a child.
-- The people showed no surprise or anger at their treatment.
+- I think he feels a lot of anger `towards` his father who treated him very badly as a child.
+- The people showed no surprise or anger `at` their treatment.
 
 ## 2339. animal ## noun [C]
 /ˈæn.ə.məl/ NOT A PLANT
@@ -14279,8 +14279,8 @@
 ## 2340. anxiety ## noun [U]
 /æŋˈzɑɪ.ət̬.i/ 
 [B2]the feeling of being very worried
-- Children normally feel a lot of anxiety about their first day at school.
-- That explains his anxiety over his health.
+- Children normally feel a lot of anxiety `about` their first day at school.
+- That explains his anxiety `over` his health.
 
 ## 2341. apostrophe ## noun [C]
 /əˈpɑs.trə.fi/ 
@@ -14296,19 +14296,19 @@
 /əˈpiːl/ QUALITY
 [B2]the quality in someone or something that makes them attractive or interesting
 - Eating out has lost much of its appeal.
-- Spielberg films have universal/popular appeal.
+- Spielberg films have `universal/popular` appeal.
 
 ## 2343. appearance ## noun
 /əˈpɪr.əns/ IN PUBLIC
 [B2]when someone appears in public, on television, in a film, etc.
-- It was his first appearance on television/television appearance as president.
-- She made two appearances during her visit.
-- She will be making a public appearance, signing copies of her latest novel.
+- It was his first appearance on television/television appearance `as` president.
+- She `made` two appearances during her visit.
+- She will be making a `public` appearance, signing copies of her latest novel.
 
 ## 2344. appearance ## noun
 /əˈpɪr.əns/ BECOMING AVAILABLE
 [B2]when something starts to exist or becomes available
-- The appearance of new products on the market has increased competition.
+- The appearance `of` new products on the market has increased competition.
 
 ## 2345. application ## noun
 /ˌæp.ləˈkeɪ.ʃən/ COMPUTER SOFTWARE
@@ -14318,34 +14318,34 @@
 ## 2346. appreciation ## noun [U]
 /əˌpriː.ʃiːˈeɪ.ʃən/ 
 [B2]when you understand how good or how difficult something is
-- To show our appreciation for all your help, we bought you a little gift.
-- The crowd cheered in appreciation.
-- My appreciation of art has increased as I've gotten older.
+- To show our appreciation `for` all your help, we bought you a little gift.
+- The crowd cheered `in` appreciation.
+- My appreciation `of` art has increased as I've gotten older.
 
 ## 2347. approach ## noun
 /əˈproʊtʃ/ METHOD
 [B2]a way of doing something
-- In Sweden they have a different approach to the problem.
-- I thought we'd adopt/take a new approach.
+- In Sweden they have a different approach `to` the problem.
+- I thought we'd `adopt/take` a new approach.
 
 ## 2348. approach ## noun
 /əˈproʊtʃ/ COMING CLOSER
 [B2]when something or someone gets nearer in distance or time
-- The siren signaled the approach of an ambulance.
-- Please fasten your seat belts, the plane is now making its final approach (in)to Heathrow Airport.
+- The siren signaled the approach `of` an ambulance.
+- Please fasten your seat belts, the plane is now making its final approach `(in)to` Heathrow Airport.
 
 ## 2349. approval ## noun [U]
 /əˈpruː.v.əl/ GOOD OPINION
 [B2]when you have a positive opinion of someone or something
 - He showed his approval by smiling broadly.
-- Sam always tried hard to win his father's approval.
-- Does the wine meet with your approval?
+- Sam always tried hard to `win` his father's approval.
+- Does the wine `meet with your` approval?
 
 ## 2350. approval ## noun [U]
 /əˈpruː.v.əl/ PERMISSION
 [B2]official permission
-- We need approval for the project to move ahead.
-- The teacher gave the student a nod of approval.
+- We `need` approval for the project to move ahead.
+- The teacher gave the student `a nod of` approval.
 
 ## 2351. area ## noun [C]
 /ˈer.iː.ə/ SUBJECT
@@ -14356,15 +14356,15 @@
 ## 2352. argument ## noun [C]
 /ˈɑr.gjə.mənt/ REASON
 [B2]a reason or reasons why you support or oppose an idea, action, etc.
-- There are many arguments for and against nuclear energy.
-- I don't think that's a very strong/powerful argument.
+- There are many arguments `for` and `against` nuclear energy.
+- I don't think that's a very `strong/powerful` argument.
 
 ## 2353. arrangement ## noun
 /əˈreɪndʒ.mənt/ AGREEMENT
 [B2]an agreement between two people or groups
-- We had an arrangement that he would clean the house and I would cook.
-- I'm sure we can come to an arrangement.
-- You can only withdraw money from this account by (prior) arrangement with the bank.
+- We `had` an arrangement `that` he would clean the house and I would cook.
+- I'm sure we can `come to` an arrangement.
+- You can only withdraw money from this account by `(prior)` arrangement ` with` the bank.
 
 ## 2354. arrangement ## noun
 /əˈreɪndʒ.mənt/ POSITION
@@ -14374,8 +14374,8 @@
 ## 2355. arrest ## noun [C or U]
 /əˈrest/ 
 [B2]when the police take someone away to ask them about a crime which they might have committed
-- Police made twenty arrests at yesterday's demonstration.
-- She was stopped outside the store and placed under arrest.
+- Police `made` twenty arrests at yesterday's demonstration.
+- She was stopped outside the store and placed `under` arrest.
 
 ## 2356. arrow ## noun [C]
 /ˈær.oʊ/ SYMBOL
@@ -14397,8 +14397,8 @@
 ## 2359. aspect ## noun [C]
 /ˈæs.pekt/ 
 [B2]one part of a situation, problem, subject, etc.
-- Which aspects of the job do you most enjoy?
-- That's the most worrying aspect of the situation.
+- Which aspects `of` the job do you most enjoy?
+- That's the most worrying aspect `of` the situation.
 
 ## 2360. assessment ## noun [C or U]
 /əˈses.mənt/ 
@@ -14408,8 +14408,8 @@
 ## 2361. assistance ## noun [U]
 /əˈsɪs.təns/ 
 [B2]help
-- Can I be of any assistance?
-- Teachers can't give pupils any assistance during exams.
+- Can I be `of any` assistance?
+- Teachers can't `give` pupils any assistance during exams.
 
 ## 2362. association ## noun
 /əˌsoʊ.siːˈeɪ.ʃən/ 
@@ -14419,8 +14419,8 @@
 ## 2363. astonishment ## noun [U]
 /əˈstɑn.ɪʃ.mənt/ 
 [B2]very great surprise
-- To my astonishment, she started laughing.
-- She gasped in astonishment.
+- `To my` astonishment, she started laughing.
+- She gasped `in` astonishment.
 
 ## 2364. atmosphere ## noun
 /ˈæt.məsˌfɪr/ the atmosphere
@@ -14445,15 +14445,15 @@
 ## 2368. attachment ## noun
 /əˈtætʃ.mənt/ COMPUTING
 [B2]a computer file that is sent together with an e-mail message
-- I'll e-mail my report to you as an attachment.
-- I wasn't able to open that attachment.
+- I'll e-mail my report to you `as an` attachment.
+- I wasn't able to `open` that attachment.
 
 ## 2369. attempt ## noun [C]
 /əˈtemt/ 
 [B2]when you try to do something
-- This is my second attempt at the exam.
-- They closed the road in an attempt to reduce traffic in the city.
-- He made no attempt to be sociable.
+- This is my second attempt `at` the exam.
+- They closed the road `in an` attempt `to` reduce traffic in the city.
+- He `made no` attempt to be sociable.
 
 ## 2370. attention ## noun [U]
 /əˈten.tʃən/ attract/get (sb's) attention
@@ -14479,10 +14479,10 @@
 ## 2374. authority ## noun
 /əˈθɔːr.ət̬.i/ POWER
 [B2]the power to make decisions or to control other people
-- The United Nations has used its authority to restore peace in the area.
-- We need to get the support of someone in authority.
-- They have the authority to examine the company's records.
-- The problem is that teachers feel they no longer have authority over their pupils.
+- The United Nations has `used` its authority `to` restore peace in the area.
+- We need to get the support of someone `in` authority.
+- They `have the` authority `to` examine the company's records.
+- The problem is that teachers feel they no longer `have` authority `over` their pupils.
 
 ## 2375. availability ## noun [U]
 /əˌveɪ.ləˈbɪl.ət̬.i/ 
@@ -14497,38 +14497,38 @@
 ## 2377. award ## noun [C]
 /əˈwɔːrd/ PRIZE
 [B2]a prize given to someone for something they have achieved
-- the Academy Award for Best Director
-- Both films have received/won several awards.
+- the Academy Award `for` Best Director
+- Both films have `received/won` several awards.
 
 ## 2378. background ## noun
 /ˈbæk.grɑʊnd/ SOUND
 [B2]sounds that you can hear that are not the main sounds that you are listening to
-- background music/noise
-- If you listen carefully to this piece of music, you can hear a flute in the background.
+- background `music/noise`
+- If you listen carefully to this piece of music, you can hear a flute `in the` background.
 
 ## 2379. background ## noun
 /ˈbæk.grɑʊnd/ PICTURE
 [B2]the things that can be seen behind the main things or people in a picture
-- gold stars on a black background
-- The artist himself did not paint the backgrounds to his pictures - they were done by his pupils.
-- He has photographed her against lots of different backgrounds.
+- gold stars `on` a black background
+- The artist himself did not paint the backgrounds `to` his pictures - they were done by his pupils.
+- He has photographed her `against` lots of different backgrounds.
 
 ## 2380. background ## noun
 /ˈbæk.grɑʊnd/ SITUATION
 [B2]the situation that an event happens in, or things which have happened in the past which affect it
-- These decisions are being made against a background of high unemployment.
-- Can you give me some background on the situation?
+- These decisions are being made `against a` background of high unemployment.
+- Can you give me some background `on` the situation?
 
 ## 2381. backup ## noun
 /ˈbæk.ʌp/ EXTRA HELP
 [B2]extra help, support or equipment which is available if you need it
-- Medical staff are on call to provide backup in case of an emergency.
+- Medical staff are on call to `provide` backup in case of an emergency.
 
 ## 2382. backup ## noun
 /ˈbæk.ʌp/ COPY
 [B2]a copy of information that is held on a computer, which is stored separately from the computer
-- Before we leave work each day, we make a backup of all the records we have entered into the computer that day.
-- The department's backup disks are all stored in a different building.
+- Before we leave work each day, we `make` a backup `of` all the records we have entered into the computer that day.
+- The department's backup `disks` are all stored in a different building.
 
 ## 2383. badge ## noun [C]
 /bædʒ/ 
@@ -14543,14 +14543,14 @@
 ## 2385. balance ## noun
 /ˈbæl.əns/ WEIGHT
 [B2]when the weight of someone or something is spread in such a way that they do not fall over
-- I lost my balance and fell off the bike.
-- She had to hold onto the railings to keep her balance.
+- I `lost` my balance and fell off the bike.
+- She had to hold onto the railings to `keep` her balance.
 
 ## 2386. balance ## noun
 /ˈbæl.əns/ EQUAL IMPORTANCE
 [B2]when the correct amount of importance is given to each thing so that a situation is successful
-- We must strike a balance between police powers and the protection of citizens.
-- He was concerned that taking on three more men could upset the gender balance in the department.
+- We must `strike a` balance between police powers and the protection of citizens.
+- He was concerned that taking on three more men could `upset the` gender balance in the department.
 
 ## 2387. balance ## noun
 /ˈbæl.əns/ MONEY
@@ -14565,30 +14565,30 @@
 ## 2389. ballet ## noun [U]
 /bælˈeɪ/ 
 [B2]a type of dancing where carefully organized movements tell a story or express an idea
-- a ballet dancer
+- a ballet `dancer`
 - Both children do ballet.
 
 ## 2390. ban ## noun [C]
 /bæn/ 
 [B2]an official order that prevents something from happening
-- There should be a ban on talking loudly in movie theaters.
+- There should be a ban `on` talking loudly in movie theaters.
 
 ## 2391. bang ## noun [C]
 /bæŋ/ 
 [B2]a sudden loud noise
-- The window slammed shut with a loud bang.
+- The window slammed shut `with a` loud bang.
 
 ## 2392. bank ## noun [C]
 /bæŋk/ RIVER
 [B2]sloping raised land, especially along the sides of a river
 - By the time we reached the opposite bank, the boat was sinking fast.
-- These flowers generally grow on river banks and near streams.
+- These flowers generally grow on `river` banks and near streams.
 
 ## 2393. bank account ## noun [C]
 /ˈbæŋk.əˌkɑʊnt/ 
 [B2]an arrangement with a bank to keep your money there and to allow you to take it out when you need to
-- It would be a good idea to open a bank account.
-- I deposited the money into my bank account this morning.
+- It would be a good idea to `open` a bank account.
+- I `deposited` the money `into` my bank account this morning.
 
 ## 2394. banker ## noun [C]
 /ˈbæŋ.kər/ 
@@ -14624,9 +14624,9 @@
 ## 2400. barrier ## noun [C]
 /ˈbær.iː.ər/ PREVENTING
 [B2]something that prevents people from doing what they want to do
-- Despite the language barrier, they soon became good friends.
-- Shyness is one of the biggest barriers to making friends.
-- We have to work at breaking down barriers between the two communities.
+- Despite the `language` barrier, they soon became good friends.
+- Shyness is one of the biggest barriers `to` making friends.
+- We have to work at `breaking down` barriers between the two communities.
 
 ## 2401. bartender ## noun [C]
 /ˈbɑrˌten.dər/ 
@@ -14642,18 +14642,18 @@
 ## 2403. base ## noun [C]
 /beɪs/ MILITARY
 [B2]a place where a military service operates and people in that military service live
-- an army/navy/air force base
-- an old military base
+- an `army/navy/air force` base
+- an old `military` base
 
 ## 2404. basement ## noun [C]
 /ˈbeɪs.mənt/ 
 [B2]a room or set of rooms that is below ground level in a building
-- a basement apartment
+- a basement `apartment`
 
 ## 2405. basics ## noun [plural]
 /ˈbeɪ.sɪks/ the basics
 [B2]the most important facts, skills, or needs
-- I really must learn the basics of first aid.
+- I really must learn the basics `of` first aid.
 
 ## 2406. basis ## noun [C]
 /ˈbeɪ.səs/ on a regular/daily/weekly, etc., basis
@@ -14663,13 +14663,13 @@
 ## 2407. basis ## noun [C]
 /ˈbeɪ.səs/ METHOD
 [B2]the way or method of doing something
-- Requests are decided on a case-by-case basis.
+- Requests are decided `on a` case-by-case basis.
 - She'll work with us on a temporary basis.
 
 ## 2408. battle ## noun
 /ˈbæt̬.əl/ PROBLEMS/ILLNESS
 [B2]a fight against something that is very difficult, or that is hurting or destroying you
-- a long battle against cancer
+- a long battle `against` cancer
 
 ## 2409. beam ## noun [C]
 /biːm/ 
@@ -14679,13 +14679,13 @@
 ## 2410. beat ## noun [C]
 /biːt/ REGULAR SOUND
 [B2]a regular movement or sound, especially that made by your heart
-- I put my head on his chest but I could feel no heart beat.
-- My heart missed a beat when she said, "Yes, I'll marry you."
+- I put my head on his chest but I could feel no `heart` beat.
+- My heart `missed a` beat when she said, "Yes, I'll marry you."
 
 ## 2411. beat ## noun [C]
 /biːt/ MUSIC
 [B2]the main rhythm of a piece of music
-- The guitar comes in on the third beat.
+- The guitar comes in `on` the third beat.
 - He tapped his foot to the beat of the music.
 
 ## 2412. behalf ## noun
@@ -14697,27 +14697,27 @@
 ## 2413. belief ## noun
 /bɪˈliːf/ TRUE
 [B2]when you believe that something is true or real
-- a popular/common/widespread belief
-- He asked her in the belief that she would lend him the money.
-- It is my personal belief that the public have a right to know.
-- She took this medicine in the mistaken belief that it would cure her.
+- a `popular/common/widespread` belief
+- He asked her `in the` belief `that` she would lend him the money.
+- It is my `personal` belief that the public have a right to know.
+- She took this medicine in the `mistaken` belief that it would cure her.
 
 ## 2414. belief ## noun
 /bɪˈliːf/ IDEA
 [B2]an idea that you are certain is true
 - He made no secret of his belief that she would recover.
 - philosophical beliefs
-- All nonviolent religious and political beliefs should be respected equally.
+- All nonviolent `religious` and `political` beliefs should be respected equally.
 
 ## 2415. bell ## noun [C]
 /bel/ METAL OBJECT
 [B2]a hollow, metal object, shaped like a cup, that makes a ringing sound when you hit it
-- the sound of church bells ringing
+- the sound of church bells `ringing`
 
 ## 2416. belongings ## noun [plural]
 /bəˈlɔːŋ.ɪŋz/ 
 [B2]the things that a person owns, especially those which can be carried
-- I put a few personal belongings in a bag and left the house for the last time.
+- I put a few `personal` belongings in a bag and left the house for the last time.
 
 ## 2417. bench ## noun [C]
 /bentʃ/ 
@@ -14728,7 +14728,7 @@
 /bend/ 
 [B2]a curved part of something
 - There's a bend in the pipe so you can't see from one end to the other.
-- There's a sharp bend in the road.
+- There's a `sharp` bend in the road.
 
 ## 2419. berry ## noun [C]
 /ˈber.i/ 
@@ -14768,12 +14768,12 @@
 ## 2426. bit ## noun [C]
 /bɪt/ a bit
 [B2]a short period of time
-- I'm just going out for a bit. See you later.
+- I'm just going out `for` a bit. See you later.
 
 ## 2427. bite ## noun [C]
 /bɑɪt/ FOOD
 [B2]a piece taken from food when you bite it
-- She took a bite of her pizza.
+- She `took` a bite of her pizza.
 
 ## 2428. bite ## noun [C]
 /bɑɪt/ INJURY
@@ -14788,18 +14788,18 @@
 ## 2430. blame ## noun [U]
 /bleɪm/ 
 [B2]when people say or think that someone or something is responsible for something bad
-- The manager should take the blame for the team's defeat.
-- They put the blame on faulty equipment.
+- The manager should `take the` blame for the team's defeat.
+- They `put the` blame `on` faulty equipment.
 
 ## 2431. block ## noun [C]
 /blɑk/ PIECE
 [B2]a solid piece of hard material, usually in the shape of a square or rectangle
-- a block of ice/stone/wood
+- a block `of ice/stone/wood`
 
 ## 2432. board ## noun
 /bɔːrd/ MEALS
 [B2]meals that are provided at a place where you stay
-- How much do they charge for room and board?
+- How much do they charge for `room and` board?
 
 ## 2433. bomber ## noun [C]
 /ˈbɑm.ər/ PERSON
@@ -14814,15 +14814,15 @@
 ## 2435. bond ## noun [C]
 /bɑnd/ 
 [B2]an interest, experience, or feeling that makes people feel connected
-- the bond between the mother and baby
-- There is a close/strong bond between the brothers.
-- We formed a strong bond in this difficult period.
-- A love of opera created a bond between them.
+- the bond `between` the mother and baby
+- There is a `close`/`strong` bond between the brothers.
+- We `formed` a strong bond in this difficult period.
+- A love of opera `created` a bond between them.
 
 ## 2436. bonus ## noun [C]
 /ˈboʊ.nəs/ EXTRA THING
 [B2]another pleasant thing in addition to something you were expecting
-- I love the job, and it's an added bonus that it's so close to home.
+- I love the job, and it's an `added` bonus `that` it's so close to home.
 
 ## 2437. bonus ## noun [C]
 /ˈboʊ.nəs/ EXTRA MONEY
@@ -14842,8 +14842,8 @@
 ## 2440. boost ## noun [C usually no plural]
 /buːst/ 
 [B2]something that makes you feel more confident and happy, or that helps something increase or improve
-- Passing my driving test was such a boost to my confidence.
-- The lowering of interest rates will give a much-needed boost to the economy.
+- Passing my driving test was such a boost `to` my `confidence`.
+- The lowering of interest rates will give a much-needed boost `to` the economy.
 
 ## 2441. bow ## noun [C]
 /boʊ/ KNOT
@@ -14868,14 +14868,14 @@
 ## 2445. branch ## noun [C]
 /bræntʃ/ SUBJECT
 [B2]a part of a subject
-- Immunology is a branch of biological science.
+- Immunology is a branch `of` biological science.
 
 ## 2446. brand ## noun [C]
 /brænd/ 
 [B2]a type of product made by a particular company
-- a best-selling/well-known brand
-- The store sells name brand and designer clothes.
-- This isn't my usual brand of deodorant.
+- a `best-selling/well-known` brand
+- The store sells `name` brand and designer clothes.
+- This isn't my usual brand `of` deodorant.
 
 ## 2447. bravery ## noun [U]
 /ˈbreɪv.ə.ri/ 
@@ -14885,8 +14885,8 @@
 ## 2448. breakdown ## noun [C]
 /ˈbreɪk.dɑʊn/ ILLNESS
 [B2]a short period of mental illness when people are too ill to continue with their normal lives
-- Later that year she had a breakdown.
-- a nervous breakdown
+- Later that year she `had` a breakdown.
+- a `nervous` breakdown
 
 ## 2449. breakdown ## noun [C]
 /ˈbreɪk.dɑʊn/ NOT WORKING
@@ -14896,8 +14896,8 @@
 ## 2450. breakthrough ## noun [C]
 /ˈbreɪk.θruː/ 
 [B2]an important discovery or event that helps to improve a situation or provide an answer to a problem
-- Scientists are hoping for a breakthrough in the search for a cure for cancer.
-- A major breakthrough in negotiations has been achieved.
+- Scientists are hoping for a breakthrough `in` the search for a cure for cancer.
+- A `major` breakthrough `in` negotiations has been achieved.
 
 ## 2451. breath ## noun [U]
 /breθ/ be out of breath
@@ -14922,13 +14922,13 @@
 ## 2455. breed ## noun [C]
 /briːd/ 
 [B2]a type of dog, sheep, etc.
-- This rare breed of sheep is particularly good for wool.
+- This `rare` breed of sheep is particularly good for wool.
 - What's your favorite breed of dog/dog breed?
 
 ## 2456. brick ## noun [C]
 /brɪk/ 
 [B2]a small, hard, rectangular block used for building walls and houses
-- a brick wall
+- a brick `wall`
 
 ## 2457. broadband ## noun [U]
 /ˈbrɔːd.bænd/ 
@@ -14948,21 +14948,21 @@
 ## 2460. bruise ## noun [C]
 /bruːz/ 
 [B2]a dark area on your skin where you have been hurt
-- His arms and back were covered in bruises.
-- She had a few cuts and bruises but nothing serious.
+- His arms and back were `covered in` bruises.
+- She had a few `cuts and` bruises but nothing serious.
 
 ## 2461. budget ## noun [C]
 /ˈbʌdʒ.ɪt/ 
 [B2]the amount of money a person or organization has available to spend
-- an annual budget of $40 million
-- They are over/under/on/within budget.
-- They have a very tight budget.
+- an `annual` budget of $40 million
+- They are `over/under/on/within` budget.
+- They have a very `tight` budget.
 
 ## 2462. bug ## noun [C]
 /bʌg/ ILLNESS
 [B2]a bacteria or a virus causing an illness that is usually not serious
-- I had a stomach bug last week.
-- There's a bug going around.
+- I had a `stomach` bug last week.
+- There's a bug `going around`.
 
 ## 2463. bug ## noun [C]
 /bʌg/ COMPUTER
@@ -14977,7 +14977,7 @@
 ## 2465. bumper ## noun [C]
 /ˈbʌm.pər/ 
 [B2]a bar fixed along the front or the back of a vehicle to protect it in an accident
-- a front/rear bumper
+- a `front/rear` bumper
 
 ## 2466. bun ## noun [C]
 /bʌn/ 
@@ -15008,8 +15008,8 @@
 ## 2471. cable ## noun
 /ˈkeɪ.bəl/ WIRE
 [B2]a set of wires, covered by plastic, that carries electricity, telephone signals, etc.
-- The road had been dug up in order to lay cables.
-- overhead power cables
+- The road had been dug up in order to `lay` cables.
+- overhead `power` cables
 
 ## 2472. cake ## noun [C or U]
 /keɪk/ be a piece of cake
@@ -15019,7 +15019,7 @@
 ## 2473. calculation ## noun [C or U]
 /ˌkæl.kjəˈleɪ.ʃən/ 
 [B2]when you use mathematics to discover an amount or number
-- I did some quick calculations to see if we could afford it.
+- I `did` some quick calculations to see if we could afford it.
 
 ## 2474. calendar ## noun [C]
 /ˈkæl.ən.dər/ APPOINTMENTS
@@ -15034,7 +15034,7 @@
 ## 2476. campus ## noun [C or U]
 /ˈkæm.pəs/ 
 [B2]the buildings of a college or university and the land that surrounds them
-- There's housing for about five hundred students on campus.
+- There's housing for about five hundred students `on` campus.
 
 ## 2477. candidate ## noun [C]
 /ˈkæn.dɪˌdət/ JOB/ELECTION
@@ -15044,15 +15044,15 @@
 ## 2478. capacity ## noun
 /kəˈpæs.ə.t̬i/ AMOUNT
 [B2]the largest amount or number that a container, building, etc. can hold
-- a restaurant with a capacity of 200
-- The new stadium has a seating capacity of 50,000.
-- The stadium was filled to capacity.
+- a restaurant with a capacity `of` 200
+- The new stadium has a `seating` capacity of 50,000.
+- The stadium was `filled to` capacity.
 
 ## 2479. capacity ## noun
 /kəˈpæs.ə.t̬i/ ABILITY
 [B2]the ability to do, experience, or understand something
-- She has a great capacity for hard work.
-- What impresses me is his capacity to absorb information.
+- She has a great capacity `for` hard work.
+- What impresses me is his capacity `to` absorb information.
 
 ## 2480. captain ## noun [C]
 /ˈkæp.tən/ SHIP/AIRCRAFT
@@ -15067,12 +15067,12 @@
 ## 2482. carbon dioxide ## noun [U]
 /ˌkɑr.bən.dɑɪˈɑk.sɑɪd/ 
 [B2]the gas formed when carbon is burned, or when people or animals breathe out
-- carbon dioxide emissions
+- carbon dioxide `emissions`
 
 ## 2483. carbon footprint ## noun [C]
 /ˌkɑr.bənˈfʊt.prɪnt/ 
 [B2]the amount of energy that a person or organization uses in order to exist or operate
-- Many of us could reduce our carbon footprint by taking fewer flights and insulating our homes better.
+- Many of us could `reduce` our carbon footprint by taking fewer flights and insulating our homes better.
 
 ## 2484. carbon monoxide ## noun [U]
 /ˌkɑr.bən.məˈnɑk.sɑɪd/ 
@@ -15082,7 +15082,7 @@
 ## 2485. cardboard ## noun [U]
 /ˈkɑrd.bɔːrd/ 
 [B2]material like very thick stiff paper, usually pale brown in color, which is used especially for making boxes
-- a cardboard box
+- a cardboard `box`
 
 ## 2486. cardigan ## noun [C]
 /ˈkɑrd.ɪ.gən/ 
@@ -15093,7 +15093,7 @@
 /ker/ PROTECTION
 [B2]the process of protecting and looking after someone or something
 - The standard of care at our local hospital is excellent.
-- Teachers are responsible for the children in their care.
+- Teachers are responsible for the children `in` their care.
 
 ## 2488. carelessness ## noun [U]
 /ˈker.ləs.nəs/ 
@@ -15113,7 +15113,7 @@
 ## 2491. cart ## noun [C]
 /kɑrt/ 
 [B2]a vehicle with two or four wheels that is pushed or pulled to carry large or heavy objects on
-- a shopping/grocery/luggage cart
+- a `shopping/grocery/luggage` cart
 - His first job was delivering fruits and vegetables by horse-drawn cart.
 
 ## 2492. case ## noun
@@ -15135,26 +15135,26 @@
 ## 2495. case ## noun
 /keɪs/ CRIME
 [B2]a crime that police are trying to solve
-- a murder case
-- Police in the town have investigated 50 cases of burglary in the past month.
-- The detective on the case has been suspended from duty.
+- a `murder` case
+- Police in the town have investigated 50 cases `of` burglary in the past month.
+- The detective `on` the case has been suspended from duty.
 
 ## 2496. case ## noun
 /keɪs/ COURT OF LAW
 [B2]a matter to be decided by a judge in a court of law
 - The case will go before the European Court next month.
-- She accused her employer of unlawful dismissal and won/lost her case.
+- She accused her employer of unlawful dismissal and `won/lost` her case.
 
 ## 2497. cast ## noun [C]
 /kæst/ 
 [B2]all the actors in a film, play or show
 - After the final performance, the director threw a party for the cast.
-- Part of the film's success lies in the strength of the supporting cast.
+- Part of the film's success lies in the strength of the `supporting` cast.
 
 ## 2498. catalog ## noun [C]
 /ˈkæt̬.əlˌɔːg/ 
 [B2]a book with a list of items, such as goods that you can buy from a business or pictures displayed in a museum
-- a mail-order catalog
+- a `mail-order` catalog
 
 ## 2499. category ## noun [C]
 /ˈkæt̬.əˌgɔːr.i/ 
@@ -15164,14 +15164,14 @@
 ## 2500. catering ## noun [U]
 /ˈkeɪt̬.ər.ɪŋ/ 
 [B2]providing food and drinks for people
-- Who did the catering for the party?
+- Who `did` the catering for the party?
 - a high-class catering company
 
 ## 2501. cause ## noun
 /kɔːz/ REASON WHY
 [B2]the reason why something, especially something bad, happens
-- The police are still trying to establish the cause of the fire.
-- She had died of natural causes.
+- The police are still trying to establish `the` cause `of` the fire.
+- She had died of `natural` causes.
 
 ## 2502. cell ## noun [C]
 /sel/ ORGANISM
@@ -15207,25 +15207,25 @@
 ## 2508. certainty ## noun
 /ˈsɜrt.ən.ti/ BEING SURE
 [B2]when you are completely sure about something
-- I'm unable to answer that question with any certainty.
+- I'm unable to answer that question `with` any certainty.
 
 ## 2509. chain ## noun
 /tʃeɪn/ EVENTS
 [B2]a series of things that happen one after the other
-- a chain reaction
-- His arrival set off a surprising chain of events.
+- a chain `reaction`
+- His arrival set off a surprising chain `of events`.
 
 ## 2510. chance ## noun
 /tʃæns/ RISK
 [B2]a risk
-- I'm delivering my work by hand. I'm not taking any chances.
-- There's a chance of injury in almost any sport.
+- I'm delivering my work by hand. I'm not `taking` any chances.
+- There's a chance `of` injury in almost any sport.
 
 ## 2511. chaos ## noun [U]
 /ˈkeɪ.ɑs/ 
 [B2]a state of total confusion with no order
 - Snow and ice have caused chaos on the roads.
-- Ever since our secretary walked out, the office has been in a state of total chaos.
+- Ever since our secretary walked out, the office has been `in` a state of `total` chaos.
 
 ## 2512. character ## noun
 /ˈkær.ɪk.tər/ INTERESTING QUALITIES
@@ -15235,37 +15235,37 @@
 ## 2513. characteristic ## noun [C]
 /ˌkær.ək.təˈrɪs.tɪk/ 
 [B2]a typical or noticeable quality of someone or something
-- Unfortunately a big nose is a family characteristic.
-- Sentimentality seems a characteristic of all the writers of that period.
-- The male bird displays several characteristics which distinguish him from the female.
+- Unfortunately a big nose is a `family` characteristic.
+- Sentimentality seems a characteristic `of` all the writers of that period.
+- The male bird `displays` several characteristics which distinguish him from the female.
 
 ## 2514. charge ## noun
 /tʃɑrdʒ/ take charge
 [B2]to take control of or make yourself responsible for something
-- I was happy to let her take charge of the travel arrangements.
+- I was happy to let her take charge `of` the travel arrangements.
 
 ## 2515. charm ## noun
 /tʃɑrm/ QUALITY
 [B2]a quality which makes you like or feel attracted to someone or something
-- a woman of great charm
+- a woman `of` great charm
 - The building has a certain charm.
 - I had to use all my charms to get them to lend us the hall.
 
 ## 2516. chart ## noun
 /tʃɑrt/ DRAWING
 [B2]a drawing which shows information in a simple way, often using lines and curves to show amounts
-- a sales chart
+- a `sales` chart
 
 ## 2517. chart ## noun
 /tʃɑrt/ the charts
 [B2]an official list of the most popular songs each week
-- They're currently at the top of the charts with their single "Enough."
+- They're currently `at the top of` the charts with their single "Enough."
 
 ## 2518. chemical ## noun [C]
 /ˈkem.ə.kəl/ 
 [B2]a basic substance that is used in chemistry or produced by chemistry
 - The government has pledged to reduce the amount of chemicals used in food production.
-- Each year, factories release millions of tons of toxic chemicals into the atmosphere.
+- Each year, factories release millions of tons of `toxic` chemicals into the atmosphere.
 
 ## 2519. cherry ## noun [C]
 /ˈtʃer.i/ 
@@ -15276,14 +15276,14 @@
 /tʃest/ BODY
 [B2]the front part of your body, between your neck and your waist, containing your heart and your lungs
 - He was shot in the chest.
-- Peter has a very hairy chest.
-- She went to the doctor complaining of chest pains.
+- Peter has a very `hairy` chest.
+- She went to the doctor complaining of chest `pains`.
 
 ## 2521. chief ## noun [C]
 /tʃiːf/ 
 [B2]the person in charge of a group or organization
 - a police chief
-- A new chief of the security forces has just been appointed.
+- A new chief `of` the security forces has just been appointed.
 
 ## 2522. chimney ## noun [C]
 /ˈtʃɪm.ni/ 
@@ -15298,33 +15298,33 @@
 ## 2524. choir ## noun [C]
 /kwɑɪr/ 
 [B2]a group of people who sing together, often in a church or a school
-- He sings in the church choir.
-- choir practice
+- He sings `in` the church choir.
+- choir `practice`
 
 ## 2525. circle ## noun [C]
 /ˈsɜr.kəl/ GROUP
 [B2]a group of people with family, work or social connections
-- She's not one of my close circle of friends.
+- She's not one of my close circle `of friends`.
 - It's a technical term used in medical circles.
 
 ## 2526. circumstance ## noun [C usually plural]
 /ˈsɜr.kəmˌstæns/ 
 [B2]a fact or event that makes a situation the way it is
-- I think she coped very well under the circumstances.
-- The circumstances surrounding her death were suspicious.
-- We oppose capital punishment in all/under any circumstances.
-- Under no circumstances should you approach the man.
-- The meeting has been cancelled due to circumstances beyond our control.
+- I think she coped very well `under the` circumstances.
+- The circumstances `surrounding` her death were suspicious.
+- We oppose capital punishment `in all/under any` circumstances.
+- `Under no` circumstances should you approach the man.
+- The meeting has been cancelled `due to` circumstances `beyond our control`.
 
 ## 2527. citizen ## noun [C]
 /ˈsɪt̬.ə.zən/ TOWN/CITY
 [B2]someone who lives in a particular town or city
-- The citizens of Moscow woke up this morning to find they had a new government.
+- The citizens `of` Moscow woke up this morning to find they had a new government.
 
 ## 2528. citizen ## noun [C]
 /ˈsɪt̬.ə.zən/ LEGAL RIGHT
 [B2]someone who has a legal right to live in a particular country
-- He applied to become an American citizen.
+- He applied to `become` an American citizen.
 
 ## 2529. civilization ## noun
 /ˌsɪv.ə.ləˈzeɪ.ʃən/ SOCIETY
@@ -15337,25 +15337,25 @@
 /kleɪm/ DEMAND
 [B2]a written request asking an organization to pay you a sum of money which you believe they owe you
 - an insurance claim
-- a claim for compensation
+- a claim `for` compensation
 
 ## 2531. class ## noun
 /klæs/ ECONOMIC GROUP
 [B2]a group of people within society who have the same economic and social position
-- The tax reforms are aimed at providing relief for the middle class.
-- upper-/middle-/lower- class people
+- The tax reforms are aimed at providing relief for the `middle` class.
+- `upper-/middle-/lower-` class people
 
 ## 2532. classic ## noun [C]
 /ˈklæs.ɪk/ 
 [B2]a piece of writing, a musical recording or a film which has been popular for a long time and is considered to be of a high quality
-- Jane Austen's "Pride and Prejudice" is a classic of English literature.
+- Jane Austen's "Pride and Prejudice" is a classic `of` English literature.
 - Many of the Rolling Stones' records have become rock classics.
 
 ## 2533. clause ## noun [C]
 /klɔːz/ 
 [B2]a group of words containing a subject and a verb, that is usually only part of a sentence
-- In the sentence "I can't cook very well but I can make a good omelette," both "I can't cook very well" and "I can make a good omelette" are main clauses.
-- In the sentence "I'll get you some stamps if I go to town," "if I go to town" is a subordinate clause.
+- In the sentence "I can't cook very well but I can make a good omelette," both "I can't cook very well" and "I can make a good omelette" are `main` clauses.
+- In the sentence "I'll get you some stamps if I go to town," "if I go to town" is a `subordinate` clause.
 
 ## 2534. client ## noun [C]
 /ˈklɑɪ.ənt/ 
@@ -15370,7 +15370,7 @@
 ## 2536. cloth ## noun
 /klɑθ/ MATERIAL
 [B2]material made from cotton, wool, etc. and used, for example, to make clothes or curtains
-- a piece of cloth
+- a `piece` of cloth
 
 ## 2537. cloth ## noun
 /klɑθ/ FOR CLEANING
@@ -15381,25 +15381,25 @@
 ## 2538. clothing ## noun [U]
 /ˈkloʊ.ðɪŋ/ 
 [B2]clothes, especially of a particular type
-- Protective clothing must be worn at all times.
-- You can only take three articles/items of clothing into the changing room.
+- `Protective` clothing must be worn at all times.
+- You can only take three `articles/items of` clothing into the changing room.
 
 ## 2539. cloud ## noun
 /klɑʊd/ SMOKE/DUST
 [B2]a mass of something such as dust or smoke that looks like a cloud
-- A huge cloud of smoke from burning oil tanks stretched across the sky.
+- A huge cloud `of` smoke from burning oil tanks stretched across the sky.
 
 ## 2540. clue ## noun [C]
 /kluː/ SIGN
 [B2]a sign or some information that helps you to solve a problem or answer a question
-- Police are searching the area for clues to the murder.
-- Police are still looking for clues in their search for the missing girl.
-- I'm never going to guess the answer if you don't give me a clue.
+- Police are searching the area for clues `to` the murder.
+- Police are still `looking for` clues in their search for the missing girl.
+- I'm never going to guess the answer if you don't `give` me a clue.
 
 ## 2541. clue ## noun [C]
 /kluː/ not have a clue
 [B2]to be completely unable to guess, understand, or deal with something
-- I don't have a clue what you're talking about.
+- I don't have a clue `what` you're talking about.
 
 ## 2542. coaching ## noun [U]
 /ˈkoʊtʃ.ɪŋ/ 
@@ -15409,33 +15409,33 @@
 ## 2543. code ## noun
 /koʊd/ SECRET MESSAGE
 [B2]a system of words, letters or signs that is used to represent a message in secret form
-- The message was written in code.
-- She managed to break/crack the code.
+- The message was written `in` code.
+- She managed to `break/crack` the code.
 
 ## 2544. coincidence ## noun [C or U]
 /koʊˈɪn.səd.əns/ 
 [B2]when two very similar things happen at the same time but there is no reason for it
-- You chose exactly the same wallpaper as us - what a coincidence!
-- Just by coincidence I met my old friend and classmate again fifty years later.
-- It was pure coincidence that we met.
+- You chose exactly the same wallpaper as us - `what a` coincidence!
+- Just `by` coincidence I met my old friend and classmate again fifty years later.
+- It was `pure` coincidence that we met.
 
 ## 2545. collapse ## noun [C or U]
 /kəˈlæps/ 
 [B2]the sudden failure of a system, organization, business, etc.
-- A poor economy has caused the collapse of thousands of small businesses.
-- Negotiations between the two countries are on the brink/verge of collapse.
+- A poor economy has caused the collapse `of` thousands of small businesses.
+- Negotiations between the two countries are `on the brink/verge of` collapse.
 - He suffered a mental collapse after ten years' teaching.
 
 ## 2546. collar ## noun [C]
 /ˈkɑl.ər/ ON AN ANIMAL
 [B2]a strap made of leather or other strong material which is put around the neck of an animal, especially a dog or cat
-- a dog collar
+- a `dog` collar
 - I grabbed the dog by its collar and dragged it out of the room.
 
 ## 2547. collection ## noun
 /kəˈlek.ʃən/ TAKING AWAY
 [B2]when something is taken away from a place
-- garbage collection
+- `garbage` collection
 
 ## 2548. collector ## noun [C]
 /kəˈlek.tər/ 
@@ -15468,9 +15468,9 @@
 /ˌkɑm.bəˈneɪ.ʃən/ 
 [B2]the mixture you get when two or more things are combined
 - Strawberries and cream - a perfect combination.
-- A combination of tiredness and boredom caused me to fall asleep.
-- This drug can be safely used in combination with other medicines.
-- Her experience and energy are a winning combination in business.
+- A combination `of` tiredness and boredom caused me to fall asleep.
+- This drug can be safely used `in` combination `with` other medicines.
+- Her experience and energy are a `winning` combination in business.
 
 ## 2554. comedian ## noun
 /kəˈmiːd.iː.ən/ 
@@ -15480,20 +15480,20 @@
 ## 2555. comfort ## noun
 /ˈkʌm.fərt/ NO PAIN
 [B2]a pleasant feeling of being relaxed and free from pain
-- She evidently dresses for comfort.
+- She evidently dresses `for` comfort.
 - It's a little too hot for comfort.
-- Now you can watch the latest movies in the comfort of your own room.
+- Now you can watch the latest movies `in the` comfort `of` your own room.
 
 ## 2556. command ## noun
 /kəˈmænd/ ORDER
 [B2]an order to do something, especially one given by a soldier
-- He hated being in the army because he had to obey commands.
-- When I give the command, fire!
+- He hated being in the army because he had to `obey` commands.
+- When I `give` the command, fire!
 
 ## 2557. command ## noun
 /kəˈmænd/ KNOWLEDGE
 [B2]knowledge of a subject, especially a language
-- She had a good command of Italian.
+- She `had a good` command `of` Italian.
 
 ## 2558. commerce ## noun [U]
 /ˈkɑm.ɜrs/ 
@@ -15503,27 +15503,27 @@
 ## 2559. commitment ## noun
 /kəˈmɪt.mənt/ LOYALTY
 [B2]when you are willing to give your time and energy to something that you believe in, or a promise or firm decision to do something
-- She is known primarily for her commitment to human rights.
+- She is known primarily for her commitment `to` human rights.
 - I'd like to thank the staff for having shown such commitment.
 
 ## 2560. commitment ## noun
 /kəˈmɪt.mənt/ ACTIVITY
 [B2]something that you must do or deal with that takes your time
-- family/work commitments
+- `family/work` commitments
 - I've got too many commitments right now to take an evening class.
 
 ## 2561. committee ## noun [C]
 /kəˈmɪt̬.i/ 
 [B2]a small group of people chosen to represent a larger organization and either make decisions or collect information for it
-- She's on the school's development committee.
+- She's `on` the school's development committee.
 - The city council just set up a committee to study recycling.
 
 ## 2562. community ## noun [C]
 /kəˈmjuː.nət̬.i/ IN ONE AREA
 [B2]the people living in one particular area
 - a rural/small community
-- He's well-known in the local community.
-- Drug trafficking is a matter of considerable concern for the entire international community.
+- He's well-known in the `local` community.
+- Drug trafficking is a matter of considerable concern for the entire `international` community.
 
 ## 2563. community ## noun [C]
 /kəˈmjuː.nət̬.i/ GROUP OF PEOPLE
@@ -15534,16 +15534,16 @@
 ## 2564. companion ## noun [C]
 /kəmˈpæn.jən/ 
 [B2]someone you spend a lot of time with or go somewhere with
-- a traveling companion
-- Dan has been her constant companion these past ten years.
+- a `traveling` companion
+- Dan has been her `constant` companion these past ten years.
 
 ## 2565. company ## noun
 /ˈkʌm.pə.ni/ OTHER PEOPLE
 [B2]when you are with a person or people, or the person or people you are with
 - I just enjoy his company.
 - Do you want company or would you rather go by yourself?
-- I didn't realize you had company.
-- Margot came to stay for a week as company for my mother while I was away.
+- I didn't realize you `had` company.
+- Margot came to stay for a week as company `for` my mother while I was away.
 
 ## 2566. company ## noun
 /ˈkʌm.pə.ni/ keep sb company
@@ -15553,16 +15553,16 @@
 ## 2567. comparison ## noun [C or U]
 /kəmˈpær.ə.sən/ 
 [B2]when two or more people or things are compared
-- They made a comparison of different countries' eating habits.
-- By/In comparison with the French, the British eat far less fish.
-- I always drink fresh coffee, not instant. There's no comparison.
+- They `made a` comparison of different countries' eating habits.
+- `By/In` comparison `with` the French, the British eat far less fish.
+- I always drink fresh coffee, not instant. There's `no` comparison.
 
 ## 2568. competition ## noun
 /ˌkɑm.pəˈtɪʃ.ən/ BUSINESS/JOBS
 [B2]when someone, or a company, is trying to win something or be more successful than someone else
-- Competition for jobs is intense.
-- There's a lot of competition between computer companies.
-- The two companies are in competition with each other.
+- Competition `for` jobs is intense.
+- There's a lot of competition `between` computer companies.
+- The two companies are `in` competition `with` each other.
 
 ## 2569. composer ## noun [C]
 /kəmˈpoʊ.zər/ 
@@ -15577,37 +15577,37 @@
 ## 2571. compromise ## noun [C or U]
 /ˈkɑm.prəˌmɑɪz/ 
 [B2]when you agree to something which is not exactly what you want
-- It is hoped that a compromise will be reached in today's talks.
-- You've both got to be willing to make compromises.
-- In a compromise between management and unions, a 4% pay increase was agreed to in return for an increase in productivity.
+- It is hoped that a compromise will be `reached` in today's talks.
+- You've both got to be willing to `make` compromises.
+- In a compromise `between` management and unions, a 4% pay increase was agreed to in return for an increase in productivity.
 
 ## 2572. concentration ## noun
 /ˌkɑn.sənˈtreɪ.ʃən/ THOUGHT
 [B2]the ability to think carefully about something you are doing and nothing else
 - The noise outside made concentration difficult.
-- There was a look of intense concentration on her face.
-- I find that yoga improves my powers of concentration.
-- I found it hard to follow what the teacher was saying, and eventually I lost concentration.
+- There was a look of `intense` concentration on her face.
+- I find that yoga improves my `powers of` concentration.
+- I found it hard to follow what the teacher was saying, and eventually I `lost` concentration.
 
 ## 2573. concept ## noun [C]
 /ˈkɑn.sept/ 
 [B2]a principle or idea
-- the concept of free speech
+- the concept `of` free speech
 - I failed to grasp the film's central concept.
 
 ## 2574. concern ## noun [C or U]
 /kənˈsɜrn/ WORRY
 [B2]when you feel worried or nervous about something, or something that makes you feel worried
-- Concern for the safety of the two missing teenagers is growing.
-- There's a lot of public concern about/over dangerous toxins recently found in food.
-- The situation has been causing concern for some time now.
+- Concern `for` the safety of the two missing teenagers is growing.
+- There's a lot of public concern `about/over` dangerous toxins recently found in food.
+- The situation has been `causing` concern for some time now.
 - My concern is that you're not getting enough work done.
-- There's a matter of some concern that I have to discuss with you.
+- There's `a matter of` some concern that I have to discuss with you.
 
 ## 2575. concern ## noun [C or U]
 /kənˈsɜrn/ IMPORTANT THING
 [B2]something that is important to you, or when something is important
-- Our primary concern is safety.
+- Our `primary` concern is safety.
 
 ## 2576. conclusion ## noun
 /kənˈkluː.ʒən/ In conclusion
@@ -15641,29 +15641,29 @@
 ## 2581. confession ## noun [C or U]
 /kənˈfeʃ.ən/ 
 [B2]when you admit that you have done something wrong or illegal
-- He made a full confession to the police.
-- I have a confession to make - I've lost that book you lent me.
+- He `made` a full confession to the police.
+- I `have a` confession `to make` - I've lost that book you lent me.
 
 ## 2582. confidence ## noun [U]
 /ˈkɑn.fəd.əns/ CERTAIN
 [B2]when you are certain of your ability to do things well
 - He's got the confidence to walk into a room of strangers and immediately start a conversation.
-- The training has given me the confidence to deal with any situation that arises.
-- She has ability but she lacks confidence.
-- I have every/complete confidence in her. She'll be perfect for the job.
+- The training has `given` me the confidence to deal with any situation that arises.
+- She has ability but she `lacks` confidence.
+- I `have every/complete` confidence `in` her. She'll be perfect for the job.
 
 ## 2583. confirmation ## noun [C or U]
 /ˌkɑn.fərˈmeɪ.ʃən/ 
 [B2]a statement, often written, that an arrangement or meeting is certain
 - a letter of confirmation
 - We've only had five confirmations for the conference so far.
-- We will send you written confirmation of our offer shortly.
+- We will send you `written` confirmation `of` our offer shortly.
 
 ## 2584. conflict ## noun [C or U]
 /ˈkɑn.flɪkt/ DISAGREEMENT
 [B2]serious disagreement between people with opposing opinions or principles
-- There was a lot of conflict between the two parties.
-- The Government was in conflict with the unions over pay.
+- There was a lot of conflict `between` the two parties.
+- The Government was `in` conflict `with` the unions over pay.
 - It was an unpopular policy and caused a number of conflicts within the party.
 
 ## 2585. conflict ## noun [C or U]
@@ -15674,12 +15674,12 @@
 ## 2586. confusion ## noun
 /kənˈfjuː.ʒən/ NOT UNDERSTAND
 [B2]when people do not understand what is happening, what they should do or who someone or something is
-- There seems to be some confusion about/over who is actually giving the talk.
+- There seems to be some confusion `about/over` who is actually giving the talk.
 
 ## 2587. confusion ## noun
 /kənˈfjuː.ʒən/ SITUATION
 [B2]a situation, often with a lot of activity and noise, in which people do not know what to do
-- In the confusion after the bomb blast, I lost my bag.
+- `In the` confusion after the bomb blast, I lost my bag.
 
 ## 2588. confusion ## noun
 /kənˈfjuː.ʒən/ THOUGHT
@@ -15694,9 +15694,9 @@
 ## 2590. connection ## noun
 /kəˈnek.ʃən/ INVOLVEMENT
 [B2]when someone or something is involved with or related to someone or something else
-- The connection between smoking and heart disease is well known.
-- He has denied having any connection with the terrorists.
-- They're sisters, are they? I knew their surname was the same, but I never made the connection.
+- The connection `between` smoking `and` heart disease is well known.
+- He has denied having any connection `with` the terrorists.
+- They're sisters, are they? I knew their surname was the same, but I never `made` the connection.
 
 ## 2591. connection ## noun
 /kəˈnek.ʃən/ in connection with sth
@@ -15707,32 +15707,32 @@
 ## 2592. connection ## noun
 /kəˈnek.ʃən/ TRAVEL
 [B2]a train, bus or aircraft that leaves a short time after another arrives, so people can continue their journey
-- The train was half an hour late and I missed my connection.
+- The train was half an hour late and I `missed` my connection.
 
 ## 2593. consciousness ## noun
 /ˈkɑn.tʃəs.nəs/ AWAKE
 [B2]when someone is awake and can think and notice things
-- He lost consciousness for several minutes.
-- He never regained consciousness after the accident.
+- He `lost` consciousness for several minutes.
+- He never `regained` consciousness after the accident.
 
 ## 2594. consequence ## noun [C]
 /ˈkɑn.sə.kwəns/ RESULT
 [B2]the result of a particular action or situation, especially a bad result
-- The ship sank with disastrous consequences.
-- Excessive drinking can have serious consequences for a person's health.
-- If you neglect your relationships like that, you'll suffer the consequences.
+- The ship sank with `disastrous` consequences.
+- Excessive drinking can have `serious` consequences for a person's health.
+- If you neglect your relationships like that, you'll `suffer` the consequences.
 
 ## 2595. conservation ## noun [U]
 /ˌkɑn.sərˈveɪ.ʃən/ NATURE
 [B2]the protection of nature
-- wildlife conservation
+- `wildlife` conservation
 - conservation groups
 
 ## 2596. consideration ## noun
 /kənˌsɪd.əˈreɪ.ʃən/ CAREFUL THOUGHT
 [B2]when you think about something very carefully
-- After careful consideration, we decided to offer her the job.
-- The matter needs to be given serious consideration.
+- After `careful` consideration, we decided to offer her the job.
+- The matter needs to be `given` serious consideration.
 
 ## 2597. consideration ## noun
 /kənˌsɪd.əˈreɪ.ʃən/ take sth into consideration
@@ -15742,16 +15742,16 @@
 ## 2598. consideration ## noun
 /kənˌsɪd.əˈreɪ.ʃən/ IMPORTANT FACT
 [B2]something that you have to think about when you make decisions or plans
-- Safety is our main consideration.
+- Safety is our `main` consideration.
 - Cost, of course, is another consideration.
 
 ## 2599. construction ## noun
 /kənˈstrʌk.ʃən/ BUILDING WORK
 [B2]the work of building something, especially houses, offices, bridges, etc.
 - the construction industry
-- The next decade saw the construction of many more office blocks.
-- She works in construction.
-- This website is currently under construction.
+- The next decade saw the construction `of` many more office blocks.
+- She works `in` construction.
+- This website is currently `under` construction.
 
 ## 2600. construction ## noun
 /kənˈstrʌk.ʃən/ LARGE BUILDING
@@ -15761,19 +15761,19 @@
 ## 2601. construction ## noun
 /kənˈstrʌk.ʃən/ WORDS
 [B2]The construction of a sentence or phrase is the way the words are arranged.
-- Pay attention to sentence construction and check word order.
+- Pay attention to `sentence` construction and check word order.
 
 ## 2602. consultant ## noun [C]
 /kənˈsʌlt.ənt/ 
 [B2]someone who advises people on a particular subject
-- a management/financial consultant
+- a `management/financial` consultant
 - a firm of public relations consultants
 
 ## 2603. consumer ## noun [C]
 /kənˈsuː.mər/ 
 [B2]a person who buys goods or services for their own use
 - The new telephone rates will affect all consumers including businesses.
-- consumer rights/advice
+- consumer `rights/advice`
 
 ## 2604. container ## noun [C]
 /kənˈteɪ.nər/ 
@@ -15784,7 +15784,7 @@
 ## 2605. content ## noun [no plural]
  IDEAS
 [B2]the ideas that are contained in a piece of writing, a speech or a film
-- the content of the article
+- the content `of` the article
 - It's a very beautiful film, but it seems to me to lack content.
 - We've discussed the unusual form of the book - now, what about the content?
 
@@ -15796,8 +15796,8 @@
 ## 2607. context ## noun [C or U]
 /ˈkɑn.tekst/ FACTS
 [B2]all the facts, opinions, etc. relating to a particular thing or event
-- This small battle is very important in the context of Scottish history.
-- It is important to see all the fighting and bloodshed in his plays in historical context.
+- This small battle is very important `in the` context `of` Scottish history.
+- It is important to see all the fighting and bloodshed in his plays `in` historical context.
 
 ## 2608. contrary ## noun
 /ˈkɑn.trer.i/ on the contrary
@@ -15807,34 +15807,34 @@
 ## 2609. contrast ## noun [C or U]
  DIFFERENCE
 [B2]an obvious difference between two or more things
-- The contrast between their lifestyles couldn't be greater.
-- The busy north coast of the island is in sharp contrast to the peaceful south.
+- The contrast `between` their lifestyles couldn't be greater.
+- The busy north coast of the island is `in` sharp contrast `to` the peaceful south.
 
 ## 2610. contrast ## noun [C or U]
  by/in contrast
 [B2]used to show that someone or something is completely different
 - Their economy has expanded enormously, while ours, by contrast, has declined.
-- She's quite short, in contrast to her tall sister.
+- She's quite short, in contrast `to` her tall sister.
 
 ## 2611. contribution ## noun [C or U]
 /ˌkɑn.trəˈbjuː.ʃən/ 
 [B2]something that you do or give to help produce or achieve something, or to help make something successful
-- This invention made a major contribution to road safety.
-- She didn't make much of a contribution at today's meeting, did she?
+- This invention `made a` major contribution `to` road safety.
+- She didn't `make` much of `a` contribution at today's meeting, did she?
 - All contributions, no matter how small, will be much appreciated.
-- a generous contribution to charity
+- a generous contribution `to` charity
 
 ## 2612. control ## noun
 /kənˈtroʊl/ POWER
 [B2]when you make someone or something do what you want, or the power to do this
-- She doesn't have any control over that child.
-- He lost control of the vehicle.
-- The police are in control of the situation.
+- She doesn't have any control `over` that child.
+- He `lost` control `of` the vehicle.
+- The police are `in` control `of` the situation.
 
 ## 2613. control ## noun
 /kənˈtroʊl/ beyond your/out of control
 [B2]If something or someone is beyond control or out of control, you cannot influence, limit or direct them.
-- The car skidded and went out of control, crashing into an oncoming truck.
+- The car skidded and `went` out of control, crashing into an oncoming truck.
 - There's nothing we can do - the situation is beyond our control.
 
 ## 2614. control ## noun
@@ -15845,9 +15845,9 @@
 ## 2615. control ## noun
 /kənˈtroʊl/ EQUIPMENT
 [B2]a switch or other device used to operate a machine, such as a vehicle
-- Where's the volume control on your stereo?
-- The main instruments are in the center of the control panel.
-- The captain sat at the controls of the aircraft.
+- Where's the `volume` control on your stereo?
+- The main instruments are in the center of the control `panel`.
+- The captain sat `at the` controls `of` the aircraft.
 
 ## 2616. control ## noun
 /kənˈtroʊl/ take control
@@ -15857,8 +15857,8 @@
 ## 2617. control ## noun
 /kənˈtroʊl/ LAW
 [B2]a rule or law that limits something
-- gun/weapons control
-- He wants the government to impose strict controls on dog ownership.
+- `gun/weapons` control
+- He wants the government to `impose` strict controls `on` dog ownership.
 
 ## 2618. convenience ## noun
 /kənˈviːn.jəns/ BEING EASY
@@ -15874,15 +15874,15 @@
 ## 2620. cooperation ## noun [U]
 /koʊˌɑp.əˈreɪ.ʃən/ 
 [B2]when you work together with someone or do what they ask you
-- This documentary was made with the cooperation of the transportation authority.
-- There's very little cooperation between the two countries.
+- This documentary was made `with` the cooperation `of` the transportation authority.
+- There's very little cooperation `between` the two countries.
 - We thank you in advance for your cooperation.
-- They work in cooperation with other health care professionals.
+- They work `in` cooperation `with` other health care professionals.
 
 ## 2621. copper ## noun [U]
 /ˈkɑp.ər/ 
 [B2]a reddish-brown metal used especially for making wire and coins, or the reddish brown color of this metal
-- copper wire/pipes
+- copper `wire/pipes`
 - Rosie's hair shone like copper in the sunlight.
 
 ## 2622. copy ## noun [C]
@@ -15905,9 +15905,9 @@
 ## 2625. cost ## noun
 /kɔːst/ THING GIVEN
 [B2]something that you give or lose, in order to get or achieve something else
-- He rescued four people at the cost of his own life.
-- She finally got the job she wanted, but at great personal cost.
-- It's not worth getting into an argument with Tim, as I learned to my cost.
+- He rescued four people `at the` cost `of` his own life.
+- She finally got the job she wanted, but `at` great personal cost.
+- It's not worth getting into an argument with Tim, as I learned `to my` cost.
 
 ## 2626. cost ## noun
 /kɔːst/ at all costs
@@ -15924,18 +15924,18 @@
 ## 2628. costume ## noun [C or U]
 /ˈkɑs.tuːm/ TYPICAL OF COUNTRY
 [B2]the set of clothes typical of a particular country or period of history
-- Japanese national costume
+- Japanese `national` costume
 
 ## 2629. council ## noun [C]
 /ˈkɑʊn.səl/ 
 [B2]the group of people elected to govern a particular area, town or city, and organize services for it
 - the New York City Council
-- The town/city council is responsible for keeping the streets clean.
+- The `town/city` council is responsible for keeping the streets clean.
 
 ## 2630. counter ## noun [C]
 /ˈkɑʊn.t̬ər/ SURFACE
 [B2]a long, flat, narrow surface or table in a store, bank, restaurant, etc. at which people are served
-- There was nobody at/behind the counter when I went into the bank, and I had to wait.
+- There was nobody `at/behind` the counter when I went into the bank, and I had to wait.
 
 ## 2631. county ## noun [C]
 /ˈkɑʊn.t̬i/ 
@@ -15949,23 +15949,23 @@
 ## 2632. courage ## noun [U]
 /ˈkɜr.ɪdʒ/ 
 [B2]the ability to deal with a dangerous or difficult situation without being frightened
-- I wanted to talk to him, but I didn't have the courage.
-- People should have the courage to stand up for their beliefs.
+- I wanted to talk to him, but I didn't `have the` courage.
+- People should `have the` courage `to` stand up for their beliefs.
 
 ## 2633. court ## noun
 /kɔːrt/ LAW
 [B2]the place where a judge decides whether someone is guilty of a crime
-- He's due to appear in court again on Monday.
+- He's due to appear `in` court again on Monday.
 - Please describe to the court exactly what you saw.
 - the Court of Appeals
 - the European Court of Human Rights
-- The lack of evidence means that the case is unlikely to go to court.
+- The lack of evidence means that the case is unlikely to `go to` court.
 
 ## 2634. courtesy ## noun [U]
 /ˈkɜrt̬.ə.si/ 
 [B2]polite behavior
 - The hotel staff must treat guests with courtesy at all times.
-- He could have at least had the courtesy to say he's sorry.
+- He could have at least `had the` courtesy `to` say he's sorry.
 
 ## 2635. coward ## noun [C]
 /ˈkɑʊ.ərd/ 
@@ -15981,7 +15981,7 @@
 /kræft/ 
 [B2]an activity in which you make something using a lot of skill, especially with your hands
 - the craft of furniture-making/boat-building
-- rural/ancient/traditional crafts
+- `rural/ancient/traditional` crafts
 
 ## 2638. crash ## noun [C]
 /kræʃ/ LOUD NOISE
@@ -15991,8 +15991,8 @@
 ## 2639. creation ## noun [C or U]
 /kriːˈeɪ.ʃən/ 
 [B2]the act of creating something, or the thing that is created
-- the creation of a new political party
-- Their policies are all toward the creation of wealth.
+- the creation `of` a new political party
+- Their policies are all toward the creation `of` wealth.
 - This 25-foot-high sculpture is her latest creation.
 - The fashion magazines were full of the latest Paris creations.
 
@@ -16004,9 +16004,9 @@
 ## 2641. credit ## noun
 /ˈkred.ɪt/ PRAISE
 [B2]praise, approval or honor
-- I did all the work and Amy got the credit for it!
-- I suppose I should give him credit for his honesty.
-- I can't take full credit for this meal - Sam did quite a bit too
+- I did all the work and Amy `got the` credit for it!
+- I suppose I should `give` him credit `for` his honesty.
+- I can't `take` full credit `for` this meal - Sam did quite a bit too
 
 ## 2642. credit ## noun
 /ˈkred.ɪt/ COURSE
@@ -16023,19 +16023,19 @@
 /ˈkrɑɪ.sɪs/ 
 [B2]a situation or time that is extremely dangerous or difficult
 - an economic/financial crisis
-- The country's leadership is in crisis.
+- The country's leadership is `in` crisis.
 - We had a family crisis at the time.
 
 ## 2645. critic ## noun [C]
 /ˈkrɪt̬.ɪk/ ARTS
 [B2]someone whose job is to give their opinion about something, especially movies, books, music, etc.
-- a film/theater/music critic
+- a `film/theater/music` critic
 - The play has been well received by the critics.
 
 ## 2646. criticism ## noun [C or U]
 /ˈkrɪt̬.əˌsɪz.əm/ 
 [B2]when you say that something or someone is bad
-- The designs for the new building have attracted widespread criticism.
+- The designs for the new building have `attracted` widespread criticism.
 
 ## 2647. crocodile ## noun [C]
 /ˈkrɑk.əˌdɑɪl/ 
@@ -16045,23 +16045,23 @@
 ## 2648. crossroads ## noun [C]
 /ˈkrɑs.roʊdz/ 
 [B2]a place where two roads cross each other
-- Turn left at the crossroads.
+- Turn left `at the` crossroads.
 
 ## 2649. cruelty ## noun [C or U]
 /ˈkruː.əl.ti/ 
 [B2]cruel behavior or a cruel action
-- The farmer was accused of cruelty to animals.
+- The farmer was accused of cruelty `to` animals.
 
 ## 2650. cure ## noun [C]
 /kjʊr/ 
 [B2]something that makes someone with an illness healthy again
-- They are trying to find a cure for cancer.
+- They are trying to `find a` cure `for` cancer.
 
 ## 2651. curiosity ## noun
 /ˌkjʊr.iːˈɑs.ət̬.i/ 
 [B2]the feeling of wanting to know or learn about something
 - My curiosity got the better of me and I opened the envelope.
-- Just out of curiosity, how did you get my address?
+- Just `out of` curiosity, how did you get my address?
 
 ## 2652. cursor ## noun [C]
 /ˈkɜr.sər/ 
@@ -16071,23 +16071,23 @@
 ## 2653. curve ## noun [C]
 /kɜːrv/ 
 [B2]a line that bends around, like part of a circle
-- a curve in the road
+- a curve `in` the road
 - the curve of a graph
 
 ## 2654. cycle ## noun [C]
 /ˈsɑɪ.kəl/ SERIES OF EVENTS
 [B2]a series of events which happen in a particular order and are often repeated
-- the life cycle of a moth
+- the `life` cycle of a moth
 
 ## 2655. cycle ## noun [C]
 /ˈsɑɪ.kəl/ BICYCLE
 [B2]a bicycle
-- a cycle route/ride
+- a cycle `route/ride`
 
 ## 2656. darkness ## noun [U]
 /ˈdɑrk.nəs/ 
 [B2]when there is little or no light
-- There was a power failure and the house was in darkness.
+- There was a power failure and the house was `in` darkness.
 
 ## 2657. darling ## noun [C]
 /ˈdɑr.lɪŋ/ 
@@ -16097,8 +16097,8 @@
 ## 2658. dash ## noun
 /dæʃ/ QUICK MOVEMENT
 [B2]when you run somewhere very quickly
-- We made a dash for the bus.
-- There was a mad dash for the exit.
+- We `made a` dash `for` the bus.
+- There was a `mad` dash for the exit.
 
 ## 2659. dash ## noun
 /dæʃ/ PUNCTUATION
@@ -16134,9 +16134,9 @@
 ## 2665. dawn ## noun
 /dɔːn/ START OF DAY
 [B2]the early morning when light first appears in the sky
-- We woke at dawn.
-- We left as dawn was breaking.
-- We left at the break of dawn.
+- We woke `at` dawn.
+- We left as dawn was `breaking`.
+- We left at the `break of` dawn.
 
 ## 2666. day ## noun
 /deɪ/ in those days
@@ -16146,28 +16146,28 @@
 ## 2667. daylight ## noun [U]
 /ˈdeɪ.lɑɪt/ 
 [B2]the natural light from the sun
-- The colors look much better in daylight.
+- The colors look much better `in` daylight.
 
 ## 2668. daytime ## noun [U]
 /ˈdeɪ.tɑɪm/ 
 [B2]the period of the day when there is light from the sun, or the period when most people are at work
-- I tend to sleep in/during the daytime and study at night.
+- I tend to sleep `in/during the` daytime and study at night.
 - a regular daytime job
 - a daytime telephone number
-- daytime television
+- daytime `television`
 
 ## 2669. deadline ## noun [C]
 /ˈded.lɑɪn/ 
 [B2]a time or day by which something must be done
-- There's no way I can meet that deadline.
-- We're working with a tight deadline.
-- I'm afraid you missed the deadline for applications - it was May 30th.
+- There's no way I can `meet` that deadline.
+- We're working with a `tight` deadline.
+- I'm afraid you `missed` the deadline `for` applications - it was May 30th.
 
 ## 2670. deal ## noun
 /diːl/ AGREEMENT
 [B2]an agreement or an arrangement, especially in business
 - a business deal
-- I'll make a deal with you - you wash the car and I'll let you use it tonight.
+- I'll `make` a deal `with` you - you wash the car and I'll let you use it tonight.
 
 ## 2671. deal ## noun
 /diːl/ a good/great deal
@@ -16190,9 +16190,9 @@
 ## 2674. debate ## noun [C or U]
 /dɪˈbeɪt/ 
 [B2](a) discussion or argument about a subject in which many people take part
-- Education is the current focus of public debate.
-- How we proceed from here is a matter for debate.
-- Over the year we have had several debates about future policy.
+- Education is the current focus of `public` debate.
+- How we proceed from here is a matter `for` debate.
+- Over the year we have had several debates `about` future policy.
 
 ## 2675. debit ## noun [C]
 /ˈdeb.ɪt/ 
@@ -16207,15 +16207,15 @@
 ## 2677. debt ## noun
 /det/ AMOUNT OWING
 [B2]an amount of money that you owe someone
-- He managed to pay off his debts in two years.
-- The company ran up huge debts.
+- He managed to `pay off` his debts in two years.
+- The company `ran up` huge debts.
 
 ## 2678. debt ## noun
 /det/ STATE OF OWING
 [B2]when you owe money to someone
-- They are in debt to the bank.
-- He got into debt after he lost his job.
-- The company is deep in debt.
+- They are `in` debt `to` the bank.
+- He `got into` debt after he lost his job.
+- The company is `deep in` debt.
 
 ## 2679. decade ## noun [C]
 /ˈdek.eɪd/ 
@@ -16225,14 +16225,14 @@
 ## 2680. deck ## noun [C]
 /dek/ SHIP
 [B2]the flat area of a ship or boat that is not covered
-- We sat on deck until it was dark.
+- We sat `on` deck until it was dark.
 
 ## 2681. decline ## noun [C or U]
 /dɪˈklɑɪn/ 
 [B2]when something becomes less in amount, importance, quality or strength
 - industrial decline
-- Home cooking seems to be on the/in decline.
-- a sharp decline in sales
+- Home cooking seems to be `on the/in` decline.
+- a `sharp` decline `in` sales
 - She seemed to be recovering and then she went into a decline.
 
 ## 2682. decoration ## noun [C or U]
@@ -16249,8 +16249,8 @@
 ## 2684. defeat ## noun
 /dəˈfiːt/ FAILING
 [B2]when someone or something is made to fail
-- The party suffered a stinging defeat in the last election.
-- The company was not ready to admit defeat.
+- The party `suffered` a stinging defeat in the last election.
+- The company was not ready to `admit` defeat.
 
 ## 2685. defender ## noun [C]
 /dəˈfen.dər/ 
@@ -16261,25 +16261,25 @@
 /ˌdef.əˈnɪʃ.ən/ MEANING
 [B2]an explanation of the meaning of a word or phrase
 - a dictionary definition
-- What is the definition of "mood"?
+- What is the definition `of` "mood"?
 
 ## 2687. degree ## noun
 /dəˈgriː/ AMOUNT
 [B2]an amount or level of something
-- This job demands a high degree of skill.
-- There was some degree of truth in what she said.
+- This job demands a high degree `of` skill.
+- There was some degree `of` truth in what she said.
 
 ## 2688. delight ## noun [C or U]
 /dəˈlɑɪt/ 
 [B2](something or someone that gives) great pleasure, satisfaction or happiness
 - My sister's little boy is a real delight.
-- The crowd roared with delight.
-- He seems to take great delight in teasing his sister.
+- The crowd roared `with` delight.
+- He seems to `take` great delight `in` teasing his sister.
 
 ## 2689. demand ## noun
 /dɪˈmænd/ NEED
 [B2]a need for something to be sold or supplied
-- There was little demand for tickets.
+- There was little demand `for` tickets.
 
 ## 2690. democracy ## noun [C or U]
 /dɪˈmɑk.rə.si/ 
@@ -16289,8 +16289,8 @@
 ## 2691. demonstration ## noun
 /ˌdem.ənˈstreɪ.ʃən/ MARCH
 [B2]when a group of people march or stand together to show that they disagree with or support something or someone
-- The students are holding a demonstration to protest against higher tuition.
-- Protesters staged an anti-war demonstration.
+- The students are `holding` a demonstration to protest against higher tuition.
+- Protesters `staged` an anti-war demonstration.
 
 ## 2692. denim ## noun [U]
 /ˈden.əm/ 
@@ -16300,27 +16300,27 @@
 ## 2693. depression ## noun [C or U]
 /dəˈpreʃ.ən/ UNHAPPINESS
 [B2]when you feel very unhappy, or a mental illness that makes you feel very unhappy and anxious for long periods
-- If you suffer from depression, it's best to get professional help.
+- If you `suffer from` depression, it's best to get professional help.
 
 ## 2694. depth ## noun
 /depθ/ SERIOUSNESS
 [B2]when you have serious qualities or the ability to think seriously about something
-- Terry lacks depth - he's a very superficial person.
+- Terry `lacks` depth - he's a very superficial person.
 - Her writing shows astonishing depth.
-- Jo has hidden depths.
+- Jo has `hidden` depths.
 
 ## 2695. depth ## noun
 /depθ/ in depth
 [B2]in a very detailed way
-- With access to the Internet, students can research their topics in greater depth.
+- With access to the Internet, students can research their topics in `greater` depth.
 
 ## 2696. desire ## noun [C or U]
 /dəˈzɑɪr/ 
 [B2]a strong feeling that you want something
-- I really have no desire for wealth.
-- There is a strong desire for peace.
-- Teenagers often have a burning desire to look older.
-- Several people have expressed a desire to see the report.
+- I really `have no` desire `for` wealth.
+- There is a `strong` desire `for` peace.
+- Teenagers often have a `burning` desire to look older.
+- Several people have `expressed` a desire `to` see the report.
 
 ## 2697. desktop ## noun [C]
 /ˈdesk.tɑp/ COMPUTER SCREEN
@@ -16335,15 +16335,15 @@
 ## 2699. despair ## noun [U]
 /dəˈsper/ 
 [B2]a feeling of having no hope
-- a mood/sense of despair
-- They're inthe depths of despair over/about the money they've lost.
+- a `mood/sense of` despair
+- They're `in``the depths of` despair `over/about` the money they've lost.
 
 ## 2700. destruction ## noun [U]
 /dɪˈstrʌk.ʃən/ 
 [B2]when something is destroyed
-- Many people are very concerned about the destruction of the rainforests.
-- Unusually high winds left a trail of destruction across the Midwest.
-- weapons of mass destruction
+- Many people are very concerned about the destruction `of` the rainforests.
+- Unusually high winds left a `trail of` destruction across the Midwest.
+- weapons of `mass` destruction
 
 ## 2701. detail ## noun
 /dɪˈteɪl/ go into detail
@@ -16353,7 +16353,7 @@
 ## 2702. determination ## noun [U]
 /dɪˌtɜr.mɪˈneɪ.ʃən/ 
 [B2]when someone continues trying to do something, although it is very difficult
-- Andy Murray will need great determination and skill to win this match.
+- Andy Murray will need `great` determination and skill `to` win this match.
 
 ## 2703. determiner ## noun [C]
 /dɪˈtɜr.mə.nər/ 
@@ -16364,13 +16364,13 @@
 /dɪˈvel.əp.mənt/ EVENT
 [B2]something new that happens and changes a situation
 - an important development in the fuel crisis
-- Phone me if there are any new developments.
+- Phone me if there are any `new` developments.
 
 ## 2705. device ## noun [C]
 /dɪˈvɑɪs/ EQUIPMENT
 [B2]a piece of equipment that is used for a particular purpose
-- an electronic device
-- Rescuers used a special device for finding people trapped in collapsed buildings.
+- an `electronic` device
+- Rescuers used a special device `for` finding people trapped in collapsed buildings.
 
 ## 2706. devil ## noun [C]
 /ˈdev.əl/ EVIL BEING
@@ -16381,12 +16381,12 @@
 /ˈdɑɪ.əˌlɔːg/ IN BOOK, ETC.
 [B2](a) conversation that is written for a book, play, movie, etc.
 - The play contained some very funny dialogue.
-- Act Two begins with a short dialogue between father and son.
+- Act Two begins with a short dialogue `between` father and son.
 
 ## 2708. diamond ## noun
 /ˈdɑɪ.mənd/ STONE
 [B2]an extremely hard valuable stone which is used in jewelry, and in industry for cutting hard things
-- a diamond ring/necklace
+- a diamond `ring/necklace`
 - He had worked in the diamond mines of South Africa.
 
 ## 2709. diamond ## noun
@@ -16397,37 +16397,37 @@
 ## 2710. difference ## noun
 /ˈdɪf.rəns/ make a (big) difference
 [B2]to improve a situation (a lot)
-- Exercise can make a big difference to your health.
+- Exercise can make a big difference `to` your health.
 
 ## 2711. difference ## noun
 /ˈdɪf.rəns/ make no difference/not make any difference
 [B2]to not be important or change a situation
 - You can ask him again if you like, but it won't make any difference - he'll still say no.
-- It makes no difference where you put the antenna, the radio still loses the signal.
+- It makes no difference `where` you put the antenna, the radio still loses the signal.
 
 ## 2712. difficulty ## noun
 /ˈdɪf.ə.kəl.ti/ PROBLEM
 [B2]something that is not easy to deal with
-- financial difficulties
-- to have/experience difficulties
-- children with learning difficulties
+- `financial` difficulties
+- to `have/experience` difficulties
+- children with `learning` difficulties
 
 ## 2713. dilemma ## noun [C]
 /dəˈlem.ə/ 
 [B2]a situation in which a difficult choice has to be made between two different things you could do
-- The President is clearly in a dilemma about/over how to tackle the crisis.
-- She faces the dilemma of disobeying her father or losing the man she loves.
-- a moral/ethical dilemma
+- The President is clearly `in a` dilemma `about/over` how to tackle the crisis.
+- She `faces` the dilemma `of` disobeying her father or losing the man she loves.
+- a `moral/ethical` dilemma
 
 ## 2714. dimension ## noun [C]
 /dɪˈmen.tʃən/ ASPECT
 [B2]a particular part of a situation, especially something that affects how you think or feel
-- Music has added a new dimension to my life.
+- Music has `added` a new dimension to my life.
 
 ## 2715. dimension ## noun [C]
 /dɪˈmen.tʃən/ MEASUREMENT
 [B2]a measurement of the length, width, or height of something
-- The dimensions of the photo should be no larger than 30cm by 20cm.
+- The dimensions `of` the photo should be no larger than 30cm by 20cm.
 
 ## 2716. diplomat ## noun [C]
 /ˈdɪp.ləˌmæt/ 
@@ -16448,9 +16448,9 @@
 ## 2719. disagreement ## noun [C or U]
 /ˌdɪs.əˈgriː.mənt/ 
 [B2]when people have a different opinion about something or have an argument
-- They had a disagreement about/over money.
-- There was some disagreement with this view.
-- Literary critics were in total disagreement about the book.
+- They had a disagreement `about/over` money.
+- There was some disagreement `with` this view.
+- Literary critics were `in` total disagreement `about` the book.
 
 ## 2720. disappearance ## noun [C or U]
 /ˌdɪs.əˈpɪr.əns/ 
@@ -16461,44 +16461,44 @@
 /dɪˈzæs.tər/ DAMAGE
 [B2]something that causes great harm or damage
 - An investigation was ordered into the recent train disaster.
-- This is one of the worst natural disasters ever to hit the area.
-- Everything was going smoothly until suddenly disaster struck.
+- This is one of the worst `natural` disasters ever to hit the area.
+- Everything was going smoothly until suddenly disaster `struck`.
 
 ## 2722. disaster ## noun [C or U]
 /dɪˈzæs.tər/ FAILURE
 [B2]something that is a failure or has a negative result
 - His idea was a total disaster.
-- Inviting James and Ivan to dinner on the same evening was a recipe for disaster - they always argue with each other.
+- Inviting James and Ivan to dinner on the same evening was a `recipe for` disaster - they always argue with each other.
 
 ## 2723. discipline ## noun
 /ˈdɪs.ə.plən/ RULES
 [B2]when people's behavior is controlled using rules and punishments
-- military/school discipline
+- `military/school` discipline
 - There should be better discipline in schools.
 
 ## 2724. discovery ## noun
 /dɪˈskʌv.ə.ri/ FINDING
 [B2]when someone discovers something
-- the discovery of electricity
-- Leonardo made many scientific discoveries.
-- a journey/voyage of discovery
-- The discovery of gold in California opened up the west.
+- the discovery `of` electricity
+- Leonardo `made` many scientific discoveries.
+- a `journey/voyage of` discovery
+- The discovery `of` gold in California opened up the west.
 
 ## 2725. disgrace ## noun
 /dɪsˈgreɪs/ LOSS OF RESPECT
 [B2]when someone does something very bad that makes people stop respecting them or their family, team, etc.
-- They were sent home in disgrace.
-- He brought disgrace on the whole team.
+- They were sent home `in` disgrace.
+- He `brought` disgrace `on` the whole team.
 
 ## 2726. disgrace ## noun
 /dɪsˈgreɪs/ be a disgrace
 [B2]to be very bad
-- It's a disgrace that money is being wasted like this.
+- It's a disgrace `that` money is being wasted like this.
 
 ## 2727. disguise ## noun [C or U]
 /dəsˈgɑɪz/ 
 [B2]clothes and other things that you wear to change the way you look so that people cannot recognize you
-- She usually goes out in disguise to avoid being bothered by the public.
+- She usually goes out `in` disguise to avoid being bothered by the public.
 
 ## 2728. dishonesty ## noun [U]
 /dɪsˈɑn.ə.sti/ 
@@ -16513,7 +16513,7 @@
 ## 2730. dislike ## noun
 /dɪsˈlɑɪk/ NOT LIKING
 [B2]when you do not like someone or something
-- a dislike of cold weather
+- a dislike `of` cold weather
 
 ## 2731. display ## noun
 /dɪˈspleɪ/ SHOW
@@ -16523,7 +16523,7 @@
 ## 2732. disposal ## noun [U]
 /dɪˈspoʊ.zəl/ REMOVAL
 [B2]when you get rid of something, especially by throwing it away
-- waste disposal
+- `waste` disposal
 - the disposal of hazardous substances
 
 ## 2733. disposal ## noun [U]
@@ -16534,19 +16534,19 @@
 ## 2734. dissatisfaction ## noun [U]
 /dɪsˌsæt̬.əsˈfæk.ʃən/ 
 [B2]when someone is dissatisfied
-- At the moment she's experiencing a lot of dissatisfaction with her job.
+- At the moment she's experiencing a lot of dissatisfaction `with` her job.
 
 ## 2735. distance ## noun
 /ˈdɪs.təns/ PLACE
 [B2]somewhere that is far away, but close enough for you to see or hear the things that are there
-- I could see Mary in the distance.
-- From a distance, it sounded like a bell ringing.
+- I could see Mary `in the` distance.
+- `From a` distance, it sounded like a bell ringing.
 
 ## 2736. distinction ## noun
 /dɪˈstɪŋ.ʃən/ DIFFERENCE
 [B2]a difference between two similar things
-- the distinction between spoken and written language
-- There's a clear distinction between the dialects spoken in the two regions.
+- the distinction `between` spoken and written language
+- There's a `clear` distinction `between` the dialects spoken in the two regions.
 
 ## 2737. dive ## noun [C]
 /dɑɪv/ ENTRY INTO WATER
@@ -16577,13 +16577,13 @@
 /doʊˈneɪ.ʃən/ 
 [B2]when money or goods are given to help a person or organization
 - donations of food and money
-- I'd like to make a small donation in my mother's name.
+- I'd like to `make` a small donation in my mother's name.
 
 ## 2743. dose ## noun [C]
 /doʊs/ MEDICINE
 [B2]a measured amount of something such as medicine
-- a high/low dose
-- a dose of medication/vaccine/radiation
+- a `high/low` dose
+- a dose `of` medication/vaccine/radiation
 
 ## 2744. dose ## noun [C]
 /doʊs/ a dose of sth
@@ -16609,8 +16609,8 @@
 ## 2748. draft ## noun [C]
 /dræft/ WRITING
 [B2]a piece of writing or a plan that is not yet in its finished form
-- This is only a rough draft - the finished article will have pictures as well.
-- She asked me to check the first draft of her proposal.
+- This is only a `rough` draft - the finished article will have pictures as well.
+- She asked me to check the `first` draft of her proposal.
 
 ## 2749. dream ## noun [C]
 /driːm/ be in a dream
@@ -16620,38 +16620,38 @@
 ## 2750. drop ## noun
 /drɑp/ REDUCTION
 [B2]a reduction in the amount or level of something
-- a drop in crime
-- The recent drop in magazine subscriptions is causing some concern.
+- a drop `in` crime
+- The recent drop `in` magazine subscriptions is causing some concern.
 
 ## 2751. drug ## noun [C]
 /drʌg/ MEDICINE
 [B2]any natural or artificially made chemical which is used as a medicine
 - anti-cancer/fertility/pain-killing drugs
-- a prescription/over-the-counter drug
-- He takes several drugs for his condition.
+- a `prescription/over-the-counter` drug
+- He `takes` several drugs for his condition.
 
 ## 2752. drug ## noun [C]
 /drʌg/ ILLEGAL SUBSTANCE
 [B2]any natural or artificially made chemical which is taken for pleasure, to improve someone's performance of an activity, or because a person cannot stop using it
 - illegal drugs
-- a drug addict
-- drug addiction/abuse
-- She began to suspect that her son was on/taking/doing drugs.
+- a drug `addict`
+- drug `addiction/abuse`
+- She began to suspect that her son was `on/taking/doing` drugs.
 
 ## 2753. duty ## noun
 /ˈduːt̬.i/ JOB
 [B2]something you do as part of your job or because of your position
-- professional/official duties
+- `professional/official` duties
 
 ## 2754. duty ## noun
 /ˈduːt̬.i/ on/off duty
 [B2]If someone such as a doctor or a soldier is on duty, they are working, and if they are off duty, they are not working.
-- What time are you off/on duty tomorrow?
+- What time are you `off/on` duty tomorrow?
 
 ## 2755. eagerness ## noun [U]
 /ˈiː.gər.nəs/ 
 [B2]when you are eager to do something
-- In their eagerness to find a solution, they have overlooked certain difficulties.
+- In their eagerness `to` find a solution, they have overlooked certain difficulties.
 
 ## 2756. eagle ## noun [C]
 /ˈiː.gəl/ 
@@ -16676,18 +16676,18 @@
 ## 2760. earthquake ## noun [C]
 /ˈɜrθ.kweɪk/ 
 [B2]a sudden movement of the Earth's surface, often causing severe damage
-- A powerful earthquake struck eastern Turkey last night.
+- A powerful earthquake `struck` eastern Turkey last night.
 
 ## 2761. ease ## noun [U]
 /iːz/ NOT DIFFICULT
 [B2]If you do something with ease, it is easy for you to do it.
-- She won the 400m race with ease.
+- She won the 400m race `with` ease.
 - I was amazed at the ease with which she learned the language.
 
 ## 2762. ease ## noun [U]
 /iːz/ at ease
 [B2]feeling relaxed and comfortable
-- I felt completely at ease with him.
+- I felt completely at ease `with` him.
 
 ## 2763. east ## noun [U]
 /iːst/ the East
@@ -16703,9 +16703,9 @@
 /ɪˈkɑn.ə.mi/ 
 [B2]the system by which a country produces and uses goods and money
 - the German/US economy
-- the global economy
-- a weak/strong economy
-- The economy has been growing at a rapid rate these past five years.
+- the `global` economy
+- a `weak/strong` economy
+- The economy has been `growing` at a rapid rate these past five years.
 - Tourism contributes millions of pounds to the country's economy.
 
 ## 2766. edge ## noun [C]
@@ -16716,9 +16716,9 @@
 ## 2767. edition ## noun [C]
 /ɪˈdɪʃ.ən/ 
 [B2]a book, newspaper, etc. that is one of several that are the same and were produced at the same time
-- a new edition
-- the paperback/hardback edition of the dictionary
-- The local/regional editions of the paper contain specific information for that area.
+- a `new` edition
+- the `paperback/hardback` edition of the dictionary
+- The `local/regional` editions of the paper contain specific information for that area.
 
 ## 2768. editor ## noun [C]
 /ˈed.ə.tər/ 
@@ -16730,13 +16730,13 @@
 /ɪˈfɪʃ.ən.si/ 
 [B2]when someone or something uses time and energy well, without wasting any
 - What is so impressive about their society is the efficiency of the public services.
-- energy/fuel efficiency
+- `energy/fuel` efficiency
 
 ## 2770. egg ## noun
 /eg/ BABY
 [B2]an oval object with a hard shell that contains a baby bird, insect or other creature
-- The cuckoo lays her egg in another bird's nest.
-- After fourteen days the eggs hatch.
+- The cuckoo `lays` her egg in another bird's nest.
+- After fourteen days the eggs `hatch`.
 
 ## 2771. eggplant ## noun [C or U]
 /ˈeg.plænt/ 
@@ -16768,7 +16768,7 @@
 /ˈel.ə.mənt/ PART
 [B2]a part of something
 - List the elements which make up a perfect dinner party.
-- The film had all the elements of a good thriller.
+- The film had all the elements `of` a good thriller.
 
 ## 2777. element ## noun [C]
 /ˈel.ə.mənt/ SIMPLE SUBSTANCE
@@ -16779,30 +16779,30 @@
 /ɪmˈbær.ə.smənt/ 
 [B2]when you feel embarrassed, or something or someone that makes you feel embarrassed
 - She blushed with embarrassment.
-- My parents were such an embarrassment to me.
+- My parents were such `an` embarrassment `to` me.
 
 ## 2779. emotion ## noun [C or U]
 /ɪˈmoʊ.ʃən/ 
 [B2]a strong feeling such as love or anger, or strong feelings in general
-- Like a lot of men, he finds it hard to express/show his emotions.
+- Like a lot of men, he finds it hard to `express/show` his emotions.
 - My mother was overcome with emotion and burst into tears.
 
 ## 2780. emphasis ## noun [C or U]
 /ˈem.fə.sɪs/ 
 [B2]the particular importance or attention that you give to something
-- There is a lot of emphasis on curing disease but too little emphasis on preventing it.
-- Schools here place/put great emphasis on written work and grammar.
+- There is a lot of emphasis `on` curing disease but too little emphasis on preventing it.
+- Schools here `place/put` great emphasis `on` written work and grammar.
 
 ## 2781. encouragement ## noun [C or U]
 /enˈkɜr.ɪdʒ.mənt/ 
 [B2]when someone talks or behaves in a way that gives you confidence to do something
 - Children need lots of encouragement from their parents.
-- I could never have achieved this without the encouragement of my husband and family.
+- I could never have achieved this without the encouragement `of` my husband and family.
 
 ## 2782. end ## noun
 /end/ STOP
 [B2]when something stops happening
-- They are calling for an end to the violence.
+- They are calling for `an` end `to` the violence.
 
 ## 2783. end ## noun
 /end/ put an end to sth
@@ -16818,18 +16818,18 @@
 ## 2785. end ## noun
 /end/ no end
 [B2]a lot
-- I've had no end of trouble finding a hotel room.
+- I've had no end `of` trouble finding a hotel room.
 
 ## 2786. enemy ## noun
 /ˈen.ə.mi/ COUNTRY/ARMY
 [B2]a country, or the armed forces of a country, which is at war with another country
-- enemy forces/territory
-- The enemy had succeeded in stopping our supplies from getting through.
+- enemy `forces/territory`
+- `The` enemy had succeeded in stopping our supplies from getting through.
 
 ## 2787. enjoyment ## noun [U]
 /enˈdʒɔɪ.mənt/ 
 [B2]when you enjoy something
-- Knowing the ending already didn't spoil my enjoyment of the film.
+- Knowing the ending already didn't spoil my enjoyment `of` the film.
 
 ## 2788. entertainer ## noun [C]
 /ˌen.tərˈteɪ.nər/ 
@@ -16840,23 +16840,23 @@
 /ɪnˈθuː.ziːˌæz.əm/ 
 [B2]a feeling of energetic interest in a particular subject or activity and an eagerness to be involved in it
 - One of the good things about teaching young children is their enthusiasm.
-- After the accident he lost his enthusiasm for the sport.
+- After the accident he lost his enthusiasm `for` the sport.
 
 ## 2790. environment ## noun
 /enˈvɑɪ.rən.mənt/ SURROUNDINGS
 [B2]the conditions that you live or work in and the way that they influence how you feel or how effectively you can work
-- The office is quite bright and airy - it's a pleasant working environment.
-- As a parent you try to create a stable home environment.
+- The office is quite bright and airy - it's a pleasant `working` environment.
+- As a parent you try to create a stable `home` environment.
 
 ## 2791. envy ## noun [U]
 /ˈen.vi/ FEELING OF WANTING
 [B2]the feeling that you wish you had something that someone else has
-- I watched with envy as she set off for the airport.
+- I watched `with` envy as she set off for the airport.
 
 ## 2792. episode ## noun [C]
 /ˈep.əˌsoʊd/ EVENT
 [B2]a single event or group of related events
-- This latest episode in the fraud scandal has shocked a lot of people.
+- This latest episode `in` the fraud scandal has shocked a lot of people.
 - Being unemployed and losing his house is an episode in his life that he wants to forget.
 
 ## 2793. episode ## noun [C]
@@ -16872,35 +16872,35 @@
 ## 2795. equality ## noun [U]
 /ɪˈkwɑl.ət̬.i/ 
 [B2]the right of different groups of people to have a similar social position and receive the same treatment
-- equality between the sexes
-- racial/sexual equality
+- equality `between` the sexes
+- `racial/sexual` equality
 
 ## 2796. era ## noun [C]
 /ˈɪr.ə/ 
 [B2]a period of time in history that is special for a particular reason
 - the Clinton era
 - the post-war era
-- They had worked for peace during the long era of conflict.
-- The fall of the Berlin wall marked the end of an era.
+- They had worked for peace during the long era `of` conflict.
+- The fall of the Berlin wall marked `the end of an` era.
 
 ## 2797. error ## noun [C or U]
 /ˈer.ər/ 
 [B2]a mistake
-- He admitted that he'd made an error.
+- He admitted that he'd `made` an error.
 - The letter contained a number of typing errors.
-- Human error has been blamed for the air crash.
-- The document was destroyed in error by the police.
+- `Human` error has been blamed for the air crash.
+- The document was destroyed `in` error by the police.
 
 ## 2798. escalator ## noun [C]
 /ˈes.kəˌleɪt̬.ər/ 
 [B2]moving stairs that take people from one level of a building to another
-- I'll meet you by the up/down escalator on the second floor.
-- Do you want to use the elevator or take the escalator?
+- I'll meet you by the `up/down` escalator on the second floor.
+- Do you want to use the elevator or `take` the escalator?
 
 ## 2799. escape ## noun
 /ɪˈskeɪp/ FORGETTING PROBLEMS
 [B2]something that helps you to forget about your usual life or problems
-- I love old movies - they're such an escape from the real world.
+- I love old movies - they're such an escape `from` the real world.
 
 ## 2800. estate ## noun [C]
 /ɪˈsteɪt/ LAND
@@ -16910,30 +16910,30 @@
 ## 2801. estate ## noun [C]
 /ɪˈsteɪt/ BUILDINGS
 [B2]a group of houses or factories built in a planned way
-- a housing estate
-- an industrial estate
+- a `housing` estate
+- an `industrial` estate
 
 ## 2802. estimate ## noun [C]
 /ˈes.tə.meɪt/ 
 [B2]a guess of what the size, value, amount, cost, etc. of something might be
-- The number of people who applied for the course was 120 compared with an initial estimate of between 50 and 100.
-- This is only a rough estimate.
+- The number of people who applied for the course was 120 compared with an initial estimate `of` between 50 and 100.
+- This is only a `rough` estimate.
 
 ## 2803. evidence ## noun [U]
 /ˈev.əd.əns/ PROOF
 [B2]something that makes you believe that something is true or exists
-- evidence of global warming
-- There is no evidence that the theory is true.
-- New evidence suggests/shows this argument is flawed.
-- There is scientific evidence that the drug is addictive.
-- All the evidence points to a substantial rise in traffic over the next few years.
-- There is growing/increasing evidence that people whose diets are rich in vitamins are less likely to develop some types of cancer.
+- evidence `of` global warming
+- There is no evidence `that` the theory is true.
+- New evidence `suggests/shows` this argument is flawed.
+- There is `scientific` evidence that the drug is addictive.
+- `All the` evidence points to a substantial rise in traffic over the next few years.
+- There is `growing/increasing` evidence that people whose diets are rich in vitamins are less likely to develop some types of cancer.
 
 ## 2804. evil ## noun [C or U]
 /ˈiː.vəl/ 
 [B2]something that is very bad and harmful
 - Drug-addiction is one of today's great social evils.
-- The theme of the play is the battle between good and evil.
+- The theme of the play is the battle between `good and` evil.
 
 ## 2805. evolution ## noun [U]
 /ˌev.əˈluː.ʃən/ NATURAL WORLD
@@ -16943,15 +16943,15 @@
 ## 2806. evolution ## noun [U]
 /ˌev.əˈluː.ʃən/ GRADUAL CHANGE
 [B2]a gradual process of change and development
-- the evolution of language
+- the evolution `of` language
 
 ## 2807. examination ## noun
 /ɪgˌzæm.əˈneɪ.ʃən/ CAREFUL LOOK
 [B2]when someone looks at or considers something carefully in order to discover something
-- a medical examination
-- I had to have a medical examination when I started my new job.
-- The evidence is still under examination.
-- I thought it was paint at first, but on closer examination I realized it was tomato sauce.
+- a `medical` examination
+- I had to `have` a medical examination when I started my new job.
+- The evidence is still `under` examination.
+- I thought it was paint at first, but `on closer` examination I realized it was tomato sauce.
 
 ## 2808. example ## noun [C]
 /ɪgˈzæm.pəl/ set an example
@@ -16961,10 +16961,10 @@
 ## 2809. exception ## noun [C or U]
 /ɪkˈsep.ʃən/ 
 [B2]someone or something that is not included in a rule, group or list or that does not behave in the expected way
-- There are exceptions to every rule.
-- I like all kinds of films with the exception of horror movies.
-- Her books are always entertaining and this one is no exception.
-- You must report here every Tuesday without exception.
+- There are exceptions `to` every rule.
+- I like all kinds of films `with the` exception `of` horror movies.
+- Her books are always entertaining and this one is `no` exception.
+- You must report here every Tuesday `without` exception.
 
 ## 2810. exclamation point ## noun [C]
 /ek.skləˈmeɪ.ʃənˌpɔɪnt/ 
@@ -16974,35 +16974,35 @@
 ## 2811. exhaustion ## noun [U]
 /ɪgˈzɔːs.tʃən/ 
 [B2]when you are extremely tired
-- She felt sick with exhaustion.
-- The tennis star is said to be suffering from exhaustion.
+- She felt sick `with` exhaustion.
+- The tennis star is said to be `suffering from` exhaustion.
 
 ## 2812. existence ## noun [U]
 /ɪgˈzɪs.təns/ 
 [B2]when something or someone exists
-- Many people question the existence of God.
-- According to modern cosmology, the Universe came into existence about fifteen billion years ago.
-- The theater company that they started is still in existence today.
+- Many people question the existence `of` God.
+- According to modern cosmology, the Universe `came into` existence about fifteen billion years ago.
+- The theater company that they started is still `in` existence today.
 
 ## 2813. expansion ## noun [U]
 /ɪkˈspæn.tʃən/ 
 [B2]when something increases in size or amount
-- These years saw the rapid expansion of the software industry.
+- These years saw the rapid expansion `of` the software industry.
 
 ## 2814. expectation ## noun
 /ˌek.spekˈteɪ.ʃən/ 
 [B2]when you expect good things to happen in the future
-- The holiday lived up to all our expectations.
-- I have high expectations for this job.
-- We did so well - beyond all our expectations.
+- The holiday `lived up to` all our expectations.
+- I `have high` expectations `for` this job.
+- We did so well - `beyond all` our expectations.
 
 ## 2815. expense ## noun [C or U]
 /ɪkˈspens/ MONEY SPENT
 [B2]the money that you spend on something
-- Buying a bigger car has proved to be well worth the expense.
-- We've just had a new garage built at great expense.
-- It's silly to go to the expense of buying new clothes when you don't really need them.
-- You have to pay/cover your own medical expenses.
+- Buying a bigger car has proved to be well `worth the` expense.
+- We've just had a new garage built `at great` expense.
+- It's silly to `go to the` expense `of` buying new clothes when you don't really need them.
+- You have to `pay/cover` your own medical expenses.
 
 ## 2816. explosion ## noun [C]
 /ɪkˈsploʊ.ʒən/ BOMB
@@ -17014,9 +17014,9 @@
  
 [B2]a product that you sell in another country or the business of selling products in another country
 - Coffee is one of Brazil's main exports.
-- The export of ivory is now strictly controlled.
-- India grows tea for export.
-- We are planning to develop our export market.
+- The export `of` ivory is now strictly controlled.
+- India grows tea `for` export.
+- We are planning to develop our export `market`.
 
 ## 2818. expression ## noun
 /ɪkˈspreʃ.ən/ PHRASE
@@ -17027,22 +17027,22 @@
 ## 2819. expression ## noun
 /ɪkˈspreʃ.ən/ LOOK
 [B2]the look on someone's face, showing what they feel or think
-- facial expressions
-- He had such a sad expression on his face.
+- `facial` expressions
+- He had such a sad expression `on` his face.
 - I could tell from her expression that something serious had happened.
 
 ## 2820. expression ## noun
 /ɪkˈspreʃ.ən/ SHOWING THOUGHTS
 [B2]when you show what you think or how you feel using words or actions
-- He wrote her a poem as an expression of his love.
-- We've received a lot of expressions of support for our campaign.
-- Freedom of expression is a basic human right.
-- It's better to give expression to your anger, rather than hiding it.
+- He wrote her a poem as an expression `of` his love.
+- We've received a lot of expressions `of` support for our campaign.
+- `Freedom of` expression is a basic human right.
+- It's better to `give` expression `to` your anger, rather than hiding it.
 
 ## 2821. extension ## noun [C]
 /ɪkˈsten.tʃən/ EXTRA TIME
 [B2]extra time that you are given to do or use something
-- I've applied for an extension of my visa.
+- I've applied for an extension `of` my visa.
 
 ## 2822. extension ## noun [C]
 /ɪkˈsten.tʃən/ TELEPHONE
@@ -17057,10 +17057,10 @@
 ## 2824. extent ## noun [no plural]
 /ɪkˈstent/ SIZE
 [B2]the size or importance of something
-- They are just beginning to realize the full extent of the damage.
-- Her face was injured to such an extent that we didn't recognize her.
-- Rosie's teacher was impressed by the extent of her knowledge.
-- The River Nile is over 6500 kilometers in extent.
+- They are just beginning to realize the `full` extent `of` the damage.
+- Her face was injured `to such an` extent that we didn't recognize her.
+- Rosie's teacher was impressed by `the` extent `of` her knowledge.
+- The River Nile is over 6500 kilometers `in` extent.
 
 ## 2825. extent ## noun [no plural]
 /ɪkˈstent/ to a great/large, etc. extent
@@ -17076,7 +17076,7 @@
 ## 2827. extract ## noun [C]
  
 [B2]a short part of a book, poem, etc.
-- They published an extract from his autobiography.
+- They published an extract `from` his autobiography.
 
 ## 2828. eye ## noun [C]
 /ɑɪ/ keep your/an eye on sb/sth
@@ -17096,7 +17096,7 @@
 ## 2831. eye ## noun [C]
 /ɑɪ/ have an eye for sth
 [B2]to be good at noticing a particular type of thing
-- Your son has a very good eye for detail.
+- Your son has a very good eye for `detail`.
 
 ## 2832. eye ## noun [C]
 /ɑɪ/ look sb in the eye/eyes
@@ -17106,12 +17106,12 @@
 ## 2833. eyebrow ## noun [C]
 /ˈɑɪ.brɑʊ/ 
 [B2]the thin line of hair that is above each eye
-- He's got really bushy eyebrows.
+- He's got really `bushy` eyebrows.
 
 ## 2834. eyelash ## noun [C usually plural]
 /ˈɑɪ.læʃ/ 
 [B2]one of the short hairs which grow from the edge of your eyelids
-- false/long eyelashes
+- `false/long` eyelashes
 
 ## 2835. eyelid ## noun [C]
 /ˈɑɪ.lɪd/ 
@@ -17142,7 +17142,7 @@
 ## 2840. fact ## noun
 /fækt/ REAL THINGS
 [B2]real events and experiences, not things that are imagined
-- It's sometimes hard to separate fact from fiction.
+- It's sometimes hard to separate fact `from fiction`.
 
 ## 2841. fact ## noun
 /fækt/ as a matter of fact
@@ -17158,9 +17158,9 @@
 ## 2843. factor ## noun [C]
 /ˈfæk.tər/ 
 [B2]one of the things that has an effect on a situation, decision, event, etc.
-- Money was an important factor in their decision to move.
-- Price is an important/key/major factor in the success of any product.
-- economic factors
+- Money was an important factor `in` their decision to move.
+- Price is an `important/key/major` factor in the success of any product.
+- `economic` factors
 
 ## 2844. faculty ## noun
 /ˈfæk.əl.ti/ TEACHERS
@@ -17171,8 +17171,8 @@
 ## 2845. failure ## noun
 /ˈfeɪl.jər/ NO SUCCESS
 [B2]when someone or something does not succeed
-- Their attempt to climb Mount Everest ended in failure.
-- I'm a failure at making cakes.
+- Their attempt to climb Mount Everest `ended in` failure.
+- I'm a failure `at` making cakes.
 - I feel like such a failure.
 
 ## 2846. failure ## noun
@@ -17184,21 +17184,21 @@
 ## 2847. failure ## noun
 /ˈfeɪl.jər/ STOP WORKING
 [B2]when something does not work, or stops working as well as it should
-- All street lights aren't working due to a power failure.
-- He died of heart/liver failure.
+- All street lights aren't working due to a `power` failure.
+- He died of `heart/liver` failure.
 
 ## 2848. faith ## noun
 /feɪθ/ TRUST
 [B2]great trust or confidence in something or someone
-- She has no faith in modern medicine.
-- You'll be fine - I have a lot of faith in you.
-- After the trial, his family said they had lost all faith in the legal system.
+- She `has` no faith `in` modern medicine.
+- You'll be fine - I have `a lot of` faith `in` you.
+- After the trial, his family said they had `lost` all faith `in` the legal system.
 
 ## 2849. faith ## noun
 /feɪθ/ STRONG BELIEF
 [B2]strong belief in a god or gods
-- Even in the bad times she never lost her faith.
-- Her faith in God was shattered when her baby died.
+- Even in the bad times she never `lost` her faith.
+- Her faith `in` God was shattered when her baby died.
 - It's my faith that keeps me going.
 
 ## 2850. faith ## noun
@@ -17210,32 +17210,32 @@
 ## 2851. fall ## noun
 /fɔːl/ MOVEMENT
 [B2]when someone or something falls down to the ground, often without intending to or by accident
-- He had a nasty fall and hurt his back.
+- He `had` a nasty fall and hurt his back.
 - The boulder smashed several small trees during its fall.
 
 ## 2852. fame ## noun [U]
 /feɪm/ 
 [B2]when you are known by many people because of your achievements, skills, etc.
-- She first rose to fame as a singer at the age of 16.
-- She moved to New York in search of fame and fortune.
+- She first `rose to` fame as a singer at the age of 16.
+- She moved to New York in search of fame `and fortune`.
 
 ## 2853. fantasy ## noun [C or U]
 /ˈfæn.t̬ə.si/ 
 [B2]a situation or event that you imagine, which is not real or true
 - Steve's favorite fantasy was to own a big house and expensive car.
-- sexual fantasies
-- She retreated into a fantasy world, where she could be anything she wanted.
+- `sexual` fantasies
+- She retreated into a fantasy `world`, where she could be anything she wanted.
 
 ## 2854. fat ## noun [C or U]
 /fæt/ 
 [B2]a solid or liquid substance that is taken from animals or plants and used in cooking
-- This product contains no animal fat.
-- I only use vegetable fat for cooking.
+- This product contains no `animal` fat.
+- I only use `vegetable` fat for cooking.
 
 ## 2855. fate ## noun
 /feɪt/ WHAT HAPPENS
 [B2]what happens to someone, especially something bad
-- We want to decide our own fate.
+- We want to `decide` our own fate.
 - His fate is now in the hands of the jury.
 
 ## 2856. fate ## noun
@@ -17272,19 +17272,19 @@
 ## 2862. feature ## noun [C]
 /ˈfiː.tʃər/ PART
 [B2]a typical quality, or an important part of something
-- The town's main features are its beautiful mosque and ancient marketplace.
-- Our latest phone has several new features.
+- The town's `main` features are its beautiful mosque and ancient marketplace.
+- Our latest phone has several `new` features.
 
 ## 2863. feature ## noun [C]
 /ˈfiː.tʃər/ FACE
 [B2]Someone's features are the parts of their face that you notice when you look at them.
-- His eyes are his best feature.
+- His eyes are his `best` feature.
 
 ## 2864. feedback ## noun [U]
 /ˈfiːd.bæk/ 
 [B2]information or opinions about something, such as a new product, that provide an idea of whether it is successful or liked
-- Have you had any feedback from customers about the product?
-- positive/negative feedback
+- Have you `had` any feedback `from` customers about the product?
+- `positive/negative` feedback
 
 ## 2865. feeling ## noun
 /ˈfiː.lɪŋ/ OPINION
@@ -17305,25 +17305,25 @@
 ## 2868. field ## noun
 /fiːld/ AREA OF STUDY
 [B2]an area of study or activity
-- He's an expert in the field of biochemistry.
+- He's an expert `in` the field `of` biochemistry.
 
 ## 2869. fight ## noun [C]
 /fɑɪt/ EFFORT
 [B2]when you use a lot of effort to achieve or stop something
-- Join us in our fight for freedom!
-- We must continue the fight against homelessness.
-- He died last week after a long fight with cancer.
-- This year has brought some good news in the fight to save the whales.
+- Join us in our fight `for` freedom!
+- We must continue `the` fight `against` homelessness.
+- He died last week after a long fight `with` cancer.
+- This year has brought some good news in the fight `to` save the whales.
 
 ## 2870. fight ## noun [C]
 /fɑɪt/ ARGUMENT
 [B2]an argument
-- I don't want to have a fight over this.
+- I don't want to `have` a fight over this.
 
 ## 2871. fighting ## noun [U]
 /ˈfaɪ.t̬ɪŋ/ 
 [B2]when people fight, especially in a war
-- Fierce fighting has continued all day.
+- `Fierce` fighting has continued all day.
 
 ## 2872. figure ## noun [C]
 /ˈfɪg.jər/ TYPE OF PERSON
@@ -17344,8 +17344,8 @@
 ## 2875. finance ## noun
 /ˈfɑɪ.næns/ CONTROL OF MONEY
 [B2]the control of how large amounts of money should be spent
-- You need to speak to someone in the finance department.
-- The finance committee controls the school's budget.
+- You need to speak to someone in the finance `department`.
+- The finance `committee` controls the school's budget.
 - a meeting of EU finance ministers
 
 ## 2876. finance ## noun
@@ -17357,7 +17357,7 @@
 ## 2877. fingernail ## noun [C]
 /ˈfɪŋ.gərˌneɪl/ 
 [B2]the hard part that covers and protects the top of the end of your finger
-- dirty/long fingernails
+- `dirty/long` fingernails
 - She had bright red fingernails.
 
 ## 2878. fire department ## noun [C]
@@ -17368,7 +17368,7 @@
 ## 2879. firm ## noun [C]
 /fɜrm/ 
 [B2]a company or business
-- He works for a law firm called Neil and Vigliano.
+- He works for a `law` firm called Neil and Vigliano.
 
 ## 2880. first language ## noun [C]
 /ˌfɜːrstˈlæŋ.gwɪdʒ/ 
@@ -17384,7 +17384,7 @@
 /fleɪm/ 
 [B2]hot, bright, burning gas produced by something on fire
 - The flames grew larger as the fire spread.
-- When the fire engine arrived the house was already in flames.
+- When the fire engine arrived the house was already `in` flames.
 
 ## 2883. flash ## noun
 /flæʃ/ BRIGHT LIGHT
@@ -17394,7 +17394,7 @@
 ## 2884. flash ## noun
 /flæʃ/ CAMERA
 [B2]a piece of camera equipment that produces a bright light when you take a photograph in a dark place
-- Flash photography is not permitted anywhere in the museum.
+- Flash `photography` is not permitted anywhere in the museum.
 
 ## 2885. flashlight ## noun [C]
 /ˈflæʃ.lɑɪt/ 
@@ -17409,13 +17409,13 @@
 ## 2887. flow ## noun [no plural]
 /floʊ/ MOVEMENT
 [B2]when something flows in one direction
-- the flow of a river
+- the flow `of` a river
 - the traffic flow
 
 ## 2888. fluency ## noun [U]
 /ˈfluː.ən.si/ 
 [B2]when someone is fluent in a language
-- One of the requirements of the job is fluency in two or more African languages.
+- One of the requirements of the job is fluency `in` two or more African languages.
 
 ## 2889. folks ## noun [plural]
 /foʊks/ PARENTS
@@ -17425,7 +17425,7 @@
 ## 2890. folks ## noun [plural]
 /foʊks/ PEOPLE
 [B2]people, especially those of a particular group or type
-- Some folks don't like SUVs.
+- `Some` folks don't like SUVs.
 
 ## 2891. following ## noun
 /ˈfɑl.oʊ.ɪŋ/ the following
@@ -17446,34 +17446,34 @@
 /fɔːrs/ POWER
 [B2]physical strength or power
 - The force of the wind had brought down a great many trees in the area.
-- The army seized power by force.
+- The army seized power `by` force.
 - Teachers aren't allowed to use force in controlling their pupils.
 
 ## 2895. force ## noun
 /fɔːrs/ GROUP
 [B2]a group of people organized to work together for a particular purpose, for example in military service
 - the security forces
-- the work force
-- He joined the police force straight out of high school.
+- the `work` force
+- He joined the `police` force straight out of high school.
 
 ## 2896. form ## noun [C]
 /fɔːrm/ TYPE
 [B2]a type of something
-- Swimming is the best form of exercise.
-- a rare form of cancer
+- Swimming is the best form `of` exercise.
+- a rare form `of` cancer
 
 ## 2897. fortune ## noun
 /ˈfɔːr.tʃən/ MONEY
 [B2]a lot of money
-- She made a fortune selling her story to the newspapers.
-- He lost a fortune gambling.
-- His clothes cost a fortune.
+- She `made` a fortune selling her story to the newspapers.
+- He `lost` a fortune gambling.
+- His clothes `cost` a fortune.
 
 ## 2898. fortune ## noun
 /ˈfɔːr.tʃən/ LUCK
 [B2]the good or bad things that happen to you
 - The family's fortunes changed almost overnight.
-- I had the good fortune to meet her.
+- I had the `good` fortune to meet her.
 
 ## 2899. fox ## noun [C]
 /fɑks/ 
@@ -17483,15 +17483,15 @@
 ## 2900. frame ## noun [C]
 /freɪm/ STRUCTURE
 [B2]the basic structure of a building, vehicle or piece of furniture that other parts are added onto
-- a bicycle frame
+- a `bicycle` frame
 
 ## 2901. freedom ## noun [C or U]
 /ˈfriːd.əm/ BEING ALLOWED
 [B2]the condition or right of being able or allowed to do, say, think, etc. whatever you want to, without being controlled or limited
 - Children are allowed much more freedom these days.
 - I felt such a sense of freedom, up in the hills alone.
-- In college, you have the freedom to do what you want.
-- Everyone should be allowed freedom of choice.
+- In college, you `have` the freedom `to` do what you want.
+- Everyone should be allowed freedom `of choice`.
 
 ## 2902. friendliness ## noun [U]
 /ˈfren.dli.nəs/ 
@@ -17503,12 +17503,12 @@
 [B2]a thin, white layer of ice that forms on surfaces at night when it is very cold, or a time when the temperature is very cold and water freezes
 - When I woke up this morning the ground was covered with frost.
 - There was a frost last night.
-- There were a lot of hard frosts that winter.
+- There were a lot of `hard` frosts that winter.
 
 ## 2904. frustration ## noun [C or U]
 /frʌsˈtreɪ.ʃən/ 
 [B2]the feeling of being annoyed because things are not happening in the way that you want, or in the way that they should
-- I could sense his frustration at not being able to help.
+- I could sense his frustration `at` not being able to help.
 
 ## 2905. fun ## noun [U]
 /fʌn/ make fun of sb/sth
@@ -17524,14 +17524,14 @@
 ## 2907. funeral ## noun [C]
 /ˈfjuː.nə.rəl/ 
 [B2]a ceremony for burying or burning the body of a dead person
-- The funeral will be held next Friday.
+- The funeral will be `held` next Friday.
 - Over 300 people attended the funeral.
 
 ## 2908. future ## noun
 /ˈfjuː.tʃər/ WHAT WILL HAPPEN
 [B2]what will happen to someone or something in the time that is to come
 - We need to discuss the future of the company.
-- Torn apart by war, this country now faces a very uncertain future.
+- Torn apart by war, this country now faces a very `uncertain` future.
 
 ## 2909. future ## noun
 /ˈfjuː.tʃər/ in the near future
@@ -17546,35 +17546,35 @@
 ## 2911. gang ## noun [C]
 /gæŋ/ YOUNG PEOPLE
 [B2]a group of young people who spend time together, usually fighting with other groups and behaving badly
-- a gang member
-- He didn't want to join their gang.
+- a gang `member`
+- He didn't want to `join` their gang.
 
 ## 2912. gang ## noun [C]
 /gæŋ/ CRIMINALS
 [B2]a group of criminals who work together
-- a gang of armed robbers
+- a gang `of` armed robbers
 
 ## 2913. gap ## noun [C]
 /gæp/ SPACE
 [B2]an empty space, hole or opening
-- She has a small gap between her front teeth.
-- We used weatherstripping to fill the gap under the window.
+- She has a small gap `between` her front teeth.
+- We used weatherstripping to `fill` the gap under the window.
 
 ## 2914. gap ## noun [C]
 /gæp/ DIFFERENCE
 [B2]a difference between two things
-- an age gap
-- The gap between rich and poor is still increasing.
+- an `age` gap
+- The gap `between` rich and poor is still increasing.
 
 ## 2915. gap ## noun [C]
 /gæp/ ABSENT THING
 [B2]something that is absent and stops something from being complete
-- There are still huge gaps in my knowledge.
+- There are still huge gaps `in` my knowledge.
 
 ## 2916. gap ## noun [C]
 /gæp/ TIME
 [B2]a period of time spent doing something different
-- After a gap of five years, Jennifer decided to go back to work full-time.
+- After a gap `of` five years, Jennifer decided to go back to work full-time.
 
 ## 2917. gardener ## noun [C]
 /ˈgɑrd.nər / 
@@ -17594,7 +17594,7 @@
 ## 2920. gasoline ## noun [U]
 /ˈgæs.əˌliːn/ 
 [B2]gas, a liquid fuel for cars and trucks
-- regular/unleaded gasoline
+- `regular/unleaded` gasoline
 
 ## 2921. gear ## noun
 /gɪr/ VEHICLE PART
@@ -17604,7 +17604,7 @@
 ## 2922. gear ## noun
 /gɪr/ first/second/third, etc. gear
 [B2]a particular position of the gears in a motor vehicle or bicycle that controls how fast the wheels turn
-- The light turned green, but I couldn't get into first gear.
+- The light turned green, but I couldn't `get into` first gear.
 
 ## 2923. gear ## noun
 /gɪr/ EQUIPMENT
@@ -17624,18 +17624,18 @@
 ## 2926. generation ## noun
 /ˌdʒen.əˈreɪ.ʃən/ TIME
 [B2]a period of about 25 to 30 years, the time it takes for children to become adults and take the place of their parents in society
-- Our family has lived in this village for generations.
+- Our family has lived in this village `for` generations.
 - A generation ago, home computers were almost unknown.
 
 ## 2927. generation ## noun
 /ˌdʒen.əˈreɪ.ʃən/ PRODUCT
 [B2]a product when it is at a particular stage of development
-- a new generation of computers
+- a `new` generation of computers
 
 ## 2928. generation ## noun
 /ˌdʒen.əˈreɪ.ʃən/ ENERGY
 [B2]the production of energy in a particular form
-- electricity generation from wind and wave power
+- `electricity` generation from wind and wave power
 
 ## 2929. generosity ## noun [U]
 /ˌdʒen.əˈrɑs.ət̬.i/ 
@@ -17650,12 +17650,12 @@
 ## 2931. gentleman ## noun [C]
 /ˈdʒen.t̬əl.mən/ 
 [B2]a polite word for "man"
-- Ladies and gentlemen, the show is about to begin.
+- `Ladies and` gentlemen, the show is about to begin.
 
 ## 2932. glance ## noun [C]
 /glæns/ LOOK
 [B2]a quick look
-- She took a quick glance around the restaurant but couldn't see him.
+- She `took` a `quick` glance around the restaurant but couldn't see him.
 
 ## 2933. global warming ## noun [U]
 /ˌgloʊ.bəlˈwɔːr.mɪŋ/ 
@@ -17670,8 +17670,8 @@
 ## 2935. good ## noun [U]
 /gʊd/ HELP
 [B2]something that is an advantage or help to a person or situation
-- Even a small donation can do a lot of good.
-- It's hard work, but it's for your own good.
+- Even a small donation can `do` a lot of good.
+- It's hard work, but it's `for your own` good.
 
 ## 2936. good ## noun [U]
 /gʊd/ be no good or be not any/much good
@@ -17692,8 +17692,8 @@
 ## 2939. gossip ## noun [U]
 /ˈgɑs.əp/ 
 [B2]conversation or reports about other people's private lives that might or might not be true
-- an interesting piece of gossip
-- Have you heard the latest gossip?
+- an interesting `piece of` gossip
+- Have you heard the `latest` gossip?
 
 ## 2940. government ## noun
 /ˈgʌv.ərn.mənt/ PROCESS
@@ -17708,7 +17708,7 @@
 ## 2942. grant ## noun [C]
 /grænt/ 
 [B2]an amount of money provided by a government or organization for a special purpose
-- a student/research grant
+- a `student/research` grant
 
 ## 2943. graph ## noun [C]
 /græf/ 
@@ -17733,7 +17733,7 @@
 ## 2947. grip ## noun [no plural]
 /grɪp/ HOLD
 [B2]when you hold something tightly
-- She tightened her grip on my arm.
+- She tightened her grip `on` my arm.
 
 ## 2948. ground ## noun
 /grɑʊnd/ SOIL
@@ -17755,8 +17755,8 @@
 ## 2951. guarantee ## noun [C or U]
 /ˌgær.ənˈtiː/ 
 [B2]a written promise made by a company to repair one of its products or give you a new one if it has a fault
-- a money-back guarantee
-- I'm afraid this camera is no longer under guarantee.
+- a `money-back` guarantee
+- I'm afraid this camera is no longer `under` guarantee.
 
 ## 2952. guest ## noun [C]
 /gest/ TV
@@ -17797,14 +17797,14 @@
 ## 2959. guts ## noun [plural]
 /gʌts/ BRAVERY
 [B2]the bravery and determination that is needed to do something difficult or unpleasant
-- It took guts to stand up and tell the boss how she felt.
-- I didn't think he would have the guts to quite that awful job.
+- It `took` guts to stand up and tell the boss how she felt.
+- I didn't think he would `have the` guts `to` quite that awful job.
 
 ## 2960. habit ## noun [C or U]
 /ˈhæb.ɪt/ BAD ACTIVITY
 [B2]something that you often do that is bad for you or is annoying
-- He has some really annoying/nasty habits.
-- I picked up some bad eating habits from my roommate.
+- He has some really `annoying/nasty` habits.
+- I `picked up` some `bad` eating habits from my roommate.
 
 ## 2961. hair ## noun
 /her/ SINGLE PIECE
@@ -17816,7 +17816,7 @@
 /hæf/ A LOT
 [B2]a lot
 - She invited a lot of people to the party but half of them didn't show up.
-- I don't even know where she is half (of) the time.
+- I don't even know where she is half `(of) the time`.
 
 ## 2963. half ## noun ; pronoun ; determiner
 /hæf/ not half as good/bad/exciting, etc.
@@ -17848,7 +17848,7 @@
 [B2]the part of something that you use to hold it or open it
 - a door handle
 - I can't pick the kettle up - the handle's too hot.
-- She turned the handle and slowly opened the door.
+- She `turned` the handle and slowly opened the door.
 
 ## 2969. handout ## noun [C]
 /ˈhæn.dɑʊt/ 
@@ -17863,26 +17863,26 @@
 ## 2971. harm ## noun [U]
 /hɑrm/ 
 [B2]hurt or damage
-- Alan would never do anyone any harm.
-- It will do you no harm to be nice to him.
-- I'm sorry. I didn't mean any harm.
-- Smoking can cause serious harm to the lungs.
+- Alan would never `do` anyone any harm.
+- It will `do you no` harm to be nice to him.
+- I'm sorry. I `didn't mean` any harm.
+- Smoking can `cause` serious harm `to` the lungs.
 
 ## 2972. harmony ## noun
 /ˈhɑr.mə.ni/ PEACE
 [B2]when people are peaceful and agree with each other, or when different things seem right or suitable together
-- living together in peace and harmony
+- living together `in` peace and harmony
 
 ## 2973. harvest ## noun [C or U]
 /ˈhɑr.vɪst/ 
 [B2]when crops are cut and gathered from fields
-- the wheat/corn/grape harvest
-- We had a good/bad/poor harvest this year.
+- the `wheat/corn/grape` harvest
+- We had a `good/bad/poor` harvest this year.
 
 ## 2974. headline ## noun [C]
 /ˈhed.lɑɪn/ the headlines
 [B2]the main stories in newspapers, on television, etc.
-- That story made headlines all over the world.
+- That story `made` headlines all over the world.
 
 ## 2975. headquarters ## noun [ plural]
 /ˈhedˌkwɔːrt̬.ərz/ 
@@ -17902,7 +17902,7 @@
 ## 2978. heart ## noun
 /hɑrt/ by heart
 [B2]so that you can remember all of something
-- She has read the stories so oftent that she knows them by heart.
+- She has read the stories so oftent that she `knows` them by heart.
 
 ## 2979. heart ## noun
 /hɑrt/ break sb's heart
@@ -17934,31 +17934,31 @@
 ## 2984. hell ## noun [U]
 /hel/ RELIGION
 [B2]according to some religions, the place where bad people go when they die
-- I'll go to hell for this.
+- I'll `go to` hell for this.
 
 ## 2985. hell ## noun [U]
 /hel/ BAD EXPERIENCE
 [B2]an experience that is very unpleasant
 - It's been hell working with him.
-- Work is sheer hell at the moment.
+- Work is `sheer` hell at the moment.
 - The last few months have been absolute hell.
 
 ## 2986. hell ## noun [U]
 /hel/ the hell
 [B2]used to emphasize something in a rude or angry way
-- What the hell are you doing here?
+- `What` the hell are you doing here?
 
 ## 2987. helmet ## noun [C]
 /ˈhel.mɪt/ 
 [B2]a hard hat that protects your head
 - a crash helmet
-- a bicycle helmet
+- a `bicycle` helmet
 
 ## 2988. help ## noun
 /help/ THING THAT HELPS
 [B2]something or someone that helps
 - Having a new computer would be a help.
-- He was a great help (to me) while my husband was away.
+- He was a great help (`to` me) while my husband was away.
 
 ## 2989. helper ## noun [C]
 /ˈhel.pər/ 
@@ -17968,19 +17968,19 @@
 ## 2990. highlight ## noun [C]
 /ˈhɑɪ.lɑɪt/ 
 [B2]the best or most important part of something
-- The boat trip was one of the highlights of our vacation.
+- The boat trip was one of the highlights `of` our vacation.
 
 ## 2991. hint ## noun [C]
 /hɪnt/ SUGGESTION
 [B2]when you say something that suggests what you think or want, but not in a direct way
-- He's dropped several hints to the boss that he'll quit if he doesn't get a promotion.
-- Did she give you any hints about where she was going?
-- You can't take a hint, can you? Just go away and leave me alone!
+- He's `dropped` several hints to the boss `that` he'll quit if he doesn't get a promotion.
+- Did she `give` you any hints about where she was going?
+- You can't `take` a hint, can you? Just go away and leave me alone!
 
 ## 2992. hint ## noun [C]
 /hɪnt/ ADVICE
 [B2]a small piece of advice
-- The magazine gives lots of useful hints on how to save money.
+- The magazine gives lots of `useful` hints on how to save money.
 
 ## 2993. hip ## noun [C]
 /hɪp/ 
@@ -17996,7 +17996,7 @@
 ## 2995. hold ## noun
 /hoʊld/ SUPPORT
 [B2]when you hold something or someone, or the way you do this
-- Keep a tight hold on your tickets.
+- Keep a tight hold `on` your tickets.
 
 ## 2996. hold ## noun
 /hoʊld/ catch/get/grab/take hold of sth/sb
@@ -18040,22 +18040,22 @@
 ## 3003. hook ## noun [C]
 /hʊk/ 
 [B2]a curved piece of metal or plastic used for hanging something on, or a similar object used for catching fish
-- a coat/picture hook
+- a `coat/picture` hook
 - a boat hook
 - a fish hook
 
 ## 3004. horn ## noun [C]
 /hɔːrn/ SOUND
 [B2]a piece of equipment used to make a loud sound as a warning or signal
-- a car/fog horn
-- The taxi driver sounded/beeped his horn.
+- a `car/fog` horn
+- The taxi driver `sounded/beeped` his horn.
 
 ## 3005. horror ## noun [U]
 /ˈhɔːr.ər/ FEELING
 [B2]a strong feeling of shock or fear
-- She watched in horror as the car skidded across the road.
-- The thought of speaking in front of so many people fills me with horror.
-- I then realized to my absolute horror, that I had forgotten the present.
+- She watched `in` horror as the car skidded across the road.
+- The thought of speaking in front of so many people `fills` me `with` horror.
+- I then realized `to my` absolute horror, that I had forgotten the present.
 
 ## 3006. host ## noun [C]
 /hoʊst/ PERSON
@@ -18083,7 +18083,7 @@
 ## 3010. hunger ## noun
 /ˈhʌŋ.gər/ NOT ENOUGH FOOD
 [B2]when you do not have enough food
-- All over the world, people die of hunger every day.
+- All over the world, people `die of` hunger every day.
 
 ## 3011. hunting ## noun [U]
 /ˈhʌnt.ɪŋ/ 
@@ -18104,21 +18104,21 @@
 ## 3014. icon ## noun [C]
 /ˈɑɪ.kɑn/ COMPUTER
 [B2]a small picture on a computer screen that you choose in order to make the computer do something
-- Click on the print icon.
+- `Click on` the print icon.
 
 ## 3015. icon ## noun [C]
 /ˈɑɪ.kɑn/ FAMOUS PERSON/THING
 [B2]a person or thing that is famous because it represents a particular idea or way of life
-- He's a musical innovator and cultural icon.
+- He's a musical innovator and `cultural` icon.
 - a music/fashion icon
 
 ## 3016. idea ## noun
 /ɑɪˈdiː.ə/ THOUGHT
 [B2]an understanding, thought or picture in your mind
-- Do you have any idea what he looks like?
-- Can you give me an idea of the cost?
-- I don't like the idea of living so far away from my family.
-- I've got a pretty good idea why they left early.
+- Do you `have any` idea what he looks like?
+- Can you `give` me an idea `of` the cost?
+- I don't like the idea `of` living so far away from my family.
+- I've got a `pretty good` idea `why` they left early.
 
 ## 3017. identification ## noun [U]
 /ɑɪˌdent.ə.fəˈkeɪ.ʃən/ RECOGNIZING
@@ -18128,16 +18128,16 @@
 ## 3018. identity ## noun [C or U]
 /ɑɪˈdent.ət̬.i/ WHO SOMEONE IS
 [B2]who someone is
-- to hide/protect your identity
-- to prove/reveal your identity
+- to `hide/protect` your identity
+- to `prove/reveal` your identity
 - The witness was given a new identity for her protection.
-- The newspaper photo apparently showed him in Rome but it was a case of mistaken identity.
+- The newspaper photo apparently showed him in Rome but it was a case of `mistaken` identity.
 
 ## 3019. identity ## noun [C or U]
 /ɑɪˈdent.ət̬.i/ CHARACTERISTICS
 [B2]the things that make one person or group of people different from others
-- cultural/national identity
-- I think my job gives me a sense of identity.
+- `cultural/national` identity
+- I think my job gives me `a sense of` identity.
 
 ## 3020. idiom ## noun [C]
 /ˈɪd.iː.əm/ 
@@ -18158,10 +18158,10 @@
 ## 3023. image ## noun
 /ˈɪm.ɪdʒ/ PUBLIC
 [B2]the way that other people think someone or something is
-- He wants to improve his public image.
-- She is trying to project a more presidential image.
-- At the time, many people had a negative image of all performers, even opera singers.
-- Better communicating our high standards has improved the image of our school among college applicants.
+- He wants to improve his `public` image.
+- She is trying to `project` a more presidential image.
+- At the time, many people had a `negative` image of all performers, even opera singers.
+- Better communicating our high standards has `improved` the image `of` our school among college applicants.
 
 ## 3024. image ## noun
 /ˈɪm.ɪdʒ/ PICTURE
@@ -18173,64 +18173,64 @@
 /ˈɪm.ə.grənt/ 
 [B2]someone who comes to live in a different country
 - My grandparents arrived here as immigrants from Russia in 1910.
-- legal/illegal/new immigrants
+- `legal/illegal/new` immigrants
 
 ## 3026. immigration ## noun [U]
 /ˌɪm.əˈgreɪ.ʃən/ COMING INTO A COUNTRY
 [B2]when someone comes to live in a different country
 - immigration policy
-- There are strict limits on immigration (into the country).
+- There are strict limits on immigration (`into` the country).
 
 ## 3027. impact ## noun [C usually no plural or U]
  EFFECT
 [B2]the effect that a person, event or situation has on someone or something
-- These charges will have a damaging impact on the governor’s reputation.
-- The environmental impact of this project will be enormous.
+- These charges will `have` a damaging impact `on` the governor’s reputation.
+- The environmental impact `of` this project will be enormous.
 
 ## 3028. imperative ## noun [no plural]
 /ɪmˈper.ət̬.ɪv/ 
 [B2]the form of a verb which is usually used for giving orders
-- In the phrase "Leave him alone," the verb "leave" is an imperative/is in the imperative.
+- In the phrase "Leave him alone," the verb "leave" is an imperative/is `in the` imperative.
 
 ## 3029. impression ## noun
 /ɪmˈpreʃ.ən/ OPINION
 [B2]an idea, feeling or opinion about something or someone
-- I get the impression that he’s rather shy.
-- I was under the impression that you didn’t like your job.
-- What was your impression of the second candidate?
-- I don't usually trust first impressions.
+- I `get` the impression `that` he’s rather shy.
+- I was `under` the impression `that` you didn’t like your job.
+- What was your impression `of` the second candidate?
+- I don't usually trust `first` impressions.
 
 ## 3030. impression ## noun
 /ɪmˈpreʃ.ən/ EFFECT
 [B2]the way that something seems, looks or feels to a particular person
 - All our warnings made little impression on him.
-- It doesn't make a good impression if you're late for an interview.
-- He likes to give the impression that he's a very important person.
+- It doesn't `make` a `good` impression if you're late for an interview.
+- He likes to `give` the impression `that` he's a very important person.
 
 ## 3031. impression ## noun
 /ɪmˈpreʃ.ən/ be under the impression
 [B2]to think or understand a particular stated thing
-- I was under the impression (that) you didn't get on too well.
-- He was under the mistaken impression (that) you were married.
+- I was under the impression `(that)` you didn't get on too well.
+- He was under the mistaken impression `(that)` you were married.
 
 ## 3032. incident ## noun [C or U]
 /ˈɪn.səd.ənt/ 
 [B2]an event, usually one that is either unpleasant or unusual
-- an isolated/separate/serious incident
-- We drove through pouring rain for over an hour but arrived home without incident.
+- an `isolated/separate/serious` incident
+- We drove through pouring rain for over an hour but arrived home `without` incident.
 
 ## 3033. income ## noun [C or U]
 /ˈɪn.kʌm/ 
 [B2]money that you earn by working, investing, or producing goods
 - Average incomes have risen by 4.5% over the past year.
-- personal/household/family income
+- `personal/household/family` income
 
 ## 3034. increase ## noun [C or U]
  RISE
 [B2]a rise in the amount or size of something
-- price/tax increases
-- There were 39, 000 new cases last year - an increase of 7 per cent.
-- Any increase in production would be helpful.
+- `price`/`tax` increases
+- There were 39, 000 new cases last year - an increase `of` 7 per cent.
+- Any increase `in` production would be helpful.
 
 ## 3035. independence ## noun [U]
 /ˌɪn.dɪˈpen.dəns/ WITHOUT HELP
@@ -18240,7 +18240,7 @@
 ## 3036. independence ## noun [U]
 /ˌɪn.dɪˈpen.dəns/ FREE STATE
 [B2]when a country has its own government and is not ruled by another country
-- Mexico gained its independence from Spain in 1821.
+- Mexico `gained` its independence `from` Spain in 1821.
 
 ## 3037. individual ## noun [C]
 /ˌɪn.dəˈvɪdʒ.u.əl/ PERSON
@@ -18260,21 +18260,21 @@
 [B2]a disease in a part of your body that is caused by bacteria or a virus
 - a serious infection
 - a throat infection
-- Bandage the wound to reduce the risk of infection.
+- Bandage the wound to reduce the `risk of` infection.
 
 ## 3040. inflation ## noun [U]
 /ɪnˈfleɪ.ʃən/ 
 [B2]the rate at which prices increase, or a continuing increase in prices
-- high/low inflation
-- the rate of inflation
+- `high/low` inflation
+- the `rate` of inflation
 - 3% inflation
 
 ## 3041. influence ## noun [C or U]
 /ˈɪn.fluː.əns/ POWER
 [B2]the power to affect how someone thinks or behaves, or how something develops
-- The drug companies can have a lot of influence on doctors.
-- At the time she was under the influence of her father.
-- Picasso had a big influence on art in the twentieth century.
+- The drug companies can have a lot of influence `on` doctors.
+- At the time she was `under the` influence `of` her father.
+- Picasso had a big influence `on` art in the twentieth century.
 
 ## 3042. influence ## noun [C or U]
 /ˈɪn.fluː.əns/ be a bad/good influence (on sb)
@@ -18295,9 +18295,9 @@
 /ˈɪn.dʒə.ri/ 
 [B2]damage to someone's body in an accident or an attack
 - a head/back/knee injury
-- a serious/slight injury
-- Injuries to the spine are common among these workers.
-- They were lucky to escape (without) injury.
+- a `serious/slight` injury
+- Injuries `to` the spine are common among these workers.
+- They were lucky to `escape` (without) injury.
 
 ## 3046. input ## noun
 /ˈɪn.pʊt/ IDEAS
@@ -18312,8 +18312,8 @@
 ## 3048. inside ## noun [C usually no plural]
  INNER PART
 [B2]the inner part, space or side of something
-- Did you clean the inside of the car?
-- The hotel looked shabby from the street, but it was fine on the inside.
+- Did you clean the inside `of` the car?
+- The hotel looked shabby from the street, but it was fine `on` the inside.
 
 ## 3049. inside ## noun [C usually no plural]
  inside out
@@ -18333,8 +18333,8 @@
 ## 3052. inspiration ## noun
 /ˌɪn.spəˈreɪ.ʃən/ IDEAS
 [B2]someone or something that gives you ideas for doing something
-- The golden autumn light provided the inspiration for the painting.
-- He went to church, perhaps seeking divine inspiration.
+- The golden autumn light provided the inspiration `for` the painting.
+- He went to church, perhaps seeking `divine` inspiration.
 
 ## 3053. institute ## noun [C]
 /ˈɪn.stəˌtuːt/ 
@@ -18344,7 +18344,7 @@
 ## 3054. institution ## noun [C]
 /ˌɪn.stəˈtuː.ʃən/ ORGANIZATION
 [B2]a large and important organization, such as a university or bank
-- a medical/educational/financial institution
+- a `medical/educational/financial` institution
 - Oxford and Cambridge universities are internationally respected institutions.
 
 ## 3055. institution ## noun [C]
@@ -18360,9 +18360,9 @@
 ## 3057. insurance ## noun [U]
 /ɪnˈʃʊr.əns/ 
 [B2]an agreement in which you pay a company money and they pay your costs if you have an accident, injury, etc.
-- life/health/car/travel insurance
-- I'll need to take out extra car insurance for another driver.
-- The insurance doesn't cover you for household items.
+- `life/health/car/travel` insurance
+- I'll need to `take out` extra car insurance for another driver.
+- The insurance doesn't `cover` you for household items.
 
 ## 3058. intelligence ## noun [U]
 /ɪnˈtel.ə.dʒəns/ 
@@ -18374,9 +18374,9 @@
 ## 3059. intention ## noun [C or U]
 /ɪnˈten.ʃən/ 
 [B2]something that you want and plan to do
-- It wasn't my intention to exclude her from the list - I just forgot her.
-- I've no intention of changing my plans just to fit in with his.
-- He's full of good intentions, but he never does anything about them!
+- It wasn't my intention `to` exclude her from the list - I just forgot her.
+- I've no intention `of` changing my plans just to fit in with his.
+- He's full of `good` intentions, but he never does anything about them!
 
 ## 3060. interior ## noun
 /ɪnˈtɪr.iː.ər/ 
@@ -18392,18 +18392,18 @@
 ## 3062. introduction ## noun
 /ˌɪn.trəˈdʌk.ʃən/ FIRST MEETING
 [B2]the action of telling someone another person's name the first time that they meet
-- You'll have to do/make the introductions - I don't know everyone's name.
+- You'll have to `do/make` the introductions - I don't know everyone's name.
 
 ## 3063. introduction ## noun
 /ˌɪn.trəˈdʌk.ʃən/ TEXT
 [B2]the opening text of a book, speech, article, etc.
-- Read the introduction to the article and decide what it will be about.
-- The book has an introduction by Antonia Byatt.
+- Read the introduction `to` the article and decide what it will be about.
+- The book has an introduction `by` Antonia Byatt.
 
 ## 3064. introduction ## noun
 /ˌɪn.trəˈdʌk.ʃən/ SOMETHING NEW
 [B2]when you make something exist, happen or be used for the first time
-- The introduction of new working practices has dramatically improved productivity.
+- The introduction `of` new working practices has dramatically improved productivity.
 - Within a few years of their introduction, CDs were outselling vinyl records.
 
 ## 3065. introduction ## noun
@@ -18414,7 +18414,7 @@
 ## 3066. invasion ## noun [C or U]
 /ɪnˈveɪ.ʒən/ WAR
 [B2]when an army enters a country by force in order to take control of it
-- They were planning to mount an invasion of the north of the country.
+- They were planning to mount an invasion `of` the north of the country.
 
 ## 3067. inventor ## noun [C]
 /ɪnˈvent.ər/ 
@@ -18424,10 +18424,10 @@
 ## 3068. investigation ## noun [C or U]
 /ɪnˌves.təˈgeɪ.ʃən/ 
 [B2]when officials try to discover all the facts about something, especially a crime or an accident
-- to carry out/hold an investigation
-- An investigation has been under way for several days into the disappearance of a thirteen-year-old boy.
-- a full/thorough investigation of the incident
-- Currently, the individuals who might have caused the accident are subject to/under investigation.
+- to `carry out/hold` an investigation
+- An investigation has been under way for several days `into` the disappearance of a thirteen-year-old boy.
+- a `full/thorough` investigation of the incident
+- Currently, the individuals who might have caused the accident are `subject to/under` investigation.
 
 ## 3069. investigator ## noun [C]
 /ɪnˈves.təˌgeɪt̬.ər/ 
@@ -18444,19 +18444,19 @@
 ## 3071. investment ## noun
 /ɪnˈvest.mənt/ TIME/EFFORT, ETC.
 [B2]something that you do or have, in order to have more in the future
-- Going to college is an investment in the future.
+- Going to college is an investment `in` the future.
 - There's been a significant investment of time and energy in order to make the project a success.
 
 ## 3072. investor ## noun [C]
 /ɪnˈves.tər/ 
 [B2]a person who puts money into a bank, business, etc. in order to make a profit
 - A New York investor offered to acquire the company's stock for $13 a share.
-- Small investors are hoping that the markets will improve.
+- `Small` investors are hoping that the markets will improve.
 
 ## 3073. involvement ## noun [C or U]
 /ɪnˈvɑlv.mənt/ 
 [B2]when someone or something is involved in an activity or event
-- The team's continued involvement in the competition is uncertain.
+- The team's continued involvement `in` the competition is uncertain.
 - He denies any involvement in the attack.
 
 ## 3074. issue ## noun [C]
@@ -18483,8 +18483,8 @@
 ## 3078. job ## noun
 /dʒɑb/ RESPONSIBILITY
 [B2]something that is your responsibility
-- She believed her job as a politician was to represent the views of her party and the people who voted for her.
-- I know it's not my job to tell you how to run your life, but I do think you've made a mistake.
+- She believed her job as a politician was `to` represent the views of her party and the people who voted for her.
+- I know it's not my job `to` tell you how to run your life, but I do think you've made a mistake.
 
 ## 3079. job ## noun
 /dʒɑb/ do a good/excellent, etc. job
@@ -18500,21 +18500,21 @@
 ## 3081. journey ## noun [C]
 /ˈdʒɜr.ni/ 
 [B2]when you travel from one place to another
-- It's a four-hour journey from New York City to Boston by car.
+- It's a four-hour journey `from` New York City `to` Boston by car.
 - We took lots of photos on our cross-country journey last summer.
 
 ## 3082. joy ## noun
 /dʒɔɪ/ HAPPINESS
 [B2]great happiness
-- They were filled with joy when their first child was born.
-- She wept for joy when she was told that her husband was still alive.
+- They were `filled with` joy when their first child was born.
+- She `wept for` joy when she was told that her husband was still alive.
 
 ## 3083. joy ## noun
 /dʒɔɪ/ CAUSE OF HAPPINESS
 [B2]something or someone that makes you feel very happy
 - Listening to music is one of his greatest joys.
-- the joys of parenthood
-- She's a joy to work with.
+- `the` joys `of` parenthood
+- She's `a` joy `to` work with.
 
 ## 3084. judge ## noun [C]
 /dʒʌdʒ/ COURT
@@ -18524,7 +18524,7 @@
 ## 3085. judgment ## noun
 /ˈdʒʌdʒ.mənt/ OPINION
 [B2]an opinion about someone or something that you decide on after thinking carefully
-- It proved difficult to make any judgments about exactly how well the school was performing.
+- It proved difficult to `make` any judgments about exactly how well the school was performing.
 
 ## 3086. junior ## noun
 /ˈdʒuːn.jər / STUDENT
@@ -18542,21 +18542,21 @@
 [B2]a group of people who have been chosen to listen to all the facts in a trial in a law court and to decide whether a person is guilty or not guilty, or whether a claim has been proved
 - members of the jury
 - The jury was/were unable to agree.
-- Police officers aren't usually allowed to be/sit/serve on a jury.
+- Police officers aren't usually allowed to `be/sit/serve on` a jury.
 
 ## 3089. justice ## noun [U]
 /ˈdʒʌs.tɪs/ FAIRNESS
 [B2]behavior or treatment that is fair and morally correct
 - There's no justice in the world when people can be made to suffer like that.
-- The winner has been disqualified for cheating, so justice has been done.
+- The winner has been disqualified for cheating, so justice has `been done`.
 
 ## 3090. justice ## noun [U]
 /ˈdʒʌs.tɪs/ LAW
 [B2]the system of laws which judges and punishes people
 - the justice system
 - the Department of Justice
-- The police are doing all they can to bring those responsible for the burglaries to justice.
-- They destroyed the evidence and where charged with obstruction of justice.
+- The police are doing all they can to `bring` those responsible for the burglaries `to` justice.
+- They destroyed the evidence and where charged with `obstruction of` justice.
 
 ## 3091. key ## noun [C]
 /kiː/ KEYBOARD
@@ -18588,7 +18588,7 @@
 ## 3096. knowledge ## noun
 /ˈnɑl.ɪdʒ/ common knowledge
 [B2]something that a lot of people know
-- It's common knowledge that four of the teachers will not be returning next year.
+- It's common knowledge `that` four of the teachers will not be returning next year.
 
 ## 3097. knowledge ## noun
 /ˈnɑl.ɪdʒ/ a working knowledge of sth
@@ -18598,13 +18598,13 @@
 ## 3098. land ## noun
 /lænd/ NOT SEA
 [B2]the surface of the earth that is not sea
-- It is cheaper to drill for oil on land than at sea.
-- The treaty led to a dramatic reduction in the number of land-based missiles.
+- It is cheaper to drill for oil `on` land than at sea.
+- The treaty led to a dramatic reduction in the number of land`-based` missiles.
 
 ## 3099. landing ## noun [C]
 /ˈlæn.dɪŋ/ 
 [B2]an arrival on the ground of an aircraft or boat
-- an emergency landing
+- an `emergency` landing
 - The flight was great and we had a smooth landing.
 
 ## 3100. landlady ## noun [C]
@@ -18620,8 +18620,8 @@
 ## 3102. lane ## noun [C]
 /leɪn/ PART
 [B2]part of a road or track that is separated from the other parts, usually by a painted line
-- the left/right/middle lane
-- the fast/express/slow lane
+- the `left/right/middle` lane
+- the `fast/express/slow` lane
 - a bike lane
 - They're widening the highway to three lanes in each direction.
 
@@ -18649,13 +18649,13 @@
 ## 3107. laughter ## noun [U]
 /ˈlæf.tər/ 
 [B2]the act or sound of laughing
-- She roared with laughter.
+- She `roared with` laughter.
 - As we got nearer the hall we could hear laughter.
 
 ## 3108. laundry ## noun [U]
 /ˈlɔːn.dri/ 
 [B2]clothes, sheets, etc. that need to be washed
-- to do the laundry
+- to `do` the laundry
 
 ## 3109. law ## noun
 /lɔː/ RULE
@@ -18663,24 +18663,24 @@
 - state/federal law
 - labor/immigration laws
 - We have a law in this state that drivers must wear seatbelts.
-- Many states have passed laws against using a cell phone while driving.
-- The law is intended to protect wildlife.
-- Motor vehicle insurance is required by law.
+- Many states have `passed` laws `against` using a cell phone while driving.
+- The law is intended `to` protect wildlife.
+- Motor vehicle insurance is `required by` law.
 
 ## 3110. law ## noun
 /lɔː/ the law
 [B2]the system of official rules in a country
-- Playing loud music late at night is against the law.
-- The judge ruled that the directors had knowingly broken the law.
-- You can't take that course of action and remain within the law.
+- Playing loud music late at night is `against` the law.
+- The judge ruled that the directors had knowingly `broken` the law.
+- You can't take that course of action and remain `within` the law.
 
 ## 3111. layer ## noun [C]
 /ˈleɪ.ər/ 
 [B2]an amount of a substance covering a surface, or one of several amounts of substance, each on top of the other
 - the ozone layer
-- A thick layer of dust covered everything.
-- There was a thin layer of oil on the surface of the water.
-- We stripped several layers of paint off the door.
+- A thick layer `of` dust covered everything.
+- There was a thin layer `of` oil on the surface of the water.
+- We stripped several layers `of` paint off the door.
 
 ## 3112. laziness ## noun [U]
 /ˈleɪ.zi.nəs/ 
@@ -18690,11 +18690,11 @@
 ## 3113. lead ## noun
 /liːd/ WINNING
 [B2]a winning position during a race or other situation where people are competing, or a position ahead of other people
-- For the first time in the race Harrison is in the lead.
-- With a final burst of speed he moved into the lead.
-- She took the lead with ten meters to go in the race.
-- By the end of the day's play Davies had a lead of three points.
-- The whole family walked down to the beach, with Mom in the lead.
+- For the first time in the race Harrison is `in` the lead.
+- With a final burst of speed he `moved into` the lead.
+- She `took` the lead with ten meters to go in the race.
+- By the end of the day's play Davies had a lead `of` three points.
+- The whole family walked down to the beach, with Mom `in` the lead.
 
 ## 3114. leaflet ## noun [C]
 /ˈliː.flət/ /ˈliːf.lət/ 
@@ -18705,7 +18705,7 @@
 /liːk/ HOLE
 [B2]a hole in something that a liquid or gas comes out of, or the liquid or gas that comes out
 - There's water on the floor - we must have a leak.
-- If you think there's a gas leak, leave the house and call 911, the emergency number.
+- If you think there's a `gas` leak, leave the house and call 911, the emergency number.
 
 ## 3116. learner ## noun [C]
 /ˈlɜrn.ər/ 
@@ -18717,7 +18717,7 @@
 [B2]the process of getting knowledge or a new skill
 - language learning
 - This technique makes learning fun.
-- For the first month in her new job she was on a steep learning curve.
+- For the first month in her new job she was on a steep learning `curve`.
 
 ## 3118. leek ## noun [C or U]
 /liːk/ 
@@ -18729,13 +18729,13 @@
 [B2]an old story or set of stories from ancient times
 - The dance was based on several Hindu legends.
 - She is writing a thesis on Irish legend and mythology.
-- Legend has it that he always wore his boots in bed.
+- Legend `has it` that he always wore his boots in bed.
 
 ## 3120. length ## noun [C or U]
 /leŋθ/ TIME
 [B2]the amount of time something takes
 - the length of a film/speech/play
-- He doesn't seem able to concentrate for any length of time.
+- He doesn't seem able to concentrate for `any` length `of time`.
 
 ## 3121. leopard ## noun [C]
 /ˈlep.ərd/ 
@@ -18745,9 +18745,9 @@
 ## 3122. lesson ## noun [C]
 /ˈles.ən/ EXPERIENCE
 [B2]an experience that teaches you how to behave better in a similar situation in the future
-- There is a lesson in this tragic accident.
+- There is a lesson `in` this tragic accident.
 - Losing his job was a lesson he never forgot.
-- We can learn important lessons from this.
+- We can `learn` important lessons `from` this.
 
 ## 3123. lesson ## noun [C]
 /ˈles.ən/ learn a/your lesson
@@ -18757,9 +18757,9 @@
 ## 3124. level ## noun [C]
 /ˈlev.əl/ AMOUNT
 [B2]the amount or number of something
-- He achieved a high level of skill as an interpreter.
-- Chess requires a very high level of concentration.
-- There is some danger of low-level radiation.
+- He achieved a `high` level `of` skill as an interpreter.
+- Chess requires a very `high` level `of` concentration.
+- There is some danger of `low-`level radiation.
 
 ## 3125. level ## noun [C]
 /ˈlev.əl/ HEIGHT
@@ -18788,27 +18788,27 @@
 /lɑɪf/ PERSON'S EXISTENCE
 [B2]the existence of a person
 - Many lives are lost to TB.
-- A simple mixture of glucose and water can save lives in many parts of the world.
+- A simple mixture of glucose and water can `save` lives in many parts of the world.
 
 ## 3130. life ## noun
 /lɑɪf/ ENERGY
 [B2]energy or enthusiasm
-- She's so full of life.
+- She's so `full of` life.
 
 ## 3131. lifestyle ## noun [C]
 /ˈlɑɪf.stɑɪl/ 
 [B2]the way that you live
-- He lives a healthy lifestyle.
+- He lives a `healthy` lifestyle.
 - an active lifestyle
 - She needs a good income to support her lifestyle.
 
 ## 3132. lifetime ## noun [C usually no plural]
 /ˈlɑɪf.tɑɪm/ 
 [B2]the period of time that someone is alive
-- I expect to see a lot more technological change during/in my lifetime.
-- I've only been working here two days, but it seems like a lifetime.
-- This is the opportunity of a lifetime!
-- A watch of this quality should last a lifetime.
+- I expect to see a lot more technological change `during/in` my lifetime.
+- I've only been working here two days, but `it seems like a` lifetime.
+- This is the opportunity `of a` lifetime!
+- A watch of this quality should `last a` lifetime.
 - You're just renting a summer house - it's not a lifetime commitment!
 
 ## 3133. lighting ## noun [U]
@@ -18821,13 +18821,13 @@
 /lɑɪn/ TELEPHONE
 [B2]the connection between telephones
 - That line is busy – may I take a message?
-- I've got Chris Foster on the line for you.
-- Please hold the line. I'll see if she's available.
+- I've got Chris Foster `on` the line for you.
+- Please `hold the` line. I'll see if she's available.
 
 ## 3135. link ## noun [C]
 /lɪŋk/ CONNECTION
 [B2]a connection between two people, things, or ideas
-- There's a link between diet and heart disease.
+- There's a link `between` diet and heart disease.
 - A high-speed rail link brings you to the airport.
 
 ## 3136. litter ## noun [U]
@@ -18843,14 +18843,14 @@
 ## 3138. living ## noun [no plural]
 /ˈlɪv.ɪŋ/ 
 [B2]the money that you earn from your job
-- What do you do for a living?
-- You can earn/make a good living in sales if you have the right attitude.
+- What do you `do for a` living?
+- You can `earn/make` a `good` living in sales if you have the right attitude.
 
 ## 3139. load ## noun [C]
 /loʊd/ AMOUNT CARRIED
 [B2]something that is carried, often by a vehicle
 - The maximum load for this elevator is eight persons.
-- The truck was carrying a load of bricks.
+- The truck was `carrying` a load `of` bricks.
 
 ## 3140. loaf ## noun [C]
 /loʊf/ 
@@ -18860,7 +18860,7 @@
 ## 3141. lobby ## noun [C]
 /ˈlɑb.i/ 
 [B2]an area inside the main entrance of a building
-- the hotel/building lobby
+- the `hotel/building` lobby
 - I'll meet you in the lobby at 5:30.
 
 ## 3142. long term ## noun
@@ -18872,7 +18872,7 @@
 /lʊk/ APPEARANCE
 [B2]an expression on someone's face
 - She had a worried look about her.
-- She gave me a questioning look.
+- She `gave` me a questioning look.
 
 ## 3144. look ## noun
 /lʊk/ the look of sb/sth
@@ -18884,9 +18884,9 @@
 /lɔːs/ NOT HAVING
 [B2]when you no longer have something or have less of something
 - Many parents feel a sense of loss when their children leave home.
-- He suffered a gradual loss of memory.
-- job losses
-- blood/hair/weight loss
+- He suffered a gradual loss `of` memory.
+- `job` losses
+- `blood/hair/weight` loss
 - The company’s losses over the last few years have been staggering.
 
 ## 3146. loss ## noun
@@ -18897,22 +18897,22 @@
 ## 3147. love ## noun
 /lʌv/ INTEREST
 [B2]something that interests you a lot
-- I don't share my brother's love of sports.
+- I don't share my brother's love `of` sports.
 - Music is one of her greatest loves.
 
 ## 3148. loyalty ## noun [U]
 /ˈlɔɪ.əl.ti/ 
 [B2]the quality of being loyal
 - His loyalty was never in question.
-- Her loyalty to the cause is impressive.
+- Her loyalty `to` the cause is impressive.
 
 ## 3149. luck ## noun [U]
 /lʌk/ SUCCESS
 [B2]success
-- I’ve got a job interview today, so wish me luck.
-- Did you have any luck finding a flight?
+- I’ve got a job interview today, so `wish me` luck.
+- Did you `have` any luck finding a flight?
 - He tried to get into Harvard but, no luck.
-- When I met her, I couldn't believe my luck.
+- When I met her, I couldn't `believe` my luck.
 
 ## 3150. lung ## noun [C]
 /lʌŋ/ 
@@ -18944,7 +18944,7 @@
 [B2]the work needed to keep a road, building, machine, etc. in good condition
 - car maintenance classes
 - Old houses require too much maintenance.
-- I need a garden that's very low maintenance.
+- I need a garden that's very `low` maintenance.
 
 ## 3156. major ## noun
 /ˈmeɪ.dʒər/ 
@@ -18956,10 +18956,10 @@
 ## 3157. majority ## noun [no plural]
 /məˈdʒɔːr.ət̬.i/ 
 [B2]more than half of a group of people or things
-- The majority of our employees have university degrees.
-- A large majority of people approve of the death sentence.
-- The vast majority of smokers claim they would like to quit.
-- In Britain women are in the majority.
+- The majority `of` our employees have university degrees.
+- A large majority `of` people approve of the death sentence.
+- The `vast` majority of smokers claim they would like to quit.
+- In Britain women are `in the` majority.
 - the majority decision
 
 ## 3158. maker ## noun [C]
@@ -18992,19 +18992,19 @@
 ## 3163. manner ## noun
 /ˈmæn.ər/ WAY
 [B2]the way something happens or something is done
-- She stared at me in an accusing manner.
-- They dealt with the problem in a very efficient manner.
+- She stared at me `in` an accusing manner.
+- They dealt with the problem `in` a very efficient manner.
 
 ## 3164. manner ## noun
 /ˈmæn.ər/ manners
 [B2]polite ways of behaving with other people
-- It's bad manners to eat with your mouth open.
-- It's considered good manners in some societies to leave a little food on your plate.
+- It's `bad` manners to eat with your mouth open.
+- It's considered `good` manners in some societies to leave a little food on your plate.
 
 ## 3165. manner ## noun
 /ˈmæn.ər/ BEHAVIOR
 [B2]the way in which a person talks and behaves with other people
-- an aggressive/friendly/rude manner
+- an `aggressive/friendly/rude` manner
 - As soon as he realized that we weren't going to buy anything, his whole manner changed.
 
 ## 3166. manual ## noun [C]
@@ -19028,19 +19028,19 @@
 /ˈmær.əˌθɑn/ 
 [B2]a running race of slightly over 26 miles (42.195 kilometres)
 - the London/New York marathon
-- She did/ran her first marathon in just under three hours.
+- She `did/ran` her first marathon in just under three hours.
 
 ## 3170. mark ## noun [C]
 /mɑrk/ DIFFERENT AREA
 [B2]a small area on the surface of something which is damaged, dirty or different in some way
 - There were dirty marks on her pants where she had wiped her hands.
-- His fingers had left marks on the table's polished surface.
+- His fingers had `left` marks on the table's polished surface.
 - She had a red mark on her arm where she'd burned herself.
 
 ## 3171. marketing ## noun [U]
 /ˈmɑr.kə.tɪŋ/ 
 [B2]work that involves encouraging people to buy a product or service
-- a career in marketing/sales and marketing
+- a career in marketing/`sales and` marketing
 
 ## 3172. martial art ## noun [C]
 /ˌmɑr.ʃəlˈɑrt/ 
@@ -19069,21 +19069,21 @@
 ## 3176. match ## noun
 /mætʃ/ STICK
 [B2]a thin, wooden stick which produces a flame when you rub one end of it against a rough surface
-- a box of matches
+- a `box of` matches
 
 ## 3177. material ## noun
 /məˈtɪr.iː.əl/ PHYSICAL SUBSTANCE
 [B2]a physical substance that has a particular quality or is used for a particular purpose
 - building materials, such as stone
-- Crude oil is used as the raw material for making plastics.
+- Crude oil is used as the `raw` material for making plastics.
 
 ## 3178. matter ## noun
 /ˈmæt̬.ər/ SITUATION
 [B2]a subject or situation that you need to think about, discuss, or deal with
 - Could I talk to you about a personal matter?
 - Alois denied any knowledge of the matter.
-- Will you call me back - it's a matter of some importance.
-- Talking about the world's problems is one thing, but solving them is another matter altogether.
+- Will you call me back - it's a matter `of` some importance.
+- Talking about the world's problems is one thing, but solving them is `another` matter `altogether`.
 
 ## 3179. matter ## noun
 /ˈmæt̬.ər/ to make matters worse
@@ -19110,15 +19110,15 @@
 [B2]purpose or emotional importance
 - She felt that her life had no meaning.
 - The birth of her first grandchild gave new meaning to her life.
-- the meaning of life
+- `the` meaning `of life`
 
 ## 3184. means ## noun [plural]
 /miːnz/ METHOD
 [B2]a method or way of doing something
-- They had no means of communication.
-- We need to find some other means of transportation.
-- The family had no means of support.
-- She tried to explain by means of sign language.
+- They had no means `of` communication.
+- We need to find some other means `of` transportation.
+- The family `had no` means `of` support.
+- She tried to explain `by` means `of` sign language.
 
 ## 3185. meantime ## noun
 /ˈmiːn.tɑɪm/ in the meantime
@@ -19129,43 +19129,43 @@
 /ˈmeʒ.ər/ METHOD
 [B2]a way of achieving something or dealing with a situation
 - These measures were designed to improve car safety.
-- We must take preventative measures to stop the spread of the disease.
-- This arrangement is only a temporary measure.
-- security measures
+- We must `take` preventative measures to stop the spread of the disease.
+- This arrangement is only a `temporary` measure.
+- ` security` measures
 
 ## 3187. measurement ## noun
 /ˈmeʒ.ər.mənt/ SIZE
 [B2]the exact size, shape, degree or strength of something which you discover by measuring it
-- The measurements of both rooms were identical.
-- They've taken measurements of air quality around the bus station.
+- The measurements `of` both rooms were identical.
+- They've `taken` measurements of air quality around the bus station.
 
 ## 3188. medal ## noun [C]
 /ˈmed.əl/ 
 [B2]a metal disk given as a prize in a competition or given to someone who has been very brave
-- an Olympic medal
-- She won three gold medals.
-- He was awarded a medal for bravery.
+- an `Olympic` medal
+- She `won` three gold medals.
+- He was `awarded` a medal `for` bravery.
 
 ## 3189. media ## noun [+ singular or plural verb]
 /ˈmiːd.iː.ə/ the media
 [B2]newspapers, magazines, radio and television considered as a group
-- the local/national media
-- media attention/coverage/hype/reports
-- The issue has been much discussed in the media.
+- the `local/national` media
+- media `attention/coverage/hype/reports`
+- The issue has been much discussed `in` the media.
 
 ## 3190. mention ## noun [C or U]
 /ˈmen.tʃən/ 
 [B2]a brief remark
-- When I ordered the catalog, there was no mention of any payment.
-- The report made no mention of the problem.
-- The story didn't even get a mention in the newspaper.
+- When I ordered the catalog, there was no mention `of` any payment.
+- The report `made no` mention `of` the problem.
+- The story didn't even `get a` mention in the newspaper.
 
 ## 3191. mess ## noun
 /mes/ PROBLEMS
 [B2]a situation that is full of problems
 - She said that her life was a mess.
-- The company's finances are in a mess.
-- If he hadn't lied, he wouldn't be in this mess now.
+- The company's finances are `in a` mess.
+- If he hadn't lied, he wouldn't be `in` this mess now.
 
 ## 3192. message ## noun [C]
 /ˈmes.ɪdʒ/ IDEA
@@ -19176,8 +19176,8 @@
 ## 3193. microphone ## noun [C]
 /ˈmɑɪ.krəˌfoʊn/ 
 [B2]a piece of equipment that you speak into to make your voice louder, or to record your voice or other sounds
-- The interviewer asked her to speak into/use the microphone.
-- My laptop has a built-in microphone.
+- The interviewer asked her to `speak into/use` the microphone.
+- My laptop has a `built-in` microphone.
 
 ## 3194. middle ## noun
 /ˈmɪd.əl/ in the middle of nowhere
@@ -19210,7 +19210,7 @@
 /mɑɪn/ UNDERGROUND
 [B2]an underground system of holes and passages where people dig out coal or other minerals
 - a coal/salt/gold mine
-- My grandfather used to work down in the mines.
+- My grandfather used to work `down in the` mines.
 
 ## 3200. minister ## noun [C]
 /ˈmɪn.ə.stər/ 
@@ -19221,8 +19221,8 @@
 ## 3201. minority ## noun
 /mɑɪˈnɔːr.ət̬.i/ LESS THAN HALF
 [B2]less than half of a group of people or things
-- Only a minority of people support the proposal.
-- Traditional families are in the minority in this neighborhood.
+- Only a minority `of` people support the proposal.
+- Traditional families are `in the` minority in this neighborhood.
 
 ## 3202. mint ## noun [U]
 /mɪnt/ 
@@ -19237,32 +19237,32 @@
 ## 3204. minute ## noun [C]
 /ˈmɪn.ɪt/ the last minute
 [B2]the latest time possible
-- The concert was canceled at the last minute.
+- The concert was canceled `at` the last minute.
 
 ## 3205. miracle ## noun [C]
 /ˈmɪr.ə.kəl/ 
 [B2]something that is very surprising or difficult to believe
 - an economic miracle
-- Looking at the state of his car, it's a miracle (that) he wasn't killed.
-- I can't promise a miracle cure, but I think we can improve things.
+- Looking at the state of his car, it's a miracle `(that)` he wasn't killed.
+- I can't promise a miracle `cure`, but I think we can improve things.
 
 ## 3206. misery ## noun [C or U]
 /ˈmɪz.ə.ri/ 
 [B2]great suffering or unhappiness
 - The war brought misery to millions of people.
-- We have witnessed the most appalling scenes of human misery.
-- Ten years of marriage to him have made her life a misery.
+- We have witnessed the most appalling scenes of `human` misery.
+- Ten years of marriage to him have `made her life a` misery.
 
 ## 3207. mission ## noun [C]
 /ˈmɪʃ.ən/ PURPOSE
 [B2]someone's duty or purpose in life
-- Her mission in life was to help the poor.
+- Her mission `in life` was to help the poor.
 
 ## 3208. mist ## noun [C or U]
 /mɪst/ 
 [B2]small drops of water in the air which make it difficult to see objects which are not near
-- The early-morning mist soon lifted/cleared.
-- The mountain villages seem to be permanently covered in mist.
+- The early-morning mist soon `lifted/cleared`.
+- The mountain villages seem to be permanently `covered in` mist.
 
 ## 3209. misunderstanding ## noun [C or U]
 /mɪsˌʌn.dərˈstændɪŋ/ 
@@ -19272,14 +19272,14 @@
 ## 3210. mixture ## noun
 /ˈmɪks.tʃər/ SUBSTANCE
 [B2]a substance made of other substances that have been combined
-- The mixture of flour, water and yeast is then left in a warm place for four hours.
+- The mixture `of` flour, water and yeast is then left in a warm place for four hours.
 - Add milk to the mixture and stir until smooth.
 
 ## 3211. mixture ## noun
 /ˈmɪks.tʃər/ STYLES/IDEAS
 [B2]when there is a combination of two or more ideas, qualities, styles, etc.
-- Their house is decorated in a mixture of styles.
-- Their latest CD is a mixture of new and old songs.
+- Their house is decorated in a mixture `of` styles.
+- Their latest CD is a mixture `of` new and old songs.
 
 ## 3212. moment ## noun
 /ˈmoʊ.mənt/ for the moment
@@ -19301,7 +19301,7 @@
 ## 3215. monument ## noun [C]
 /ˈmɑn.jə.mənt/ STRUCTURE
 [B2]a structure that is built to make people remember an event in history or a famous person
-- In the square in front of the hotel stands a monument to all the people killed in the war.
+- In the square in front of the hotel stands a monument `to` all the people killed in the war.
 
 ## 3216. mood ## noun [C or U]
 /muːd/ be in a mood
@@ -19331,13 +19331,13 @@
 ## 3221. motive ## noun [C]
 /ˈmoʊ.t̬ɪv/ 
 [B2]a reason for doing something
-- The police don't yet know the motive for the killing.
-- What was the motive behind the bombing?
+- The police don't yet know the motive `for` the killing.
+- What was the motive `behind` the bombing?
 
 ## 3222. motor ## noun [C]
 /ˈmoʊt̬.ər/ 
 [B2]the part of a machine or vehicle that changes electricity or fuel into movement and makes it work
-- The pump is powered by a small electric motor.
+- The pump is powered by a small `electric` motor.
 
 ## 3223. motorist ## noun [C]
 /ˈmoʊt̬.ə.rɪst/ 
@@ -19357,8 +19357,8 @@
 ## 3226. movement ## noun
 /ˈmuːv.mənt/ CHANGE OF POSITION
 [B2]a change of position or place
-- He made a sudden movement and frightened the bird away.
-- For a long time after the accident, he had no movement in his legs.
+- He `made` a sudden movement and frightened the bird away.
+- For a long time after the accident, he had no movement `in` his legs.
 - Her movements were rather clumsy.
 
 ## 3227. mud ## noun [U]
@@ -19396,16 +19396,16 @@
 ## 3232. nail ## noun [C]
 /neɪl/ BODY PART
 [B2]the hard surface at the end of your fingers and toes
-- Stop biting your nails!
+- Stop `biting` your nails!
 - nail clippers
 - a nail file
 
 ## 3233. name ## noun
 /neɪm/ REPUTATION
 [B2]the reputation that someone or something has
-- She went to court to clear her name.
-- Their actions gave football a bad name at the time.
-- They're trying to restore the good name of the manufacturer.
+- She went to court to `clear` her name.
+- Their actions `gave` football `a bad` name at the time.
+- They're trying to restore `the good` name of the manufacturer.
 
 ## 3234. napkin ## noun [C]
 /ˈnæp.kɪn/ 
@@ -19417,7 +19417,7 @@
 [B2]a country or the people living in a country
 - the industrialized nations
 - All the nations of the world will be represented at the conference.
-- Practically the whole nation watched the ceremony on television.
+- Practically the `whole` nation watched the ceremony on television.
 
 ## 3236. native speaker ## noun [C]
 /ˌneɪt̬.ɪvˈspiː.kər/ 
@@ -19429,21 +19429,21 @@
 /ˈneɪ.tʃər/ CHARACTER
 [B2]someone's character
 - As a child Juliana had a lovely nature - everyone liked her.
-- It's not really in her nature to be aggressive.
-- He is by nature inclined to be rather lazy.
+- It's not really `in` her nature `to` be aggressive.
+- He is `by` nature inclined to be rather lazy.
 
 ## 3238. navy ## noun [C + singular or plural verb]
 /ˈneɪ.vi/ 
 [B2]the part of a country's armed forces which is trained to operate at sea
-- My brother is an officer in the Navy.
-- Gabriel joined the navy in 1997.
+- My brother is an officer `in the` Navy.
+- Gabriel `joined the` navy in 1997.
 - a navy ship/vessel
 
 ## 3239. need ## noun
 /niːd/ NECESSARY THING
 [B2]something that is necessary to have or do
-- There's a growing need for affordable housing in the larger cities.
-- Is there any need to change the current system?
+- There's `a` growing need `for` affordable housing in the larger cities.
+- Is there any need `to` change the current system?
 
 ## 3240. need ## noun
 /niːd/ no need
@@ -19461,7 +19461,7 @@
 /niːd/ needs
 [B2]the things you need in order to have a good life
 - her emotional needs
-- The city is struggling to meet the needs of its homeless people.
+- The city is struggling to `meet the` needs `of` its homeless people.
 
 ## 3243. needle ## noun [C]
 /ˈniːd.əl/ SEWING
@@ -19477,8 +19477,8 @@
 ## 3245. nerves ## noun [plural]
 /nɜrvz/ NERVOUS
 [B2]the state of being nervous
-- I always suffer from nerves before a game.
-- I need something to calm my nerves.
+- I always `suffer from` nerves before a game.
+- I need something to `calm` my nerves.
 
 ## 3246. nerves ## noun [plural]
 /nɜrvz/ steady/strong nerves
@@ -19494,9 +19494,9 @@
 /ˈnet.wɜrk/ CONNECTED PARTS
 [B2]a system or group of connected parts
 - a road/rail network
-- A television network is looking into the story.
-- The company plans to upgrade its phone network.
-- We could reduce our costs by developing a more efficient distribution network.
+- A `television network` is looking into the story.
+- The company plans to upgrade its `phone` network.
+- We could reduce our costs by developing a more efficient `distribution` network.
 - a network of spies/a spy network
 
 ## 3249. network ## noun [C]
@@ -19507,10 +19507,10 @@
 ## 3250. nonsense ## noun [U or no plural]
 /ˈnɑn.sens/ SILLY
 [B2]If something someone has said or written is nonsense, it is silly and not true.
-- She talks such nonsense sometimes.
-- He dismissed the accusations as complete/utter nonsense.
-- What a load of nonsense!
-- It's nonsense to suggest that they could have cheated.
+- She `talks` such nonsense sometimes.
+- He dismissed the accusations as `complete/utter` nonsense.
+- What `a load of` nonsense!
+- It's nonsense `to` suggest that they could have cheated.
 
 ## 3251. note ## noun
 /noʊt/ EXPLANATION
@@ -19525,16 +19525,16 @@
 ## 3253. nuisance ## noun [C usually no plural]
 /ˈnuː.səns/ 
 [B2]a person, thing, or situation that annoys you or causes problems for you
-- I've forgotten my umbrella - what a nuisance!
+- I've forgotten my umbrella - `what a` nuisance!
 - It's such a nuisance having to rewrite those letters.
 - I hate to be a nuisance, but could you help me?
-- Local residents claimed that the noise was causing a public nuisance.
+- Local residents claimed that the noise was causing a `public` nuisance.
 
 ## 3254. number ## noun
 /ˈnʌm.bər/ a number of sth
 [B2]several
 - There were a number of journalists at the meeting.
-- We've had quite a number of complaints about the program.
+- We've had `quite` a number of complaints about the program.
 
 ## 3255. nursery ## noun [C]
 /ˈnɜr.sə.ri/ 
@@ -19556,71 +19556,71 @@
 ## 3258. objection ## noun [C or U]
 /əbˈdʒek.ʃən/ 
 [B2]when someone says that they do not like or approve of something or someone
-- Our main objection to the restaurant adding outdoor tables is that it will be noisy.
-- I have no objection if you want to stay an extra day.
+- Our main objection `to` the restaurant adding outdoor tables is that it will be noisy.
+- I `have no` objection if you want to stay an extra day.
 
 ## 3259. objective ## noun [C]
 /əbˈdʒek.tɪv/ 
 [B2]something that you are trying to achieve
-- Her main/prime objective now is simply to stay in office.
-- Can the company achieve/meet its financial objectives?
+- Her `main/prime` objective now is simply to stay in office.
+- Can the company `achieve/meet` its financial objectives?
 
 ## 3260. obligation ## noun [C or U]
 /ˌɑb.ləˈgeɪ.ʃən/ 
 [B2]something that you do because it is your duty or because you feel you have to
-- If you have not signed a contract, you are under no obligation to pay them any money.
-- You have a legal obligation to ensure your child receives a proper education.
+- If you have not signed a contract, you are `under no` obligation `to` pay them any money.
+- You have a `legal` obligation `to` ensure your child receives a proper education.
 
 ## 3261. observation ## noun
 /ˌɑb.zərˈveɪ.ʃən/ WATCHING
 [B2]when someone watches someone or something carefully
-- The doctor wants to keep him under observation for a week.
-- She has very good powers of observation.
+- The doctor wants to keep him `under` observation for a week.
+- She has very good `powers of` observation.
 
 ## 3262. obsession ## noun [C or U]
 /əbˈseʃ.ən/ 
 [B2]something or someone that you think about all the time
-- an unhealthy obsession with death
+- an unhealthy obsession `with` death
 - her chocolate obsession
-- He's always wanted to find his natural mother but recently it's become an obsession.
+- He's always wanted to find his natural mother but recently it's `become an` obsession.
 
 ## 3263. occasion ## noun [C]
 /əˈkeɪ.ʒən/ PARTICULAR TIME
 [B2]a time when something happens
 - That was a different/another occasion.
-- We met on several occasions to discuss the issue.
+- We met `on` several occasions to discuss the issue.
 - He's missed meetings on a number of occasions.
 
 ## 3264. offender ## noun [C]
 /əˈfen.dər/ 
 [B2]someone who has committed a crime
-- first-time/repeat offenders
-- violent offenders
-- juvenile/young/youthful offenders
+- `first-time/repeat` offenders
+- `violent` offenders
+- `juvenile/young/youthful` offenders
 
 ## 3265. offense ## noun
 /əˈfens/ CRIME
 [B2]a crime
 - Driving without a license is an offense.
-- a serious/minor offense
-- a criminal offense
+- a `serious/minor` offense
+- a `criminal` offense
 
 ## 3266. offense ## noun
 /əˈfens/ UPSET FEELINGS
 [B2]when something rude makes someone upset or angry
-- Do you think he took offense at what I said about his hair?
-- If you don't mind, I'd rather go on my own - no offense, but I think it would be better.
+- Do you think he `took` offense `at` what I said about his hair?
+- If you don't mind, I'd rather go on my own - `no` offense, but I think it would be better.
 
 ## 3267. officer ## noun [C]
 /ˈɔː.fɪ.sər/ MILITARY
 [B2]someone with an important job in a military organization
-- a military officer
-- an army/navy officer
+- a `military` officer
+- an `army/navy` officer
 
 ## 3268. opening ## noun
 /ˈoʊ.pə.nɪŋ/ CEREMONY
 [B2]a ceremony at the beginning of an event or activity
-- The official opening of the new school will take place next month.
+- The `official` opening `of` the new school will take place next month.
 
 ## 3269. opening ## noun
 /ˈoʊ.pə.nɪŋ/ BEGINNING
@@ -19640,11 +19640,11 @@
 ## 3272. opinion ## noun
 /əˈpɪn.jən/ OF GROUP
 [B2]the thoughts or beliefs that a group of people have
-- The advertising campaign is intended to influence public opinion.
+- The advertising campaign is intended to influence `public` opinion.
 - There is a wide range of opinion on the issue.
-- We have a difference of opinion among the committee members.
-- Opinion is divided as to whether the treatment actually works.
-- Both performances were excellent, it's simply a matter of opinion as to whose was better.
+- We have a `difference of` opinion among the committee members.
+- Opinion `is divided` as to whether the treatment actually works.
+- Both performances were excellent, it's simply `a matter of` opinion as to whose was better.
 
 ## 3273. opponent ## noun [C]
 /əˈpoʊ.nənt/ SPORT
@@ -19655,14 +19655,14 @@
 /əˈpoʊ.nənt/ PERSON WHO DISAGREES
 [B2]someone who disagrees with an action or belief and tries to change it
 - a political opponent
-- Leading opponents of the proposed spending cuts will meet later today.
+- Leading opponents `of` the proposed spending cuts will meet later today.
 
 ## 3275. opportunity ## noun
 /ˌɑp.ərˈtuː.nət̬.i/ CHANCE OF JOB
 [B2]the chance to get a job
-- employment/job opportunities
-- opportunities for recent graduates
-- There are fewer opportunities this year for for young people looking for summer jobs.
+- `employment/job` opportunities
+- opportunities `for` recent graduates
+- There are fewer opportunities this year `for` for young people looking for summer jobs.
 
 ## 3276. opportunity ## noun
 /ˌɑp.ərˈtuː.nət̬.i/ take the/this opportunity to do sth
@@ -19672,13 +19672,13 @@
 ## 3277. order ## noun
 /ˈɔːrd.ər/ INSTRUCTION
 [B2]an instruction that someone must obey
-- The company received an order to stop releasing the polluting chemicals into the river.
-- The troops are supposed to obey orders given by an officer.
+- The company received an order `to` stop releasing the polluting chemicals into the river.
+- The troops are supposed to `obey` orders given by an officer.
 
 ## 3278. order ## noun
 /ˈɔːrd.ər/ NEAT
 [B2]a situation in which everything is in its correct place
-- I like for everything to be in order before I go away.
+- I like for everything to be `in` order before I go away.
 - The house was such a mess that she spent the whole day trying to establish some sort of order.
 
 ## 3279. organizer ## noun [C]
@@ -19690,9 +19690,9 @@
 ## 3280. origin ## noun [C or U]
 /ˈɔːr.ə.dʒən/ CAUSE
 [B2]the cause of something, or where something begins or comes from
-- What's the origin of that saying?
-- It's a book about the origins of the universe.
-- The furniture was French in origin.
+- What's `the` origin `of` that saying?
+- It's a book about `the` origins `of` the universe.
+- The furniture was French `in` origin.
 
 ## 3281. original ## noun [C]
 /əˈrɪdʒ.ən.əl/ 
@@ -19702,7 +19702,7 @@
 ## 3282. outline ## noun [C]
 /ˈɑʊt.lɑɪn/ DESCRIPTION
 [B2]a short description of the most important ideas or facts about something
-- If you read the minutes of the meeting, they'll give you a brief/broad outline of what was discussed.
+- If you read the minutes of the meeting, they'll give you a `brief/broad` outline `of` what was discussed.
 - Some novelists start by writing an outline.
 
 ## 3283. outside ## noun
@@ -19714,12 +19714,12 @@
 ## 3284. outskirts ## noun [plural]
 /ˈɑʊt.skɜrts/ 
 [B2]the outer area of a city or town
-- The new assembly plant is being built on the outskirts of town.
+- The new assembly plant is being built `on the` outskirts of town.
 
 ## 3285. overtime ## noun [U]
 /ˈoʊ.vərˌtɑɪm/ 
 [B2]extra time that you work after your usual working hours
-- He's been working a lot of overtime lately.
+- He's been `working` a lot of overtime lately.
 
 ## 3286. owl ## noun [C]
 /ɑʊl/ 
@@ -19734,40 +19734,40 @@
 ## 3288. pace ## noun
 /peɪs/ SPEED
 [B2]the speed at which someone or something moves or does something
-- a slow/fast pace
-- I don't like the pace of modern life.
-- These changes seem to be happening at too fast a pace.
+- a `slow/fast` pace
+- I don't like the pace `of` modern life.
+- These changes seem to be happening `at` too fast a pace.
 
 ## 3289. pack ## noun [C]
 /pæk/ 
 [B2]a set of products or other things that are wrapped up together
-- The information pack contains a brochure and a map.
-- a pack of gum/cards/cigarettes
-- I bought a pack of tissues to carry in my purse.
+- The `information` pack contains a brochure and a map.
+- a pack `of` gum/cards/cigarettes
+- I bought a pack `of` tissues to carry in my purse.
 
 ## 3290. package ## noun [C]
 /ˈpæk.ɪdʒ/ BOX
 [B2]a box or other container that is shipped or brought to someone
-- I need to get to the post office to send/mail this package.
-- A package came/was delivered for you today.
+- I need to get to the post office to `send/mail` this package.
+- A package `came/was delivered `for you today.
 - I'll put that magazine in the package with the other things I'm bringing you when I visit.
 
 ## 3291. package ## noun [C]
 /ˈpæk.ɪdʒ/ GROUP OF THINGS
 [B2]a related group of things when they are offered together as a single unit
-- a retirement/benefits package
-- The computer comes with a software package.
+- a `retirement/benefits `package
+- The computer comes with a `software` package.
 - This ski package includes transportation, hotel, and a six-day lift pass.
 
 ## 3292. package ## noun [C]
 /ˈpæk.ɪdʒ/ CONTAINER
 [B2]a small bag or box that contains an amount of a particular thing
-- a package of rice / spinach
+- a package `of` rice / spinach
 
 ## 3293. pain ## noun
 /peɪn/ EMOTIONAL
 [B2]sadness or mental suffering caused by an unpleasant event
-- Job losses in the auto industry are causing a lot of pain.
+- Job losses in the auto industry are `causing` a lot of pain.
 - emotional/psychological pain
 
 ## 3294. pain ## noun
@@ -19779,8 +19779,8 @@
 ## 3295. pan ## noun [C]
 /pæn/ OVEN CONTAINER
 [B2]a metal container used for cooking food in an oven
-- cake pans
-- a baking/roasting pan
+- `cake` pans
+- a `baking/roasting` pan
 
 ## 3296. pancake ## noun [C]
 /ˈpæn.keɪk/ 
@@ -19791,9 +19791,9 @@
 /ˈpæn.ɪk/ 
 [B2]a sudden, strong feeling of worry or fear that makes you unable to think or behave calmly
 - a state of panic
-- Panic spread through the crowd as the wind and rain grew worse.
-- Carmel was in a panic about her exam.
-- I could hear the panic in his voice
+- Panic `spread` through the crowd as the wind and rain grew worse.
+- Carmel was `in` a panic about her exam.
+- I could hear `the` panic in his voice
 
 ## 3298. panties ## noun [plural]
 /ˈpæn.ti̬z/ 
@@ -19819,13 +19819,13 @@
 ## 3302. parenthesis ## noun [C usually plural]
 /pəˈren.θə.səs/ 
 [B2]either of two curved symbols put around a word, phrase or sentence in a piece of writing to show that what is between them should be considered as separate from the main part
-- Biographical information is included in parentheses.
+- Biographical information is included `in` parentheses.
 
 ## 3303. parliament ## noun [C or U + singular or plural verb]
 /ˈpɑr.lə.mənt/ 
 [B2]in some countries, a group of people who make the laws for the country
 - On Tuesday the country's parliament voted to establish its own army.
-- She was elected to Parliament in 1997.
+- She was `elected to` Parliament in 1997.
 
 ## 3304. part ## noun
 /pɑrt/ play a part in sth
@@ -19836,18 +19836,18 @@
 /pɑrt/ MACHINE
 [B2]a piece of a machine or vehicle
 - aircraft parts
-- spare parts
+- `spare` parts
 
 ## 3306. partner ## noun [C]
 /ˈpɑrt.nər/ BUSINESS
 [B2]one of two or more people who own a business
-- junior/senior partner
+- `junior/senior` partner
 - My business partner handles international sales.
 
 ## 3307. partnership ## noun [C or U]
 /ˈpɑrt.nərˌʃɪp/ 
 [B2]when two people or organizations work together to achieve something
-- She's gone into partnership with someone she used to work with.
+- She's `gone into` partnership with someone she used to work with.
 
 ## 3308. passage ## noun
 /ˈpæs.ɪdʒ/ CONNECTING WAY
@@ -19857,43 +19857,43 @@
 ## 3309. passage ## noun
 /ˈpæs.ɪdʒ/ PART
 [B2]a short part of a book, speech, or piece of music
-- Several passages from the book were printed in a national newspaper before it was published.
+- Several passages `from` the book were printed in a national newspaper before it was published.
 
 ## 3310. passion ## noun [C or U]
 /ˈpæʃ.ən/ FEELING
 [B2]a very powerful feeling, for example of attraction, love, hate, anger or other emotion
 - She saw the passion in his eyes.
 - Football fans show a lot of passion for the game.
-- Politics and philosophy were his lifelong passions.
+- Politics and philosophy were his `lifelong` passions.
 
 ## 3311. path ## noun [C]
 /pæθ/ ACTIONS
 [B2]a set of actions over a period of time, especially ones which lead to a goal or result
-- a career path
-- The path to success has many difficulties.
+- a `career` path
+- The path `to` success has many difficulties.
 
 ## 3312. patience ## noun [U]
 /ˈpeɪ.ʃəns/ 
 [B2]the quality of being able to stay calm and not get angry, especially when something takes a long time
 - You have to have such a lot of patience when you're dealing with kids.
-- In the end, I lost my patience and shouted at her.
-- He's a good teacher, but he doesn't have much patience with the slower pupils.
+- In the end, I `lost` my patience and shouted at her.
+- He's a good teacher, but he doesn't have much patience `with` the slower pupils.
 
 ## 3313. pattern ## noun [C]
 /ˈpæt̬.ərn/ WAY
 [B2]a particular way that something is often done or repeated
-- The pattern of family life has changed over the years.
-- Many behavior(al) patterns have been identified in this study of chimpanzees.
+- The pattern `of` family life has changed over the years.
+- Many `behavior(al)` patterns have been identified in this study of chimpanzees.
 
 ## 3314. pattern ## noun [C]
 /ˈpæt̬.ərn/ GUIDE
 [B2]a drawing, shape or set of instructions that helps you to make something
-- a dress/knitting pattern
+- a `dress/knitting` pattern
 
 ## 3315. pause ## noun [C]
 /pɔːz/ 
 [B2]a short period in which something such as a sound or an activity is stopped before starting again
-- There will be a brief pause in the concert while the piano is moved into place.
+- There will be a brief pause `in` the concert while the piano is moved into place.
 - After a long, awkward pause someone asked a question.
 - She spoke for three quarters of an hour without a pause.
 
@@ -19905,13 +19905,13 @@
 ## 3317. paw ## noun [C]
 /pɔː/ 
 [B2]the foot of an animal that has claws or nails, such as a cat, dog or bear
-- I found paw prints in the kitchen.
+- I found paw `prints` in the kitchen.
 
 ## 3318. payment ## noun
 /ˈpeɪ.mənt/ 
 [B2]an amount of money paid
 - You can pay in full now or twelve monthly payments.
-- When is the first payment due?
+- When is the first payment `due`?
 
 ## 3319. payment ## noun
 /ˈpeɪ.mənt/ ACT
@@ -19922,61 +19922,61 @@
 ## 3320. peace ## noun [U]
 /piːs/ NO VIOLENCE
 [B2]when there is no war, violence or arguing
-- peace talks
-- a peace agreement
-- Now that the war is over may there be alasting peace between our nations.
-- She's very good at keeping (the) peace within the family.
+- peace `talks`
+- a peace `agreement`
+- Now that the war is over may there be `a``lasting` peace between our nations.
+- She's very good at `keeping` (the) peace within the family.
 
 ## 3321. peak ## noun [C]
 /piːk/ HIGHEST POINT
 [B2]the highest level or value of something
-- peak travel times
-- Air travel reaches a peak during August.
-- Here we see an athlete at the peak of her career.
+- peak `travel times`
+- Air travel `reaches` a peak during August.
+- Here we see an athlete `at` the peak of her career.
 
 ## 3322. pedal ## noun [C]
 /ˈped.əl/ 
 [B2]a part of a machine that you press with your foot to operate or move the machine
-- the brake pedal
-- This sewing machine is operated with a foot pedal.
-- He stood up on the pedals of his bike to get extra power as he rode up the hill.
+- the `brake` pedal
+- This sewing machine is operated with a `foot` pedal.
+- He stood up on the pedals of his `bike` to get extra power as he rode up the hill.
 
 ## 3323. penalty ## noun [C]
 /ˈpen.əl.ti/ PUNISHMENT
 [B2]a punishment for doing something that is against a law or rule
-- The violation carries a penalty of up to three years in prison.
-- Currently, ticket holders pay a penalty equal to 25% of the ticket price when they change their flight.
+- The violation carries a penalty `of` up to three years in prison.
+- Currently, ticket holders `pay` a penalty equal to 25% of the ticket price when they change their flight.
 
 ## 3324. penalty ## noun [C]
 /ˈpen.əl.ti/ SPORT
 [B2]an advantage given in some sports to a team or player when the opposing team or player breaks a rule
-- The referee awarded a penalty kick.
+- The referee `awarded` a penalty `kick`.
 
 ## 3325. pension ## noun [C]
 /ˈpen.tʃən/ 
 [B2]a sum of money paid regularly by the government or a private company to a person who has stopped working because they are old or ill
-- a pension plan
-- a public pension fund/system
-- He won't be able to collect his pension until he's 65.
+- a pension `plan`
+- a `public` pension `fund/system`
+- He won't be able to `collect` his pension until he's 65.
 
 ## 3326. percentage ## noun
 /pərˈsen.t̬ɪdʒ/ 
 [B2]an amount of something, often expressed as a number out of 100
 - What percentage of women return to work after having a baby?
-- Interest rates have risen by two percentage points.
+- Interest rates have risen by two percentage `points`.
 
 ## 3327. perfect ## noun [no plural]
  the perfect (tense)
 [B2]the tense of a verb that shows action that has happened in the past or before another time or event
-- the present/past perfect
+- the `present/past` perfect
 - In English, the perfect is formed with a form of the verb "have" and the past participle of the verb - for example, "She has visited Mexico."
 
 ## 3328. performance ## noun
 /pərˈfɔːr.məns/ HOW SUCCESSFUL
 [B2]how successful someone or something is
 - The new suits help swimmers to improve their performance.
-- High-performance cars are the most expensive.
-- This was a very impressive performance by the young player, who scored 12 points within the first 10 minutes.
+- `High-`performance cars are the most expensive.
+- This was a very `impressive` performance by the young player, who scored 12 points within the first 10 minutes.
 
 ## 3329. person ## noun [C]
 /ˈpɜr.sən/ in person
@@ -20002,9 +20002,9 @@
 ## 3333. phase ## noun [C]
 /feɪz/ 
 [B2]a stage or period which is part of a longer period
-- The first phase of the project is likely to be completed by August.
-- We're entering a new phase in international relations.
-- When I was in my early teens I went through a phase of only wearing black.
+- The `first` phase of the project is likely to be completed by August.
+- We're entering a `new` phase `in` international relations.
+- When I was in my early teens I `went through` a phase of only wearing black.
 
 ## 3334. philosopher ## noun [C]
 /fəˈlɑs.ə.fər/ 
@@ -20019,7 +20019,7 @@
 ## 3336. picture ## noun
 /ˈpɪk.tʃər/ IDEA
 [B2]an idea of what something is like
-- After watching the news, I had a clearer picture of what was happening.
+- After watching the news, I had a clearer picture `of` what was happening.
 
 ## 3337. picture ## noun
 /ˈpɪk.tʃər/ TV
@@ -20029,7 +20029,7 @@
 ## 3338. piece ## noun [C]
 /piːs/ ART/LITERATURE/MUSIC
 [B2]an example of artistic, written, or musical work
-- a beautiful piece of music
+- a beautiful piece `of` music
 - an orchestral piece
 - There was an interesting piece on alternative medicine in the newspaper yesterday.
 
@@ -20052,14 +20052,14 @@
 ## 3342. pint ## noun [C]
 /pɑɪnt/ 
 [B2]a measure for liquid equal to half of a quart, or about half a liter
-- a pint of milk/ice cream
-- a pint of beer
+- a pint `of milk/ice cream`
+- a pint `of beer`
 
 ## 3343. pity ## noun
 /ˈpɪt̬.i/ SYMPATHY
 [B2]a feeling of sympathy and understanding for someone else's unhappiness or difficult situation
-- The girl stood watching the old lion in the cage with pity.
-- We took pity on a couple of people waiting in the rain for a bus and gave them a lift.
+- The girl stood watching the old lion in the cage `with` pity.
+- We `took` pity `on` a couple of people waiting in the rain for a bus and gave them a lift.
 
 ## 3344. place ## noun
 /pleɪs/ in place of sth
@@ -20096,19 +20096,19 @@
 ## 3350. platform ## noun [C]
 /ˈplæt.fɔːrm/ RAISED SURFACE
 [B2]a raised surface for people to stand on
-- a viewing platform
+- a `viewing` platform
 - A large platform was set up in the center of the park - that's where the band will perform.
 
 ## 3351. play ## noun
 /pleɪ/ CHILDREN
 [B2]when children enjoy themselves with toys and games
-- a play area
+- a play `area`
 
 ## 3352. plot ## noun [C]
 /plɑt/ STORY
 [B2]the story of a book, movie, play, etc.
 - The movie has a very simple plot.
-- The plots of his books are basically all the same.
+- The plots `of` his books are basically all the same.
 
 ## 3353. plumber ## noun [C]
 /ˈplʌm.ər/ 
@@ -20128,35 +20128,35 @@
 ## 3356. point ## noun
 /pɔɪnt/ IMPORTANT OPINION
 [B2]an opinion or fact that deserves to be considered seriously, or which other people agree is true
-- She's always complaining that the office is cold. - "Well, she's got a point."
-- "How are we going to get there if there are no trains?" - "Good point."
+- She's always complaining that the office is cold. - "Well, she's `got` a point."
+- "How are we going to get there if there are no trains?" - "`Good` point."
 
 ## 3357. point ## noun
 /pɔɪnt/ the point
 [B2]the most important part of what someone says or writes
 - The point is, if you don't claim the money now you might never get it.
-- I think she missed the point of what you were saying.
-- I thought he was never going to get to the point.
+- I think she `missed` the point of what you were saying.
+- I thought he was never going to `get to` the point.
 
 ## 3358. point ## noun
 /pɔɪnt/ REASON
 [B2]the reason for or purpose of something
-- I'd try to explain to her how I feel but there's no point because she won't listen.
-- There's no point in inviting her - she never comes to parties.
-- What's the point of studying if you can't get a job later?
+- I'd try to explain to her how I feel but there's `no` point because she won't listen.
+- There's no point `in` inviting her - she never comes to parties.
+- `What's the` point of studying if you can't get a job later?
 
 ## 3359. point ## noun
 /pɔɪnt/ TIME
 [B2]a particular time or stage in an event or process
-- At one point, he seemed to completely forget what he was saying.
-- At that point, a soldier opened fire.
-- It's got to the point where I can't bear to speak to him.
+- `At` one point, he seemed to completely forget what he was saying.
+- `At` that point, a soldier opened fire.
+- It's `got to` the point `where` I can't bear to speak to him.
 
 ## 3360. point ## noun
 /pɔɪnt/ QUALITY
 [B2]a quality or ability which someone has
-- I know she's bossy but she has lots of good points.
-- Math was never my strong point.
+- I know she's bossy but she has lots of `good` points.
+- Math was never `my strong` point.
 
 ## 3361. point ## noun
 /pɔɪnt/ MATHEMATICS
@@ -20187,8 +20187,8 @@
 ## 3366. point of view ## noun [C]
 /ˌpɔɪn.t̬əvˈvjuː/ WAY OF THINKING
 [B2]a way of thinking about a situation
-- From the point of view of personal savings, the cut in interest rates is bad news.
-- From a medical/scientific point of view, it is an important achievement.
+- `From` the point of view `of` personal savings, the cut in interest rates is bad news.
+- From a `medical/scientific` point of view, it is an important achievement.
 
 ## 3367. poison ## noun [C or U]
 /ˈpɔɪ.zən/ 
@@ -20204,7 +20204,7 @@
 /ˈpɑl.ə.si/ PLAN
 [B2]a set of ideas or a plan of what to do in particular situations that has been agreed to officially by a group of people, a business organization, a government, or a political party
 - They believe that the European Community needs a common foreign and security policy.
-- What is your party's policy on immigration?
+- What is your party's policy `on` immigration?
 
 ## 3370. politeness ## noun [U]
 /pəˈlaɪt.nəs/ 
@@ -20220,7 +20220,7 @@
 /puːl/ LIQUID
 [B2]a small area of water or a small amount of liquid on a surface
 - We dipped our feet in a shallow pool by the rocks.
-- a pool of blood
+- a `pool of` blood
 
 ## 3373. popularity ## noun [U]
 /ˌpɑp.jəˈlær.ət̬.i/ 
@@ -20236,31 +20236,31 @@
 ## 3375. portion ## noun [C]
 /ˈpɔːr.ʃən/ FOOD
 [B2]the amount of food served to one person, especially in a restaurant
-- The portions are very generous in this restaurant.
+- The portions are very `generous` in this restaurant.
 
 ## 3376. portrait ## noun [C]
 /ˈpɔːr.trət/ 
 [B2]a painting, drawing, or photograph of someone
-- a portrait painter
-- She's commissioned an artist to paint her portrait/paint a portrait of her.
+- a portrait `painter`
+- She's commissioned an artist to paint her portrait/paint a portrait `of` her.
 
 ## 3377. position ## noun
 /pəˈzɪʃ.ən/ RANK
 [B2]your level of importance in a company or society
 - the position of women in society
-- Whether or not you get an office with a window depends on your position in the company.
+- Whether or not you get an office with a window depends on your position `in` the company.
 
 ## 3378. position ## noun
 /pəˈzɪʃ.ən/ JOB
 [B2]a job in a company, school, or other organization
-- He held the position for six years.
+- He `held` the position for six years.
 - She applied for a position in the same company I work for.
-- We were able to fill both of the new teaching positions.
+- We were able to `fill` both of the new teaching positions.
 
 ## 3379. possession ## noun
 /pəˈzeʃ.ən/ 
 [B2]something that you own or that you are carrying with you at any time
-- Please remember to take all your personal possessions with you when you leave the aircraft.
+- Please remember to take all your `personal` possessions with you when you leave the aircraft.
 
 ## 3380. possibility ## noun
 /ˌpɑs.əˈbɪl.ət̬.i/ OPTION
@@ -20271,9 +20271,9 @@
 ## 3381. potential ## noun [U]
 /pəˈten.tʃəl/ 
 [B2]someone's or something's ability to develop, achieve or succeed
-- The region has enormous potential for economic development.
-- I don't feel I'm achieving my full potential in my present job.
-- You have the potential to reach the top of your profession.
+- The region has `enormous` potential `for` economic development.
+- I don't feel I'm `achieving` my `full` potential in my present job.
+- You have the potential `to` reach the top of your profession.
 - I think this room has got a lot of potential.
 
 ## 3382. pottery ## noun [U]
@@ -20303,7 +20303,7 @@
 ## 3386. power ## noun
 /ˈpɑʊ.ər/ CONTROL
 [B2]control or influence over people and events
-- I don't have any power over him - he does what he wants to.
+- I don't have any power `over` him - he does what he wants to.
 
 ## 3387. practice ## noun
 /ˈpræk.təs/ be out of practice
@@ -20318,16 +20318,16 @@
 ## 3389. prediction ## noun [C or U]
 /prɪˈdɪk.ʃən/ 
 [B2]when you say what will happen in the future
-- Please don't ask me to make any predictions about tomorrow's meeting.
-- No one believed her prediction that the world would end on November 12.
+- Please don't ask me to `make` any predictions `about` tomorrow's meeting.
+- No one believed her prediction `that` the world would end on November 12.
 
 ## 3390. preference ## noun [C or U]
 /ˈpref.ə.rəns/ 
 [B2]when you like something or someone more than another person or thing
-- We have white and whole wheat bread. Do you have a preference?
-- Her preference is for comfortable rather than stylish clothes.
-- I have a preference for sweet food over spicy.
-- Choosing furniture is largely a matter of personal preference.
+- We have white and whole wheat bread. Do you `have` a preference?
+- Her preference is `for` comfortable rather than stylish clothes.
+- I have a preference `for` sweet food over spicy.
+- Choosing furniture is largely a matter of `personal` preference.
 
 ## 3391. prefix ## noun [C]
 /ˈpriː.fɪks/ 
@@ -20337,23 +20337,23 @@
 ## 3392. prejudice ## noun [C or U]
 /ˈpredʒ.əd.əs/ 
 [B2]an unfair and unreasonable opinion or feeling, especially when formed without enough thought or knowledge
-- Laws against racial prejudice must be strictly enforced.
-- He claims that prejudice against immigrants has increased.
+- Laws against `racial` prejudice must be strictly enforced.
+- He claims that prejudice `against` immigrants has increased.
 
 ## 3393. preparation ## noun
 /ˌprep.əˈreɪ.ʃən/ preparations
 [B2]plans or arrangements that you make to prepare for something
-- wedding preparations
-- We are making preparations to fly Mr. Goodall to the nearest hospital.
-- Preparations for the opening ceremony are well under way.
+- `wedding` preparations
+- We are `making` preparations `to` fly Mr. Goodall to the nearest hospital.
+- Preparations `for` the opening ceremony are well under way.
 
 ## 3394. presence ## noun
 /ˈprez.əns/ IN A PLACE
 [B2]when someone or something is in a place
-- She was anxious about the presence of so many people.
-- The presence of pollen in the atmosphere causes hay fever in some people.
-- He's usually quite polite in my presence.
-- The document was signed in the presence of two witnesses.
+- She was anxious about the presence `of` so many people.
+- The presence `of` pollen in the atmosphere causes hay fever in some people.
+- He's usually quite polite `in` my presence.
+- The document was signed `in the` presence `of` two witnesses.
 
 ## 3395. presentation ## noun
 /ˌprez.ənˈteɪ.ʃən/ CEREMONY
@@ -20364,22 +20364,22 @@
 /ˈprez.əd.ən.si/ 
 [B2]the job of being president, or the period when someone is a president
 - He has announced that he is running for the presidency.
-- She won the presidency by a wide margin.
+- She `won` the presidency by a wide margin.
 
 ## 3397. press ## noun
 /pres/ the press
 [B2]newspapers, magazines, and television, radio, or Internet news organizations, or the people who report the news for them
-- The director hasn't talked to the press yet.
-- the local/national press
-- a press conference/briefing
+- The director hasn't `talked to` the press yet.
+- the `local/national` press
+- a press `conference/briefing`
 
 ## 3398. pressure ## noun
 /ˈpreʃ.ər/ MAKE SOMEONE DO
 [B2]when someone tries to make someone else do something by arguing, persuading, etc.
-- political/peer pressure
-- Teachers are under pressure to work longer hours.
-- He's responding to pressure from local politicians who want the bridge built quickly.
-- He only asked her under pressure from his wife.
+- `political/peer` pressure
+- Teachers are `under` pressure `to` work longer hours.
+- He's responding to pressure `from` local politicians who want the bridge built quickly.
+- He only asked her `under` pressure `from` his wife.
 
 ## 3399. pressure ## noun
 /ˈpreʃ.ər/ put pressure on sb
@@ -20389,22 +20389,22 @@
 ## 3400. pressure ## noun
 /ˈpreʃ.ər/ PROBLEMS
 [B2]a difficult situation that makes you feel worried or unhappy
-- They've been putting a lot of pressure on her at work lately.
-- Be nice to him - he's been under a lot of pressure.
-- Can you work well under pressure?
-- the pressures of work
+- They've been putting `a lot of` pressure `on` her at work lately.
+- Be nice to him - he's been `under` a lot of pressure.
+- Can you work well `under` pressure?
+- the pressures `of` work
 
 ## 3401. prevention ## noun [U]
 /prɪˈven.tʃən/ 
 [B2]when you stop something from happening or stop someone from doing something
-- crime prevention
+- `crime` prevention
 - The organization is committed to disease prevention and education.
 
 ## 3402. pride ## noun [U]
 /prɑɪd/ SATISFACTION
 [B2]a feeling of satisfaction with your achievements or the achievements of your family or friends
-- She felt a great sense of pride as she watched him accept the award.
-- The whole community takes pride in the school.
+- She felt a great `sense of` pride as she watched him accept the award.
+- The whole community `takes` pride `in` the school.
 
 ## 3403. pride ## noun [U]
 /prɑɪd/ RESPECT FOR YOURSELF
@@ -20420,11 +20420,11 @@
 /prɑɪˈɔːr.ət̬.i/ 
 [B2]something that is very important and must be dealt with before other things
 - The people did not seem to consider safety a priority.
-- My top/highest/first priority is to find somewhere to live.
-- It's important to have your priorities straight/right.
-- The school admissions policy is to give priority to students who live in the neighborhood.
-- Street repair is a priority for the town council.
-- Official business will have to take priority over personal requests.
+- My `top/highest/first` priority is to find somewhere to live.
+- It's important to `have` your priorities `straight/right`.
+- The school admissions policy is to `give` priority `to` students who live in the neighborhood.
+- Street repair is a priority `for` the town council.
+- Official business will have to `take` priority `over` personal requests.
 
 ## 3406. privacy ## noun [U]
 /ˈprɑɪ.və.si/ 
@@ -20440,17 +20440,17 @@
 ## 3408. procedure ## noun [C or U]
 /prəˈsiː.dʒər/ 
 [B2]the official or usual way of doing something
-- The company has new procedures for dealing with complaints.
-- You must follow correct procedure at all times.
+- The company has new procedures `for` dealing with complaints.
+- You must `follow` correct procedure at all times.
 
 ## 3409. process ## noun [C]
 /ˈprɑs.es/ ACTIONS
 [B2]a series of actions that you take in order to achieve a result
 - the peace process
 - I didn't know buying a house would be such a long process.
-- The whole process takes about three months.
-- This decision may delay the process of European unification.
-- We're in the process of moving the files to the warehouse.
+- The `whole` process takes about three months.
+- This decision may delay the process `of` European unification.
+- We're `in the` process `of` moving the files to the warehouse.
 
 ## 3410. process ## noun [C]
 /ˈprɑs.es/ CHANGES
@@ -20461,20 +20461,20 @@
 ## 3411. producer ## noun [C]
 /prəˈduː.sər/ 
 [B2]someone who controls how a film, play, program, or musical recording is made
-- a movie/TV/film/Hollywood/Broadway producer
-- a music/record producer
+- a `movie/TV/film/Hollywood/Broadway` producer
+- a `music/record` producer
 
 ## 3412. production ## noun
 /prəˈdʌk.ʃən/ MAKING
 [B2]when you make or grow something
-- Sand is used in the production of glass.
-- The company's new model will be going into production early next year.
+- Sand is used in the production `of` glass.
+- The company's new model will be `going into` production early next year.
 
 ## 3413. production ## noun
 /prəˈdʌk.ʃən/ AMOUNT
 [B2]the amount of something that is made or grown by a country or a company
-- We need to increase production by 20%.
-- Swedish industrial production has fallen steadily this year.
+- We need to `increase` production by 20%.
+- Swedish industrial production has `fallen` steadily this year.
 - Wheat production has risen over the years.
 
 ## 3414. production ## noun
@@ -20501,9 +20501,9 @@
 ## 3418. profit ## noun [C or U]
 /ˈprɑf.ɪt/ 
 [B2]money that you get from selling goods or services for more than they cost to produce or provide
-- She makes a big profit recycling cloth to sell to textile companies.
-- Company profits are down against last year's figures.
-- He sold his house at a huge profit.
+- She `makes` a big profit recycling cloth to sell to textile companies.
+- Company profits are `down` against last year's figures.
+- He sold his house `at a` huge profit.
 
 ## 3419. program ## noun [C]
 /ˈproʊ.græm/ PLAN
@@ -20523,7 +20523,7 @@
 ## 3422. project ## noun [C]
 /ˈprɑdʒ.ekt/ WORK
 [B2]a carefully planned piece of work that has a particular purpose
-- a scientific research project
+- a scientific `research` project
 - My next project is decorating the kitchen.
 - Her latest project is a film based on the life of a nineteenth-century artist.
 
@@ -20535,22 +20535,22 @@
 ## 3424. promotion ## noun
 /prəˈmoʊ.ʃən/ JOB
 [B2]when someone is given a more important job in the same organization
-- Did Steve get the promotion he wanted?
-- The job offers excellent promotion prospects.
+- Did Steve `get` the promotion he wanted?
+- The job offers excellent promotion `prospects`.
 
 ## 3425. promotion ## noun
 /prəˈmoʊ.ʃən/ ADVERTISEMENT
 [B2]activities to advertise something
-- a sales promotion
+- a `sales` promotion
 - They're giving away free T-shirts as a special promotion.
 - As sales manager, he'll be very involved in promotion and marketing of the product.
 
 ## 3426. proof ## noun [U]
 /pruːf/ 
 [B2]a fact or a piece of information that shows something exists or is true
-- She showed us her passport as proof of her identity.
-- You need to bring proof that you live in the town to get a library card.
-- Keep your receipt as proof of purchase.
+- She showed us her passport as proof `of` her identity.
+- You need to bring proof `that` you live in the town to get a library card.
+- Keep your receipt as proof `of purchase`.
 
 ## 3427. proper noun ## noun [C]
 /ˈprɑp.ərˌnɑʊn/ 
@@ -20561,15 +20561,15 @@
 /ˈprɑp.ərt̬.i/ BUILDING
 [B2]a building or area of land
 - He owns a number of properties in the downtown area.
-- The notice said "Private Property, Keep Off."
+- The notice said "`Private` Property, Keep Off."
 
 ## 3429. proposal ## noun [C]
 /prəˈpoʊ.zəl/ PLAN
 [B2]a suggestion for a plan
 - a proposal to raise taxes
-- The proposal for a new football stadium was rejected.
-- State legislators questioned the proposal to decrease unemployment benefits.
-- A proposal that would include moderate income housing and a shopping mall is being considered.
+- The proposal `for` a new football stadium was rejected.
+- State legislators questioned the proposal `to` decrease unemployment benefits.
+- A proposal `that` would include moderate income housing and a shopping mall is being considered.
 
 ## 3430. proposal ## noun [C]
 /prəˈpoʊ.zəl/ MARRY
@@ -20579,41 +20579,41 @@
 ## 3431. prospect ## noun
 /ˈprɑs.pekt/ POSSIBILITY
 [B2]the possibility that something good might happen in the future
-- Is there any prospect of the weather improving?
-- Job prospects for graduates in the sciences are good.
-- We've been warned that there is a prospect of flooding due to the heavy rains.
+- Is there any prospect `of` the weather improving?
+- Job prospects `for` graduates in the sciences are good.
+- We've been warned that there is `a` prospect `of` flooding due to the heavy rains.
 
 ## 3432. prospect ## noun
 /ˈprɑs.pekt/ sb's prospects
 [B2]the possibility of being successful
-- The course will improve his career prospects.
+- The course will improve his `career` prospects.
 
 ## 3433. protection ## noun [U]
 /prəˈtek.ʃən/ 
 [B2]the act of protecting or state of being protected
-- Development of land near the reservoirs is restricted for the protection of the water supply.
-- Their tent gave/offered little protection against the severe storm.
-- These new laws still don't offer enough protection for many endangered species.
+- Development of land near the reservoirs is restricted for the protection `of` the water supply.
+- Their tent `gave/offered` little protection `against` the severe storm.
+- These new laws still don't offer enough protection `for` many endangered species.
 
 ## 3434. protest ## noun [C or U]
 /ˈproʊ.test/ 
 [B2]when people show that they disagree with something by standing somewhere, shouting, carrying signs, etc.
-- a public protest against the war
-- a peaceful/violent protest
+- a public protest `against` the war
+- a `peaceful/violent` protest
 
 ## 3435. psychologist ## noun [C]
 /sɑɪˈkɑl.ə.dʒɪst/ 
 [B2]someone who studies the human mind and human emotions and behavior, and how different situations have an effect on them
-- a child psychologist
-- an educational psychologist
+- a `child` psychologist
+- an `educational` psychologist
 
 ## 3436. psychology ## noun [U]
 /sɑɪˈkɑl.ə.dʒi/ 
 [B2]the scientific study of the way the human mind works and how it influences behavior, or the influence of a particular person's character on their behavior
 - She studied psychology at Harvard.
 - a professor of psychology
-- child psychology
-- the psychology of risk
+- `child` psychology
+- the psychology `of` risk
 
 ## 3437. public ## noun
 /ˈpʌb.lɪk/ in public
@@ -20629,15 +20629,15 @@
 /ˌpʌb.ləˈkeɪ.ʃən/ PRINTING
 [B2]the act of making information or stories available to people in a printed form
 - The brochure will be ready for publication in September.
-- Will you arrange for publication of the names of the winners?
-- When is the publication date?
+- Will you arrange for publication `of` the names of the winners?
+- When is the publication `date`?
 
 ## 3440. publicity ## noun [U]
 /pʌbˈlɪs.ət̬.i/ 
 [B2]advertising or information about someone or something in the newspaper, on television, etc.
-- bad/good publicity
-- We've planned an exciting publicity campaign.
-- The band's arrival in a hot-air balloon was just a publicity stunt.
+- `bad/good` publicity
+- We've planned an exciting publicity `campaign`.
+- The band's arrival in a hot-air balloon was just a publicity `stunt`.
 
 ## 3441. publisher ## noun [C]
 /ˈpʌb.lɪʃ.ər/ 
@@ -20659,7 +20659,7 @@
 /ˈpʌn.ɪʃ.mənt/ 
 [B2]when someone is punished
 - He had to stay in his bedroom as a punishment for fighting.
-- Many people think that the death penalty is too severe a punishment for any crime.
+- Many people think that the death penalty is too severe a punishment `for` any crime.
 
 ## 3445. purchase ## noun
 /ˈpɜr.tʃəs/ THING BOUGHT
@@ -20670,16 +20670,16 @@
 ## 3446. purchase ## noun
 /ˈpɜr.tʃəs/ ACT OF BUYING
 [B2]the act of buying something
-- New restrictions have been placed on the purchase of land near the reservoir.
-- A house is the most expensive purchase that most people ever make.
+- New restrictions have been placed on the purchase `of` land near the reservoir.
+- A house is the most expensive purchase that most people ever `make`.
 - No purchase is necessary to enter this contest.
-- To receive a refund, you must return the items along with the receipt as proof of purchase.
+- To receive a refund, you must return the items along with the receipt as `proof of` purchase.
 
 ## 3447. qualification ## noun
 /ˌkwɑl.ə.fəˈkeɪ.ʃən/ ABILITY
 [B2]skills, experience, education, etc., that provide you with the ability do something, especially a job
 - My qualifications for this position include a degree in biochemistry and three years research experience.
-- I'm not sure if I meet the qualifications for membership.
+- I'm not sure if I `meet` the qualifications for membership.
 
 ## 3448. qualification ## noun
 /ˌkwɑl.ə.fəˈkeɪ.ʃən/ LEVEL
@@ -20689,10 +20689,10 @@
 ## 3449. quality ## noun
 /ˈkwɑl.ət̬.i/ CHARACTER
 [B2]a part of someone's character
-- leadership qualities
-- He has a lot of good qualities but being organized isn't one of them.
-- She's a woman of great personal qualities.
-- I don't think he has the right qualities to be a teacher.
+- `leadership` qualities
+- He has a lot of `good` qualities but being organized isn't one of them.
+- She's a woman of great `personal` qualities.
+- I don't think he has the right qualities `to` be a teacher.
 
 ## 3450. quantity ## noun [C or U]
 /ˈkwɑnt.ət̬.i/ LARGE AMOUNT
@@ -20702,8 +20702,8 @@
 ## 3451. quarrel ## noun [C]
 /ˈkwɑr.əl/ 
 [B2]an argument
-- She had a quarrel with her neighbor.
-- They had a quarrel about/over money a few months back.
+- She `had` a quarrel `with` her neighbor.
+- They had a quarrel `about/over` money a few months back.
 
 ## 3452. quarter ## noun
 /ˈkwɔːr.t̬.ər/ MONEY
@@ -20713,22 +20713,22 @@
 ## 3453. question ## noun
 /ˈkwes.tʃən/ PROBLEM
 [B2]a situation or problem that needs to be dealt with or considered
-- This raises the question of teacher pay.
+- This `raises` the question of teacher pay.
 - Two important questions come out of this debate.
 
 ## 3454. question ## noun
 /ˈkwes.tʃən/ DOUBT
 [B2]doubt or uncertainty
-- There's no question that this was an accidental fire.
-- There's no question about whose fault it is.
-- Whether children are reading fewer books is open to question.
-- This latest report calls into question the safety of the drug.
-- His ability has never been in question.
+- There's `no` question that this was an accidental fire.
+- There's no question `about` whose fault it is.
+- Whether children are reading fewer books is `open to` question.
+- This latest report `calls into` question the safety of the drug.
+- His ability has never been `in` question.
 
 ## 3455. quiet ## noun [U]
 /ˈkwɑɪ.ət/ 
 [B2]when there is little or no noise
-- She needs a some peace and quiet.
+- She needs a some `peace and` quiet.
 
 ## 3456. quotation marks ## noun [plural]
 /kwoʊˈteɪ.ʃənˌmɑːks/ 
@@ -20744,44 +20744,44 @@
 /reɪdʒ/ ANGER
 [B2]very strong anger that you cannot control
 - My main feeling was one of rage.
-- I was frightened because I had never seen him in such a rage before.
-- He flew into a rage over the smallest mistake.
+- I was frightened because I had never seen him `in` such `a` rage before.
+- He `flew into a` rage over the smallest mistake.
 
 ## 3459. rainbow ## noun [C]
 /ˈreɪn.boʊ/ 
 [B2]a half circle of seven colors that you see in the sky when rain is falling and the sun is shining
 - We could see a rainbow.
-- The butterfly's wings were shimmering with all the colors of the rainbow.
+- The butterfly's wings were shimmering with `all the colors of the` rainbow.
 
 ## 3460. range ## noun
 /reɪndʒ/ AMOUNT
 [B2]the amounts or numbers between a particular set of limits
-- That's too expensive - it's out of our price range.
-- The product is aimed at young people in the 18 to 25 age range.
+- That's too expensive - it's `out of` our `price` range.
+- The product is aimed at young people in the 18 to 25 `age` range.
 
 ## 3461. rape ## noun [C or U]
 /reɪp/ 
 [B2]the crime of forcing someone to have sex when they do not want to
-- He had committed several rapes.
+- He had `committed` several rapes.
 - He was convicted of rape.
 
 ## 3462. rate ## noun [C]
 /reɪt/ HOW MANY
 [B2]how often something happens, or how many people something happens to
-- the rate of unemployment
-- The birth rate has fallen.
-- The drug has a high success/failure rate.
+- `the` rate `of` unemployment
+- The `birth` rate has fallen.
+- The drug has a high `success/failure` rate.
 
 ## 3463. rate ## noun [C]
 /reɪt/ PAYMENT
 [B2]a fixed amount of money given for something
-- the interest rate
-- Rates of pay are very low.
+- the `interest` rate
+- Rates `of pay` are very low.
 
 ## 3464. ray ## noun [C]
 /reɪ/ 
 [B2]a narrow beam of light, heat, or energy traveling in a straight line from its place of origin
-- A ray of sunshine shone through a gap in the clouds.
+- A ray `of` sunshine shone through a gap in the clouds.
 - Light rays bend as they pass from air to water.
 
 ## 3465. razor ## noun [C]
@@ -20792,35 +20792,35 @@
 ## 3466. reach ## noun [U]
 /riːtʃ/ DISTANCE
 [B2]the distance that can be traveled, especially easily
-- We live within(easy) reach of the station.
+- We live `within``(easy)` reach of the station.
 
 ## 3467. reach ## noun [U]
 /riːtʃ/ TOUCH
 [B2]Someone's reach is the distance within which they can stretch out their arm and touch something.
-- I like to keep a notebook and pencil within reach.
-- The top shelf is out of reach.
-- Make sure that you keep all medicines out of the reach of children.
+- I like to keep a notebook and pencil `within` reach.
+- The top shelf is `out of` reach.
+- Make sure that you keep all medicines `out of` the reach `of` children.
 
 ## 3468. reaction ## noun [C]
 /riːˈæk.ʃən/ CAUSED BY SOMETHING
 [B2]something you say, feel, or do because of something that has happened
-- What was his reaction to the news?
-- Reactions to the proposal have been mixed.
+- What was his reaction `to` the news?
+- Reactions `to` the proposal have been mixed.
 - I love to watch people's reactions when I say who I am.
-- There has been a widespread reaction against the government's proposed tax increases.
+- There has been a widespread reaction `against` the government's proposed tax increases.
 
 ## 3469. reaction ## noun [C]
 /riːˈæk.ʃən/ BAD EFFECT
 [B2]an unpleasant effect resulting from eating particular things or taking particular drugs
-- A number of people have had a bad reaction to this medication.
-- Some people have an allergic reaction to seafood.
+- A number of people have `had a` bad reaction `to` this medication.
+- Some people have an `allergic` reaction to seafood.
 
 ## 3470. reality ## noun
 /riːˈæl.ət̬.i/ FACTS
 [B2]the way things or situations really are and not the way you would like them to be
-- Listening to music is my escape from reality.
-- Sooner or later you have to face up to reality.
-- He may seem charming but in reality he's actually an unpleasant person.
+- Listening to music is my `escape from` reality.
+- Sooner or later you have to `face up to` reality.
+- He may seem charming but `in` reality he's actually an unpleasant person.
 
 ## 3471. reality ## noun
 /riːˈæl.ət̬.i/ the reality/realities of sth
@@ -20835,9 +20835,9 @@
 ## 3473. reason ## noun
 /ˈriː.zən/ RIGHT
 [B2]something that makes it right for you to think or do something
-- I think we have reason to be concerned.
-- They cancelled their vacation for some reason.
-- She suddenly left, for no reason.
+- I think we have reason `to` be concerned.
+- They cancelled their vacation `for some` reason.
+- She suddenly left, `for no` reason.
 
 ## 3474. rebel ## noun [C]
  
@@ -20853,57 +20853,57 @@
 ## 3476. reception ## noun
 /rəˈsep.ʃən/ 
 [B2]a formal party that is given to celebrate a special event or to welcome someone
-- a wedding reception
+- a `wedding` reception
 
 ## 3477. recession ## noun [C or U]
 /rɪˈseʃ.ən/ 
 [B2]a period when the economy of a country is not successful and conditions for business are bad
-- The latest report confirms that the economy is in recession.
-- The country is now in the deepest/worst recession in over 40 years.
+- The latest report confirms that the economy is `in` recession.
+- The country is now in the `deepest/worst` recession in over 40 years.
 
 ## 3478. recommendation ## noun
 /ˌrek.ə.mənˈdeɪ.ʃən/ 
 [B2]a piece of advice about what to do in a particular situation
-- The report doesn't make/offer any new recommendations.
+- The report doesn't `make/offer` any new recommendations.
 - It's my recommendation that this factory be closed immediately.
-- I bought this computer on John's recommendation.
+- I bought this computer `on` John's recommendation.
 
 ## 3479. record ## noun
  INFORMATION
 [B2]information that is written on paper or stored on computer so that it can be used in the future
-- medical/dental records
-- My teacher keeps a record of absences.
-- This summer has been the hottest on record.
+- `medical/dental` records
+- My teacher `keeps` a record `of` absences.
+- This summer has been the hottest `on` record.
 
 ## 3480. recording ## noun
 /rəˈkɔːrd.ɪŋ/ PROCESS
 [B2]the process or business of putting sounds, especially music, onto a disc, magnetic tape, etc., using electronic equipment
-- a recording studio
+- a recording `studio`
 
 ## 3481. recovery ## noun
 /rəˈkʌv.ə.ri/ 
 [B2]when you feel better or happier again after an illness, injury, or period of sadness
-- She only had the operation last month but she's made a full recovery.
+- She only had the operation last month but she's `made a` full recovery.
 
 ## 3482. recreation ## noun [C or U]
 /ˌrek.riːˈeɪ.ʃən/ 
 [B2]activities that you do for enjoyment when you are not working
-- Emma's only form of recreation seems to be shopping.
-- a recreation area/center
+- Emma's only `form of` recreation seems to be shopping.
+- a recreation `area/center`
 
 ## 3483. recycling ## noun [U]
 /riːˈsɑɪ.klɪŋ/ MATERIALS
 [B2]materials such as paper, glass, and plastic that you collect to be recycled
 - We put out our recycling for pickup on Tuesdays.
-- Put this with the recycling.
+- Put this with `the` recycling.
 - I took out the recycling.
-- Please bring the bottles and cans out and put them in the recycling bin.
+- Please bring the bottles and cans out and put them in the recycling `bin`.
 
 ## 3484. reduction ## noun [C or U]
 /rɪˈdʌk.ʃən/ 
 [B2]when something is reduced
-- a reduction in traffic
-- huge price reductions
+- a reduction `in` traffic
+- huge `price` reductions
 
 ## 3485. referee ## noun [C]
 /ˌref.əˈriː/ 
@@ -20923,7 +20923,7 @@
 ## 3488. reference ## noun
 /ˈref.rəns/ LETTER
 [B2]a letter that is written by someone who knows you, to say why you are a good person for a particular job, school, honor, etc.
-- My economics professor said he would write/give me a reference.
+- My economics professor said he would `write/give` me a reference.
 
 ## 3489. reflection ## noun
 /rɪˈflek.ʃən/ IMAGE
@@ -20933,7 +20933,7 @@
 ## 3490. refugee ## noun [C]
 /ˌref.jʊˈdʒiː/ 
 [B2]someone who has been forced to leave their country, especially because of a war
-- a refugee camp
+- a refugee `camp`
 - Thousands of refugees fled across the border.
 
 ## 3491. regard ## noun [U]
@@ -20944,16 +20944,16 @@
 ## 3492. regret ## noun [C or U]
 /rɪˈgret/ 
 [B2]a feeling of sadness about a situation, often something that you wish you had not done
-- I quit school at 18, but I've had a great life and I have no regrets.
-- My only regret is that we didn't invite James.
-- She expressed regret for letting her friends down.
-- It is with deep/great regret that I announce Steve Adam's resignation.
+- I quit school at 18, but I've had a great life and I `have no` regrets.
+- My `only` regret is that we didn't invite James.
+- She `expressed` regret for letting her friends down.
+- It is `with deep/great` regret that I announce Steve Adam's resignation.
 
 ## 3493. regulation ## noun
 /ˌreg.jəˈleɪ.ʃən/ RULE
 [B2]an official rule that controls how something is done
-- building/safety/traffic regulations
-- There are various rules and regulations governing the procedure.
+- `building/safety/traffic` regulations
+- There are various `rules and` regulations governing the procedure.
 
 ## 3494. rehearsal ## noun [C or U]
 /rɪˈhɜr.səl/ 
@@ -20963,14 +20963,14 @@
 ## 3495. relation ## noun
 /rəˈleɪ.ʃən/ relations
 [B2]the way in which two people or groups of people feel and behave toward each other
-- Relations between the parties are strained and an end to negotiations isn't in sight.
-- business/economic relations
-- diplomatic relations
+- Relations `between` the parties are strained and an end to negotiations isn't in sight.
+- `business/economic` relations
+- `diplomatic` relations
 
 ## 3496. relation ## noun
 /rəˈleɪ.ʃən/ CONNECTION
 [B2]a connection between two or more things
-- There was little relation between the book and the movie.
+- There was little relation `between` the book and the movie.
 
 ## 3497. relation ## noun
 /rəˈleɪ.ʃən/ in relation to sth
@@ -20985,7 +20985,7 @@
 ## 3499. relationship ## noun [C]
 /rəˈleɪ.ʃənˌʃɪp/ CONNECTION
 [B2]the way in which two things are connected
-- the relationship between sunburn and skin cancer
+- the relationship `between` sunburn `and` skin cancer
 
 ## 3500. release ## noun [C]
 /rɪˈliːs/ 
@@ -20995,38 +20995,38 @@
 ## 3501. relief ## noun
 /rɪˈliːf/ GOOD FEELING
 [B2]the good feeling that you have when something unpleasant stops or does not happen
-- It'll be such a relief when these exams are over.
-- "James can come tonight." "Well, that's a relief!"
-- I felt such a sense of relief when we finished the project.
+- `It'll be` such `a` relief when these exams are over.
+- "James can come tonight." "Well, `that's a` relief!"
+- I felt such a `sense of` relief when we finished the project.
 
 ## 3502. remains ## noun [plural]
 /rəˈmeɪnz/ 
 [B2]pieces or parts of something that continue to exist when most of it has been used, destroyed, or taken away
-- The remains of lunch were still on the table.
-- We visited the remains of a 12th-century castle.
+- The remains `of` lunch were still on the table.
+- We visited the remains `of` a 12th-century castle.
 
 ## 3503. remark ## noun [C]
 /rəˈmɑrk/ 
 [B2]something that you say, showing your opinion about something or stating a fact
-- He made a remark about the new carpet.
-- Her remarks on the employment question led to a heated discussion.
+- He `made` a remark about the new carpet.
+- Her remarks `on` the employment question led to a heated discussion.
 
 ## 3504. remedy ## noun [C]
 /ˈrem.əd.i/ FOR AN ILLNESS
 [B2]something that makes you better when you are ill
 - a cold remedy
-- an effective herbal remedy for headaches
+- an effective herbal remedy `for` headaches
 
 ## 3505. remedy ## noun [C]
 /ˈrem.əd.i/ FOR A PROBLEM
 [B2]something that solves a problem
-- The remedy for the traffic problem is to encourage people to use public transportation.
+- The remedy `for` the traffic problem is to encourage people to use public transportation.
 
 ## 3506. replacement ## noun
 /rəˈpleɪs.mənt/ THING OR PERSON
 [B2]the thing or person that replaces something or someone
-- The agency sent a replacement for the secretary who resigned.
-- It's not going to be easy to find a replacement for you.
+- The agency sent a replacement `for` the secretary who resigned.
+- It's not going to be easy to `find` a replacement for you.
 
 ## 3507. representative ## noun [C]
 /ˌrep.rɪˈzent.ət̬.ɪv/ 
@@ -21036,17 +21036,17 @@
 ## 3508. reputation ## noun [C or U]
 /ˌrep.jəˈteɪ.ʃən/ 
 [B2]the opinion that people have about someone or something based on their behavior or character in the past
-- The company has a worldwide reputation for quality.
-- Both hotels have a good reputation.
-- He quickly earned a reputation as an entertaining speaker.
+- The company `has` a worldwide reputation `for` quality.
+- Both hotels `have` a `good` reputation.
+- He quickly `earned` a reputation `as` an entertaining speaker.
 
 ## 3509. requirement ## noun [C]
 /rəˈkwɑɪr.mənt/ 
 [B2]something that you must do, or something you need
-- A college degree is a minimum requirement for many jobs.
-- Valid insurance is a legal requirement.
-- Students who fail to meet the requirements of the course will fail.
-- college entrance requirements
+- A college degree is a minimum requirement `for` many jobs.
+- Valid insurance is a `legal` requirement.
+- Students who fail to `meet` the requirements `of` the course will fail.
+- college `entrance` requirements
 
 ## 3510. researcher ## noun [C]
 /rəˈsɜrtʃ.ər/ 
@@ -21056,13 +21056,13 @@
 ## 3511. resident ## noun [C]
 /ˈrez.əd.ənt/ 
 [B2]someone who lives in a particular place
-- a resident of New York/the UK/Brazil
-- Local residents were angry at the lack of parking spaces.
+- a resident `of` New York/the UK/Brazil
+- `Local` residents were angry at the lack of parking spaces.
 
 ## 3512. resource ## noun [C]
 /ˈriː.sɔːrs/ 
 [B2]something useful that a country, person, or organization has which they can use
-- natural resources
+- `natural` resources
 - The library was a valuable resource, and he frequently made use of it.
 - Local mineral resources include oil, coal and gas deposits.
 
@@ -21080,8 +21080,8 @@
 ## 3515. response ## noun [C or U]
 /rɪˈspɑns/ ANSWER
 [B2]an answer or reaction to something that has been said or done
-- Responses to our advertisement have been disappointing.
-- The dean's comments provoked an angry response from students.
+- Responses `to` our advertisement have been disappointing.
+- The dean's comments provoked an angry response `from` students.
 - Her proposals met with an enthusiastic response.
 
 ## 3516. response ## noun [C or U]
@@ -21094,9 +21094,9 @@
 /rɪˌspɑn.səˈbɪl.ət̬.i/ DUTY
 [B2]something that it is your job or duty to deal with
 - The head of the department has various additional responsibilities.
-- It is your responsibility to make sure that your homework is done on time.
-- She takes her responsibilities as a nurse very seriously.
-- Jenny, you have responsibility for clearing up the room after the class.
+- It is your responsibility `to` make sure that your homework is done on time.
+- She `takes` her responsibilities as a nurse very `seriously`.
+- Jenny, you `have` responsibility `for` clearing up the room after the class.
 
 ## 3518. responsibility ## noun [C or U]
 /rɪˌspɑn.səˈbɪl.ət̬.i/ take/accept/claim responsibility for sth
@@ -21106,8 +21106,8 @@
 ## 3519. retirement ## noun [C or U]
 /rɪˈtɑɪr.mənt/ LEAVING JOB
 [B2]when you leave your job and stop working, usually because you are old
-- Many teachers over the age of 50 are taking early retirement.
-- What is the normal retirement age in this country?
+- Many teachers over the age of 50 are `taking early` retirement.
+- What is the normal retirement `age` in this country?
 
 ## 3520. retirement ## noun [C or U]
 /rɪˈtɑɪr.mənt/ LIFE PERIOD
@@ -21117,13 +21117,13 @@
 ## 3521. return ## noun
 /rɪˈtɜrn/ in return
 [B2]in exchange for something or as a reaction to something
-- I'd like to give them something in return for everything they've done for us.
+- I'd like to give them something in return `for` everything they've done for us.
 
 ## 3522. revenge ## noun [U]
 /rɪˈvendʒ/ 
 [B2]something that you do to punish someone who has done something bad to you
-- He's made life very difficult for me but I'll get/take my revenge.
-- He was looking for revenge against those who had helped oust him from his leadership position.
+- He's made life very difficult for me but I'll `get/take` my revenge.
+- He was looking `for` revenge `against` those who had helped oust him from his leadership position.
 
 ## 3523. revolution ## noun
 /ˌrev.əˈluː.ʃən/ POLITICS
@@ -21134,13 +21134,13 @@
 /ˌrev.əˈluː.ʃən/ CHANGE
 [B2]a very important change in the way that people do things
 - a technological revolution
-- Penicillin produced a revolution in medicine.
+- Penicillin produced a revolution `in` medicine.
 
 ## 3525. rhythm ## noun [C or U]
 /ˈrɪð.əm/ 
 [B2]a regular, repeating pattern of sound or movement
 - He beat out a jazz rhythm on the drums.
-- I've got no sense of rhythm, so I'm a terrible dancer.
+- I've got no `sense of` rhythm, so I'm a terrible dancer.
 - She lay back in the boat, feeling the gentle rhythm of the waves.
 
 ## 3526. rib ## noun [C]
@@ -21151,13 +21151,13 @@
 ## 3527. right ## noun
 /rɑɪt/ BEHAVIOR
 [B2]morally correct behavior
-- I've tried to teach them the difference between right and wrong.
+- I've tried to teach them the difference between right `and wrong`.
 
 ## 3528. right ## noun
 /rɑɪt/ LAW
 [B2]something that the law allows you to do
-- the right to free speech
-- the right to vote
+- ` the` right `to` free speech
+- ` the` right `to` vote
 
 ## 3529. ring ## noun [C]
 /rɪŋ/ CIRCLE
@@ -21172,23 +21172,23 @@
 ## 3531. rise ## noun [C]
 /rɑɪz/ INCREASE
 [B2]an increase in the level of something
-- a sudden rise in temperature
+- a sudden rise `in` temperature
 - Inflation is on the rise.
 
 ## 3532. risk ## noun
 /rɪsk/ BAD POSSIBILITY
 [B2]the possibility of something bad happening
-- the risk of heart disease
-- There is a slight risk that the wound could have become infected.
-- We want clean rivers and lakes, where you can swim without risk to your health.
-- It's a low/high-risk strategy.
+- the risk `of` heart disease
+- There is a `slight` risk `that` the wound could have become infected.
+- We want clean rivers and lakes, where you can swim without risk `to` your health.
+- It's a `low/high-`risk strategy.
 
 ## 3533. risk ## noun
 /rɪsk/ at risk
 [B2]being in a situation where something bad is likely to happen
-- All houses on the lake front are at risk of flooding.
+- All houses on the lake front are at risk `of` flooding.
 - A child who hasn’t been vaccinated is at risk.
-- Releasing these prisoners puts the public at risk.
+- Releasing these prisoners `puts` the public at risk.
 
 ## 3534. risk ## noun
 /rɪsk/ take a risk
@@ -21198,9 +21198,9 @@
 ## 3535. robbery ## noun [C or U]
 /ˈrɑb.ə.ri/ 
 [B2]the crime of stealing from somewhere or someone
-- a bank robbery
-- The gang admitted they had committed four recent robberies.
-- He is in prison for armed robbery.
+- a `bank` robbery
+- The gang admitted they had `committed` four recent robberies.
+- He is in prison for `armed` robbery.
 
 ## 3536. rocket ## noun [C]
 /ˈrɑk.ɪt/ VEHICLE
@@ -21210,9 +21210,9 @@
 ## 3537. role ## noun [C]
 /roʊl/ PURPOSE
 [B2]the job someone or something has in a particular situation
-- What is his role in this project?
-- This part of the brain plays an important role in learning.
-- Six people have been put on trial for their role in the demonstrations.
+- What is his role `in` this project?
+- This part of the brain `plays an` important role `in` learning.
+- Six people have been put on trial for their role `in` the demonstrations.
 
 ## 3538. roll ## noun [C]
 /roʊl/ TUBE
@@ -21222,18 +21222,18 @@
 ## 3539. root ## noun [C]
 /ruːt/ PLANT PART
 [B2]the part of a plant that grows under the ground and gets water and food from the soil
-- These plants have really deep roots.
+- These plants have really `deep` roots.
 
 ## 3540. root ## noun [C]
 /ruːt/ roots
 [B2]where someone or something originally comes from
-- the roots of modern jazz
+- the roots `of` modern jazz
 
 ## 3541. rope ## noun [C or U]
 /roʊp/ FOR TYING
 [B2]very thick string made from twisted thread
 - We tied the boat to a post with a length of rope.
-- a coil of rope
+- a `coil of` rope
 
 ## 3542. round ## noun [C]
 /rɑʊnd/ first/second/third/final, etc., round
@@ -21254,13 +21254,13 @@
 /ruːl/ USUAL WAY
 [B2]the usual way something is
 - an exception to the rule
-- I visit my parents on Sunday, as a rule.
+- I visit my parents on Sunday, `as a` rule.
 
 ## 3546. rumor ## noun [C or U]
 /ˈruː.mər/ 
 [B2]information that a lot of people are talking about although they do not know if it is true
 - Rumors about teacher layoffs are circulating at school.
-- You shouldn't be spreading rumors!
+- You shouldn't be `spreading` rumors!
 
 ## 3547. run ## noun [C]
 /rʌn/ SPORTS
@@ -21277,13 +21277,13 @@
 [B2]when you have to hurry or move somewhere quickly
 - Slow down! What's the rush?
 - Why is it always such a rush to get ready in the mornings?
-- Everyone seemed to be in a rush.
-- He was in a rush to get home.
+- Everyone seemed to be `in a` rush.
+- He was in a rush `to` get home.
 
 ## 3550. rush hour ## noun [C or U]
 /ˈrʌʃ.ɑʊr/ 
 [B2]the time when a lot of people are traveling to or from work and so roads and trains are very busy
-- the morning/evening rush hour
+- the `morning/evening` rush hour
 - I always try to travel outside the rush hours.
 
 ## 3551. sadness ## noun [U]
@@ -21296,10 +21296,10 @@
 [B2]the state of being safe, or a place or situation where someone or something is safe
 - food/road safety
 - Fire officials worry about the safety of those heaters.
-- For your (comfort and) safety, we recommend you keep your seat belt loosely fastened during the flight.
-- Journalists may enter the danger zone but unfortunately we cannot guarantee their safety.
-- They all ran/dived for safety behind trees.
-- Police are concerned for the safety of the five-year-old.
+- `For` your (comfort and) safety, we recommend you keep your seat belt loosely fastened during the flight.
+- Journalists may enter the danger zone but unfortunately we cannot `guarantee` their safety.
+- They all `ran/dived for` safety behind trees.
+- Police are `concerned for` the safety `of` the five-year-old.
 
 ## 3553. sake ## noun
 /seɪk/ for the sake of sb/sth; for sb's/sth's sake
@@ -21307,7 +21307,7 @@
 - Please do it, for David's sake.
 - She tried to look healthy, for her family’s sake.
 - I hope for both our sakes that you're right!
-- You should act on his advice, for your own sake.
+- You should act on his advice, for your `own` sake.
 - For the sake of convenience, they combined the two departments.
 - For safety's sake, you shouldn't swim alone.
 
@@ -21316,7 +21316,7 @@
 [B2]the act of selling something, or the time when something is sold
 - The school raised money from book sales, bake sales, and individual contributors.
 - The building company gets a 10 percent commission on each house sale.
-- I haven't made a sale all morning.
+- I haven't `made` a sale all morning.
 
 ## 3555. sale ## noun
 /seɪl/ sales
@@ -21326,30 +21326,30 @@
 ## 3556. sample ## noun [C]
 /ˈsæm.pəl/ PART OF GROUP
 [B2]a small number of people from a larger group that is being tested or considered
-- a random sample of voters
-- a nationally representative sample of 200 schools
+- a `random` sample `of` voters
+- a nationally `representative` sample `of` 200 schools
 
 ## 3557. sample ## noun [C]
 /ˈsæm.pəl/ SMALL AMOUNT
 [B2]a small amount of something that shows you what it is like
-- a free sample of chocolate
-- She brought in some samples of her work.
-- samples of carpet/curtain material
+- a `free` sample of chocolate
+- She brought in some samples `of` her work.
+- samples `of` carpet/curtain material
 
 ## 3558. satellite ## noun [C]
 /ˈsæ.t̬əlˌɑɪt/ 
 [B2]a piece of equipment that is sent into space around the Earth to receive and send signals or to collect information
-- The World Cup was transmitted around the world by satellite.
-- satellite television/TV
+- The World Cup was transmitted around the world `by` satellite.
+- satellite `television/TV`
 - a TV/weather satellite
 
 ## 3559. satisfaction ## noun [U]
 /ˌsæt̬.əsˈfæk.ʃən/ FEELING
 [B2]a pleasant feeling that you get when you receive something you wanted, or when you have done something you wanted to do
-- She looked at the finished painting with satisfaction.
-- She got great satisfaction from/out of helping other people.
+- She looked at the finished painting `with` satisfaction.
+- She got great satisfaction `from/out of` helping other people.
 - For me, job satisfaction is more important than the money.
-- She had the satisfaction of knowing that she'd done everything she could.
+- She `had` the satisfaction `of` knowing that she'd done everything she could.
 
 ## 3560. savings ## noun [plural]
 /ˈseɪ.vɪŋz/ MONEY
@@ -21360,55 +21360,55 @@
 /skeɪl/ SIZE
 [B2]the size or level of something
 - We don't yet know the scale of the problem.
-- The blackout caused rush-hour travel disruptions on a massive scale.
-- My parents used to entertain friends on a large/small scale.
+- The blackout caused rush-hour travel disruptions `on` a massive scale.
+- My parents used to entertain friends `on a large/small` scale.
 
 ## 3562. scale ## noun
 /skeɪl/ MEASURE
 [B2]a set of numbers, amounts, etc., used to measure or compare the level of something
 - the Centigrade/Fahrenheit scale
-- How would you rate his work on a scale of 1 to 5?
+- How would you rate his work `on a` scale `of` 1 to 5?
 
 ## 3563. scale ## noun
 /skeɪl/ COMPARISON
 [B2]how the size of things on a map, model, etc. relates to the same things in real life
 - a scale of 1:50 000
-- This map is large scale.
-- Is the bridge drawn to scale?
-- He was building a scale model of Concorde.
+- This map is `large` scale.
+- Is the bridge drawn `to` scale?
+- He was building a scale `model` of Concorde.
 
 ## 3564. scale ## noun
 /skeɪl/ WEIGHING DEVICE
 [B2]a piece of equipment for measuring weight
-- A kitchen/bathroom scale
+- A `kitchen/bathroom` scale
 
 ## 3565. scandal ## noun [C or U]
 /ˈskæn.dəl/ 
 [B2]something that shocks people because they think it is morally wrong
-- a financial/political scandal
-- If there is the slightest suggestion/hint of scandal, the public will no longer trust us.
-- People withdrew their money from banks caught up in the scandal.
-- It's a scandal (that) children could be treated in this way.
+- a `financial/political` scandal
+- If there is the slightest `suggestion/hint` of scandal, the public will no longer trust us.
+- People withdrew their money from banks` caught up in` the scandal.
+- It's a scandal `(that)` children could be treated in this way.
 
 ## 3566. scar ## noun [C]
 /skɑr/ ON SKIN
 [B2]a permanent mark left on the body from a cut or other injury
 - an ugly scar
-- That burn will leave a nasty scar.
+- That burn will `leave` a nasty scar.
 
 ## 3567. scene ## noun
 /siːn/ VIEW
 [B2]a view or picture of a place, event, or activity
 - Lowry painted street scenes.
 - scenes of everyday life
-- There were scenes of great joy as the students were reunited with their families.
+- There were scenes `of` great joy as the students were reunited with their families.
 
 ## 3568. scene ## noun
 /siːn/ PLACE
 [B2]a place where an unpleasant event has happened
-- He was convicted of leaving the scene of an accident.
-- Dozens of firefighters quickly arrived on the scene.
-- Evidence was found at the scene of the crime.
+- He was convicted of leaving the scene `of` an accident.
+- Dozens of firefighters quickly arrived `on the` scene.
+- Evidence was found at the scene `of the crime`.
 
 ## 3569. scene ## noun
 /siːn/ the fashion/music/club, etc. scene
@@ -21418,15 +21418,15 @@
 ## 3570. scent ## noun [C]
 /sent/ 
 [B2]a pleasant smell
-- the sweet scent of orange blossom
+- the `sweet` scent of orange blossom
 
 ## 3571. schedule ## noun [C]
 /ˈskedʒ.uːl/ 
 [B2]a plan that gives events or activities and the times that they will happen or be done
-- I have a very busy schedule today.
-- Will the work be completed on schedule?
-- The project was finished ahead of schedule.
-- Everything went according to schedule.
+- I have a very `busy` schedule today.
+- Will the work be completed `on` schedule?
+- The project was finished `ahead of` schedule.
+- Everything went `according to` schedule.
 
 ## 3572. scheme ## noun [C]
 /skiːm/ 
@@ -21442,7 +21442,7 @@
 ## 3574. script ## noun
 /skrɪpt/ 
 [B2]the words written for and spoken in a film, play, broadcast or speech
-- Bruce Robinson wrote the script for "The Killing Fields."
+- Bruce Robinson wrote the script `for` "The Killing Fields."
 
 ## 3575. seal ## noun [C]
 /siːl/ 
@@ -21452,7 +21452,7 @@
 ## 3576. search ## noun
 /sɜrtʃ/ FIND ANSWER
 [B2]when you try to find an answer to a problem
-- the search for happiness
+- the search `for` happiness
 - Doctors are working hard in their search for a cure.
 
 ## 3577. season ## noun [C]
@@ -21464,7 +21464,7 @@
 /ˈsiː.krət/ the secret
 [B2]the best way of achieving something
 - That's the secret to making a good tomato sauce.
-- So what's the secret of your success?
+- So what's the secret `of` your success?
 
 ## 3579. secret ## noun
 /ˈsiː.krət/ in secret
@@ -21474,20 +21474,20 @@
 ## 3580. seed ## noun [C]
 /siːd/ PLANT
 [B2]a small round or oval object produced by a plant that a new plant can grow from
-- Plant the seeds about 1 inch deep.
+- `Plant` the seeds about 1 inch deep.
 
 ## 3581. selection ## noun
 /səˈlek.ʃən/ ACT OF CHOOSING
 [B2]when someone or something is chosen
-- the selection process
-- We need to make a selection from these applicants.
-- Success is achieved by the careful selection of projects.
+- the selection `process`
+- We need to `make` a selection from these applicants.
+- Success is achieved by the careful selection `of` projects.
 
 ## 3582. selection ## noun
 /səˈlek.ʃən/ THINGS CHOSEN
 [B2]a group of people or things that has been chosen
 - Most schools would have a good selection of these books in their libraries.
-- The larger shops are able to stock a wide selection of goods.
+- The larger shops are able to stock a `wide` selection of goods.
 
 ## 3583. self-confidence ## noun [U]
 /ˌself ˈkɑn.fəd.əns / 
@@ -21498,7 +21498,7 @@
 /ˌsem.iˈfɑɪ.nəl/ 
 [B2]one of the two games in a sports competition that are played to decide who will play in the final game
 - Who's in the semi-finals?
-- She's the youngest player ever to get through to a semi-final.
+- She's the youngest player ever to `get through to` a semi-final.
 
 ## 3585. semicolon ## noun [C]
 /ˈsem.ɪˌkoʊ.lən/ 
@@ -21508,9 +21508,9 @@
 ## 3586. seminar ## noun [C]
 /ˈsem.ə.nɑr/ 
 [B2]a meeting of a group of people with a teacher or expert for training, discussion, or study of a subject
-- I attended practically every lecture and seminar when I was a student.
-- I'm giving a seminar on the latest developments in genetic engineering next week.
-- a seminar room
+- I `attended` practically every lecture and seminar when I was a student.
+- I'm `giving` a seminar `on` the latest developments in genetic engineering next week.
+- a seminar `room`
 
 ## 3587. senior ## noun [C]
 /ˈsiːn.jər/ STUDENT
@@ -21526,13 +21526,13 @@
 /senˈseɪ.ʃən/ PHYSICAL
 [B2]a physical feeling, or the ability to physically feel things
 - a burning sensation
-- I had no sensation of pain whatsoever.
+- I had no sensation `of` pain whatsoever.
 - The disease causes a loss of sensation in the fingers.
 
 ## 3590. sensation ## noun
 /senˈseɪ.ʃən/ FEELING/IDEA
 [B2]a strange feeling or idea that you cannot explain
-- I had the odd sensation (that) someone was following me.
+- I had the odd sensation `(that)` someone was following me.
 
 ## 3591. sensation ## noun
 /senˈseɪ.ʃən/ EXCITEMENT
@@ -21542,36 +21542,36 @@
 ## 3592. sense ## noun
 /sens/ GOOD JUDGMENT
 [B2]good judgment, especially about practical things
-- I hope they'll have the (good) sense/have enough sense to shut the windows before they leave.
-- There's no sense in waiting - the next train isn't for two hours.
+- I hope they'll `have the (good)` sense/`have enough` sense `to` shut the windows before they leave.
+- There's no sense `in` waiting - the next train isn't for two hours.
 
 ## 3593. sense ## noun
 /sens/ ABILITY
 [B2]the ability to do something
-- He's got a good sense of direction and hardly ever uses a map.
-- good business sense
+- He's got a good sense `of direction` and hardly ever uses a map.
+- good `business sense`
 
 ## 3594. sense ## noun
 /sens/ NATURAL ABILITY
 [B2]one of the five natural abilities of sight, hearing, touch, smell, and taste
-- My cold is so bad I've lost my sense of smell/taste.
+- My cold is so bad I've `lost` my sense `of` smell/taste.
 
 ## 3595. sense ## noun
 /sens/ make sense
 [B2]to have a meaning or reason that you can understand
-- He's written me this note but it doesn't make any sense.
+- He's written me this note but it doesn't make `any` sense.
 
 ## 3596. sense ## noun
 /sens/ make sense
 [B2]to be a good thing to do
-- It makes sense to buy now while prices are low.
+- It makes sense `to` buy now while prices are low.
 
 ## 3597. sense ## noun
 /sens/ MEANING
 [B2]one of the possible meanings of a word or phrase
 - They are not immigrants, at least not in any sense that I understand.
 - The packaging is green - in both senses of the word.
-- Security defined in the broad/broadest sense of the term means getting at the root causes of trouble and helping to reduce problems.
+- Security defined `in the broad/broadest` sense `of` the term means getting at the root causes of trouble and helping to reduce problems.
 
 ## 3598. sentence ## noun [C]
 /ˈsen.t̬əns/ PUNISHMENT
@@ -21592,13 +21592,13 @@
 ## 3601. series ## noun [C]
 /ˈsɪr.iːz/ THINGS
 [B2]several things or events of the same type that come one after the other
-- He had a series of tests, but they can't find anything wrong.
-- She gave a series of lectures at last year on contemporary writers.
+- He had a series `of` tests, but they can't find anything wrong.
+- She gave a series `of` lectures at last year on contemporary writers.
 
 ## 3602. series ## noun [C]
 /ˈsɪr.iːz/ BOOKS
 [B2]a set of books published by the same company which deal with the same subject
-- They do a series on architecture throughout the ages.
+- They do a series `on` architecture throughout the ages.
 
 ## 3603. servant ## noun [C]
 /ˈsɜr.vənt/ 
@@ -21608,7 +21608,7 @@
 ## 3604. service ## noun
 /ˈsɜr.vɪs/ EXTRA MONEY
 [B2]an amount of money charged for serving a customer in a restaurant, which is often paid directly to the waiter
-- A 15 percent service charge is included for parties of six or more.
+- A 15 percent service `charge` is included for parties of six or more.
 
 ## 3605. service ## noun
 /ˈsɜr.vɪs/ GOVERNMENT DEPARTMENT
@@ -21618,21 +21618,21 @@
 ## 3606. service ## noun
 /ˈsɜr.vɪs/ ARMED FORCES
 [B2]the armed forces, or work done in the armed forces
-- military service
-- He joined the air force in 1964 and spent ten years in the service.
+- `military` service
+- He joined the air force in 1964 and spent ten years `in` the service.
 
 ## 3607. set ## noun [C]
 /set/ TENNIS
 [B2]a part of a game of tennis
-- They won in straight sets.
+- They won in `straight` sets.
 
 ## 3608. set ## noun [C]
 /set/ MOVIE/PLAY
 [B2]the place where a movie or play is performed or recorded, and the furniture, pictures, etc. that are used
-- a movie set
+- a `movie` set
 - a stage set
 - a set designer
-- They first met on the set of "Star Wars."
+- They first met `on` the set of "Star Wars."
 
 ## 3609. setting ## noun [C usually no plural]
 /ˈset̬.ɪŋ/ POSITION
@@ -21647,7 +21647,7 @@
 ## 3611. shade ## noun
 /ʃeɪd/ COLOR
 [B2]a color, especially when referring to how dark or light it is
-- a pale/dark shade of gray
+- a pale/dark shade `of` gray
 
 ## 3612. shape ## noun [C or U]
 /ʃeɪp/ in good/bad, etc. shape
@@ -21663,10 +21663,10 @@
 /ʃer/ PART
 [B2]a part of something that has been divided
 - The total bill for the three of us comes to $90, so your share is $30.
-- We must make sure that everyone gets equal shares of the food.
-- Our candidate's share of the vote fell from 39 percent to 24 percent.
-- She's not doing her share of the work.
-- We must all accept some share of the responsibility.
+- We must make sure that everyone gets equal shares `of` the food.
+- Our candidate's share `of` the vote fell from 39 percent to 24 percent.
+- She's not doing her share `of` the work.
+- We must all accept some share `of` the responsibility.
 
 ## 3615. shed ## noun [C]
 /ʃed/ 
@@ -21691,13 +21691,13 @@
 ## 3618. shelter ## noun
 /ˈʃel.t̬ər/ PROTECTION
 [B2]protection from bad weather or danger
-- We took shelter from the rain in a doorway.
+- We `took` shelter from the rain in a doorway.
 
 ## 3619. shift ## noun
 /ʃɪft/ WORK
 [B2]a period of work in a place such as a factory or hospital, or the people who do that work
-- As the night shift leaves, the day shift arrives.
-- Are you on the night shift or the day shift?
+- As the `night` shift leaves, the `day` shift arrives.
+- Are you on the `night` shift or the `day` shift?
 
 ## 3620. shooting ## noun [C or U]
 /ˈʃuːt̬.ɪŋ/ 
@@ -21713,13 +21713,13 @@
 ## 3622. shortage ## noun [C]
 /ˈʃɔːrt̬.ɪdʒ/ 
 [B2]when there is not enough of something
-- There's a shortage of food and shelter for the earthquake survivors.
+- There's a shortage `of` food and shelter for the earthquake survivors.
 - The long hot summer has led to serious water shortages.
 
 ## 3623. shot ## noun [C]
 /ʃɑt/ WEAPON
 [B2]when a bullet is fired from a gun or other weapon
-- He fired four shots.
+- He `fired` four shots.
 
 ## 3624. shot ## noun [C]
 /ʃɑt/ SPORTS
@@ -21730,19 +21730,19 @@
 ## 3625. shot ## noun [C]
 /ʃɑt/ FILM
 [B2]a photograph
-- I got/took some really good shots of the harbor at sunset.
+- I `got/took` some really good shots of the harbor at sunset.
 
 ## 3626. show ## noun [C]
 /ʃoʊ/ PUBLIC EVENT
 [B2]an event at which a group of similar things are brought together for the public to see
-- a fashion/flower show
-- We're going to the car/auto show on Saturday.
-- They put on a show of his work at the Museum of Modern Art.
+- a `fashion/flower` show
+- We're going to the `car/auto` show on Saturday.
+- They put on a show `of` his work at the Museum of Modern Art.
 
 ## 3627. sickness ## noun [U]
 /ˈsɪk.nəs/ 
 [B2]when you are sick
-- I get motion sickness on a boat and sometimes on a plane, too.
+- I get `motion` sickness on a boat and sometimes on a plane, too.
 
 ## 3628. side ## noun
 /sɑɪd/ PART OF SITUATION
@@ -21767,16 +21767,16 @@
 ## 3632. side ## noun
 /sɑɪd/ OPPOSING GROUP
 [B2]one of the people or groups who are arguing, fighting, or competing
-- Whose side is he on?
-- Whenever we argue he always takes Alice's side .
+- Whose side is he `on`?
+- Whenever we argue he always `takes` Alice's side .
 - This is a war which neither side can win.
-- Don't be angry with me - I'm on your side.
+- Don't be angry with me - I'm `on` your side.
 
 ## 3633. side ## noun
 /sɑɪd/ OPINION
 [B2]a way of considering something, especially when there is disagreement about it
-- There are at least two sides to every question.
-- I've listened to your side of the story, but I still think you were wrong to do what you did.
+- There are at least two sides `to` every question.
+- I've listened to your side `of the story`, but I still think you were wrong to do what you did.
 
 ## 3634. sigh ## noun [C]
 /sɑɪ/ 
@@ -21786,18 +21786,18 @@
 ## 3635. sight ## noun
 /sɑɪt/ the sight of sb/sth
 [B2]when you see someone or something
-- I faint at the sight of my own blood.
-- The child laughed at the sight of the circus clown.
-- She hated/loathed the sight of her former husband.
+- I faint at the sight of my own `blood`.
+- The child laughed `at the` sight `of` the circus clown.
+- She hated/loathed `the` sight `of` her former husband.
 
 ## 3636. sight ## noun
 /sɑɪt/ AREA SEEN
 [B2]the area that it is possible for you to see
-- Keep your bags in sight at all times.
-- Don't let the children out of your sight at the park.
-- Billy was hidden out of sight behind a tree.
-- The castle came into sight as we hiked up the hill.
-- We're looking for a house within sight of the mountains.
+- Keep your bags `in` sight at all times.
+- Don't let the children `out of` your sight at the park.
+- Billy was hidden `out of` sight behind a tree.
+- The castle came `into` sight as we hiked up the hill.
+- We're looking for a house `within` sight `of` the mountains.
 
 ## 3637. sight ## noun
 /sɑɪt/ love at first sight
@@ -21821,10 +21821,10 @@
 /ˈsɪg.nəl/ ACTION
 [B2]a movement, light, or sound that gives information, or tells people what to do
 - At a signal from their teacher, the children all held up their flags.
-- Don't move until I give the signal.
-- The whistle was a signal that the races had started.
-- The police officer gave us a signal to stop.
-- What's the signal for "stop"?
+- Don't move until I `give` the signal.
+- The whistle was a signal `that` the races had started.
+- The police officer `gave` us a signal `to` stop.
+- What's the signal `for` "stop"?
 
 ## 3641. signal ## noun [C]
 /ˈsɪg.nəl/ WAVE
@@ -21839,8 +21839,8 @@
 ## 3643. similarity ## noun [C or U]
 /ˌsɪm.əˈlær.ət̬.i/ 
 [B2]when two things or people are similar, or a way in which they are similar
-- I can see the similarity between you and your mother.
-- The book bears several striking similarities to last year's bestseller.
+- I can see the similarity `between` you and your mother.
+- The book bears several striking similarities `to` last year's bestseller.
 
 ## 3644. sir ## noun
 /sɜr/ Dear Sir
@@ -21871,19 +21871,19 @@
 ## 3649. slave ## noun [C]
 /sleɪv/ 
 [B2]someone who is owned by someone else and has to work for them
-- I'm tired of being treated like a slave!
+- I'm tired of being `treated like a` slave!
 
 ## 3650. slope ## noun [C]
 /sloʊp/ 
 [B2]a surface or piece of land that is high at one end and low at the other
-- There's a steep slope to climb before we're at the top.
-- a mountain/ski slope
+- There's a `steep` slope to climb before we're at the top.
+- a `mountain/ski` slope
 
 ## 3651. smell ## noun
 /smel/ ABILITY
 [B2]the ability to notice smells
 - Smell is one of the five senses.
-- Dogs have a very good sense of smell.
+- Dogs have a very good `sense of` smell.
 
 ## 3652. smell ## noun
 /smel/ UNPLEASANT
@@ -21893,7 +21893,7 @@
 ## 3653. smoker ## noun [C]
 /ˈsmoʊ.kər/ 
 [B2]someone who smokes tobacco regularly
-- a cigarette/pipe smoker
+- a `cigarette/pipe` smoker
 
 ## 3654. society ## noun
 /səˈsɑɪ.ət̬.i/ ORGANIZATION
@@ -21909,7 +21909,7 @@
 ## 3656. soil ## noun [C or U]
 /sɔɪl/ 
 [B2]the top layer of earth that plants grow in
-- light/heavy/sandy soil
+- `light/heavy/sandy` soil
 
 ## 3657. solo ## noun [C]
 /ˈsoʊ.loʊ/ 
@@ -21946,8 +21946,8 @@
 ## 3663. source ## noun [C]
 /sɔːrs/ COME FROM
 [B2]where something comes from
-- a source of heat/energy/light
-- Oranges are a good source of vitamin C.
+- a source `of` heat/energy/light
+- Oranges are a good source `of` vitamin C.
 - Experts are trying to track down the source of the contamination in the water supply.
 - We walked up the river to its source in the hills.
 - Money is often a source of tension and disagreements in young married couples.
@@ -21955,22 +21955,22 @@
 ## 3664. space ## noun
 /speɪs/ AREA AROUND
 [B2]that which is around everything that exists and which is continuous in all directions
-- He was absent-mindedly staring/gazing into space.
+- He was absent-mindedly `staring/gazing into` space.
 - Virtual Reality aims to give us artificial worlds to explore, outside normal space and time.
 
 ## 3665. specialist ## noun [C]
 /ˈspeʃ.ə.lɪst/ 
 [B2]someone who has a lot of experience, knowledge, or skill in a particular subject
 - a software specialist
-- She's a specialist in modern French literature.
-- She's a specialist in childhood illnesses.
+- She's a specialist `in` modern French literature.
+- She's a specialist `in` childhood illnesses.
 - a leading cancer/eye specialist
 
 ## 3666. species ## noun [C]
 /ˈspiː.ʃiːz/ 
 [B2]a group of plants or animals that share similar characteristics
-- Mountain gorillas are an endangered species.
-- Over a hundred species of insect are found in this area.
+- Mountain gorillas are an `endangered` species.
+- Over a hundred species `of` insect are found in this area.
 
 ## 3667. spectator ## noun [C]
 /ˈspekˌteɪt̬.ər/ 
@@ -21980,9 +21980,9 @@
 ## 3668. speech ## noun
 /spiːtʃ/ FORMAL TALK
 [B2]a formal talk given usually to a large number of people on a special occasion
-- I had to give/make a speech at my brother's wedding.
-- The Governor of New York delivered a rousing speech to the national convention.
-- Did you hear her acceptance speech at the Oscars ceremony?
+- I had to `give/make` a speech at my brother's wedding.
+- The Governor of New York `delivered` a rousing speech to the national convention.
+- Did you hear her `acceptance` speech at the Oscars ceremony?
 
 ## 3669. speed ## noun
 /spiːd/ MOVEMENT
@@ -21993,9 +21993,9 @@
 ## 3670. spirit ## noun
 /ˈspɪr.ɪt/ WAY OF FEELING
 [B2]the way people think and feel about something
-- The players have a very strong team spirit.
-- As rock musicians in the 1960s, they were very much part of the spirit of the age/times.
-- We acted in a spirit of cooperation.
+- The players have a very strong `team` spirit.
+- As rock musicians in the 1960s, they were very much part of the spirit `of the age/times`.
+- We acted `in` a spirit `of` cooperation.
 
 ## 3671. spirit ## noun
 /ˈspɪr.ɪt/ in good/high/low, etc. spirits
@@ -22031,8 +22031,8 @@
 ## 3677. spread ## noun
 /spred/ MOVEMENT
 [B2]when something moves to cover a larger area or affect a larger number of people
-- Jazz records fostered the spread of American culture.
-- More should be done to stop the spread of this disease.
+- Jazz records fostered the spread `of` American culture.
+- More should be done to stop the spread `of` this disease.
 
 ## 3678. spreadsheet ## noun [C]
 /ˈspred.ʃiːt/ 
@@ -22042,47 +22042,47 @@
 ## 3679. stage ## noun [C]
 /steɪdʒ/ PART
 [B2]a period of development, or a particular time in a process
-- The project is in its final stages and should be completed by August.
+- The project is `in` its final stages and should be completed by August.
 - They did the last stage of their journey on foot.
 - Our marriage is going through a difficult stage at the moment.
-- Their youngest child is at the stage where she can say individual words but not full sentences.
-- I'm not tired at the moment but I will need a rest at some stage during the walk.
-- At this stage, most children are able to read simple words.
-- Andrew spends all his spare time playing with his computer but it's probably just a stage he's going through.
+- Their youngest child is `at` the stage `where` she can say individual words but not full sentences.
+- I'm not tired at the moment but I will need a rest `at some` stage during the walk.
+- `At this` stage, most children are able to read simple words.
+- Andrew spends all his spare time playing with his computer but it's probably `just` a stage he's `going through`.
 
 ## 3680. standard ## noun
 /ˈstæn.dərd/ QUALITY
 [B2]a level of quality, especially a level that is acceptable
-- safety standards
-- His work was below/above standard.
-- She sets very high standards for herself.
-- That’s not their usual high standard of service.
+- `safety` standards
+- His work was `below/above` standard.
+- She `sets` very high standards for herself.
+- That’s not their usual `high` standard `of` service.
 
 ## 3681. standard ## noun
 /ˈstæn.dərd/ standard of living
 [B2]how much money and comfort someone has
-- a low/high standard of living
+- a `low/high` standard of living
 
 ## 3682. state ## noun [C]
 /steɪt/ CONDITION
 [B2]the condition that something or someone is in
 - The building is in a terrible state.
-- After the accident I was in a state of shock.
+- After the accident I was in a state `of shock`.
 - The kitchen was in its original state, with a 1920s sink and stove.
-- It's a sad state of affairs when our rivers are so endangered.
+- It's a sad state `of affairs` when our rivers are so endangered.
 
 ## 3683. statement ## noun [C]
 /ˈsteɪt.mənt/ THING SAID
 [B2]something that someone says or writes officially
-- The candidate made a statement to the press.
+- The candidate made a statement `to` the press.
 - He produced a signed statement from his client.
-- We were not surprised by their statement that the train services would be reduced.
+- We were not surprised by their statement `that` the train services would be reduced.
 
 ## 3684. statistics ## noun [plural]
 /stəˈtɪs.tɪks/ 
 [B2]a collection of facts in the form of numbers that show information about something
-- The statistics show that, in general, women live longer than men.
-- According to government/official statistics, skin cancer is becoming more common.
+- The statistics `show` that, in general, women live longer than men.
+- According to `government/official` statistics, skin cancer is becoming more common.
 
 ## 3685. steam ## noun [U]
 /stiːm/ GAS
@@ -22090,7 +22090,7 @@
 - Steam rose from the simmering stew.
 - a steam engine
 - the age of steam
-- The pump is driven by steam.
+- The pump is driven `by` steam.
 
 ## 3686. steel ## noun [U]
 /stiːl/ 
@@ -22106,10 +22106,10 @@
 ## 3688. step ## noun [C]
 /step/ STAGE
 [B2]one of the things that you do to achieve something
-- What's the next step in the instructions?
-- We must stay one step ahead of our competitors.
-- Most people believe that the decision to cut interest rates was a step in the right direction.
-- The President took the unusual step of altering his prepared speech.
+- What's the `next` step in the instructions?
+- We must stay one step `ahead` of our competitors.
+- Most people believe that the decision to cut interest rates was a step `in the right direction`.
+- The President `took` the unusual step `of` altering his prepared speech.
 
 ## 3689. stepfather ## noun [C]
 /ˈstepˌfɑð.ər / 
@@ -22125,7 +22125,7 @@
 /stɑk/ STORE
 [B2]the goods that are available in a store
 - This store sells its old stock at a discount.
-- We'll be getting our new stock in on Friday.
+- We'll be getting our new stock `in` on Friday.
 
 ## 3692. stock ## noun
 /stɑk/ in stock/out of stock
@@ -22135,7 +22135,7 @@
 ## 3693. stool ## noun [C]
 /stuːl/ 
 [B2]a seat that does not have a back or arms
-- a bar/kitchen/piano stool
+- a `bar/kitchen/piano` stool
 - a three-legged stool
 
 ## 3694. stopover ## noun [C]
@@ -22147,7 +22147,7 @@
 ## 3695. storage ## noun [U]
 /ˈstɔːr.ɪdʒ/ 
 [B2]when you put things in a safe place until they are needed
-- We've had to build some cabinets to give us more storage space.
+- We've had to build some cabinets to give us more storage `space`.
 
 ## 3696. story ## noun [C]
 /ˈstɔːr.i/ BUILDING
@@ -22163,14 +22163,14 @@
 ## 3698. strain ## noun
 /streɪn/ PRESSURE
 [B2]pressure put on something by a bad situation or by too much weight or force
-- All those books put a strain on the shelf and it broke!
-- Excess weight puts a lot of strain on the heart.
+- All those books `put` a strain `on` the shelf and it broke!
+- Excess weight `puts` a lot of strain `on` the heart.
 
 ## 3699. strain ## noun
 /streɪn/ WORRY
 [B2]when you feel nervous and worried about something
-- She's a lot better than she was but she's still not ready to face the stresses and strains of a job.
-- He's been under a lot of strain recently.
+- She's a lot better than she was but she's still not ready to face the `stresses and` strains of a job.
+- He's been `under` a lot of strain recently.
 
 ## 3700. strategy ## noun [C]
 /ˈstræt̬.ə.dʒi/ 
@@ -22178,25 +22178,25 @@
 - the administration's economic strategy
 - a long-term strategy
 - Chess is a game that requires strategy.
-- We're working on new strategies to improve our share of the market.
+- We're working on new strategies `to` improve our share of the market.
 
 ## 3701. stream ## noun [C]
 /striːm/ a stream of sth
 [B2]a continuous flow of things or people
-- There has been a steady stream of phone calls from worried customers.
+- There has been a `steady` stream of phone calls from worried customers.
 - An endless stream of traffic clogged the roads today.
 
 ## 3702. strength ## noun
 /streŋθ/ STRONG
 [B2]the ability to do things that need a lot of physical effort or power
 - upper body strength
-- It's a sport that requires great physical strength.
+- It's a sport that requires great `physical` strength.
 
 ## 3703. stress ## noun
 /stres/ PRONUNCIATION
 [B2]when you say one part of a word more strongly than the rest
 - The meaning of a sentence often depends on stress and intonation.
-- When "insert" is a verb, the stress is on the second syllable, but when it is a noun, the stress is on the first syllable.
+- When "insert" is a verb, the stress is `on` the second syllable, but when it is a noun, the stress is `on` the first syllable.
 
 ## 3704. string ## noun
 /strɪŋ/ ROPE
@@ -22212,27 +22212,27 @@
 ## 3706. stroke ## noun [C]
 /stroʊk/ ILLNESS
 [B2]a sudden problem in your brain that changes the flow of blood and makes you unable to move part of your body
-- She suffered/had a stroke that left her unable to speak.
+- She `suffered/had` a stroke that left her unable to speak.
 
 ## 3707. structure ## noun
 /ˈstrʌk.tʃər/ WAY PARTS ARE ARRANGED
 [B2]the way that parts of something are arranged or put together
-- the grammatical structure of a sentence
+- the grammatical structure `of` a sentence
 - They have a very old-fashioned management structure.
 
 ## 3708. struggle ## noun [C]
 /ˈstrʌg.əl/ EFFORT
 [B2]when you try very hard to do something difficult
 - It was a real struggle to stay awake during the movie
-- The Revolutionary War was a struggle for independence.
-- Central banks everywhere are still fighting the struggle against inflation.
+- The Revolutionary War was a struggle `for` independence.
+- Central banks everywhere are still fighting the struggle `against` inflation.
 
 ## 3709. struggle ## noun [C]
 /ˈstrʌg.əl/ FIGHT
 [B2]a physical or mental fight
-- a struggle with cancer
-- the struggle between good and evil
-- Clearly there will be a power struggle within the party.
+- a struggle `with` cancer
+- the struggle `between` good and evil
+- Clearly there will be a `power` struggle within the party.
 
 ## 3710. studio ## noun [C]
 /ˈstuːd.iːˌoʊ/ ART
@@ -22242,7 +22242,7 @@
 ## 3711. study ## noun
 /ˈstʌd.i/ LEARNING
 [B2]when you learn from a teacher, usually in school or college
-- the study of English literature
+- the study `of` English literature
 
 ## 3712. study ## noun
 /ˈstʌd.i/ EXAMINING
@@ -22263,22 +22263,22 @@
 ## 3715. substance ## noun
 /ˈsʌb.stəns/ MATERIAL
 [B2]a solid, liquid, or gas
-- an organic/chemical substance
-- a dangerous substance
+- an `organic/chemical` substance
+- a `dangerous` substance
 - What sort of substance could withstand those temperatures?
 
 ## 3716. substitute ## noun [C]
 /ˈsʌb.stəˌtuːt/ 
 [B2]a thing or person that is used instead of another thing or person
 - Tofu can be used as a meat substitute in vegetarian recipes.
-- Vitamins should not be used as a substitute for a healthy diet.
+- Vitamins should not be used as a substitute `for` a healthy diet.
 
 ## 3717. suburb ## noun [C]
 /ˈsʌb.ɜrb/ 
 [B2]an area near a large city where many people who work in the city live, containing homes and towns or smaller cities
 - She lives in the Chicago suburbs.
-- Many people living in this affluent residential suburb work in the city.
-- Box Hill is a suburb of Melbourne.
+- Many people living in this affluent `residential` suburb work in the city.
+- Box Hill is a suburb `of` Melbourne.
 
 ## 3718. sudden ## noun
 /ˈsʌd.ən/ all of a sudden
@@ -22288,7 +22288,7 @@
 ## 3719. suffering ## noun [U]
 /ˈsʌf.ər.ɪŋ/ 
 [B2]when someone experiences pain or unpleasant emotions
-- The war will cause widespread human suffering.
+- The war will cause widespread `human` suffering.
 
 ## 3720. suffix ## noun [C]
 /ˈsʌf.ɪks/ 
@@ -22298,14 +22298,14 @@
 ## 3721. suicide ## noun [C or U]
 /ˈsuː.əˌsɑɪd/ 
 [B2]when you intentionally kill yourself
-- to attempt/commit suicide
+- to `attempt/commit` suicide
 - The suicide rate among men between the ages of 16 and 25 has risen alarmingly.
 - Many suicides occur in prisons.
 
 ## 3722. summary ## noun [C]
 /ˈsʌm.ə.ri/ 
 [B2]a short, clear description that gives the main facts or ideas about something
-- He gave a brief summary of events.
+- He `gave` a brief summary of events.
 
 ## 3723. sunlight ## noun [U]
 /ˈsʌn.lɑɪt/ 
@@ -22320,7 +22320,7 @@
 ## 3725. supplier ## noun [C]
 /səˈplɑɪ.ər/ 
 [B2]a person or company that provides something that people want or need
-- They are the world’s largest supplier of baby foods.
+- They are the world’s largest supplier `of` baby foods.
 
 ## 3726. supply ## noun [C or U]
 /səˈplɑɪ/ 
@@ -22333,8 +22333,8 @@
 /səˈpɔːrt/ AGREEMENT
 [B2]agreement with an idea, group or person
 - Environmental groups have gained support among young people.
-- Is there much public support for the proposal?
-- I signed a petition in support of the human rights campaign.
+- Is there much public support `for` the proposal?
+- I signed a petition `in` support `of` the human rights campaign.
 
 ## 3728. support ## noun [U]
 /səˈpɔːrt/ MONEY
@@ -22352,25 +22352,25 @@
 - The sun was reflected on the surface of the water.
 - Tropical rainforests used to cover 10% of the Earth's surface.
 - The marble has a smooth, shiny surface.
-- Neil Armstrong was the first person to set foot on the surface of the moon.
+- Neil Armstrong was the first person to set foot `on` the surface `of` the moon.
 
 ## 3731. surface ## noun
 /ˈsɜr.fɪs/ PERSON
 [B2]what someone or something seems to be like when you do not know much about them
-- On the surface, he seemed very pleasant.
+- `On the` surface, he seemed very pleasant.
 
 ## 3732. surgery ## noun
 /ˈsɜr.dʒə.ri/ 
 [B2]when a doctor cuts your body open and repairs or removes something
 - heart surgery
-- He patient had surgery on his knee.
-- She has undergone several surgeries on her back and will require more.
+- He patient `had` surgery `on` his knee.
+- She has `undergone` several surgeries `on` her back and will require more.
 
 ## 3733. surprise ## noun
 /sərˈprɑɪz/ FEELING
 [B2]the feeling that you get when something happens that you did not expect
-- He looked at her in/with surprise.
-- To my surprise, they gave us everything we asked for.
+- He looked at her `in/with` surprise.
+- `To my` surprise, they gave us everything we asked for.
 
 ## 3734. surroundings ## noun [plural]
 /səˈrɑʊnd.ɪŋz/ 
@@ -22382,8 +22382,8 @@
 ## 3735. survey ## noun [C]
 /ˈsɜr.veɪ/ 
 [B2]an examination of opinions, behavior, etc., made by asking people questions
-- A recent survey found/showed that 58% of people did not know where their heart is.
-- They are conducting/carrying out/doing a survey.
+- A recent survey `found/showed` that 58% of people did not know where their heart is.
+- They are `conducting/carrying out/doing` a survey.
 
 ## 3736. survival ## noun [U]
 /sərˈvɑɪ.vəl/ 
@@ -22395,18 +22395,18 @@
 /sərˈvɑɪ.vər/ 
 [B2]someone who continues to live after almost dying because of an accident, illness, etc.
 - Rescuers have given up hope of finding any more survivors.
-- He was the sole survivor of the plane crash.
-- She's a cancer survivor/a survivor of cancer.
+- He was the `sole` survivor `of` the plane crash.
+- She's a cancer survivor/a survivor `of` cancer.
 
 ## 3738. suspect ## noun [C]
 /səˈspekt/ 
 [B2]someone who may have committed a crime
-- He's the prime suspect in the case.
+- He's the `prime` suspect in the case.
 
 ## 3739. suspicion ## noun
 /səˈspɪʃ.ən/ BELIEF
 [B2]a belief or idea that something may be true
-- Some people have suspicions that he may not be able to play at all.
+- Some people `have` suspicions `that` he may not be able to play at all.
 
 ## 3740. swan ## noun [C]
 /swɑn/ 
@@ -22418,7 +22418,7 @@
 [B2]the salty colorless liquid that comes through your skin when you are hot, nervous or ill
 - The sweat was pouring off me ten minutes into the game.
 - By the time we'd climbed to the top of the hill, we were covered in sweat.
-- She wiped the beads of sweat from her forehead.
+- She wiped the `beads of` sweat from her forehead.
 
 ## 3742. swing ## noun [C]
 /swɪŋ/ 
@@ -22434,13 +22434,13 @@
 /ˈsɪm.bəl/ 
 [B2]a sign, shape or object that is used to represent something else
 - Five interlocking rings is the symbol of the Olympic games.
-- The wheel in the Indian flag is a symbol of peace.
+- The wheel in the Indian flag is a symbol `of` peace.
 
 ## 3745. sympathy ## noun [U]
 /ˈsɪm.pə.θi/ CARING
 [B2]when you show that you understand and care about someone's problems
 - The president has sent a message of sympathy to the relatives of the dead soldiers.
-- I don't have much sympathy for her - I think she's brought her troubles on herself.
+- I don't have much sympathy `for` her - I think she's brought her troubles on herself.
 
 ## 3746. symptom ## noun [C]
 /ˈsɪm.təm/ ILLNESS
@@ -22451,7 +22451,7 @@
 ## 3747. system ## noun [C]
 /ˈsɪs.təm/ METHOD
 [B2]a way or method of doing things
-- the legal/education system
+- the `legal/education` system
 - the public transportation system
 - We'll have to work out a new filing system.
 - the metric system of measuring and weighing
@@ -22469,18 +22469,18 @@
 ## 3750. tail ## noun [C]
 /teɪl/ ANIMAL
 [B2]the long, narrow part that sticks out at the back of an animal's body
-- The dog wagged its tail excitedly.
+- The dog `wagged` its tail excitedly.
 
 ## 3751. tale ## noun [C]
 /teɪl/ 
 [B2]a story, especially one which is not true or is difficult to believe
-- He told the most amazing tales about his life in India.
+- He `told` the most amazing tales about his life in India.
 - She told me some tale about missing the bus to explain her lateness.
 
 ## 3752. talk ## noun
 /tɔːk/ A SPEECH
 [B2]a speech made to a group of people about a particular subject
-- He gave a talk about/on his visit to Bolivia.
+- He `gave` a talk `about/on` his visit to Bolivia.
 - I went to a few interesting talks.
 
 ## 3753. tan ## noun [C]
@@ -22497,38 +22497,38 @@
 ## 3755. target ## noun [C]
 /ˈtɑr.gɪt/ OBJECT/PERSON SHOT AT
 [B2]something or someone that you attack, shoot at, try to hit, etc.
-- a military target
-- I had four shots but I didn't even hit the target.
-- Any major airport or station is potentially a terrorist target.
-- Foreign businesses in the region have become a target for attacks.
+- a `military` target
+- I had four shots but I didn't even `hit` the target.
+- Any major airport or station is potentially a `terrorist` target.
+- Foreign businesses in the region have become a target `for` attacks.
 
 ## 3756. target ## noun [C]
 /ˈtɑr.gɪt/ AIM
 [B2]something that you intend to achieve
-- If you want to lose weight, you have to set yourself a target.
+- If you want to lose weight, you have to `set` yourself a target.
 
 ## 3757. task ## noun [C]
 /tæsk/ 
 [B2]a piece of work, especially something unpleasant or difficult
-- We usually ask interviewees to perform a few simple tasks on the computer just to test their aptitude.
-- The government now faces the difficult task of restructuring the entire health-care system.
+- We usually ask interviewees to `perform` a few simple tasks on the computer just to test their aptitude.
+- The government now faces the difficult task `of` restructuring the entire health-care system.
 
 ## 3758. taste ## noun
 /teɪst/ WHAT YOU LIKE
 [B2]the particular things you like, such as styles of music, clothes, decoration, etc.
-- You have very good taste!
-- I don't like his taste in music.
+- You `have` very `good` taste!
+- I don't like his taste `in` music.
 - She has very expensive tastes.
 
 ## 3759. taste ## noun
 /teɪst/ SHORT EXPERIENCE
 [B2]a short experience of something different
-- This was my first taste of freedom.
+- This was my first taste `of` freedom.
 
 ## 3760. taste ## noun
 /teɪst/ ABILITY
 [B2]the ability to experience different flavors in your mouth
-- When you've got a cold you often lose your sense of taste.
+- When you've got a cold you often lose your `sense of` taste.
 
 ## 3761. teaspoon ## noun [C]
 /ˈtiːˌspuːn/ 
@@ -22548,8 +22548,8 @@
 ## 3764. temper ## noun
 /ˈtem.pər/ ANGER
 [B2]when someone becomes angry very quickly
-- She has a real temper.
-- He's got a really bad temper.
+- She `has` a real temper.
+- He's got a really `bad` temper.
 
 ## 3765. temper ## noun
 /ˈtem.pər/ lose your temper
@@ -22559,8 +22559,8 @@
 ## 3766. temptation ## noun [C or U]
 /temˈteɪ.ʃən/ 
 [B2]a feeling that you want to do or have something, although you know you should not
-- In these situations, there is a huge temptation to lie.
-- As a young actress, she managed to resist the temptation to move to Hollywood.
+- In these situations, there is a huge temptation `to` lie.
+- As a young actress, she managed to `resist` the temptation to move to Hollywood.
 
 ## 3767. tension ## noun
 /ˈten.tʃən/ FEELING
@@ -22570,13 +22570,13 @@
 ## 3768. tension ## noun
 /ˈten.tʃən/ BETWEEN PEOPLE/GROUPS
 [B2]a feeling of fear or anger between people, groups or countries who do not trust each other
-- ethnic/racial tension
+- `ethnic/racial` tension
 - There are growing tensions betweeen the two countries.
 
 ## 3769. term ## noun
 /tɜrm/ WORD
 [B2]a word or phrase that is used to refer to a particular thing, especially in a technical or scientific subject
-- a legal/medical/scientific/technical term
+- a `legal/medical/scientific/technical` term
 - Erikson is said to have coined the term "identity crisis."
 
 ## 3770. terminal ## noun [C]
@@ -22587,8 +22587,8 @@
 ## 3771. terms ## noun [plural]
 /tɜrmz/ RULES
 [B2]the rules of an agreement
-- He violated the terms of the agreement.
-- Under the terms of their contract, employees must give 3 months' notice if they resign.
+- He violated the terms `of` the agreement.
+- `Under the` terms `of` their contract, employees must give 3 months' notice if they resign.
 
 ## 3772. terms ## noun [plural]
 /tɜrmz/ in ... terms/in terms of sth
@@ -22605,7 +22605,7 @@
 /ˈter.əˌtɔːr.i/ COUNTRY'S LAND
 [B2]land that is owned or controlled by a particular country
 - He was shot down in enemy territory.
-- The UN is sending aid to the occupied territories.
+- The UN is sending aid to the `occupied` territories.
 
 ## 3775. territory ## noun
 /ˈter.əˌtɔːr.i/ PERSON'S/ANIMAL'S LAND
@@ -22615,42 +22615,42 @@
 ## 3776. terror ## noun [Ul]
 /ˈter.ər/ 
 [B2]a feeling of being very frightened
-- They fled from the city in terror.
+- They fled from the city `in` terror.
 - I will never forget the look of terror in her face.
 
 ## 3777. terrorism ## noun [U]
 /ˈter.əˌrɪz.əm/ 
 [B2]the use of violence for political purposes, for example putting bombs in public places
 - Governments must cooperate if they are to fight international terrorism.
-- The bomb explosion was one of the worst acts of terrorism that Italy has experienced in recent years.
+- The bomb explosion was one of the worst `acts of` terrorism that Italy has experienced in recent years.
 
 ## 3778. terrorist ## noun [C]
 /ˈter.ə.rɪst/ 
 [B2]someone who is involved in terrorism
-- There has been an increase in terrorist attacks.
+- There has been an increase in terrorist `attacks`.
 - The government has said that it will not be intimidated by terrorist threats.
 
 ## 3779. test ## noun [C]
 /test/ SITUATION
 [B2]a situation that shows how good something is
-- This project will be a real test of his ability.
+- This project will be a real test `of` his ability.
 
 ## 3780. thanks ## noun [plural]
 /θæŋks/ 
 [B2]words or actions that show you are grateful or pleased about something
 - They expressed their thanks to the organizers.
-- He wrote a letter of thanks to the hospital.
+- He wrote a `letter of` thanks to the hospital.
 
 ## 3781. the first person ## noun [no plural]
 /ˌfɜːrstˈpɜːr.sən/ 
 [B2]the form of a verb or pronoun that is used when people are speaking or writing about themselves. For example, "I" and "we" are first person pronouns.
-- Autobiographies are written in the first person.
+- Autobiographies are written `in` the first person.
 
 ## 3782. the last minute ## noun [no plural]
 /ˌlæstˈmɪnɪt/ 
 [B2]the latest possible opportunity for doing something
-- They only told me at the last minute that they couldn't come.
-- Why do you always leave everything till the last minute?
+- They only told me `at` the last minute that they couldn't come.
+- Why do you always `leave` everything `till` the last minute?
 
 ## 3783. the second person ## noun [no plural]
 /ˌsek.əndˈpɜr.sən/ 
@@ -22671,13 +22671,13 @@
 ## 3786. theme ## noun [C]
 /θiːm/ 
 [B2]the subject of a talk, book, movie, etc.
-- The theme of loss runs through most of his novels.
+- The theme `of` loss runs through most of his novels.
 
 ## 3787. theory ## noun
 /ˈθɪr.i/ IDEA
 [B2]an idea or set of ideas that is intended to explain something
 - Darwin's theory of evolution
-- He has a theory that the hole was caused by a meteorite.
+- He `has` a theory `that` the hole was caused by a meteorite.
 
 ## 3788. theory ## noun
 /ˈθɪr.i/ in theory
@@ -22730,12 +22730,12 @@
 /θɪŋ/ the thing is...
 [B2]used to introduce an answer, comment or explanation
 - I'd love to go out tonight, but the thing is, I've got to finish my report.
-- The funny/strange thing is that we'd actually met before.
+- The `funny/strange` thing is that we'd actually met before.
 
 ## 3798. thing ## noun
 /θɪŋ/ it's a good thing
 [B2]If it's a good thing that something happened, it is lucky or fortunate that it happened.
-- It's a good thing (that) we booked our tickets early.
+- It's a good thing `(that)` we booked our tickets early.
 
 ## 3799. thing ## noun
 /θɪŋ/ not a single thing
@@ -22750,8 +22750,8 @@
 ## 3801. thing ## noun
 /θɪŋ/ PERSON/ANIMAL
 [B2]used to refer to a person or animal when you are expressing your feelings towards them
-- You look tired, you poor thing.
-- He's spending three months in Barbados, lucky thing!
+- You look tired, you `poor` thing.
+- He's spending three months in Barbados, `lucky` thing!
 
 ## 3802. third ## noun [C]
 /θɜrd/ 
@@ -22766,35 +22766,35 @@
 ## 3804. thought ## noun
 /θɔːt/ THINKING
 [B2]the activity of thinking, or when you think about something carefully
-- She sat staring at the picture, deep in thought.
-- You'll need to give the matter some thought.
+- She sat staring at the picture, `deep in` thought.
+- You'll need to `give` the matter `some` thought.
 
 ## 3805. threat ## noun
 /θret/ DAMAGE
 [B2]someone or something that could cause harm or damage
-- a threat to the environment
-- Smoking poses a serious threat to your health.
+- a threat `to` the environment
+- Smoking `poses` a serious threat to your health.
 
 ## 3806. threat ## noun
 /θret/ THING SAID
 [B2]when someone says they will kill or hurt you, or cause problems for you if you do not do what they want
-- a death threat
-- I was scared he would carry out his threat.
+- a `death` threat
+- I was scared he would `carry out` his threat.
 
 ## 3807. tide ## noun [C]
 /tɑɪd/ 
 [B2]the regular rise and fall in the level of the sea
-- high/low tide
-- The tide is out/in.
+- `high/low` tide
+- The tide is `out/in`.
 
 ## 3808. time ## noun
 /tɑɪm/ HISTORICAL PERIOD
 [B2]a period in history
-- Charles Dickens' novel "A Tale of Two Cities" is set at the time of the French Revolution.
-- In/During medieval times, women thought to be witches were burned at the stake.
-- In times gone by, all crops were harvested by hand.
-- He is widely regarded as one of the best writers of modern/our times.
-- We sat and talked about old times.
+- Charles Dickens' novel "A Tale of Two Cities" is set at the time `of` the French Revolution.
+- `In/During` medieval times, women thought to be witches were burned at the stake.
+- `In` times gone by, all crops were harvested by hand.
+- He is widely regarded as one of the best writers of `modern/our` times.
+- We sat and talked about `old` times.
 
 ## 3809. time ## noun
 /tɑɪm/ from time to time
@@ -22845,13 +22845,13 @@
 ## 3818. tone ## noun
 /toʊn/ VOICE
 [B2]the quality of a sound, especially of someone's voice
-- I tried to use a sympathetic tone of voice.
+- I tried to use a sympathetic tone `of voice`.
 - It wasn't so much what she said that annoyed me - it was her tone.
 
 ## 3819. tone ## noun
 /toʊn/ TELEPHONE
 [B2]an electronic sound made by a telephone
-- a dial tone
+- a `dial` tone
 
 ## 3820. tongue ## noun
 /tʌŋ/ mother tongue
@@ -22889,20 +22889,20 @@
 /tʌtʃ/ HAND
 [B2]when you put your hand or finger on something
 - I felt the touch of his hand on my face.
-- At the touch of a button, the door opened.
+- `At the` touch `of a button`, the door opened.
 
 ## 3827. touch ## noun
 /tʌtʃ/ ABILITY
 [B2]the ability to feel things by putting your hand on them
 - the sense of touch
-- The material was soft to the touch.
+- The material was soft `to the` touch.
 
 ## 3828. trace ## noun [C or U]
 /treɪs/ 
 [B2]proof that someone or something was in a place
-- There was no trace of her anywhere.
-- When she moved out, she left no trace of having been there.
-- He seems to have disappeared without a trace.
+- There was `no` trace `of` her anywhere.
+- When she moved out, she `left no` trace `of` having been there.
+- He seems to have `disappeared without` a trace.
 
 ## 3829. track ## noun
 /træk/ MUSIC
@@ -22918,8 +22918,8 @@
 /træk/ MARKS
 [B2]a mark or line of marks left on the ground or on another surface by an animal, person or vehicle which has moved over it
 - Police found tire tracks in the mud.
-- The hunters followed the tracks of the deer for hours.
-- The burglars were careful not to leave any tracks behind them.
+- The hunters followed the tracks `of` the deer for hours.
+- The burglars were careful not to `leave` any tracks behind them.
 
 ## 3832. track ## noun
 /træk/ lose track
@@ -22929,21 +22929,21 @@
 ## 3833. trade ## noun
 /treɪd/ JOB
 [B2]someone's job, especially one which needs skill in using their hands
-- He's a builder by trade.
+- He's a builder `by` trade.
 - He left school at 15 to learn a trade.
 
 ## 3834. tradition ## noun [C or U]
 /trəˈdɪʃ.ən/ 
 [B2]a custom or way of behaving that has continued for a long time in a group of people or a society
 - Fireworks have long been an American tradition on the Fourth of July.
-- There's a long/strong tradition of dance in St Petersburg.
-- We decided to break with tradition this year and go away for Christmas.
+- There's a `long/strong` tradition `of` dance in St Petersburg.
+- We decided to `break with` tradition this year and go away for Christmas.
 
 ## 3835. tragedy ## noun [C or U]
 /ˈtrædʒ.ə.di/ 
 [B2]an event or situation which is very sad, often involving death
-- His life was touched by hardship and personal tragedy.
-- They had only recently arrived in London when tragedy struck - their son was killed in a traffic accident.
+- His life was touched by hardship and `personal` tragedy.
+- They had only recently arrived in London when tragedy `struck` - their son was killed in a traffic accident.
 
 ## 3836. trail ## noun [C]
 /treɪl/ PATH
@@ -22953,13 +22953,13 @@
 ## 3837. transfer ## noun [C or U]
  
 [B2]when something or someone moves or is moved from one place, position, etc. to another
-- the transfer of information
-- Black's transfer to an Italian soccer team came as a shock to Coventry supporters.
+- the transfer `of` information
+- Black's transfer `to` an Italian soccer team came as a shock to Coventry supporters.
 
 ## 3838. transport ## noun [U]
  GOODS/PEOPLE
 [B2]when people or goods are moved from one place to another
-- the transport of live animals
+- `the` transport `of` live animals
 
 ## 3839. transportation ## noun [U]
 /ˌtræn.spərˈteɪ.ʃən/ MOVING PEOPLE/GOODS
@@ -22970,50 +22970,50 @@
 /træp/ CATCHING ANIMALS
 [B2]a piece of equipment for catching animals
 - a mouse trap
-- The fox got its foot caught in a trap.
+- The fox got its foot `caught in a` trap.
 
 ## 3841. trap ## noun [C]
 /træp/ DANGEROUS SITUATION
 [B2]a dangerous or unpleasant situation which is difficult to escape from
 - The undercover agents went to the house knowing that it might be a trap.
-- She's too clever to fall into the trap of doing any unpaid work.
+- She's too clever to `fall into the` trap of doing any unpaid work.
 
 ## 3842. tray ## noun [C]
 /treɪ/ 
 [B2]a flat object, usually with raised edges, used for carrying food and drinks
-- She was carrying a tray of drinks.
+- She was carrying a tray `of` drinks.
 
 ## 3843. treasure ## noun
 /ˈtreʒ.ər/ GOLD/JEWELS, ETC.
 [B2]very valuable things, usually in the form of a store of precious metals, precious stones or money
-- Stories about pirates often include a search for buried treasure.
+- Stories about pirates often include a search for `buried` treasure.
 - When they opened up the tomb they found treasure beyond their wildest dreams.
 
 ## 3844. treatment ## noun [C or U]
 /ˈtriːt.mənt/ MEDICAL
 [B2]the use of drugs, exercises, etc. to cure a person of an illness or injury
-- free dental treatment
+- free `dental` treatment
 - Perhaps it's time to try a new course of treatment.
-- This disease doesn't generally respond to treatment.
-- There are various treatments for this complaint.
+- This disease doesn't generally `respond to` treatment.
+- There are various treatments `for` this complaint.
 
 ## 3845. treatment ## noun [C or U]
 /ˈtriːt.mənt/ DEALING WITH
 [B2]the way you deal with or behave toward someone or something
-- There have been complaints about the treatment of prisoners.
-- Peter gets special treatment because he knows the boss.
+- There have been complaints about the treatment `of` prisoners.
+- Peter gets `special` treatment because he knows the boss.
 
 ## 3846. trekking ## noun [U]
 /ˈtrek.ɪŋ/ 
 [B2]when you go on a long, difficult trip on foot
-- We want to go trekking in the Himalayas.
+- We want to `go` trekking in the Himalayas.
 
 ## 3847. trial ## noun [C or U]
 /trɑɪl/ IN COURT
 [B2]a legal process to decide if someone is guilty of a crime
-- The two men are now on trial for attempted murder.
-- He will be taken to the US to stand trial.
-- Trial by jury is a fundamental right.
+- The two men are now `on` trial `for` attempted murder.
+- He will be taken to the US to `stand` trial.
+- Trial `by jury` is a fundamental right.
 - It was a very complicated trial that went on for months.
 - the trial proceedings
 
@@ -23032,28 +23032,28 @@
 ## 3850. trick ## noun [C]
 /trɪk/ METHOD
 [B2]an effective or quick way of doing something
-- What's the trick to getting this chair to fold up?
+- What's the trick `to` getting this chair to fold up?
 - On page 21, twenty tricks to speed up your beauty routine.
 
 ## 3851. trophy ## noun [C]
 /ˈtroʊ.fi/ 
 [B2]a prize, such as a silver cup, that you get for winning a race or competition
-- He's an excellent pool player, but he's never won a major trophy.
-- The governor will be presenting the trophies.
+- He's an excellent pool player, but he's never `won` a major trophy.
+- The governor will be `presenting` the trophies.
 
 ## 3852. trouble ## noun
 /ˈtrʌb.əl/ EXTRA WORK
 [B2]when you use extra time or energy to do something
-- He took the trouble to write to each of them personally.
+- He `took the` trouble `to` write to each of them personally.
 - "Would you like to have a meal with us?" "Only if it's not too much trouble."
 - I could give you a lift - it's no trouble.
 
 ## 3853. trouble ## noun
 /ˈtrʌb.əl/ DIFFICULT SITUATION
 [B2]a difficult, unpleasant or dangerous situation
-- The company was in serious trouble with massive debts.
-- He got into financial trouble after his divorce.
-- The marriage ran into trouble because of her husband's heavy drinking.
+- The company was `in` serious trouble with massive debts.
+- He got into `financial` trouble after his divorce.
+- The marriage `ran into` trouble because of her husband's heavy drinking.
 
 ## 3854. trouble ## noun
 /ˈtrʌb.əl/ the trouble with sb/sth
@@ -23076,23 +23076,23 @@
 /trʌst/ 
 [B2]the belief that you can trust someone or something
 - a relationship based on trust and understanding
-- We were obviously wrong to put our trust in her.
-- He's in a position of trust.
+- We were obviously wrong to `put` our trust `in` her.
+- He's in `a position of` trust.
 
 ## 3858. truth ## noun
 /truːθ/ BEING TRUE
 [B2]the quality of being true
-- There may be some truth in what she says.
-- There is no truth in the reports of his resignation.
-- And yet what he says contains at least a grain of truth.
+- There may be some truth `in` what she says.
+- There is no truth `in` the reports of his resignation.
+- And yet what he says contains at least `a grain of` truth.
 
 ## 3859. try ## noun [C usually no plural]
 /trɑɪ/ 
 [B2]an attempt to do something
-- I decided to give skiing a try.
-- Hand me the puzzle - I'll give it a try.
-- You could ask him if he's willing - it's worth a try.
-- This will be her third try at passing the bar exam.
+- I decided to `give` skiing a try.
+- Hand me the puzzle - I'll `give it` a try.
+- You could ask him if he's willing - it's `worth` a try.
+- This will be her third try `at` passing the bar exam.
 
 ## 3860. tube ## noun
 /tuːb/ PIPE
@@ -23102,26 +23102,26 @@
 ## 3861. turn ## noun
 /tɜrn/ CHANGE IN DIRECTION
 [B2]a change in the direction in which you are moving or facing
-- a left/right turn
-- We got as far as the school, and there we had to make a right turn.
+- a `left/right` turn
+- We got as far as the school, and there we had to `make` a right turn.
 
 ## 3862. turn ## noun
 /tɜrn/ take turns
 [B2]When a number of people take turns, they do the same thing one after the other.
-- We take turns to answer the phone.
+- We take turns `to` answer the phone.
 - They all took turns carrying the suitcase.
 
 ## 3863. tutor ## noun [C]
 /ˈtuːt̬.ər/ 
 [B2]someone who teaches one person or a very small group of people
-- a private tutor
+- a `private` tutor
 
 ## 3864. understanding ## noun
 /ˌʌn.dərˈstæn.dɪŋ/ KNOWLEDGE
 [B2]knowledge about a subject, situation, etc. or about how something works
-- She doesn't have any understanding of politics.
-- My understanding of the agreement is that they will pay $80,000 over two years.
-- It was my understanding that she would come alone.
+- She doesn't have any understanding `of` politics.
+- My understanding `of` the agreement is that they will pay $80,000 over two years.
+- `It was my` understanding `that` she would come alone.
 
 ## 3865. understanding ## noun
 /ˌʌn.dərˈstæn.dɪŋ/ SYMPATHY
@@ -23142,20 +23142,20 @@
 ## 3868. upbringing ## noun [no plural]
 /ˈʌpˌbrɪŋ.ɪŋ/ 
 [B2]the way that your parents take care of you and the things that they teach you when you are growing up
-- a strict religious/Catholic/Jewish upbringing
+- a strict `religious/Catholic/Jewish` upbringing
 - He described his upbringing on a farm in Kansas.
-- her middle-class upbringing
+- her `middle-class` upbringing
 
 ## 3869. update ## noun [C]
  NEW INFORMATION
 [B2]new information
-- I'll need regular updates on your progress.
+- I'll need regular updates `on` your progress.
 
 ## 3870. update ## noun [C]
  NEW FORM
 [B2]a new form of something that existed at an earlier time
 - a software update
-- It's an update of an old 1960s movie.
+- It's an update `of` an old 1960s movie.
 
 ## 3871. upgrade ## noun [C]
 /ʌpˈgreɪd/ 
@@ -23186,52 +23186,52 @@
 ## 3876. value ## noun
 /ˈvæl.juː/ values
 [B2]the beliefs people have about what is right and wrong and what is most important in life, which control their behavior
-- family/moral/traditional values
+- `family/moral/traditional` values
 
 ## 3877. variation ## noun
 /ˌver.iːˈeɪ.ʃən/ DIFFERENCE
 [B2]a difference in amount or quality
-- variations in price/temperature
-- There was some variation in the quality of the prints.
+- variations `in` price/temperature
+- There was some variation `in` the quality of the prints.
 
 ## 3878. venue ## noun [C]
 /ˈven.juː/ 
 [B2]a place where a sports game, musical performance, or special event happens
-- The hotel is an ideal venue for conferences and business meetings.
-- The stadium has been specifically designed as a venue for baseball games.
+- The hotel is an ideal venue `for` conferences and business meetings.
+- The stadium has been specifically designed as a venue `for` baseball games.
 
 ## 3879. verse ## noun [C]
 /vɜrs/ 
 [B2]one of the parts that a song or poem is divided into
-- I only know the first verse of the poem.
+- I only know the `first` verse of the poem.
 - Each verse was sung as a solo and then everyone joined in on the chorus.
 
 ## 3880. version ## noun [C]
 /ˈvɜr.ʒən/ FORM
 [B2]one form of something that is slightly different from other forms of the same thing
-- An English-language version of the book is planned for the fall.
-- The original version of the film is much better.
-- a new/updated version
+- An English-language version `of` the book is planned for the fall.
+- The `original` version of the film is much better.
+- a `new/updated` version
 
 ## 3881. victim ## noun [C]
 /ˈvɪk.təm/ 
 [B2]someone who has suffered the effects of violence, illness or bad luck
-- victims of crime
-- The children are the innocent victims of the fighting.
+- victims `of crime`
+- The children are the `innocent` victims `of` the fighting.
 - The new drug might help save the lives of cancer victims.
 
 ## 3882. victory ## noun [C or U]
 /ˈvɪk.tə.ri/ 
 [B2]when you win a game, competition, election, fight, war, etc.
-- Phoenix managed a 135-114 victory over Denver.
-- Grant won/achieved/gained a comfortable/easy victory over Cooper in yesterday's match.
-- This result is a victory for democracy.
+- Phoenix managed a 135-114 victory `over` Denver.
+- Grant `won/achieved/gained` a comfortable/easy victory over Cooper in yesterday's match.
+- This result is a victory `for` democracy.
 
 ## 3883. view ## noun
 /vjuː/ ABILITY TO SEE
 [B2]how well you can see something from a particular place
-- We had a great view of the procession.
-- Don't stand in front of me - you're blocking my view of the stage.
+- We had a great view `of` the procession.
+- Don't stand in front of me - you're `blocking` my view of the stage.
 - She turned a corner, and disappeared from view.
 
 ## 3884. view ## noun
@@ -23254,8 +23254,8 @@
 [B2]when someone tries to hurt or kill someone else
 - an act of violence
 - A number of people were killed in the violence.
-- Violence against women has increased in recent years.
-- The recent outbreak of violence in the region is very disturbing.
+- Violence `against` women has increased in recent years.
+- The recent `outbreak of` violence in the region is very disturbing.
 
 ## 3888. virtual reality ## noun [U]
 /ˌvɜr.tʃu.əl.riːˈæl.ət̬.i/ 
@@ -23272,8 +23272,8 @@
 ## 3890. vision ## noun
 /ˈvɪʒ.ən/ IDEA
 [B2]an idea or image in your mind of what something could be like in the future
-- a vision of a better society
-- We see in his novels his grim vision of the future.
+- a vision `of` a better society
+- We see in his novels his grim vision `of` the future.
 
 ## 3891. vision ## noun
 /ˈvɪʒ.ən/ SIGHT
@@ -23294,14 +23294,14 @@
 ## 3894. volcano ## noun [C]
 /vɑlˈkeɪ.noʊ/ 
 [B2]a mountain with a large hole at the top, which sometimes explodes and produces hot, melted rock and smoke
-- an extinct/active volcano
-- Erupting volcanoes discharge massive quantities of dust into the atmosphere.
+- an `extinct/active` volcano
+- `Erupting` volcanoes discharge massive quantities of dust into the atmosphere.
 
 ## 3895. volume ## noun
 /ˈvɑl.jəm/ AMOUNT
 [B2]the number or amount of something, especially when it is large
-- I was put off by the volume of work involved.
-- The volume of traffic in the city is causing problems.
+- I was put off by the volume `of work` involved.
+- The volume `of traffic` in the city is causing problems.
 
 ## 3896. volunteer ## noun [C]
 /ˌvɑl.ənˈtɪr/ 
@@ -23312,27 +23312,27 @@
 ## 3897. vote ## noun
 /voʊt/ DECIDE
 [B2]a way of making a decision by asking a group of people to vote
-- We called a meeting in order to take a vote on the issue.
+- We called a meeting in order to `take a` vote `on` the issue.
 
 ## 3898. voyage ## noun [C]
 /ˈvɔɪ.ɪdʒ/ 
 [B2]a long journey, especially by ship, or in space
-- Cook's voyage to Australia
+- Cook's voyage `to` Australia
 
 ## 3899. waist ## noun [C]
 /weɪst/ 
 [B2]the part of the body above and slightly narrower than the hips
-- a small/narrow/tiny/large waist
+- a `small/narrow/tiny/large` waist
 - These pants are a little tight around my waist.
 - She has a 26-inch waist.
 
 ## 3900. wait ## noun [no plural]
 /weɪt/ 
 [B2]when you stay in one place until someone or something arrives, or someone or something is ready for you
-- a long wait
+- a `long` wait
 - well worth the wait
-- We had a three-hour wait before we could see the doctor.
-- The long wait for the doctor/to see the doctor really made me anxious.
+- We `had` a three-hour wait before we could see the doctor.
+- The long wait `for` the doctor/`to` see the doctor really made me anxious.
 
 ## 3901. walk ## noun [C]
 /wɔːk/ a short/ten-minute, etc., walk
@@ -23347,7 +23347,7 @@
 ## 3903. wardrobe ## noun [C or U]
 /ˈwɔːr.droʊb/ 
 [B2]the set of clothes that you own, or a set of clothes worn at a particular time or for a particular situation
-- I'll need a new wardrobe for my new job!
+- I'll need a `new` wardrobe for my new job!
 - a stylish/casual/winter wardrobe
 
 ## 3904. warmth ## noun [U]
@@ -23364,15 +23364,15 @@
 ## 3906. wasp ## noun [C]
 /wɑsp/ 
 [B2]a black and yellow flying insect that can sting you
-- There's a wasps' nest in that old tree.
-- a wasp sting
+- There's a wasps' `nest` in that old tree.
+- a wasp `sting`
 
 ## 3907. waste ## noun
 /weɪst/ UNWANTED MATTER
 [B2]unwanted matter or material of any type, often that which is left after useful substances or parts have been removed
-- hazardous household waste, like leftover paint or insecticides
-- The group has raised concerns about how nuclear waste would be handled.
-- Oil spills are common, as is the dumping of toxic waste.
+- hazardous `household waste`, like leftover paint or insecticides
+- The group has raised concerns about how `nuclear` waste would be handled.
+- Oil spills are common, as is the dumping of `toxic` waste.
 
 ## 3908. wave ## noun [C]
 /weɪv/ ENERGY
@@ -23421,7 +23421,7 @@
 ## 3916. weakness ## noun
 /ˈwiːk.nəs/ NOT STRONG
 [B2]when someone or something is not strong or powerful
-- Asking for help is not a sign of weakness.
+- Asking for help is not `a sign of` weakness.
 
 ## 3917. weakness ## noun
 /ˈwiːk.nəs/ NOT EFFECTIVE
@@ -23438,7 +23438,7 @@
 ## 3919. weapon ## noun [C]
 /ˈwep.ən/ 
 [B2]any object used in fighting or war, such as a gun, bomb, sword, etc.
-- chemical/nuclear/biological weapons
+- `chemical/nuclear/biological` weapons
 - The youths were dragged from their car and searched for weapons.
 
 ## 3920. weight ## noun
@@ -23460,13 +23460,13 @@
 ## 3923. west ## noun [U]
 /west/ (the) West
 [B2]the countries of North America and western Europe
-- There has been concern in/throughout the West about the effects of this measure.
+- There has been concern `in/throughout` the West about the effects of this measure.
 - East-West relations
 
 ## 3924. wheat ## noun [U]
 /wiːt/ 
 [B2]a plant whose yellowish brown grain is used for making flour, or the grain itself
-- wheat fields
+- wheat `fields`
 - Wheat is an important crop for millions of people across the world.
 
 ## 3925. wheel ## noun [C]
@@ -23487,7 +23487,7 @@
 ## 3928. whistle ## noun [C]
 /ˈwɪs.əl/ 
 [B2]a small, simple instrument that makes a sound when you blow through it
-- The referee blew his whistle to end the game.
+- The referee `blew` his whistle to end the game.
 
 ## 3929. whole ## noun
 /hoʊl/ as a whole
@@ -23502,19 +23502,19 @@
 ## 3931. width ## noun [C or U]
 /wɪtθ/ 
 [B2]the distance across something from one side to the other
-- It is 5 inches in width.
-- The needle is seven times smaller than the width of a human hair.
+- It is 5 inches `in` width.
+- The needle is seven times smaller than the width `of` a human hair.
 
 ## 3932. will ## noun
 /wɪl/ MENTAL POWER
 [B2]the mental power used to control and direct your thoughts and actions, or a determination to do something, despite any difficulties or opposition
 - From an early age she had a very strong will.
-- After six months in the hospital she began to lose the will to live.
+- After six months in the hospital she began to lose the will `to` live.
 
 ## 3933. willingness ## noun [U]
 /ˈwɪl.ɪŋ.nəs/ 
 [B2]the state of being willing
-- I was impressed by her willingness to listen.
+- I was impressed by her willingness `to` listen.
 
 ## 3934. wing ## noun [C]
 /wɪŋ/ AIRCRAFT
@@ -23535,34 +23535,34 @@
 /ˈwɪz.dəm/ KNOWLEDGE
 [B2]the ability to use your knowledge and experience to make good decisions and judgments
 - As a coach, he says, he often gleans wisdom from his students.
-- They had doubts about the wisdom of spending such a sum.
-- Did we ever stop to question the wisdom of going to war?
-- Before I went off to college, my father gave me a few words of wisdom.
+- They had `doubts about` the wisdom of spending such a sum.
+- Did we ever stop to `question` the wisdom of going to war?
+- Before I went off to college, my father gave me a few `words of` wisdom.
 
 ## 3938. wish ## noun [C]
 /wɪʃ/ WANT
 [B2]what you want to do or what you want to happen
-- Did he express any wish to see me?
-- The hospital always tries to respect the wishes of its patients.
-- It was his greatest wish that one of his grandchildren would become a doctor.
+- Did he express any wish `to` see me?
+- The hospital always tries to `respect` the wishes of its patients.
+- It was his greatest wish `that` one of his grandchildren would become a doctor.
 
 ## 3939. witness ## noun [C]
 /ˈwɪt.nəs/ 
 [B2]a person who sees an event happening, especially a crime or an accident
-- The police are appealing for witnesses to the accident to come forward.
-- According to (eye) witnesses, the robbery was done by two teenage boys.
+- The police are appealing for witnesses `to` the accident to come forward.
+- According to `(eye)` witnesses, the robbery was done by two teenage boys.
 
 ## 3940. wolf ## noun [C]
 /wʊlf/ 
 [B2]a wild animal of the dog family
 - Wolves hunt in groups known as packs.
-- We could hear wolves howling in the distance.
+- We could hear wolves `howling` in the distance.
 
 ## 3941. wonder ## noun
 /ˈwʌn.dər/ no wonder
 [B2]it is not surprising
 - No wonder the children are excited - this is the first time they've been abroad.
-- "If brutal killers like these two are at work, it is no wonder that so many people have fled," he said.
+- "If brutal killers like these two are at work, `it is` no wonder `that` so many people have fled," he said.
 
 ## 3942. word ## noun
 /wɜrd/ in other words
@@ -23572,8 +23572,8 @@
 ## 3943. work ## noun
 /wɜrk/ CREATION
 [B2]a painting, book, piece of music, etc.
-- The museum has many works by Picasso as well as other modern painters.
-- the complete works of Shakespeare
+- The museum has many works `by` Picasso as well as other modern painters.
+- the `complete` works of Shakespeare
 
 ## 3944. worm ## noun [C]
 /wɜrm/ 
@@ -23596,7 +23596,7 @@
 [B2]an injury, especially one that is made with a knife or bullet
 - a gunshot wound
 - a chest/leg wound
-- a flesh wound
+- a `flesh` wound
 
 ## 3948. wrist ## noun [C]
 /rɪst/ 
@@ -23606,7 +23606,7 @@
 ## 3949. writing ## noun [U]
 /ˈrɑɪt̬.ɪŋ/ WORK
 [B2]the activity of creating pieces of written work, such as books, stories, poems, etc., or the written work of one person or a group of people
-- I took a course in creative writing.
+- I took a course in `creative` writing.
 - She is studying women's writing of the 1930s.
 
 ## 3950. writing ## noun [U]
@@ -23617,13 +23617,13 @@
 ## 3951. yacht ## noun [C]
 /jɑt/ 
 [B2]a boat with sails and sometimes an engine, used for either racing or traveling on for pleasure
-- a luxury yacht
-- a yacht club
+- a `luxury` yacht
+- a yacht `club`
 
 ## 3952. yell ## noun [C]
 /jel/ 
 [B2]a loud shout
-- Suddenly there was a loud yell from the bathroom.
+- Suddenly there was a `loud` yell from the bathroom.
 
 ## 3953. young ## noun
 /jʌŋ/ the young
@@ -23634,7 +23634,7 @@
 ## 3954. youth ## noun
 /juːθ/ sb's youth
 [B2]the period of time when someone is young
-- I was a fairly good football player in my youth.
+- I was a fairly good football player `in` my youth.
 
 ## 3955. zebra ## noun [C]
 /ˈziː.brə/ 
@@ -23645,7 +23645,7 @@
 /ˈzɪp.ər/ 
 [B2]a thing for fastening clothes, bags, etc. consisting of two rows of very small parts that connect together
 - The jeans had two buttons and a zipper in front.
-- I can't open my bag - the zipper is stuck.
+- I can't open my bag - the zipper is `stuck`.
 
 ## 3957. zucchini ## noun [C or U]
 /zʊˈkiː·ni/ 
@@ -23656,19 +23656,19 @@
 ## 3958. abortion ## noun [C or U]
 /əˈbɔːr.ʃən/ 
 [C1]a medical method to end a pregnancy
-- to have an abortion
+- to `have` an abortion
 
 ## 3959. abuse ## noun
 /əˈbjuːs/ WRONG ACTION
 [C1]an action or activity that is morally wrong or not allowed
 - The mayor was suspected of corruption and other abuses.
-- The committee is investigating the abuse of tax-exempt status by charities.
+- The committee is investigating the abuse `of` tax-exempt status by charities.
 
 ## 3960. acceptance ## noun [C or U]
 /əkˈsep.təns/ 
 [C1]when you accept something
-- His acceptance of the award was controversial.
-- There is a growing public acceptance of alternative medicine.
+- His acceptance `of` the award was controversial.
+- There is a growing `public` acceptance `of` alternative medicine.
 
 ## 3961. accessory ## noun [C]
 /əkˈses.ə.ri/ 
@@ -23689,7 +23689,7 @@
 ## 3964. accusation ## noun [C]
 /ˌæk.jʊˈzeɪ.ʃən/ 
 [C1]when you say that someone has done something bad
-- He made a number of accusations against his former colleagues.
+- He `made` a number of accusations `against` his former colleagues.
 
 ## 3965. acquaintance ## noun [C]
 /əˈkweɪn.təns/ 
@@ -23699,7 +23699,7 @@
 ## 3966. action ## noun
 /ˈæk.ʃən/ LEGAL PROCESS
 [C1]a process in a law court when a person claims to have been harmed
-- They are considering taking legal action against the company.
+- They are considering `taking` legal action `against` the company.
 
 ## 3967. action ## noun
 /ˈæk.ʃən/ course of action
@@ -23709,7 +23709,7 @@
 ## 3968. adaptation ## noun [C or U]
 /ˌæd.æpˈteɪ.ʃən/ 
 [C1]the process or act of changing to suit a new situation
-- Evolution occurs as a result of adaptation to new environments.
+- Evolution occurs as a result of adaptation `to` new environments.
 
 ## 3969. administration ## noun
 /ədˌmɪn.əˈstreɪ.ʃən/ ORGANIZING
@@ -23724,7 +23724,7 @@
 ## 3971. adviser ## noun [C]
 /ədˈvɑɪ.zər / 
 [C1]someone whose job is to give advice about a subject
-- a financial adviser
+- a `financial` adviser
 
 ## 3972. agency ## noun [C]
 /ˈeɪ.dʒənt.si/ ORGANIZATION
@@ -23735,7 +23735,7 @@
 ## 3973. agenda ## noun [C]
 /əˈdʒen.də/ MEETING
 [C1]a list of subjects that people will discuss at a meeting
-- There are several items on the agenda.
+- There are several items `on` the agenda.
 
 ## 3974. aggression ## noun [U]
 /əˈgreʃ.ən/ 
@@ -23746,13 +23746,13 @@
 /eɪd/ HELP
 [C1]help or support
 - She went to the aid of a man trapped in his car.
-- He applied for financial aid for college.
+- He applied for `financial` aid for college.
 
 ## 3976. aid ## noun
 /eɪd/ SUPPLIES
 [C1]money, food, or equipment that is given to help a country or group of people
 - Emergency aid was sent to the flood victims.
-- foreign aid
+- `foreign` aid
 - aid workers
 
 ## 3977. aid ## noun
@@ -23780,8 +23780,8 @@
 ## 3981. allegation ## noun [C]
 /ˌæl.əˈgeɪ.ʃən/ 
 [C1]when you say that someone has done something wrong or illegal, without proof that this is true
-- The allegations of corruption were not true.
-- He denied the allegation that he had cheated.
+- The allegations `of` corruption were not true.
+- He `denied` the allegation `that` he had cheated.
 
 ## 3982. allowance ## noun [C]
 /əˈlɑʊ.əns/ MONEY
@@ -23792,12 +23792,12 @@
 ## 3983. ally ## noun [C]
 /ˈæ.lɑɪ/ PERSON
 [C1]someone who supports you, especially when other people are against you
-- He is generally considered to be the Prime Minister's closest political ally.
+- He is generally considered to be the Prime Minister's `closest` political ally.
 
 ## 3984. alteration ## noun [C or U]
 /ˌɔːl.təˈreɪ.ʃən/ 
 [C1]a change, or the process of changing something
-- We've made a few alterations to the kitchen.
+- We've `made` a few alterations `to` the kitchen.
 
 ## 3985. amateur ## noun [C]
 /ˈæm.ə.tɜr / HOBBY
@@ -23812,13 +23812,13 @@
 ## 3987. amendment ## noun [C or U]
 /əˈmend.mənt/ 
 [C1]a change in the words of a document, or the process of doing this
-- to make an amendment to the human rights law
+- to `make` an amendment `to` the human rights law
 
 ## 3988. angle ## noun [C]
 /ˈæŋ.gəl/ SPACE
 [C1]the space between two lines or surfaces at the point at which they touch each other, measured in degrees
-- an angle of 90 degrees
-- The interior angles of a square are right angles.
+- an angle `of` 90 degrees
+- The interior angles of a square are `right` angles.
 
 ## 3989. angle ## noun [C]
 /ˈæŋ.gəl/ at/on an angle
@@ -23828,24 +23828,24 @@
 ## 3990. angle ## noun [C]
 /ˈæŋ.gəl/ DIRECTION
 [C1]the direction from which you look at something
-- This is the same building photographed from different angles.
+- This is the same building photographed `from` different angles.
 
 ## 3991. angle ## noun [C]
 /ˈæŋ.gəl/ WAY OF THINKING
 [C1]the way you think about a situation
-- Try looking at the problem from another angle.
+- Try looking at the problem `from` another angle.
 
 ## 3992. annoyance ## noun [U]
 /əˈnɔɪ.əns/ 
 [C1]the feeling of being annoyed
-- He kept losing his keys, much to the annoyance of his wife.
+- He kept losing his keys, `much to the` annoyance `of` his wife.
 
 ## 3993. appetite ## noun [C or U]
 /ˈæp.ə.tɑɪt/ FOOD
 [C1]the feeling that you want to eat
 - a good/healthy appetite
-- All that walking gave me quite an appetite.
-- If I have a snack now it will spoil my appetite and I won't want dinner.
+- All that walking `gave` me quite an appetite.
+- If I have a snack now it will `spoil` my appetite and I won't want dinner.
 
 ## 3994. applause ## noun [U]
 /əˈplɔːz/ 
@@ -23871,12 +23871,12 @@
 ## 3998. arrival ## noun
 /əˈrɑɪ.vəl/ NEW PERSON/THING
 [C1]a new thing or person that has arrived
-- Two teachers were there to greet the new arrivals.
+- Two teachers were there to greet the `new` arrivals.
 
 ## 3999. asset ## noun
 /ˈæ.set/ USEFUL
 [C1]a person, skill or quality that is useful or helps you to succeed
-- He'll be a great asset to the team.
+- He'll be a great asset `to` the team.
 
 ## 4000. asset ## noun
 /ˈæ.set/ WORTH MONEY
@@ -23891,13 +23891,13 @@
 ## 4002. assumption ## noun
 /əˈsʌmp.ʃən/ 
 [C1]something that you think is true without having any proof
-- People tend to make assumptions about you when you have a disability.
-- These calculations are based on the assumption that prices will continue to rise.
+- People tend to `make` assumptions `about` you when you have a disability.
+- These calculations are based `on the` assumption `that` prices will continue to rise.
 
 ## 4003. assurance ## noun
 /əˈʃʊr.əns/ PROMISE
 [C1]a promise
-- He gave us his assurance that it would not happen again.
+- He `gave` us his assurance that it would not happen again.
 
 ## 4004. attendance ## noun [C or U]
 /əˈten.dəns/ NUMBER
@@ -23954,7 +23954,7 @@
 ## 4014. balance ## noun
 /ˈbæl.əns/ strike a balance
 [C1]to give two things the same amount of attention
-- It's important to strike a balance between spending and saving.
+- It's important to strike a balance `between` spending and saving.
 
 ## 4015. ball ## noun [C]
 /bɔːl/ be on the ball
@@ -23964,7 +23964,7 @@
 ## 4016. basis ## noun [C]
 /ˈbeɪ.səs/ REASON
 [C1]the reason for something
-- There is no scientific basis for these claims.
+- There is no `scientific` basis for these claims.
 
 ## 4017. basis ## noun [C]
 /ˈbeɪ.səs/ on the basis of sth
@@ -23974,7 +23974,7 @@
 ## 4018. basis ## noun [C]
 /ˈbeɪ.səs/ BEGINNING
 [C1]a situation, fact, or idea from which something begins to develop
-- Dari's essay can serve as a basis for our discussion.
+- Dari's essay can serve as `a` basis `for` our discussion.
 
 ## 4019. beak ## noun [C]
 /biːk/ 
@@ -23989,13 +23989,13 @@
 ## 4021. bid ## noun [C]
 /bɪd/ ATTEMPT
 [C1]an attempt to get or achieve something
-- He was defeated in his bid for governor.
-- New York's bid to host the Olympics was not successful.
+- He was defeated `in` his bid `for` governor.
+- New York's bid `to` host the Olympics was not successful.
 
 ## 4022. bid ## noun [C]
 /bɪd/ OFFER
 [C1]an offer to do a job for a particular amount of money when you are competing with other people to do it
-- We put in a bid for the stadium contract.
+- We put in a bid `for` the stadium contract.
 
 ## 4023. birth ## noun
 /bɜrθ/ BEGINNING
@@ -24016,7 +24016,7 @@
 ## 4026. blank ## noun [C]
 /blæŋk/ SPACE
 [C1]an empty space on a test or form where an answer must be written
-- fill in the blanks
+- `fill in` the blanks
 
 ## 4027. blind ## noun
 /blɑɪnd/ the blind
@@ -24048,7 +24048,7 @@
 ## 4032. boundary ## noun [C]
 /ˈbɑʊn.dri/ LINE
 [C1]a line that divides two areas or forms an edge around an area
-- The mountains mark the boundary between the two countries.
+- The mountains mark the boundary `between` the two countries.
 
 ## 4033. boundary ## noun [C]
 /ˈbɑʊn.dri/ LIMIT
@@ -24058,13 +24058,13 @@
 ## 4034. bracket ## noun
 /ˈbræk.ɪt/ SYMBOL
 [C1]either of two symbols like two halves of a square, put around a word, phrase or sentence in a piece of writing to show that what is between them should be considered as separate from the main part
-- Biographical information is included in brackets.
+- Biographical information is included `in` brackets.
 
 ## 4035. bracket ## noun
 /ˈbræk.ɪt/ GROUP
 [C1]a group of people or things within particular lower and higher limits
-- Most heart attack victims are in the 45 to 65 age bracket.
-- Her new job puts her in a higher tax/income bracket.
+- Most heart attack victims are in the 45 to 65 `age` bracket.
+- Her new job puts her in a higher `tax/income` bracket.
 
 ## 4036. brain ## noun [C]
 /breɪn/ INTELLIGENCE
@@ -24091,7 +24091,7 @@
 ## 4040. bribe ## noun [C]
 /brɑɪb/ 
 [C1]money or a present given to someone so that they will do something for you, usually something dishonest
-- The politician was accused of accepting bribes from several companies.
+- The politician was accused of `accepting` bribes from several companies.
 
 ## 4041. bronze ## noun
 /brɑnz/ PRIZE
@@ -24131,8 +24131,8 @@
 ## 4048. burden ## noun [C]
 /ˈbɜrd.ən/ 
 [C1]something difficult or unpleasant that you have to deal with or worry about
-- the burden of responsibility
-- I'd hate to be a burden to you when I'm older.
+- the burden `of` responsibility
+- I'd hate to be a burden `to` you when I'm older.
 
 ## 4049. bush ## noun [C]
 /bʊʃ/ beat around the bush
@@ -24152,12 +24152,12 @@
 ## 4052. call ## noun [C]
 /kɔːl/ VISIT
 [C1]a short visit
-- I thought I'd pay Gary a call.
+- I thought I'd `pay` Gary a call.
 
 ## 4053. campaign ## noun [C]
 /kæmˈpeɪn/ ACTIVITIES
 [C1]a series of organized activities or events intended to achieve a result
-- an advertising/election campaign
+- an `advertising/election` campaign
 
 ## 4054. campaign ## noun [C]
 /kæmˈpeɪn/ WAR
@@ -24178,7 +24178,7 @@
 ## 4057. capacity ## noun
 /kəˈpæs.ə.t̬i/ JOB
 [C1]a position or job
-- She attended over 100 events last year in her capacity as mayor.
+- She attended over 100 events last year `in her` capacity `as` mayor.
 
 ## 4058. capture ## noun [U]
 /ˈkæp.tʃər/ 
@@ -24199,14 +24199,14 @@
 ## 4061. cause ## noun
 /kɔːz/ PRINCIPLE
 [C1]a principle or aim that a group of people support or fight for
-- The money will all go to a good cause.
+- The money will all go to a `good` cause.
 - The war will not end as long as people believe they are fighting for the right cause.
 
 ## 4062. caution ## noun
 /ˈkɔː.ʃən/ CARE
 [C1]great care and attention not to take risks or get into danger
-- Travelers have been advised to exercise great caution when passing through the region.
-- I would treat anything he says with extreme caution.
+- Travelers have been advised to `exercise` great caution when passing through the region.
+- I would `treat` anything he says `with` extreme caution.
 
 ## 4063. cereal ## noun [C or U]
 /ˈsɪr.iː.əl/ PLANT
@@ -24216,7 +24216,7 @@
 ## 4064. character ## noun
 /ˈkær.ɪk.tər/ INTERESTING PERSON
 [C1]an interesting or funny person whose behavior is different from most people's
-- Your grandmother is a real character.
+- Your grandmother is a `real` character.
 
 ## 4065. character ## noun
 /ˈkær.ɪk.tər/ WRITING
@@ -24226,9 +24226,9 @@
 ## 4066. charge ## noun
 /tʃɑrdʒ/ CRIME
 [C1]a formal police statement saying that someone is accused of a crime
-- The 19-year-old will be appearing in court on Thursday where she will face criminal charges.
-- He has been arrested on a charge of murder.
-- The district attorney brought charges against him.
+- The 19-year-old will be appearing in court on Thursday where she will face `criminal` charges.
+- He has been arrested `on` a charge ` of` murder.
+- The district attorney `brought` charges `against` him.
 
 ## 4067. cholesterol ## noun [U]
 /kəˈles.tər.ɔːl/ 
@@ -24253,15 +24253,15 @@
 ## 4071. claim ## noun [C]
 /kleɪm/ STATEMENT
 [C1]a statement that something is true or is a fact, although other people might not believe it
-- She rejected claims that she had lied.
-- Can you give any evidence to support your claim?
-- He made wild claims about being able to cure cancer.
+- She rejected claims `that` she had lied.
+- Can you give any evidence to `support` your claim?
+- He `made` wild claims `about` being able to cure cancer.
 
 ## 4072. clarification ## noun [C or U]
 /ˌklær.ə.fəˈkeɪ.ʃən/ 
 [C1]an explanation which makes something clearer or easier to understand
-- Please contact this office again if you require further clarification.
-- Our lawyer has advised us to seek clarification on the matter.
+- Please contact this office again if you require `further` clarification.
+- Our lawyer has advised us to `seek` clarification on the matter.
 
 ## 4073. cleaner ## noun [C]
 /ˈkliː.nər/ the cleaner's
@@ -24271,7 +24271,7 @@
 ## 4074. clock ## noun [C]
 /klɑk/ around the clock
 [C1]all day and all night
-- Rescue teams are working around the clock to search for survivors of the earthquake.
+- Rescue teams are `working` around the clock to search for survivors of the earthquake.
 
 ## 4075. closeness ## noun [U]
 /ˈkloʊs.nəs/ NEAR
@@ -24297,12 +24297,12 @@
 /koʊd/ RULES
 [C1]a set of rules on how to behave or how to do things
 - a code of conduct
-- The club has a strict dress code.
+- The club has a strict `dress` code.
 
 ## 4080. collaboration ## noun
 /kəˌlæb.əˈreɪ.ʃən/ 
 [C1]when two or more people work together to create or achieve the same thing, or a product of this
-- The show was a result of collaboration between several museums.
+- The show was a result of collaboration `between` several museums.
 
 ## 4081. color ## noun
 /ˈkʌl.ər/ with flying colors
@@ -24351,12 +24351,12 @@
 /kəmˈpliː.ʃən/ 
 [C1]when something that you are doing or making is finished
 - The stadium is due for completion in 2016.
-- They will be paid on completion of the job.
+- They will be paid `on` completion `of` the job.
 
 ## 4090. complex ## noun
  BUILDINGS
 [C1]a group of buildings or rooms that are used for a particular purpose
-- a sports/housing/apartment complex
+- a `sports/housing/apartment` complex
 
 ## 4091. complication ## noun [C]
 /ˌkɑm.pləˈkeɪ.ʃən/ DIFFICULTY
@@ -24397,7 +24397,7 @@
 ## 4098. consequence ## noun [C]
 /ˈkɑn.sə.kwəns/ as a consequence
 [C1]used to talk about one thing that is the result of another
-- A lot of birds died as a consequence of the oil spill.
+- A lot of birds died as a consequence `of` the oil spill.
 
 ## 4099. consequence ## noun [C]
 /ˈkɑn.sə.kwəns/ of little/no consequence
@@ -24423,8 +24423,8 @@
 ## 4103. contact ## noun
 /ˈkɑn.tækt/ TOUCH
 [C1]when two people or things are touching each other
-- She dislikes any kind of physical contact.
-- Wash your hands if they come into contact with chemicals.
+- She dislikes any kind of `physical` contact.
+- Wash your hands if they `come into` contact `with` chemicals.
 
 ## 4104. contestant ## noun [C]
 /kənˈtes.tənt/ 
@@ -24435,7 +24435,7 @@
 /ˈkɑn.tekst/ LANGUAGE
 [C1]other words that were said or written at the same time as the word or words you are talking about
 - In this exercise, a word is blanked out and you have to guess what it is by looking at the context.
-- Taken out of context, her remark sounded like an insult.
+- Taken `out of` context, her remark sounded like an insult.
 
 ## 4106. contrary ## noun
 /ˈkɑn.trer.i/ to the contrary
@@ -24455,13 +24455,13 @@
 ## 4109. convenience ## noun
 /kənˈviːn.jəns/ HELPFUL THING
 [C1]something that makes life easier
-- Fortunately, the house has every modern convenience.
+- Fortunately, the house has every `modern` convenience.
 
 ## 4110. convention ## noun
 /kənˈven.tʃən/ MEETING
 [C1]a large formal meeting of people who do a particular job or have a similar interest, or a large meeting for a political party
 - the national Democratic convention
-- Where are they holding their party convention?
+- Where are they `holding` their party convention?
 
 ## 4111. convention ## noun
 /kənˈven.tʃən/ CUSTOM
@@ -24511,7 +24511,7 @@
 ## 4120. course ## noun
 /kɔːrs/ ROUTE
 [C1]the route that a car, ship, aircraft, etc., is following or the route a river flows along
-- During the storm, the boat was blown off course.
+- During the storm, the boat was blown `off` course.
 
 ## 4121. course ## noun
 /kɔːrs/ a matter of course
@@ -24526,12 +24526,12 @@
 ## 4123. cover ## noun
 /ˈkʌv.ər/ FROM WEATHER/ATTACK
 [C1]protection from bad weather or an attack
-- They took cover under some trees until the rain stopped.
+- They `took` cover under some trees until the rain stopped.
 
 ## 4124. coverage ## noun [U]
 /ˈkʌv.ə.rɪdʒ/ REPORT
 [C1]the way a newspaper, television program, etc. reports an event or subject
-- There is live coverage of the game on cable TV.
+- There is `live` coverage of the game on cable TV.
 
 ## 4125. crash ## noun [C]
 /kræʃ/ BUSINESS
@@ -24546,7 +24546,7 @@
 ## 4127. crawl ## noun
 /krɔːl/ SWIMMING
 [C1]a style of swimming in which you move your arms over your head and kick with straight legs
-- front/back crawl
+- `front/back` crawl
 
 ## 4128. cream ## noun
 /kriːm/ the cream of sth
@@ -24561,7 +24561,7 @@
 ## 4130. critic ## noun [C]
 /ˈkrɪt̬.ɪk/ NOT APPROVE
 [C1]someone who says that they do not approve of someone or something
-- an outspoken critic of the government
+- an `outspoken` critic of the government
 
 ## 4131. crossing ## noun [C]
 /ˈkrɑs.ɪŋ/ TRIP BY WATER
@@ -24586,12 +24586,12 @@
 ## 4135. cut ## noun [C]
 /kʌt/ REDUCTION
 [C1]a reduction in the number or amount of something
-- tax/job cuts
+- `tax/job` cuts
 
 ## 4136. cutback ## noun [C]
 /ˈkʌt.bæk/ 
 [C1]a reduction of something, usually to save money
-- The company has made cutbacks and closed one of its factories.
+- The company has `made` cutbacks and closed one of its factories.
 
 ## 4137. date ## noun [C]
 /deɪt/ FRUIT
@@ -24606,18 +24606,18 @@
 ## 4139. day ## noun
 /deɪ/ days
 [C1]used to talk about a particular period of time when something happened or existed
-- in my younger days
+- `in my younger` days
 - This book was written before the days of computers.
 
 ## 4140. day ## noun
 /deɪ/ the old days
 [C1]a period in the past
-- This place isn't as good as it was in the old days!
+- This place isn't as good as it was `in` the old days!
 
 ## 4141. day care ## noun [U]
 /ˈdeɪ.ker/ 
 [C1]care provided during the day for young children or for older people who cannot look after themselves
-- The twins are in day care three afternoons a week.
+- The twins are `in` day care three afternoons a week.
 - a day-care center
 
 ## 4142. deal ## noun
@@ -24628,8 +24628,8 @@
 ## 4143. debut ## noun [C]
 /deɪˈbjuː/ 
 [C1]when someone performs or presents something to the public for the first time
-- She made her debut as a pianist in 1975.
-- This is the band's debut album.
+- She `made her` debut as a pianist in 1975.
+- This is the band's debut `album`.
 
 ## 4144. declaration ## noun [C]
 /ˌdek.ləˈreɪ.ʃən/ 
@@ -24657,17 +24657,17 @@
 /dəˈfens/ MILITARY
 [C1]the weapons and military forces that a country uses to protect itself against attack
 - Spending on defense / Defense spending is increasing.
-- the defense industry
+- the defense `industry`
 
 ## 4149. deficiency ## noun [C or U]
 /dəˈfɪʃ.ən.si/ FAULT
 [C1]a mistake or fault in something so that it is not good enough
-- Parents are complaining of serious deficiencies in the education system.
+- Parents are complaining of serious deficiencies `in` the education system.
 
 ## 4150. deficit ## noun [C]
 /ˈdef.ə.sɪt/ 
 [C1]the amount by which the money that you spend is more than the money that you receive
-- a budget deficit
+- a `budget` deficit
 
 ## 4151. definition ## noun
 /ˌdef.əˈnɪʃ.ən/ IMAGE
@@ -24683,7 +24683,7 @@
 ## 4153. demonstration ## noun
 /ˌdem.ənˈstreɪ.ʃən/ SHOWING
 [C1]showing how to do something, or how something works
-- Let me give you a demonstration of how the camera works.
+- Let me give you a demonstration `of` how the camera works.
 - a cooking demonstration
 
 ## 4154. demonstration ## noun
@@ -24694,7 +24694,7 @@
 ## 4155. density ## noun [C or U]
 /ˈden.sət̬.i/ 
 [C1]the number of people or things in a place when compared with the size of the place
-- The area has a high population density.
+- The area has a high `population` density.
 
 ## 4156. deodorant ## noun [C or U]
 /diˈoʊ.də.rənt/ 
@@ -24704,7 +24704,7 @@
 ## 4157. deposit ## noun [C]
 /dəˈpɑz.ət/ BANK
 [C1]an amount of money that you put into a bank account
-- to make a deposit
+- to `make` a deposit
 
 ## 4158. deposit ## noun [C]
 /dəˈpɑz.ət/ RENT
@@ -24760,7 +24760,7 @@
 ## 4168. direction ## noun
 /dəˈrek.ʃən/ CONTROL
 [C1]control or instructions
-- Under his direction, the company has doubled its profits.
+- `Under` his direction, the company has doubled its profits.
 
 ## 4169. directory ## noun [C]
 /dəˈrek.tər.i/ 
@@ -24785,7 +24785,7 @@
 ## 4173. discontent ## noun [U]
 /ˌdɪs.kənˈtent/ 
 [C1]unhappiness about a situation
-- There is growing discontent with governor's budget proposal.
+- There is growing discontent `with` governor's budget proposal.
 
 ## 4174. discovery ## noun
 /dɪˈskʌv.ə.ri/ THING/PERSON
@@ -24795,8 +24795,8 @@
 ## 4175. discrimination ## noun [U]
 /dɪˌskrɪm.ɪˈneɪ.ʃən/ 
 [C1]when someone is treated unfairly because of their sex, race, religion, etc.
-- racial/age/gender discrimination
-- discrimination against older workers
+- `racial/age/gender` discrimination
+- discrimination `against` older workers
 
 ## 4176. dismissal ## noun
 /dɪˈsmɪs.əl/ IDEA
@@ -24812,13 +24812,13 @@
 ## 4178. disorder ## noun
 /dɪˈsɔːr.dər/ ILLNESS
 [C1]an illness or medical condition
-- a mental/physical disorder
+- a `mental`/`physical` disorder
 
 ## 4179. disorder ## noun
 /dɪˈsɔːr.dər/ BAD BEHAVIOR
 [C1]uncontrolled, bad behavior, especially by large groups of people
 - crime and disorder
-- public/civil disorder
+- `public/civil` disorder
 
 ## 4180. displacement ## noun [U]
 /dɪˈspleɪs.mənt/ 
@@ -24838,12 +24838,12 @@
 ## 4183. dissertation ## noun [C]
 /ˌdɪs.ərˈteɪ.ʃən/ 
 [C1]a very long piece of writing done as part of a course of study
-- She's writing a dissertation on American poetry.
+- She's writing a dissertation `on` American poetry.
 
 ## 4184. distraction ## noun
 /dɪˈstræk.ʃən/ NO ATTENTION
 [C1]something that makes you stop giving your attention to something else
-- The phone calls were a constant distraction.
+- The phone calls were a `constant` distraction.
 
 ## 4185. distraction ## noun
 /dɪˈstræk.ʃən/ FUN
@@ -24873,13 +24873,13 @@
 ## 4190. diversity ## noun [U or no plural]
 /dəˈvɜr.sət̬.i/ 
 [C1]when many different types of things or people are included in something
-- Does television adequately reflect the ethnic and cultural diversity of the country?
-- There is a wide diversity of opinion on the issue.
+- Does television adequately reflect the `ethnic` and `cultural` diversity of the country?
+- There is `a` wide diversity `of` opinion on the issue.
 
 ## 4191. divide ## noun [C]
 /dɪˈvɑɪd/ 
 [C1]a difference or separation
-- Because of debt repayments, the divide between rich and poor countries is continuing to grow.
+- Because of debt repayments, the divide `between` rich and poor countries is continuing to grow.
 
 ## 4192. dock ## noun [C]
 /dɑːk/ 
@@ -24890,12 +24890,12 @@
 /doʊˈmeɪn/ 
 [C1]a particular area, activity, or subject that someone controls or deals with
 - The garden is his domain.
-- This information should be in the public domain.
+- This information should be `in the public` domain.
 
 ## 4194. domination ## noun [U]
 /dɑː.məˈneɪ.ʃən/ 
 [C1]great power and control over someone or something else
-- world domination
+- `world` domination
 
 ## 4195. doubt ## noun [C or U]
 /dɑʊt/ no doubt
@@ -24905,12 +24905,12 @@
 ## 4196. downside ## noun [no plural]
 /ˈdɑʊn.sɑɪd/ 
 [C1]the disadvantage of a situation
-- The downside of living in a city is all the pollution.
+- The downside `of` living in a city is all the pollution.
 
 ## 4197. dozen ## noun [C] ; determiner
 /ˈdʌz.ən/ dozens
 [C1]a lot
-- She's got dozens of friends.
+- She's got dozens `of` friends.
 
 ## 4198. draft ## noun [C]
 /dræft/ COLD AIR
@@ -24920,8 +24920,8 @@
 ## 4199. drawback ## noun [C]
 /ˈdrɑː.bæk/ 
 [C1]a problem or disadvantage
-- The only drawback to this camera is its price.
-- One of the main drawbacks of using this program is the amount of memory it uses.
+- The only drawback `to` this camera is its price.
+- One of the `main` drawbacks of using this program is the amount of memory it uses.
 
 ## 4200. drive ## noun
 /drɑɪv/ ENERGY
@@ -24941,7 +24941,7 @@
 ## 4203. duration ## noun [U]
 /duːˈreɪ.ʃən/ 
 [C1]the amount of time that something lasts
-- The singer remained in the hotel for the duration of his stay in the UK.
+- The singer remained in the hotel `for the` duration `of` his stay in the UK.
 
 ## 4204. ear ## noun [C]
 /ɪr/ have an ear for sth
@@ -24972,7 +24972,7 @@
 ## 4209. effect ## noun
 /ɪˈfekt/ have little/no effect
 [C1]make little/no difference
-- The new measures have had little effect on ordinary people's lives.
+- The new measures have had little effect `on` ordinary people's lives.
 
 ## 4210. effectiveness ## noun [U]
 /ɪˈfek.tɪv.nəs/ 
@@ -24998,7 +24998,7 @@
 ## 4214. emission ## noun [C or U]
 /iːˈmɪʃ.ən/ 
 [C1]when gas, heat, light, etc. is sent out into the air, or an amount of gas, heat, light, etc. that is sent out
-- Carbon dioxide emissions will be reduced by 20%.
+- `Carbon dioxide` emissions will be reduced by 20%.
 
 ## 4215. emperor ## noun [C]
 /ˈem.pə.rər/ 
@@ -25049,7 +25049,7 @@
 ## 4224. equivalent ## noun [C]
 /ɪˈkwɪv.ə.lənt/ 
 [C1]something that has the same value, importance, size, or meaning as something else
-- She won the equivalent of $5 million.
+- She won `the` equivalent `of` $5 million.
 
 ## 4225. erosion ## noun [U]
 /ɪˈroʊ.ʒən/ PHYSICAL DAMAGE
@@ -25059,13 +25059,13 @@
 ## 4226. escape ## noun
 /ɪˈskeɪp/ GETTING OUT
 [C1]when someone succeeds in getting out of a place or a dangerous or bad situation
-- He made his escape on the back of a motorbike.
-- an escape route
+- He `made` his escape on the back of a motorbike.
+- an escape `route`
 
 ## 4227. establishment ## noun [C]
 /ɪˈstæb.lɪʃ.mənt/ 
 [C1]a business or other organization, or the place where an organization operates
-- an educational/religious establishment
+- an `educational/religious` establishment
 
 ## 4228. evaluation ## noun [C or U]
 /ɪˌvæl.juˈeɪ.ʃən/ 
@@ -25086,13 +25086,13 @@
 ## 4231. exaggeration ## noun [C or U]
 /ɪgˌzædʒ.əˈreɪ.ʃən/ 
 [C1]when you describe something as larger, better, worse, etc. than it really is
-- a slight/gross exaggeration of the facts
+- a `slight/gross` exaggeration of the facts
 
 ## 4232. excess ## noun
  
 [C1]more of something than is usual or needed
-- The company’s losses are in excess of more than $5 million.
-- An excess of inventory resulted in a drop in prices.
+- The company’s losses are `in` excess `of` more than $5 million.
+- `An` excess `of` inventory resulted in a drop in prices.
 
 ## 4233. executive ## noun
 /ɪgˈzek.jət̬.ɪv/ 
@@ -25102,7 +25102,7 @@
 ## 4234. exhaust ## noun
 /ɪgˈzɔːst/ GAS
 [C1]the waste gas from a vehicle's engine
-- exhaust fumes
+- exhaust `fumes`
 
 ## 4235. exhaust ## noun
 /ɪgˈzɔːst/ PIPE
@@ -25133,19 +25133,19 @@
 ## 4240. exploration ## noun [C or U]
 /ˌek.spləˈreɪ.ʃən/ 
 [C1]the act of traveling to a place or searching a place to learn about it
-- explorations of the South Pole
+- explorations `of` the South Pole
 - She's always loved travel and exploration.
 - oil/gas exploration
 
 ## 4241. explosion ## noun [C]
 /ɪkˈsploʊ.ʒən/ INCREASE
 [C1]when something increases suddenly by a large amount
-- the recent population explosion
+- the recent `population` explosion
 
 ## 4242. exposure ## noun
 /ɪkˈspoʊ.ʒər/ 
 [C1]when someone experiences something or is affected by it because they are in a particular situation or place
-- There is a risk of exposure to radiation.
+- There is a risk of exposure `to` radiation.
 - Many young children now have exposure to computers in the home.
 
 ## 4243. exterior ## noun [C]
@@ -25156,7 +25156,7 @@
 ## 4244. extinction ## noun [U]
 /ɪkˈstɪŋk.ʃən/ 
 [C1]when a type of animal no longer exists
-- Many species of animal are threatened with extinction.
+- Many species of animal are `threatened with` extinction.
 
 ## 4245. extra ## noun [C]
 /ˈek.strə/ ACTOR
@@ -25191,8 +25191,8 @@
 ## 4251. face ## noun
 /feɪs/ at face value
 [C1]If you accept something at face value because of the way it first looks or seems, you do so without thinking carefully about it.
-- You can't just accept everything you read in the newspapers at face value.
-- These results should not be taken at face value - careful analysis is required to assess their full implications.
+- You can't just `accept` everything you read in the newspapers at face value.
+- These results should not be `taken` at face value - careful analysis is required to assess their full implications.
 
 ## 4252. faculty ## noun
 /ˈfæk.əl.ti/ GROUP
@@ -25219,7 +25219,7 @@
 ## 4256. fascination ## noun [U or no plural]
 /ˌfæs.əˈneɪ.ʃən/ 
 [C1]when you find someone or something fascinating
-- Her fascination with fashion started at an early age.
+- Her fascination `with` fashion started at an early age.
 
 ## 4257. feast ## noun [C]
 /fiːst/ 
@@ -25246,12 +25246,12 @@
 ## 4261. flair ## noun
 /fler/ ABILITY
 [C1]a natural ability to do something well
-- She has a flair for languages.
+- She has a flair `for` languages.
 
 ## 4262. flaw ## noun [C]
 /flɔː/ 
 [C1]a mistake or bad characteristic that stops someone or something from being perfect
-- There's a flaw in your reasoning.
+- There's a flaw `in` your reasoning.
 
 ## 4263. fleet ## noun [C]
 /fliːt/ SHIPS
@@ -25261,13 +25261,13 @@
 ## 4264. fleet ## noun [C]
 /fliːt/ VEHICLES
 [C1]a group of vehicles that are owned and controlled by one person or organization
-- a fleet of aircraft/cars
+- a fleet `of` aircraft/cars
 
 ## 4265. focus ## noun [C]
 /ˈfoʊ.kəs/ the focus of sth
 [C1]the person or thing that is getting most attention in a situation or activity
 - He is the focus of an investigation.
-- The focus of attention has shifted from the economy to improving the public schools.
+- The focus of `attention` has shifted from the economy to improving the public schools.
 
 ## 4266. foot ## noun [C]
 /fʊt/ the foot of sth
@@ -25293,12 +25293,12 @@
 ## 4270. format ## noun [C]
 /ˈfɔːr.mæt/ 
 [C1]the way something is designed, arranged, or produced
-- This year's event will have a new format.
+- This year's event will have a `new` format.
 
 ## 4271. formula ## noun [C]
 /ˈfɔːr.mjə.lə/ METHOD
 [C1]a plan or method that is used to achieve something
-- There's no magic formula for success.
+- There's no magic formula `for` success.
 
 ## 4272. formula ## noun [C]
 /ˈfɔːr.mjə.lə/ STATEMENT
@@ -25323,8 +25323,8 @@
 ## 4276. fright ## noun [U or no plural]
 /frɑɪt/ 
 [C1]a sudden feeling of shock and fear
-- That dog gave me a terrible fright.
-- She screamed in fright when she saw him.
+- That dog `gave me` `a` terrible fright.
+- She screamed `in` fright when she saw him.
 
 ## 4277. fumes ## noun [plural]
 /fjuːmz/ 
@@ -25344,7 +25344,7 @@
 ## 4280. fund ## noun
 /fʌnd/ funds
 [C1]money needed or available to spend on something
-- The charity closed down due to lack of funds.
+- The charity closed down due to `lack of` funds.
 
 ## 4281. funding ## noun [U]
 /ˈfʌn.dɪŋ/ 
@@ -25356,25 +25356,25 @@
 /fʌs/ 
 [C1]when people become excited, annoyed, or anxious about something, especially something unimportant
 - What was all the fuss about?
-- She made a fuss when Richard spilled some coffee on her.
-- It's all a fuss about nothing.
+- She `made a` fuss when Richard spilled some coffee on her.
+- It's all a fuss `about nothing`.
 - We tried to arrange a ceremony with as little fuss as possible.
 
 ## 4283. gadget ## noun [C]
 /ˈgædʒ.ɪt/ 
 [C1]a small piece of equipment that does a particular job, especially a new type
-- a kitchen gadget
+- a `kitchen` gadget
 
 ## 4284. gain ## noun [C or U]
 /geɪn/ SOMETHING OBTAINED
 [C1]when you get something useful or positive
-- financial/personal gain
+- `financial/personal` gain
 - There are huge gains in terms of the number of lives saved.
 
 ## 4285. gain ## noun [C or U]
 /geɪn/ INCREASE
 [C1]an increase in something such as size, weight, or amount
-- Side effects of the medication may include tiredness, headaches or weight gain.
+- Side effects of the medication may include tiredness, headaches or `weight` gain.
 
 ## 4286. garden ## noun [C]
 /ˈgɑrd.ən/ PUBLIC PLACE
@@ -25390,7 +25390,7 @@
 ## 4288. gathering ## noun [C]
 /ˈgæð.ə.rɪŋ/ 
 [C1]a party or a meeting when many people get together as a group
-- a family gathering
+- a `family` gathering
 
 ## 4289. gene ## noun [C]
 /dʒiːn/ 
@@ -25400,7 +25400,7 @@
 ## 4290. generalization ## noun [C or U]
 /ˌdʒen.rə.lə.ˈzeɪ.ʃən/ 
 [C1]when someone says something very basic that is often true but not always true
-- It's a sweeping generalization to say that girls read more than boys.
+- It's a `sweeping` generalization to say that girls read more than boys.
 
 ## 4291. genius ## noun
 /ˈdʒiːn.jəs/ PERSON
@@ -25425,12 +25425,12 @@
 ## 4295. gesture ## noun [C]
 /ˈdʒes.tʃər / MOVEMENT
 [C1]a movement you make with your hand, arm, or head to express what you are thinking or feeling
-- He made a rude gesture to the crowd.
+- He `made` a rude gesture to the crowd.
 
 ## 4296. gesture ## noun [C]
 /ˈdʒes.tʃər / ACTION
 [C1]something you do to show people how you feel about a person or situation
-- It would be a nice gesture to invite her to dinner.
+- It would be a `nice` gesture to invite her to dinner.
 
 ## 4297. giant ## noun [C]
 /ˈdʒɑɪ.ənt/ IMAGINARY MAN
@@ -25440,7 +25440,7 @@
 ## 4298. gift ## noun [C]
 /gɪft/ ABILITY
 [C1]a natural ability or skill
-- She has a gift for design.
+- She `has a` gift `for` design.
 
 ## 4299. glamour ## noun [U]
 /ˈglæm.ər / 
@@ -25455,7 +25455,7 @@
 ## 4301. glimpse ## noun [C]
 /glɪmps/ 
 [C1]when you see something or someone for a very short time
-- He caught/got a glimpse of her as she got into the car.
+- He `caught/got a` glimpse `of` her as she got into the car.
 
 ## 4302. globalization ## noun [U]
 /ˌgloʊ.bə.ləˈzeɪ.ʃən/ 
@@ -25471,7 +25471,7 @@
 ## 4304. glory ## noun [U]
 /ˈglɔːr.i/ QUALITY
 [C1]the quality of being very impressive or beautiful
-- The castle has been restored to its former glory.
+- The castle has been restored to its `former` glory.
 
 ## 4305. good ## noun [U]
 /gʊd/ for good
@@ -25481,7 +25481,7 @@
 ## 4306. grace ## noun [U]
 /greɪs/ MOVEMENT
 [C1]the quality of moving in a smooth, relaxed, and attractive way
-- She moved with grace and elegance.
+- She moved `with` grace and elegance.
 
 ## 4307. greed ## noun [U]
 /griːd/ 
@@ -25496,13 +25496,13 @@
 ## 4309. grounds ## noun [plural]
 /grɑʊndz/ on the grounds of/that
 [C1]because of a particular reason
-- You cannot discriminate on the grounds of religion.
-- I refused on the grounds that it was too risky.
+- You cannot discriminate `on the` grounds `of` religion.
+- I refused `on the` grounds `that` it was too risky.
 
 ## 4310. guideline ## noun [C usually plural]
 /ˈgɑɪd.lɑɪn/ 
 [C1]advice about how to do something
-- government guidelines
+- `government` guidelines
 - The EU has issued guidelines on appropriate levels of pay.
 
 ## 4311. habitat ## noun [C]
@@ -25513,7 +25513,7 @@
 ## 4312. hand ## noun [C]
 /hænd/ go hand in hand
 [C1]If two things go hand in hand, they exist together and are connected with each other.
-- Prosperity goes hand in hand with investment.
+- Prosperity goes hand in hand `with` investment.
 
 ## 4313. hand ## noun [C]
 /hænd/ at hand
@@ -25533,7 +25533,7 @@
 ## 4316. harassment ## noun [U]
 /həˈræs.mənt/ 
 [C1]behavior that annoys or upsets someone
-- sexual harassment
+- `sexual` harassment
 
 ## 4317. hardship ## noun [C or U]
 /ˈhɑrd.ʃɪp/ 
@@ -25553,14 +25553,14 @@
 ## 4320. hatred ## noun [U]
 /ˈheɪ.trəd/ 
 [C1]an extremely strong feeling of dislike
-- What is very clear in these letters is Clark's passionate hatred of his father.
+- What is very clear in these letters is Clark's passionate hatred `of` his father.
 - The motive for this shocking attack seems to be racial hatred.
 
 ## 4321. hazard ## noun
 /ˈhæz.ərd/ 
 [C1]something that is dangerous
-- a fire hazard
-- a health hazard
+- a `fire` hazard
+- a `health` hazard
 
 ## 4322. head ## noun [C]
 /hed/ lose your head
@@ -25606,7 +25606,7 @@
 ## 4330. hold ## noun
 /hoʊld/ on hold
 [C1]waiting to speak to someone on the telephone
-- His secretary put me on hold.
+- His secretary `put` me on hold.
 
 ## 4331. home ## noun
 /hoʊm/ the home of sth/sb
@@ -25621,7 +25621,7 @@
 ## 4333. home ## noun
 /hoʊm/ FOR CARE
 [C1]a place where a group of people who need special care live
-- a nursing home
+- a `nursing` home
 - My grandmother lives in a home now.
 
 ## 4334. homeless ## noun
@@ -25678,19 +25678,19 @@
 ## 4344. hunger ## noun
 /ˈhʌŋ.gər/ WISH
 [C1]a strong wish for something
-- a hunger for knowledge/adventure
+- a hunger `for` knowledge/adventure
 
 ## 4345. hunt ## noun
 /hʌnt/ 
 [C1]a search for something or someone
 - After a long hunt we finally found a house we liked.
-- The hunt for the injured climber continued throughout the night.
+- The hunt `for` the injured climber continued throughout the night.
 
 ## 4346. hygiene ## noun [U]
 /ˈhɑɪ.dʒiːn/ 
 [C1]the process of keeping things clean, especially to prevent disease
 - health and hygiene regulations
-- dental/personal hygiene
+- `dental/personal` hygiene
 
 ## 4347. iceberg ## noun [C]
 /ˈɑɪs.bɜrɡ/ ICE
@@ -25705,22 +25705,22 @@
 ## 4349. idol ## noun [C]
 /ˈɑɪd.əl/ PERSON
 [C1]someone who you admire and respect very much
-- Baseball players were his childhood idols.
-- a teen/pop idol
+- Baseball players were his `childhood` idols.
+- a `teen/pop` idol
 
 ## 4350. illustration ## noun [C or U]
 /ˌɪl.əˈstreɪ.ʃən/ 
 [C1]a drawing, painting, photograph, or other picture
 - Look at the illustration on page 37.
-- And there's a charming illustration of four cups of coffee.
-- color/black and white illustrations
+- And there's a charming illustration `of` four cups of coffee.
+- `color/black and white` illustrations
 
 ## 4351. implication ## noun
 /ˌɪm.pləˈkeɪ.ʃən/ EFFECT
 [C1]a result or effect that seems likely in the future
-- What are the implications of the new regulations?
-- legal/financial implications
-- Closing this school will have major implications for the neighborhood.
+- What are the implications `of` the new regulations?
+- `legal/financial` implications
+- Closing this school will `have` major implications `for` the neighborhood.
 
 ## 4352. import ## noun
  PRODUCT
@@ -25757,7 +25757,7 @@
 ## 4358. index ## noun [C]
 /ˈɪn.deks/ 
 [C1]an alphabetical list, such as one printed at the back of a book showing which page a subject, name, etc. is found on
-- Try looking up "heart disease" in the index.
+- Try looking up "heart disease" `in` the index.
 
 ## 4359. indication ## noun [C or U]
 /ˌɪn.dɪˈkeɪ.ʃən/ EXIST
@@ -25778,14 +25778,14 @@
 /ɪˈnɪʃ.ət̬.ɪv/ NEW ACTION
 [C1]a plan or activity that is done to solve a problem or improve a situation
 - a new government initiative to reduce crime
-- The peace initiative was welcomed by both sides.
+- The `peace` initiative was welcomed by both sides.
 
 ## 4363. initiative ## noun
 /ɪˈnɪʃ.ət̬.ɪv/ ABILITY
 [C1]the ability to make decisions and do things without needing to be told what to do
-- We need someone who can work on their own initiative.
-- I shouldn't always have to tell you what to do - use your initiative.
-- She showed a lot of initiative.
+- We need someone who can work `on their own` initiative.
+- I shouldn't always have to tell you what to do - `use` your initiative.
+- She `showed` a lot of initiative.
 
 ## 4364. initiative ## noun
 /ɪˈnɪʃ.ət̬.ɪv/ take the initiative
@@ -25801,8 +25801,8 @@
 ## 4366. innocence ## noun [U]
 /ˈɪn.ə.səns/ NOT GUILTY
 [C1]when someone is not guilty of a crime
-- She pleaded her innocence, but no one believed her.
-- She fought to prove her son's innocence.
+- She `pleaded` her innocence, but no one believed her.
+- She fought to `prove` her son's innocence.
 
 ## 4367. innovation ## noun [C or U]
 /ˌɪn.əˈveɪ.ʃən/ 
@@ -25817,14 +25817,14 @@
 ## 4369. insight ## noun [C or U]
 /ˈɪn.sɑɪt/ 
 [C1]the ability to understand what something is really like, or an example of this
-- The book gives a fascinating insight into the world of art.
-- This new research provides many insights into customer behavior.
+- The book `gives` a fascinating insight `into` the world of art.
+- This new research `provides` many insights `into` customer behavior.
 - Children sometimes show remarkable insight when it comes to adult problems.
 
 ## 4370. inspection ## noun [C or U]
 /ɪnˈspek.ʃən/ OFFICIAL
 [C1]an official look to check that something is correct, legal, or in good condition
-- Fire officers carried out an inspection of the building.
+- Fire officers `carried out` an inspection of the building.
 
 ## 4371. installation ## noun
 /ˌɪn.stəˈləɪ.ʃən/ EQUIPMENT
@@ -25839,7 +25839,7 @@
 ## 4373. instance ## noun
 /ˈɪn.stəns/ EXAMPLE
 [C1]an example of a particular type of event, situation, or behavior
-- There have been several instances of violence in the school.
+- There have been several instances `of` violence in the school.
 
 ## 4374. instrument ## noun [C]
 /ˈɪn.strə.mənt/ TOOL
@@ -25854,17 +25854,17 @@
 ## 4376. interaction ## noun [C]
 /ˌɪn.t̬əˈræk.ʃən/ 
 [C1]the activity of talking and doing things with other people, or the way you do this
-- Our work involves a lot of interaction with the customers.
+- Our work involves a lot of interaction `with` the customers.
 
 ## 4377. interest ## noun
 /ˈɪn.trəst/ MONEY CHARGED
 [C1]money which is charged by a bank or other financial organization for borrowing money
-- Interest charges on credit cards are can be very high.
+- Interest `charges` on credit cards are can be very high.
 
 ## 4378. interest ## noun
 /ˈɪn.trəst/ MONEY EARNED
 [C1]money that you earn from keeping your money in an account in a bank or other financial organization
-- You should put the money in a savings account where it will earn interest.
+- You should put the money in a savings account where it will `earn` interest.
 
 ## 4379. interest ## noun
 /ˈɪn.trəst/ be in sb's interest
@@ -25874,12 +25874,12 @@
 ## 4380. interference ## noun [U]
 /ˌɪn.t̬ərˈfɪr.əns/ SITUATION
 [C1]when someone tries to interfere in a situation
-- There have been claims of too much political interference in education.
+- There have been claims of too much political interference `in` education.
 
 ## 4381. introduction ## noun
 /ˌɪn.trəˈdʌk.ʃən/ FIRST EXPERIENCE
 [C1]the first time someone experiences something
-- It was our first introduction to great poetry.
+- It was our first introduction `to` great poetry.
 
 ## 4382. isolation ## noun
 /ˌɑɪ.səˈleɪ.ʃən/ SEPARATE
@@ -25909,7 +25909,7 @@
 ## 4387. jealousy ## noun [U]
 /ˈdʒel.ə.si/ 
 [C1]a feeling of unhappiness or anger because you want what someone else has or fear that someone will take what you have
-- He broke his brother's new bike in a fit of jealousy.
+- He broke his brother's new bike `in a fit of` jealousy.
 - Jealousy can ruin relationships.
 
 ## 4388. job ## noun
@@ -25943,7 +25943,7 @@
 ## 4393. junk ## noun [U]
 /dʒʌŋk/ 
 [C1]old things which have little value
-- His car is just a piece of junk.
+- His car is just a `piece of` junk.
 
 ## 4394. junk mail ## noun [U]
 /ˈdʒʌŋkˌmeɪl/ 
@@ -25964,13 +25964,13 @@
 /nɑb/ 
 [C1]a round handle, or a round button on a machine
 - a door knob
-- Turn the black knob to switch on the radio.
+- `Turn` the black knob to switch on the radio.
 
 ## 4398. labor ## noun
 /ˈleɪ.bər/ WORK
 [C1]work, especially the type of work that needs physical effort
 - The car parts themselves are not expensive - it's the labor that costs so much.
-- manual labor
+- `manual` labor
 
 ## 4399. labor ## noun
 /ˈleɪ.bər/ WORKERS
@@ -25985,7 +25985,7 @@
 ## 4401. ladder ## noun [C]
 /ˈlæd.ər/ JOBS
 [C1]a series of increasingly important jobs or stages in a particular type of work or process
-- a first step on the employment ladder
+- a first `step` on the employment ladder
 - He moved rapidly up the corporate ladder.
 
 ## 4402. landmark ## noun [C]
@@ -26044,7 +26044,7 @@
 /ˈleɪ.ɑʊt/ 
 [C1]the way that something is arranged
 - Each article in the journal has its own typeface and layout.
-- Do you like the layout of the kitchen?
+- Do you like the layout `of` the kitchen?
 
 ## 4413. leader ## noun [C]
 /ˈliːd.ər/ FIRST
@@ -26056,18 +26056,18 @@
 /ˈliːd.ər.ʃɪp/ QUALITY
 [C1]the set of characteristics that make a good leader
 - What the company lacks is leadership.
-- He lacks leadership qualities/skills.
+- He lacks leadership `qualities/skills`.
 
 ## 4415. leadership ## noun [U]
 /ˈliːd.ər.ʃɪp/ JOB
 [C1]the job of being in control of a group, country, or situation
-- The group flourished under her firm leadership.
+- The group flourished `under` her firm leadership.
 
 ## 4416. leadership ## noun [U]
 /ˈliːd.ər.ʃɪp/ the leadership
 [C1]the people in control of a group, country, or situation
 - There is growing discontent with the leadership.
-- The election for the leadership of the council will take place on Tuesday.
+- The election for the leadership `of` the council will take place on Tuesday.
 
 ## 4417. legend ## noun
 /ˈledʒ.ənd/ FAME
@@ -26089,17 +26089,17 @@
 ## 4420. liability ## noun
 /ˌlɑɪ.əˈbɪl.ət̬.i/ RESPONSIBILITY
 [C1]when you are legally responsible for something
-- They have admitted liability for the damage caused.
+- They have `admitted` liability for the damage caused.
 
 ## 4421. liability ## noun
 /ˌlɑɪ.əˈbɪl.ət̬.i/ TROUBLE
 [C1]someone or something that is likely to cause you a lot of trouble
-- Wherever we go she upsets someone - she's a real liability.
+- Wherever we go she upsets someone - she's a `real` liability.
 
 ## 4422. liberation ## noun [C or U]
 /ˌlɪb.əˈreɪ.ʃən/ 
 [C1]when something or someone is released or made free
-- the liberation of France from Nazi occupation
+- the liberation of France `from` Nazi occupation
 - Leaving school was such a liberation for me.
 
 ## 4423. liberty ## noun [C or U]
@@ -26137,7 +26137,7 @@
 /lɑɪn/ PRODUCT
 [C1]a type of product that a company sells
 - Our new sportswear line will be in stores shortly.
-- They're advertising a new line of garden furniture.
+- They're advertising a new line `of` garden furniture.
 
 ## 4430. line ## noun [C]
 /lɑɪn/ a fine line
@@ -26153,7 +26153,7 @@
 /ˈlɪs.ə.nər/ 
 [C1]someone who listens
 - The new radio station already has twelve million listeners.
-- She's a good listener.
+- She's a `good` listener.
 
 ## 4433. literacy ## noun [U]
 /ˈlɪt̬.ə.rə.si/ 
@@ -26163,7 +26163,7 @@
 ## 4434. loan ## noun [C]
 /loʊn/ on loan
 [C1]If something is on loan, someone is borrowing it.
-- Both paintings are on loan from the city museum.
+- Both paintings are on loan `from` the city museum.
 
 ## 4435. location ## noun [C]
 /loʊˈkeɪ.ʃən/ on location
@@ -26178,9 +26178,9 @@
 ## 4437. logic ## noun [U]
 /ˈlɑdʒ.ɪk/ 
 [C1]the use of reason, or the science of using reason
-- I fail to see the logic of his argument.
+- I fail to see the logic `of` his argument.
 - We'll be able to work this out if we use some logic.
-- There's no logic in the decision to reduce staff when orders are the highest for years.
+- There's `no` logic in the decision to reduce staff when orders are the highest for years.
 
 ## 4438. loneliness ## noun [U]
 /ˈloʊn.li.nəs/ 
@@ -26190,7 +26190,7 @@
 ## 4439. look ## noun
 /lʊk/ FASHION
 [C1]a style or fashion
-- thenew look for the summer
+- the`new` look for the summer
 
 ## 4440. loss ## noun
 /lɔːs/ MONEY
@@ -26212,7 +26212,7 @@
 /ˈlʌk.ʃə.ri/ EXPENSIVE THING
 [C1]something expensive which is pleasant to have but is not necessary
 - luxuries, such as champagne and chocolate
-- I like to buy myself little luxuries from time to time.
+- I like to buy myself `little` luxuries from time to time.
 
 ## 4444. machinery ## noun [U]
 /məˈʃiː.nə.ri/ 
@@ -26232,7 +26232,7 @@
 ## 4447. march ## noun [C]
 /mɑrtʃ/ 
 [C1]an organized walk by a group to show that they disagree with something
-- She's going on a march on Saturday in protest over the closure of the hospital.
+- She's `going on a` march on Saturday in protest over the closure of the hospital.
 
 ## 4448. mark ## noun [C]
 /mɑrk/ SYMBOL
@@ -26243,9 +26243,9 @@
 ## 4449. market ## noun [C]
 /ˈmɑr.kɪt/ BUYING GROUP
 [C1]all the people who want to buy a particular product, or the area where they live
-- Is there a market for second-hand jewelry?
+- Is there `a` market `for` second-hand jewelry?
 - Spain is our largest market.
-- They've increased their share of the market by 10% over the past year.
+- They've increased their `share of the` market by 10% over the past year.
 
 ## 4450. market ## noun [C]
 /ˈmɑr.kɪt/ the labor market
@@ -26296,7 +26296,7 @@
 ## 4459. mechanism ## noun [C]
 /ˈmek.ə.nɪz.əm/ SYSTEM
 [C1]a system for achieving something, or the way that a system works
-- We need a mechanism for resolving this sort of dispute.
+- We need a mechanism `for` resolving this sort of dispute.
 
 ## 4460. meeting ## noun [C]
 /ˈmiːt̬.ɪŋ/ call a meeting
@@ -26323,9 +26323,9 @@
 ## 4464. merit ## noun [C or U]
 /ˈmer.ɪt/ 
 [C1]good qualities that deserve praise
-- His ideas have merit.
+- His ideas `have` merit.
 - We debated the merits of using video in the classroom.
-- Every application has to be judged on its own merits (=judged by considering the qualities of each).
+- Every application has to be judged `on its own` merits (=judged by considering the qualities of each).
 
 ## 4465. migration ## noun [C or U]
 /mɑɪˈgreɪ.ʃən/ 
@@ -26336,8 +26336,8 @@
 ## 4466. mile ## noun [C]
 /mɑɪl/ miles
 [C1]a very long distance
-- We drove for miles along dusty roads.
-- Her ranch is miles from the nearest big city.
+- We drove `for` miles along dusty roads.
+- Her ranch is miles `from` the nearest big city.
 
 ## 4467. military ## noun
 /ˈmɪl.ə.ter.i/ the military
@@ -26383,13 +26383,13 @@
 ## 4475. minority ## noun
 /mɑɪˈnɔːr.ət̬.i/ PEOPLE
 [C1]a group of people who share some characteristic that is different from most of the people where they live
-- ethnic/religious minorities
+- `ethnic/religious` minorities
 - The plan was designed to help women and minorities overcome discrimination in the workplace.
 
 ## 4476. misfortune ## noun [C or U]
 /mɪsˈfɔːr.tʃən/ 
 [C1]bad luck, or an unlucky event
-- He had the misfortune to fall in love with a married woman.
+- He `had the` misfortune to fall in love with a married woman.
 
 ## 4477. misuse ## noun [C or U]
  
@@ -26399,7 +26399,7 @@
 ## 4478. mode ## noun [C]
 /moʊd/ 
 [C1]a way of doing something
-- a mode of transport
+- a mode `of` transport
 
 ## 4479. moderation ## noun
 /ˌmɑd.əˈreɪ.ʃən/ in moderation
@@ -26409,7 +26409,7 @@
 ## 4480. modification ## noun [C or U]
 /ˌmɑd.ə.fəˈkeɪ.ʃən/ 
 [C1]a small change to something
-- We've made a few modifications to the system.
+- We've `made` a few modifications `to` the system.
 
 ## 4481. moral ## noun
 /ˈmɔːr.əl/ LESSON
@@ -26419,7 +26419,7 @@
 ## 4482. motivation ## noun
 /ˌmoʊt̬.əˈveɪ.ʃən/ REASON
 [C1]the need or reason for doing something
-- One motivation for reducing the staff was the need to cut costs.
+- One motivation `for` reducing the staff was the need to cut costs.
 
 ## 4483. mouth ## noun [C]
 /mɑʊθ/ mouth of a river
@@ -26431,7 +26431,7 @@
 [C1]an action taken to achieve something
 - It was a good career move.
 - Buying that property was a smart move.
-- The latest policies are clearly a move toward democracy.
+- The latest policies are clearly a move `toward` democracy.
 
 ## 4485. move ## noun [C]
 /muːv/ PLACE CHANGE
@@ -26462,19 +26462,19 @@
 ## 4490. nap ## noun [C]
 /næp/ 
 [C1]a short sleep
-- He likes to take a nap after lunch.
+- He likes to `take` a nap after lunch.
 
 ## 4491. nature ## noun
 /ˈneɪ.tʃər/ TYPE
 [C1]type
-- What exactly is the nature of your business?
-- I don't like hunting and things of that nature.
+- What exactly is `the` nature `of` your business?
+- I don't like hunting and things `of that` nature.
 
 ## 4492. necessity ## noun
 /nəˈses.ət̬.i/ NEED
 [C1]the need for something
-- There's no financial necessity for her to work.
-- Sewing is something I do out of necessity, not for pleasure.
+- There's no `financial` necessity for her to work.
+- Sewing is something I do `out of` necessity, not for pleasure.
 
 ## 4493. necessity ## noun
 /nəˈses.ət̬.i/ SOMETHING NEEDED
@@ -26494,13 +26494,13 @@
 ## 4496. negotiation ## noun [C]
 /nɪˌgoʊ.ʃiˈeɪ.ʃən/ 
 [C1]when people try to make or change an agreement by discussion
-- Peace negotiations are due to start.
+- `Peace` negotiations are due to start.
 
 ## 4497. nerve ## noun
 /nɜrv/ nerves
 [C1]worry or anxiety about something that is going to happen
 - I sometimes suffer from nerves when I'm speaking in public.
-- I need something to calm my nerves.
+- I need something to `calm my` nerves.
 
 ## 4498. nerve ## noun
 /nɜrv/ get on sb's nerves
@@ -26540,9 +26540,9 @@
 ## 4505. nomination ## noun [C or U]
 /ˌnɑm.əˈneɪ.ʃən/ 
 [C1]the act of officially suggesting a person for a job or their work for a prize
-- to seek/win a nomination
-- He won the Democratic nomination for mayor of Chicago.
-- She has just received her fourth Oscar nomination.
+- to `seek/win` a nomination
+- He won the Democratic nomination `for` mayor of Chicago.
+- She has just `received` her fourth Oscar nomination.
 
 ## 4506. norm ## noun
 /nɔːrm/ the norm
@@ -26552,7 +26552,7 @@
 ## 4507. norm ## noun
 /nɔːrm/ SOCIETY
 [C1]an accepted way of behaving in a particular society
-- cultural/social norms
+- `cultural/social` norms
 
 ## 4508. note ## noun
 /noʊt/ make a note of sth
@@ -26573,13 +26573,13 @@
 ## 4511. note ## noun
 /noʊt/ FEELING
 [C1]a particular feeling or mood
-- a sad/serious/positive note
-- His speech had just the right note of sympathy.
+- a `sad/serious/positive` note
+- His speech had just the `right` note of sympathy.
 
 ## 4512. notice ## noun
 /ˈnoʊt̬.ɪs/ on short notice
 [C1]only a short time before something happens
-- I had to give a speech on very short notice.
+- I had to give a speech on `very` short notice.
 
 ## 4513. notion ## noun [C]
 /ˈnoʊ.ʃən/ 
@@ -26605,18 +26605,18 @@
  the object of sth
 [C1]the purpose of something
 - The object of this game is to score more points than the opposing team.
-- The object of the exercise is to complete the task within the time limit.
+- The object of the `exercise` is to complete the task within the time limit.
 
 ## 4518. observation ## noun
 /ˌɑb.zərˈveɪ.ʃən/ REMARK
 [C1]a remark about something that you have noticed
-- He made an interesting observation.
+- He `made an` interesting observation.
 
 ## 4519. obstacle ## noun [C]
 /ˈɑb.stə.kəl/ DIFFICULTY
 [C1]something that makes it difficult for you to do something or to succeed at something
-- to overcome an obstacle
-- His refusal to talk is the main obstacle to peace.
+- to `overcome` an obstacle
+- His refusal to talk is the main obstacle `to` peace.
 
 ## 4520. obstacle ## noun [C]
 /ˈɑb.stə.kəl/ THING
@@ -26641,23 +26641,23 @@
 ## 4524. odds ## noun [plural]
 /ɑdz/ PROBABILITY
 [C1]the probability that a particular thing will or will not happen
-- She was sick yesterday, so the odds are she won’t be in today.
-- What are the odds on him being reelected?
-- The odds are stacked against a woman succeeding in this business.
+- She was sick yesterday, so the odds `are` she won’t be in today.
+- What are the odds `on` him being reelected?
+- The odds `are stacked against` a woman succeeding in this business.
 
 ## 4525. office ## noun
 /ˈɔː.fɪs/ JOB
 [C1]an important job in a government or other organization
 - the office of executive vice president
 - County judge is an elective office.
-- Some people think he has been in office for too long.
+- Some people think he has been `in` office for too long.
 
 ## 4526. operation ## noun
 /ˌɑp.əˈreɪ.ʃən/ PLANNED ACTIVITY
 [C1]an activity that is planned in order to achieve something
-- a military/peacekeeping operation
-- Following the earthquake, a large-scale rescue operation was launched.
-- The operation to fly in supplies will begin as soon as possible.
+- a `military/peacekeeping` operation
+- Following the earthquake, a large-scale `rescue` operation was `launched`.
+- The operation `to` fly in supplies will begin as soon as possible.
 
 ## 4527. operation ## noun
 /ˌɑp.əˈreɪ.ʃən/ ORGANIZATION
@@ -26668,8 +26668,8 @@
 /ˌɑp.əˈreɪ.ʃən/ WORK
 [C1]the fact of operating or being active
 - Several printing presses are in operation at the moment.
-- There are several reactors of this type in operation at the moment.
-- The new assembly line will begin operation next year.
+- There are several reactors of this type `in` operation at the moment.
+- The new assembly line will `begin` operation next year.
 
 ## 4529. opinion ## noun
 /əˈpɪn.jən/ have a high/low opinion of sb/sth
@@ -26679,8 +26679,8 @@
 ## 4530. opposition ## noun [U]
 /ˌɑp.əˈzɪʃ.ən/ DISAGREEMENT
 [C1]strong disagreement
-- The proposal faces strong opposition.
-- During the tow council meeting, several members of the public spoke out in opposition to the plan.
+- The proposal faces `strong` opposition.
+- During the tow council meeting, several members of the public spoke out `in` opposition `to` the plan.
 
 ## 4531. opposition ## noun [U]
 /ˌɑp.əˈzɪʃ.ən/ the opposition
@@ -26700,8 +26700,8 @@
 ## 4534. organ ## noun [C]
 /ˈɔːr.gən/ BODY
 [C1]a part of an animal or plant that has a special purpose
-- internal/vital organs
-- an organ donor/transplant
+- `internal/vital` organs
+- an organ `donor/transplant`
 
 ## 4535. organization ## noun
 /ˌɔːr.gə.nəˈzeɪ.ʃən/ ARRANGEMENT
@@ -26717,9 +26717,9 @@
 ## 4537. origin ## noun [C or U]
 /ˈɔːr.ə.dʒən/ COUNTRY/RACE, ETC.
 [C1]the country, race, or social class of a person's family
-- He is of North African origin.
-- What is your countryof origin?
-- The president's family was of humble origins.
+- He is `of` North African origin.
+- What is your `country``of` origin?
+- The president's family was `of` humble origins.
 
 ## 4538. ounce ## noun
 /ɑʊns/ MEASUREMENT
@@ -26729,7 +26729,7 @@
 ## 4539. outcome ## noun [C usually no plural]
 /ˈɑʊt.kʌm/ 
 [C1]the final result of an activity or process
-- It's too early to predict the outcome of the meeting.
+- It's too early to predict the outcome `of` the meeting.
 
 ## 4540. outlet ## noun [C]
 /ˈɑʊt.let/ CHEAP STORE
@@ -26740,18 +26740,18 @@
 ## 4541. outlet ## noun [C]
 /ˈɑʊt.let/ ELECTRICAL CONNECTION
 [C1]a place a plug fits in to connect a piece of electrical equipment to the electricity supply
-- an electrical outlet
+- an `electrical` outlet
 
 ## 4542. outlook ## noun [no plural]
 /ˈɑʊt.lʊk/ FUTURE
 [C1]the likely future situation
 - The economic outlook is good.
-- They were discussing the outlook for on-line retailers.
+- They were discussing the outlook `for` on-line retailers.
 
 ## 4543. overview ## noun [C]
 /ˈoʊ.vər.vjuː/ DESCRIPTION
 [C1]a short description giving the most important facts about something
-- I'll just give you an overview of the job.
+- I'll just `give` you an overview of the job.
 
 ## 4544. overview ## noun [C]
 /ˈoʊ.vər.vjuː/ KNOWLEDGE
@@ -26766,7 +26766,7 @@
 ## 4546. ozone ## noun [U]
 /ˈoʊ.zoʊn/ 
 [C1]a form of oxygen that exists high in the atmosphere
-- the ozone layer
+- the ozone `layer`
 
 ## 4547. pace ## noun
 /peɪs/ keep pace with sb/sth
@@ -26827,7 +26827,7 @@
 ## 4558. peek ## noun [C]
 /piːk/ 
 [C1]a quick look
-- She took a peek down the hall.
+- She `took` a peek down the hall.
 
 ## 4559. peer ## noun [C]
 /pɪr/ 
@@ -26842,7 +26842,7 @@
 ## 4561. perfection ## noun [U]
 /pərˈfek.ʃən/ 
 [C1]when someone or something is perfect
-- She strives for perfection in everything she does.
+- She `strives` for perfection in everything she does.
 - chicken legs cooked to perfection
 
 ## 4562. perk ## noun [C]
@@ -26853,7 +26853,7 @@
 ## 4563. permit ## noun [C]
  
 [C1]an official document that allows you to do something
-- a work permit
+- a `work` permit
 - You need a permit to park your car here.
 
 ## 4564. personnel ## noun
@@ -26864,12 +26864,12 @@
 ## 4565. perspective ## noun
 /pərˈspek.tɪv/ WAY OF THINKING
 [C1]the way you think about something
-- Being unemployed has made me see things from a different perspective.
+- Being unemployed has made me see things `from` a different perspective.
 
 ## 4566. phenomenon ## noun [C]
 /fɪˈnɑm.ə.nɑn/ 
 [C1]something that exists or happens, usually something unusual
-- storms, lightning, and other natural phenomena
+- storms, lightning, and other `natural` phenomena
 - Road rage seems to be a fairly recent phenomenon.
 
 ## 4567. philosophy ## noun
@@ -26910,8 +26910,8 @@
 ## 4574. portion ## noun [C]
 /ˈpɔːr.ʃən/ PART
 [C1]a part or share of something larger
-- A large/major portion of the company's profit goes straight back into new projects.
-- I accept my portion of the blame.
+- A `large/major` portion `of` the company's profit goes straight back into new projects.
+- I accept my portion `of` the blame.
 
 ## 4575. position ## noun
 /pəˈzɪʃ.ən/ be in a position to do sth
@@ -26931,13 +26931,13 @@
 ## 4578. posture ## noun [U]
 /ˈpɑs.tʃər/ 
 [C1]the position of your back, shoulders, etc. when you are standing or sitting
-- She has very good/bad/poor posture.
+- She has very `good/bad/poor` posture.
 
 ## 4579. power ## noun
 /ˈpɑʊ.ər/ POLITICS
 [C1]political control in a country
-- They have been in power too long.
-- When did this government come to power?
+- They have been `in` power too long.
+- When did this government `come to` power?
 
 ## 4580. power ## noun
 /ˈpɑʊ.ər/ do everything in your power to do sth
@@ -26952,25 +26952,25 @@
 ## 4582. power ## noun
 /ˈpɑʊ.ər/ STRENGTH
 [C1]strength or force
-- economic/military power
+- `economic/military` power
 
 ## 4583. practice ## noun
 /ˈpræk.təs/ put something into practice
 [C1]to do something in reality that has been planned or talked about
-- Next month we will have a chance to put these ideas into practice.
-- How do you intend to put these proposals into practice?
+- Next month we will have a chance to put these `ideas` into practice.
+- How do you intend to put these `proposals` into practice?
 
 ## 4584. praise ## noun [U]
 /preɪz/ 
 [C1]words you say to show that you admire someone or something
-- They deserve praise for their achievements.
-- Her first novel won a lot of praise from the critics.
+- They deserve praise `for` their achievements.
+- Her first novel `won` a lot of praise from the critics.
 
 ## 4585. precaution ## noun [C]
 /prɪˈkɔː.ʃən/ 
 [C1]something that you do to prevent bad things happening in the future
-- Driving alone at night can be dangerous, so always take precautions.
-- They called the doctor as a precaution.
+- Driving alone at night can be dangerous, so always `take` precautions.
+- They called the doctor `as a` precaution.
 - He took the precaution of locking the door.
 
 ## 4586. predator ## noun [C]
@@ -26987,8 +26987,8 @@
 /ˈprem.ə.sɪz/ 
 [C1]the land and buildings owned by someone, especially by a company or organization
 - The company is moving to new premises.
-- The ice cream is made on the premises.
-- The security guards escorted the protesters off the premises.
+- The ice cream is made `on the` premises.
+- The security guards escorted the protesters `off` the premises.
 
 ## 4589. preservation ## noun [U]
 /ˌprez.ərˈveɪ.ʃən/ 
@@ -27004,7 +27004,7 @@
 ## 4591. pressure ## noun
 /ˈpreʃ.ər/ LIQUID/GAS
 [C1]the force that a liquid or gas produces when it presses against an area
-- water/air pressure
+- `water/air` pressure
 
 ## 4592. prestige ## noun [U]
 /presˈtiːdʒ/ 
@@ -27014,14 +27014,14 @@
 ## 4593. price ## noun
 /prɑɪs/ RESULT
 [C1]the unpleasant results that you must accept or experience for getting or doing something
-- Suspension from the club was a high/small price to pay for his mistake.
+- Suspension from the club was a `high/small` price `to pay` for his mistake.
 
 ## 4594. principle ## noun [C]
 /ˈprɪn.sə.pəl/ IDEA
 [C1]a basic idea or rule that explains or controls how something happens or works
-- the principles of law/ leadership/good government
+- the principles `of` law/ leadership/good government
 - Our science teachers created hands-on laboratories in which students can discover scientific principles.
-- The organization works on the principle that all members have the same rights.
+- The organization works `on the` principle `that` all members have the same rights.
 
 ## 4595. print ## noun
 /prɪnt/ PICTURE
@@ -27042,7 +27042,7 @@
 /ˌprɑb.əˈbɪl.ət̬.i/ 
 [C1]how likely it is that something will happen
 - What's the probability of winning?
-- There's a high probability that he'll get the job.
+- There's a `high` probability that he'll get the job.
 
 ## 4599. productivity ## noun [U]
 /ˌproʊ.dʌkˈtɪv.ət̬.i/ 
@@ -27052,8 +27052,8 @@
 ## 4600. profile ## noun [C]
 /ˈproʊ.fɑɪl/ PUBLIC IMAGE
 [C1]the amount of public attention that someone or something receives
-- The firm has a high profile due to the recent media coverage.
-- The advertising campaign aims to raise the profile of the company.
+- The firm has a `high` profile due to the recent media coverage.
+- The advertising campaign aims to `raise` the profile of the company.
 
 ## 4601. profile ## noun [C]
 /ˈproʊ.fɑɪl/ keep a low profile
@@ -27089,8 +27089,8 @@
 ## 4607. proportion ## noun
 /prəˈpɔːr.ʃən/ PART OF TOTAL
 [C1]a part of a total number or amount
-- Children make up a large proportion of the world's population.
-- The class consists of men and women in roughly equal proportions.
+- Children make up a large proportion `of` the world's population.
+- The class consists of men and women in roughly `equal` proportions.
 
 ## 4608. proposition ## noun [C]
 /ˌprɑp.əˈzɪʃ.ən/ 
@@ -27122,8 +27122,8 @@
 ## 4613. provision ## noun
 /prəˈvɪʒ.ən/ 
 [C1]when something is provided
-- The provision of good public transportation will be essential for developing the area.
-- When designing buildings in this area, you have to make provisions for earthquakes.
+- `The` provision `of` good public transportation will be essential for developing the area.
+- When designing buildings in this area, you have to `make` provisions `for` earthquakes.
 
 ## 4614. pub ## noun [C]
 /pʌb/ 
@@ -27140,8 +27140,8 @@
 ## 4616. pulse ## noun [C]
 /pʌls/ 
 [C1]the regular movement of blood through your body when your heart is beating
-- She put her fingers on my wrist to take my pulse (=count the number of beats per minute).
-- My pulse rate is 70.
+- She put her fingers on my wrist to `take my` pulse (=count the number of beats per minute).
+- My pulse `rate` is 70.
 
 ## 4617. purity ## noun [U]
 /ˈpjʊr.ət̬.i/ 
@@ -27179,25 +27179,25 @@
 /reɪs/ EFFORT
 [C1]an effort to get something such as power, control or success
 - It was a race against time to get the project finished by Friday’s deadline.
-- the race for governor
+- the race `for` governor
 
 ## 4624. radiation ## noun [U]
 /ˌreɪd.iˈeɪ.ʃən/ 
 [C1]a form of energy that comes from a nuclear reaction and that in large amounts can be very dangerous
-- dangerously high levels of radiation
+- dangerously high `levels of` radiation
 - radiation sickness
 
 ## 4625. raise ## noun [C]
 /reɪz/ 
 [C1]an increase in the amount money you earn
-- a pay raise
+- a `pay` raise
 - She asked her boss for a raise.
 
 ## 4626. rank ## noun [C or U]
 /ræŋk/ 
 [C1]a position in an organization, such as the army, showing someone's importance
-- senior/high/junior/low rank
-- He has just been promoted to the rank of captain.
+- `senior/high/junior/low` rank
+- He has just been promoted to the rank `of` captain.
 
 ## 4627. rarity ## noun
 /ˈrer.ət̬.i/ be a rarity
@@ -27212,9 +27212,9 @@
 ## 4629. rate ## noun [C]
 /reɪt/ SPEED
 [C1]the speed at which something happens
-- the patient's heart rate
-- Our rate of progress is too slow.
-- The disease was spreading at an alarming rate.
+- the patient's `heart` rate
+- Our rate `of` progress is too slow.
+- The disease was spreading `at` an alarming rate.
 
 ## 4630. rate ## noun [C]
 /reɪt/ first-/second-/third-rate
@@ -27229,7 +27229,7 @@
 ## 4632. ratio ## noun [C]
 /ˈreɪ.ʃi.oʊ/ 
 [C1]the relationship between two groups or amounts, which expresses how much bigger one is than the other
-- The ratio of men to women at the conference was ten to one/10:1.
+- The ratio `of` men `to` women at the conference was ten to one/10:1.
 - The school is trying to improve its pupil-teacher ratio.
 
 ## 4633. readership ## noun [no plural]
@@ -27266,8 +27266,8 @@
 ## 4639. recovery ## noun
 /rəˈkʌv.ə.ri/ SITUATION
 [C1]when a system or situation returns to the way it was before something bad happened
-- economic recovery
-- The housing industry has made a remarkable recovery.
+- `economic` recovery
+- The housing industry has `made a` remarkable recovery.
 
 ## 4640. recruitment ## noun [U]
 /rɪˈkruːt.mənt/ 
@@ -27292,8 +27292,8 @@
 ## 4644. refusal ## noun [C or U]
 /rɪˈfjuː.zəl/ 
 [C1]when someone refuses to do or accept something
-- Her refusal to cooperate didn't help her case.
-- What shocked me was his complete refusal to admit his mistake.
+- Her refusal `to` cooperate didn't help her case.
+- What shocked me was his complete refusal `to` admit his mistake.
 
 ## 4645. region ## noun [C]
 /ˈriː.dʒən/ in the region of sth
@@ -27313,7 +27313,7 @@
 ## 4648. relevance ## noun [U]
 /ˈrel.ə.vəns/ 
 [C1]the degree to which something is related or useful to what is happening or being talked about
-- This point has no relevance to the discussion.
+- This point has no relevance `to` the discussion.
 
 ## 4649. reliability ## noun [U]
 /rɪˌlɑɪ.əˈbɪl.ət̬.i/ 
@@ -27374,7 +27374,7 @@
 ## 4660. retail ## noun [U]
 /ˈriː.teɪl/ 
 [C1]the sale of products to customers for their own use, usually in stores
-- jobs in retail
+- jobs `in` retail
 
 ## 4661. revenue ## noun [C or U]
 /ˈrev.ə.nuː/ 
@@ -27417,12 +27417,12 @@
 ## 4668. risk ## noun
 /rɪsk/ SOMETHING BAD
 [C1]something bad that might happen
-- There are more health risks when older women get pregnant.
+- There are more `health` risks when older women get pregnant.
 
 ## 4669. rival ## noun [C]
 /ˈrɑɪ.vəl/ 
 [C1]someone or something that is competing with another person or thing
-- business/political rivals
+- `business/political` rivals
 
 ## 4670. river ## noun [C]
 /ˈrɪv.ər/ mouth of a river
@@ -27447,8 +27447,8 @@
 ## 4674. root ## noun [C]
 /ruːt/ the root of sth
 [C1]the cause of something, usually something bad
-- We must get to the root of this problem.
-- Money is said to be the root of all evil.
+- We must `get to the` root of this problem.
+- Money is said to be the root `of all evil`.
 
 ## 4675. rudeness ## noun [U]
 /ˈruːd.nəs/ 
@@ -27484,8 +27484,8 @@
 ## 4681. sacrifice ## noun [C or U]
 /ˈsæk.rəˌfɑɪs/ 
 [C1]something valuable that you give up in order to achieve something or help someone, or the act of giving it up
-- We had to make sacrifices in order to pay for our children's education.
-- They cared for their disabled son for 27 years, at great personal sacrifice.
+- We had to `make` sacrifices in order to pay for our children's education.
+- They cared for their disabled son for 27 years, `at` great personal sacrifice.
 
 ## 4682. safety ## noun [U]
 /ˈseɪf.ti/ HOW SAFE
@@ -27495,7 +27495,7 @@
 ## 4683. saint ## noun [C]
 /seɪnt/ 
 [C1]a dead person who has been officially respected by the Christian church for living their life in a holy way
-- Catherine of Siena was made a saint in 1461.
+- Catherine of Siena was `made` a saint in 1461.
 
 ## 4684. savings ## noun [plural]
 /ˈseɪ.vɪŋz/ AMOUNT
@@ -27506,13 +27506,13 @@
 ## 4685. scar ## noun [C]
 /skɑr/ MIND
 [C1]damage done to a person's mind by a very unpleasant event or situation
-- a psychological scar
+- a `psychological` scar
 
 ## 4686. scholar ## noun [C]
 /ˈskɑl.ər/ KNOWLEDGEABLE PERSON
 [C1]someone who has studied a subject and knows a lot about it
 - a classics/history scholar
-- Dr Miles was a distinguished scholar of Russian history.
+- Dr Miles was a `distinguished` scholar `of` Russian history.
 
 ## 4687. scholarship ## noun
 /ˈskɑl.ər.ʃɪp/ 
@@ -27522,7 +27522,7 @@
 ## 4688. scope ## noun [U]
 /skoʊp/ AMOUNT
 [C1]how much a subject or situation relates to
-- Do we know the full scope of the problem yet?
+- Do we know the full scope `of` the problem yet?
 
 ## 4689. scratch ## noun [C]
 /skrætʃ/ from scratch
@@ -27542,13 +27542,13 @@
 ## 4692. sector ## noun [C]
 /ˈsek.tər/ 
 [C1]one part of a country's economy
-- In the financial sector, banks and insurance companies have both lost a lot of money.
-- The new government's policy is to transfer state industries from the public sector to the private sector.
+- In the `financial` sector, banks and insurance companies have both lost a lot of money.
+- The new government's policy is to transfer state industries from the `public` sector to the `private` sector.
 
 ## 4693. security ## noun [U]
 /sɪˈkjur.ət̬.i/ SAFE SITUATION
 [C1]when something is not likely to fail or be lost
-- If it's a choice between higher pay and job security, I'd prefer to keep my job.
+- If it's a choice between higher pay and `job` security, I'd prefer to keep my job.
 - I'm on a temporary contract and have little financial security.
 
 ## 4694. self ## noun [C or U]
@@ -27560,8 +27560,8 @@
 ## 4695. self-esteem ## noun [U]
 /ˌself.əˈstiːm/ 
 [C1]confidence in yourself and a belief in your qualities and abilities
-- She suffers from low self-esteem.
-- Most parents want their children to have high self-esteem.
+- She suffers from `low` self-esteem.
+- Most parents want their children to have `high` self-esteem.
 
 ## 4696. selfishness ## noun [U]
 /ˈsel.fɪʃ.nəs/ 
@@ -27616,15 +27616,15 @@
 ## 4706. sex ## noun [U]
 /seks/ the opposite sex
 [C1]people who are the other sex from you
-- When you attend an all girls or all boys school, you don't study with members of the opposite sex.
+- When you attend an all girls or all boys school, you don't study with `members of `the opposite sex.
 
 ## 4707. shame ## noun
 /ʃeɪm/ BAD FEELING
 [C1]when you feel embarrassed and guilty about something bad that you have done
 - He said he felt no shame for what he had done.
-- The children hung their heads in shame.
-- You can't go dressed like that - have you no shame ?
-- In some societies, if a woman leaves her husband, it brings shame on her and her family.
+- The children `hung` their ` heads in` shame.
+- You can't go dressed like that - `have` you `no` shame ?
+- In some societies, if a woman leaves her husband, it `brings` shame `on` her and her family.
 
 ## 4708. shift ## noun
 /ʃɪft/ CHANGE
@@ -27650,7 +27650,7 @@
 /ˈʃʌt̬.əl/ 
 [C1]a bus, train, plane, etc. which travels regularly between two places, usually a short distance
 - the Boston-New York shuttle
-- There's a shuttle service between the airport and the city center.
+- There's a shuttle `service` between the airport and the city center.
 
 ## 4713. shyness ## noun [U]
 /ˈʃɑɪ.nəs/ 
@@ -27680,14 +27680,14 @@
 ## 4718. significance ## noun [U]
 /sɪgˈnɪf.ɪ.kəns/ 
 [C1]the importance or meaning of something
-- I still don't understand the significance of his remark.
+- I still don't understand the significance `of` his remark.
 - This is a development which has great economic significance for the region.
 
 ## 4719. simplicity ## noun [U]
 /sɪmˈplɪs.ət̬.i/ 
 [C1]the quality of being simple
 - The advantage of the plan is its simplicity.
-- The examination was simplicity itself.
+- The examination was simplicity `itself`.
 - I admire the simplicity of her designs.
 
 ## 4720. simulation ## noun [C or U]
@@ -27729,7 +27729,7 @@
 ## 4727. slogan ## noun [C]
 /ˈsloʊ.gən/ 
 [C1]a short phrase that is easy to remember and is used to make people notice something
-- an advertising slogan
+- an `advertising` slogan
 
 ## 4728. slot ## noun [C]
 /slɑt/ HOLE
@@ -27754,12 +27754,12 @@
 ## 4732. solidarity ## noun [U]
 /ˌsɑl.əˈdær.ət̬.i/ 
 [C1]agreement and support between people in a group who have similar aims or beliefs
-- Several professors joined the march to show solidarity with their students.
+- Several professors joined the march to show solidarity `with` their students.
 
 ## 4733. solitude ## noun [U]
 /ˈsɑl.ə.tuːd/ 
 [C1]being alone
-- He went upstairs to read the letter in solitude.
+- He went upstairs to read the letter `in` solitude.
 
 ## 4734. source ## noun [C]
 /sɔːrs/ PERSON
@@ -27785,12 +27785,12 @@
 ## 4738. specification ## noun [C]
 /ˌspes.ə.fəˈkeɪ.ʃən/ 
 [C1]a detailed description of how something should be done, made, etc.
-- They are made exactly to the customer's specifications.
+- They are made exactly `to` the customer's specifications.
 
 ## 4739. spectrum ## noun [C]
 /ˈspek.trəm/ ALL POSSIBILITIES
 [C1]all the different ideas, opinions, possibilities, etc. that exist
-- He has support from across the whole political spectrum.
+- He has support from `across the` whole political spectrum.
 
 ## 4740. speculation ## noun [U]
 /ˌspek.jəˈleɪ.ʃən/ 
@@ -27876,14 +27876,14 @@
 ## 4756. star ## noun [C]
 /stɑr/ BEST
 [C1]someone or something that is better than all the others in a group
-- He is one of our star players.
+- He is one of our star `players`.
 - She was the star of the English class.
 
 ## 4757. state ## noun [C]
 /steɪt/ COUNTRY
 [C1]a country or its government
 - The drought is worst in the central African states.
-- Britain is one of the member states of the European Union.
+- Britain is one of the `member` states of the European Union.
 - The government was determined to reduce the number of state-owned industries.
 
 ## 4758. statistic ## noun [C]
@@ -27894,9 +27894,9 @@
 ## 4759. status ## noun [U]
 /ˈstæt̬.əs/ 
 [C1]an accepted or official position, especially in a social group
-- The association works to promote the status of retired people as useful members of the community.
-- There has been an increase in applications for refugee status.
-- The success of her book has given her unexpected celebrity status.
+- The association works to promote the status `of` retired people as useful members of the community.
+- There has been an increase in applications for `refugee` status.
+- The success of her book has given her unexpected `celebrity` status.
 - Applicants should have a degree or a qualification of equal status.
 
 ## 4760. status symbol ## noun [C]
@@ -27912,7 +27912,7 @@
 ## 4762. stereotype ## noun [C]
 /ˈster.i.ə.tɑɪp/ 
 [C1]a fixed idea that people have about what a particular type of person is like, especially an idea that is wrong
-- racial stereotypes
+- `racial` stereotypes
 
 ## 4763. stock market ## noun [C usually no plural]
 /ˈstɑkˌmɑr.kɪt/ 
@@ -27927,13 +27927,13 @@
 ## 4765. stop ## noun [C]
 /stɑp/ put a stop to sth
 [C1]to end something unpleasant
-- We must put a stop to the violence.
+- We must `put a` stop `to` the violence.
 
 ## 4766. store ## noun [C]
 /stɔːr/ in store
 [C1]going to happen soon
-- You never know what's in store for you.
-- There's a bit of a shock in store for him when he gets home tonight!
+- You never know what's in store `for` you.
+- There's a bit of a shock in store `for` him when he gets home tonight!
 
 ## 4767. story ## noun [C]
 /ˈstɔːr.i/ to make a long story short
@@ -27944,7 +27944,7 @@
 /strɔː/ 
 [C1]the long, dried stems of plants such as wheat, often given to animals for sleeping on and eating
 - a straw basket/hat
-- straw-colored hair
+- straw`-colored` hair
 
 ## 4769. straw ## noun
 /strɔː/ the last/final straw
@@ -27954,26 +27954,26 @@
 ## 4770. strength ## noun
 /streŋθ/ GOOD QUALITIES
 [C1]a good quality or ability that makes someone or something effective
-- We all have our strengths and weaknesses.
+- We all have our strengths `and weaknesses`.
 - The great strength of this arrangement is its simplicity.
 
 ## 4771. strength ## noun
 /streŋθ/ BEING BRAVE
 [C1]when you are brave or determined in difficult situations
-- I think she showed great strength of character.
+- I think she showed great strength `of character`.
 - He has a great deal of inner strength.
 
 ## 4772. stress ## noun
 /stres/ IMPORTANCE
 [C1]special importance that you give to something
-- At school, they laid/put/placed great stress on academic achievement.
+- At school, they `laid/put/placed` great stress on academic achievement.
 
 ## 4773. stretch ## noun [C]
 /stretʃ/ 
 [C1]a continuous area of land or water
-- This particular stretch of coast is especially popular with walkers.
-- Traffic is at a standstill along a five-mile stretch of the I95 just south of Stamford.
-- Some very rare birds inhabit this stretch of the river.
+- This particular stretch `of` coast is especially popular with walkers.
+- Traffic is at a standstill `along` a five`-mile` stretch of the I95 just south of Stamford.
+- Some very rare birds inhabit this stretch `of` the river.
 
 ## 4774. striker ## noun [C]
 /ˈstrɑɪ.kər/ 
@@ -28023,7 +28023,7 @@
 ## 4783. summit ## noun [C]
 /ˈsʌm.ɪt/ MOUNTAIN
 [C1]the top of a mountain
-- The climbers hope to reach the summit before nightfall.
+- The climbers hope to `reach the` summit before nightfall.
 
 ## 4784. superior ## noun [C]
 /sʊˈpɪr.i.ər/ 
@@ -28033,8 +28033,8 @@
 ## 4785. supervision ## noun [U]
 /ˌsuː.pərˈvɪʒ.ən/ 
 [C1]when you supervise someone or something
-- He needs constant supervision.
-- Students are not allowed to handle these chemicals unless they are under the supervision of a teacher.
+- He needs `constant` supervision.
+- Students are not allowed to handle these chemicals unless they are `under` the supervision `of` a teacher.
 
 ## 4786. supervisor ## noun [C]
 /ˈsuː.pərˌvɑɪ.zər/ 
@@ -28044,7 +28044,7 @@
 ## 4787. surge ## noun [C]
 /sɜrdʒ/ 
 [C1]a large increase in something
-- a surge in food prices
+- a surge `in` food prices
 
 ## 4788. surgeon ## noun [C]
 /ˈsɜr.dʒən/ 
@@ -28055,8 +28055,8 @@
 /səˈspɪʃ.ən/ THINK GUILTY
 [C1]a feeling or belief that someone has committed a crime or done something wrong
 - His strange behavior raised suspicions among his co-workers.
-- She is on of four people under suspicion.
-- In this particular case, they are above/beyond suspicion.
+- She is on of four people `under` suspicion.
+- In this particular case, they are `above/beyond` suspicion.
 
 ## 4790. tactic ## noun [C]
 /ˈtæk.tɪk/ 
@@ -28091,7 +28091,7 @@
 ## 4796. tear ## noun [C usually plural]
 /tɪr/ shed tears
 [C1]to cry
-- I shed a few tears when he left.
+- I shed `a few` tears when he left.
 
 ## 4797. technician ## noun [C]
 /tekˈnɪʃ.ən/ 
@@ -28106,8 +28106,8 @@
 ## 4799. tendency ## noun [C]
 /ˈten.dən.si/ 
 [C1]something that someone often does, or something that often happens
-- She has a tendency to talk for too long.
-- There is a growing tendency for companies to employ people on short contracts.
+- She `has a` tendency to talk for too long.
+- There is a growing tendency `for` companies to employ people on short contracts.
 
 ## 4800. term ## noun
 /tɜrm/ SCHOOL
@@ -28157,8 +28157,8 @@
 ## 4809. thrill ## noun [C]
 /θrɪl/ 
 [C1]a strong feeling of excitement and pleasure
-- It was a big thrill meeting the stars of the show.
-- the thrill of winning a competition
+- It was a `big` thrill meeting the stars of the show.
+- the thrill `of` winning a competition
 
 ## 4810. thumb ## noun [C]
 /θʌm/ a rule of thumb
@@ -28184,8 +28184,8 @@
 ## 4814. time ## noun
 /tɑɪm/ make time
 [C1]to leave enough time to do something although you are busy
-- You have to make time to do your homework.
-- He never made enough time for family life.
+- You have to make time `to` do your homework.
+- He never made enough time `for` family life.
 
 ## 4815. time ## noun
 /tɑɪm/ it's only a matter of time
@@ -28221,7 +28221,7 @@
 ## 4821. toast ## noun
 /toʊst/ DRINK
 [C1]a few words or a short speech to honor someone or wish everyone well, said while people lift their glasses then take a drink
-- At the wedding, there was a toast to the happy couple.
+- At the wedding, there was a toast `to` the happy couple.
 
 ## 4822. tobacco ## noun [U]
 /təˈbæk.oʊ/ 
@@ -28231,7 +28231,7 @@
 ## 4823. token ## noun [C]
 /ˈtoʊ.kən/ LOVE/THANKS
 [C1]something that you give to someone in order to show them love, to thank them, etc.
-- I gave Helen some chocolates as a token of thanks for all her help.
+- I gave Helen some chocolates as a token `of` thanks for all her help.
 
 ## 4824. toll ## noun [no plural]
 /toʊl/ MONEY
@@ -28265,7 +28265,7 @@
 /træk/ on track
 [C1]making progress and likely to succeed
 - A fighter from Edinburgh is on track to become world heavyweight boxing champion.
-- We've got a lot of work to do but we're on the right track.
+- We've got a lot of work to do but we're on `the right` track.
 
 ## 4830. track ## noun
 /træk/ keep track
@@ -28276,7 +28276,7 @@
 ## 4831. trade ## noun
 /treɪd/ AREA OF BUSINESS
 [C1]a particular area of business or industry
-- the building/book/tourist trade
+- the `building/book/tourist` trade
 
 ## 4832. trainee ## noun [C]
 /treɪˈniː/ 
@@ -28286,7 +28286,7 @@
 ## 4833. transaction ## noun [C or U]
 /trænˈzæk.ʃən/ 
 [C1]when someone buys or sells something, or when money is exchanged
-- a business transaction
+- a `business` transaction
 - Each transaction at the foreign exchange counter seems to take forever.
 - We need to monitor the transaction of smaller deals.
 
@@ -28299,7 +28299,7 @@
 ## 4835. travel ## noun [U]
 /ˈtræv.əl/ sb's travels
 [C1]the trips someone takes from place to place
-- I meet all kinds of interesting people on my travels.
+- I meet all kinds of interesting people `on` my travels.
 
 ## 4836. trek ## noun [C]
 /trek/ 
@@ -28309,15 +28309,15 @@
 ## 4837. trial ## noun [C or U]
 /trɑɪl/ TEST
 [C1]a test of something new to find out if it is safe, works correctly, etc.
-- They're doing clinical trials on a new drug.
-- They've employed her for a six-month trial period.
+- They're doing `clinical` trials on a new drug.
+- They've employed her for a six-month trial `period`.
 
 ## 4838. triumph ## noun
 /ˈtrɑɪ.ʌmf/ SUCCESS
 [C1]an important success, achievement, or victory
-- When it was first built, the bridge was hailed as a triumph of engineering.
-- the Eagles first-round playoff triumph over the New York Giants
-- The signing of the agreement was a diplomatic triumph for the president.
+- When it was first built, the bridge was hailed as a triumph `of` engineering.
+- the Eagles first-round playoff triumph `over` the New York Giants
+- The signing of the agreement was a diplomatic triumph `for` the president.
 - The eradication of smallpox by vaccination was one of medicine's greatest triumphs.
 
 ## 4839. tuition ## noun [U]
@@ -28329,8 +28329,8 @@
 ## 4840. tune ## noun [C]
 /tuːn/ MUSICAL NOTES
 [C1]a series of musical notes that are pleasant to listen to
-- That's a very catchy tune.
-- He was humming a tune as he dried the dishes.
+- That's a very `catchy` tune.
+- He was `humming` a tune as he dried the dishes.
 
 ## 4841. tune ## noun [C]
 /tuːn/ out of tune
@@ -28355,7 +28355,7 @@
 ## 4845. turn ## noun
 /tɜrn/ CORNER
 [C1]a corner where one street meets another
-- Take the first turn on the left.
+- `Take` the first turn on the left.
 
 ## 4846. twist ## noun [C]
 /twɪst/ 
@@ -28382,7 +28382,7 @@
 ## 4850. understanding ## noun
 /ˌʌn.dərˈstæn.dɪŋ/ AGREEMENT
 [C1]an informal agreement between two people
-- The two sides have come to/reached an understanding about the sale of the house.
+- The two sides `have come to/reached an` understanding about the sale of the house.
 
 ## 4851. unemployed ## noun
 /ˌʌn.ɪmˈplɔɪd/ the unemployed
@@ -28392,7 +28392,7 @@
 ## 4852. unit ## noun [C]
 /ˈjuː.nɪt/ PEOPLE
 [C1]a group of people living or working together, especially for a particular purpose
-- the family unit
+- the `family` unit
 - He’s the surgeon in charge of the burn unit at the hospital.
 - My brother's leave is over so he has to report back to his air force unit tomorrow.
 
@@ -28440,8 +28440,8 @@
 ## 4861. value ## noun
 /ˈvæl.juː/ at face value
 [C1]If you accept something at face value because of the way it first looks or seems, you do so without thinking carefully about it.
-- You can't just accept everything you read in the newspapers at face value.
-- These results should not be taken at face value - careful analysis is required to assess their full implications.
+- You can't just `accept` everything you read in the newspapers at face value.
+- These results should not be `taken` at face value - careful analysis is required to assess their full implications.
 
 ## 4862. variable ## noun [C]
 /ˈver.i.ə.bəl/ 
@@ -28476,7 +28476,7 @@
 ## 4868. viewpoint ## noun [C]
 /ˈvjuː.pɔɪnt/ 
 [C1]a way of thinking about a situation
-- From his viewpoint the action seemed entirely justified.
+- `From his` viewpoint the action seemed entirely justified.
 
 ## 4869. vine ## noun [C]
 /vɑɪn/ 
@@ -28486,7 +28486,7 @@
 ## 4870. vision ## noun
 /ˈvɪʒ.ən/ ABILITY TO PLAN
 [C1]the ability to make plans for the future that are imaginative and wise
-- As a leader, he lacked vision.
+- As a leader, he `lacked` vision.
 
 ## 4871. vocabulary ## noun
 /voʊˈkæb.jəˌler.i/ LANGUAGE
@@ -28528,10 +28528,10 @@
 /weɪ/ MANNER
 [C1]the manner in which someone behaves or thinks, or in which something happens
 - Don't be alarmed - it's just his way.
-- He looked at me in a sinister way.
-- It's amazing the way she manages to stay so calm.
+- He looked at me `in` a sinister way.
+- It's amazing `the` way she manages to stay so calm.
 - The way he was shouting, you'd have thought he was badly hurt.
-- It's always the way - either I've got nothing to do or way too much.
+- It's `always the` way - either I've got nothing to do or way too much.
 
 ## 4879. way ## noun
 /weɪ/ in the same way
@@ -28566,8 +28566,8 @@
 ## 4885. will ## noun
 /wɪl/ WHAT SOMEONE WANTS
 [C1]what someone wants to happen
-- Against their will, they were forced to hold a meeting.
-- The state can't just impose its will on local communities.
+- `Against` their will, they were forced to hold a meeting.
+- The state can't just impose its will `on` local communities.
 
 ## 4886. win ## noun [C]
 /wɪn/ 
@@ -28584,7 +28584,7 @@
 /wɪt/ 
 [C1]the ability to say things that are funny and clever
 - a woman of great intelligence and wit
-- He was known for his dry/sharp wit.
+- He was known for his `dry`/`sharp` wit.
 
 ## 4889. witch ## noun [C]
 /wɪtʃ/ 
@@ -28614,7 +28614,7 @@
 ## 4894. workplace ## noun [C]
 /ˈwɜrk.pleɪs/ 
 [C1]the place where you work
-- We are trying to get rid of bullying in the workplace.
+- We are trying to get rid of bullying `in the` workplace.
 
 ## 4895. workshop ## noun [C]
 /ˈwɜrk.ʃɑp/ 
@@ -28629,7 +28629,7 @@
 ## 4897. worse ## noun [U]
 /wɜrs/ 
 [C1]something that is more unpleasant or difficult
-- How was the movie? "I’ve seen worse."
+- How was the movie? "I’ve `seen` worse."
 - By the third month of the expedition they had endured many hardships, but worse was to follow.
 
 ## 4898. youngster ## noun [C]
@@ -28645,7 +28645,7 @@
 ## 4900. abuse ## noun
 /əˈbjuːs/ LANGUAGE
 [C2]rude and offensive words said to another person
-- He found it difficult to tolerate the verbal abuse.
+- He found it difficult to tolerate the `verbal` abuse.
 
 ## 4901. accord ## noun
 /əˈkɔːrd/ of your own accord
@@ -28675,7 +28675,7 @@
 ## 4906. action ## noun
 /ˈæk.ʃən/ FIGHTING
 [C2]fighting in a war
-- He was killed in action.
+- He was killed `in` action.
 
 ## 4907. action ## noun
 /ˈæk.ʃən/ PROCESS
@@ -28690,7 +28690,7 @@
 ## 4909. administration ## noun
 /ədˌmɪn.əˈstreɪ.ʃən/ GOVERNMENT
 [C2]the politicians who govern a town, city, country, etc., or the period a particular elected government is in charge
-- The current administration faces serious economic issues.
+- The `current` administration faces serious economic issues.
 - the Reagan/Obama administration
 
 ## 4910. adolescent ## noun [C]
@@ -28701,13 +28701,13 @@
 ## 4911. advocate ## noun [C]
  
 [C2]someone who supports a particular idea or way of doing things
-- He has always been an advocate of space exploration.
+- He has always been `an` advocate `of` space exploration.
 
 ## 4912. age ## noun
 /eɪdʒ/ OLD
 [C2]the state of being old or becoming old
 - He is starting to show his age.
-- The value of the painting has increased with age.
+- The value of the painting has increased `with` age.
 
 ## 4913. age ## noun
 /eɪdʒ/ at the tender age of 8/17/25, etc.
@@ -28723,7 +28723,7 @@
 ## 4915. air ## noun
 /er/ QUALITY
 [C2]a particular appearance or quality
-- He has an air of confidence.
+- He has `an` air `of` confidence.
 
 ## 4916. air ## noun
 /er/ clear the air
@@ -28754,13 +28754,13 @@
 ## 4921. alliance ## noun [C]
 /əˈlɑɪ.əns/ 
 [C2]an agreement between people, countries, political parties, etc., to work together to achieve something
-- The mayor wants to form an alliance with local business leaders.
-- an alliance between the countries/families/groups
+- The mayor wants to form an alliance `with` local business leaders.
+- an alliance `between` the countries/families/groups
 
 ## 4922. allocation ## noun
 /ˌæl.əˈkeɪ.ʃən/ PROCESS
 [C2]the providing of some money, time, space, etc., for a particular purpose
-- the allocation of funds/resources
+- `the` allocation `of` funds/resources
 
 ## 4923. allocation ## noun
 /ˌæl.əˈkeɪ.ʃən/ PART
@@ -28790,7 +28790,7 @@
 ## 4928. anchor ## noun [C]
 /ˈæŋ.kər / BOAT
 [C2]a heavy, metal object that is dropped into water to stop a boat from moving
-- We dropped anchor in a quiet bay and swam.
+- We `dropped` anchor in a quiet bay and swam.
 
 ## 4929. anchor ## noun [C]
 /ˈæŋ.kər / SUPPORT
@@ -28805,12 +28805,12 @@
 ## 4931. antibiotic ## noun [C]
 /ˌænt.i.bɑɪ.ɑt̬.ɪk/ 
 [C2]a medicine which cures infections by destroying harmful bacteria
-- He is on antibiotics for an ear infection.
+- He is `on` antibiotics for an ear infection.
 
 ## 4932. anticipation ## noun [U]
 /ænˌtɪ.səˈpeɪ.ʃən/ WAITING
 [C2]when you are waiting for something to happen, usually with excitement
-- The children were breathless with anticipation.
+- The children were breathless `with` anticipation.
 
 ## 4933. anticipation ## noun [U]
 /ænˌtɪ.səˈpeɪ.ʃən/ in anticipation (of)
@@ -28820,8 +28820,8 @@
 ## 4934. appeal ## noun
 /əˈpiːl/ REQUEST
 [C2]a formal or urgent request, especially for money or help in an emergency
-- They're launching an appeal to raise money for earthquake victims.
-- The Red Cross issued an appeal for blood donations.
+- They're `launching` an appeal to raise money for earthquake victims.
+- The Red Cross issued an appeal `for` blood donations.
 
 ## 4935. appetite ## noun [C or U]
 /ˈæp.ə.tɑɪt/ an appetite for something
@@ -28872,7 +28872,7 @@
 ## 4944. arrival ## noun
 /əˈrɑɪ.vəl/ BECOME AVAILABLE
 [C2]when something new is discovered or created or becomes available
-- The arrival of the railroad changed the western US.
+- The arrival `of` the railroad changed the western US.
 
 ## 4945. art ## noun
 /ɑrt/ arts
@@ -28889,13 +28889,13 @@
 ## 4947. aspiration ## noun [C usually plural]
 /ˌæs.pəˈreɪ.ʃən/ 
 [C2]something that you hope to achieve
-- I've never had any political aspirations.
+- I've never `had` any political aspirations.
 
 ## 4948. assault ## noun [C or U]
 /əˈsɔːlt/ 
 [C2]an attack
-- an assault on a police officer
-- sexual assault
+- an assault `on` a police officer
+- `sexual` assault
 
 ## 4949. assembly ## noun
 /əˈsem.bli/ GROUP
@@ -28927,12 +28927,12 @@
 /əˈtætʃ.mənt/ FEELING
 [C2]a feeling of love or strong connection to someone or something
 - She had a special attachment to these students.
-- I wasn't aware of any emotional attachment.
+- I wasn't aware of any `emotional` attachment.
 
 ## 4955. attack ## noun [C or U]
 /əˈtæk/ CRITICISM
 [C2]when you say something to strongly criticize someone or something
-- a scathing attack on the president
+- a scathing attack `on` the president
 
 ## 4956. attendance ## noun [C or U]
 /əˈten.dəns/ in attendance
@@ -29019,7 +29019,7 @@
 /bænd/ THIN PIECE
 [C2]a thin, flat piece or circle of material put around something or used to hold things together
 - I have two bands for this watch, one black and one red.
-- a rubber band
+- a `rubber` band
 
 ## 4973. bargain ## noun [C]
 /ˈbɑr.gən/ in the bargain
@@ -29040,7 +29040,7 @@
 /beɪs/ MAIN PLACE
 [C2]the main place where a person lives or works or where a business operates
 - I spend a lot of time in Dallas, but Chicago is still my base.
-- Nice is an excellent base for exploring the French Riviera.
+- Nice is an excellent base `for` exploring the French Riviera.
 
 ## 4977. base ## noun [C]
 /beɪs/ MAIN PART
@@ -29055,7 +29055,7 @@
 ## 4979. battle ## noun
 /ˈbæt̬.əl/ ARGUMENT
 [C2]when two people or groups compete against each other or have an argument about something
-- They’re in a battle with their publisher over electronic rights.
+- They’re in a battle `with` their publisher over electronic rights.
 
 ## 4980. bay ## noun [C]
 /beɪ/ keep/hold sb/sth at bay
@@ -29085,7 +29085,7 @@
 ## 4985. belief ## noun
 /bɪˈliːf/ EFFECTIVE
 [C2]the feeling that someone or something is effective or right
-- a belief in social justice
+- a belief `in` social justice
 
 ## 4986. bell ## noun [C]
 /bel/ ring a bell
@@ -29131,8 +29131,8 @@
 ## 4994. bet ## noun [C]
 /bet/ GUESS
 [C2]when you guess about something or risk money on the result of a game, competition, etc.
-- She was right - she won our bet.
-- He placed a bet on the race.
+- She was right - she `won` our bet.
+- He `placed` a bet `on` the race.
 
 ## 4995. bet ## noun [C]
 /bet/ your best bet
@@ -29148,14 +29148,14 @@
 /ˈbɑɪ.əs/ 
 [C2]when you support or oppose someone or something in an unfair way because you are influenced by your personal opinions
 - Some people feel news coverage always reflects a reporter’s bias.
-- bias in the media/news/press
-- Well, I'm biased in favor of jazz music.
-- a bias against/toward private education
+- bias `in` the media/news/press
+- Well, I'm biased `in favor of` jazz music.
+- a bias `against/toward` private education
 
 ## 4998. bid ## noun [C]
 /bɪd/ BUY
 [C2]an offer to pay a particular amount of money for something
-- I made a bid of $150 for the painting.
+- I made a bid of $150 `for` the painting.
 
 ## 4999. bill ## noun [C]
 /bɪl/ foot the bill
@@ -29206,7 +29206,7 @@
 ## 5008. block ## noun [C]
 /blɑk/ STOP PROGRESS
 [C2]something that makes it difficult to move or make progress
-- Lack of money has been the main stumbling block.
+- Lack of money has been the main `stumbling` block.
 
 ## 5009. blood ## noun [U]
 /blʌd/ in cold blood
@@ -29241,7 +29241,7 @@
 ## 5015. blow ## noun [C]
 /bloʊ/ BAD EVENT
 [C2]an unexpected event that has a damaging effect on someone or something
-- Losing his job was a severe blow to his confidence.
+- Losing his job was a severe blow `to` his confidence.
 
 ## 5016. board ## noun
 /bɔːrd/ across the board
@@ -29327,8 +29327,8 @@
 ## 5032. break ## noun [C]
 /breɪk/ OPPORTUNITY
 [C2]a lucky opportunity
-- His big break came when he was offered a part in a TV series.
-- Getting that first job was a lucky break.
+- His `big` break came when he was offered a part in a TV series.
+- Getting that first job was a `lucky` break.
 
 ## 5033. breakdown ## noun [C]
 /ˈbreɪk.dɑʊn/ division
@@ -29358,12 +29358,12 @@
 ## 5038. bribery ## noun [U]
 /ˈbrɑɪ.bə.ri/ 
 [C2]when someone is offered money or a present so that they will do something, usually something dishonest
-- bribery and corruption
+- bribery `and corruption`
 
 ## 5039. bridge ## noun [C]
 /brɪdʒ/ CONNECTION
 [C2]something that connects two groups, organizations, etc., and improves the relationship between them
-- They are trying to build bridges with neighboring countries.
+- They are trying to `build` bridges with neighboring countries.
 
 ## 5040. brink ## noun
 /brɪŋk/ be on the brink of sth
@@ -29413,7 +29413,7 @@
 ## 5049. buzz ## noun
 /bʌz/ EXCITEMENT
 [C2]a feeling of excitement, energy, or pleasure
-- He gets a real buzz from going to the gym.
+- He `gets a real` buzz from going to the gym.
 
 ## 5050. buzz ## noun
 /bʌz/ SOUND
@@ -29443,7 +29443,7 @@
 ## 5055. care ## noun
 /ker/ WORRY
 [C2]a feeling of worry
-- He was sixteen years old and didn't have a care in the world.
+- He was sixteen years old and `didn't have a` care `in the world`.
 
 ## 5056. career ## noun [C]
 /kəˈrɪr/ TIME
@@ -29474,9 +29474,9 @@
 ## 5061. case ## noun
 /keɪs/ ARGUMENT
 [C2]arguments, facts, or reasons that prove a particular opinion
-- There is a strong case for/against passing the new legislation.
-- He put the case for more funding very convincingly.
-- She was given the opportunity to state her case.
+- There is a strong case `for/against` passing the new legislation.
+- He `put the` case `for` more funding very convincingly.
+- She was given the opportunity to `state` her case.
 
 ## 5062. casserole ## noun
 /ˈkæs.əˌroʊl/ FOOD
@@ -29501,7 +29501,7 @@
 ## 5066. cause ## noun
 /kɔːz/ REASON FOR
 [C2]a reason to feel something or to behave in a particular way
-- He's never given me any cause for concern.
+- He's never given me any cause `for` concern.
 
 ## 5067. caution ## noun
 /ˈkɔː.ʃən/ throw caution to the wind
@@ -29511,7 +29511,7 @@
 ## 5068. ceiling ## noun [C]
 /ˈsiː.lɪŋ/ AMOUNT
 [C2]a limit on the amount that can be paid for something
-- They have set a ceiling on pay raises.
+- They have set a ceiling `on` pay raises.
 
 ## 5069. center ## noun
 /ˈsen.t̬ər/ be the center of attention
@@ -29536,12 +29536,12 @@
 ## 5073. challenge ## noun
 /ˈtʃæl.əndʒ/ DISAGREEMENT
 [C2]an expression of disagreement with ideas, rules, or someone's authority
-- a challenge to the authority of the President
+- a challenge `to` the authority of the President
 
 ## 5074. champion ## noun [C]
 /ˈtʃæm.pi.ən/ SUPPORT
 [C2]someone who supports, defends, or fights for a person, belief, or principle
-- a champion of human rights
+- a champion `of` human rights
 
 ## 5075. chance ## noun
 /tʃæns/ (the) chances are
@@ -29594,7 +29594,7 @@
 ## 5084. channel ## noun [C]
 /ˈtʃæn.əl/ COMMUNICATION
 [C2]a way of communicating with people or getting something done
-- a channel of communication
+- a channel `of communication`
 - Please make your request through the proper channels.
 
 ## 5085. chapel ## noun [C]
@@ -29620,7 +29620,7 @@
 ## 5089. charm ## noun
 /tʃɑrm/ LUCKY
 [C2]an object that you keep or wear because you believe that it is lucky
-- a lucky charm
+- a `lucky` charm
 
 ## 5090. cheer ## noun
 /tʃɪr/ 
@@ -29655,7 +29655,7 @@
 ## 5096. chill ## noun
 /tʃɪl/ FEAR
 [C2]a sudden frightened feeling
-- The scream sent a chill down my spine.
+- The scream `sent` a chill `down my spine`.
 
 ## 5097. chip ## noun [C]
 /tʃɪp/ have a chip on your shoulder
@@ -29705,7 +29705,7 @@
 ## 5106. clash ## noun [C]
 /klæʃ/ FIGHT
 [C2]a fight or argument
-- There were violent clashes between the police and demonstrators.
+- There were violent clashes `between` the police and demonstrators.
 
 ## 5107. clash ## noun [C]
 /klæʃ/ DIFFERENCE
@@ -29731,14 +29731,14 @@
 ## 5111. climate ## noun
 /ˈklɑɪ.mət/ SITUATION
 [C2]the situation, feelings, and opinions that exist at a particular time
-- the political/social climate
-- Terrorism creates a climate of fear.
+- the `political/social` climate
+- Terrorism `creates a` climate `of` fear.
 
 ## 5112. closure ## noun
 /ˈkloʊ.ʒər/ 
 [C2]when a business, organization, etc. stops operating
 - The bad weather caused many school closures in the area.
-- The company announced the closure of its Paris office.
+- The company announced the closure `of` its Paris office.
 
 ## 5113. cloud ## noun
 /klɑʊd/ be on cloud nine
@@ -29798,17 +29798,17 @@
 ## 5124. combat ## noun [C or U]
  
 [C2]a fight, especially during a war
-- The aircraft was shot down in combat.
+- The aircraft was shot down `in` combat.
 
 ## 5125. comeback ## noun [C]
 /ˈkʌm.bæk/ 
 [C2]a successful attempt to become powerful, important, or famous again
-- She's made a comeback with her first new album in twenty years.
+- She's `made a` comeback with her first new album in twenty years.
 
 ## 5126. comfort ## noun
 /ˈkʌm.fərt/ ENOUGH MONEY
 [C2]when you have a pleasant life with enough money for everything that you need
-- He can afford to retire and live in comfort for the rest of his life.
+- He can afford to retire and live `in` comfort for the rest of his life.
 
 ## 5127. comfort ## noun
 /ˈkʌm.fərt/ FOR SADNESS
@@ -29818,8 +29818,8 @@
 ## 5128. command ## noun
 /kəˈmænd/ CONTROL
 [C2]control over someone or something and responsibility for them
-- The soldiers were under the command of a tough sergeant-major.
-- Jones was in command.
+- The soldiers were `under the` command `of` a tough sergeant-major.
+- Jones was `in` command.
 
 ## 5129. commander ## noun [C]
 /kəˈmæn.dər/ 
@@ -29834,7 +29834,7 @@
 ## 5131. complex ## noun
  MENTAL
 [C2]a mental problem which makes someone anxious or frightened about something
-- an inferiority complex
+- an `inferiority` complex
 
 ## 5132. complexion ## noun [C]
 /kəmˈplek.ʃən/ 
@@ -29884,7 +29884,7 @@
 ## 5141. concentration ## noun
 /ˌkɑn.sənˈtreɪ.ʃən/ LARGE AMOUNT
 [C2]a large number or amount of something in the same place
-- high concentrations of minerals
+- `high` concentrations of minerals
 
 ## 5142. conception ## noun
 /kənˈsep.ʃən/ 
@@ -29894,7 +29894,7 @@
 ## 5143. concession ## noun
 /kənˈseʃ.ən/ 
 [C2]something that you agree to do or give to someone in order to end an argument
-- Both sides will have to make concessions.
+- Both sides will have to `make` concessions.
 
 ## 5144. conclusion ## noun
 /kənˈkluː.ʒən/ jump to conclusions
@@ -29905,7 +29905,7 @@
 /kənˈkluː.ʒən/ END
 [C2]the final part of something
 - the dramatic conclusion of the movie
-- The case should finally be brought to a conclusion this week.
+- The case should finally `be brought to a` conclusion this week.
 
 ## 5146. conclusion ## noun
 /kənˈkluː.ʒən/ lead sb to a conclusion
@@ -29915,7 +29915,7 @@
 ## 5147. confidence ## noun [U]
 /ˈkɑn.fəd.əns/ TRUST
 [C2]trusting someone's ability or believing that something will produce good results
-- Kate's new to the job, but I've got every confidence in her.
+- Kate's new to the job, but I've got `every` confidence `in` her.
 
 ## 5148. confidence ## noun [U]
 /ˈkɑn.fəd.əns/ in confidence
@@ -29940,14 +29940,14 @@
 ## 5152. conscience ## noun
 /ˈkɑn.tʃəns/ 
 [C2]the part of you that makes you feel guilty when you have behaved badly
-- a guilty conscience
-- My conscience is clear because I've done nothing wrong.
+- a `guilty` conscience
+- My conscience `is clear` because I've done nothing wrong.
 
 ## 5153. consensus ## noun [U or no plural]
 /kənˈsen.səs/ 
 [C2]when all the people in a group agree about something
-- to reach a consensus
-- The general consensus is that we should wait and see what happens.
+- to `reach` a consensus
+- The `general` consensus is that we should wait and see what happens.
 
 ## 5154. consideration ## noun
 /kənˌsɪd.əˈreɪ.ʃən/ KINDNESS
@@ -29957,18 +29957,18 @@
 ## 5155. constitution ## noun [C]
 /ˌkɑn.stəˈtuː.ʃən/ HEALTH
 [C2]the state of someone's health
-- a strong/weak constitution
+- a `strong/weak` constitution
 
 ## 5156. constraint ## noun [C]
 /kənˈstreɪnt/ 
 [C2]something that limits what you can do
-- budget/financial constraints
-- There are constraints on the medicines doctors can prescribe.
+- `budget/financial` constraints
+- There are constraints `on` the medicines doctors can prescribe.
 
 ## 5157. consultation ## noun
 /ˌkɑn.səlˈteɪ.ʃən/ DISCUSSING
 [C2]when you discuss something with someone in order to get their advice or opinion about it
-- After consultation with his lawyers, he decided to abandon the case.
+- After consultation `with` his lawyers, he decided to abandon the case.
 
 ## 5158. consultation ## noun
 /ˌkɑn.səlˈteɪ.ʃən/ MEETING
@@ -29988,7 +29988,7 @@
 ## 5161. contempt ## noun
 /kənˈtemt/ 
 [C2]a strong feeling that you do not respect someone or something
-- He has utter contempt for anyone with power.
+- He has utter contempt `for` anyone with power.
 
 ## 5162. content ## noun [no plural]
  AMOUNT
@@ -29999,7 +29999,7 @@
 /ˈkɑn.test/ POLITICS
 [C2]an election with two or more people running for the same position
 - This is the city's most important mayoral contest in decades.
-- In the last election, he survived a close contest against a political newcomer.
+- In the last election, he survived a `close` contest against a political newcomer.
 
 ## 5164. continuity ## noun [U]
 /ˌkɑnt.ənˈuː.ət̬.i/ 
@@ -30019,25 +30019,25 @@
 ## 5167. contradiction ## noun
 /ˌkɑn.trəˈdɪk.ʃən/ 
 [C2]a big difference between two things that are said or written about the same subject, or between what someone says and what they do
-- There is a clear contradiction between what she says and what she does.
+- There is a clear contradiction `between` what she says and what she does.
 
 ## 5168. conversion ## noun [C or U]
 /kənˈvɜr.ʒən/ 
 [C2]when the appearance, form, or purpose of something is changed
-- the country's conversion to democracy
-- Solar power is the conversion of the sun's energy into heat and electricity.
+- the country's conversion `to` democracy
+- Solar power is the conversion `of` the sun's energy `into` heat and electricity.
 
 ## 5169. conviction ## noun [C or U]
 /kənˈvɪk.ʃən/ CRIME
 [C2]when someone is officially found to be guilty of a particular crime
 - He already had two convictions for burglary.
-- The conviction of all three protesters caused anger in the local community.
+- The conviction `of` all three protesters caused anger in the local community.
 
 ## 5170. conviction ## noun [C or U]
 /kənˈvɪk.ʃən/ BELIEF
 [C2]a strong opinion or belief
-- religious/moral convictions
-- a deep/strong conviction
+- ` religious/moral` convictions
+- a `deep/strong` conviction
 
 ## 5171. cookie ## noun [C]
 /ˈkʊk.i/ COMPUTER
@@ -30068,7 +30068,7 @@
 /kɔːr/ IMPORTANT PART
 [C2]the most important part of a system or principle
 - core values
-- Better health care was at the core of the senator's campaign.
+- Better health care was `at the` core `of` the senator's campaign.
 
 ## 5177. core ## noun
 /kɔːr/ FRUIT
@@ -30078,7 +30078,7 @@
 ## 5178. corner ## noun [C]
 /ˈkɔːr.nər/ a tight corner
 [C2]a difficult situation
-- She had been in a tight corner before and had always managed to cope.
+- She had been `in` a tight corner before and had always managed to cope.
 
 ## 5179. corpse ## noun [C]
 /kɔːrps/ 
@@ -30115,12 +30115,12 @@
 ## 5185. coup ## noun [C]
 /kuː/ 
 [C2]when a group of people suddenly takes control of a country using force
-- a military coup
+- a `military` coup
 
 ## 5186. course ## noun
 /kɔːrs/ DEVELOPMENT
 [C2]the way something develops, usually over a long time
-- Nuclear weapons have changed the course of modern history.
+- Nuclear weapons have changed the course `of` modern history.
 
 ## 5187. cover ## noun
 /ˈkʌv.ər/ not judge a book by its cover
@@ -30140,12 +30140,12 @@
 ## 5190. crackdown ## noun [C]
 /ˈkræk.dɑʊn/ 
 [C2]when bad or illegal behavior is dealt with in a very severe way, in order to stop it happening
-- The police will begin a crackdown on speeding over the holiday weekend.
+- The police will begin a crackdown `on` speeding over the holiday weekend.
 
 ## 5191. craving ## noun [C]
 /ˈkreɪ.vɪŋ/ 
 [C2]a strong feeling that you want or need something
-- She had a craving for something salty.
+- She had a craving `for` something salty.
 
 ## 5192. craziness ## noun [U]
 /ˈkreɪ.zi.nəs/ 
@@ -30155,7 +30155,7 @@
 ## 5193. credibility ## noun [U]
 /ˌkred.əˈbɪl.ət̬.i/ 
 [C2]when someone can be believed and trusted
-- This decision has damaged the President's credibility.
+- This decision has `damaged` the President's credibility.
 
 ## 5194. credit ## noun
 /ˈkred.ɪt/ to sb's credit
@@ -30180,7 +30180,7 @@
 ## 5198. crush ## noun
 /krʌʃ/ LOVE
 [C2]a strong temporary feeling of love for someone
-- Tim has a crush on Jennifer.
+- Tim `has a` crush `on` Jennifer.
 
 ## 5199. cry ## noun [C]
 /krɑɪ/ ANIMAL/BIRD
@@ -30195,33 +30195,33 @@
 ## 5201. crystal ## noun
 /ˈkrɪs.təl/ crystal clear
 [C2]very easy to understand
-- She made it crystal clear that she was in charge.
+- She made it crystal clear `that` she was in charge.
 
 ## 5202. cushion ## noun [C]
 /ˈkʊʃ.ən/ PROTECTION
 [C2]something that protects you from possible problems
-- Overseas savings provide a cushion against tax increases at home.
+- Overseas savings provide a cushion `against` tax increases at home.
 
 ## 5203. custody ## noun [U]
 /ˈkʌs.təd.i/ CHILD
 [C2]the legal right to care for a child, especially when parents separate
-- When they divorced, it was Nicola who won custody of their two children.
+- When they divorced, it was Nicola who `won` custody of their two children.
 
 ## 5204. custody ## noun [U]
 /ˈkʌs.təd.i/ PRISON
 [C2]when someone is kept in prison, usually while they are waiting for a trial in court
 - He is being held in custody in Los Angeles charged with assault.
-- He was taken into custody by Mexican authorities.
+- He was `taken into` custody by Mexican authorities.
 
 ## 5205. dark ## noun
 /dɑrk/ in the dark
 [C2]not knowing about something because other people are not telling you
-- They kept us in the dark about their plans.
+- They `kept` us in the dark about their plans.
 
 ## 5206. dash ## noun
 /dæʃ/ AMOUNT
 [C2]a small amount of something, often food
-- Serve the tomatoes with a dash of salt and some olive oil.
+- Serve the tomatoes `with` a dash `of` salt and some olive oil.
 
 ## 5207. dawn ## noun
 /dɔːn/ the crack of dawn
@@ -30261,7 +30261,7 @@
 ## 5214. decay ## noun [U]
 /dəˈkeɪ/ 
 [C2]when something decays
-- Many of the buildings had fallen into decay.
+- Many of the buildings had `fallen into` decay.
 
 ## 5215. deceased ## noun [U]
 /dəˈsiːst/ the deceased
@@ -30282,12 +30282,12 @@
 /dəˈfens/ the defense
 [C2]the person or people in a court who are accused of doing a crime, and their lawyer
 - He was cross-examined by the defense.
-- a lawyer for the defense / a defense lawyer
+- a `lawyer for` the defense / a defense `lawyer`
 
 ## 5219. deficiency ## noun [C or U]
 /dəˈfɪʃ.ən.si/ NOT ENOUGH
 [C2]when you do not have enough of something
-- a vitamin deficiency
+- a `vitamin` deficiency
 
 ## 5220. degree ## noun
 /dəˈgriː/ a/some degree of sth
@@ -30308,12 +30308,12 @@
 ## 5223. denial ## noun [C or U]
 /dɪˈnɑɪ.əl/ 
 [C2]when you say that something is not true
-- a denial of his guilt
+- a denial `of` his guilt
 
 ## 5224. dependence ## noun [U]
 /dəˈpen.dəns/ 
 [C2]when you need someone or something all the time in order to exist or continue
-- Our society needs to reduce its dependence on the car.
+- Our society needs to reduce its dependence `on` the car.
 
 ## 5225. deposit ## noun [C]
 /dəˈpɑz.ət/ SUBSTANCE
@@ -30343,7 +30343,7 @@
 ## 5230. descendant ## noun [C]
 /dəˈsend.ənt/ 
 [C2]someone who is related to someone who lived a long time ago
-- We are New Yorkers and the descendants of Chinese immigrants.
+- We are New Yorkers and the descendants `of` Chinese immigrants.
 
 ## 5231. desperation ## noun [U]
 /ˌdes.pəˈreɪ.ʃən/ 
@@ -30353,7 +30353,7 @@
 ## 5232. deterrent ## noun [C]
 /dɪˈter.ənt/ 
 [C2]something that stops people doing something because they are afraid of what will happen if they do
-- They've installed a security camera as a deterrent to thieves.
+- They've installed a security camera as a deterrent `to` thieves.
 
 ## 5233. devastation ## noun [U]
 /ˌdev.əˈsteɪ.ʃən/ 
@@ -30403,7 +30403,7 @@
 ## 5242. dice ## noun [plural]
 /dɑɪs/ 
 [C2]two small objects each with six equal square sides that have between one and six spots on them, used in games
-- Roll the dice to see who starts the game.
+- `Roll the` dice to see who starts the game.
 
 ## 5243. difference ## noun
 /ˈdɪf.rəns/ DISAGREEMENT
@@ -30463,7 +30463,7 @@
 ## 5254. disgust ## noun [U]
 /dɪsˈgʌst / 
 [C2]a very strong feeling of dislike or disapproval
-- She walked out in disgust.
+- She walked out `in` disgust.
 
 ## 5255. disk ## noun [C]
 /dɪsk/ BACK
@@ -30473,12 +30473,12 @@
 ## 5256. dismay ## noun [U]
 /dɪˈsmeɪ/ 
 [C2]a feeling of unhappiness and disappointment
-- To our dismay, it started raining.
+- `To our` dismay, it started raining.
 
 ## 5257. disorder ## noun
 /dɪˈsɔːr.dər/ NOT ORGANIZED
 [C2]when things are untidy or confused and not organized
-- His finances are in complete disorder.
+- His finances are `in` complete disorder.
 
 ## 5258. display ## noun
 /dɪˈspleɪ/ a display of affection/anger, etc.
@@ -30493,24 +30493,24 @@
 ## 5260. disposition ## noun [C]
 /ˌdɪs.pəˈzɪʃ.ən/ 
 [C2]the type of character someone has
-- a cheerful/nervous disposition
+- a `cheerful/nervous` disposition
 
 ## 5261. dispute ## noun [C or U]
  
 [C2]a disagreement, especially one that lasts a long time
-- He and his neighbor have a long-running dispute over noise.
-- Her skills are not in dispute, but she doesn't produce enough.
+- He and his neighbor have a long-running dispute `over` noise.
+- Her skills are not `in` dispute, but she doesn't produce enough.
 
 ## 5262. distinction ## noun
 /dɪˈstɪŋ.ʃən/ QUALITY
 [C2]a quality or fact that makes someone or something special or different
 - He is a scientist of great distinction.
-- He has the distinction of being the youngest player in the World Cup finals.
+- He has `the` distinction `of` being the youngest player in the World Cup finals.
 
 ## 5263. distress ## noun [U]
 /dɪˈstres/ DANGER
 [C2]when someone or something is in danger and needs help
-- a ship in distress
+- a ship `in` distress
 
 ## 5264. disturbance ## noun
 /dɪˈstɜrː.bəns/ FIGHTING
@@ -30530,12 +30530,12 @@
 ## 5267. donor ## noun [C]
 /ˈdoʊ.nər / MONEY/GOODS
 [C2]someone who gives money or goods to a person or organization that needs help
-- Ten thousand dollars was given by an anonymous donor.
+- Ten thousand dollars was given by an `anonymous` donor.
 
 ## 5268. doom ## noun [U]
 /duːm/ 
 [C2]death, destruction, and other unpleasant events that cannot be avoided
-- a horrible sense of doom
+- a horrible `sense of` doom
 
 ## 5269. doom ## noun [U]
 /duːm/ doom and gloom
@@ -30550,7 +30550,7 @@
 ## 5271. doorway ## noun [C]
 /ˈdɔːr.weɪ/ 
 [C2]an entrance to a building or room through a door
-- She waited in the doorway while I ran back inside.
+- She waited `in the` doorway while I ran back inside.
 
 ## 5272. dot ## noun
 /dɑt/ on the dot
@@ -30571,7 +30571,7 @@
 ## 5275. doubt ## noun [C or U]
 /dɑʊt/ beyond a/the shadow of a doubt
 [C2]If something is true beyond a shadow of a doubt, it is certainly true.
-- He convinced me , but it hasn't been proved beyond the shadow of a doubt.
+- He convinced me , but it hasn't been `proved` beyond the shadow of a doubt.
 
 ## 5276. doubt ## noun [C or U]
 /dɑʊt/ give sb the benefit of the doubt
@@ -30581,7 +30581,7 @@
 ## 5277. drain ## noun [C]
 /dreɪn/ FOR WATER
 [C2]a pipe or hole that takes away waste liquids or water
-- She poured the dirty water down the drain.
+- She poured the dirty water `down` the drain.
 
 ## 5278. drain ## noun [C]
 /dreɪn/ a drain on sb/sth
@@ -30749,7 +30749,7 @@
 /ɪnˈdev.ər/ 
 [C2]an attempt to do something
 - Writing is a very different endeavor than teaching.
-- Reaching the South Pole was an amazing example of human endeavor.
+- Reaching the South Pole was an amazing example of `human` endeavor.
 
 ## 5311. endurance ## noun [U]
 /ɪnˈdʊr.əns/ 
@@ -30764,7 +30764,7 @@
 ## 5313. entity ## noun [C]
 /ˈent.ət̬.i/ 
 [C2]something which exists apart from other things
-- They want the area recognized as a separate political entity.
+- They want the area recognized as a `separate` political entity.
 
 ## 5314. envy ## noun [U]
 /ˈen.vi/ be the envy of sb
@@ -30799,7 +30799,7 @@
 ## 5320. essence ## noun
 /ˈes.əns/ BASIC QUALITY
 [C2]the basic or most important idea or quality of something
-- The essence of his argument is that we should not eat meat.
+- The essence `of` his argument is that we should not eat meat.
 
 ## 5321. essence ## noun
 /ˈes.əns/ in essence
@@ -30809,7 +30809,7 @@
 ## 5322. ethic ## noun
 /ˈeθ.ɪk/ ethics
 [C2]ideas and beliefs about what type of behavior is morally right and wrong
-- a code of ethics
+- a `code of` ethics
 - the ethics of genetic engineering
 
 ## 5323. ethic ## noun
@@ -30845,14 +30845,14 @@
 ## 5329. exile ## noun
 /ˈeg.zɑɪl/ 
 [C2]when someone has to leave their home and live in another country, often for political reasons
-- He lives in exile in New York.
-- The King was forced into exile.
+- He lives `in` exile in New York.
+- The King was forced `into` exile.
 
 ## 5330. expenditure ## noun [C or U]
 /ɪkˈspen.də.tʃər/ 
 [C2]the total amount of money that a person, business, group, etc., spends
-- a large expenditure of funds
-- Expenditures on health care and insurance continue to increase.
+- a large expenditure `of` funds
+- Expenditures `on` health care and insurance continue to increase.
 
 ## 5331. expense ## noun [C or U]
 /ɪkˈspens/ at sb's expense
@@ -30932,7 +30932,7 @@
 ## 5346. fabric ## noun
 /ˈfæb.rɪk/ the fabric of sth
 [C2]the basic way in which a society or other social group is organized
-- The family is part of the fabric of society.
+- The family is part of the fabric of `society`.
 
 ## 5347. face ## noun
 /feɪs/ lose face
@@ -31003,7 +31003,7 @@
 ## 5360. feat ## noun [C]
 /fiːt/ 
 [C2]an act or achievement that shows great skill or strength
-- The Eiffel Tower is a remarkable feat of engineering.
+- The Eiffel Tower is a remarkable feat `of` engineering.
 - Getting the house painted was quite a feat.
 
 ## 5361. feat ## noun [C]
@@ -31014,13 +31014,13 @@
 ## 5362. feature ## noun [C]
 /ˈfiː.tʃər/ NEWSPAPER
 [C2]a special article in a newspaper or magazine, or a special television program
-- a double-page feature on global warming
+- a double-page feature `on` global warming
 
 ## 5363. feeling ## noun
 /ˈfiː.lɪŋ/ hard feelings
 [C2]anger, unhappiness, or lack of trust
 - I hope you don't have any hard feelings.
-- I'm sorry it didn't work out, but no hard feelings.
+- I'm sorry it didn't work out, but `no` hard feelings.
 
 ## 5364. fever ## noun
 /ˈfiː.vər/ EXCITEMENT
@@ -31030,13 +31030,13 @@
 ## 5365. field ## noun
 /fiːld/ COMPETITORS
 [C2]the people competing in a race, activity, or business
-- We lead the field in genetic research.
+- We `lead the` field in genetic research.
 
 ## 5366. field ## noun
 /fiːld/ CONTAINING SUBSTANCE
 [C2]an area of land covered with or containing a lot of a particular substance
 - an oil/gas/coal field
-- The upper part of the volcano is a vast field of black lava.
+- The upper part of the volcano is a vast field `of` black lava.
 - They searched for meteorites on the frozen ice fields of Antarctica.
 
 ## 5367. film ## noun
@@ -31073,7 +31073,7 @@
 ## 5373. fire ## noun
 /fɑɪr/ SHOOTING
 [C2]the shooting of guns and other weapons
-- The soldiers opened fire.
+- The soldiers `opened` fire.
 
 ## 5374. fire ## noun
 /fɑɪr/ come under fire
@@ -31168,7 +31168,7 @@
 ## 5392. focus ## noun [C]
 /ˈfoʊ.kəs/ ATTENTION
 [C2]special attention you give to something
-- State officials urge continued focus on mosquito control.
+- State officials urge continued focus `on` mosquito control.
 - If I lose focus I'll never get this paper done.
 
 ## 5393. follower ## noun [C]
@@ -31219,7 +31219,7 @@
 ## 5402. force ## noun
 /fɔːrs/ join forces
 [C2]When two people or groups join forces, they act or work together.
-- She joined forces with her sister-in-law to set up a restaurant.
+- She joined forces `with` her sister-in-law to set up a restaurant.
 
 ## 5403. force ## noun
 /fɔːrs/ in force
@@ -31260,7 +31260,7 @@
 /fɔːrˈmeɪ.ʃən/ SHAPE
 [C2]when something has a particular shape or things are arranged in a particular way
 - rock/cloud formations
-- The planes flew overhead in formation.
+- The planes flew overhead `in` formation.
 
 ## 5411. foul ## noun [C]
 /fɑʊl/ 
@@ -31270,7 +31270,7 @@
 ## 5412. foundation ## noun
 /fɑʊnˈdeɪ.ʃən/ IDEA
 [C2]the idea or principle that something is based on
-- Jefferson's document formed the foundation of a new nation.
+- Jefferson's document `formed the` foundation `of` a new nation.
 
 ## 5413. foundation ## noun
 /fɑʊnˈdeɪ.ʃən/ be without foundation; have no foundation
@@ -31300,7 +31300,7 @@
 ## 5418. framework ## noun [C]
 /ˈfreɪm.wɜrk/ 
 [C2]a system of rules, ideas, or beliefs that is used to plan or decide something
-- a legal framework for resolving disputes
+- a legal framework `for` resolving disputes
 - the Common European Framework of Reference for Languages
 
 ## 5419. fraud ## noun
@@ -31368,7 +31368,7 @@
 ## 5431. fulfillment ## noun [U]
 /fʊlˈfɪl.mənt/ SOMETHING DONE
 [C2]the act of doing something necessary or something that you have promised or wanted to do
-- Being here is the fulfillment of a lifelong ambition.
+- Being here is the fulfillment `of` a lifelong ambition.
 
 ## 5432. fury ## noun [U or no plural]
 /ˈfjʊr.i/ 
@@ -31378,13 +31378,13 @@
 ## 5433. future ## noun
 /ˈfjuː.tʃər/ the foreseeable future
 [C2]as far in the future as you can imagine
-- Prices will remain high for the foreseeable future.
-- We plan a move to New York in the foreseeable future.
+- Prices will remain high `for` the foreseeable future.
+- We plan a move to New York `in` the foreseeable future.
 
 ## 5434. gamble ## noun [C]
 /ˈgæm.bəl/ 
 [C2]a risk that you take that something will succeed
-- Buying this place was a big gamble, but it seems to have paid off.
+- Buying this place was a big gamble, but it seems to have `paid off`.
 
 ## 5435. game ## noun [C]
 /geɪm/ play games
@@ -31460,7 +31460,7 @@
 /gʊd/ MORALLY RIGHT
 [C2]something that people think is morally right or will help others
 - Even a small donation can do a lot of good.
-- Children don't always understand the difference between good and bad.
+- Children don't always understand the difference between good `and bad`.
 
 ## 5450. goodness ## noun
 /ˈgʊd.nəs/ 
@@ -31470,7 +31470,7 @@
 ## 5451. grace ## noun [U]
 /greɪs/ POLITENESS
 [C2]the quality of being pleasantly polite
-- He had the grace to apologize for his mistake the next day.
+- He `had the` grace `to` apologize for his mistake the next day.
 
 ## 5452. grain ## noun
 /greɪn/ SEED
@@ -31485,7 +31485,7 @@
 ## 5454. grain ## noun
 /greɪn/ QUALITY
 [C2]a very small amount of a quality
-- There isn't a grain of truth in her story.
+- There isn't a grain `of truth` in her story.
 
 ## 5455. grain ## noun
 /greɪn/ go against the grain
@@ -31495,7 +31495,7 @@
 ## 5456. grasp ## noun [U]
 /græsp/ UNDERSTAND
 [C2]when you understand something
-- He has a good grasp of of English grammar.
+- He has a good grasp `of` of English grammar.
 
 ## 5457. grasp ## noun [U]
 /græsp/ HOLD
@@ -31505,7 +31505,7 @@
 ## 5458. grasp ## noun [U]
 /græsp/ ACHIEVE
 [C2]the ability to obtain or achieve something
-- Victory is within our grasp.
+- Victory is `within` our grasp.
 
 ## 5459. grin ## noun [C]
 /grɪn/ 
@@ -31530,7 +31530,7 @@
 ## 5463. grounds ## noun [plural]
 /grɑʊndz/ REASON
 [C2]a reason, cause or argument
-- He resigned on medical grounds.
+- He resigned `on` medical grounds.
 
 ## 5464. grounds ## noun [plural]
 /grɑʊndz/ LAND
@@ -31540,7 +31540,7 @@
 ## 5465. guarantee ## noun [C or U]
 /ˌgær.ənˈtiː/ PROMISE
 [C2]a promise that something will be done or will happen
-- There's no guarantee that it actually works.
+- There's `no` guarantee that it actually works.
 
 ## 5466. guard ## noun [C]
 /gɑrd/ catch sb off guard
@@ -31550,7 +31550,7 @@
 ## 5467. guard ## noun [C]
 /gɑrd/ be on (your) guard
 [C2]to be ready to deal with something difficult that might happen
-- Companies were warned to be on their guard for suspicious packages.
+- Companies were warned to be on their guard `for` suspicious packages.
 
 ## 5468. guard ## noun [C]
 /gɑrd/ let your guard down
@@ -31560,7 +31560,7 @@
 ## 5469. gulf ## noun [C]
 /gʌlf/ DIFFERENCE
 [C2]an important difference between the opinions or situations of two groups of people
-- There is a growing gulf between the rich and the poor.
+- There is a growing gulf `between` the rich and the poor.
 
 ## 5470. guts ## noun [plural]
 /gʌts/ ORGANS
@@ -31625,12 +31625,12 @@
 ## 5482. hang ## noun
 /hæŋ/ get the hang of sth
 [C2]to learn how to do something, especially if it is not obvious or simple
-- I've never used one of these before. - Don't worry, you'll soon get the hang of it.
+- I've never used one of these before. - Don't worry, you'll `soon` get the hang of `it`.
 
 ## 5483. harmony ## noun
 /ˈhɑr.mə.ni/ MUSIC
 [C2]a pleasant sound in music, made by playing or singing a group of different notes together
-- The choir sang in perfect harmony.
+- The choir sang `in` perfect harmony.
 - Their voices produced beautiful harmonies.
 
 ## 5484. haul ## noun
@@ -31657,7 +31657,7 @@
 ## 5488. head ## noun [C]
 /hed/ FRONT/TOP
 [C2]the front or top part of something
-- Who is that at the head of the table?
+- Who is that `at the` head `of` the table?
 
 ## 5489. heap ## noun
 /hiːp/ PILE
@@ -31682,7 +31682,7 @@
 ## 5493. heart ## noun
 /hɑrt/ open your heart
 [C2]to tell someone your secret thoughts and feelings
-- That night, she opened her heart to me.
+- That night, she opened her heart `to` me.
 
 ## 5494. heart ## noun
 /hɑrt/ take sth to heart
@@ -31712,7 +31712,7 @@
 ## 5499. heir ## noun [C]
 /er/ 
 [C2]a person who will have the legal right to someone's money and possessions when they die
-- He is the heir to a huge fortune.
+- He is the heir `to` a huge fortune.
 
 ## 5500. hell ## noun [U]
 /hel/ a/one hell of a
@@ -31728,7 +31728,7 @@
 ## 5502. hesitation ## noun
 /ˌhez.əˈteɪ.ʃən/ 
 [C2]when you pause before doing something, especially because you are nervous or not certain
-- After a moment's hesitation, he unlocked the door.
+- After a `moment's` hesitation, he unlocked the door.
 
 ## 5503. hierarchy ## noun [C]
 /ˈhɑɪ.rɑr.ki/ 
@@ -31768,7 +31768,7 @@
 ## 5510. horizon ## noun
 /həˈrɑɪ.zən/ 
 [C2]the line in the distance where the sky seems to touch the land or sea
-- We could see a large ship on the horizon.
+- We could see a large ship `on the` horizon.
 
 ## 5511. horn ## noun [C]
 /hɔːrn/ MUSIC
@@ -31778,7 +31778,7 @@
 ## 5512. host ## noun [C]
 /hoʊst/ TELEVISION
 [C2]someone who introduces the guests on a radio or television program
-- a talk show host
+- a `talk show` host
 
 ## 5513. hostage ## noun
 /ˈhɑs.tɪdʒ/ PERSON
@@ -31803,7 +31803,7 @@
 ## 5517. house ## noun [C]
 /hɑʊs/ THEATRE
 [C2]the people watching a performance or the area where they sit
-- The actors played to a full house.
+- The actors played to a `full` house.
 
 ## 5518. humanity ## noun [U]
 /hjuːˈmæn.ɪ.t̬.i/ KINDNESS
@@ -31823,7 +31823,7 @@
 ## 5521. humor ## noun
 /ˈhjuː.mər/ MOOD
 [C2]the way you are feeling, or your mood
-- good/bad humor
+- `good/bad` humor
 
 ## 5522. hypocrisy ## noun [U]
 /hɪˈpɑk.rə.si/ 
@@ -31838,7 +31838,7 @@
 ## 5524. iceberg ## noun [C]
 /ˈɑɪs.bɜrɡ/ be the tip of the iceberg
 [C2]to be a small part of a very big problem
-- We've corrected a few errors, but they're just the tip of the iceberg.
+- We've corrected a few errors, but they're `just` the tip of the iceberg.
 
 ## 5525. idea ## noun
 /ɑɪˈdiː.ə/ the idea of sth
@@ -31858,30 +31858,30 @@
 ## 5528. ignorance ## noun [U]
 /ˈɪg.nər.əns/ 
 [C2]when someone does not have enough knowledge, understanding, or information about something
-- There is widespread ignorance about how disease spreads.
-- I was shocked by her total ignorance of world history.
+- There is widespread ignorance `about` how disease spreads.
+- I was shocked by her total ignorance `of` world history.
 
 ## 5529. illusion ## noun
 /ɪˈluː.ʒən/ FALSE IDEA
 [C2]an idea or belief that is not true
-- He had no illusions about his talents as a singer.
-- I was under the illusion that trains ran frequently on weekends.
+- He `had no` illusions `about` his talents as a singer.
+- I was `under` the illusion `that` trains ran frequently on weekends.
 
 ## 5530. illusion ## noun
 /ɪˈluː.ʒən/ APPEARANCE
 [C2]something that is not really as it appears to be
-- There is a large mirror at one end to create the illusion of more space.
+- There is a large mirror at one end to `create the` illusion `of` more space.
 
 ## 5531. illustration ## noun [C or U]
 /ˌɪl.əˈstreɪ.ʃən/ EXPLAIN
 [C2]an example that explains or proves something
-- This delay is a perfect illustration of why we need a new computer system.
+- This delay is a perfect illustration `of` why we need a new computer system.
 
 ## 5532. image ## noun
 /ˈɪm.ɪdʒ/ IDEA
 [C2]a picture in your mind or an idea of how someone or something is
 - I have an image in my mind of the way I want the garden to look.
-- For me this song always conjures up images of Caribbean beaches.
+- For me this song always `conjures up` images of Caribbean beaches.
 - The poem is full of images of new life.
 
 ## 5533. imagination ## noun
@@ -31892,7 +31892,7 @@
 ## 5534. imitation ## noun
 /ˌɪm.əˈteɪ.ʃən/ 
 [C2]a copy of something that is made to look like the real thing
-- It wasn't a genuine designer handbag, just a cheap imitation.
+- It wasn't a genuine designer handbag, just `a cheap` imitation.
 - imitation leather/fur
 
 ## 5535. immune system ## noun [no plural]
@@ -31904,7 +31904,7 @@
  HITTING
 [C2]the force or action of one object hitting another
 - The impact of the crash reduced the car to a third of its original length.
-- The bullet explodes on impact.
+- The bullet explodes `on` impact.
 
 ## 5537. impatience ## noun [U]
 /ɪmˈpeɪ.ʃəns/ 
@@ -31914,12 +31914,12 @@
 ## 5538. implementation ## noun [U]
 /ˌɪm.plə.mənˈteɪ.ʃən/ 
 [C2]the process of putting a plan or system is put into operation
-- Implementation of the new computer system went smoothly.
+- Implementation `of` the new computer system went smoothly.
 
 ## 5539. implication ## noun
 /ˌɪm.pləˈkeɪ.ʃən/ SUGGESTION
 [C2]a suggestion of something that you make without saying it directly
-- The implication was that the school had to do much better or it would be closed.
+- The implication was `that` the school had to do much better or it would be closed.
 
 ## 5540. implication ## noun
 /ˌɪm.pləˈkeɪ.ʃən/ INVOLVEMENT
@@ -31929,7 +31929,7 @@
 ## 5541. import ## noun
  ACTIVITY
 [C2]the activity of importing something into a country
-- The FDA oversees the import of seafood, fruits, and vegetables.
+- The FDA oversees the import `of` seafood, fruits, and vegetables.
 
 ## 5542. impossibility ## noun [C or U]
 /ɪmˌpɑs.əˈbɪl.ət̬.i/ 
@@ -31944,7 +31944,7 @@
 ## 5544. impulse ## noun
 /ˈɪm.pʌls/ FEELING
 [C2]a sudden feeling that you must do something, without thinking about the results
-- Her first impulse was to run away.
+- Her `first` impulse was to run away.
 
 ## 5545. impulse ## noun
 /ˈɪm.pʌls/ on impulse
@@ -31959,21 +31959,21 @@
 ## 5547. incentive ## noun [C or U]
 /ɪnˈsen.tɪv/ 
 [C2]something that encourages you to act in a particular way
-- People had little incentive to save.
-- financial/economic incentives
-- The government should provide incentives for education.
+- People had little incentive `to` save.
+- `financial/economic` incentives
+- The government should provide incentives `for` education.
 
 ## 5548. inclination ## noun [C or U]
 /ˌɪn.kləˈneɪ.ʃən/ 
 [C2]what you usually are like or prefer, or the feeling that makes you want to do something
 - Tony has a strong inclination toward the arts.
 - My inclination is to look for another job.
-- She showed no inclination to leave.
+- She `showed` no inclination to leave.
 
 ## 5549. indication ## noun [C or U]
 /ˌɪn.dɪˈkeɪ.ʃən/ INTENTION
 [C2]a sign showing what someone means or what they intend to do
-- Helen's face gave no indication of what she was thinking.
+- Helen's face `gave` no indication `of` what she was thinking.
 
 ## 5550. indicator ## noun [C]
 /ˈɪn.dɪ.keɪt̬.ər/ 
@@ -32004,7 +32004,7 @@
 ## 5555. infancy ## noun
 /ˈɪn.fən.si/ 
 [C2]when you are a baby
-- Their fourth child died in infancy.
+- Their fourth child died `in` infancy.
 
 ## 5556. infancy ## noun
 /ˈɪn.fən.si/ in its infancy
@@ -32029,7 +32029,7 @@
 ## 5560. influx ## noun [C]
 /ˈɪn.flʌks/ 
 [C2]the arrival of a lot of people or things at the same time
-- The town’s economy depends on the summer influx of tourists.
+- The town’s economy depends on the summer influx `of` tourists.
 
 ## 5561. inheritance ## noun [C or U]
 /ɪnˈher.ət.əns/ 
@@ -32039,7 +32039,7 @@
 ## 5562. inhibition ## noun [C or U]
 /ˌɪn.hɪˈbɪʃ.ən/ 
 [C2]a feeling of embarrassment or worry that prevents you from saying or doing what you want
-- The whole point about dancing is to lose all your inhibitions.
+- The whole point about dancing is to `lose` all `your` inhibitions.
 
 ## 5563. injection ## noun
 /ɪnˈdʒek.ʃən/ DRUG
@@ -32049,7 +32049,7 @@
 ## 5564. injection ## noun
 /ɪnˈdʒek.ʃən/ MONEY
 [C2]when a large amount of money is provided for a plan, service, organization, etc.
-- The university has welcomed the $5 million cash injection.
+- The university has welcomed the $5 million `cash` injection.
 
 ## 5565. injury ## noun [C or U]
 /ˈɪn.dʒə.ri/ add insult to injury
@@ -32066,12 +32066,12 @@
 /ɪnˈkwɑɪ.ri/ PROCESS
 [C2]an official process to discover the facts about something bad that has happened
 - a judicial inquiry
-- Citizens have demanded a full inquiry into the government's handling of the epidemic.
+- Citizens have demanded a full inquiry `into` the government's handling of the epidemic.
 
 ## 5568. inquiry ## noun
 /ɪnˈkwɑɪ.ri/ ASKING QUESTIONS
 [C2]the process of asking questions in order to get information
-- Inquiry into the matter is pointless - no one will tell you anything.
+- Inquiry `into` the matter is pointless - no one will tell you anything.
 
 ## 5569. insecurity ## noun [U]
 /ˌɪn.sɪˈkjʊr.ət̬.i/ 
@@ -32086,7 +32086,7 @@
 ## 5571. inspection ## noun [C or U]
 /ɪnˈspek.ʃən/ EXAMINATION
 [C2]when you look at something carefully
-- On closer inspection, the painting was discovered to be a fake.
+- `On closer` inspection, the painting was discovered to be a fake.
 
 ## 5572. inspiration ## noun
 /ˌɪn.spəˈreɪ.ʃən/ be an inspiration to sb
@@ -32116,7 +32116,7 @@
 ## 5577. instruction ## noun
 /ɪnˈstrʌk.ʃən/ TELL
 [C2]something that someone tells you to do
-- He gave me strict instructions to get there by eight.
+- He gave me `strict` instructions to get there by eight.
 
 ## 5578. instrument ## noun [C]
 /ˈɪn.strə.mənt/ FOR ACHIEVING SOMETHING
@@ -32197,7 +32197,7 @@
 ## 5593. intervention ## noun [C or U]
 /ˌɪn.t̬ərˈven.tʃən/ 
 [C2]when someone intervenes, especially to influence what happens
-- Without medical intervention, the child would have died.
+- Without `medical` intervention, the child would have died.
 
 ## 5594. intolerance ## noun [U]
 /ɪnˈtɑl.ə.rəns/ 
@@ -32222,7 +32222,7 @@
 ## 5598. intrusion ## noun [C or U]
 /ɪnˈtruː.ʒən/ 
 [C2]when someone becomes involved in a situation which people want to be private
-- She could not bear the intrusion into her private life.
+- She could not bear the intrusion `into` her private life.
 
 ## 5599. intuition ## noun [C or U]
 /ˌɪn.tuˈɪ.ʃən/ 
@@ -32242,7 +32242,7 @@
 ## 5602. invitation ## noun
 /ˌɪn.vəˈteɪ.ʃən/ CAUSE RESULT
 [C2]something that is likely to cause a particular result, especially a bad one
-- Leaving your house unlocked is an open invitation to burglars.
+- Leaving your house unlocked is an open invitation `to` burglars.
 
 ## 5603. irony ## noun
 /ˈaɪ.rə.ni/ SITUATION
@@ -32303,13 +32303,13 @@
 ## 5614. judgment ## noun
 /ˈdʒʌdʒ.mənt/ ABILITY
 [C2]the ability to make good decisions or to be right in your opinions
-- to use/show poor/good/bad judgment
+- to `use/show poor/good/bad` judgment
 
 ## 5615. jug ## noun [C]
 /dʒʌg/ 
 [C2]a container with a handle used for pouring out liquids
-- a plastic jug
-- She put a gallon jug of water in the refrigerator.
+- a `plastic` jug
+- She put a gallon jug `of` water in the refrigerator.
 
 ## 5616. junior ## noun
 /ˈdʒuːn.jər / 10/20, etc. months/years sb's junior
@@ -32319,7 +32319,7 @@
 ## 5617. jury ## noun [C]
 /ˈdʒʊr.i/ the jury is (still) out
 [C2]If the jury is (still) out on a subject, people do not yet know the answer or have a definite opinion about it.
-- The jury's still out on whether these vitamins protect against cancer.
+- The jury's still out `on` whether these vitamins protect against cancer.
 
 ## 5618. justice ## noun [U]
 /ˈdʒʌs.tɪs/ do sb/sth justice; do justice to sb/sth
@@ -32334,7 +32334,7 @@
 ## 5620. kick ## noun [C]
 /kɪk/ FEELING
 [C2]a special feeling of excitement and energy
-- She gets a kick out of performing live.
+- She `gets a` kick `out of` performing live.
 
 ## 5621. kidney ## noun [C]
 /ˈkɪd.ni/ 
@@ -32395,7 +32395,7 @@
 ## 5632. landmark ## noun [C]
 /ˈlænd.mɑrk/ EVENT
 [C2]an event which is famous or important in the history of something
-- The invention of the silicon chip is a landmark in the history of technology.
+- The invention of the silicon chip is a landmark `in` the history of technology.
 
 ## 5633. lane ## noun [C]
 /leɪn/ in the fast lane
@@ -32421,8 +32421,8 @@
 ## 5637. law ## noun
 /lɔː/ STATEMENT
 [C2]a statement or relationship that is always true in science, mathematics, etc.
-- the laws of physics
-- the law of averages/gravity
+- the laws `of` physics
+- the law of `averages/gravity`
 
 ## 5638. law ## noun
 /lɔː/ take the law into your own hands
@@ -32432,7 +32432,7 @@
 ## 5639. law ## noun
 /lɔː/ law and order
 [C2]the obeying of laws in society
-- a breakdown in law and order
+- a `breakdown` in law and order
 
 ## 5640. lawsuit ## noun [C]
 /ˈlɔː.suːt/ 
@@ -32442,7 +32442,7 @@
 ## 5641. lead ## noun
 /liːd/ FILM/PLAY
 [C2]the main person in a film or play
-- She plays the lead in both films.
+- She `plays` the lead in both films.
 
 ## 5642. leaf ## noun [C]
 /liːf/ turn over a new leaf
@@ -32458,8 +32458,8 @@
 ## 5644. leap ## noun [C]
 /liːp/ CHANGE
 [C2]a sudden improvement or increase
-- There was a big leap in profits last year.
-- This represents a great leap forward in technology.
+- There was a big leap `in` profits last year.
+- This represents a great leap `forward` in technology.
 
 ## 5645. leap ## noun [C]
 /liːp/ by/in leaps and bounds
@@ -32470,8 +32470,8 @@
 /liːv/ 
 [C2]time allowed away from work for illness or another special purpose
 - maternity/sick leave
-- She's (gone) on leave.
-- I've asked if I can take a week's unpaid leave.
+- She's `(gone) on` leave.
+- I've asked if I can take a week's `unpaid` leave.
 
 ## 5647. left ## noun
 /left/ the left
@@ -32481,17 +32481,17 @@
 ## 5648. legacy ## noun [C]
 /ˈleg.ə.si/ SITUATION
 [C2]a situation that was caused by something from an earlier time
-- The war has left a legacy of hatred.
+- The war has left a legacy `of` hatred.
 
 ## 5649. legacy ## noun [C]
 /ˈleg.ə.si/ MONEY/PROPERTY
 [C2]money or property that you receive from someone after they die
-- An elderly cousin had left her a small legacy.
+- An elderly cousin had `left` her a small legacy.
 
 ## 5650. legislation ## noun [U]
 /ˌledʒ.əˈsleɪ.ʃən/ 
 [C2]a law or a set of laws
-- The government has promised to introduce legislation to limit fuel emissions from cars.
+- The government has promised to introduce legislation `to` limit fuel emissions from cars.
 
 ## 5651. length ## noun [C or U]
 /leŋθ/ the length and breadth of sth
@@ -32501,7 +32501,7 @@
 ## 5652. length ## noun [C or U]
 /leŋθ/ at length
 [C2]If you talk about something at length, you talk for a long time.
-- We discussed both topics at length.
+- We `discussed` both topics at length.
 
 ## 5653. length ## noun [C or U]
 /leŋθ/ (keep sb) at arm's length
@@ -32554,8 +32554,8 @@
 ## 5662. likelihood ## noun [U]
 /ˈlɑɪ.kliˌhʊd/ 
 [C2]the chance that something will happen
-- There’s little likelihood of a compromise.
-- There's not much likelihood of that happening.
+- There’s little likelihood `of` a compromise.
+- There's not much likelihood `of` that happening.
 
 ## 5663. likelihood ## noun [U]
 /ˈlɑɪ.kliˌhʊd/ in all likelihood
@@ -32581,9 +32581,9 @@
 ## 5667. line ## noun [C]
 /lɑɪn/ APPROACH
 [C2]a way of dealing with or thinking about something or someone
-- I couldn’t follow his line of reasoning.
-- Some members of Congress disagree with their party's line on tax cuts.
-- The police are confident that this new line of investigation will lead them to the murderer.
+- I couldn’t follow his line `of` reasoning.
+- Some members of Congress disagree with their party's line `on` tax cuts.
+- The police are confident that this new line `of` investigation will lead them to the murderer.
 
 ## 5668. line ## noun [C]
 /lɑɪn/ MILITARY
@@ -32623,7 +32623,7 @@
 ## 5675. line ## noun [C]
 /lɑɪn/ (be) out of line
 [C2]If someone's actions or words are out of line, they are beyond what is considered acceptable in that situation.
-- You can disagree with her, but calling her dishonest was way out of line.
+- You can disagree with her, but calling her dishonest was `way` out of line.
 
 ## 5676. line ## noun [C]
 /lɑɪn/ read between the lines
@@ -32668,7 +32668,7 @@
 ## 5684. longing ## noun [U no plural]
 /ˈlɔːŋ.ɪŋ/ 
 [C2]a feeling of wanting something or someone very much
-- a longing for his homeland
+- a longing `for` his homeland
 - He gazed at her, his eyes full of longing.
 
 ## 5685. look ## noun
@@ -32679,7 +32679,7 @@
 ## 5686. loss ## noun
 /lɔːs/ DISADVANTAGE
 [C2]a disadvantage caused by someone leaving an organization
-- It would be a great loss to the department if you left.
+- It would be a great loss `to` the department if you left.
 
 ## 5687. loss ## noun
 /lɔːs/ at a loss
@@ -32721,17 +32721,17 @@
 ## 5694. lure ## noun [U]
 /lʊr/ 
 [C2]the power to attract people
-- the lure of fame/power/money
+- the lure of `fame/power/money`
 
 ## 5695. margin ## noun [C]
 /ˈmɑr.dʒɪn/ DIFFERENCE
 [C2]the difference between two amounts of time, money, etc.
-- He was reelected by a wide margin.
+- He was reelected `by a` wide margin.
 
 ## 5696. margin ## noun [C]
 /ˈmɑr.dʒɪn/ SPACE
 [C2]empty space around the edges of a page of print or writing
-- If I have any comments to make, I'll write them in the margin.
+- If I have any comments to make, I'll write them `in the` margin.
 
 ## 5697. margin ## noun [C]
 /ˈmɑr.dʒɪn/ margin of error
@@ -32742,13 +32742,13 @@
 /ˈmɑr.dʒɪn/ PROFIT
 [C2]the amount of profit that is made by a business after costs have been subtracted
 - Higher fuel prices have reduced our margins.
-- Many farmers claim that the profit margin for growing trees remains slim.
+- Many farmers claim that the `profit` margin for growing trees remains slim.
 
 ## 5699. mark ## noun [C]
 /mɑrk/ a mark of sth
 [C2]a sign or proof that something exists
 - a mark of genius
-- There was a minute's silence everywhere as a mark of respect.
+- There was a minute's silence everywhere as a mark of` respect`.
 
 ## 5700. mark ## noun [C]
 /mɑrk/ leave/make your mark
@@ -32779,7 +32779,7 @@
 ## 5705. match ## noun
 /mætʃ/ SUITABLE
 [C2]something which is similar to or combines well with something else
-- The curtains look great - they're a perfect match for the sofa.
+- The curtains look great - they're `a` perfect match `for` the sofa.
 
 ## 5706. match ## noun
 /mætʃ/ be no match for sb/sth
@@ -32850,7 +32850,7 @@
 ## 5719. measure ## noun
 /ˈmeʒ.ər/ AMOUNT
 [C2]amount or degree
-- Heavy drapes give the room some measure of warmth on cold nights.
+- Heavy drapes give the room some measure `of` warmth on cold nights.
 - There was a large measure of luck in his quick promotion to company vice president.
 
 ## 5720. measurement ## noun
@@ -32861,7 +32861,7 @@
 ## 5721. medication ## noun [C or U]
 /ˌmed.əˈkeɪ.ʃən/ 
 [C2]medicine that is used to treat an illness
-- He's on medication to control his depression.
+- He's `on` medication to control his depression.
 
 ## 5722. mediocrity ## noun [U]
 /ˌmiːd.iˈɑk.rət̬.i/ 
@@ -32873,7 +32873,7 @@
 [C2]a way of communicating or expressing something
 - the medium of television/radio
 - the print medium
-- The Internet has become yet another medium for marketing.
+- The Internet has become yet another medium `for` marketing.
 
 ## 5724. melody ## noun [C]
 /ˈmel.əd.i/ 
@@ -32884,12 +32884,12 @@
 /məˈmɔːr.i.əl/ 
 [C2]an object, often made of stone, that is built to help people remember an important person or event
 - the Lincoln Memorial
-- The statue was erected as a memorial to those who died in the war.
+- The statue was erected as a memorial `to` those who died in the war.
 
 ## 5726. memory ## noun
 /ˈmem.ə.ri/ MIND
 [C2]the part of your mind that stores what you remember
-- He recited the poem from memory.
+- He recited the poem `from` memory.
 
 ## 5727. memory ## noun
 /ˈmem.ə.ri/ in memory of sb
@@ -32899,13 +32899,13 @@
 ## 5728. memory ## noun
 /ˈmem.ə.ri/ a stroll/trip/walk down memory lane
 [C2]an occasion when you remember some of the good things you did in the past
-- We were just taking a walk down memory lane and recalling our youth.
+- We were just `taking` a walk down memory lane and recalling our youth.
 
 ## 5729. mercy ## noun
 /ˈmɜr.si/ KINDNESS
 [C2]kindness that makes you forgive someone, usually someone that you have authority over
-- The judge showed no mercy.
-- The prisoners begged/pleaded for mercy.
+- The judge `showed no` mercy.
+- The prisoners `begged/pleaded for` mercy.
 
 ## 5730. mercy ## noun
 /ˈmɜr.si/ be at the mercy of sb/sth
@@ -33012,18 +33012,18 @@
 ## 5750. missile ## noun [C]
 /ˈmɪs.əl/ 
 [C2]an explosive weapon which can travel long distances through the air
-- nuclear missiles
-- a missile attack
+- `nuclear` missiles
+- a missile `attack`
 
 ## 5751. mission ## noun [C]
 /ˈmɪʃ.ən/ JOB
 [C2]an important job, usually traveling somewhere
-- I'll be going on a fact-finding mission to Paris next week.
+- I'll be going `on a` fact-finding mission to Paris next week.
 
 ## 5752. model ## noun [C]
 /ˈmɑd.əl/ EXAMPLE
 [C2]someone or something that is an example for others to copy
-- Their educational system was a model for other countries.
+- Their educational system was a model `for` other countries.
 - She was a model student.
 
 ## 5753. moment ## noun
@@ -33039,8 +33039,8 @@
 ## 5755. momentum ## noun [U]
 /moʊˈmen.t̬əm/ 
 [C2]the continuing progress, motion, development, etc., that a person or thing is experiencing
-- A falling object gains momentum as it falls.
-- The players began to lose momentum halfway through the game.
+- A falling object `gains` momentum as it falls.
+- The players began to `lose` momentum halfway through the game.
 - Technology seems to create its own momentum – if something can be done, it will be.
 
 ## 5756. monopoly ## noun
@@ -33071,8 +33071,8 @@
 ## 5761. mortality ## noun [U]
 /mɔːrˈtæl.ət̬.i/ 
 [C2]the number of deaths at a particular time or in a particular place
-- infant mortality
-- the mortality rate
+- `infant` mortality
+- the mortality `rate`
 
 ## 5762. motion ## noun
 /ˈmoʊ.ʃən/ MOVEMENT
@@ -33082,8 +33082,8 @@
 ## 5763. motion ## noun
 /ˈmoʊ.ʃən/ SUGGESTION
 [C2]a suggestion that you make in a formal meeting or court of law
-- Someone proposed a motion to increase the membership fee.
-- The motion was accepted/rejected.
+- Someone `proposed` a motion `to` increase the membership fee.
+- The motion was `accepted/rejected`.
 
 ## 5764. motion ## noun
 /ˈmoʊ.ʃən/ go through the motions
@@ -33093,8 +33093,8 @@
 ## 5765. mountain ## noun [C]
 /ˈmɑʊnt.ən/ PILE
 [C2]a large amount of something
-- I’ve got mountains of work to do.
-- a mountain of paper
+- I’ve got mountains `of` work to do.
+- a mountain `of` paper
 
 ## 5766. mouth ## noun [C]
 /mɑʊθ/ by word of mouth
@@ -33121,13 +33121,13 @@
 /ˈmʌd.əl/ 
 [C2]a situation of confusion or bad organization
 - There was a big muddle over who was buying the tickets.
-- I'm in such a muddle with these bills.
+- I'm `in` such `a` muddle with these bills.
 - Dad got into a muddle over the plans for Christmas.
 
 ## 5771. murmur ## noun [C]
 /ˈmɜr.mər/ 
 [C2]the sound of something being said quietly
-- I could hear the low murmur of voices from behind the door.
+- I could hear the low murmur `of voices` from behind the door.
 
 ## 5772. muscle ## noun [C or U]
 /ˈmʌs.əl/ pull a muscle
@@ -33204,19 +33204,19 @@
 /nɜrv/ PART OF THE BODY
 [C2]one of the stringlike parts in your body that carry messages between your brain and other parts of the body
 - the optic nerve
-- nerve cells/endings
+- nerve `cells/endings`
 
 ## 5787. nerve ## noun
 /nɜrv/ RUDENESS
 [C2]the rudeness necessary to do something you know will upset someone
-- You've got a nerve, coming here!
-- I can't believe she had the nerve to talk to me after what happened.
+- You've `got a` nerve, coming here!
+- I can't believe she `had the` nerve to talk to me after what happened.
 
 ## 5788. nerve ## noun
 /nɜrv/ BEING BRAVE
 [C2]the quality of being brave
-- I haven't got the nerve to tell him I'm leaving.
-- He lost his nerve and couldn't go through with it.
+- I `haven't got the` nerve to tell him I'm leaving.
+- He `lost his` nerve and couldn't go through with it.
 
 ## 5789. nerve ## noun
 /nɜrv/ hit/strike/touch a (raw) nerve
@@ -33226,7 +33226,7 @@
 ## 5790. nest ## noun [C]
 /nest/ BIRDS
 [C2]a home built by birds for their eggs and by some other creatures to live in
-- a birds'/wasps' nest
+- a `birds'/wasps'` nest
 
 ## 5791. nest ## noun [C]
 /nest/ a nest egg
@@ -33247,7 +33247,7 @@
 ## 5794. normality ## noun [U]
 /nɔːrˈmæl.ət̬.i/ 
 [C2]a situation in which everything is happening normally
-- a return to normality
+- a `return to` normality
 
 ## 5795. nose ## noun [C]
 /noʊz/ stick/poke your nose into sth
@@ -33267,7 +33267,7 @@
 ## 5798. nostalgia ## noun [U]
 /nɑˈstæl.dʒə/ 
 [C2]a feeling of happiness mixed with sadness when you think about things that happened in the past
-- his nostalgia for his college days
+- his nostalgia `for` his college days
 
 ## 5799. nostril ## noun [C]
 /ˈnɑs.trəl/ 
@@ -33315,7 +33315,7 @@
 ## 5807. occupation ## noun
 /ˌɑk.jəˈpeɪ.ʃən/ CONTROL
 [C2]when an army moves into a place and takes control of it
-- a military occupation
+- a `military` occupation
 
 ## 5808. ocean ## noun [no plural]
 /ˈoʊ.ʃən/ a drop in the ocean
@@ -33347,7 +33347,7 @@
 ## 5813. offer ## noun [C]
 /ˈɔː.fər/ PAYMENT
 [C2]an amount of money that you say you will pay for something
-- The highest offer anyone has made so far is $500.
+- The highest offer anyone has `made` so far is $500.
 
 ## 5814. official ## noun [C]
 /əˈfɪʃ.əl/ 
@@ -33375,7 +33375,7 @@
 ## 5818. opening ## noun
 /ˈoʊ.pə.nɪŋ/ HOLE
 [C2]a hole or space that something or someone can pass through
-- The children crawled through an opening in the fence.
+- The children crawled through an opening `in` the fence.
 
 ## 5819. openness ## noun [U]
 /ˈoʊ.pən.nəs/ 
@@ -33396,15 +33396,15 @@
 /ɔːrˈdiːl/ 
 [C2]a very unpleasant experience
 - Her seven-month stay in the hospital was quite an ordeal.
-- They feared he would not survive the ordeal.
-- She went through the ordeal of being interviewed by a panel of ten people.
+- They feared he would not `survive` the ordeal.
+- She `went through` the ordeal of being interviewed by a panel of ten people.
 
 ## 5823. order ## noun
 /ˈɔːrd.ər/ CORRECT BEHAVIOUR
 [C2]a situation in which people obey laws and there is no trouble
-- The teacher found it hard to keep her class in order.
-- As the demonstration began to turn violent, the police were called in to restore order.
-- After some heated discussion, the chair called the meeting to order.
+- The teacher found it hard to `keep` her class `in` order.
+- As the demonstration began to turn violent, the police were called in to `restore` order.
+- After some heated discussion, the chair `called ` the meeting `to` order.
 
 ## 5824. order ## noun
 /ˈɔːrd.ər/ economic/political/social order
@@ -33414,9 +33414,9 @@
 ## 5825. order ## noun
 /ˈɔːrd.ər/ CORRECT BEHAVIOUR
 [C2]a situation in which people obey laws and there is no trouble
-- The teacher found it hard to keep her class in order.
-- As the demonstration began to turn violent, the police were called in to restore order.
-- After some heated discussion, the chair called the meeting to order.
+- The teacher found it hard to `keep` her class `in` order.
+- As the demonstration began to turn violent, the police were called in to `restore` order.
+- After some heated discussion, the chair `called ` the meeting `to` order.
 
 ## 5826. order ## noun
 /ˈɔːrd.ər/ economic/political/social order
@@ -33426,9 +33426,9 @@
 ## 5827. order ## noun
 /ˈɔːrd.ər/ CORRECT BEHAVIOUR
 [C2]a situation in which people obey laws and there is no trouble
-- The teacher found it hard to keep her class in order.
-- As the demonstration began to turn violent, the police were called in to restore order.
-- After some heated discussion, the chair called the meeting to order.
+- The teacher found it hard to `keep` her class `in` order.
+- As the demonstration began to turn violent, the police were called in to `restore` order.
+- After some heated discussion, the chair `called ` the meeting `to` order.
 
 ## 5828. order ## noun
 /ˈɔːrd.ər/ economic/political/social order
@@ -33438,9 +33438,9 @@
 ## 5829. order ## noun
 /ˈɔːrd.ər/ CORRECT BEHAVIOR
 [C2]a situation in which people obey laws and there is no trouble
-- The teacher found it hard to keep her class in order.
+- The teacher found it hard to `keep` her class `in` order.
 - Observers were present to preserve order during the voting.
-- When heated disagreement broke out, the chairman tried to restore order.
+- When heated disagreement broke out, the chairman tried to `restore` order.
 
 ## 5830. order ## noun
 /ˈɔːrd.ər/ economic/political/social order
@@ -33450,7 +33450,7 @@
 ## 5831. order ## noun
 /ˈɔːrd.ər/ law and order
 [C2]the obeying of laws in society
-- a breakdown in law and order
+- a `breakdown` in law and order
 
 ## 5832. organ ## noun [C]
 /ˈɔːr.gən/ MUSIC
@@ -33486,8 +33486,8 @@
 ## 5838. outbreak ## noun [C]
 /ˈɑʊt.breɪk/ 
 [C2]when something unpleasant and difficult to control starts, such as a war or disease
-- an outbreak of flu/disease
-- the outbreak of war
+- an outbreak of `flu/disease`
+- the outbreak of `war`
 - Missouri saw several tornado outbreaks and a huge wind storm that hit St. Louis.
 
 ## 5839. outlet ## noun [C]
@@ -33498,18 +33498,18 @@
 ## 5840. outlet ## noun [C]
 /ˈɑʊt.let/ EXPRESS
 [C2]a way for someone to express an emotion, idea, or ability
-- She needs a job that will provide an outlet for her creative talent.
+- She needs a job that will provide an outlet `for` her creative talent.
 
 ## 5841. outline ## noun [C]
 /ˈɑʊt.lɑɪn/ SHAPE
 [C2]the shape made by the outside edge of something
-- She drew the outline of the boat and then colored it in.
+- She drew the outline `of` the boat and then colored it in.
 
 ## 5842. outlook ## noun [no plural]
 /ˈɑʊt.lʊk/ THINKING
 [C2]the way a person thinks about something
 - a positive/negative/optimistic outlook
-- Despite her illness, she has a great outlook on life.
+- Despite her illness, she has a great outlook `on` life.
 
 ## 5843. output ## noun [U]
 /ˈɑʊt.pʊt/ 
@@ -33519,13 +33519,13 @@
 ## 5844. outrage ## noun
 /ˈɑʊt.reɪdʒ/ FEELING
 [C2]a strong feeling of anger or shock
-- Many politicians and members of the public expressed outrage at the verdict.
+- Many politicians and members of the public `expressed` outrage at the verdict.
 
 ## 5845. outrage ## noun
 /ˈɑʊt.reɪdʒ/ THING CAUSING SHOCK
 [C2]something that causes great anger or shock
 - The terrible living conditions of migrant workers, he said, were an outrage.
-- It's an outrage that so much public money should have been wasted in this way.
+- `It`'s an outrage `that` so much public money should have been wasted in this way.
 
 ## 5846. outset ## noun
 /ˈɑʊt.set/ at/from the outset
@@ -33541,12 +33541,12 @@
 ## 5848. pack ## noun [C]
 /pæk/ ANIMALS
 [C2]a group of animals that live together, especially those of the dog family
-- a pack of wolves
+- a pack `of wolves`
 
 ## 5849. pact ## noun [C]
 /pækt/ 
 [C2]an agreement between two people or groups
-- We have a pact never to talk about each other.
+- We `have` a pact never to talk about each other.
 
 ## 5850. pain ## noun
 /peɪn/ a sharp pain
@@ -33576,8 +33576,8 @@
 ## 5855. parallel ## noun [C]
 /ˈpær.ə.lel/ 
 [C2]a similarity
-- There are a number of parallels between our two situations.
-- People are drawing parallels between the two cases.
+- There are a number of parallels `between` our two situations.
+- People are `drawing` parallels between the two cases.
 
 ## 5856. part ## noun
 /pɑrt/ on the part of sb; on sb's part
@@ -33623,13 +33623,13 @@
 ## 5864. pastime ## noun [C]
 /ˈpæs.tɑɪm/ 
 [C2]an activity that you enjoy doing when you are not working
-- Watching hockey is one of her favorite pastimes.
+- Watching hockey is one of her `favorite` pastimes.
 
 ## 5865. patch ## noun [C]
 /pætʃ/ AREA
 [C2]a small area that is different from the area around it
-- a bald patch
-- There are icy patches on the road.
+- a `bald` patch
+- There are `icy` patches on the road.
 
 ## 5866. patch ## noun [C]
 /pætʃ/ MATERIAL
@@ -33649,7 +33649,7 @@
 ## 5869. path ## noun [C]
 /pæθ/ DIRECTION
 [C2]the direction that a person or vehicle moves in
-- a flight path
+- a `flight` path
 
 ## 5870. path ## noun [C]
 /pæθ/ cross sb's path
@@ -33685,8 +33685,8 @@
 ## 5876. perspective ## noun
 /pərˈspek.tɪv/ in perspective
 [C2]when things are in perspective, you think about them in a sensible and realistic way, and understand how important or unimportant they really are
-- You must keep things in perspective - the overall situation isn't really that bad.
-- When you see pictures of their suffering, it puts your own problems in perspective.
+- You must `keep` things in perspective - the overall situation isn't really that bad.
+- When you see pictures of their suffering, it `puts` your own problems in perspective.
 
 ## 5877. persuasion ## noun
 /pərˈsweɪ.ʒən/ 
@@ -33776,7 +33776,7 @@
 ## 5894. platform ## noun [C]
 /ˈplæt.fɔːrm/ FOR OPINIONS
 [C2]a way of telling the public about your opinions
-- Basically, he uses the newspaper as a platform for airing his political views.
+- Basically, he uses the newspaper as a platform `for` airing his political views.
 
 ## 5895. play ## noun
 /pleɪ/ fair play
@@ -33786,7 +33786,7 @@
 ## 5896. plea ## noun [C]
 /pliː/ 
 [C2]a strong request
-- an emotional plea for forgiveness
+- an emotional plea `for` forgiveness
 
 ## 5897. plethora ## noun
 /ˈpleθ.ə.rə/ a plethora of sth
@@ -33816,12 +33816,12 @@
 ## 5902. pocket ## noun [C]
 /ˈpɑk.ɪt/ MONEY
 [C2]the amount of money that you have for spending
-- I shouldn't have to pay for travel out of my own pocket.
+- I shouldn't have to pay for travel `out of my own` pocket.
 
 ## 5903. point ## noun
 /pɔɪnt/ QUALITY
 [C2]a quality or ability which someone has
-- I know she's bossy but she has lots of good points.
+- I know she's bossy but she has lots of `good` points.
 
 ## 5904. point ## noun
 /pɔɪnt/ DIRECTION
@@ -33861,16 +33861,16 @@
 ## 5911. possession ## noun
 /pəˈzeʃ.ən/ HAVE
 [C2]when you have or own something
-- I have in my possession a photograph which may be of interest to you.
-- He was caught in possession of explosives.
+- I have `in my` possession a photograph which may be of interest to you.
+- He was caught `in` possession `of` explosives.
 
 ## 5912. practice ## noun
 /ˈpræk.təs/ ACTIVITY
 [C2]what people do or how they do it
-- the illegal practice of copying CDs
-- What can European companies learn from Japanese business practices?
-- It is common practice to bury waste in landfills.
-- What is standard practice in a situation like this?
+- the `illegal` practice of copying CDs
+- What can European companies learn from Japanese `business` practices?
+- `It` is `common ` practice to bury waste in landfills.
+- What is `standard` practice in a situation like this?
 
 ## 5913. practitioner ## noun [C]
 /prækˈtɪʃ.ə.nər/ 
@@ -33880,7 +33880,7 @@
 ## 5914. precedent ## noun [C or U]
 /ˈpres.əd.ənt/ 
 [C2]an action or decision that is used as an example when someone wants to do a similar thing in the future
-- This decision has set an important legal precedent for other countries.
+- This decision has `set` an important legal precedent for other countries.
 
 ## 5915. predecessor ## noun [C]
 /ˈpred.ə.se.sər/ 
@@ -33910,7 +33910,7 @@
 ## 5920. presence ## noun
 /ˈprez.əns/ POLICE/SOLDIERS
 [C2]a group of police or soldiers who are watching or controlling a situation
-- a strong police presence
+- a strong `police` presence
 
 ## 5921. presence ## noun
 /ˈprez.əns/ FEELING
@@ -33931,7 +33931,7 @@
 /ˈpreʃ.ər/ FORCE
 [C2]the force you produce when you press something
 - He put too much pressure on the door handle and it snapped.
-- You can stop bleeding by applying pressure close to the injured area.
+- You can stop bleeding by `applying` pressure close to the injured area.
 
 ## 5925. presumption ## noun
 /prɪˈzʌmp.ʃən/ 
@@ -33977,7 +33977,7 @@
 ## 5933. principle ## noun [C]
 /ˈprɪn.sə.pəl/ MORAL RULE
 [C2]a rule or belief which influences your behavior and which is based on what you think is right
-- He must be punished - it's a matter of principle.
+- He must be punished - it's a `matter of` principle.
 
 ## 5934. print ## noun
 /prɪnt/ LETTERS
@@ -34012,7 +34012,7 @@
 ## 5940. proceedings ## noun [plural]
 /proʊˈsiː.dɪŋz/ LEGAL
 [C2]legal action against someone
-- The bank is threatening to start legal proceedings against him.
+- The bank is threatening to start `legal` proceedings against him.
 
 ## 5941. proceedings ## noun [plural]
 /proʊˈsiː.dɪŋz/ WRITTEN RECORD
@@ -34054,12 +34054,12 @@
 ## 5948. propaganda ## noun [U]
 /ˌprɑp.əˈgæn.də/ 
 [C2]information or ideas, which are often false, that an organization prints or broadcasts to make people agree with what it is saying
-- political propaganda
+- `political` propaganda
 
 ## 5949. proportion ## noun
 /prəˈpɔːr.ʃən/ out of proportion
 [C2]If something is out of proportion, it is much bigger or smaller than it should be, when compared to other things.
-- The punishment is completely out of proportion to the crime.
+- The punishment is completely out of proportion `to` the crime.
 
 ## 5950. proportion ## noun
 /prəˈpɔːr.ʃən/ in proportion to
@@ -34084,8 +34084,8 @@
 ## 5954. prospect ## noun
 /ˈprɑs.pekt/ IDEA
 [C2]the idea of something that will happen in the future
-- We face the prospect of having to start all over again.
-- I'm very excited at the prospect of seeing her again.
+- We `face the` prospect `of` having to start all over again.
+- I'm very excited `at the` prospect of seeing her again.
 
 ## 5955. protagonist ## noun [C]
 /proʊˈtæg.ə.nɪst/ 
@@ -34105,12 +34105,12 @@
 ## 5958. provocation ## noun [C or U]
 /ˌprɑv.əˈkeɪ.ʃən/ 
 [C2]when someone makes you angry
-- He'll start a fight at the slightest provocation.
+- He'll start a fight `at the slightest` provocation.
 
 ## 5959. proximity ## noun [U]
 /prɑkˈsɪm.ət̬.i/ 
 [C2]when something is near to something else
-- What's good about this hotel is its proximity to the airport.
+- What's good about this hotel is its proximity `to` the airport.
 
 ## 5960. psychiatrist ## noun [C]
 /sɑɪˈkɑɪ.ə.trɪst/ 
@@ -34130,7 +34130,7 @@
 ## 5963. purpose ## noun
 /ˈpɜr.pəs/ INTENTION
 [C2]the feeling of knowing what you want to do
-- He seems to have lost all sense of purpose.
+- He seems to have lost all `sense of` purpose.
 
 ## 5964. purpose ## noun
 /ˈpɜr.pəs/ to all intents and purposes
@@ -34141,7 +34141,7 @@
 /pərˈsuːt/ 
 [C2]when you try to achieve a plan, activity, or situation, usually over a long period of time
 - the pursuit of pleasure
-- He left his native country in pursuit of freedom.
+- He left his native country `in` pursuit `of` freedom.
 
 ## 5966. push ## noun
 /pʊʃ/ if/when push comes to shove
@@ -34151,7 +34151,7 @@
 ## 5967. puzzle ## noun [C]
 /ˈpʌz.əl/ SITUATION
 [C2]a situation which is very difficult to understand
-- Scientists have been trying to solve this puzzle for years.
+- Scientists have been trying to `solve` this puzzle for years.
 
 ## 5968. quarter ## noun
 /ˈkwɔːr.t̬.ər/ AREA
@@ -34161,7 +34161,7 @@
 ## 5969. quest ## noun [C]
 /kwest/ 
 [C2]an attempt to get something or do something difficult
-- the quest for truth
+- the quest `for` truth
 - He has begun his quest to become the Conservative Party's first Asian MP.
 
 ## 5970. question ## noun
@@ -34182,12 +34182,12 @@
 ## 5973. quotation ## noun [C]
 /kwoʊˈteɪ.ʃən/ PHRASE
 [C2]a sentence or phrase that is taken from a book, poem, speech, etc.
-- a quotation from Shakespeare
+- a quotation `from` Shakespeare
 
 ## 5974. quotation ## noun [C]
 /kwoʊˈteɪ.ʃən/ COST
 [C2]the amount that a piece of work will probably cost
-- Make sure you get a quotation for all the work before they start.
+- Make sure you `get` a quotation for all the work before they start.
 
 ## 5975. quote ## noun [C]
 /kwoʊt/ REPEAT
@@ -34202,7 +34202,7 @@
 ## 5977. race ## noun
 /reɪs/ ELECTION
 [C2]a competition to be elected to a political position
-- the race for governor
+- the race `for` governor
 - The governor of California plans to enter the presidential race.
 
 ## 5978. racist ## noun [C]
@@ -34213,7 +34213,7 @@
 ## 5979. racket ## noun
 /ˈræk.ət/ NOISE
 [C2]a loud noise
-- Go see why the kids are making such a racket.
+- Go see why the kids are `making` such a racket.
 
 ## 5980. radical ## noun [C]
 /ˈræd.ɪ.kəl/ 
@@ -34224,7 +34224,7 @@
 /reɪd/ ATTACK
 [C2]a planned, sudden attack on a place by a military group
 - an air raid
-- a dawn raid
+- a `dawn` raid
 
 ## 5982. raid ## noun [C]
 /reɪd/ VISIT
@@ -34240,7 +34240,7 @@
 ## 5984. rally ## noun [C]
 /ˈræl.i/ MEETING
 [C2]a large public meeting in support of something
-- an election/campaign rally
+- an `election/campaign` rally
 
 ## 5985. rally ## noun [C]
 /ˈræl.i/ RACE
@@ -34250,7 +34250,7 @@
 ## 5986. rash ## noun
 /ræʃ/ 
 [C2]a group of small, red spots on the skin
-- an itchy rash
+- an `itchy` rash
 - Certain foods give him a rash.
 
 ## 5987. rate ## noun [C]
@@ -34271,18 +34271,18 @@
 ## 5990. readiness ## noun [U]
 /ˈred.i.nəs/ PREPARED
 [C2]when someone is prepared for something
-- It was time to repair their shelters in readiness for the winter.
+- It was time to repair their shelters `in` readiness `for` the winter.
 
 ## 5991. realization ## noun
 /ˌri.ə.ləˈzeɪ.ʃən/ ACHIEVING
 [C2]when you achieve something that you wanted
-- the realization of an ambition
+- the realization of an `ambition`
 
 ## 5992. realm ## noun [C]
 /relm/ 
 [C2]an area of knowledge, interest, experience or activity
-- successes in the realm of foreign policy
-- Unfortunately, this area is not within my realm of experience.
+- successes `in` the realm `of ` foreign policy
+- Unfortunately, this area is not `within` my realm `of` experience.
 
 ## 5993. reason ## noun
 /ˈriː.zən/ it stands to reason
@@ -34292,7 +34292,7 @@
 ## 5994. reasoning ## noun [U]
 /ˈriː.zə.nɪŋ/ 
 [C2]the process of thinking about something in order to make a decision
-- I don't understand the reasoning behind this decision.
+- I don't understand the reasoning `behind` this decision.
 
 ## 5995. reassurance ## noun [C or U]
 /ˌriː.əˈʃʊr.əns/ 
@@ -34307,7 +34307,7 @@
 ## 5997. recognition ## noun
 /ˌrek.əgˈnɪʃ.ən / HONOUR
 [C2]when someone gets praise, respect or thanks for something good they have done
-- Ellen gained recognition for her outstanding work.
+- Ellen `gained` recognition for her outstanding work.
 
 ## 5998. recognition ## noun
 /ˌrek.əgˈnɪʃ.ən / KNOW
@@ -34317,7 +34317,7 @@
 ## 5999. recollection ## noun [C or U]
 /ˌrek.əˈlek.ʃən/ 
 [C2]when you remember something
-- He had no recollection of the incident.
+- He `had` no recollection of the incident.
 
 ## 6000. reconstruction ## noun [C or U]
 /ˌriː.kənˈstrʌk.ʃən/ PAST EVENT
@@ -34332,7 +34332,7 @@
 ## 6002. recruit ## noun [C]
 /rɪˈkruːt/ 
 [C2]someone who has recently joined an organization
-- a new recruit
+- a `new` recruit
 
 ## 6003. referendum ## noun [C]
 /ˌref.əˈren.dəm/ 
@@ -34343,18 +34343,18 @@
 /rɪˈflek.ʃən/ THOUGHT
 [C2]when you think in a serious and careful way
 - He paused for reflection before answering my question.
-- On reflection, I think I was wrong.
+- `On` reflection, I think I was wrong.
 
 ## 6005. reform ## noun [C or U]
 /rɪˈfɔːrm/ 
 [C2]when changes are made to improve a system, organization, or law, or a change that is made
-- economic/political reform
+- `economic/political` reform
 - Students have called for reforms in the admission process.
 
 ## 6006. refuge ## noun
 /ˈref.juːdʒ/ 
 [C2]protection from danger or unpleasant conditions
-- We took refuge from the storm in an old barn.
+- We `took` refuge `from` the storm in an old barn.
 
 ## 6007. regime ## noun [C]
 /rəˈʒiːm/ 
@@ -34364,7 +34364,7 @@
 ## 6008. rejection ## noun
 /rɪˈdʒek.ʃən/ NOT ACCEPT
 [C2]when you refuse to accept or agree with something
-- Their rejection of the peace plan is very disappointing for the government.
+- Their rejection `of` the peace plan is very disappointing for the government.
 
 ## 6009. rejection ## noun
 /rɪˈdʒek.ʃən/ JOB/COLLEGE
@@ -34384,17 +34384,17 @@
 ## 6012. relief ## noun
 /rɪˈliːf/ LESS PAIN
 [C2]when something stops hurting you
-- I'd been trying to sleep to find relief from the pain.
+- I'd been trying to sleep to find relief `from` the pain.
 
 ## 6013. relief ## noun
 /rɪˈliːf/ HELP
 [C2]money, food, or clothes that are given to people because they need help
-- an international relief operation
+- an international relief `operation`
 
 ## 6014. relish ## noun
 /ˈrel.ɪʃ/ ENJOYMENT
 [C2]enjoyment
-- He had baked a cake which the children now ate with relish.
+- He had baked a cake which the children now ate `with `relish.
 
 ## 6015. relish ## noun
 /ˈrel.ɪʃ/ SAUCE
@@ -34404,7 +34404,7 @@
 ## 6016. remorse ## noun [U]
 /rɪˈmɔːrs/ 
 [C2]the feeling that you are sorry for something bad that you have done
-- He has shown no remorse for his actions.
+- He has `shown` no remorse `for` his actions.
 
 ## 6017. renewal ## noun [C or U]
 /rɪˈnuː.əl/ REPAIR/IMPROVE
@@ -34425,13 +34425,13 @@
 ## 6020. representation ## noun
 /ˌrep.rə.zenˈteɪ.ʃən/ SPEAKING FOR
 [C2]speaking or doing something officially for another person
-- Can he afford legal representation?
+- Can he afford `legal` representation?
 
 ## 6021. reproach ## noun [C or U]
 /rɪˈproʊtʃ/ 
 [C2]criticism of someone, especially for not being successful or not doing what is expected
 - There was a hint of reproach in his voice.
-- The article gave the impression that the teachers were above/beyond reproach.
+- The article gave the impression that the teachers were `above/beyond` reproach.
 
 ## 6022. reproduction ## noun
 /ˌriː.prəˈdʌk.ʃən/ YOUNG
@@ -34446,7 +34446,7 @@
 ## 6024. resemblance ## noun [C or U]
 /rɪˈzem.bləns/ 
 [C2]a similarity between two people or things, especially in their appearance
-- There's a striking resemblance between Diane and her mother.
+- There's a striking resemblance `between` Diane and her mother.
 
 ## 6025. resemblance ## noun [C or U]
 /rɪˈzem.bləns/ bear a/little/no, etc. resemblance to sth/sb
@@ -34462,7 +34462,7 @@
 ## 6027. reservation ## noun
 /ˌrez.ərˈveɪ.ʃən/ DOUBT
 [C2]a doubt or a feeling that you do not accept or agree with something completely
-- I still have reservations about her ability to do the job.
+- I still `have` reservations about her ability to do the job.
 
 ## 6028. reserve ## noun
 /rɪˈzɜrv/ SUPPLY
@@ -34473,13 +34473,13 @@
 ## 6029. residence ## noun [C]
 /ˈrez.əd.əns/ 
 [C2]a building where someone lives
-- That big building is the governor's official residence.
+- That big building is the governor's `official` residence.
 
 ## 6030. resignation ## noun
 /ˌrez.ɪgˈneɪ.ʃən/ LEAVE JOB
 [C2]when someone tells their employer that they are leaving their job
-- a letter of resignation
-- I handed in my resignation yesterday.
+- a `letter of` resignation
+- I `handed in` my resignation yesterday.
 
 ## 6031. resignation ## noun
 /ˌrez.ɪgˈneɪ.ʃən/ ACCEPT
@@ -34495,12 +34495,12 @@
 ## 6033. resistance ## noun
 /rɪˈzɪs.təns/ DISAGREE
 [C2]when people disagree with a change, idea, etc. and refuse to accept it
-- resistance to political change
+- resistance `to` political change
 
 ## 6034. resistance ## noun
 /rɪˈzɪs.təns/ FIGHT
 [C2]when someone fights against someone who is attacking them or competing against them
-- She didn't put up much resistance.
+- She didn't `put up` much resistance.
 
 ## 6035. resistance ## noun
 /rɪˈzɪs.təns/ ORGANIZATION
@@ -34510,23 +34510,23 @@
 ## 6036. resistance ## noun
 /rɪˈzɪs.təns/ ILLNESS
 [C2]the ability of your body to not be affected by illnesses
-- Cold weather may lower the body's resistance to infection.
+- Cold weather may lower the body's resistance `to` infection.
 
 ## 6037. resolution ## noun
 /ˌrez.əˈluː.ʃən/ SOLUTION
 [C2]the solution to a problem
-- a successful resolution to the crisis
+- a successful resolution `to` the crisis
 
 ## 6038. resolution ## noun
 /ˌrez.əˈluː.ʃən/ DECISION
 [C2]an official decision that is made after a group or organization has voted
-- Congress passed a resolution in support of the plan.
+- Congress `passed` a resolution in support of the plan.
 - Our branch has submitted a resolution on housing to the conference.
 
 ## 6039. resolution ## noun
 /ˌrez.əˈluː.ʃən/ PROMISE
 [C2]a promise to yourself to do something
-- My New Year's resolution is to do more exercise.
+- My `New Year's` resolution is to do more exercise.
 
 ## 6040. resolve ## noun [U]
 /rɪˈzɑlv/ 
@@ -34546,9 +34546,9 @@
 ## 6043. restriction ## noun [C or U]
 /rɪˈstrɪk.ʃən/ RULE
 [C2]a rule or law that limits or controls what people can do
-- speed/parking restrictions
-- There are restrictions on what goods you can bring into the country.
-- The president urged other countries to lift the trade restrictions.
+- `speed/parking` restrictions
+- There are restrictions `on` what goods you can bring into the country.
+- The president urged other countries to `lift` the trade restrictions.
 
 ## 6044. retailer ## noun [C]
 /ˈriː.teɪ.lər/ 
@@ -34563,7 +34563,7 @@
 ## 6046. retreat ## noun [C]
 /rɪˈtriːt/ MOVE
 [C2]a move away, especially to a place or situation that is safer or quieter
-- He saw the dog coming towards him and beat a hasty retreat.
+- He saw the dog coming towards him and `beat a` hasty retreat.
 
 ## 6047. retreat ## noun [C]
 /rɪˈtriːt/ PLACE
@@ -34578,12 +34578,12 @@
 ## 6049. reunion ## noun [C]
 /riːˈjuːn.jən/ 
 [C2]an occasion when people meet together again, often after a long time
-- a family/school reunion
+- a `family/school` reunion
 
 ## 6050. revelation ## noun
 /ˌrev.əˈleɪ.ʃən/ 
 [C2]a piece of information that is discovered although it was intended to be kept secret
-- He resigned following revelations about his private life.
+- He resigned following revelations `about` his private life.
 
 ## 6051. revelation ## noun
 /ˌrev.əˈleɪ.ʃən/ be a revelation
@@ -34598,19 +34598,19 @@
 ## 6053. reverse ## noun [U]
 /rɪˈvɜrs/ DRIVING
 [C2]the method for driving a vehicle that makes it go backward
-- Put the car in/into reverse.
+- Put the car `in/into` reverse.
 
 ## 6054. review ## noun
 /rɪˈvjuː/ PROCESS
 [C2]the process of considering something again in order to make changes to it
-- a review of teachers' pay
-- The organizational structure is under review.
+- a review `of` teachers' pay
+- The organizational structure is `under` review.
 
 ## 6055. revival ## noun
 /rɪˈvɑɪ.vəl/ 
 [C2]when something becomes more active or popular again
-- a revival in folk music
-- Yoga is enjoying a revival.
+- a revival `in` folk music
+- Yoga is `enjoying` a revival.
 
 ## 6056. rhyme ## noun
 /rɑɪm/ POEM
@@ -34620,7 +34620,7 @@
 ## 6057. rhyme ## noun
 /rɑɪm/ STYLE
 [C2]a style of writing or speaking that uses words that end with the same sound
-- The story was written entirely in rhyme.
+- The story was written entirely `in` rhyme.
 
 ## 6058. ribbon ## noun [C]
 /ˈrɪb.ən/ 
@@ -34724,8 +34724,8 @@
 ## 6077. round ## noun [C]
 /rɑʊnd/ EVENTS
 [C2]a group of events that is part of a series
-- a round of interviews
-- a new round of talks between the two countries
+- a round `of interviews`
+- a new round `of talks` between the two countries
 
 ## 6078. route ## noun [C]
 /ruːt/ METHOD
@@ -34735,7 +34735,7 @@
 ## 6079. ruin ## noun
 /ˈruː.ən/ LOSING EVERYTHING
 [C2]when someone loses everything such as all their money or their job
-- The collapse of the bank has left many people in financial ruin.
+- The collapse of the bank has left many people `in` financial ruin.
 
 ## 6080. rule ## noun
 /ruːl/ bend/stretch the rules
@@ -34746,7 +34746,7 @@
 /ruːl/ LEADER
 [C2]when someone is in control of a country
 - military rule
-- This area was under Polish rule until the start of World War II.
+- This area was `under` Polish rule until the start of World War II.
 
 ## 6082. ruling ## noun [C]
 /ˈruː.lɪŋ/ 
@@ -34762,18 +34762,18 @@
 /rʌn/ a run of sth
 [C2]when something happens several times without something different happening during that period
 - a run of 10 games without a win
-- a run of good/bad luck
+- a run of `good/bad luck`
 
 ## 6085. running ## noun [U]
 /ˈrʌn.ɪŋ/ CONTROL
 [C2]the activity of controlling or looking after something
 - The running of a large household is not easy.
-- He recently handed over the day-to-day running of the company to his daughter.
+- He recently handed over the `day-to-day` running of the company to his daughter.
 
 ## 6086. rush ## noun [no plural]
 /rʌʃ/ ACTIVITY
 [C2]a lot of things happening or a lot of people trying to do something
-- There was amad rush to get tickets for the concert.
+- There was a`mad` rush to get tickets for the concert.
 
 ## 6087. rush ## noun [no plural]
 /rʌʃ/ MOVEMENT
@@ -34784,7 +34784,7 @@
 ## 6088. rut ## noun
 /rʌt/ in a rut
 [C2]in a bad situation where you do the same things all the time, or where it is impossible to make progress
-- He seems to be stuck in a rut at the moment.
+- He seems to be `stuck` in a rut at the moment.
 
 ## 6089. saddle ## noun [C]
 /ˈsæd.əl/ 
@@ -34799,17 +34799,17 @@
 ## 6091. sail ## noun
 /seɪl/ set sail
 [C2]to start a trip on a boat or ship
-- We set sail for home the next day.
+- We set sail `for` home the next day.
 
 ## 6092. sample ## noun [C]
 /ˈsæm.pəl/ EXAMINE
 [C2]a small amount of a substance that a doctor or scientist collects in order to examine it
-- a blood/urine sample
+- a `blood/urine` sample
 
 ## 6093. sanction ## noun
 /ˈsæŋk.ʃən/ 
 [C2]a punishment for not obeying a rule or a law
-- economic/trade sanctions against a country
+- `economic/trade` sanctions against a country
 
 ## 6094. satisfaction ## noun [U]
 /ˌsæt̬.əsˈfæk.ʃən/ to sb's satisfaction
@@ -34835,12 +34835,12 @@
 /səˈnær.i.oʊ/ 
 [C2]a description of a situation, or of a situation that may develop in the future
 - There are several possible scenarios.
-- a horrific/nightmare scenario such as a Third World War
+- a `horrific/nightmare` scenario such as a Third World War
 
 ## 6099. scene ## noun
 /siːn/ ARGUMENT
 [C2]when people have a loud argument or show strong emotions in a public place
-- She made a scene when I told her she couldn't come with us.
+- She `made a` scene when I told her she couldn't come with us.
 
 ## 6100. scene ## noun
 /siːn/ behind the scenes
@@ -34862,19 +34862,19 @@
 ## 6103. scope ## noun [U]
 /skoʊp/ OPPORTUNITY
 [C2]the opportunity to do something
-- There is plenty of scope for improvement.
+- There is plenty of scope `for` improvement.
 
 ## 6104. scrap ## noun
 /skræp/ SMALL PIECE
 [C2]a small piece or amount of something
-- He wrote his phone number on a scrap of paper.
-- I've read every scrap of information I can find on the subject.
-- They couldn't find a scrap of evidence against him so he was released without charge.
+- He wrote his phone number on a scrap `of` paper.
+- I've read every scrap `of information` I can find on the subject.
+- They couldn't find a scrap `of evidence` against him so he was released without charge.
 
 ## 6105. scrap ## noun
 /skræp/ OLD
 [C2]old cars and machines that are not now needed but have parts which can be used to make other things
-- scrap metal
+- scrap `metal`
 - The car was so badly damaged we could only sell it as scrap.
 
 ## 6106. scratch ## noun [C]
@@ -34891,7 +34891,7 @@
 ## 6108. scrutiny ## noun [U]
 /ˈskruːt.ən.i/ 
 [C2]when you examine something carefully
-- Every aspect of her life came under public scrutiny.
+- Every aspect of her life `came under` public scrutiny.
 
 ## 6109. season ## noun [C]
 /ˈsiː.zən/ out of season
@@ -34919,7 +34919,7 @@
 ## 6113. seed ## noun [C]
 /siːd/ (the) seeds of sth
 [C2]the beginning of something
-- the seeds of hope/change
+- the seeds of `hope/change`
 
 ## 6114. self-assurance ## noun [U]
 /ˌsel.fəˈʃʊr.əns/ 
@@ -34959,7 +34959,7 @@
 ## 6121. sense ## noun
 /sens/ see sense
 [C2]to realize you are wrong or have been behaving stupidly
-- We talked to her for an hour, but we couldn't make her see sense.
+- We talked to her for an hour, but we couldn't `make` her see sense.
 
 ## 6122. sensibility ## noun [C or U]
 /ˌsen.səˈbɪl.ət̬.i/ 
@@ -34975,12 +34975,12 @@
 ## 6124. sequence ## noun
 /ˈsiː.kwəns/ SERIES
 [C2]a series of related events or things that have a particular order
-- the sequence of events that led to his death
+- the sequence `of events` that led to his death
 
 ## 6125. sequence ## noun
 /ˈsiː.kwəns/ ORDER
 [C2]the order that events or things should happen or be arranged in
-- I got my slides mixed up and they appeared out of sequence.
+- I got my slides mixed up and they appeared `out of` sequence.
 
 ## 6126. serenity ## noun [U]
 /səˈren.ət̬.i/ 
@@ -34995,7 +34995,7 @@
 ## 6128. settlement ## noun
 /ˈset̬.əl.mənt/ ARRANGEMENT
 [C2]an arrangement to end a disagreement without taking it to a court of law
-- They reached an out-of-court settlement.
+- They `reached` an out-of-court settlement.
 
 ## 6129. settlement ## noun
 /ˈset̬.əl.mənt/ PLACE
@@ -35040,14 +35040,14 @@
 ## 6137. share ## noun [C or U]
 /ʃer/ your (fair) share of sth
 [C2]a lot of something and enough of it, usually something bad
-- We've had our fair share of rain already this summer.
+- We've `had` our fair share of rain already this summer.
 
 ## 6138. share ## noun [C or U]
 /ʃer/ BUSINESS
 [C2]one of the equal parts that the value of a company is divided into when it is owned by a group of people
-- She wants to buy shares of stock in that company.
-- She owns 2000 shares of General Electric.
-- The price of shares in that company fell again today.
+- She wants to buy shares `of` stock in that company.
+- She owns 2000 shares `of` General Electric.
+- The price of shares `in` that company fell again today.
 
 ## 6139. shelter ## noun
 /ˈʃel.t̬ər/ shelter from/in/under, etc.
@@ -35149,7 +35149,7 @@
 ## 6158. silence ## noun
 /ˈsɑɪ.ləns/ NO TALKING
 [C2]a period of time when someone says nothing about a particular subject or when someone does not communicate with someone at all
-- She ended her silence yesterday and spoke to a TV reporter about the accident.
+- She `ended` her silence yesterday and spoke to a TV reporter about the accident.
 - I took his long silence to mean that I had offended him.
 
 ## 6159. silverware ## noun [U]
@@ -35165,8 +35165,8 @@
 ## 6161. sin ## noun
 /sɪn/ RELIGION
 [C2]something which is against the rules of a religion
-- the sin of greed/pride
-- to commit a sin
+- the sin `of` greed/pride
+- to `commit` a sin
 
 ## 6162. sin ## noun
 /sɪn/ MORALLY WRONG
@@ -35181,7 +35181,7 @@
 ## 6164. sip ## noun [C]
 /sɪp/ 
 [C2]a small amount of drink taken into the mouth
-- He took a sip of his coffee and then continued.
+- He took a sip `of` his coffee and then continued.
 
 ## 6165. siren ## noun [C]
 /ˈsɑɪ.rən/ 
@@ -35253,7 +35253,7 @@
 /sɑʊnd/ the sound of sth
 [C2]how something seems to be, from what you have been told or heard
 - I like the sound of the beef in red wine sauce.
-- He's really enjoying college, by the sound of it.
+- He's really enjoying college, `by` the sound of it.
 
 ## 6179. sound ## noun [C or U]
 /sɑʊnd/ safe and sound
@@ -35268,7 +35268,7 @@
 ## 6181. spark ## noun [C]
 /spɑrk/ START
 [C2]a small idea or event which causes something bigger to start
-- a spark of hope/inspiration
+- a spark of `hope/inspiration`
 
 ## 6182. specimen ## noun [C]
 /ˈspes.ə.mən/ 
@@ -35289,12 +35289,12 @@
 /ˈspen.dɪŋ/ 
 [C2]the money which is used for a particular purpose, especially by a government or organization
 - government spending on health care
-- spending cuts
+- spending `cuts`
 
 ## 6186. spice ## noun
 /spɑɪs/ EXCITEMENT
 [C2]something that makes something else more exciting
-- A scandal or two adds a little spice to office life.
+- A scandal or two `adds` a little spice `to` office life.
 
 ## 6187. spine ## noun [C]
 /spɑɪn/ send shivers/a shiver down your spine
@@ -35309,7 +35309,7 @@
 ## 6189. spite ## noun
 /spɑɪt/ FEELING
 [C2]a feeling of anger toward someone that makes you want to hurt or upset them
-- He hid my new jacket out of spite.
+- He hid my new jacket `out of` spite.
 
 ## 6190. splash ## noun [C]
 /splæʃ/ DROP OF LIQUID
@@ -35345,8 +35345,8 @@
 ## 6196. spotlight ## noun
 /ˈspɑt.lɑɪt/ the spotlight
 [C2]when someone gets public attention by being on television, in the newspapers, etc.
-- to be in the spotlight
-- She's rarely out of the media spotlight these days.
+- to be `in` the spotlight
+- She's rarely `out of` the media spotlight these days.
 
 ## 6197. spotlight ## noun
 /ˈspɑt.lɑɪt/ 
@@ -35396,8 +35396,8 @@
 ## 6206. stance ## noun [C]
 /stæns/ 
 [C2]an opinion or belief about something, especially if you say it in public
-- What's their stance on nuclear energy?
-- They are adopting/taking a very tough stance on drugs.
+- What's their stance `on` nuclear energy?
+- They are `adopting/taking` a very tough stance on drugs.
 
 ## 6207. stand ## noun
 /stænd/ make/take a stand
@@ -35418,7 +35418,7 @@
 ## 6210. standpoint ## noun [C]
 /ˈstænd.pɔɪnt/ 
 [C2]a particular way of thinking about a situation or problem
-- to look at something from a political/religious standpoint
+- to look at something `from` a political/religious standpoint
 
 ## 6211. stardom ## noun [U]
 /ˈstɑr.dəm/ 
@@ -35453,7 +35453,7 @@
 ## 6217. stimulus ## noun [C or U]
 /ˈstɪm.jə.ləs/ 
 [C2]something that makes something else happen, grow, or develop more
-- The report provided the stimulus for more studies.
+- The report `provided` the stimulus `for` more studies.
 
 ## 6218. stitch ## noun
 /stɪtʃ/ THREAD
@@ -35478,7 +35478,7 @@
 ## 6222. stone ## noun
 /stoʊn/ a stone's throw
 [C2]a very short distance
-- The house is just a stone's throw from the beach.
+- The house is `just` a stone's throw `from` the beach.
 
 ## 6223. stone ## noun
 /stoʊn/ leave no stone unturned
@@ -35498,7 +35498,7 @@
 ## 6226. strand ## noun [C]
 /strænd/ THREAD
 [C2]a thin piece of hair, thread, rope, etc.
-- She tucked a strand of hair behind her ear.
+- She tucked a strand `of hair` behind her ear.
 
 ## 6227. strand ## noun [C]
 /strænd/ PART OF STORY
@@ -35546,7 +35546,7 @@
 ## 6235. stroke ## noun [C]
 /stroʊk/ MOVEMENT
 [C2]a movement that you make against something with your hand, a pen, brush, etc.
-- a brush stroke
+- a `brush` stroke
 
 ## 6236. structure ## noun
 /ˈstrʌk.tʃər/ BUILDING
@@ -35612,12 +35612,12 @@
 ## 6248. superiority ## noun [U]
 /sʊˌpɪr.iˈɔːr.ət̬.i/ OPINION
 [C2]when you think that you are better than other people
-- She has an air of superiority.
+- She has an `air of` superiority.
 
 ## 6249. supplement ## noun [C]
  
 [C2]an extra amount or part added to something
-- to take a vitamin supplement
+- to take a `vitamin` supplement
 - a newspaper with a color supplement
 
 ## 6250. surname ## noun [C]
@@ -35628,13 +35628,13 @@
 ## 6251. surplus ## noun [C or U]
 /ˈsɜr.pləs/ 
 [C2]an amount of something that is more than you need
-- Every year we produce a huge surplus of wheat.
+- Every year we produce a huge surplus `of` wheat.
 
 ## 6252. suspense ## noun [U]
 /səˈspens/ 
 [C2]the feeling of excitement or nervousness that you have when you are waiting for something to happen
 - There is a gradual build-up of suspense throughout the movie.
-- What's your answer then? Don't keep me in suspense.
+- What's your answer then? Don't `keep` me in suspense.
 
 ## 6253. sustainability ## noun [U]
 /səˌsteɪ.nəˈbɪl.ət̬.i/ 
@@ -35654,12 +35654,12 @@
 ## 6256. sympathy ## noun [U]
 /ˈsɪm.pə.θi/ IDEAS
 [C2]agreement with or support for someone's ideas or actions
-- Scott was in sympathy with this view.
+- Scott was `in` sympathy `with` this view.
 
 ## 6257. symptom ## noun [C]
 /ˈsɪm.təm/ PROBLEM
 [C2]a problem that is caused by and shows a more serious problem
-- This endless debate is a symptom of our lack of confidence.
+- This endless debate is a symptom `of` our lack of confidence.
 
 ## 6258. synonym ## noun [C]
 /ˈsɪn.ə.nɪm/ 
@@ -35669,7 +35669,7 @@
 ## 6259. system ## noun [C]
 /ˈsɪs.təm/ BODY
 [C2]parts of the body that work together in order to make something happen
-- the body's digestive/immune system
+- the body's `digestive/immune` system
 
 ## 6260. tact ## noun [U]
 /tækt/ 
@@ -35689,14 +35689,14 @@
 ## 6263. talk ## noun
 /tɔːk/ INFORMATION
 [C2]unofficial information that people are talking about
-- I’ve heard talk of layoffs.
+- I’ve heard talk `of` layoffs.
 - There's been a lot of talk about green issues lately.
 
 ## 6264. talks ## noun [plural]
 /tɔːks/ 
 [C2]formal meetings, especially between political leaders, to discuss a problem and to try to reach an agreement
 - peace talks
-- US officials are holding talks with EU leaders about trade.
+- US officials are `holding` talks with EU leaders about trade.
 
 ## 6265. tank ## noun [C]
 /tæŋk/ CONTAINER
@@ -35838,7 +35838,7 @@
 ## 6292. thread ## noun
 /θred/ CONNECTION
 [C2]the connection between different events or different parts of a story or discussion
-- By that point I'd lost the thread of the conversation.
+- By that point I'd `lost the` thread of the conversation.
 
 ## 6293. thread ## noun
 /θred/ INTERNET
@@ -35848,7 +35848,7 @@
 ## 6294. threat ## noun
 /θret/ POSSIBILITY
 [C2]the possibility that something bad will happen
-- the threat of invasion
+- the threat `of` invasion
 
 ## 6295. threshold ## noun
 /ˈθreʃ.hoʊld/ LEVEL
@@ -35873,7 +35873,7 @@
 ## 6299. throne ## noun [C]
 /θroʊn/ the throne
 [C2]the position of being king or queen
-- Elizabeth II ascended the throne when her father died.
+- Elizabeth II `ascended` the throne when her father died.
 
 ## 6300. thunder ## noun [U]
 /ˈθʌn.dər/ a clap of thunder
@@ -35884,8 +35884,8 @@
 /tɑɪ/ ties
 [C2]relationships that connect you with a place, person, etc.
 - Family ties are weaker if you move a long way away.
-- I no longer feel any ties with my home town.
-- He urged governments worldwide to break diplomatic ties with the new regime.
+- I no longer feel any ties `with` my home town.
+- He urged governments worldwide to break `diplomatic` ties with the new regime.
 
 ## 6302. timber ## noun
 /ˈtɪm.bər/ TREES
@@ -35939,12 +35939,12 @@
 ## 6311. tip ## noun [C]
 /tɪp/ be the tip of the iceberg
 [C2]to be a small part of a very big problem
-- We've corrected a few errors, but they're just the tip of the iceberg.
+- We've corrected a few errors, but they're `just` the tip of the iceberg.
 
 ## 6312. title ## noun [C]
 /ˈtɑɪt̬.əl/ SPORTS
 [C2]what you get if you win an important sports competition
-- He won his third straight title in speed skating.
+- He `won` his third straight title in speed skating.
 
 ## 6313. toddler ## noun [C]
 /ˈtɑd.lər/ 
@@ -35966,17 +35966,17 @@
 [C2]willingness to accept behavior and beliefs that are different from your own, although you might not agree with or approve of them
 - religious tolerance
 - I believe tolerance and understanding are important qualities.
-- There is zero tolerance for violence at this school – if you’re caught fighting, you’ll be suspended.
+- There is zero tolerance `for` violence at this school – if you’re caught fighting, you’ll be suspended.
 
 ## 6317. toll ## noun [no plural]
 /toʊl/ NUMBER
 [C2]the number of people who are killed or injured
-- Independent sources say that the death toll from the earthquake runs into thousands.
+- Independent sources say that the `death` toll from the earthquake runs into thousands.
 
 ## 6318. toll ## noun [no plural]
 /toʊl/ take its toll
 [C2]to have a bad effect on someone or something, especially over a long period of time
-- The stress was starting to take its toll on him.
+- The stress was starting to take its toll `on` him.
 
 ## 6319. tomorrow ## noun [U]
 /təˈmɑr.oʊ/ FUTURE
@@ -35987,7 +35987,7 @@
 /toʊn/ MOOD
 [C2]the general mood or style of something
 - I didn't like the humorous tone of the article - I thought it inappropriate.
-- He was in a very bad mood when he arrived, and that set the tone for the whole meeting.
+- He was in a very bad mood when he arrived, and that `set` the tone `for` the whole meeting.
 
 ## 6321. tooth ## noun [C]
 /tuːθ/ grit your teeth
@@ -36012,37 +36012,37 @@
 ## 6325. torture ## noun [U]
 /ˈtɔːr.tʃər/ CAUSING PAIN
 [C2]the act of causing someone great physical or mental pain, often in order to make them tell you something
-- He revealed the secret under torture.
+- He revealed the secret `under` torture.
 
 ## 6326. touch ## noun
 /tʌtʃ/ a touch
 [C2]a small amount
-- Add a little olive oil and a touch of vinegar.
+- Add a little olive oil and a touch `of` vinegar.
 - There was a touch of irony/humor in her voice.
 
 ## 6327. touch ## noun
 /tʌtʃ/ SMALL DETAIL
 [C2]a small detail that makes something better
-- The flowers were a nice touch.
-- Using a sailing ship as the company badge was a touch of genius.
-- I was just putting the finishing touches on the cake when the guests began to arrive.
+- The flowers were a `nice` touch.
+- Using a sailing ship as the company badge was a touch `of genius`.
+- I was just putting the `finishing` touches on the cake when the guests began to arrive.
 
 ## 6328. touch ## noun
 /tʌtʃ/ touch and go
 [C2]used to describe a situation that is uncertain
-- The doctor says it is touch and go whether Mary will recover.
+- The doctor says it is touch and go `whether` Mary will recover.
 
 ## 6329. touch ## noun
 /tʌtʃ/ be out of touch
 [C2]to be unaware of things that have been happening or what other people think
 - Tell me what's been going on - I've been away for a month and out of touch.
-- A few of the older teachers are completely out of touch with their students.
+- A few of the older teachers are completely out of touch `with` their students.
 
 ## 6330. toughness ## noun [U]
 /ˈtʌf.nəs/ 
 [C2]the quality or state of being tough
 - She has a reputation for toughness.
-- They can't face the toughness of the competition.
+- They can't face the toughness `of` the `competition`.
 
 ## 6331. towel ## noun [C]
 /ˈtɑʊ.əl/ throw in the towel
@@ -36057,7 +36057,7 @@
 ## 6333. track ## noun
 /træk/ the/a fast track
 [C2]a very quick way of achieving or dealing with something
-- These intensive courses claim to offer a fast track to wealth and success.
+- These intensive courses claim to offer a fast track `to` wealth and success.
 
 ## 6334. track ## noun
 /træk/ DEVELOPMENT
@@ -36083,8 +36083,8 @@
 ## 6338. trail ## noun [C]
 /treɪl/ MARKS
 [C2]the smell or series of marks left by a person, animal, or thing as it moves along
-- The dogs are specially trained to follow the trail left by the fox.
-- He left a trail of muddy footprints behind him.
+- The dogs are specially trained to `follow` the trail left by the fox.
+- He `left a` trail `of` muddy footprints behind him.
 
 ## 6339. train ## noun [C]
 /treɪn/ train of thought
@@ -36104,8 +36104,8 @@
 ## 6342. transition ## noun [C or U]
 /trænˈzɪʃ.ən/ 
 [C2]when something changes from one system or method to another, often gradually
-- The health-care system is in transition at the moment.
-- There will be an interim government to oversee the transition to democracy.
+- The health-care system is `in` transition at the moment.
+- There will be an interim government to oversee the transition `to` democracy.
 
 ## 6343. transmission ## noun
 /trænzˈmɪʃ.ən/ BROADCAST
@@ -36135,16 +36135,16 @@
 ## 6348. treat ## noun
 /triːt/ 
 [C2]something special which you buy or do for someone else or for yourself
-- a birthday treat
-- As a special treat I'm taking him out for dinner.
-- Annie, put your money away, this is my treat.
+- a `birthday` treat
+- As a `special` treat I'm taking him out for dinner.
+- Annie, put your money away, this is `my` treat.
 
 ## 6349. treaty ## noun [C]
 /ˈtriːt̬.i/ 
 [C2]a written agreement between two or more countries
-- a peace treaty
-- the treaty on European union
-- We've signed a treaty with neighboring states to limit emissions of harmful gases.
+- a `peace` treaty
+- the treaty `on` European union
+- We've `signed` a treaty `with` neighboring states `to` limit emissions of harmful gases.
 
 ## 6350. trial ## noun [C or U]
 /trɑɪl/ trial and error
@@ -36155,13 +36155,13 @@
 /trɑɪl/ stand trial
 [C2]If someone stands trial, they appear in a law court where people decide if they are guilty of a crime.
 - Berenson will stand trial next month in the county court.
-- to stand trial for treason
+- to stand trial `for` treason
 
 ## 6352. tribute ## noun
 /ˈtrɪb.juːt/ 
 [C2]something which you do or say to show that you respect and admire someone, especially in a formal situation
 - Tributes have been pouring in from all over the world for Michael Jackson, who died yesterday.
-- For wedding bouquets, floral tributes and all your flower needs, call Mandy's Florists.
+- For wedding bouquets, `floral` tributes and all your flower needs, call Mandy's Florists.
 
 ## 6353. tribute ## noun
 /ˈtrɪb.juːt/ pay tribute to sb/sth
@@ -36182,7 +36182,7 @@
 /ˈtriː.oʊ/ 
 [C2]a group of three things or people, especially three musicians who play together
 - Many jazz trios consist of a piano, guitar and double bass.
-- Our trio of 200 meter runners failed to reach the final.
+- Our trio `of` 200 meter runners failed to reach the final.
 
 ## 6357. triumph ## noun
 /ˈtrɑɪ.ʌmf/ FEELING
@@ -36192,20 +36192,20 @@
 ## 6358. troops ## noun [plural]
 /truːps/ 
 [C2]soldiers on duty in a large group
-- The major powers have said they will not send in ground troops.
-- All troops will be withdrawn by the end of the year.
+- The major powers have said they will not send in `ground` troops.
+- All troops will be `withdrawn` by the end of the year.
 
 ## 6359. trouble ## noun
 /ˈtrʌb.əl/ NOT WORKING
 [C2]a problem that you have with a machine or part of your body
-- The plane developed engine trouble shortly after takeoff.
-- They have a good reputation for building reliable trouble-free cars.
-- Her knee trouble is expected to keep her out of the game for the rest of the season.
+- The plane developed `engine` trouble shortly after takeoff.
+- They have a good reputation for building reliable trouble`-free` cars.
+- Her `knee` trouble is expected to keep her out of the game for the rest of the season.
 
 ## 6360. trousers ## noun [plural]
 /ˈtrɑʊ.zərz/ 
 [C2]a piece of clothing that covers the legs and has a separate part for each leg
-- I need a new pair of trousers to go with this jacket.
+- I need a new `pair of` trousers to go with this jacket.
 
 ## 6361. truth ## noun
 /truːθ/ TRUE FACT
@@ -36220,7 +36220,7 @@
 ## 6363. turmoil ## noun [Uno plural ]
 /ˈtɜr.mɔɪl/ 
 [C2]a situation in which there is a lot of trouble, confusion, or noise
-- The whole region is in turmoil.
+- The whole region is `in` turmoil.
 
 ## 6364. turn ## noun
 /tɜrn/ take a turn for the better/worse
@@ -36250,7 +36250,7 @@
 ## 6369. unrest ## noun [U]
 /ʌnˈrest/ 
 [C2]when a lot of people are angry about something and are likely to become violent
-- political/social unrest
+- `political/social` unrest
 
 ## 6370. upkeep ## noun [U]
 /ˈʌp.kiːp/ 
@@ -36260,7 +36260,7 @@
 ## 6371. urge ## noun [C]
 /ɜrdʒ/ 
 [C2]a strong wish or need
-- I resisted the urge to slap him.
+- I `resisted the` urge to slap him.
 
 ## 6372. use ## noun
  the use of sth
@@ -36296,12 +36296,12 @@
 ## 6378. variation ## noun
 /ˌver.iːˈeɪ.ʃən/ DIFFERENT THING
 [C2]something that is slightly different from the usual form
-- It's a variation on the standard apple pie.
+- It's a variation `on` the standard apple pie.
 
 ## 6379. veil ## noun [C]
 /veɪl/ SECRECY
 [C2]something that hides or prevents you from knowing something
-- A veil of secrecy surrounded the appointment of the new college president.
+- A veil `of` secrecy surrounded the appointment of the new college president.
 
 ## 6380. velvet ## noun [U]
 /ˈvel.vɪt/ 
@@ -36311,13 +36311,13 @@
 ## 6381. venture ## noun [C]
 /ˈven.tʃər/ 
 [C2]a new activity or business that may involve some risk of failure
-- a business venture
+- a `business` venture
 
 ## 6382. verdict ## noun [C]
 /ˈvɜr.dɪkt/ OFFICIAL DECISION
 [C2]a decision made in a court of law or by a person in authority
-- a guilty verdict
-- The jury took nine hours to reach a verdict.
+- a `guilty` verdict
+- The jury took nine hours to `reach a` verdict.
 
 ## 6383. verge ## noun [C]
 /vɜrdʒ/ be on the verge of sth/doing sth
@@ -36356,7 +36356,7 @@
 /vjuː/ POSITION
 [C2]a position from which something can be seen
 - The house was hidden from view behind a wall.
-- He turned the corner and the harbor came into view.
+- He turned the corner and the harbor `came into` view.
 
 ## 6390. view ## noun
 /vjuː/ take a dim view of sth
@@ -36386,7 +36386,7 @@
 ## 6395. virtue ## noun
 /ˈvɜr.tʃuː/ ADVANTAGE
 [C2]an advantage or useful quality
-- The great virtue of having a small car is that you can park it easily.
+- The great virtue `of` having a small car is that you can park it easily.
 
 ## 6396. virtue ## noun
 /ˈvɜr.tʃuː/ MORAL BEHAVIOR
@@ -36428,12 +36428,12 @@
 /vɑʊ/ 
 [C2]a serious promise or decision
 - marriage vows
-- I made a vow that I would write to him once a week.
+- I `made a` vow that I would write to him once a week.
 
 ## 6404. war ## noun
 /wɔːr/ TO STOP
 [C2]an attempt to stop something bad or illegal
-- the war against crime/drugs
+- the war `against` crime/drugs
 
 ## 6405. warehouse ## noun [C]
 /ˈwer.hɑʊs/ 
@@ -36463,8 +36463,8 @@
 ## 6410. wave ## noun [C]
 /weɪv/ GROUP
 [C2]a group of people or things that arrive or happen together or in a short period of time
-- There has been a wave of robberies in the region.
-- Another wave of people flowed into the theater.
+- There has been a wave `of` robberies in the region.
+- Another wave `of` people flowed into the theater.
 
 ## 6411. wave ## noun [C]
 /weɪv/ a wave of hatred/enthusiasm/sadness, etc.
@@ -36479,7 +36479,7 @@
 ## 6413. wave ## noun [C]
 /weɪv/ HAND
 [C2]when you raise your hand and move it from side to side in order to attract someone's attention or to say hello or goodbye
-- She gave a little wave as the train left.
+- She `gave a` little wave as the train left.
 
 ## 6414. wavelength ## noun [C]
 /ˈweɪv.leŋθ/ be on the same wavelength
@@ -36489,11 +36489,11 @@
 ## 6415. way ## noun
 /weɪ/ FREE SPACE
 [C2]the space needed for a particular movement or action
-- Sorry, am I in your way? I'll move.
-- If you don't move that vase out of the way, it might get broken.
-- Don't let your new friends get in the way of your studies.
-- I couldn't see the stage because there was a pillar in the way.
-- Please make way so the ambulance can get by.
+- Sorry, am I `in` your way? I'll move.
+- If you don't move that vase `out of` the way, it might get broken.
+- Don't let your new friends `get in` the way `of` your studies.
+- I couldn't see the stage because there was a pillar `in the` way.
+- Please `make` way so the ambulance can get by.
 
 ## 6416. way ## noun
 /weɪ/ make your way
@@ -36533,7 +36533,7 @@
 ## 6423. way ## noun
 /weɪ/ pave the way
 [C2]If something paves the way for something else, it makes the other thing possible.
-- Scientists hope that data from the probe will pave the way for a more detailed exploration of Mars.
+- Scientists hope that data from the probe will pave the way `for` a more detailed exploration of Mars.
 
 ## 6424. way ## noun
 /weɪ/ learn sth the hard way
@@ -36553,7 +36553,7 @@
 ## 6427. wealth ## noun [U]
 /welθ/ a wealth of sth
 [C2]a large amount of something good
-- a wealth of experience/information
+- a wealth of `experience/information`
 
 ## 6428. weather ## noun [U]
 /ˈweð.ər/ be/feel under the weather
@@ -36584,7 +36584,7 @@
 /ˈwel.fer/ HELP
 [C2]help, especially money, given by the government to people who are poor or do not have jobs
 - She works in child welfare.
-- The family had to go on welfare.
+- The family had to go `on` welfare.
 
 ## 6434. whereabouts ## noun
  sb's whereabouts
@@ -36594,7 +36594,7 @@
 ## 6435. whim ## noun [C]
 /wɪm/ 
 [C2]when you suddenly want to do something without having a reason
-- We booked our beach vacation on a whim.
+- We booked our beach vacation `on a` whim.
 
 ## 6436. wilderness ## noun [C]
 /ˈwɪl.dər.nəs/ 
@@ -36604,8 +36604,8 @@
 ## 6437. will ## noun
 /wɪl/ DOCUMENT
 [C2]an official statement of what a person has decided should be done with their money and property after their death
-- Have you made a will yet?
-- She left me some money in her will.
+- Have you `made` a will yet?
+- She left me some money `in` her will.
 
 ## 6438. willpower ## noun [U]
 /ˈwɪlˌpɑʊ.ər/ 
@@ -36630,18 +36630,18 @@
 ## 6442. wish ## noun [C]
 /wɪʃ/ SECRET
 [C2]something that you say secretly to yourself about what you want to have or happen
-- She closed her eyes and made a wish.
+- She closed her eyes and `made` a wish.
 
 ## 6443. withdrawal ## noun
 /wɪðˈdrɔː.əl/ MONEY
 [C2]when you take money out of a bank account
-- The bank became suspicious after several large withdrawals were made from his account in a single week.
+- The bank became suspicious after several large withdrawals were made `from` his account in a single week.
 
 ## 6444. withdrawal ## noun
 /wɪðˈdrɔː.əl/ NOT AVAILABLE
 [C2]when something is taken away so that it is no longer available, or when someone stops being involved in an activity
-- Doctors demanded the withdrawal of the drug (from the market) after several cases involving dangerous side-effects were reported.
-- Her sudden withdrawal from the championship caused a lot of press speculation about her health.
+- Doctors demanded the withdrawal of the drug (`from` the market) after several cases involving dangerous side-effects were reported.
+- Her sudden withdrawal `from` the championship caused a lot of press speculation about her health.
 - the withdrawal of financial support
 
 ## 6445. woodland ## noun [C or U]
@@ -36727,7 +36727,7 @@
 /rek/ VEHICLE
 [C2]a vehicle or ship that has been destroyed or badly damaged
 - Divers exploring the wreck managed to salvage some coins and jewellery.
-- The burned-out wrecks of several cars littered the road.
+- The burned-out wrecks `of` several cars littered the road.
 
 ## 6461. wreck ## noun [C]
 /rek/ PERSON
@@ -36737,7 +36737,7 @@
 ## 6462. wreckage ## noun [U]
 /ˈrek.ɪdʒ/ 
 [C2]the parts that remain of a car, ship, or aircraft that has been destroyed
-- Two survivors were pulled from the wreckage.
+- Two survivors were `pulled from the` wreckage.
 
 ## 6463. wrinkle ## noun [C]
 /ˈrɪŋ.kəl/ 

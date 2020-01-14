@@ -66,7 +66,7 @@
 [A1]immediately after the first and before any others
 - Is Megan her first or second child?
 - It's the second time I've had the flu this winter.
-- Jones took second place in the long jump.
+- Jones took second `place` in the long jump.
 - I was second in line.
 
 ## 12. seven ## number
@@ -135,13 +135,13 @@
 /eɪtθ/ 
 [A2]8th written as a word
 - He finished eighth in the race.
-- Bob's birthday is on the eighth (of June).
+- Bob's birthday is on `the` eighth (of June).
 
 ## 23. fifth ## ordinal number
 /fɪfθ/ 
 [A2]5th written as a word
 - the fifth floor of the building
-- Tomorrow is the fifth of September.
+- Tomorrow is `the` fifth of September.
 
 ## 24. fifty ## number
 /ˈfɪf.ti/ 
@@ -158,15 +158,15 @@
 ## 26. fourth ## ordinal number
 /fɔːrθ/ 
 [A2]4th written as a word
-- My birthday is on the fourth of December.
+- My birthday is on `the` fourth of December.
 - Daniel finished fourth in the race.
 
 ## 27. hundred ## number
 /ˈhʌn.drəd/ 
 [A2]the number 100
-- We've driven a/one hundred miles in the last two hours.
+- We've driven `a/one` hundred miles in the last two hours.
 - "How many kids are there in the school?" "About three hundred."
-- That dress costs hundreds of dollars.
+- That dress costs hundreds `of` dollars.
 
 ## 28. million ## number [C]
 /ˈmɪl.jən/ 
@@ -183,12 +183,12 @@
 /nɑɪnθ/ 
 [A2]9th written as a word
 - The ninth letter of the alphabet is I.
-- The school year ends on the fourth of June.
+- The school year ends on `the` fourth of June.
 
 ## 31. seventh ## ordinal number
 /ˈsev.ənθ/ 
 [A2]7th written as a word
-- It's the seventh (of May) today.
+- It's `the` seventh (of May) today.
 - Our team came in seventh.
 
 ## 32. seventy ## number
@@ -200,16 +200,16 @@
 ## 33. sixth ## ordinal number
 /sɪksθ/ 
 [A2]6th written as a word
-- I have to return my library books on the sixth (of July).
-- Jesse came in sixth in the 100 meters.
+- I have to return my library books on `the` sixth (of July).
+- Jesse `came in` sixth in the 100 meters.
 
 ## 34. third ## ordinal number
 /θɜrd/ 
 [A2]3rd written as a word
 - the third road on the right
 - the third time
-- "What's the date today?" "It's the third."
-- She came third in the race.
+- "What's the date today?" "It's `the` third."
+- She `came` third in the race.
 
 ## 35. thirty ## number
 /ˈθɜrt̬.i/ 
@@ -231,16 +231,16 @@
 /ˈsek.ənd/ ANOTHER
 [B1]another
 - She is often described as the second Marilyn Monroe.
-- You really ought to make the most of the opportunity, because you won't get a second chance.
-- Richard and Liz have a second home in Florida.
-- Pay attention to what she's saying because she won't explain it a second time.
+- You really ought to make the most of the opportunity, because you won't get a second `chance`.
+- Richard and Liz have a second `home` in Florida.
+- Pay attention to what she's saying because she won't explain it a second `time`.
 
 ## 39. second ## ordinal number ; determiner
 /ˈsek.ənd/ ONLY ONE BETTER/BIGGER, ETC.
 [B1]Second is used to show that only one thing is better, bigger, etc. than the thing mentioned.
-- St. Petersburg is Russia's second (biggest/largest) city.
-- Iraq's oil reserves are second only to Saudi Arabia's.
-- Services in this hospital are second to none.
+- St. Petersburg is Russia's second `(biggest/largest)` city.
+- Iraq's oil reserves are second `only to` Saudi Arabia's.
+- Services in this hospital are second `to none`.
 
 ## 40. two ## number
 /tuː/ or two
@@ -252,7 +252,7 @@
 ## 41. zero ## number
 /ˈzɪr.oʊ/ TEMPERATURE
 [B1]the temperature that is 32 degrees lower than the temperature at which water freezes in degrees Fahrenheit, or the temperature at which water freezes in degrees centigrade
-- In the winter, the temperature can drop to 15 degrees below zero.
+- In the winter, the temperature can drop to 15 degrees `below` zero.
 
 ## 42. fifty ## number
 /ˈfɪf.ti/ (be) in your fifties/50s
