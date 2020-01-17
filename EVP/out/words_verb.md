@@ -180,7 +180,7 @@
 - When does the mail come?
 - Hasn't his train come in yet?
 
-## 26. come ## verb [I]
+## 26. come from swh/sth ## verb [I]
 /kʌm/ 
 [A1]to be born, gotten from, or made in a particular place
 - She comes from Italy.
@@ -356,7 +356,7 @@
 [A1]to travel somewhere in a bus, train, taxi or other vehicle
 - Should we get a taxi to the station?
 
-## 51. get ## verb
+## 51. get (sb) up ## verb
 /get/ 
 [A1]to wake up and get out of bed, or make someone do this
 - I had to get up at five o'clock this morning.
@@ -390,7 +390,7 @@
 [A1]to visit stores in order to buy things
 - We went shopping last Saturday.
 
-## 56. go ## verb
+## 56. go out ## verb
 /goʊ/ LEAVE
 [A1]to leave a place in order to go somewhere else
 - Are you going out tonight?
@@ -954,7 +954,7 @@
 - I waited `for` her in the corridor while she went in to see the doctor.
 - There were a lot of people waiting `to` use the telephone.
 
-## 127. wake ## verb [I or T]
+## 127. wake (sb) up or wake up (sb) ## verb [I or T]
 /weɪk/ 
 [A1]to stop sleeping or to make someone else stop sleeping
 - Did you wake up at all during the night?
@@ -985,7 +985,7 @@
 - These sheets need washing.
 - I'll wash the jar `out` and use it again.
 
-## 131. wash ## verb
+## 131. wash up ## verb
 /wɑʃ/ 
 [A1]to clean yourself, or a part of yourself, with water and usually soap, especially your hands before a meal
 - Go wash up for dinner now.
@@ -1147,7 +1147,7 @@
 - Is she coming alone? "I believe `so`."
 - All the crew are missing, believed dead.
 
-## 154. belong ## verb [I]
+## 154. belong to sb ## verb [I]
 /bəˈlɔːŋ/ 
 [A2]If something belongs to you, you own it.
 - This book belongs to Sarah.
@@ -1195,7 +1195,7 @@
 - Bring me that knife/Bring that knife `to` me.
 - Did you bring an umbrella `with` you?
 
-## 162. bring ## verb [T]
+## 162. bring back sth or bring sth back ## verb [T]
 /brɪŋ/ 
 [A2]to return from somewhere with something
 - Can you bring me back some milk?
@@ -1221,7 +1221,7 @@
 - I've been calling all morning but I can't get hold of him.
 - I called the police.
 
-## 166. call ## verb
+## 166. call back (sb) or call (sb) back ## verb
 /kɔːl/ 
 [A2]to telephone someone again, or to telephone someone who telephoned you earlier
 - I'm kind of busy - can I call you back later?
@@ -1322,13 +1322,13 @@
 - Do these slacks come `in` any other color?
 - This cuddly baby doll comes `with` her own blanket and bottle.
 
-## 182. come ## verb [I]
+## 182. come back ## verb [I]
 /kʌm/ 
 [A2]to return to a place
 - I'll come back and pick you up in half an hour.
 - We've just come back `from` Mexico.
 
-## 183. come ## verb [I]
+## 183. come in ## verb [I]
 /kʌm/ ENTER
 [A2]to enter a room or building
 - Do you want to come in for a cup of tea?
@@ -1581,7 +1581,7 @@
 - I filled the bucket `with` water.
 - I drank my tea while the bath was filling.
 
-## 221. fill ## verb
+## 221. fill in/out sth or fill sth in/out ## verb
 /fɪl/ 
 [A2]to write the necessary information on an official document
 - to fill in/out a `form/questionnaire`
@@ -1592,7 +1592,7 @@
 - I found some money in my coat pocket.
 - The body was found by a man walking his dog.
 
-## 223. find ## verb [T]
+## 223. find out (sth) or find (sth) out ## verb [T]
 /fɑɪnd/ 
 [A2]to get information about something, or to learn a fact for the first time
 - How did you find out `about` the party?
@@ -1636,25 +1636,25 @@
 [A2]to begin a legal relationship with someone as their husband or wife
 - They got married in April.
 
-## 230. get ## verb
+## 230. get along ## verb
 /get/ 
 [A2]to have a good relationship
 - She and her new roommate are getting along.
 - He doesn't get along `with` his daughter.
 - I get along `well` with most of her friends.
 
-## 231. get ## verb
+## 231. get back ## verb
 /get/ 
 [A2]to return to a place after you have been somewhere else
 - When we got back `to` the hotel, Ann had already left.
 - If you get back in time, you can come with us.
 
-## 232. get ## verb
+## 232. get off (sth) ## verb
 /get/ 
 [A2]to leave a bus, train, aircraft or boat
 - We should get off at the next stop.
 
-## 233. get ## verb
+## 233. get on (sth) ## verb
 /get/ 
 [A2]to go onto a bus, train, aircraft or boat
 - I think we got on the wrong bus.
@@ -1682,7 +1682,7 @@
 [A2]to have a party
 - They're always giving parties.
 
-## 238. give ## verb [T]
+## 238. give back sth or give sth back ## verb [T]
 /gɪv/ 
 [A2]to return something to the person who gave it to you
 - Has she given you those books back yet?
@@ -1710,7 +1710,7 @@
 [A2]to empty the body of urine or solid waste, usually using a toilet in a bathroom
 - It's going to be a long ride, kids, so if you need to go to the bathroom do it now.
 
-## 243. go ## verb
+## 243. go in ## verb
 /goʊ/ 
 [A2]to enter a place
 - I looked through the window but I didn't go in.
@@ -1726,7 +1726,7 @@
 - Tomatoes grow well in full sun.
 - The villagers grow coffee and maize to sell in the market.
 
-## 246. grow ## verb
+## 246. grow up ## verb
 /groʊ/ 
 [A2]to gradually become an adult
 - I grew up in Scotland.
@@ -2014,7 +2014,7 @@
 - A cat lay in front of the fire.
 - He lies `awake` at night, worrying.
 
-## 289. lie ## verb [I]
+## 289. lie down ## verb [I]
 /lɑɪ/ 
 [A2]to move into a position in which your body is flat, usually in order to sleep or rest
 - I'm going to lie down and take a short nap.
@@ -2032,7 +2032,7 @@
 - Do I look silly in this hat?
 - She looks Italian or Spanish.
 
-## 292. look ## verb
+## 292. look after sb/sth ## verb
 /lʊk/ 
 [A2]to take care of someone or something by keeping them healthy or in good condition
 - We look after our neighbors' cat while they're away.
@@ -2240,13 +2240,13 @@
 - I know you'll pass all your exams.
 - Theo passed the FCE when he was 14.
 
-## 323. pick ## verb [T]
+## 323. pick up sb/sth or pick sb/sth up ## verb [T]
 /pɪk/ LIFT
 [A2]to lift someone or something using your hands
 - If the baby starts to cry, pick her up and rock her.
 - I picked up the kids' clothes that were lying on the floor.
 
-## 324. pick ## verb [T]
+## 324. pick up sb/sth or pick sb/sth up ## verb [T]
 /pɪk/ GET
 [A2]to get someone who is waiting for you, or to get something that you have left somewhere
 - I have to pick the children up from school.
@@ -2339,18 +2339,18 @@
 - You should put your name on the list if you want to go on the school trip.
 - Could you put your signature here?
 
-## 338. put ## verb [T]
+## 338. put on sth or put sth on ## verb [T]
 /pʊt/ CLOTHES
 [A2]to put clothes or shoes onto your body
 - Put your coat on - it's cold outside.
 
-## 339. put ## verb [T]
+## 339. put on sth or put sth on ## verb [T]
 /pʊt/ MAKEUP
 [A2]to put makeup or cream onto your skin
 - Is there a mirror somewhere? I need to put my makeup on.
 - Did you put on suntan lotion?
 
-## 340. put ## verb [T]
+## 340. put on sth or put sth on ## verb [T]
 /pʊt/ MUSIC/MOVIE
 [A2]to start a machine to play music, a movie, etc.
 - Would you mind if I put some music on?
@@ -2645,12 +2645,12 @@
 [A2]to do an exam
 - I have to take some exams in June.
 
-## 386. take ## verb [T]
+## 386. take off sth or take sth off ## verb [T]
 /teɪk/ REMOVE
 [A2]to remove something, especially clothes
 - He took off his clothes and got into the bathtub.
 
-## 387. take ## verb [T]
+## 387. take off ## verb [T]
 /teɪk/ FLY
 [A2]If an aircraft takes off, it leaves the ground and begins to fly.
 - The plane took off at 8.30 a.m.
@@ -2707,7 +2707,7 @@
 - I've tried really `hard` but I can't persuade him to come.
 - I'm trying my `best/hardest`, but I just can't do it.
 
-## 396. try ## verb
+## 396. try on sth or try sth on ## verb
 /trɑɪ/ 
 [A2]to put on a piece of clothing to discover if it fits you or if you like it
 - I'd like to try this dress on.
@@ -2718,12 +2718,12 @@
 - Turn left at the traffic lights.
 - I turned the car into the drive.
 
-## 398. turn ## verb
+## 398. turn off sth or turn sth off ## verb
 /tɜrn/ 
 [A2]to move the switch on a machine, light, etc. so that it stops working, or to stop the supply of water, electricity, etc.
 - Have you turned the computer off?
 
-## 399. turn ## verb
+## 399. turn on sth or turn sth on ## verb
 /tɜrn/ 
 [A2]to move the switch on a machine, light, etc. so that it starts working, or to start the supply of water, electricity, etc.
 - Ben turned the TV on.
@@ -2852,7 +2852,7 @@
 [B1]to say another thing
 - She was sad, she said, but added `that` she felt she had made the right decision.
 
-## 420. add ## verb
+## 420. add up (sth) or add (sth) up ## verb
 /æd/ 
 [B1]to calculate the total of two or more numbers
 - I added everything up and it comes to $45.80.
@@ -3074,7 +3074,7 @@
 [B1]to cook food on a barbecue
 - Their traditional sausages are delicious grilled or barbecued.
 
-## 456. base ## verb
+## 456. base sth on sth ## verb
 /beɪs/ 
 [B1]If you base something on facts or ideas, you use those facts or ideas to develop it.
 - The film is based on a short story by Thomas Mann.
@@ -3124,12 +3124,12 @@
 [B1]used to say that something is true although it seems surprising
 - He even remembered my birthday, believe it or not.
 
-## 465. believe ## verb [T]
+## 465. believe in sth ## verb [T]
 /bɪˈliːv/ 
 [B1]to be certain that something exists
 - Do you believe in ghosts?
 
-## 466. belong ## verb [I]
+## 466. belong to sth ## verb [I]
 /bəˈlɔːŋ/ 
 [B1]to be a member of a group or organization
 - We belong to the same tennis club.
@@ -3181,31 +3181,31 @@
 [B1]to clear your nose by forcing air through it into a piece of paper or cloth
 - He blew his nose loudly.
 
-## 475. blow ## verb
+## 475. blow away (sth) or blow (sth) away ## verb
 /bloʊ/ 
 [B1]If something blows away, or if the wind blows something away, that thing moves because the wind blows it.
 - The letter blew away and I had to run after it.
 - The wind blew the balloon away and we watched it disappear.
 
-## 476. blow ## verb
+## 476. blow down (sth) or blow (sth) down ## verb
 /bloʊ/ 
 [B1]If something blows down, or if the wind blows something down, that thing falls to the ground because the wind blows it.
 - Two huge trees had blown down in the storm.
 - The wind blew our fence down last night.
 
-## 477. blow ## verb
+## 477. blow out (sth) or blow (sth) out ## verb
 /bloʊ/ 
 [B1]If a flame blows out, or if you blow it out, it stops burning because you or the wind have blown it.
 - The candle blew out and we were left in darkness.
 - She blew out the candles on her birthday cake.
 
-## 478. blow ## verb
+## 478. blow up sth or blow sth up ## verb
 /bloʊ/ 
 [B1]to fill something such as a balloon or tire with air
 - I spent the whole morning blowing up balloons for Joe's party.
 - Can you blow the tire up for me?
 
-## 479. blow ## verb
+## 479. blow up (sth/sb) or blow (sth/sb) up ## verb
 /bloʊ/ 
 [B1]to destroy something or kill someone with a bomb, or to be destroyed or killed by a bomb
 - They threatened to blow up the plane if their demands were not met.
@@ -3244,7 +3244,7 @@
 - Book `early/in advance` to get a good room.
 - The hotel is booked `solid` / `fully` booked for the next three weeks.
 
-## 486. book ## verb [I or T]
+## 486. book sb in or book sb into sth ## verb [I or T]
 /bʊk/ 
 [B1]to arrange for someone to stay at a hotel
 - She booked me into a hotel uptown.
@@ -3263,18 +3263,18 @@
 - Let's break `for` lunch.
 - If you sit at a desk all day, try to break your routine with a walk or a swim.
 
-## 489. break ## verb
+## 489. break down ## verb
 /breɪk/ 
 [B1]If a machine or vehicle breaks down, it stops working.
 - Our car broke down and we had to push it off the road.
 
-## 490. break ## verb
+## 490. break in or break into sth ## verb
 /breɪk/ 
 [B1]to get into a building or car using force, usually to steal something
 - The burglars broke in through the kitchen window.
 - My car's been broken into twice this month.
 
-## 491. break ## verb
+## 491. break up ## verb
 /breɪk/ 
 [B1]If two people break up, they stop having a relationship.
 - Jenny and George have broken up.
@@ -3293,7 +3293,7 @@
 - She's brought us so much happiness over the years.
 - Their attempts to bring peace to the region have so far proved futile.
 
-## 494. bring ## verb [T]
+## 494. bring up sb or bring sb up ## verb [T]
 /brɪŋ/ 
 [B1]to care for a child until it is an adult
 - She was brought up by her grandmother.
@@ -3341,12 +3341,12 @@
 - Someone in the crowd called `(out)` his name.
 - "Hey, come over here!" she called.
 
-## 502. call ## verb
+## 502. call for sb ## verb
 /kɔːl/ 
 [B1]to go to a place in order to meet and travel with someone
 - I'll call for you at eight.
 
-## 503. call ## verb
+## 503. call up (sb) or call (sb) up ## verb
 /kɔːl/ 
 [B1]to telephone someone
 - Why don't you call me up at home?
@@ -3383,7 +3383,7 @@
 - She still carries his photo in her purse.
 - Police officers in Britain do not usually carry guns.
 
-## 509. carry ## verb [T]
+## 509. carry on (sth) or carry (sth) on ## verb [T]
 /ˈkær.i/ 
 [B1]to continue doing something, or to cause something to continue
 - Let's carry on this discussion at some other time.
@@ -3391,7 +3391,7 @@
 - Just carry on as if nothing happened.
 - Steve just carried on talking even after the orchestra started to play.
 
-## 510. carry ## verb [T]
+## 510. carry out sth or carry sth out ## verb [T]
 /ˈkær.i/ 
 [B1]to do or complete something, especially something that you have said you would do or that you have been told to do
 - Nigel is carrying out `research` on early Christian art.
@@ -3410,7 +3410,7 @@
 [B1]to start burning
 - The factory caught fire late yesterday evening.
 
-## 513. catch ## verb
+## 513. catch up with sb ## verb
 /kætʃ/ MEET
 [B1]to meet someone you know after not seeing them for a period of time and talk about what you have been doing
 - I caught up with him in Singapore a few years later.
@@ -3447,17 +3447,17 @@
 - I called them yesterday to check `when` they will arrive.
 - Would you check `if` the cake is ready when the timer rings?
 
-## 519. check ## verb
+## 519. check in ## verb
 /tʃek/ 
 [B1]to go to the counter at an airport, so that you can be told where you will be sitting and so that your bags can be put on the aircraft
 - Passengers must check in two hours before the flight.
 
-## 520. check ## verb
+## 520. check in/check into sth ## verb
 /tʃek/ 
 [B1]to say who you are when you arrive at a hotel so that you can be given a key for your room
 - Check in `at` the reception desk when you arrive.
 
-## 521. check ## verb
+## 521. check out ## verb
 /tʃek/ 
 [B1]to leave a hotel after paying and returning your room key
 - We checked out `of` our hotel at 5 a.m. to catch a 7 a.m. flight.
@@ -3499,22 +3499,22 @@
 - I'd always dreamed of owning my own house, but I never thought it would come true.
 - After all the problems I'd had, Oliver's birth was a `dream` come true.
 
-## 528. come ## verb [I]
+## 528. come along ## verb [I]
 /kʌm/ GO WITH SOMEONE
 [B1]to go somewhere with someone
 - We're going to the movies. Do you want to come along?
 
-## 529. come ## verb [I]
+## 529. come on ## verb [I]
 /kʌm/ Come on!
 [B1]said to encourage someone to do something, especially to hurry or try harder
 - Come on or we'll be late!
 
-## 530. come ## verb [I]
+## 530. come out ## verb [I]
 /kʌm/ BECOME AVAILABLE
 [B1]If a book, record, movie, etc. comes out, it becomes available for people to buy or see.
 - When does their new album come out?
 
-## 531. come ## verb [I]
+## 531. come out ## verb [I]
 /kʌm/ SUN
 [B1]When the sun, the moon, or a star comes out, it appears in the sky.
 - It's really warm when the sun comes out.
@@ -3548,7 +3548,7 @@
 - He complained `that` she never listened to him.
 - If the service was so bad why didn't you complain `to` the manager?
 
-## 536. complain ## verb [I]
+## 536. complain of sth ## verb [I]
 /kəmˈpleɪn/ 
 [B1]to tell other people that something is making you feel ill
 - She's been complaining of a headache all day.
@@ -3582,7 +3582,7 @@
 - She's being considered `for` the job.
 - I'd like some time to consider before I make a decision.
 
-## 541. consist ## verb
+## 541. consist of sth ## verb
 /kənˈsɪst/ 
 [B1]to be made of or formed from something
 - The team consists of four Europeans and two Americans.
@@ -3707,7 +3707,7 @@
 - She cut her finger on some broken glass.
 - Careful or you'll cut yourself with that knife.
 
-## 560. cut ## verb
+## 560. cut up sth or cut sth up ## verb
 /kʌt/ 
 [B1]to cut something into pieces
 - Could you cut up the cake and put it on plates?
@@ -3733,7 +3733,7 @@
 [B1]to regularly spend time with someone you have a romantic relationship with
 - We've been dating for six months.
 
-## 565. deal ## verb
+## 565. deal with sth ## verb
 /diːl/ 
 [B1]to take action in order to achieve something or in order to solve a problem
 - How do you intend to deal with this `problem`?
@@ -3801,7 +3801,7 @@
 [B1]used to say that you are not certain about something because other things affect your answer
 - Are you coming out tonight? "It depends (`on`) what you're planning to do."
 
-## 577. depend ## verb
+## 577. depend on/upon sb/sth ## verb
 /dəˈpend/ BE INFLUENCED BY
 [B1]If something depends on someone or something, it is influenced by them, or changes because of them.
 - Which phone you can buy depends on how much you're willing to spend.
@@ -3991,7 +3991,7 @@
 [B1]to move something on a computer screen using a mouse and place it where you want it to be
 - drag and drop exercises
 
-## 608. eat ## verb
+## 608. eat out ## verb
 /iːt/ 
 [B1]to eat in a restaurant
 - When I lived in Spain, I used to eat out all the time.
@@ -4015,7 +4015,7 @@
 [B1]to give someone confidence or hope
 - My parents encouraged me when things weren't going well at school.
 
-## 612. end ## verb [I or T]
+## 612. end up ## verb [I or T]
 /end/ 
 [B1]to finally be in a particular place or situation
 - They're traveling across Europe by train and are planning to end up `in` Moscow.
@@ -4131,13 +4131,13 @@
 [B1]to start to love someone
 - I was 20 when I first fell in love.
 
-## 631. fall ## verb [I]
+## 631. fall down ## verb [I]
 /fɔːl/ 
 [B1]to fall onto the ground
 - Our apple tree fell down in the storm.
 - He stumbled and fell down.
 
-## 632. fall ## verb [I]
+## 632. fall over ## verb [I]
 /fɔːl/ 
 [B1]If someone or something falls over, they fall to the ground or onto their side.
 - She tripped and fell over.
@@ -4221,7 +4221,7 @@
 [B1]If light, sound, or a smell fills a place, you can easily notice it.
 - The smell of smoke filled the room.
 
-## 646. fill ## verb
+## 646. fill up (sth) or fill (sth) up ## verb
 /fɪl/ 
 [B1]to become full, or to make something become full
 - The seats in the hall were filling up fast.
@@ -4286,7 +4286,7 @@
 [B1]to arrange or put in place
 - I need to fix my hair.
 
-## 657. fix ## verb [T]
+## 657. fix up sth or fix sth up ## verb [T]
 /fɪks/ 
 [B1]to repair of change something so it can be used or looks better
 - She's almost finished fixing up her new apartment.
@@ -4463,28 +4463,28 @@
 [B1]to throw something away or give something to someone because you no longer want it
 - We must get rid of some of those old books.
 
-## 686. get ## verb
+## 686. get around (somewhere) ## verb
 /get/ 
 [B1]to travel or move from place to place
 - The busses and subway make it easy to get around New York City.
 
-## 687. get ## verb
+## 687. get in ## verb
 /get/ ENTER
 [B1]to succeed in entering a place, especially a building
 - They must have gotten in through the bathroom window.
 
-## 688. get ## verb
+## 688. get in ## verb
 /get/ ARRIVE
 [B1]to arrive at a place at a particular time
 - My flight gets in at 9:45 p.m.
 - When does Elaine get in?
 
-## 689. get ## verb
+## 689. get out ## verb
 /get/ LEAVE
 [B1]to leave a closed vehicle, building, etc.
 - I'll get out when you stop at the traffic light.
 
-## 690. get ## verb
+## 690. get together ## verb
 /get/ 
 [B1]to meet in order to do something or spend time together
 - A few of us are getting together next week for a drink.
@@ -4518,28 +4518,28 @@
 - He gave her a kiss on the cheek.
 - She gave me a big hug.
 
-## 696. give ## verb [T]
+## 696. give away sth or give sth away ## verb [T]
 /gɪv/ FREE
 [B1]to give something to someone without asking for payment
 - The bakery is giving away a sample to every customer.
 
-## 697. give ## verb [T]
+## 697. give in ## verb [T]
 /gɪv/ AGREE
 [B1]to finally agree to what someone wants, after refusing for a period of time
 - He nagged me so much for a new bike that eventually I gave in.
 
-## 698. give ## verb [T]
+## 698. give out sth or give sth out ## verb [T]
 /gɪv/ 
 [B1]to give something to a large number of people
 - Please give these worksheets out, Maria.
 - I said I'd give out leaflets for them in town.
 
-## 699. give ## verb [T]
+## 699. give up sth or give sth up ## verb [T]
 /gɪv/ ACTIVITY
 [B1]to stop doing a regular activity or job
 - We're going to give up our sports club membership after this year.
 
-## 700. give ## verb [T]
+## 700. give up sth or give sth up ## verb [T]
 /gɪv/ HABIT
 [B1]If you give up a habit, such as smoking, or something such as alcohol, you stop doing it or using it.
 - I gave up smoking two years ago.
@@ -4588,67 +4588,67 @@
 [B1]If you ask for some food to go at a restaurant, you are asking for food that you can take away with you instead of eating it in the restaurant.
 - I'd like a cheeseburger and strawberry milk shake to go, please.
 
-## 709. go ## verb
+## 709. go away ## verb
 /goʊ/ LEAVE
 [B1]to leave a place
 - Just go away and leave me alone, will you?
 
-## 710. go ## verb
+## 710. go away ## verb
 /goʊ/ VACATION
 [B1]to leave your home in order to spend time in a different place
 - We're going away for a few weeks in the summer.
 
-## 711. go ## verb
+## 711. go back ## verb
 /goʊ/ 
 [B1]to return to a place where you were or where you have been before
 - When are you going back `to` Paris?
 - It had started to rain so I went back `for` my keys.
 - Is she well enough to go back to work?
 
-## 712. go ## verb
+## 712. go down ## verb
 /goʊ/ BECOME LESS
 [B1]to become lower in level
 - House prices have gone down recently.
 
-## 713. go ## verb
+## 713. go down ## verb
 /goʊ/ SUN
 [B1]When the sun goes down, it moves down in the sky until it cannot be seen any more.
 - I sat with Ken and Olga and watched the sun go down.
 
-## 714. go ## verb
+## 714. go off ## verb
 /goʊ/ LEAVE
 [B1]to leave a place and go somewhere else
 - They've gone off to the diner.
 
-## 715. go ## verb
+## 715. go off ## verb
 /goʊ/ STOP WORKING
 [B1]If a light or machine goes off, it stops working.
 - The heating goes off at 10 o'clock.
 
-## 716. go ## verb
+## 716. go on ## verb
 /goʊ/ CONTINUE
 [B1]to continue to happen or exist
 - The meeting went on until six o'clock.
 - The path seemed to go on forever.
 - I know she's upset about losing her job, but life goes on.
 
-## 717. go ## verb
+## 717. go on ## verb
 /goʊ/ HAPPEN
 [B1]to happen
 - Why aren't they here yet? `What's` going on?
 
-## 718. go ## verb
+## 718. go out ## verb
 /goʊ/ RELATIONSHIP
 [B1]If two people go out together, they have a romantic relationship with each other.
 - I've been going out `with` Peter for a year.
 - Dan and I have been going out for over two years now.
 
-## 719. go ## verb
+## 719. go out ## verb
 /goʊ/ LIGHT/FIRE
 [B1]If a light or something that is burning goes out, it stops producing light or heat.
 - Should I put some more wood on the fire or let it go out?
 
-## 720. go ## verb
+## 720. go up ## verb
 /goʊ/ 
 [B1]to become higher in level
 - Food prices keep going up.
@@ -4696,12 +4696,12 @@
 - He handed the car keys `to` her.
 - Could you hand me that book, please?
 
-## 729. hand ## verb [T]
+## 729. hand in sth or hand sth in ## verb [T]
 /hænd/ 
 [B1]to give a piece of written work to a teacher
 - Have you handed in your homework yet?
 
-## 730. hand ## verb [T]
+## 730. hand out sth or hand sth out ## verb [T]
 /hænd/ 
 [B1]to give something to each person in a group or place
 - The teacher asked her to hand out the worksheets.
@@ -4721,30 +4721,30 @@
 - Hang your coat and hat `on` the rack over there.
 - The curtains hung `in` thick folds.
 
-## 733. hang ## verb
+## 733. hang around (swh) ## verb
 /hæŋ/ 
 [B1]to spend time somewhere, usually doing very little
 - There's nowhere for teenagers to go so they just hang around on street corners.
 
-## 734. hang ## verb
+## 734. hang on ## verb
 /hæŋ/ 
 [B1]to wait for a short time
 - Hang on a minute while I see if Steve can come to the phone.
 - Can you hang on for a little longer until we're finished?
 - Hang on - I'll be with you in a minute!
 
-## 735. hang ## verb
+## 735. hang out ## verb
 /hæŋ/ 
 [B1]to spend a lot of time in a place or with someone
 - We like hanging out `at` the mall.
 - I've been hanging out backstage `with` the band.
 
-## 736. hang ## verb
+## 736. hang up ## verb
 /hæŋ/ 
 [B1]to finish a conversation on the telephone
 - She said goodbye and hung up.
 
-## 737. hang ## verb
+## 737. hang up sth or hang sth up ## verb
 /hæŋ/ 
 [B1]to put something, especially a piece of clothing, somewhere where it can hang
 - You can hang up your jacket over there.
@@ -4785,7 +4785,7 @@
 [B1]to not know
 - Where's Tina? "I have no idea."
 
-## 744. have ## verb [T]
+## 744. have on sth or have sth on ## verb [T]
 /hæv/ 
 [B1]If you have clothes or shoes on, you are wearing them.
 - He's got a red shirt on.
@@ -4799,7 +4799,7 @@
 - Have you heard `about` what happened?
 - I hear `(that)` you're leaving.
 
-## 746. hear ## verb
+## 746. hear from sb ## verb
 /hɪr/ 
 [B1]If you hear from someone, you get a letter, a message, or a telephone call from them, or they tell you something.
 - We haven't heard from her for a long time.
@@ -4865,12 +4865,12 @@
 - Don't pack more than one suitcase will hold.
 - Computers can hold huge amounts of information.
 
-## 757. hold ## verb [T]
+## 757. hold on ## verb [T]
 /hoʊld/ WAIT
 [B1]to wait for a short time
 - Hold on - I have another call coming in.
 
-## 758. hold ## verb [T]
+## 758. hold up sb/sth or hold sb/sth up ## verb [T]
 /hoʊld/ 
 [B1]to make something or someone slow or late
 - We got held up by the traffic.
@@ -4893,7 +4893,7 @@
 - Some animals hunt at night.
 - Cats like to hunt mice and birds.
 
-## 762. hurry ## verb [I or T]
+## 762. hurry up ## verb [I or T]
 /ˈhɜr.i/ 
 [B1]to do something more quickly
 - Hurry up, or we'll miss the bus.
@@ -5038,7 +5038,7 @@
 - Route 440 joins I-287 just over the bridge.
 - The Missouri River and the Mississippi River join north of St. Louis.
 
-## 786. join ## verb
+## 786. join in (sth) ## verb
 /dʒɔɪn/ 
 [B1]to become involved in an activity with other people
 - We only need one more person to be able to play a game - can you persuade your sister to join in?
@@ -5087,27 +5087,27 @@
 [B1]to not tell anyone a secret/about something secret
 - Mr. Brown apparently delayed the announcement, and managed to keep it secret from the entire group.
 
-## 794. keep ## verb
+## 794. keep sb in ## verb
 /kiːp/ 
 [B1]to make a child stay inside, often as a punishment, or to make someone stay in a hospital
 - She kept the children in because it was so cold.
 
-## 795. keep ## verb
+## 795. keep (sb/sth) off sth ## verb
 /kiːp/ 
 [B1]to not go onto an area, or to stop someone or something going onto an area
 - Keep off `the grass`.
 
-## 796. keep ## verb
+## 796. keep on doing sth ## verb
 /kiːp/ 
 [B1]to continue to do something, or to do something again and again
 - She kept on asking me questions the whole time.
 
-## 797. keep ## verb
+## 797. keep (sb/sth) out ## verb
 /kiːp/ 
 [B1]to not go into a place, or to stop someone or something from going into a place
 - The building was unsafe so they put up a sign saying "Danger - Keep out."
 
-## 798. keep ## verb
+## 798. keep up sth or keep sth up ## verb
 /kiːp/ 
 [B1]to continue doing something or not allow it to fall to a lower level
 - Keep up `the good work`.
@@ -5144,7 +5144,7 @@
 - She knocked her head `against` the wall as she fell.
 - She took a hammer and knocked `a hole in` the wall.
 
-## 804. knock ## verb
+## 804. knock sb down ## verb
 /nɑk/ 
 [B1]to hit someone with a vehicle and injure or kill them
 - She was knocked down by a bus.
@@ -5202,7 +5202,7 @@
 - Most sessions last about an hour.
 - The batteries only last about five hours.
 
-## 813. laugh ## verb [I]
+## 813. laugh at sb/sth ## verb [I]
 /læf/ 
 [B1]to show that you think someone or something is stupid
 - I can't go into work looking like this - everyone will laugh at me.
@@ -5237,7 +5237,7 @@
 - He said he'd never leave.
 - She left him.
 
-## 818. leave ## verb
+## 818. leave behind sb/sth or leave sb/sth behind ## verb
 /liːv/ 
 [B1]to leave a place without taking someone or something with you
 - We were in a hurry and I think I must have left my keys behind.
@@ -5331,23 +5331,23 @@
 - It looks as if there'll only be three of us going on Sunday.
 - It looks like snow.
 
-## 832. look ## verb
+## 832. look around (swh) ## verb
 /lʊk/ 
 [B1]to visit a place and look at the things in it
 - It's such a beautiful city, it's a shame we didn't have more time to look around.
 
-## 833. look ## verb
+## 833. look forward to sth/doing sth ## verb
 /lʊk/ HAPPY
 [B1]to feel happy and excited about something that is going to happen
 - I'm really looking forward to my vacation.
 - She was looking forward to seeing the grandchildren again.
 
-## 834. look ## verb
+## 834. Look out! ## verb
 /lʊk/ 
 [B1]something you say when someone is in danger
 - Look out - there's a car coming!
 
-## 835. look ## verb
+## 835. look up sth or look sth up ## verb
 /lʊk/ 
 [B1]to try to find a piece of information by looking in a book or on a computer
 - If you don't know what the word means, look it up `in` a dictionary.
@@ -5571,12 +5571,12 @@
 - We're moving `to` Paris.
 - A lot of businesses are moving `out of` London because it's too expensive.
 
-## 869. move ## verb
+## 869. move in ## verb
 /muːv/ 
 [B1]to begin living in a new home
 - She's just moved in `with` some friends.
 
-## 870. move ## verb
+## 870. move out ## verb
 /muːv/ 
 [B1]to stop living in a particular home
 - Her landlord has given her a week to move out.
@@ -5697,12 +5697,12 @@
 - Has ten minutes passed yet?
 - We had to wait, but the time passed quickly.
 
-## 889. pass ## verb
+## 889. pass on sth or pass sth on ## verb
 /pæs/ TELL
 [B1]to tell someone something that another person has told you
 - Will you pass the message on `to` Edward?
 
-## 890. pass ## verb
+## 890. pass on sth or pass sth on ## verb
 /pæs/ GIVE
 [B1]to give something to someone else
 - Could you pass the book on `to` Lara when you finished with it?
@@ -5725,7 +5725,7 @@
 [B1]to watch, listen to, or think about something carefully
 - You weren't paying attention, were you?
 
-## 894. pay ## verb
+## 894. pay back sb/sth or pay sb/sth back ## verb
 /peɪ/ 
 [B1]to pay someone the money that you owe them
 - If you can buy the book for me, I'll pay you back tomorrow.
@@ -5944,55 +5944,55 @@
 [B1]to press something
 - If you push this button, the seat goes back.
 
-## 928. put ## verb [T]
+## 928. put away sth or put sth away ## verb [T]
 /pʊt/ 
 [B1]to put something in the place or container where you usually keep it
 - Put your toys away now.
 
-## 929. put ## verb [T]
+## 929. put back sth or put sth back ## verb [T]
 /pʊt/ 
 [B1]to put something where it was before it was moved
 - I put the book back on the shelf.
 
-## 930. put ## verb [T]
+## 930. put down sb/sth or put sb/sth down ## verb [T]
 /pʊt/ 
 [B1]to put someone or something that you are holding onto the floor or onto another surface
 - I put my bags down while we talked.
 - Put me down, Dad!
 
-## 931. put ## verb [T]
+## 931. put down sth or put sth down ## verb [T]
 /pʊt/ 
 [B1]If you put the phone down, you put the part of the telephone that you speak into back to its usual position.
 - It was only when I'd put the phone down that I realized what he'd said.
 
-## 932. put ## verb [T]
+## 932. put off sth/doing sth or put sth off ## verb [T]
 /pʊt/ 
 [B1]to arrange to do something at a later time
 - The meeting has been put off until the first week in June.
 - I can't put off going to the dentist any longer.
 
-## 933. put ## verb [T]
+## 933. put on sth or put sth on ## verb [T]
 /pʊt/ WEIGHT
 [B1]If someone puts on weight, they become heavier.
 - She put on about 10 pounds.
 
-## 934. put ## verb [T]
+## 934. put out sth or put sth out ## verb [T]
 /pʊt/ 
 [B1]to make something that is burning stop burning
 - They managed to put out the fire.
 
-## 935. put ## verb [T]
+## 935. put sb through ## verb [T]
 /pʊt/ 
 [B1]to connect someone using a telephone to the person they want to speak to
 - Can you put me through `to` customer service, please?
 
-## 936. put ## verb [T]
+## 936. put up sth or put sth up ## verb [T]
 /pʊt/ RAISE
 [B1]to raise something, or to fix something in a raised position
 - I put my hand up to ask the teacher a question.
 - They've put a few pictures up on the wall.
 
-## 937. put ## verb [T]
+## 937. put up sth or put sth up ## verb [T]
 /pʊt/ SPREAD
 [B1]to spread something that is folded or rolled up, such as a tent, umbrella, etc. so that it is ready to be used
 - We put the tent up near a river.
@@ -6127,7 +6127,7 @@
 - Could you remind Paul `about` dinner on Saturday?
 - I called Gemma and reminded her `that` the conference was cancelled.
 
-## 957. remind ## verb [T]
+## 957. remind sb of sth/sb ## verb [T]
 /rəˈmɑɪnd/ 
 [B1]to be similar to, or make you think of, something or someone else
 - She reminds me of Elaine.
@@ -6275,7 +6275,7 @@
 - She ran her own restaurant for five years.
 - The school's lunchtime café is run `by` the students themselves.
 
-## 980. run ## verb
+## 980. run out ## verb
 /rʌn/ USE ALL
 [B1]to finish, use or sell all of something, so that there is none left
 - I've run out `of` money/ideas/patience.
@@ -6394,7 +6394,7 @@
 - They have the option of selecting the school that they want their kids to go to.
 - He was selected `to` play for Australia at the age of only 18.
 
-## 996. send ## verb [T]
+## 996. send sth back or send back sth ## verb [T]
 /send/ 
 [B1]to return something to the person who sent it to you, especially because it is damaged or not suitable
 - I had to send the shirt back because it didn't fit me.
@@ -6420,19 +6420,19 @@
 [B1]When the sun sets, it moves down in the sky until it cannot be seen.
 - The sun rises in the east and sets in the west.
 
-## 1001. set ## verb
+## 1001. set off ## verb
 /set/ 
 [B1]to start a journey
 - What time do we have to set off `for` the airport tomorrow?
 - They just set off `on` an around-the-world cruise.
 
-## 1002. set ## verb
+## 1002. set out ## verb
 /set/ TRIP
 [B1]to begin a trip
 - Martin set out `on` his bike ride before dawn.
 - When do you want to set out?
 
-## 1003. set ## verb
+## 1003. set up sth or set sth up ## verb
 /set/ ORGANIZATION
 [B1]to formally establish a new company, organization, system, way of working, etc.
 - A committee has been set up to organize the club's social events.
@@ -6533,18 +6533,18 @@
 - She showed me how to use the new bookkeeping program.
 - Have you shown him what to do?
 
-## 1017. show ## verb
+## 1017. show sb around ## verb
 /ʃoʊ/ 
 [B1]to go with someone and show them a place
 - Alejandro offered to show her around Mexico City.
 
-## 1018. show ## verb
+## 1018. show up ## verb
 /ʃoʊ/ 
 [B1]to arrive somewhere
 - I invited him for eight o'clock, but he didn't show up until nine-thirty.
 - We were expecting thirty people to come, but half of them never showed up.
 
-## 1019. shut ## verb [I or T]
+## 1019. shut (sth) down or shut down (sth) ## verb [I or T]
 /ʃʌt/ 
 [B1]If a computer or machine shuts down or someone shuts it down, it stops operating.
 - Make sure you shut down your computer before you leave.
@@ -6559,7 +6559,7 @@
 - He signed himself "Andrew Mahat."
 - She said the painting was by Picasso, but it wasn't signed.
 
-## 1021. sign ## verb [I or T]
+## 1021. sign up ## verb [I or T]
 /sɑɪn/ 
 [B1]to arrange to take part in an organized activity
 - I've signed up `for` evening classes at the community college.
@@ -6645,7 +6645,7 @@
 - Let's see if I can pour the juice into the glass without spilling it.
 - He dropped a bag of sugar and it spilled all `over` the floor.
 
-## 1034. split ## verb
+## 1034. split up ## verb
 /splɪt/ 
 [B1]If two people who are married or have a relationship split up, they end it.
 - They've split up.
@@ -6677,7 +6677,7 @@
 - His mother started the craft market at the community center.
 - Fire Department officials believe the fire was started by arsonists.
 
-## 1039. start ## verb [I or T]
+## 1039. start (sth) off or start off(sth) ## verb [I or T]
 /stɑrt/ 
 [B1]to begin by doing something, or to make something begin by doing something
 - She started off the meeting with the monthly sales report.
@@ -6827,12 +6827,12 @@
 - Jeanne sat at her desk, surrounded `by` books and papers.
 - She's surrounded by the people she loves.
 
-## 1062. switch ## verb [I]
+## 1062. switch off sth or switch sth off ## verb [I]
 /swɪtʃ/ 
 [B1]to turn off a light, television, etc. by using a switch
 - Remember to switch the computer off.
 
-## 1063. switch ## verb [I]
+## 1063. switch on sth or switch sth on ## verb [I]
 /swɪtʃ/ 
 [B1]to turn on a light, television, etc. by using a switch
 - Could you switch the light on?
@@ -6915,36 +6915,36 @@
 - What size shoe do you take?
 - I take a size 12 in pants.
 
-## 1077. take ## verb [T]
+## 1077. take away sth or take sth away ## verb [T]
 /teɪk/ NUMBERS
 [B1]to remove one number from another number
 - Four take away two is two.
 - If you take 4 away `from` 12 you get 8.
 
-## 1078. take ## verb [T]
+## 1078. take back sth or take sth back ## verb [T]
 /teɪk/ 
 [B1]to return something to the place you borrowed or bought it from
 - Is it too small? Take it back and get a refund.
 - I must take my library books back.
 
-## 1079. take ## verb [T]
+## 1079. take out sb or take sb out ## verb [T]
 /teɪk/ 
 [B1]to go somewhere with someone and pay for them
 - My dad's taking the whole family out `to` the theater.
 - Our boss took us out `for` a meal.
 
-## 1080. take ## verb [T]
+## 1080. take out sth or take sth out ## verb [T]
 /teɪk/ REMOVE
 [B1]to remove something from somewhere
 - He reached into his bag and took out a book.
 - I've had a tooth taken out.
 
-## 1081. take ## verb [T]
+## 1081. take out sth or take sth out ## verb [T]
 /teɪk/ FOOD
 [B1]to buy food in a restaurant or store and eat it somewhere else
 - Will that be to eat in or take out?
 
-## 1082. take ## verb [T]
+## 1082. take up sth or take sth up ## verb [T]
 /teɪk/ START
 [B1]to start doing a particular activity or job
 - He's taken up cycling in his spare time
@@ -7015,7 +7015,7 @@
 - I was just thinking `about` you when you phoned.
 - I often think `of` our time in Egypt.
 
-## 1094. throw ## verb [I or T]
+## 1094. throw away/out sth or throw sth away/out ## verb [I or T]
 /θroʊ/ 
 [B1]to get rid of something that you do not want any more
 - So when are you going to throw away those old magazines?
@@ -7106,18 +7106,18 @@
 - He turned `over` two or three pages.
 - Now turn `to` page 23 and look at the first paragraph.
 
-## 1108. turn ## verb
+## 1108. turn down sth or turn sth down ## verb
 /tɜrn/ 
 [B1]to reduce the level of sound or heat that something produces
 - I asked him to turn down the heat.
 
-## 1109. turn ## verb
+## 1109. turn (sb/sth) into sb/sth ## verb
 /tɜrn/ 
 [B1]to change and become someone or something different, or to make someone or something do this
 - The council was hoping to turn a children's home into a residence for adolescent girls.
 - The town turned `from` a small seaside resort into a major commercial center when oil was discovered.
 
-## 1110. turn ## verb
+## 1110. turn up sth or turn sth up ## verb
 /tɜrn/ 
 [B1]to increase the level of sound or heat that a machine produces
 - Could you turn the heat up, please?
@@ -7129,7 +7129,7 @@
 - He can type very quickly.
 - I was typing `away` into the early hours of the morning just to get the thing finished.
 
-## 1112. type ## verb [I or T]
+## 1112. type in sth or type sth in ## verb [I or T]
 /tɑɪp/ 
 [B1]to use the keys on a computer or other device to enter information
 - How can I type in my password if I can’t remember it?
@@ -7234,7 +7234,7 @@
 - She was so mad she wouldn't even wave `goodbye to` us.
 - She waves her hands `around` a lot when she's talking.
 
-## 1129. wear ## verb [T]
+## 1129. wear (sth) out or wear out (sth) ## verb [T]
 /wer/ 
 [B1]to use something so much that it is damaged and cannot be used any more, or to become damaged in this way
 - He's already worn out two pairs of shoes this year.
@@ -7293,7 +7293,7 @@
 - Her plan to increase sales worked.
 - The pills will start to work `in` a few minutes.
 
-## 1138. work ## verb
+## 1138. work out ## verb
 /wɜrk/ EXERCISE
 [B1]to exercise in order to improve the strength or appearance of your body
 - Heidi works out in the gym two or three times a week.
@@ -7339,7 +7339,7 @@
 - She wrapped the present and tied it with ribbon.
 - Wrap the chicken `in` foil and cook it for two hours.
 
-## 1146. wrap ## verb [T]
+## 1146. wrap sth up or wrap up sth ## verb [T]
 /ræp/ 
 [B1]to fold paper, cloth, etc. around something to cover it
 - Have you wrapped up Jenny's present?
@@ -7351,7 +7351,7 @@
 - She writes `for` Time magazine.
 - Walton wrote the Cello Concerto in 1956.
 
-## 1148. write ## phrasal verb
+## 1148. write sth down or write down sth ## phrasal verb
 /rɑɪt/ 
 [B1]to write something on a piece of paper so that you do not forget it
 - Did you write Jo's phone number down?
@@ -7437,7 +7437,7 @@
 - She acted without thinking.
 - We have to act now `to` stop the spread of this disease.
 
-## 1163. act ## verb
+## 1163. act as sth ## verb
 /ækt/ 
 [B2]to do a particular job, especially one that you do not normally do
 - He was asked to act as an advisor on the project.
@@ -7453,7 +7453,7 @@
 - Many companies have adapted popular applications `to` the smartphones and tablets.
 - Davies is busy adapting Brinkworth's latest novel `for` television.
 
-## 1166. add ## verb
+## 1166. add to sth ## verb
 /æd/ 
 [B2]to make a feeling or quality more extreme
 - Her colleagues' laughter only added to her embarrassment.
@@ -7505,7 +7505,7 @@
 - She agreed `to` help him.
 - The bank has agreed `to` lend me $5000.
 
-## 1175. agree ## verb
+## 1175. agree with sth ## verb
 /əˈgriː/ 
 [B2]to think that something is correct or acceptable
 - I don't agree with hunting.
@@ -7672,13 +7672,13 @@
 - He was awarded the Nobel Prize for physics.
 - The university has awarded her a $500 travel grant.
 
-## 1204. back ## verb
+## 1204. back up sb or back sb up ## verb
 /bæk/ 
 [B2]to support or help someone
 - My family backed me up `in` my fight for compensation.
 - The last witness backed up what other people had said happened.
 
-## 1205. back ## verb
+## 1205. back up (sth) or back (sth) up ## verb
 /bæk/ 
 [B2]to make an extra copy of something that is held in your computer
 - Always back up any music you download in case your computer crashes.
@@ -7728,7 +7728,7 @@
 [B2]to be better than
 - I take the train - it beats driving for seven hours.
 
-## 1214. beat ## verb
+## 1214. beat up sb or beat sb up ## verb
 /biːt/ 
 [B2]to attack someone by hitting or kicking them
 - He beat up one of the other prisoners.
@@ -7751,7 +7751,7 @@
 [B2]used to give the first important reason for something
 - To begin with, we can't afford to move.
 
-## 1218. believe ## verb [T]
+## 1218. believe in sth/doing sth ## verb [T]
 /bɪˈliːv/ 
 [B2]to be confident that something is effective and right
 - He believes in saying what he thinks.
@@ -7885,20 +7885,20 @@
 - She really broke his heart when she left.
 - It breaks my heart when I hear the terrible things that have been said about him.
 
-## 1241. break ## verb
+## 1241. break off (sth) or break (sth) off ## verb
 /breɪk/ 
 [B2]to end (something) suddenly
 - She broke off in the middle of a sentence.
 - She broke off the `engagement` just two weeks before the wedding.
 
-## 1242. break ## verb
+## 1242. break out ## verb
 /breɪk/ 
 [B2]If something dangerous or unpleasant breaks out, it suddenly starts.
 - `War` broke out in 1914.
 - The `fire` broke out in the early morning.
 - `Fighting` has broken out all over the city.
 
-## 1243. break ## verb
+## 1243. break through sth ## verb
 /breɪk/ 
 [B2]to force your way through something that is holding you back
 - Protesters broke through the barriers.
@@ -7908,12 +7908,12 @@
 [B2]to keep animals for the purpose of producing young animals
 - His main income comes from breeding cattle.
 
-## 1245. bring ## verb [T]
+## 1245. bring out sth or bring sth out ## verb [T]
 /brɪŋ/ 
 [B2]to produce something to sell to the public
 - They've just brought out a new, smaller phone.
 
-## 1246. bring ## verb [T]
+## 1246. bring up sth or bring sth up ## verb [T]
 /brɪŋ/ 
 [B2]to start to talk about a particular subject
 - There are several points I'd like to bring up at tomorrow's meeting.
@@ -7963,13 +7963,13 @@
 - A car this size burns a lot of gas.
 - Exercise helps me burn fat and build muscle.
 
-## 1255. burn ## verb
+## 1255. burn down (sth) or burn (sth) down ## verb
 /bɜrn/ 
 [B2]to destroy something, especially a building, by fire, or to be destroyed by fire
 - Their house burnt down while they were away on vacation.
 - He tried to burn down the school.
 
-## 1256. burn ## verb
+## 1256. burn out ## verb
 /bɜrn/ 
 [B2]to become ill or very tired from working too hard
 - If he keeps working this hard he'll just burn out.
@@ -7981,18 +7981,18 @@
 - Suddenly the door burst `open` and police officers carrying guns rushed in.
 - If I eat any more cake I'll burst!
 
-## 1258. burst ## verb [I or T]
+## 1258. burst into sth ## verb [I or T]
 /bɜrst/ ENTER SUDDENLY
 [B2]to enter a room or building suddenly and without warning
 - The head of the department suddenly burst into the conference room.
 
-## 1259. burst ## verb [I or T]
+## 1259. burst into sth ## verb [I or T]
 /bɜrst/ MAKE A NOISE
 [B2]to suddenly start to make a noise, especially to start crying
 - She put the phone down and burst into `tears`.
 - The children gathered on the stage suddenly burst into song.
 
-## 1260. burst ## verb [I or T]
+## 1260. burst out ## verb [I or T]
 /bɜrst/ 
 [B2]to suddenly start laughing/crying/shouting, etc.
 - He took one look at the hat she was wearing and burst out `laughing`.
@@ -8029,12 +8029,12 @@
 [B2]to telephone the place where you work and report that you are sick and unable to work
 - Three people called in sick this morning.
 
-## 1266. call ## verb
+## 1266. call off sth or call sth off ## verb
 /kɔːl/ NOT HAPPEN
 [B2]to decide that a planned event or activity will not happen because it is not possible, useful or wanted now
 - Tomorrow's match has been called off because of the icy weather.
 
-## 1267. calm ## verb [T]
+## 1267. calm down (sb) or calm (sb) down ## verb [T]
 /kɑm/ 
 [B2]to stop feeling upset, angry, or excited, or to stop someone from feeling this way
 - Calm down, Lily, and tell me what's wrong.
@@ -8073,7 +8073,7 @@
 [B2]used to emphasize that you do not think something is important
 - The Liberty won again last night! "Who cares?"
 
-## 1274. care ## verb
+## 1274. care for sb/sth ## verb
 /ker/ 
 [B2]to look after someone or something, especially someone who is young, old or ill
 - The children are being cared for by a relative.
@@ -8088,7 +8088,7 @@
 - Police think that the body was carried `down` the river.
 - Trash left on the beach during the day is carried `away` at night by the tide.
 
-## 1276. carry ## verb [T]
+## 1276. be/get carried away ## verb [T]
 /ˈkær.i/ 
 [B2]to be so excited about something that you do not control what you say or do
 - There's far too much food - I'm afraid I got a bit carried away!
@@ -8114,18 +8114,18 @@
 [B2]If the police catch a criminal, they find them and take them away.
 - These terrorists must be caught.
 
-## 1281. catch ## verb
+## 1281. catch up (sb) or catch (sb) up ## verb
 /kætʃ/ REACH SOMEONE
 [B2]to reach someone in front of you by going faster than them
 - I ran after her and managed to catch up `with` her.
 - You go on ahead - I'll catch up later.
 
-## 1282. catch ## verb
+## 1282. catch up ## verb
 /kætʃ/ 
 [B2]to learn and discuss the newest facts about something
 - I'll call you tonight to catch up `on` all the gossip.
 
-## 1283. catch ## verb
+## 1283. catch up on/with sth ## verb
 /kætʃ/ 
 [B2]to do something that you did not have time to do earlier
 - I'm hoping to catch up on some sleep.
@@ -8181,7 +8181,7 @@
 [B2]to run after a person or animal to make them leave a place
 - I chased the cat away.
 
-## 1293. chat ## verb [I]
+## 1293. chat sb up or chat up sb ## verb [I]
 /tʃæt/ 
 [B2]to talk to someone in a way that shows them that you are sexually attracted to them
 - He spends hours in cafés, chatting up the waitresses.
@@ -8193,7 +8193,7 @@
 - She was caught cheating `on` her French exam.
 - He cheats `at` cards.
 
-## 1295. cheat ## verb [I or T]
+## 1295. cheat on sb ## verb [I or T]
 /tʃiːt/ 
 [B2]to have a secret sexual relationship with someone who is not your usual sexual partner
 - She found out that Jeremy had been cheating on her.
@@ -8209,7 +8209,7 @@
 - Everyone cheered as the winners received their medals.
 - He was cheering `for` the other side.
 
-## 1298. cheer ## verb [I]
+## 1298. cheer up (sb) or cheer (sb) up ## verb [I]
 /tʃɪr/ 
 [B2]If someone cheers up, or something cheers them up, they start to feel happier.
 - She was very sick so I sent her some flowers to cheer her up.
@@ -8229,7 +8229,7 @@
 - Our dog loves a bone to chew `(on)`.
 - She sat in the dentist's waiting room, nervously chewing `(at)` her nails.
 
-## 1301. chill ## verb [I or T]
+## 1301. chill out ## verb [I or T]
 /tʃɪl/ 
 [B2]to relax completely, or not allow things to upset you
 - Chill out, Dad - if we miss this train there's always another one.
@@ -8264,12 +8264,12 @@
 - I cleared the snow `off` the path.
 - Could you clear your things `from` the couch?
 
-## 1306. clear ## verb [T]
+## 1306. clear up sth or clear sth up ## verb [T]
 /klɪr/ 
 [B2]to give an explanation for something, or to deal with a problem or argument
 - Before we sign the contract, there are a few points we should clear up.
 
-## 1307. clear ## verb [T]
+## 1307. clear up ## verb [T]
 /klɪr/ 
 [B2]If the weather clears up, it improves and becomes sunny.
 - I hope the weather clears up before this afternoon.
@@ -8293,7 +8293,7 @@
 - The `factory` closed over ten years ago.
 - A lot of `restaurants/stores` are closing because they can't afford the rent.
 
-## 1311. close ## verb
+## 1311. close down (sth) or close (sth) down ## verb
  
 [B2]If a business or organization closes down or someone closes it down, it stops operating.
 - All the mines in this area were closed down in the 80s.
@@ -8341,72 +8341,72 @@
 - I came to the conclusion that the relationship wasn't working.
 - That was when this administration came to power.
 
-## 1319. come ## verb [I]
+## 1319. come across sb/sth ## verb [I]
 /kʌm/ 
 [B2]to meet someone or find something by chance
 - He came across some of his old love letters in his wife's drawer.
 
-## 1320. come ## verb [I]
+## 1320. come along ## verb [I]
 /kʌm/ ARRIVE
 [B2]to arrive or appear at a place
 - A taxi never comes along when you need one.
 
-## 1321. come ## verb [I]
+## 1321. come down ## verb [I]
 /kʌm/ FALL
 [B2]to drop to the ground or floor
 - A lot of trees came down in the storm.
 - Our plane came down in a field.
 - We watched the building come down in a controlled explosion.
 
-## 1322. come ## verb [I]
+## 1322. come down ## verb [I]
 /kʌm/ LOWER LEVEL
 [B2]If a price or a level comes down, it becomes lower.
 - House prices have come down recently.
 - Inflation is coming down.
 
-## 1323. come ## verb [I]
+## 1323. come down with sth ## verb [I]
 /kʌm/ 
 [B2]to become ill
 - I feel like I'm coming down with a cold.
 
-## 1324. come ## verb [I]
+## 1324. come out ## verb [I]
 /kʌm/ INFORMATION
 [B2]If results or information come out, they are given to people.
 - Information about class placement will come out in August.
 
-## 1325. come ## verb [I]
+## 1325. come to sth ## verb [I]
 /kʌm/ TOTAL
 [B2]to be a particular total when numbers or amounts are added together
 - That comes to $50, please.
 
-## 1326. come ## verb [I]
+## 1326. come to sth ## verb [I]
 /kʌm/ DIFFERENT STATE
 [B2]to reach a state, or change to a different state
 - I was sad when the evening came to an end.
 - I came to the conclusion that the relationship wasn't working.
 - That was when this administration came to power.
 
-## 1327. come ## verb [I]
+## 1327. come up ## verb [I]
 /kʌm/ MOVE TOWARD
 [B2]to move toward someone
 - A young girl came up `to` me and asked for money.
 
-## 1328. come ## verb [I]
+## 1328. come up ## verb [I]
 /kʌm/ BE MENTIONED
 [B2]to be mentioned or talked about in conversation
 - What points came up at the meeting?
 
-## 1329. come ## verb [I]
+## 1329. come up ## verb [I]
 /kʌm/ SUN/MOON
 [B2]When the sun or moon comes up, it rises.
 - We watched the sun come up over the ocean.
 
-## 1330. come ## verb [I]
+## 1330. come up ## verb [I]
 /kʌm/ be coming up
 [B2]to be happening soon
 - Final exams are coming up next month.
 
-## 1331. come ## verb [I]
+## 1331. come up with sth ## verb [I]
 /kʌm/ 
 [B2]to suggest or think of an idea or plan
 - She's come up with some amazing scheme to double her income.
@@ -8564,13 +8564,13 @@
 [B2]to become less hot, or to make something become less hot
 - Allow the bread to cool before slicing it.
 
-## 1358. cool ## verb [I or T]
+## 1358. cool down/off (sb/sth) or cool (sb/sth) down/off ## verb [I or T]
 /kuːl/ BECOME LESS HOT
 [B2]to become less hot, or to make someone or something become less hot
 - She waited until her coffee had cooled down and then took a sip.
 - We went for a swim to cool off.
 
-## 1359. cool ## verb [I or T]
+## 1359. cool down/off (sb/sth) or cool (sb/sth) down/off ## verb [I or T]
 /kuːl/ BECOME CALMER
 [B2]to become calmer, or to make someone become calmer
 - Just leave her to cool off and then talk to her.
@@ -8649,12 +8649,12 @@
 - I've always believed that happiness counts more than money.
 - My opinion doesn't count `for anything` around here.
 
-## 1373. count ## verb
+## 1373. count on sb ## verb
 /kɑʊnt/ 
 [B2]to have confidence in someone because you know they will do what you want
 - I can always count on my parents to help me.
 
-## 1374. count ## verb
+## 1374. count on sth ## verb
 /kɑʊnt/ 
 [B2]to expect something to happen and make plans based on it
 - I didn't count on so many people coming to the party.
@@ -8719,32 +8719,32 @@
 [B2]to remove part of a film or piece of writing
 - Several scenes had been cut when the movie was shown on TV.
 
-## 1386. cut ## verb
+## 1386. cut across sth ## verb
 /kʌt/ DIRECTION
 [B2]to go from one side of an area to the other, instead of going around it
 - If we cut across this field, it will save time.
 
-## 1387. cut ## verb
+## 1387. cut down sth or cut sth down ## verb
 /kʌt/ REMOVE
 [B2]If you cut down a tree or bush, you make it fall to the ground by cutting it near the bottom.
 - The new owners cut down the apple trees.
 
-## 1388. cut ## verb
+## 1388. cut down sth or cut sth down ## verb
 /kʌt/ REDUCE
 [B2]to reduce the amount, number, length or size of something
 - They've cut her hours down at work.
 
-## 1389. cut ## verb
+## 1389. cut down sth or cut sth down ## verb
 /kʌt/ DIET
 [B2]to eat or drink less of a particular thing, usually in order to improve your health
 - I'm trying to cut down `on` the amount of sugar I eat.
 
-## 1390. cut ## verb
+## 1390. cut off sb/sth or cut sb/sth off ## verb
 /kʌt/ STOP PROVIDING
 [B2]to stop providing something such as electricity or water
 - If we don't pay the gas bill, we'll be cut off.
 
-## 1391. cut ## verb
+## 1391. cut off sb/sth or cut sb/sth off ## verb
 /kʌt/ BE TRAPPED
 [B2]to prevent people from reaching or leaving a place, or to separate them from other people
 - The whole village was cut off by flooding.
@@ -8762,17 +8762,17 @@
 - I've been dashing `around` all day.
 - Mary’s always dashing from one meeting to another.
 
-## 1394. date ## verb
+## 1394. date back ## verb
 /deɪt/ 
 [B2]to have existed a particular length of time or since a particular time
 - This house dates back `to` 1650.
 
-## 1395. date ## verb
+## 1395. date from sth ## verb
 /deɪt/ 
 [B2]to have existed since a particular time
 - The castle dates from the 11th century.
 
-## 1396. deal ## verb
+## 1396. deal with sb ## verb
 /diːl/ 
 [B2]to talk to someone or meet someone, especially as part of your job
 - She's used to dealing with difficult customers.
@@ -8871,13 +8871,13 @@
 - No one should be denied a good education.
 - I was denied the opportunity of learning French in school.
 
-## 1413. depend ## verb
+## 1413. depend on/upon sb/sth ## verb
 /dəˈpend/ NEED
 [B2]to need the help and support of someone or something in order to exist or continue as before
 - She depends on her son for everything.
 - The country depends `heavily` on foreign aid.
 
-## 1414. depend ## verb
+## 1414. depend on/upon sb/sth ## verb
 /dəˈpend/ RELY
 [B2]to trust someone or something and know that they will help you or do what you want or expect them to do
 - You can always depend `on` Michael in a crisis.
@@ -8908,17 +8908,17 @@
 - The study showed that one in twelve women is likely to develop breast cancer.
 - She's developed some very strange habits lately.
 
-## 1419. devote ## verb
+## 1419. devote sth to sb/sth ## verb
 /dɪˈvoʊt/ USE TIME
 [B2]to use time, energy, etc. for a particular purpose
 - He resigned from his job to devote more time to his family.
 
-## 1420. devote ## verb
+## 1420. devote sth to sb/sth ## verb
 /dɪˈvoʊt/ USE SPACE
 [B2]to use a space or area for a particular purpose
 - Most of the magazine was devoted to celebrity gossip.
 
-## 1421. die ## verb [I]
+## 1421. die out ## verb [I]
 /dɑɪ/ 
 [B2]to become more and more rare and then disappear completely
 - Dinosaurs died out about 65 million years ago.
@@ -9054,12 +9054,12 @@
 [B2]to be related to something
 - She lacks confidence and I think that has to do with her childhood.
 
-## 1445. do ## verb
+## 1445. do up sth or do sth up ## verb
 /duː/ 
 [B2]to repair or decorate a building so that it looks attractive
 - He does up old houses and then sells them.
 
-## 1446. do ## verb
+## 1446. do without (sb/sth) ## verb
 /duː/ 
 [B2]to manage without having something
 - Andrew's our best player - we can't really do without him.
@@ -9152,7 +9152,7 @@
 [B2]to have enough money for the things you need from doing your work
 - You can't expect to earn `a living` from your painting.
 
-## 1462. eat ## verb
+## 1462. eat up (sth) or eat (sth) up ## verb
 /iːt/ 
 [B2]to eat all the food you have been given
 - Be a good boy and eat up your dinner.
@@ -9375,7 +9375,7 @@
 - We have to face `facts` here - we simply don't have enough money.
 - He's dying but he refuses to face `the truth`.
 
-## 1500. face ## verb
+## 1500. face up to sth ## verb
 /feɪs/ 
 [B2]to accept that a difficult situation exists
 - Eventually, he faced up to his money problems.
@@ -9389,7 +9389,7 @@
 - The music began to fade.
 - The sun had faded the blue walls.
 
-## 1502. fade ## verb [I or T]
+## 1502. fade away ## verb [I or T]
 /feɪd/ 
 [B2]to gradually become less strong or clear and then disappear
 - With time, memories of that painful summer would fade away.
@@ -9418,29 +9418,29 @@
 - He faints at the sight of blood.
 - I nearly fainted in the heat.
 
-## 1507. fall ## verb [I]
+## 1507. fall apart ## verb [I]
 /fɔːl/ BREAK
 [B2]to break into pieces
 - My poor old boots are falling apart.
 
-## 1508. fall ## verb [I]
+## 1508. fall apart ## verb [I]
 /fɔːl/ HAVE PROBLEMS
 [B2]to start having problems that you cannot deal with
 - The deal fell apart because of a lack of financing.
 - His life fell apart when his wife died.
 
-## 1509. fall ## verb [I]
+## 1509. fall for sb ## verb [I]
 /fɔːl/ 
 [B2]to suddenly have strong romantic feelings about someone
 - She fell for a tall, handsome Frenchman when she was on vacation in Paris.
 
-## 1510. fall ## verb [I]
+## 1510. fall out ## verb [I]
 /fɔːl/ 
 [B2]to argue with someone and stop being friendly with them
 - She's fallen out `with` her sister.
 - They fell out `over` money.
 
-## 1511. fall ## verb [I]
+## 1511. fall through ## verb [I]
 /fɔːl/ 
 [B2]If a plan or agreement falls through, it fails to happen.
 - Our `plans` to go on vacation together fell through when Jamie got sick.
@@ -9508,7 +9508,7 @@
 - They are fighting `for` their freedom.
 - He had to fight hard `to` keep his job.
 
-## 1523. figure ## verb
+## 1523. figure out sth/sb or figure sth/sb out ## verb
 /ˈfɪg.jər/ 
 [B2]to finally understand something or someone
 - I can't figure out why he did it.
@@ -9546,7 +9546,7 @@
 - Drivers who break the speed limit can expect to be fined `heavily`.
 - They fined him $100 `for` speeding on the highway.
 
-## 1530. finish ## verb
+## 1530. finish off sth or finish sth off ## verb
 /ˈfɪn.ɪʃ/ 
 [B2]to complete the last part of something that you are doing
 - I want to finish off this essay before I go to bed.
@@ -9566,12 +9566,12 @@
 - He was fired `from` his last job for poor performance.
 - She has just been fired as editor of the newspaper.
 
-## 1533. fit ## verb
+## 1533. fit in ## verb
 /fɪt/ 
 [B2]to feel that you belong to a particular group and are accepted by them
 - He doesn't fit in `with` the other pupils in his class.
 
-## 1534. fit ## verb
+## 1534. fit in with sth ## verb
 /fɪt/ 
 [B2]If one thing fits in with another thing, it belongs with them or they are suitable for each other.
 - It's a very nice sofa but it doesn't fit in with the rest of the furniture.
@@ -9616,7 +9616,7 @@
 [B2]to control an aircraft or other vehicle in air or space
 - She learned to fly at the age of 18.
 
-## 1542. focus ## verb
+## 1542. focus (sth) on sb/sth ## verb
 /ˈfoʊ.kəs/ 
 [B2]to give a lot of attention to one particular person, subject or thing
 - Tonight's program focuses on the way that homelessness affects the young.
@@ -9627,7 +9627,7 @@
 [B2]used to introduce a list or description
 - The main reasons are as follows.
 
-## 1544. follow ## verb
+## 1544. follow up sth or follow sth up ## verb
 /ˈfɑl.oʊ/ 
 [B2]to discover more about a situation or take further action in connection with it
 - I follow up aerobic exercise with some weight lifting.
@@ -9761,90 +9761,90 @@
 [B2]to understand or hear something
 - That joke that he told - did you get it?
 
-## 1568. get ## verb
+## 1568. get across sth or get sth across ## verb
 /get/ 
 [B2]to manage to make someone understand or believe something
 - We tried to get our `point` across, but he just wouldn't listen.
 - This is the `message` that we want to get across to the public.
 
-## 1569. get ## verb
+## 1569. get around to sth ## verb
 /get/ 
 [B2]to do something that you have intended to do for a long time
 - I still haven't got around to fixing that faucet.
 
-## 1570. get ## verb
+## 1570. get at sth ## verb
 /get/ 
 [B2]to be able to reach or get something
 - I've put the cake on a high shelf where the kids can't get at it.
 
-## 1571. get ## verb
+## 1571. get away ## verb
 /get/ ESCAPE
 [B2]to leave or escape from a place or person, often when it is difficult to do this
 - We walked to the next beach to get away` from` the crowds.
 
-## 1572. get ## verb
+## 1572. get away ## verb
 /get/ GO SOMEWHERE
 [B2]to go somewhere for a short vacation, often because you need to rest
 - I just need to get away for a few days.
 
-## 1573. get ## verb
+## 1573. get away with sth ## verb
 /get/ 
 [B2]to succeed in not being criticized or punished for something
 - If I thought I could get away with it, I wouldn't pay any tax at all.
 
-## 1574. get ## verb
+## 1574. get back sth or get sth back ## verb
 /get/ 
 [B2]to be given something again that you had before
 - He went next door to get his ball back.
 - Don't lend him money, you'll never get it back.
 
-## 1575. get ## verb
+## 1575. get sb down ## verb
 /get/ 
 [B2]to make someone feel unhappy
 - All this uncertainty is really getting me down.
 
-## 1576. get ## verb
+## 1576. get down to sth ## verb
 /get/ 
 [B2]to start doing something seriously and with a lot of attention and effort
 - Before we get down to `business`, I'd like to thank you all for coming today.
 
-## 1577. get ## verb
+## 1577. get in ## verb
 /get/ BE CHOSEN
 [B2]to succeed in being chosen or elected
 - He wanted to go to Stanford, but he didn't get in.
 
-## 1578. get ## verb
+## 1578. get into sth ## verb
 /get/ BE CHOSEN
 [B2]to succeed in being chosen or elected
 - He got into Harvard.
 
-## 1579. get ## verb
+## 1579. get on with sth ## verb
 /get/ 
 [B2]to continue doing something, especially work
 - We don’t have all day to finish this job, so can we just get on with it?
 
-## 1580. get ## verb
+## 1580. get out of sth/doing sth ## verb
 /get/ 
 [B2]to avoid doing something that you do not want to do, especially by giving an excuse
 - If I can get out of going to the meeting tonight I will.
 
-## 1581. get ## verb
+## 1581. get over sth/sb ## verb
 /get/ GET BETTER
 [B2]to get better after an illness, or feel better after something or someone has made you unhappy
 - She's still getting over the flu.
 - It took her months to get over the shock of Richard leaving.
 
-## 1582. get ## verb
+## 1582. get over sth/sb ## verb
 /get/ can't/couldn't get over sth
 [B2]to be very shocked or surprised about something
 - I can't get over how different you look with short hair.
 
-## 1583. get ## verb
+## 1583. get through sth ## verb
 /get/ 
 [B2]to succeed in an examination or competition
 - She got through her exams without too much trouble.
 
-## 1584. get ## verb
+## 1584. get up ## verb
 /get/ 
 [B2]to stand up
 - The whole audience got up and started clapping.
@@ -9864,17 +9864,17 @@
 [B2]when one thing or feeling changes to a different one
 - My excitement gave way to fear when I drove a car for the first time.
 
-## 1588. give ## verb [T]
+## 1588. give away sth or give sth away ## verb [T]
 /gɪv/ SECRET
 [B2]to tell people something secret, often without intending to
 - The party was supposed to be a surprise, but Sharon gave it away.
 
-## 1589. give ## verb [T]
+## 1589. give in ## verb [T]
 /gɪv/ ADMIT DEFEAT
 [B2]to accept that you have been defeated and agree to stop competing or fighting
 - You'll never guess the answer - do you give in?
 
-## 1590. give ## verb [T]
+## 1590. give up ## verb [T]
 /gɪv/ 
 [B2]to stop doing an activity or piece of work before you have completed it, usually because it is too difficult
 - I had to give up halfway through the race.
@@ -9926,55 +9926,55 @@
 [B2]If something goes without saying, it is obvious or generally accepted.
 - It goes without saying that smoking is harmful to your health.
 
-## 1600. go ## verb
+## 1600. go ahead ## verb
 /goʊ/ START
 [B2]to start to do something
 - We now have permission to go ahead `with` the project.
 - The vote will go ahead today as planned.
 
-## 1601. go ## verb
+## 1601. go ahead ## verb
 /goʊ/ ALLOW
 [B2]something that you say to someone to allow them to do something
 - Can I borrow your book? - "Yes, go ahead."
 
-## 1602. go ## verb
+## 1602. go by ## verb
 /goʊ/ 
 [B2]If time goes by, it passes.
 - The days went by really slowly.
 
-## 1603. go ## verb
+## 1603. go for sth ## verb
 /goʊ/ CHOOSE
 [B2]to choose something
 - I don't know whether to go for the fish or the steak.
 
-## 1604. go ## verb
+## 1604. go for sth ## verb
 /goʊ/ TRY TO GET
 [B2]to try to get or achieve something
 - He'll be going for his fifth Olympic gold medal.
 - "I'm going to apply for that job." "Yeah, go for it!"
 
-## 1605. go ## verb
+## 1605. go off ## verb
 /goʊ/ MAKE NOISE
 [B2]If something that makes a noise goes off, it suddenly starts making a noise.
 - His car alarm goes off every time it rains.
 
-## 1606. go ## verb
+## 1606. go off ## verb
 /goʊ/ EXPLODE
 [B2]If a bomb or a gun goes off, it explodes or fires.
 - A bomb went off in the parking lot, killing three people.
 
-## 1607. go ## verb
+## 1607. go on ## verb
 /goʊ/ CONTINUE DOING
 [B2]to continue doing something
 - We can't go on living like this.
 - She went on talking as though nothing had happened.
 
-## 1608. go ## verb
+## 1608. go over sth ## verb
 /goʊ/ 
 [B2]to examine something, such as a piece of writing or some numbers, in order to make sure that it is correct
 - I'm just going over these figures one more time.
 
-## 1609. go ## verb
+## 1609. go through sth ## verb
 /goʊ/ 
 [B2]to experience a difficult or unpleasant situation or event
 - She's going through a difficult time at her job.
@@ -10049,7 +10049,7 @@
 [B2]used when you agree/disagree but are not completely certain about something
 - So they're still living in the same house? "I guess so."
 
-## 1623. hand ## verb [T]
+## 1623. hand over sb/sth or hand sb/sth over ## verb [T]
 /hænd/ 
 [B2]to give someone or something to someone else
 - The hijacker was handed over `to` the French police.
@@ -10112,7 +10112,7 @@
 - She heads a thriving software business.
 - Detective Kerry headed the investigation.
 
-## 1634. head ## verb
+## 1634. be heading for sth ## verb
 /hed/ 
 [B2]to be likely to experience a bad situation soon
 - They'll be heading for trouble if they're not careful.
@@ -10123,13 +10123,13 @@
 [B2]If a wound or broken bone heals, it becomes healthy again, and if something heals it, it makes it healthy again.
 - The wound on his head had begun to heal `(up)`.
 
-## 1636. hear ## verb
+## 1636. have heard of sb/sth ## verb
 /hɪr/ 
 [B2]If you have heard of someone or something, you know that that person or thing exists.
 - I'd never heard of him before he won the prize.
 - It's a tiny country that most people have never heard of.
 
-## 1637. heat ## verb
+## 1637. heat up sth or heat sth up ## verb
 /hiːt/ 
 [B2]to make food hot so that it can be eaten
 - I'll just heat up the soup.
@@ -10140,7 +10140,7 @@
 - When you're nervous or scared, it helps to breathe slowly and deeply.
 - The drugs didn't seem to help (the pain).
 
-## 1639. help ## verb [I or T]
+## 1639. help out (sb) or help (sb) out ## verb [I or T]
 /help/ 
 [B2]to help someone, especially by giving them money or working for them
 - Sophia has been helping out in the store this week.
@@ -10179,7 +10179,7 @@
 [B2]to affect something badly
 - The economy has been hit by high unemployment.
 
-## 1646. hit ## verb [T]
+## 1646. hit it off ## verb [T]
 /hɪt/ 
 [B2]If people hit it off, they like each other and become friendly immediately.
 - Carla and Nina didn't really hit it off.
@@ -10214,7 +10214,7 @@
 - I've hunted `high and low``for` my gloves.
 - Police are hunting the terrorists who planted the bomb.
 
-## 1652. hurry ## verb [I or T]
+## 1652. hurry up sb/sth or hurry sb/sth up ## verb [I or T]
 /ˈhɜr.i/ 
 [B2]to make someone do something more quickly, or to make something happen sooner
 - Can't you hurry the kids up so we can get there on time?
@@ -10232,7 +10232,7 @@
 - You need to identify your priorities.
 - The research will be used to identify training needs.
 
-## 1655. identify ## verb [T]
+## 1655. identify with sb/sth ## verb [T]
 /ɑɪˈden.t̬.əˌfɑɪ/ 
 [B2]to feel that you are similar to someone, and can understand them or their situation because of this
 - Readers can easily identify with the hero's sense of frustration at the beginning of the novel.
@@ -10447,39 +10447,39 @@
 [B2]to remember to consider someone or something that may be useful in the future
 - I'll keep you in mind if another job comes up.
 
-## 1695. keep ## verb
+## 1695. keep (sb/sth) away ## verb
 /kiːp/ 
 [B2]to not go somewhere or near something, or to prevent someone from going somewhere or near something
 - I told them to keep away from the edge of the cliff.
 
-## 1696. keep ## verb
+## 1696. keep (sb/sth) back ## verb
 /kiːp/ 
 [B2]to not go near something, or to prevent someone or something from going past a particular place
 - The police struggled to keep the crowd back.
 
-## 1697. keep ## verb
+## 1697. keep down sth or keep sth down ## verb
 /kiːp/ 
 [B2]to stop the number, level, or size of something from increasing
 - I have to exercise to keep my weight down.
 
-## 1698. keep ## verb
+## 1698. keep sth off (sb/sth) ## verb
 /kiːp/ 
 [B2]to stop something touching or harming someone or something
 - He put a cloth over the food to keep the flies off.
 
-## 1699. keep ## verb
+## 1699. keep to sth ## verb
 /kiːp/ 
 [B2]If you keep to a plan/subject/path, etc., you stay with it.
 - We need to keep to the agenda or the meeting will take too long.
 - I wish you'd keep to the point!
 - She kept to the main roads and was home before dark.
 
-## 1700. keep ## verb
+## 1700. keep up (with sb/sth) ## verb
 /kiːp/ SAME SPEED
 [B2]to move at the same speed as someone or something that is moving forward so that you stay level with them
 - She was walking so fast I couldn't keep up with her.
 
-## 1701. keep ## verb
+## 1701. keep up (with sb/sth) ## verb
 /kiːp/ UNDERSTAND
 [B2]to be able to understand or deal with something that is happening or changing very fast
 - It's important to keep up with international news.
@@ -10495,22 +10495,22 @@
 - She knelt `(down)` beside the child.
 - He knelt in front of the altar and prayed.
 
-## 1704. knock ## verb
+## 1704. knock sth down ## verb
 /nɑk/ 
 [B2]to destroy a building or part of a building
 - They've knocked down the old movie theater.
 
-## 1705. knock ## verb
+## 1705. knock sb out ## verb
 /nɑk/ HIT SOMEONE
 [B2]to make someone become unconscious, usually by hitting them on the head
 - He was knocked out halfway through the fight.
 
-## 1706. knock ## verb
+## 1706. knock sb out ## verb
 /nɑk/ DEFEAT IN COMPETITION
 [B2]to defeat a person or team in a competition so they cannot take part any more
 - The Canadian team was knocked out in the semifinal.
 
-## 1707. knock ## verb
+## 1707. knock sth/sb over ## verb
 /nɑk/ 
 [B2]to hit or push something or someone, especially accidentally, so that they fall to the ground or onto their side
 - I knocked a bottle of wine over while I was reaching for a dish.
@@ -10536,7 +10536,7 @@
 [B2]used to say that something could be possible although it does not seem likely
 - It sounds like a nice place to live, but you never know – we may not like it.
 
-## 1712. know ## verb
+## 1712. know of sth/sb ## verb
 /noʊ/ 
 [B2]to have heard of something or someone and have a little information about them
 - I know of a good restaurant near the theater.
@@ -10565,7 +10565,7 @@
 [B2]If an animal lays eggs, it produces them out of its body.
 - The hens have laid a lot of eggs this week.
 
-## 1717. lay ## verb [T]
+## 1717. lay sb off or lay off sb ## verb [T]
 /leɪ/ 
 [B2]to stop employing someone, usually because there is no work for them to do
 - Because of falling orders, the company has been forced to lay off several hundred workers.
@@ -10595,7 +10595,7 @@
 [B2]to live in a particular way
 - She retired to Florida and still leads a busy life.
 
-## 1722. lead ## verb
+## 1722. lead to sth ## verb
 /liːd/ 
 [B2]to cause something to happen or exist
 - Reducing speed limits led to fewer fatal highway accidents.
@@ -10641,7 +10641,7 @@
 [B2]to stop speaking to or annoying someone
 - Leave me alone! I'm trying to work.
 
-## 1729. leave ## verb
+## 1729. leave out sb/sth or leave sb/sth out ## verb
 /liːv/ 
 [B2]to not include someone or something
 - You can leave the butter out of this recipe if you're on a low-fat diet.
@@ -10664,18 +10664,18 @@
 [B2]something that you say when you are offering to help someone
 - Let me carry your suitcase.
 
-## 1733. let ## verb
+## 1733. let sb down or let down sb ## verb
 /let/ 
 [B2]to disappoint someone by failing to do what you agreed to do
 - I promised to go to a movie with Beth and I don't want to let her down.
 
-## 1734. let ## verb
+## 1734. let sb off or let off sb ## verb
 /let/ 
 [B2]to not punish someone who has done something wrong, or to not punish them severely
 - Instead of a prison sentence they were let off `with` a fine.
 - You won't be let off so `lightly` the next time.
 
-## 1735. let ## verb
+## 1735. let out sb/sth or let sb/sth out ## verb
 /let/ 
 [B2]to allow a person or animal to leave a place, especially by opening a locked or closed door
 - I heard a voice from the closet shouting "Let me out!"
@@ -10698,7 +10698,7 @@
 - I've been asked to limit my talk `to` ten minutes.
 - Having so little money to spend on an apartment does limit your choices.
 
-## 1739. line ## verb [T]
+## 1739. line (sb/sth) up or line up (sb/sth) ## verb [T]
 /lɑɪn/ 
 [B2]to arrange people or things in a row or to stand in a row
 - A fight broke out behind me as we lined up to receive our food rations.
@@ -10715,32 +10715,32 @@
 [B2]to make a list, or to include something in a list
 - I've listed some useful reading material on the handout.
 
-## 1742. live ## verb
+## 1742. live for sth/sb ## verb
  
 [B2]to have something or someone as the most important thing in your life
 - She just lives for music.
 
-## 1743. live ## verb
+## 1743. live on sth ## verb
  MONEY
 [B2]If you live on an amount of money, that is the money that you use to buy the things that you need.
 - We lived on very little when we first got married.
 
-## 1744. live ## verb
+## 1744. live on sth ## verb
  FOOD
 [B2]to only eat a particular type of food
 - I more or less live on pasta.
 
-## 1745. live ## verb
+## 1745. live together ## verb
  
 [B2]If two people live together, they share a home.
 - Nowadays many young people live together.
 
-## 1746. live ## verb
+## 1746. live up to sth ## verb
  
 [B2]to be as good as someone hopes
 - Did the trip live up to your `expectations`?
 
-## 1747. live ## verb
+## 1747. live with sb ## verb
  
 [B2]to share a home with someone
 - How do you like living with your parents?
@@ -10763,23 +10763,23 @@
 [B2]to find or discover the exact position of something
 - Archeologists have located the remains of an ancient city.
 
-## 1751. lock ## verb
+## 1751. lock in sb or lock sb in ## verb
 /lɑk/ 
 [B2]to prevent someone from leaving or prevent others from entering a room or building by locking a door
 - She locked herself in her bedroom.
 
-## 1752. lock ## verb
+## 1752. lock out sb or lock sb out ## verb
 /lɑk/ 
 [B2]to prevent someone from entering a room or building by locking a door
 - I can't believe I've locked myself out again!
 - I forgot that my dad didn't have keys, and I locked him out of the house.
 
-## 1753. log ## verb
+## 1753. log on/in ## verb
 /lɔːg/ 
 [B2]to start using a computer or to connect a computer to a system of computers by typing a password and sometimes your name
 - I tried to log on as usual but nothing happened.
 
-## 1754. log ## verb
+## 1754. log off/out ## verb
 /lɔːg/ 
 [B2]to stop using a computer or program or to stop a computer being connected to a computer system
 - We were all asked to log off while some changes were made to the system.
@@ -10796,49 +10796,49 @@
 - The garden looks south.
 - This window looks out on the lake.
 
-## 1757. look ## verb
+## 1757. look at sth ## verb
 /lʊk/ THINK
 [B2]to think about a subject carefully so that you can make a decision about it
 - Management is looking at ways of cutting costs.
 
-## 1758. look ## verb
+## 1758. look at sth ## verb
 /lʊk/ READ
 [B2]to read something in order to check it or form an opinion about it
 - Can you look at my essay sometime?
 
-## 1759. look ## verb
+## 1759. look at sth ## verb
 /lʊk/ EXAMINE
 [B2]If someone, usually an expert, looks at something, they examine it.
 - Did you get the doctor to look at your knee?
 
-## 1760. look ## verb
+## 1760. look back ## verb
 /lʊk/ 
 [B2]to think about something that happened in the past
 - Looking back, I can see where we went wrong.
 - It wasn't such a bad experience when I look back `on` it.
 
-## 1761. look ## verb
+## 1761. look down on sb ## verb
 /lʊk/ 
 [B2]to think that someone is less important than you
 - I always felt she looked down on me because I wasn't as educated as she was.
 
-## 1762. look ## verb
+## 1762. look forward to sth/doing sth ## verb
 /lʊk/ LETTER
 [B2]used at the end of a formal letter to say you hope to hear from or see someone soon, or that you expect something from them
 - I look forward to `hearing from you`.
 
-## 1763. look ## verb
+## 1763. look into sth ## verb
 /lʊk/ 
 [B2]to examine the facts about a situation
 - We're looking into the possibility of merging the two departments.
 
-## 1764. look ## verb
+## 1764. look through sth ## verb
 /lʊk/ 
 [B2]to read something
 - I've looked through a few catalogues.
 - Make sure you look through your work to check for spelling mistakes.
 
-## 1765. look ## verb
+## 1765. look up to sb ## verb
 /lʊk/ 
 [B2]to respect and admire someone
 - She really looks up to her father.
@@ -10909,7 +10909,7 @@
 - A large house costs a lot to maintain.
 - The roads generally are very poorly maintained.
 
-## 1777. major ## verb [I]
+## 1777. major in ## verb [I]
 /ˈmeɪ.dʒər/ 
 [B2]to study something as your main subject in college or a university
 - She majored in earth sciences at Arizona State.
@@ -10972,29 +10972,29 @@
 [B2]to be a good thing to do
 - It makes sense `to` buy now while prices are low.
 
-## 1789. make ## verb [T]
+## 1789. make for sth ## verb [T]
 /meɪk/ 
 [B2]to move toward a place
 - He got up and made for the exit.
 
-## 1790. make ## verb [T]
+## 1790. make sth into sth ## verb [T]
 /meɪk/ 
 [B2]to change something into something else
 - They've made the spare room into an office.
 
-## 1791. make ## verb [T]
+## 1791. make out sth/sb or make sth/sb out ## verb [T]
 /meɪk/ 
 [B2]to be able to see, hear or understand something or someone but with difficulty
 - We could just make out a building through the trees.
 - Could you make out what she was saying?
 
-## 1792. make ## verb [T]
+## 1792. make up sth or make sth up ## verb [T]
 /meɪk/ 
 [B2]to say or write something that is not true
 - I made up an `excuse` about having to look after the kids.
 - My dad was always really good at making up `stories`.
 
-## 1793. make ## verb [T]
+## 1793. make up for sth ## verb [T]
 /meɪk/ 
 [B2]to reduce the bad effect of something, or make something bad become something good
 - No amount of money can make up for the death of a child.
@@ -11046,7 +11046,7 @@
 [B2]used to emphasize the importance of something that you are adding to a list
 - The resort has great hotels and restaurants, not to mention some of the best skiing in the region.
 
-## 1801. mess ## verb
+## 1801. mess up sth or mess sth up ## verb
 /mes/ 
 [B2]to spoil something, or to do something badly
 - Don't try to cook lunch without me - you'll only mess it up.
@@ -11077,7 +11077,7 @@
 - He threw a book at me, but it missed.
 - The bullet missed his heart by a couple of centimeters.
 
-## 1806. miss ## verb
+## 1806. miss out ## verb
 /mɪs/ 
 [B2]to not do or have something that you would enjoy or something that other people do or have
 - I got to the party too late and missed out `on` all the fun.
@@ -11092,7 +11092,7 @@
 [B2]to meet and talk to people
 - She enjoys going to parties and mixing `with` people.
 
-## 1809. mix ## verb
+## 1809. mix up sb/sth or mix sb/sth up ## verb
 /mɪks/ 
 [B2]to confuse two people or things by thinking that one person or thing is the other person or thing
 - People often mix up the sisters because they look so similar.
@@ -11141,7 +11141,7 @@
 - When I suggested a walk, Elena nodded enthusiastically.
 - She looked up and nodded for me to come in.
 
-## 1817. note ## verb [T]
+## 1817. note down sth or note sth down ## verb [T]
 /noʊt/ 
 [B2]to write something so that you do not forget it
 - I noted down their web address.
@@ -11214,7 +11214,7 @@
 - The Olympic Games open tomorrow.
 - The new hospital will be `officially` opened by the mayor on Tuesday.
 
-## 1828. open ## verb
+## 1828. open up (sth) or open (sth) up ## verb
 /ˈoʊ.pən/ 
 [B2]to start a new store or business
 - Several banks have recently opened up branches downtown.
@@ -11284,7 +11284,7 @@
 [B2]to have to give something to someone because they deserve it
 - I think you owe me an explanation/apology.
 
-## 1840. pack ## verb [I or T]
+## 1840. pack up (sth) or pack (sth) up ## verb [I or T]
 /pæk/ 
 [B2]to collect all your things together when you have finished doing something
 - Give me a minute to pack up my things and then we can leave.
@@ -11313,17 +11313,17 @@
 [B2]to officially approve of something and make it into a law or rule
 - The state assembly passed a law restricting the sale of guns.
 
-## 1845. pass ## verb
+## 1845. pass around sth or pass sth around ## verb
 /pæs/ 
 [B2]to offer something to each person in a group of people
 - Would you pass the sandwiches around?
 
-## 1846. pass ## verb
+## 1846. pass away ## verb
 /pæs/ 
 [B2]to die
 - She passed away peacefully in her sleep.
 
-## 1847. pass ## verb
+## 1847. pass out ## verb
 /pæs/ 
 [B2]to become unconscious
 - I passed out from the heat.
@@ -11338,12 +11338,12 @@
 [B2]to visit a person or place, usually for a short time
 - We thought we'd pay Sam a visit while we're in Atlanta.
 
-## 1850. pay ## verb
+## 1850. pay off sth or pay sth off ## verb
 /peɪ/ 
 [B2]to pay all of the money that you owe
 - I've paid off the loan.
 
-## 1851. pay ## verb
+## 1851. pay off ## verb
 /peɪ/ 
 [B2]If something that you have done to try to achieve something pays off, it is successful.
 - All your hard work has obviously paid off!
@@ -11372,17 +11372,17 @@
 - I prefer photographing people rather than places.
 - MacKay was photographed leaving the building.
 
-## 1856. pick ## verb [T]
+## 1856. pick on sb ## verb [T]
 /pɪk/ 
 [B2]to choose a person and criticize or treat them unfairly
 - The other boys pick on him because he's so small.
 
-## 1857. pick ## verb [T]
+## 1857. pick up sth or pick sth up ## verb [T]
 /pɪk/ 
 [B2]to learn a new skill or language by practicing it rather than being taught it
 - When you live in a country you soon pick up the language.
 
-## 1858. pile ## verb
+## 1858. pile up ## verb
 /pɑɪl/ 
 [B2]If something unpleasant piles up, you get more and more of it.
 - My work's really starting to pile up.
@@ -11408,12 +11408,12 @@
 [B2]to be one of the people or things that are involved in an event or situation
 - Alcohol plays a part in around 60% of violent crime.
 
-## 1863. plug ## verb
+## 1863. plug sth in ## verb
 /plʌg/ 
 [B2]to connect a piece of electrical equipment to an electricity supply or to another piece of equipment
 - Could you plug the iron in for me?
 
-## 1864. point ## verb
+## 1864. point out sth or point sth out ## verb
 /pɔɪnt/ 
 [B2]to tell someone about some information, often because they do not know it or have forgotten it
 - He was planning a rock-climbing trip, till I pointed out `that` Carla is afraid of heights.
@@ -11446,7 +11446,7 @@
 [B2]to flow quickly and in large amounts
 - Blood was pouring from my leg.
 
-## 1870. pour ## phrasal verb
+## 1870. pour sth out or pour out sth ## phrasal verb
 /pɔːr/ 
 [B2]If you pour out your feelings or thoughts, you talk very honestly about what is making you sad.
 - She listened quietly while he poured out his troubles.
@@ -11573,27 +11573,27 @@
 [B2]to take hold of something and use effort to move your body forward or up
 - She pulled herself up the stairs, holding onto the rail.
 
-## 1892. pull ## verb
+## 1892. pull down sth or pull sth down ## verb
 /pʊl/ 
 [B2]to destroy a building
 - They pulled down the warehouse to build a new supermarket.
 
-## 1893. pull ## verb
+## 1893. pull in/into sth ## verb
 /pʊl/ 
 [B2]If a vehicle pulls in or pulls into somewhere, it moves in that direction and stops there.
 - They just pulled into the driveway.
 
-## 1894. pull ## verb
+## 1894. pull out ## verb
 /pʊl/ 
 [B2]If a vehicle pulls out, it starts moving onto a road or onto a different part of the road.
 - That car pulled out right in front of me.
 
-## 1895. pull ## verb
+## 1895. pull over ## verb
 /pʊl/ 
 [B2]If a vehicle pulls over, it moves to the side of the road and stops.
 - I was looking for somewhere to pull over so I could look at the map.
 
-## 1896. pull ## verb
+## 1896. pull up ## verb
 /pʊl/ 
 [B2]If a vehicle pulls up, it stops, often for a short time.
 - A car pulled up outside the bank and two men got out.
@@ -11639,34 +11639,34 @@
 [B2]to try to force someone to do something
 - They're putting pressure on me to make a decision.
 
-## 1904. put ## verb [T]
+## 1904. put down sb or put sb down ## verb [T]
 /pʊt/ 
 [B2]to write someone's name on a list or document, usually in order to arrange for them to do something
 - I've put you down `for` the trip to Rome next week.
 
-## 1905. put ## verb [T]
+## 1905. put off sb or put sb off (sb/sth/doing sth) ## verb [T]
 /pʊt/ 
 [B2]to make someone dislike something or someone, or to discourage someone from doing something
 - I didn't enjoy the movie but don't let that put you off.
 - I was put off `by` his aggressive attitude.
 
-## 1906. put ## verb [T]
+## 1906. put sth together or put together sth ## verb [T]
 /pʊt/ JOIN PARTS
 [B2]to put the parts of something in the correct place and join them to each other
 - You buy the bookcase in pieces and then put it together yourself.
 
-## 1907. put ## verb [T]
+## 1907. put up sth or put sth up ## verb [T]
 /pʊt/ BUILD
 [B2]to build something
 - They're planning to put a hotel up where the museum used to be.
 - We're going to put up a new fence around our garden.
 
-## 1908. put ## verb [T]
+## 1908. put up sb or put sb up ## verb [T]
 /pʊt/ 
 [B2]to let someone stay in your home for a short period
 - If you need somewhere to stay we can put you up `for` the night.
 
-## 1909. put ## verb [T]
+## 1909. put up with sth/sb ## verb [T]
 /pʊt/ 
 [B2]to accept unpleasant behavior or an unpleasant situation, although you do not like it
 - I can put up with the house being messy, but I hate it if it's not clean.
@@ -11774,12 +11774,12 @@
 - He reacted angrily `to` her comments.
 - How did she react when she heard the news?
 
-## 1927. read ## verb [I or T]
+## 1927. read out sth or read sth out ## verb [I or T]
 /riːd/ 
 [B2]to read something and say the words aloud so that other people can hear
 - He read out the names of all the winners.
 
-## 1928. read ## verb [I or T]
+## 1928. read over/through sth or read sth over/through ## verb [I or T]
 /riːd/ 
 [B2]to read something from the beginning to the end, especially to find mistakes
 - I read over my essay to check for errors.
@@ -11831,7 +11831,7 @@
 [B2]If a system or situation recovers, it returns to the way it was before something bad happened.
 - The economy recovered quickly after the election.
 
-## 1937. refer ## verb
+## 1937. refer to sb/sth ## verb
 /rəˈfɜr/ 
 [B2]to talk or write about someone or something, especially briefly
 - I don’t know which of his sisters he was referring to.
@@ -11901,13 +11901,13 @@
 [B2]to make a record or film available for people to buy or see
 - The band's latest album will be released next week.
 
-## 1949. rely ## verb
+## 1949. rely on sb/sth ## verb
 /rəˈlɑɪ/ NEED
 [B2]to need someone or something in order to be successful, work correctly, etc.
 - The system relies too heavily on one person.
 - The success of this project relies on everyone making an effort.
 
-## 1950. rely ## verb
+## 1950. rely on sb/sth ## verb
 /rəˈlɑɪ/ TRUST
 [B2]to trust someone or something
 - I know I can rely on you to help me.
@@ -12036,7 +12036,7 @@
 - The badly neglected paintings have all been carefully restored.
 - He restores antique furniture.
 
-## 1972. result ## verb
+## 1972. result in sth ## verb
 /rɪˈzʌlt/ 
 [B2]to cause a particular situation to happen
 - The fire resulted in damage to their property.
@@ -12178,28 +12178,28 @@
 [B2]If you run a computer program, you use it on your computer.
 - Did you run a virus check this morning?
 
-## 1996. run ## verb
+## 1996. run away ## verb
 /rʌn/ 
 [B2]to secretly leave a place because you are unhappy there
 - She ran away `from` home at the age of 13.
 
-## 1997. run ## verb
+## 1997. run into sth ## verb
 /rʌn/ 
 [B2]to accidentally hit something while you are driving a vehicle
 - He lost control of the car and ran into a tree.
 
-## 1998. run ## verb
+## 1998. run into sb ## verb
 /rʌn/ 
 [B2]to meet someone that you know when you did not expect to meet them
 - I ran into Harry on the train.
 
-## 1999. run ## verb
+## 1999. run out ## verb
 /rʌn/ ALL USED
 [B2]If a supply of something runs out, all of it has been used or it is completely finished.
 - We've run out of milk.
 - My patience is beginning to run out.
 
-## 2000. run ## verb
+## 2000. run over sb/sth or run sb/sth over ## verb
 /rʌn/ 
 [B2]to hit someone or something with a vehicle and drive over them, injuring or killing them
 - He was run over by a bus.
@@ -12289,17 +12289,17 @@
 - As I see `it/things/the situation`, we'll have to get extra help.
 - "Do you think there’ll be time to stop for lunch?" "`We’ll `see .
 
-## 2015. see ## verb
+## 2015. see off sb or see sb off ## verb
 /siː/ 
 [B2]to go to the place that someone is leaving from in order to say goodbye
 - They came to see me off at the airport.
 
-## 2016. see ## verb
+## 2016. see through sb/sth ## verb
 /siː/ 
 [B2]to understand that someone is trying to deceive you
 - It didn't take long for us to see through his charm.
 
-## 2017. see ## verb
+## 2017. see to sth/sb ## verb
 /siː/ 
 [B2]to deal with a person or task that needs to be dealt with
 - These letters need to be mailed. "I'll see to them later."
@@ -12334,7 +12334,7 @@
 [B2]to be bought in large numbers
 - His last book sold eight million copies.
 
-## 2023. sell ## verb
+## 2023. sell out ## verb
 /sel/ 
 [B2]If a supply of something sells out, or if it is sold out, there is no more of that thing to buy.
 - The first issue of the magazine sold out within two days.
@@ -12347,7 +12347,7 @@
 - Who can afford to send their kids `to` college these days?
 - He was trying to explain but she became impatient and sent him away.
 
-## 2025. send ## verb [T]
+## 2025. send off sth or send sth off ## verb [T]
 /send/ 
 [B2]to send a letter, document or parcel by mail
 - Have you sent off your application yet?
@@ -12415,18 +12415,18 @@
 [B2]to establish the best achievement so far in a sport or competition
 - Bolt has set a new world `record`.
 
-## 2036. set ## verb
+## 2036. set sth aside or set aside sth ## verb
 /set/ 
 [B2]to save something, usually money, for a particular purpose
 - She sets aside $100 every month to save for vacation.
 
-## 2037. set ## verb
+## 2037. set out sth or set sth out ## verb
 /set/ 
 [B2]to give all the details of something, or to explain something clearly, especially in writing
 - All the project costs are set out in this proposal.
 - She gave a presentation setting out the company's future plans.
 
-## 2038. set ## verb
+## 2038. set up sth or set sth up ## verb
 /set/ EVENT/ACTIVITY
 [B2]to arrange for an event or activity to happen
 - We need to set up a meeting to discuss the proposals.
@@ -12453,7 +12453,7 @@
 - I'd like to get this matter settled `once and for all`.
 - The details of the contract have not yet been settled.
 
-## 2042. settle ## verb
+## 2042. settle down ## verb
 /ˈset̬.əl/ FEEL COMFORTABLE
 [B2]to become familiar with a place and to feel happy and confident in it
 - She quickly settled down `in` her new house/job/school.
@@ -12513,7 +12513,7 @@
 - I do not know how to show my thanks for all your help.
 - You should show your parents more respect/show more respect `to` your parents.
 
-## 2051. show ## verb
+## 2051. show off ## verb
 /ʃoʊ/ 
 [B2]to try to make people admire your abilities or achievements in a way which other people find annoying
 - She only bought that sports car to show off and prove she could afford one.
@@ -12531,12 +12531,12 @@
 - Your sweater will shrink if you wash it at too high a temperature.
 - The company's profits have shrunk `from` £5.5 million `to` £1.25 million.
 
-## 2054. shut ## verb [I or T]
+## 2054. shut (sth) down or shut down (sth) ## verb [I or T]
 /ʃʌt/ 
 [B2]If a business or organization shuts down or someone shuts it down, it closes.
 - The company plans to shut down four assembly plants and cut 10,000 jobs.
 
-## 2055. shut ## verb [I or T]
+## 2055. shut (sb) up ## verb [I or T]
 /ʃʌt/ 
 [B2]to stop talking or making a noise, or to make someone do this
 - I wish you'd shut up for a minute and listen to what the rest of us have to say.
@@ -12593,13 +12593,13 @@
 - He slid the letter into his pocket.
 - We've got one of those doors in the kitchen that slides open.
 
-## 2064. slow ## verb [I or T]
+## 2064. slow (sb/sth) down or slow down (sb/sth) ## verb [I or T]
 /sloʊ/ 
 [B2]to become slower, or to make someone or something become slower
 - Slow down, you two, you're walking too fast!
 - If I run with Christina she tends to slow me down.
 
-## 2065. slow ## verb [I or T]
+## 2065. slow down ## verb [I or T]
 /sloʊ/ 
 [B2]If someone slows down, they become less active.
 - The doctor told me I should slow down and not work so hard.
@@ -12632,7 +12632,7 @@
 - Soak the bread in the milk.
 - He left the pan in the sink to soak.
 
-## 2071. soak ## phrasal verb
+## 2071. soak up sth or soak sth up ## phrasal verb
 /soʊk/ 
 [B2]to enjoy the effects of an experience
 - We arrived early at the festival to soak up the atmosphere.
@@ -12656,13 +12656,13 @@
 - I'm going to sort these books `into` ones to keep and ones to give away.
 - You can use the computer to sort the newspaper articles alphabetically, `by` date, or `by` subject.
 
-## 2075. sort ## verb [T]
+## 2075. sort out sth or sort sth out ## verb [T]
 /sɔːrt/ SOLVE PROBLEM
 [B2]to successfully deal with something, such as a problem or difficult situation
 - Did you get your schedule sorted out yet?
 - There are a few things I need to sort out at work.
 
-## 2076. sort ## verb [T]
+## 2076. sort out sth or sort sth out ## verb [T]
 /sɔːrt/ ORGANIZE
 [B2]to organize or arrange things that are not neat
 - I need to sort out my closet.
@@ -12683,7 +12683,7 @@
 [B2]to deliver a formal talk to a group of people about a particular subject
 - She was invited to speak at a conference in Madrid.
 
-## 2080. speak ## verb
+## 2080. speak up ## verb
 /spiːk/ 
 [B2]to speak in a louder voice so that people can hear you
 - Could you speak up? We can't hear at the back.
@@ -12763,7 +12763,7 @@
 - The suburbs spread for miles in every direction.
 - Our offices are spread (out) over a very wide area.
 
-## 2092. spread ## verb
+## 2092. spread out ## verb
 /spred/ 
 [B2]If people spread out, they move from being close together in a group to being in different places across a larger area.
 - They spread out to search the whole area.
@@ -12785,7 +12785,7 @@
 - Cut the lemon in half and squeeze the juice into the bowl.
 - The baby loves that doll because it laughs when you squeeze it.
 
-## 2096. squeeze ## verb [T]
+## 2096. squeeze (sb/sth) in/squeeze (sb/sth) into sth ## verb [T]
 /skwiːz/ 
 [B2]to succeed in getting someone or something into a small space or object, often by pushing or forcing
 - We have four people in our car, but we could squeeze one more person in the back.
@@ -12810,42 +12810,42 @@
 - You'll have to stand the sofa on its end to get it through the door.
 - The room was empty except for a lamp standing in one corner.
 
-## 2100. stand ## verb
+## 2100. stand back ## verb
 /stænd/ 
 [B2]to move a short distance away from something or someone
 - Please stand back - then all of you will be able to see what I'm doing.
 
-## 2101. stand ## verb
+## 2101. stand by sb ## verb
 /stænd/ 
 [B2]to support or be loyal to someone
 - The boy’s friends stood by him, firmly convinced of his innocence.
 
-## 2102. stand ## verb
+## 2102. stand for sth ## verb
 /stænd/ REPRESENT
 [B2]to support or represent a particular idea or set of ideas
 - This party stands for low taxes and individual freedom.
 
-## 2103. stand ## verb
+## 2103. stand for sth ## verb
 /stænd/ LETTERS
 [B2]If one or more letters stand for a word or name, they are the first letter or letters of that word or name and they represent it
 - GMT stands for Greenwich Mean Time.
 
-## 2104. stand ## verb
+## 2104. stand out ## verb
 /stænd/ BE BETTER
 [B2]to be much better than other similar things or people
 - One candidate stood out `from` the rest.
 
-## 2105. stand ## verb
+## 2105. stand out ## verb
 /stænd/ EASY TO SEE
 [B2]to be easy to see or notice
 - The bright blue letters really stand out on the page.
 
-## 2106. stand ## verb
+## 2106. stand up sb or stand sb up ## verb
 /stænd/ 
 [B2]to fail to meet someone you have arranged to see
 - I was starting to think I'd been stood up when he finally arrived.
 
-## 2107. stand ## verb
+## 2107. stand up for sth/sb ## verb
 /stænd/ 
 [B2]to defend or support a particular idea or a person who is being criticized or attacked
 - It's high time we all stood up for our rights around here.
@@ -12881,17 +12881,17 @@
 - His will states `(that)` the property is to be sold.
 - Please state `why` you are applying for this grant.
 
-## 2113. stay ## verb [I]
+## 2113. stay out ## verb [I]
 /steɪ/ 
 [B2]to not come home at night, or to go home late
 - My folks don't let me stay out `late`.
 
-## 2114. stay ## verb [I]
+## 2114. stay over ## verb [I]
 /steɪ/ 
 [B2]to spend the night somewhere instead of returning to your home or continuing your journey
 - Why don't you stay over and drive back in the morning?
 
-## 2115. stay ## verb [I]
+## 2115. stay up ## verb [I]
 /steɪ/ 
 [B2]to go to bed later than usual
 - We stayed up `(late)` to watch a movie on TV.
@@ -12907,25 +12907,25 @@
 [B2]If something sharp sticks into something, it goes into it, and if you stick something sharp somewhere, you push it into something.
 - The nurse stuck the needle into his arm.
 
-## 2118. stick ## verb
+## 2118. stick out ## verb
 /stɪk/ 
 [B2]to go past the surface or edge of something
 - Ryan's ears stick out a little, don't they!
 - There was a handkerchief sticking out of his jacket pocket.
 
-## 2119. stick ## verb
+## 2119. stick to sth ## verb
 /stɪk/ 
 [B2]to limit yourself to doing or using one particular thing and not change to anything else
 - Could you stick to the point, please?
 - Stick to the trail - you don't want to get lost.
 - I have trouble sticking to a budget.
 
-## 2120. stick ## verb
+## 2120. stick together ## verb
 /stɪk/ 
 [B2]If people stick together, they support and help each other.
 - If we all stick together, we can succeed.
 
-## 2121. stick ## verb
+## 2121. stick with sth/sb ## verb
 /stɪk/ 
 [B2]to continue doing something or using someone to do work for you, and not stopping or changing to something or someone else
 - He said that he was going to stick with the traditions established by his grandfather.
@@ -12942,7 +12942,7 @@
 - The film was intended to stimulate and entertain.
 - Good teachers should ask questions that stimulate students `to` think.
 
-## 2124. stop ## verb
+## 2124. stop over ## verb
 /stɑp/ 
 [B2]to stop somewhere for a short period of time when you are on a long journey
 - We stopped over in Los Angeles for two nights on the way to New Zealand.
@@ -13087,7 +13087,7 @@
 - You should wear more red - it suits you.
 - That new hairstyle really suits you – you look terrific.
 
-## 2148. sum ## verb
+## 2148. sum up (sth/sb) or sum (sth/sb) up ## verb
 /sʌm/ 
 [B2]to describe briefly the most important facts or characteristics of something
 - The oral report should sum up the main points of the written essay.
@@ -13312,61 +13312,61 @@
 [B2]to do something instead of someone else
 - If I can't make it to the theater that night you can take my place.
 
-## 2188. take ## verb [T]
+## 2188. take after sb ## verb [T]
 /teɪk/ 
 [B2]to be similar to an older member of your family
 - Peter's very tall - he takes after his father.
 
-## 2189. take ## verb [T]
+## 2189. take sb around (sth/swh) ## verb [T]
 /teɪk/ 
 [B2]to walk through a building or visit a place with someone, showing them the most interesting or important parts
 - A guide took us around the museum.
 
-## 2190. take ## verb [T]
+## 2190. take away sth or take sth away ## verb [T]
 /teɪk/ REMOVE
 [B2]to remove something
 - A waiter came to take our plates away.
 - Supermarkets are taking business away `from` small local stores.
 
-## 2191. take ## verb [T]
+## 2191. take down sth or take sth down ## verb [T]
 /teɪk/ 
 [B2]to remove something that is on a wall or something that is temporary
 - I've taken the pictures down.
 - We were taking the tent down.
 
-## 2192. take ## verb [T]
+## 2192. be taken in ## verb [T]
 /teɪk/ 
 [B2]to be deceived by someone
 - He told her a pack of lies and she was completely taken in by him.
 
-## 2193. take ## verb [T]
+## 2193. take off sth or take sth off ## verb [T]
 /teɪk/ NOT WORK
 [B2]to spend time away from your work
 - He took off two weeks in September.
 
-## 2194. take ## verb [T]
+## 2194. take off ## verb [T]
 /teɪk/ SUCCEED
 [B2]to suddenly start to be successful or popular
 - Her singing career had just begun to take off.
 
-## 2195. take ## verb [T]
+## 2195. take on sb or take sb on ## verb [T]
 /teɪk/ 
 [B2]to employ someone
 - She was taken on `as` a laboratory assistant.
 
-## 2196. take ## verb [T]
+## 2196. take out sth or take sth out ## verb [T]
 /teɪk/ MONEY
 [B2]to get money from a bank
 - I took out $50 for the weekend.
 
-## 2197. take ## verb [T]
+## 2197. take over (sth) or take (sth) over ## verb [T]
 /teɪk/ 
 [B2]to start doing a job or being responsible for something that another person did or had responsibility for before
 - He took over `from` the previous principal in February.
 - She took over `as` manager two weeks ago.
 - Colin Lamb has taken over responsibility for this project.
 
-## 2198. take ## verb [T]
+## 2198. take up sth or take sth up ## verb [T]
 /teɪk/ FILL
 [B2]to fill an amount of space or time
 - This desk takes up too much room.
@@ -13382,12 +13382,12 @@
 [B2]to give a lecture on a subject
 - The next speaker will be talking about endangered insects.
 
-## 2201. talk ## verb [I]
+## 2201. talk sb into sth/doing sth ## verb [I]
 /tɔːk/ 
 [B2]to persuade someone to do something
 - She's managed to talk me into doing a ten-mile run on the weekend.
 
-## 2202. talk ## verb [I]
+## 2202. talk over sth or talk sth over ## verb [I]
 /tɔːk/ 
 [B2]to discuss something with someone, often to find out their opinion or to get advice before making a decision
 - I'm going to talk it over with Marty before I do anything about it.
@@ -13414,7 +13414,7 @@
 [B2]If something tells you something, it gives you information.
 - What does the survey tell us `about` the lives of teenagers?
 
-## 2207. tell ## verb
+## 2207. tell off sb or tell sb off ## verb
 /tel/ 
 [B2]to speak angrily to someone because they have done something wrong
 - The teacher told me off `for` swearing.
@@ -13451,12 +13451,12 @@
 [B2]to consider a person's needs or wishes
 - She's always thinking `of` others.
 
-## 2214. think ## verb
+## 2214. think over sth or think sth over ## verb
 /θɪŋk/ 
 [B2]to consider an idea or plan carefully before making a decision
 - I'll think it over and give you an answer next week.
 
-## 2215. think ## verb
+## 2215. think through sth or think sth through ## verb
 /θɪŋk/ 
 [B2]to carefully consider the possible results of doing something
 - He'd put the plan into action without thinking it through.
@@ -13467,18 +13467,18 @@
 - He threatened the staff `with` a gun and demanded money.
 - He threatened `to` report her to the police.
 
-## 2217. throw ## verb [I or T]
+## 2217. throw out sb or throw sb out ## verb [I or T]
 /θroʊ/ 
 [B2]to force someone to leave
 - He was thrown out of school for taking drugs.
 
-## 2218. throw ## verb [I or T]
+## 2218. throw up (sth) or throw (sth) up ## verb [I or T]
 /θroʊ/ 
 [B2]to vomit
 - I spent the night throwing up.
 - He threw up his breakfast all over the back seat of the car.
 
-## 2219. tie ## verb
+## 2219. tie up sb/sth or tie sb/sth up ## verb
 /tɑɪ/ 
 [B2]to tie a part of someone's body with a rope or something similar so that they cannot get away
 - The two members of staff were tied up during the robbery.
@@ -13601,7 +13601,7 @@
 - She nearly tripped `on` the rug.
 - He injured his ankle when he tripped `over` a water sprinkler while jogging.
 
-## 2239. try ## verb
+## 2239. try out sth or try sth out ## verb
 /trɑɪ/ 
 [B2]to use something to discover if it works or if you like it
 - Why don't you try out your new racket?
@@ -13623,41 +13623,41 @@
 - When I refused to pay, he turned nasty.
 - She turned pale and started to shiver.
 
-## 2242. turn ## verb
+## 2242. turn (sth) back ## verb
 /tɜrn/ 
 [B2]to return in the direction you have come from, or to make someone do this
 - They had to turn back because of the bad weather.
 
-## 2243. turn ## verb
+## 2243. turn down sb/sth or turn sb/sth down ## verb
 /tɜrn/ 
 [B2]to refuse an offer or request
 - He offered her a trip to Australia but she turned it/him down.
 - He turned down the job because it involved too much traveling.
 
-## 2244. turn ## verb
+## 2244. turn out ## verb
 /tɜrn/ HAPPEN
 [B2]to happen in a particular way or to have a particular result, especially an unexpected one
 - The bomb warning turned out `to be` a false alarm.
 - How did the recipe turn out?
 
-## 2245. turn ## verb
+## 2245. turn out ## verb
 /tɜrn/ BE DISCOVERED
 [B2]to be known or discovered finally and surprisingly
 - `It` turned out `that` we'd been to the same school.
 
-## 2246. turn ## verb
+## 2246. turn out ## verb
 /tɜrn/ GO
 [B2]If people turn out for an event, they go there.
 - Thousands of people turned out to welcome the team home.
 - Over 800 people turned out `for` the protest.
 
-## 2247. turn ## verb
+## 2247. turn to sb/sth ## verb
 /tɜrn/ 
 [B2]to ask a person or organization for help or support
 - Eventually she turned to her aunt `for` help.
 - Her family lived a long way away, and she had `no one to` turn to.
 
-## 2248. turn ## verb
+## 2248. turn up (somewhere) ## verb
 /tɜrn/ 
 [B2]to arrive or appear somewhere
 - Do you think many people will turn up?
@@ -13719,7 +13719,7 @@
 [B2]to say or write a particular word or phrase
 - Autumn is used in British English, but "fall" is the usual word in American English.
 
-## 2259. use ## verb [T]
+## 2259. use up sth or use sth up ## verb [T]
  
 [B2]to finish a supply of something
 - Don't use up all the milk - we need some for breakfast.
@@ -13770,7 +13770,7 @@
 - Watch `(that)` you don't get glue on your fingers.
 - Watch `what` you're doing with that knife, Jim, it's sharp.
 
-## 2267. watch ## verb
+## 2267. watch out ## verb
 /wɑtʃ/ 
 [B2]to be careful
 - Watch out! he shouted, but it was too late - she had knocked over the lamp.
@@ -13785,12 +13785,12 @@
 [B2]to arrange or grow your hair in a particular way
 - She usually wears her hair in a ponytail.
 
-## 2270. wear ## verb [T]
+## 2270. wear off ## verb [T]
 /wer/ 
 [B2]If a feeling or effect wears off, it gradually disappears.
 - The injection the dentist gave me is starting to wear off.
 
-## 2271. wear ## verb [T]
+## 2271. wear sb out or wear out sb ## verb [T]
 /wer/ 
 [B2]to make someone extremely tired
 - Standing up all day is wearing me out.
@@ -13875,22 +13875,22 @@
 [B2]to see something happen, especially an accident or crime
 - Did anyone witness the attack?
 
-## 2286. work ## verb
+## 2286. work at sth ## verb
 /wɜrk/ 
 [B2]to try hard to achieve something
 - You need to work at improving your writing.
 
-## 2287. work ## verb
+## 2287. work on sth ## verb
 /wɜrk/ 
 [B2]to spend time repairing or improving something
 - Tim loves working on old cars.
 
-## 2288. work ## verb
+## 2288. work sth out or work out sth ## verb
 /wɜrk/ 
 [B2]to do a calculation to get an answer to a mathematical question
 - We need to work out the total cost of the project.
 
-## 2289. work ## verb
+## 2289. work out ## verb
 /wɜrk/ BECOME BETTER
 [B2]If a problem or a complicated situation works out, it ends in a successful way.
 - We were worried that the event would be disorganized, but it all worked out in the end.
@@ -13950,7 +13950,7 @@
 - I feel like I didn't accomplish anything today.
 - She accomplished what she'd set out to do.
 
-## 2300. account ## verb
+## 2300. account for sth ## verb
 /əˈkɑʊnt/ FORM PART OF
 [C1]to form part of a total amount or number of something
 - Senior citizens account for more than 25 percent `of` the state's population.
@@ -14093,7 +14093,7 @@
 [C1]to be officially allowed to do something
 - Only managers are authorized to sign expense forms.
 
-## 2327. back ## verb
+## 2327. back out ## verb
 /bæk/ 
 [C1]to decide not to do something you had planned or agreed to do
 - Frank backed out at the last minute, so we had a spare ticket.
@@ -14162,7 +14162,7 @@
 [C1]to move somewhere in a happy and energetic way
 - Sarah bounced into the room with a big smile on her face.
 
-## 2340. bounce ## verb
+## 2340. bounce back ## verb
 /bɑʊns/ SUCCESSFUL AGAIN
 [C1]to start to be successful again after a difficult period
 - Stock prices bounced back after a steep plunge earlier this week.
@@ -14195,7 +14195,7 @@
 - Jackie brushed the hair out of her eyes.
 - He brushed away a tear.
 
-## 2346. brush ## verb
+## 2346. brush up (on) sth ## verb
 /brʌʃ/ 
 [C1]to improve your knowledge of something already learned but partly forgotten
 - I thought I'd brush up on my French before going to Paris.
@@ -14205,7 +14205,7 @@
 [C1]to be full of a positive emotion or quality
 - The children were bubbling over with excitement.
 
-## 2348. build ## verb [I or T]
+## 2348. build (sth) up or build up (sth) ## verb [I or T]
 /bɪld/ 
 [C1]to increase or develop, or to make something increase or develop
 - This will help to build up his confidence.
@@ -14217,7 +14217,7 @@
 - He was bullied at school by some older boys.
 - She was bullied into leaving.
 
-## 2350. bump ## verb
+## 2350. bump into sb ## verb
 /bʌmp/ 
 [C1]to meet someone you know when you have not expected to meet them
 - I bumped into Mark when I was out shopping this afternoon.
@@ -14227,12 +14227,12 @@
 [C1]to arrange for a meeting to happen
 - The chairman has called an emergency meeting.
 
-## 2352. call ## verb
+## 2352. call off sth or call sth off ## verb
 /kɔːl/ STOP
 [C1]to decide to stop an activity
 - Police have called off the search.
 
-## 2353. call ## verb
+## 2353. call on sb to do sth ## verb
 /kɔːl/ 
 [C1]to ask someone in a formal way to do something
 - He called on the rebels to stop fighting.
@@ -14267,12 +14267,12 @@
 [C1]to rest for a short time until you can breathe regularly again
 - Let's stop here and catch our breath.
 
-## 2360. catch ## verb
+## 2360. catch on ## verb
 /kætʃ/ BECOME POPULAR
 [C1]to become popular
 - I wonder if the game will catch on `with` young people?
 
-## 2361. catch ## verb
+## 2361. catch up (sb) or catch (sb) up ## verb
 /kætʃ/ BE AS GOOD AS
 [C1]to reach the same level or quality as someone or something else
 - She's doing extra work to catch up `with` the rest of the class.
@@ -14282,23 +14282,23 @@
 [C1]to provide and often serve food and drinks for a particular event
 - We hired a local chef to cater our parents' anniversary party.
 
-## 2363. cater ## verb [I or T]
+## 2363. cater to sb/sth ## verb [I or T]
 /ˈkeɪt̬.ər/ 
 [C1]to provide what is wanted or needed by a particular group of people
 - Our magazines cater to professionals such as lawyers and physicians.
 - This legislation simply caters to a small minority and shouldn't be passed.
 
-## 2364. check ## verb
+## 2364. check (up) on sth ## verb
 /tʃek/ 
 [C1]to try to discover how something is progressing or whether someone is doing what they should be doing
 - My boss is always checking up on me.
 
-## 2365. check ## verb
+## 2365. check sth out or check out sth ## verb
 /tʃek/ INFORMATION
 [C1]to examine something or get more information about it in order to be certain that it is true, safe, or suitable
 - We'll need to check out his story.
 
-## 2366. check ## verb
+## 2366. check sth out or check out sth ## verb
 /tʃek/ GO TO SEE
 [C1]to go to a place in order to see what it is like
 - Let's check out that new dance club.
@@ -14319,24 +14319,24 @@
 - A third of the population has been classified `as` poor.
 - The books are classified `by` subject.
 
-## 2370. clean ## verb [T]
+## 2370. clean up (sth) or clean (sth) up ## verb [T]
 /kliːn/ MAKE CLEAN
 [C1]to make something clean and neat
 - You need to clean up your room.
 - We'll clean this mess up before we leave.
 - I have to clean up before the guests arrive.
 
-## 2371. clean ## verb [T]
+## 2371. clean up (sth) or clean (sth) up ## verb [T]
 /kliːn/ REMOVE POLLUTION
 [C1]to remove pollution from somewhere
 - They are developing processes to clean up polluted rivers.
 
-## 2372. clear ## verb [T]
+## 2372. clear sth away or clear away sth ## verb [T]
 /klɪr/ 
 [C1]to make a place neat by removing things from it, or putting them where they should be
 - We need to clear away these tree branches that were knocked down in the storm
 
-## 2373. close ## verb
+## 2373. close off sth or close sth off ## verb
  
 [C1]to put something across the entrance to a place in order to keep people from entering it
 - Police quickly closed off the area.
@@ -14371,67 +14371,67 @@
 [C1]used to ask why or how something has happened
 - How come you didn't go to the party?
 
-## 2380. come ## verb [I]
+## 2380. come across ## verb [I]
 /kʌm/ SEEM
 [C1]to seem to be a particular type of person or thing
 - He came across `as` shy.
 - Her confident manner can sometimes come across as arrogance.
 - All these promises just come across as a meaningless political stunt.
 
-## 2381. come ## verb [I]
+## 2381. come around ## verb [I]
 /kʌm/ BECOME CONSCIOUS
 [C1]to become conscious again after an accident or medical operation
 - When he came around, he couldn't remember what had happened.
 
-## 2382. come ## verb [I]
+## 2382. come off ## verb [I]
 /kʌm/ 
 [C1]to happen successfully
 - His attempt to impress us all didn't quite come off.
 
-## 2383. come ## verb [I]
+## 2383. come on ## verb [I]
 /kʌm/ START
 [C1]to start to happen or work
 - The heat comes on at six in the morning.
 - I feel like I've got a cold coming on.
 
-## 2384. come ## verb [I]
+## 2384. come over ## verb [I]
 /kʌm/ MOVE TOWARD
 [C1]to come to a place, move from one place to another, or move towards someone
 - Come over here and I'll do your hair for you.
 - Are your family coming over `from` Greece for the wedding?
 
-## 2385. come ## verb [I]
+## 2385. come over sb ## verb [I]
 /kʌm/ 
 [C1]If a feeling comes over you, you suddenly experience it.
 - I don't usually get so angry. I don't know what came over me.
 
-## 2386. come ## verb [I]
+## 2386. come under sth ## verb [I]
 /kʌm/ LIST
 [C1]to be in a particular part of a book, list, etc.
 - Hairdressers come under "beauty salons" in the Yellow Pages.
 
-## 2387. come ## verb [I]
+## 2387. come under sth ## verb [I]
 /kʌm/ EXPERIENCE
 [C1]to experience something, often something unpleasant
 - We came under a lot of pressure to leave the area.
 - They have come under criticism from local campaigners.
 
-## 2388. come ## verb [I]
+## 2388. come up ## verb [I]
 /kʌm/ OPPORTUNITY
 [C1]If a job or opportunity comes up, it becomes available.
 - If some work comes up, you should take it.
 
-## 2389. come ## verb [I]
+## 2389. come up ## verb [I]
 /kʌm/ PROBLEM
 [C1]If a problem or difficult situation comes up, it happens.
 - Sorry I'm late - a problem came up with my schedule.
 
-## 2390. come ## verb [I]
+## 2390. come up ## verb [I]
 /kʌm/ COMPUTER
 [C1]If information comes up on a computer screen, it appears there.
 - The images came up on the screen.
 
-## 2391. come ## verb [I]
+## 2391. come up against sth ## verb [I]
 /kʌm/ 
 [C1]to have to deal with a problem or difficulty
 - She came up against a lot of sexism in her first engineering job.
@@ -14585,7 +14585,7 @@
 [C1]to be enough money to pay for something
 - One hundred dollars should cover the cost of the repairs.
 
-## 2421. cover ## verb [T]
+## 2421. cover sth up or cover up sth ## verb [T]
 /ˈkʌv.ər/ 
 [C1]to put something over something else, in order to protect or hide it
 - We used a picture to cover up a hole in the wall.
@@ -14615,17 +14615,17 @@
 [C1]to solve a problem
 - the fight to cure social inequality
 
-## 2427. cut ## verb
+## 2427. cut across sth ## verb
 /kʌt/ GROUP
 [C1]If a problem or subject cuts across different groups of people, all of those groups are affected by it or interested in it.
 - Interest in the Internet cuts across all age groups.
 
-## 2428. cut ## verb
+## 2428. cut out sth or cut sth out ## verb
 /kʌt/ SHAPE
 [C1]to remove something or form a shape by cutting, usually something made of paper or cloth
 - She cut out his picture from the magazine.
 
-## 2429. cut ## verb
+## 2429. cut out sth or cut sth out ## verb
 /kʌt/ STOP EATING
 [C1]to stop eating or drinking something, usually to improve your health
 - I've cut out red meat from my diet.
@@ -14676,7 +14676,7 @@
 [C1]to put money into a bank or valuable things into a safe place
 - She deposited $150,000 in a Swiss bank account.
 
-## 2439. derive ## verb
+## 2439. derive (sth) from sth ## verb
 /dəˈrɑɪv/ 
 [C1]to come from or be developed from something
 - Many English words derive from Latin.
@@ -14709,7 +14709,7 @@
 - Her test scores will determine which class she is assigned to.
 - He determined `to` find out the real reason.
 
-## 2445. devote ## verb
+## 2445. devote yourself to sth ## verb
 /dɪˈvoʊt/ 
 [C1]to spend all your time or energy doing something that you think is important
 - He retired in 1814 to devote himself to social reforms.
@@ -14769,7 +14769,7 @@
 [C1]to take the place of someone or something
 - Many of these workers will be displaced by modern technology.
 
-## 2457. dispose ## verb
+## 2457. dispose of sth ## verb
 /dɪˈspoʊz/ 
 [C1]to get rid of something, especially by throwing it away
 - I need to dispose of these old clothes.
@@ -14819,7 +14819,7 @@
 [C1]to try as hard as you can to do something
 - We did our utmost to finish the project on time.
 
-## 2467. do ## verb
+## 2467. do away with sth ## verb
 /duː/ 
 [C1]to get rid of something or stop using something
 - We may do away with the school uniform soon.
@@ -14846,12 +14846,12 @@
 [C1]to produce a piece of writing or a plan that you intend to change later
 - to draft a `letter`
 
-## 2472. draw ## verb
+## 2472. draw on sth ## verb
 /drɔː/ 
 [C1]to use information or your knowledge or experience of something to help you do something
 - His novels draw heavily on his childhood.
 
-## 2473. draw ## verb
+## 2473. draw sth up or draw up sth ## verb
 /drɔː/ 
 [C1]to prepare something, usually a plan, list, or an official agreement, by writing it
 - She drew up a list of contestants.
@@ -14871,7 +14871,7 @@
 [C1]to put something somewhere to get rid of it, especially in a place where you should not put it
 - The company was fined for illegally dumping toxic chemicals.
 
-## 2477. dwell ## verb
+## 2477. dwell on/upon sth ## verb
 /dwel/ 
 [C1]to keep thinking or talking about something, especially something bad or unpleasant
 - I don't want to dwell on `the past`.
@@ -15059,7 +15059,7 @@
 [C1]to be suitable for something
 - The job fits him well.
 
-## 2514. fit ## verb
+## 2514. fit in with sth ## verb
 /fɪt/ SUCCESSFUL PART
 [C1]If something fits in with a situation, idea, method, etc., it is suitable and works successfully as part of it.
 - Changing location fits in with their plans to expand the business.
@@ -15147,38 +15147,38 @@
 [C1]to make sure that you completely understand a situation
 - Let me get this straight - am I paying for this?
 
-## 2531. get ## verb
+## 2531. be getting at sth ## verb
 /get/ 
 [C1]If you ask someone what they are getting at, you are asking them what they really mean.
 - What do you think the poet is getting at in these lines?
 
-## 2532. get ## verb
+## 2532. get back to sb ## verb
 /get/ 
 [C1]to talk or write to someone at a later time to give them some information they asked for or because you were not able to speak to them before
 - I need to get back to Gary about his new computer.
 
-## 2533. get ## verb
+## 2533. get into sth ## verb
 /get/ BE INTERESTED
 [C1]to become interested in an activity or subject, or start being involved in an activity
 - How did you get into journalism?
 
-## 2534. get ## verb
+## 2534. get out ## verb
 /get/ DIFFERENT PLACES
 [C1]to go out to different places and meet people in order to enjoy yourself
 - She doesn't get out as much now that she had the baby.
 
-## 2535. get ## verb
+## 2535. get (sb/sth) out ## verb
 /get/ 
 [C1]to escape from or leave a place, or to help someone do this
 - I left the door open and the cat got out.
 
-## 2536. get ## verb
+## 2536. get (sb) through sth ## verb
 /get/ 
 [C1]to deal with a difficult or unpleasant experience, or to help someone do this
 - My friendship with Carla got me through those tough months just after we moved.
 - We'll get you through this, Karen.
 
-## 2537. get ## verb
+## 2537. get through to sb ## verb
 /get/ 
 [C1]to succeed in making someone understand or believe something
 - I just don't seem to be able to get through to him these days.
@@ -15252,7 +15252,7 @@
 [C1]to be at the front or top of something
 - Jo headed a very short list of candidates.
 
-## 2551. head ## verb
+## 2551. head off ## verb
 /hed/ 
 [C1]to start to leave a place or begin a trip, walk, etc.
 - We'll head off after lunch.
@@ -15282,17 +15282,17 @@
 [C1]to keep someone interested in something
 - The movie held my attention from beginning to end.
 
-## 2557. hold ## verb [T]
+## 2557. hold sb/sth back ## verb [T]
 /hoʊld/ PREVENT MOVEMENT
 [C1]to prevent someone or something from moving forward
 - The police held back the protesters.
 
-## 2558. hold ## verb [T]
+## 2558. hold back sth or hold sth back ## verb [T]
 /hoʊld/ NOT TELL
 [C1]to not tell everything you know about something
 - I think she suspected I was holding something back.
 
-## 2559. hold ## verb [T]
+## 2559. hold on ## verb [T]
 /hoʊld/ CONFUSED/SURPRISED
 [C1]something you say when you are confused or surprised by something that you have just heard or read and want to understand it
 - Hold on, if Sara's not coming, why are we asking for a table for six?
@@ -15373,7 +15373,7 @@
 [C1]to add something to the middle of a document or piece of writing
 - He inserted a new paragraph.
 
-## 2574. insist ## verb [I]
+## 2574. insist on sth ## verb [I]
 /ɪnˈsɪst/ 
 [C1]to keep doing something, even if it annoys other people or people think it is not good for you
 - She insists on cooking all her own meals.
@@ -15470,17 +15470,17 @@
 [C1]to remain calm
 - You did well to keep your cool in all that panic.
 
-## 2592. keep ## verb
+## 2592. keep sb/sth from doing sth ## verb
 /kiːp/ 
 [C1]to prevent someone or something from doing something
 - Try to keep the children from dropping food all over the floor.
 
-## 2593. kick ## verb [I or T]
+## 2593. kick in ## verb [I or T]
 /kɪk/ 
 [C1]to start to be effective or to happen
 - The new tax rate kicks in next month.
 
-## 2594. kick ## verb [I or T]
+## 2594. kick sb out ## verb [I or T]
 /kɪk/ 
 [C1]to force someone to leave a place or organization
 - The store is closing - we should leave before they kick us out.
@@ -15535,12 +15535,12 @@
 - He laid the tray down on the table.
 - She laid her book `on the table` and went to answer the phone.
 
-## 2604. lay ## verb [T]
+## 2604. lay sth out or lay out sth ## verb [T]
 /leɪ/ EXPLAIN
 [C1]to explain something clearly, usually in writing
 - We have asked them to lay out their plans for the future of the park.
 
-## 2605. lay ## verb [T]
+## 2605. lay sth out or lay out sth ## verb [T]
 /leɪ/ ARRANGE
 [C1]to arrange or design something, or to show how the parts of something will fit together
 - The designer laid out the book with pictures on every page.
@@ -15566,12 +15566,12 @@
 [C1]used to emphasize that something is more impossible than another thing
 - You couldn't trust her to look after your dog, let alone your child.
 
-## 2610. lie ## verb [I]
+## 2610. lie ahead ## verb [I]
 /lɑɪ/ 
 [C1]If an event or situation that will cause problems lies ahead, it will happen in the future.
 - He's under no illusions about the difficulties that lie ahead for the industry.
 
-## 2611. line ## verb [T]
+## 2611. line sb/sth up ## verb [T]
 /lɑɪn/ 
 [C1]to plan for something to happen
 - What future projects have you lined up?
@@ -15581,18 +15581,18 @@
 [C1]to find good things in a bad situation
 - Look on the bright side - no one was badly hurt.
 
-## 2613. look ## verb
+## 2613. look on/upon sb/sth as sth ## verb
 /lʊk/ 
 [C1]to consider someone or something in a particular way
 - We looked on her as a daughter.
 - I've lived there so long I look on the town as my home.
 
-## 2614. look ## verb
+## 2614. look over sth or look sth over ## verb
 /lʊk/ 
 [C1]to examine something quickly
 - I'm just looking over what you've written.
 
-## 2615. look ## verb
+## 2615. look up ## verb
 /lʊk/ 
 [C1]to become better
 - Our financial situation is looking up.
@@ -15706,7 +15706,7 @@
 [C1]to have just enough money to pay for the things that you need
 - I had to get a second job just to make ends meet.
 
-## 2636. mess ## verb
+## 2636. mess around ## verb
 /mes/ 
 [C1]to waste time playing and doing things with no particular purpose
 - I was just messing around on the computer.
@@ -15764,12 +15764,12 @@
 [C1]to cause someone to behave in a particular way
 - Some people are motivated by greed.
 
-## 2647. move ## verb
+## 2647. move on ## verb
 /muːv/ NEW SUBJECT
 [C1]to change from one subject to another when you are talking or writing
 - Let's move on `to` the next topic.
 
-## 2648. move ## verb
+## 2648. move on ## verb
 /muːv/ NEW ACTIVITY
 [C1]to start doing a new activity
 - I'd done the same job for ten years and felt it was time to move on.
@@ -16016,17 +16016,17 @@
 [C1]to end something unpleasant
 - We must `put a` stop `to` the violence.
 
-## 2693. put ## verb [T]
+## 2693. put sth aside ## verb [T]
 /pʊt/ 
 [C1]to save money for a particular purpose
 - She puts aside $100 a month to save for vacation.
 
-## 2694. put ## verb [T]
+## 2694. put sth forward or put forward sth ## verb [T]
 /pʊt/ 
 [C1]to state an idea or opinion, or to suggest a plan, so that it can be considered or discussed
 - The government has put forward proposals to raise the drinking age.
 
-## 2695. put ## verb [T]
+## 2695. put sth together or put together sth ## verb [T]
 /pʊt/ PREPARE
 [C1]to prepare a piece of work by collecting several ideas and suggestions and organizing them
 - to put together a `plan/proposal`
@@ -16150,12 +16150,12 @@
 [C1]to make an existing opinion, feeling or idea stronger
 - His behaviour merely reinforced my dislike of him.
 
-## 2719. relate ## verb
+## 2719. relate to sb/sth ## verb
 /rɪˈleɪt/ 
 [C1]to be connected to, or to be about someone or something
 - Please provide all information relating to the claim.
 
-## 2720. relate ## verb
+## 2720. relate to sb ## verb
 /rɪˈleɪt/ 
 [C1]to understand how someone feels
 - Most teenagers find it hard to relate to their parents.
@@ -16296,12 +16296,12 @@
 [C1]to publish something in a newspaper or magazine
 - All the papers are running this `story` on the front page.
 
-## 2746. run ## verb
+## 2746. run down sb/sth or run sb/sth down ## verb
 /rʌn/ 
 [C1]to criticize someone or something, often unfairly
 - Whatever the government do, the press will always run them down.
 
-## 2747. run ## verb
+## 2747. run on sth ## verb
 /rʌn/ 
 [C1]If a machine runs on a supply of power, it uses that power to work.
 - My laptop is running on battery power.
@@ -16312,7 +16312,7 @@
 - I refuse to be rushed into making a decision.
 - Don't try to rush him - he needs time to think about it.
 
-## 2749. rush ## verb
+## 2749. rush into sth ## verb
 /rʌʃ/ 
 [C1]to start doing something without thinking about it enough first
 - I rushed into marriage when I was much too young.
@@ -16383,12 +16383,12 @@
 [C1]to frighten a person or animal
 - Sudden, loud noises scare me.
 
-## 2763. scare ## verb [T]
+## 2763. scare sb/sth away/off or scare away/off sb/sth ## verb [T]
 /sker/ 
 [C1]to make a person or an animal so frightened that they go away
 - She scared off her attacker by screaming.
 
-## 2764. scare ## verb [T]
+## 2764. scare sb away/off or scare away/off sb ## verb [T]
 /sker/ 
 [C1]to make someone worried about doing something or going somewhere so that they decide not to do it or go there
 - The recent bomb attacks have scared away the tourists.
@@ -16444,7 +16444,7 @@
 [C1]to go into a place or onto a piece of land
 - He told me never to set foot in his house again.
 
-## 2774. set ## verb
+## 2774. set back sb/sth or set sb/sth back ## verb
 /set/ 
 [C1]to make something happen more slowly or later than it should
 - These delays have set back the publication date by a month.
@@ -16457,17 +16457,17 @@
 - Sand blown by the high winds had settled on the streets and lawns of the seaside town.
 - The contents of this package may settle.
 
-## 2776. settle ## verb
+## 2776. settle down ## verb
 /ˈset̬.əl/ MAKE HOME
 [C1]to start living in a place where you intend to stay for a long time
 - Eventually I'd like to settle down and have a family, but not yet.
 
-## 2777. settle ## verb
+## 2777. settle in ## verb
 /ˈset̬.əl/ 
 [C1]to begin to feel relaxed and happy in a new home or job
 - Are you settling in OK?
 
-## 2778. shake ## verb
+## 2778. shake up sth or shake sth up ## verb
 /ʃeɪk/ 
 [C1]to cause large changes in something
 - Technological changes have shaken up many industries.
@@ -16618,12 +16618,12 @@
 - She couldn't stand the pressures of the job.
 - The pain was more than he could stand.
 
-## 2806. stand ## verb
+## 2806. stand up to sb/sth ## verb
 /stænd/ 
 [C1]to defend yourself against a powerful person or organization when they treat you unfairly
 - He wasn't afraid to stand up to bullies.
 
-## 2807. start ## verb [I or T]
+## 2807. start out ## verb [I or T]
 /stɑrt/ 
 [C1]to begin your life, or the part of your life when you work, in a particular way
 - My dad started out `as` a sales assistant in a department store.
@@ -16633,30 +16633,30 @@
 [C1]to become ill or die because you do not have enough food, or to make someone ill or die because they do not have enough food
 - Many people have starved `to death` in parts of Africa.
 
-## 2809. stay ## verb [I]
+## 2809. stay away (from sth) ## verb [I]
 /steɪ/ 
 [C1]to remain away from something or to avoid something
 - Stay away from the edge of the cliff.
 - Those buildings are being torn down - you should stay away.
 
-## 2810. stay ## verb [I]
+## 2810. stay out of sth ## verb [I]
 /steɪ/ 
 [C1]to not become involved in an argument or discussion
 - It's better to stay out of their arguments.
 - You don't know anything about this, so just stay out of `it`!
 
-## 2811. stem ## verb [T]
+## 2811. stem from sth ## verb [T]
 /stem/ 
 [C1]to develop as the result of something
 - Her problems stem from childhood.
 
-## 2812. stick ## verb
+## 2812. stick by sb ## verb
 /stɪk/ 
 [C1]to continue to support someone when they are having problems
 - I'll stick by you whatever happens.
 - She was determined to stick by her family.
 
-## 2813. stick ## verb
+## 2813. stick up for sb/sth ## verb
 /stɪk/ 
 [C1]to support someone or something when they are being criticized
 - I feel I have to stick up for him.
@@ -16671,7 +16671,7 @@
 [C1]to be willing to do anything in order to achieve something
 - He will stop at nothing to get what he wants.
 
-## 2816. store ## verb [T]
+## 2816. store up sth ## verb [T]
 /stɔːr/ REMEMBER
 [C1]to remember things, usually so that you can tell people about them later
 - I've been listening to their conversations and storing it all up for future use.
@@ -16784,12 +16784,12 @@
 [C1]to be responsible for dealing with something
 - I did the cooking while Guy took care of cleaning up.
 
-## 2838. take ## verb [T]
+## 2838. take on sth or take sth on ## verb [T]
 /teɪk/ 
 [C1]to accept a particular job or responsibility
 - Make sure you don't take on too much work.
 
-## 2839. take ## verb [T]
+## 2839. take to sb/sth ## verb [T]
 /teɪk/ 
 [C1]to start to like someone or something
 - For some reason I just didn't take to her.
@@ -16814,7 +16814,7 @@
 [C1]to remove something by pulling it quickly and violently
 - She tore his picture off the wall.
 
-## 2844. tear ## verb [I or T]
+## 2844. tear up sth or tear sth up ## verb [I or T]
 /ter/ 
 [C1]to tear paper into a lot of small pieces
 - He tore the letter up and threw it away.
@@ -16861,7 +16861,7 @@
 [C1]to put something somewhere quickly and without thinking about it
 - He threw his clothes on the floor and got into bed.
 
-## 2853. throw ## verb [I or T]
+## 2853. throw yourself into sth ## verb [I or T]
 /θroʊ/ 
 [C1]to start doing something with a lot of enthusiasm and energy
 - She's really thrown herself into her new job.
@@ -17030,7 +17030,7 @@
 [C1]to love and admire someone or something very much
 - She worshipped her mother.
 
-## 2885. write ## phrasal verb
+## 2885. write sth up or write up sth ## phrasal verb
 /rɑɪt/ 
 [C1]to write something on paper or on a computer in a complete or final form, often using notes you have made
 - Have you written up that report yet?
@@ -17050,7 +17050,7 @@
 [C2]to play music to support someone else who is playing or singing
 - He accompanied me on the piano.
 
-## 2889. account ## verb
+## 2889. account for sth ## verb
 /əˈkɑʊnt/ REASON
 [C2]to be the reason for something, or to explain the reason for something
 - Can you account for your absence last Friday?
@@ -17188,12 +17188,12 @@
 [C2]to do something to show other people that you have power
 - She soon asserted her authority as leader.
 
-## 2916. assign ## verb [T]
+## 2916. assign sb to sth ## verb [T]
 /əˈsɑɪn/ 
 [C2]to give someone a particular job or place to work
 - Which police officer has been assigned to this case?
 
-## 2917. associate ## verb
+## 2917. associate with sb ## verb
 /əˈsoʊ.ʃiːˌeɪt/ 
 [C2]to spend time with or have a connection with someone
 - I don't want you associating with that crowd - they're always getting into trouble.
@@ -17218,7 +17218,7 @@
 [C2]If a disease, chemical, etc., attacks someone or something, it damages it.
 - The virus attacks the central nervous system.
 
-## 2922. attribute ## verb
+## 2922. attribute sth to sth ## verb
  
 [C2]to say that something is caused by something else
 - He attributes his success to hard work.
@@ -17234,12 +17234,12 @@
 - When the dog growled, she backed away.
 - He backed the car into a tree.
 
-## 2925. back ## verb
+## 2925. back off ## verb
 /bæk/ 
 [C2]to move away from someone, usually because you are afraid
 - I saw he had a knife and backed off immediately.
 
-## 2926. back ## verb
+## 2926. back up sth or back sth up ## verb
 /bæk/ 
 [C2]to prove that something is true
 - His claims are backed up by recent research.
@@ -17443,7 +17443,7 @@
 [C2]to move your face/head somewhere where it is hidden
 - She buried her face in her hands.
 
-## 2965. butt ## verb
+## 2965. butt in ## verb
 /bʌt/ 
 [C2]to interrupt or join in a conversation or activity when the other people do not want you to
 - The interviewer kept butting in and wouldn't let me answer the question.
@@ -17473,17 +17473,17 @@
 [C2]to use impolite or unpleasant words to describe someone
 - He said the other children were calling him names.
 
-## 2971. call ## verb
+## 2971. call for sth ## verb
 /kɔːl/ 
 [C2]to demand that something happens
 - to call for a ban on guns
 
-## 2972. call ## verb
+## 2972. call up sth or call sth up ## verb
 /kɔːl/ 
 [C2]to find and show information on a computer screen
 - Can you call up last year's sales figures on Janice's computer?
 
-## 2973. call ## verb
+## 2973. be called up ## verb
 /kɔːl/ 
 [C2]to be ordered to join a military organization or asked to join a sports team
 - He was called up soon after the war started.
@@ -17572,17 +17572,17 @@
 [C2]to surprise someone by doing something when they are not ready to deal with it
 - The journalist caught him off guard and he admitted to lying.
 
-## 2990. catch ## verb
+## 2990. catch on ## verb
 /kætʃ/ UNDERSTAND
 [C2]to understand something, especially after a long time
 - It took him a while to catch on `to` what we meant.
 
-## 2991. catch ## verb
+## 2991. be/get caught up in sth ## verb
 /kætʃ/ 
 [C2]to become involved in a situation, often without wanting to
 - How did the paper get caught up in a legal dispute?
 
-## 2992. catch ## verb
+## 2992. catch up with sb ## verb
 /kætʃ/ BAD THING
 [C2]If something bad that you have done or that has been happening to you catches up with you, it begins to cause problems for you.
 - I can feel the stress of the last few weeks beginning to catch up with me.
@@ -17607,17 +17607,17 @@
 [C2]to try very hard to get something
 - There are hundreds of graduates chasing very few `jobs`.
 
-## 2997. cheer ## verb [I]
+## 2997. cheer sb on or cheer on sb ## verb [I]
 /tʃɪr/ 
 [C2]to shout loudly in order to encourage someone in a competition
 - The race was tough, but I could hear all my friends cheering me on.
 
-## 2998. chip ## verb
+## 2998. chip in (sth) ## verb
 /tʃɪp/ 
 [C2]If several people chip in, they each give money to pay for something together.
 - We all chipped in to buy our teacher a present.
 
-## 2999. chop ## verb [T]
+## 2999. chop sth down or chop down sth ## verb [T]
 /tʃɑp/ 
 [C2]to cut through something to make it fall down
 - We chopped down the old apple tree.
@@ -17648,7 +17648,7 @@
 [C2]If two events clash, they happen at the same time so that you cannot go to them both.
 - Emma's party clashes `with` my brother's wedding.
 
-## 3005. clean ## verb [T]
+## 3005. clean sth out or clean out sth ## verb [T]
 /kliːn/ 
 [C2]to take everything out of a room, car, container, etc. and clean the inside of it
 - I cleaned out the fridge this morning.
@@ -17680,7 +17680,7 @@
 - She was found clinging `to` the ledge.
 - I clung on to his hand in the dark.
 
-## 3011. cling ## verb [I]
+## 3011. cling to sth ## verb [I]
 /klɪŋ/ 
 [C2]to try very hard to keep something
 - He clung to power for ten more years.
@@ -17690,7 +17690,7 @@
 [C2]to end, or to end something
 - She closed the meeting with a short speech.
 
-## 3013. close ## verb
+## 3013. close in ## verb
  
 [C2]to gradually get nearer to someone, usually in order to attack them or stop them from escaping
 - Police closed in `on` the demonstrators.
@@ -17813,92 +17813,92 @@
 [C2]to be useful at some time in the future
 - Don't throw those jars away - they might come in handy.
 
-## 3037. come ## verb [I]
+## 3037. come about ## verb [I]
 /kʌm/ 
 [C2]to happen or start to happen
 - How did the idea for an arts festival come about?
 
-## 3038. come ## verb [I]
+## 3038. come across ## verb [I]
 /kʌm/ CLEAR
 [C2]If an idea or emotion comes across, it is expressed clearly and people understand it.
 - His bitterness comes across in his poetry.
 
-## 3039. come ## verb [I]
+## 3039. come along ## verb [I]
 /kʌm/ EXIST
 [C2]to start to exist
 - I gave up mountain climbing when my first child came along.
 
-## 3040. come ## verb [I]
+## 3040. come around ## verb [I]
 /kʌm/ AGREE
 [C2]to change your opinion about something, or agree to an idea or a plan that you were against
 - I know Maria doesn't like you borrowing her car but she'll soon come around.
 
-## 3041. come ## verb [I]
+## 3041. come between sb ## verb [I]
 /kʌm/ 
 [C2]to harm the relationship between two or more people
 - I won't let anything come between me and my children.
 
-## 3042. come ## verb [I]
+## 3042. come by sth ## verb [I]
 /kʌm/ 
 [C2]to get something, especially something that is unusual or difficult to find
 - Cheap organic food is still `difficult to` come by.
 
-## 3043. come ## verb [I]
+## 3043. come down to sth/doing sth ## verb [I]
 /kʌm/ 
 [C2]If a situation, problem, decision, etc. comes down to something, then that is the thing that will influence it most.
 - The success of the venture comes down to the commitment of those involved.
 
-## 3044. come ## verb [I]
+## 3044. come in ## verb [I]
 /kʌm/ BE INVOLVED
 [C2]used to describe how someone is involved in a situation, story, or plan
 - We need people to help clean up, and that's where you come in.
 
-## 3045. come ## verb [I]
+## 3045. come in for sth ## verb [I]
 /kʌm/ 
 [C2]If someone comes in for criticism, praise, etc., they are criticized, praised, etc.
 - He came in for a lot of criticism for his remarks.
 
-## 3046. come ## verb [I]
+## 3046. come into sth ## verb [I]
 /kʌm/ 
 [C2]to get money from someone who has died
 - Just after I finished college, I came into a little money.
 
-## 3047. come ## verb [I]
+## 3047. come out ## verb [I]
 /kʌm/ BE REMOVED
 [C2]If dirt or a mark comes out of something, it disappears when you clean it.
 - Will this red wine stain come out?
 
-## 3048. come ## verb [I]
+## 3048. come out ## verb [I]
 /kʌm/ TELL
 [C2]to tell people that you are homosexual
 - He hasn't come out `to` his family.
 
-## 3049. come ## verb [I]
+## 3049. come out ## verb [I]
 /kʌm/ BE SAID
 [C2]If something that you say comes out in a particular way, you say it in that way.
 - I wanted to tell her that I loved her, but it came out all wrong.
 
-## 3050. come ## verb [I]
+## 3050. come out ## verb [I]
 /kʌm/ BECOME KNOWN
 [C2]to become known
 - The truth about him will come out in the end.
 
-## 3051. come ## verb [I]
+## 3051. come out of sth ## verb [I]
 /kʌm/ 
 [C2]If something comes out of a process or event, it is one of the results.
 - I hope something good can come out of this mess.
 
-## 3052. come ## verb [I]
+## 3052. come over ## verb [I]
 /kʌm/ SEEM
 [C2]to seem to be a particular type of person
 - Henry came over `as` a real enthusiast.
 
-## 3053. come ## verb [I]
+## 3053. come through ## verb [I]
 /kʌm/ 
 [C2]If information, a result, or a document comes through, you receive it.
 - Have the results of the tests come through yet?
 
-## 3054. come ## verb [I]
+## 3054. come through (sth) ## verb [I]
 /kʌm/ 
 [C2]to manage to get to the end of a difficult or dangerous situation
 - We've had some hard times, but we've come through them.
@@ -18101,37 +18101,37 @@
 [C2]when you count something, or the total number you get after counting
 - At the last count there were 410 club members.
 
-## 3093. count ## verb
+## 3093. count sb in ## verb
 /kɑʊnt/ 
 [C2]to include someone in an activity
 - If you're going for a pizza, you can count me in.
 
-## 3094. count ## verb
+## 3094. count toward sth ## verb
 /kɑʊnt/ 
 [C2]to be part of what is needed to complete something or achieve something
 - This essay counts toward my final grade.
 
-## 3095. count ## verb
+## 3095. count up sb/sth or count sb/sth up ## verb
 /kɑʊnt/ 
 [C2]to add together all the people or things in a group
 - If you count up all the money in your various savings accounts, it is quite a large sum.
 
-## 3096. cover ## verb [T]
+## 3096. cover (sth) up or cover up (sth) ## verb [T]
 /ˈkʌv.ər/ 
 [C2]to stop people from discovering the truth about something bad
 - She tried to cover up her mistakes.
 
-## 3097. crack ## verb [I or T]
+## 3097. crack down ## verb [I or T]
 /kræk/ 
 [C2]to start dealing with bad or illegal behavior in a more severe way
 - Police are cracking down `on` crime in the area.
 
-## 3098. crack ## verb [I or T]
+## 3098. crack up ## verb [I or T]
 /kræk/ 
 [C2]to become mentally ill
 - We're worried he'll crack up completely if he doesn't get help.
 
-## 3099. crack ## verb [I or T]
+## 3099. crack (sb) up ## verb [I or T]
 /kræk/ 
 [C2]to laugh a lot or to make someone laugh a lot
 - His impressions of my Dad really crack me up.
@@ -18192,12 +18192,12 @@
 [C2]someone who gives you sympathy when you are upset
 - I always had a shoulder to cry on.
 
-## 3111. cry ## verb
+## 3111. be crying out for sth ## verb
 /krɑɪ/ 
 [C2]to need something very much
 - a school that's crying out for more money
 
-## 3112. cry ## verb
+## 3112. cry out (sth) ## verb
 /krɑɪ/ 
 [C2]to shout or make a loud noise because you are frightened, hurt, etc.
 - She cried out `in` pain as she fell.
@@ -18212,12 +18212,12 @@
 [C2]to limit or control something
 - to curb crime/inflation
 
-## 3115. cut ## verb
+## 3115. cut back (sth) ## verb
 /kʌt/ 
 [C2]to reduce the amount of money being spent on something
 - We have had to cut back `on` training this year.
 
-## 3116. cut ## verb
+## 3116. cut out sth or cut sth out ## verb
 /kʌt/ not be cut out to be sth/not be cut out for sth
 [C2]to not have the right qualities for something
 - I'm not really cut out to be a nurse.
@@ -18227,7 +18227,7 @@
 [C2]used to tell someone strongly not to do something
 - Don't you dare hit your sister!
 
-## 3118. dawn ## verb
+## 3118. dawn on sb ## verb
 /dɔːn/ 
 [C2]If a fact dawns on you, you become aware of it after a period of not being aware of it.
 - It finally dawned on him that she’d been joking.
@@ -18307,7 +18307,7 @@
 [C2]to get a positive feeling or advantage from someone or something
 - I derive much pleasure from gardening.
 
-## 3134. descend ## verb [I or T]
+## 3134. descend from sb/sth ## verb [I or T]
 /dəˈsend/ 
 [C2]to be related to a person or group of people who lived in the past
 - Her father is descended from Greek royalty.
@@ -18332,7 +18332,7 @@
 [C2]to cut food into small, square pieces
 - diced onions
 
-## 3139. die ## verb [I]
+## 3139. die down ## verb [I]
 /dɑɪ/ 
 [C2]If something, especially noise or excitement, dies down, it gradually becomes less loud or strong until it stops.
 - She waited for the laughter to die down before she spoke.
@@ -18392,7 +18392,7 @@
 [C2]to make someone feel anxious or upset
 - Some scenes are violent and may disturb younger viewers.
 
-## 3151. dive ## verb [I]
+## 3151. dive into sth ## verb [I]
 /dɑɪv/ 
 [C2]to start doing something suddenly and energetically, often without stopping to think
 - Unfortunately, I dove into the discussion without being fully informed.
@@ -18418,7 +18418,7 @@
 [C2]If something does the trick, it solves a problem or has the result you want.
 - If you have a headache, an aspirin will usually do the trick.
 
-## 3156. dole ## verb
+## 3156. dole sth out ## verb
 /doʊl/ 
 [C2]to give something, especially money, to several people or in large amounts
 - I've had to dole out nearly $500 this month.
@@ -18497,12 +18497,12 @@
 [C2]to get into a situation or job without having any particular plan
 - He drifted `into` acting after college.
 
-## 3171. drift ## verb [I]
+## 3171. drift apart ## verb [I]
 /drɪft/ 
 [C2]If two people drift apart, they gradually become less friendly and the relationship ends.
 - Roz used to be one of my closest friends, but we've drifted apart.
 
-## 3172. drift ## verb [I]
+## 3172. drift off ## verb [I]
 /drɪft/ 
 [C2]to gradually start to sleep
 - I drifted off during the lecture.
@@ -18512,7 +18512,7 @@
 [C2]to provide the power or energy that makes someone or something work
 - She was driven by greed and ambition.
 
-## 3174. drive ## verb
+## 3174. drive sb/sth out ## verb
 /drɑɪv/ 
 [C2]to force someone or something to leave a place
 - The supermarket has driven many small shops out of the area.
@@ -18532,7 +18532,7 @@
 [C2]If a loud noise drowns the sound of something else, it prevents that sound from being heard.
 - His voice was drowned out by the traffic.
 
-## 3178. dry ## verb [I or T]
+## 3178. dry up ## verb [I or T]
 /drɑɪ/ 
 [C2]If a supply of something dries up, it ends.
 - The work dried up and he went out of business.
@@ -18598,7 +18598,7 @@
 [C2]to have a particular quality or characteristic
 - The country is richly endowed with natural resources.
 
-## 3191. engage ## verb [T]
+## 3191. engage in sth ## verb [T]
 /ɪnˈgeɪdʒ/ 
 [C2]to take part in something
 - The two sides have agreed to engage in talks.
@@ -18772,7 +18772,7 @@
 - His behavior falls short of what we expect.
 - She just fell short of the grades she needed.
 
-## 3225. fall ## verb [I]
+## 3225. fall back on sb/sth ## verb [I]
 /fɔːl/ 
 [C2]to use someone or something when other things have failed, or when there are no other choices
 - We've been saving up the past few years, to have something to fall back on.
@@ -18787,7 +18787,7 @@
 [C2]to worry that something very bad will happen or that something very bad has happened
 - When there was no sign of the children, the rescuers feared the worst.
 
-## 3228. feast ## verb
+## 3228. feast on sth ## verb
 /fiːst/ 
 [C2]to eat a lot of food and enjoy it very much
 - We feasted on fried chicken, ice cream, and chocolate cake.
@@ -18797,7 +18797,7 @@
 [C2]to feel very weak and as if you might fall down
 - Seeing all the blood made me feel faint.
 
-## 3230. fend ## verb
+## 3230. fend for yourself ## verb
 /fend/ 
 [C2]to take care of yourself without help
 - When you go away to college, you have to learn to fend for yourself.
@@ -18847,12 +18847,12 @@
 [C2]to become flat or to make something become flat
 - Roll out the dough into balls and flatten them slightly.
 
-## 3240. flick ## verb
+## 3240. flick through sth ## verb
 /flɪk/ 
 [C2]to look quickly at the pages of a magazine, book, etc.
 - I was just flicking through a magazine.
 
-## 3241. flood ## verb [I or T]
+## 3241. be flooded with sth ## verb [I or T]
 /flʌd/ 
 [C2]to receive so many messages, phone calls, etc., that you cannot deal with them
 - We were flooded with calls from worried parents.
@@ -18956,7 +18956,7 @@
 [C2]to show on your face that you are annoyed or worried by moving your eyebrows together
 - She frowned when I mentioned his name.
 
-## 3261. frown ## verb [I]
+## 3261. frown on/upon sth ## verb [I]
 /frɑʊn/ 
 [C2]to think that something is wrong and that you should not do it
 - You can wear jeans, but I think the restaurant frowns on shorts and sneakers.
@@ -18967,7 +18967,7 @@
 - Her immediate goal was to complete her novel, but her long-term goal was to fulfill her potential as a writer.
 - I've finally found a job in which I can fulfil myself.
 
-## 3263. function ## verb [I]
+## 3263. function as sth ## verb [I]
 /ˈfʌŋk.ʃən/ 
 [C2]to use for a particular purpose or in a particular way
 - Our spare bedroom also functions as a study.
@@ -19042,7 +19042,7 @@
 [C2]to tell someone about something that you have been worried or angry about for a long time
 - Tell me what's wrong - you'll feel better if you get it off your chest.
 
-## 3278. get ## verb
+## 3278. get to sb ## verb
 /get/ 
 [C2]to make someone feel upset or angry
 - I know he's annoying but you shouldn't let him get to you.
@@ -19102,7 +19102,7 @@
 [C2]to stick something to something else with glue
 - Do you think you can glue this vase back `together`?
 
-## 3290. glue ## verb [T]
+## 3290. be glued to sth ## verb [T]
 /gluː/ 
 [C2]to be watching something, especially television
 - The kids were glued to the TV all morning.
@@ -19158,7 +19158,7 @@
 [C2]When a person or object graces a place or thing, they make it more attractive.
 - Her face has graced the covers of magazines across the world.
 
-## 3301. grasp ## verb [T]
+## 3301. grasp at sth ## verb [T]
 /græsp/ 
 [C2]to quickly try to get hold of something
 - She grasped at the bushes as she fell.
@@ -19213,7 +19213,7 @@
 [C2]used when you want to show that you admire someone
 - You have to hand it to Mick, he's done a good job on that kitchen.
 
-## 3312. hand ## verb [T]
+## 3312. hand sth down or hand down sth ## verb [T]
 /hænd/ 
 [C2]to pass possessions or traditions from older people to younger ones
 - a custom handed down through the generations
@@ -19291,38 +19291,38 @@
 [C2]If you say that an argument doesn't hold water, you mean that it can't be true.
 - The jury convicted her because her story just didn’t hold water.
 
-## 3327. hold ## verb [T]
+## 3327. hold sth against sb ## verb [T]
 /hoʊld/ 
 [C2]to like or respect someone less because they have done something wrong or behaved badly
 - It was his mistake but I won't hold it against him.
 
-## 3328. hold ## verb [T]
+## 3328. hold sb/sth back ## verb [T]
 /hoʊld/ PREVENT PROGRESS
 [C2]to prevent someone or something from making progress
 - She felt staying in the same job would hold her back.
 
-## 3329. hold ## verb [T]
+## 3329. hold back sth or hold sth back ## verb [T]
 /hoʊld/ EMOTION
 [C2]to stop yourself from showing an emotion
 - She couldn't hold back the tears.
 
-## 3330. hold ## verb [T]
+## 3330. hold down a job ## verb [T]
 /hoʊld/ 
 [C2]to keep a job
 - It can be difficult for a mother to hold down a full-time job.
 
-## 3331. hold ## verb [T]
+## 3331. hold off (sth/doing sth) ## verb [T]
 /hoʊld/ 
 [C2]to wait before doing something
 - We'll hold off making a decision until we hear from Nick.
 
-## 3332. hold ## verb [T]
+## 3332. hold onto sth/sb ## verb [T]
 /hoʊld/ 
 [C2]to hold something firmly or to keep something
 - Hold onto the rope and don't let go.
 - The team held onto first place with a 4-3 win last night.
 
-## 3333. hold ## verb [T]
+## 3333. hold out hope ## verb [T]
 /hoʊld/ 
 [C2]to think that something is likely to succeed or have a good result
 - Few people hold out any hope of finding more survivors of the earthquake.
@@ -19552,27 +19552,27 @@
 [C2]to make sure that someone gives all their attention to what they are doing and is ready for anything that might happen
 - We have random inspections to keep everyone on their toes.
 
-## 3377. keep ## verb
+## 3377. keep at sth ## verb
 /kiːp/ 
 [C2]to continue working hard at something difficult
 - Learning a language is hard but you've just got to keep at `it`.
 
-## 3378. keep ## verb
+## 3378. keep sth from sb ## verb
 /kiːp/ 
 [C2]to not tell someone about something
 - Is there something you're keeping from me?
 
-## 3379. keep ## verb
+## 3379. keep sth to yourself ## verb
 /kiːp/ 
 [C2]If you keep something to yourself, you do not tell anyone else about it.
 - She usually keeps her opinions to herself.
 
-## 3380. keep ## verb
+## 3380. keep up (with sth) ## verb
 /kiːp/ 
 [C2]to increase or make progress at the same speed as something or someone else so that you stay at the same level as them
 - Prices have been rising very fast and wages haven't kept up.
 
-## 3381. keep ## verb
+## 3381. keep (sth) up ## verb
 /kiːp/ 
 [C2]to continue doing something or continue something without change
 - He was having trouble keeping up the payments on his car.
@@ -19582,12 +19582,12 @@
 [C2]to be very annoyed with yourself for doing something stupid or wrong
 - I could have kicked myself for saying that.
 
-## 3383. kick ## verb [I or T]
+## 3383. kick off ## verb [I or T]
 /kɪk/ 
 [C2]When an event kicks off, it begins.
 - What time does the parade kick off?
 
-## 3384. kick ## verb [I or T]
+## 3384. kick (sth) off ## verb [I or T]
 /kɪk/ 
 [C2]When you kick off a discussion or activity, you start it.
 - Should we kick off the session `with` a presentation from Lisa?
@@ -19647,7 +19647,7 @@
 [C2]to send a spacecraft or rocket into the sky, or a ship into the water
 - On the last shuttle mission, the crew launched a communications satellite.
 
-## 3396. lay ## verb [T]
+## 3396. lay sth out or lay out sth ## verb [T]
 /leɪ/ SPEND
 [C2]to spend money, especially if it seems like a large amount
 - He has laid out $40,000 to fund Little League teams in California.
@@ -19673,7 +19673,7 @@
 [C2]to be caused or influenced by something
 - Her actions were led by greed.
 
-## 3401. lead ## verb
+## 3401. lead up to sth ## verb
 /liːd/ 
 [C2]to happen before an event
 - The pilot had no recollection of the events leading up to the crash.
@@ -19688,12 +19688,12 @@
 [C2]to be in a position that is not straight or vertical
 - That fence is leaning to the right.
 
-## 3404. lean ## verb [I or T]
+## 3404. lean on sb ## verb [I or T]
 /liːn/ DEPEND ON
 [C2]to depend on someone or something
 - They had leaned on the dictionary as the authority that answered all their questions.
 
-## 3405. lean ## verb [I or T]
+## 3405. lean on sb ## verb [I or T]
 /liːn/ CONVINCE
 [C2]to try to convince or force someone do what you want
 - The other members will probably lean on her to get her to stay.
@@ -19704,7 +19704,7 @@
 - Flames were leaping into the sky.
 - I leapt up to answer the phone.
 
-## 3407. leap ## verb
+## 3407. leap at sth ## verb
 /liːp/ 
 [C2]to accept the chance to have or do something with enthusiasm
 - I'd leap at the `opportunity` to work in Japan.
@@ -19807,7 +19807,7 @@
 [C2]to stay somewhere for a long time
 - The smell from the fire still lingered hours later.
 
-## 3426. listen ## verb [I]
+## 3426. listen in ## verb [I]
 /ˈlɪs.ən/ 
 [C2]to secretly listen to someone else's conversation
 - Do you think he's been listening in `on` our conversations?
@@ -19818,7 +19818,7 @@
 - She’s so poor – I wonder how she lives.
 - He’s living `off` the money he inherited from his father.
 
-## 3428. live ## verb
+## 3428. live through sth ## verb
  
 [C2]to experience a difficult situation or event
 - My grandparents lived through two world wars.
@@ -19851,7 +19851,7 @@
 [C2]to plan to do something
 - I'm looking to start my own business.
 
-## 3434. look ## verb
+## 3434. look ahead ## verb
 /lʊk/ 
 [C2]to think about what will happen in the future and plan for these events
 - I'm looking ahead `to` next year and figuring out our staffing needs.
@@ -19876,7 +19876,7 @@
 [C2]to become loose or make something loose
 - He loosened his tie.
 
-## 3439. loosen ## verb [I or T]
+## 3439. loosen up ## verb [I or T]
 /ˈluː.sən/ 
 [C2]to become more relaxed with other people
 - After a while he loosened up.
@@ -19993,7 +19993,7 @@
 [C2]to get a lot of public attention
 - The movie made quite a splash in the US.
 
-## 3462. make ## verb [T]
+## 3462. make of sb/sth ## verb [T]
 /meɪk/ 
 [C2]If you ask someone what they make of someone or something, you want to know their opinion about that person or thing.
 - What do you make of this letter?
@@ -20049,7 +20049,7 @@
 [C2]to be important enough to receive attention or punishment
 - Her crimes were serious enough to merit a prison sentence.
 
-## 3472. mess ## verb
+## 3472. mess around with sth ## verb
 /mes/ 
 [C2]to interfere with or change something that doesn't need to be changed or that you don't want changed
 - Has someone been messing around with the settings on my computer again?
@@ -20119,7 +20119,7 @@
 [C2]to get on a horse or bicycle
 - I helped him mount the horse.
 
-## 3486. mount ## verb
+## 3486. mount up ## verb
 /mɑʊnt/ 
 [C2]to gradually become a large amount
 - My homework is really mounting up this week.
@@ -20129,7 +20129,7 @@
 [C2]to hurry
 - We're leaving in five minutes, so get moving!
 
-## 3488. muddle ## verb
+## 3488. muddle through ## verb
 /ˈmʌd.əl/ 
 [C2]to get something done even though you are not organized or prepared
 - I don’t know how to keep score – I’ll just have to muddle through.
@@ -20150,7 +20150,7 @@
 [C2]to become less or to make something become less
 - to narrow the gap between rich and poor
 
-## 3492. narrow ## verb
+## 3492. narrow sth down ## verb
 /ˈnær.oʊ/ 
 [C2]to make something, for example a list or a choice, smaller and clearer by removing the things that are less important
 - We've managed to narrow the list down to four.
@@ -20200,7 +20200,7 @@
 [C2]to watch carefully for someone or something
 - Keep your eyes open for anything unusual.
 
-## 3502. open ## verb
+## 3502. open up ## verb
 /ˈoʊ.pən/ 
 [C2]to start to talk more about yourself and your feelings
 - I've tried to get him to open up `to` me but without success.
@@ -20304,7 +20304,7 @@
 [C2]to repair a hole in a piece of clothing or other material by sewing a piece of material over it
 - to patch your sweater
 
-## 3522. patch ## verb [T]
+## 3522. patch sth up ## verb [T]
 /pætʃ/ 
 [C2]to try to improve your relationship with someone after you have had an argument
 - Has he managed to patch things up with her?
@@ -20458,12 +20458,12 @@
 [C2]to fall or move down very quickly and with force
 - The car came off the road and plunged down the hillside.
 
-## 3552. plunge ## verb
+## 3552. plunge sth into sth ## verb
 /plʌndʒ/ 
 [C2]to push something very hard into something else
 - He plunged the knife into the man's stomach.
 
-## 3553. plunge ## verb
+## 3553. plunge into sth ## verb
 /plʌndʒ/ 
 [C2]to start doing something with a lot of energy
 - Trying to forget about her, he plunged into his work.
@@ -20490,7 +20490,7 @@
 [C2]to ask a question
 - It was left to Grazia to pose the question of how the project was to be funded.
 
-## 3558. pose ## verb
+## 3558. pose as sb ## verb
 /poʊz/ 
 [C2]to pretend that you are someone else
 - He got into her house by posing as an electrician.
@@ -20580,7 +20580,7 @@
 [C2]to show that you are good at something
 - I wish he'd stop trying to prove himself all the time.
 
-## 3575. provide ## verb [T]
+## 3575. provide for sth ## verb [T]
 /prəˈvɑɪd/ MAKE PLANS
 [C2]to make plans in order to deal with a possible event in the future
 - We must provide for depreciation when calculating the costs.
@@ -20681,7 +20681,7 @@
 [C2]to say something you should not say, especially something embarrassing
 - He makes outrageous comments and is always putting his foot in his mouth.
 
-## 3595. put ## verb [T]
+## 3595. put sth aside ## verb [T]
 /pʊt/ PROBLEM
 [C2]to ignore a problem or disagreement so that you can achieve something
 - Putting aside practical difficulties, I think the proposal sounds really interesting.
@@ -20747,7 +20747,7 @@
 - It is sometimes difficult to reconcile science and religion.
 - How can you reconcile your love of animals `with` your habit of eating them?
 
-## 3608. reconcile ## verb [T]
+## 3608. reconcile yourself to sth ## verb [T]
 /ˈrek.ənˌsɑɪl/ 
 [C2]to accept a situation although you do not like it
 - Eventually he reconciled himself to living without her.
@@ -20767,13 +20767,13 @@
 [C2]to share money, land, power, etc. between people in a different way from before
 - to redistribute `wealth`
 
-## 3612. reduce ## verb [T]
+## 3612. reduce sb to sth/doing sth ## verb [T]
 /rɪˈduːs/ 
 [C2]to make someone unhappy or cause them to be in a bad situation
 - She was `reduced to tears` by his comments.
 - I lost my job and was reduced to borrowing money from friends.
 
-## 3613. reduce ## verb [T]
+## 3613. reduce sth to sth ## verb [T]
 /rɪˈduːs/ 
 [C2]to destroy something, especially something that has been built
 - The earthquake reduced the city to rubble.
@@ -20824,7 +20824,7 @@
 [C2]to make pain or a bad feeling less severe
 - Breathing exercises can help to relieve stress.
 
-## 3623. relieve ## verb [T]
+## 3623. relieve sb of sth ## verb [T]
 /rɪˈliːv/ 
 [C2]to take something away from someone
 - Let me relieve you of your luggage.
@@ -20877,12 +20877,12 @@
 - I resent having to work late.
 - He resents the `fact` that she gets more money than he does.
 
-## 3633. resign ## verb [I or T]
+## 3633. resign yourself to sth ## verb [I or T]
 /rɪˈzɑɪn/ 
 [C2]to make yourself accept something that you do not like because you cannot easily change it
 - He resigned himself to living alone.
 
-## 3634. resort ## phrasal verb
+## 3634. resort to sth/doing sth ## phrasal verb
 /rɪˈzɔːrt/ 
 [C2]to do something in order to achieve what you want, because it is the only thing you can do to achieve it
 - I had to resort to threats to get my money back.
@@ -20928,7 +20928,7 @@
 [C2]to allow something to be seen that, until then, had been hidden
 - X-rays revealed that my ribs had been cracked but not broken.
 
-## 3643. revert ## verb
+## 3643. revert to sth/doing sth ## verb
 /rɪˈvɜrt/ 
 [C2]to go back to how something was before
 - For a while I ate low-fat food but then I reverted to my old eating habits.
@@ -20969,7 +20969,7 @@
 [C2]to take part in a riot
 - People were rioting in the streets.
 
-## 3651. rip ## verb [I or T]
+## 3651. rip sb off ## verb [I or T]
 /rɪp/ 
 [C2]to cheat someone by making them pay too much money for something
 - We got ripped off when we bought our car.
@@ -21032,7 +21032,7 @@
 [C2]to upset someone by talking to them about something which you know they want to forget
 - I know your grades were better than mine - you don't have to rub it in.
 
-## 3663. rule ## verb
+## 3663. rule out sb/sth or rule sb/sth out ## verb
 /ruːl/ 
 [C2]to decide or state that something is impossible or will not happen, or that something or someone is not suitable
 - It’s unlikely that he’ll run for president, but you can never rule anything out.
@@ -21073,17 +21073,17 @@
 [C2]If someone's imagination runs wild, they are not able to control their thoughts.
 - It was getting dark and my imagination was starting to run wild.
 
-## 3671. run ## verb
+## 3671. run around ## verb
 /rʌn/ 
 [C2]to be very busy doing a lot of different things
 - I'm exhausted, I've been running around all morning.
 
-## 3672. run ## verb
+## 3672. run through sth ## verb
 /rʌn/ 
 [C2]to repeat something in order to practice it or to make sure that it is correct
 - I just need to run through my talk.
 
-## 3673. run ## verb
+## 3673. run up against sth ## verb
 /rʌn/ 
 [C2]If you run up against problems or difficulties, you begin to experience them.
 - The plan for the park ran up against strong local opposition.
@@ -21098,7 +21098,7 @@
 [C2]to put a saddle on a horse
 - We saddled our horses and rode off.
 
-## 3676. saddle ## verb
+## 3676. saddle sb with sth ## verb
 /ˈsæd.əl/ 
 [C2]to give someone a job or problem which will cause them a lot of work or difficulty
 - We're saddled with a lot of debt.
@@ -21153,7 +21153,7 @@
 [C2]to close a letter or parcel by sticking the edges together
 - to seal an envelope
 
-## 3687. seal ## verb
+## 3687. seal off sth or seal sth off ## verb
 /siːl/ 
 [C2]to prevent people from entering an area or building, often because it is dangerous
 - Police immediately sealed off the streets.
@@ -21231,12 +21231,12 @@
 [C2]to make you feel afraid or excited
 - The sound of his voice sent shivers down my spine.
 
-## 3702. send ## verb [T]
+## 3702. send for sb ## verb [T]
 /send/ 
 [C2]to send someone a message asking them to come to see you
 - We had to send for a doctor.
 
-## 3703. send ## verb [T]
+## 3703. send sth out or send out sth ## verb [T]
 /send/ 
 [C2]to produce something in a way that causes it to spread out from a central point
 - The laser sends out a red beam of light.
@@ -21281,13 +21281,13 @@
 [C2]to decide to achieve something
 - She's set her sights on becoming a doctor.
 
-## 3711. set ## verb
+## 3711. set off sth or set sth off ## verb
 /set/ 
 [C2]to cause something to begin or happen, especially a loud noise or a lot of activity
 - The spark set off a loud explosion.
 - The announcement set off a wave of protest.
 
-## 3712. set ## verb
+## 3712. set out ## verb
 /set/ AIM
 [C2]to start an activity with a particular aim
 - She set out `with` the aim of becoming the youngest ever winner of the championship.
@@ -21298,7 +21298,7 @@
 [C2]If you settle a bill or a debt, you pay the money that you owe.
 - I've got some bills to settle.
 
-## 3714. settle ## verb
+## 3714. settle (sb) down ## verb
 /ˈset̬.əl/ 
 [C2]to become quiet and calm, or to make someone quiet and calm
 - They settled down on the sofa to watch the movie.
@@ -21309,12 +21309,12 @@
 [C2]If your voice shakes, you sound very nervous or frightened.
 - He looked pale, and his voice shook as he spoke.
 
-## 3716. shake ## verb
+## 3716. shake off sth or shake sth off ## verb
 /ʃeɪk/ 
 [C2]to get rid of an illness, something unpleasant, or something that is causing you problems
 - I hope I can shake off this cold before the weekend.
 
-## 3717. shake ## verb
+## 3717. shake up sb or shake sb up ## verb
 /ʃeɪk/ 
 [C2]If an unpleasant experience shakes someone up, it makes them feel shocked and upset.
 - The accident really shook him up.
@@ -21390,7 +21390,7 @@
 - She sat me down and told me the bad news.
 - I thought we'd sit the children at the end of the table.
 
-## 3730. sketch ## verb [T]
+## 3730. sketch sth out ## verb [T]
 /sketʃ/ 
 [C2]to give a short description with few details, especially of an idea or plan
 - I've sketched out some ideas for my new book.
@@ -21405,7 +21405,7 @@
 [C2]to not have any sleep
 - I was so excited last night - I didn't sleep a wink.
 
-## 3733. sleep ## verb [I]
+## 3733. sleep with sb ## verb [I]
 /sliːp/ 
 [C2]to have sex with someone
 - She accused him of sleeping with her friend.
@@ -21430,32 +21430,32 @@
 [C2]If something slips your mind, you forget about it.
 - I meant to tell her Nigel had phoned, but it completely slipped my mind.
 
-## 3738. slip ## verb
+## 3738. slip away ## verb
 /slɪp/ DISAPPEAR
 [C2]If someone's power or the possibility of them winning or achieving something slips away, it disappears.
 - Down to ten men, the team was determined not to let victory slip away.
 
-## 3739. slip ## verb
+## 3739. slip away ## verb
 /slɪp/ LEAVE
 [C2]to leave secretly
 - He slipped away from the party as soon as he could.
 
-## 3740. slip ## verb
+## 3740. slip away ## verb
 /slɪp/ DIE
 [C2]If someone slips away, they die.
 - Despite their care, he slipped away in the night.
 
-## 3741. slip ## verb
+## 3741. slip away ## verb
 /slɪp/ TIME
 [C2]If a period of time slips away, it seems to pass quickly.
 - As the months slipped away, I began to forget what he looked like.
 
-## 3742. slip ## verb
+## 3742. slip out ## verb
 /slɪp/ SAY SOMETHING
 [C2]If a remark slips out, you say it without intending to.
 - I didn't mean to tell anyone you were getting married - it just slipped out.
 
-## 3743. slip ## verb
+## 3743. slip up ## verb
 /slɪp/ 
 [C2]to make a mistake
 - These figures don't make sense - have we slipped up somewhere?
@@ -21586,7 +21586,7 @@
 - The police refused to speculate `about` the cause of the accident.
 - The newspapers have speculated that they will get married next year.
 
-## 3768. spin ## verb [I or T]
+## 3768. spin (sb) around ## verb [I or T]
 /spɪn/ 
 [C2]If you spin around, or someone spins you around, your body turns quickly to face the opposite direction.
 - She spun around to see what had happened.
@@ -21632,12 +21632,12 @@
 [C2]If something springs to mind, you suddenly think of it.
 - Mention fashion and Kate’s name immediately springs to mind.
 
-## 3776. spring ## verb
+## 3776. spring from sth ## verb
 /sprɪŋ/ 
 [C2]to come from or be the result of something
 - Her remarkable poise springs from her early theater training.
 
-## 3777. spring ## verb
+## 3777. spring up ## verb
 /sprɪŋ/ 
 [C2]to appear suddenly
 - A lot of new hotels have sprung up along the coast recently.
@@ -21652,7 +21652,7 @@
 [C2]to encourage someone to do something or something to happen
 - Spurred on by his fans, he won the next three games easily.
 
-## 3780. spy ## verb
+## 3780. spy on sb ## verb
 /spɑɪ/ 
 [C2]to secretly watch someone
 - He spied on her through the keyhole.
@@ -21667,7 +21667,7 @@
 [C2]to make a short, high sound
 - His shoes squeaked loudly as he walked.
 
-## 3783. squeeze ## verb [T]
+## 3783. squeeze sb/sth in or squeeze in sb/sth ## verb [T]
 /skwiːz/ 
 [C2]to manage to do something or see someone in a short period of time or when you are very busy
 - While we're in Australia, we're hoping to squeeze in a trip to the Barrier Reef.
@@ -21756,12 +21756,12 @@
 [C2]If you will not stand for something, you will not accept a situation or a particular type of behavior
 - I wouldn't stand for that sort of behavior from him, if I were you.
 
-## 3799. stand ## verb
+## 3799. stand for sth ## verb
 /stænd/ ACCEPT
 [C2]used with "not" to say you will not accept a situation or a particular type of behavior
 - Maybe you think his behavior is OK, but I won’t stand for it.
 
-## 3800. stand ## verb
+## 3800. stand in ## verb
 /stænd/ 
 [C2]to do something that someone else was going to do because they cannot be there
 - She stood in `for` me when I was sick.
@@ -21771,12 +21771,12 @@
 [C2]to remain in the same place and not leave there
 - He told me to stay put while he went to get the car.
 
-## 3802. stay ## verb [I]
+## 3802. stay behind ## verb [I]
 /steɪ/ 
 [C2]to remain at a place when other people leave it
 - Francine went on ahead and I stayed behind to wait for Annie.
 
-## 3803. stay ## verb [I]
+## 3803. stay on ## verb [I]
 /steɪ/ 
 [C2]to remain somewhere for a longer time than expected or after other people have left
 - His boss asked him to stay on as manager for another year.
@@ -21787,7 +21787,7 @@
 - Steer clear of Tony this morning - he's in a bad mood.
 - Davis steered clear of politics because of all the problems his father had had as governor.
 
-## 3805. step ## verb
+## 3805. step down ## verb
 /step/ 
 [C2]to leave an important job
 - She stepped down as captain of the swim team.
@@ -21802,7 +21802,7 @@
 [C2]to make someone feel a strong emotion
 - The case has stirred great `anger` among the public.
 
-## 3808. stir ## verb
+## 3808. stir up sth or stir sth up ## verb
 /stɜr/ 
 [C2]to cause arguments or bad feeling between people, usually on purpose
 - I think he just likes to stir up `trouble`.
@@ -21812,7 +21812,7 @@
 [C2]to almost do something but decide not to do it
 - She stopped short of accusing him of lying.
 
-## 3810. store ## verb [T]
+## 3810. store up sth ## verb [T]
 /stɔːr/ KEEP
 [C2]to keep something and not use it, so that it can be used in the future
 - She had stored up some nuts to use in the cake.
@@ -21884,12 +21884,12 @@
 [C2]to make a mistake, such as pausing or repeating a word, while speaking or performing
 - He kept stumbling `over` the same word.
 
-## 3823. stumble ## verb [I]
+## 3823. stumble across/on/upon sth/sb ## verb [I]
 /ˈstʌm.bəl/ 
 [C2]to discover something by chance, or to meet someone by chance
 - I stumbled across these photographs while I was cleaning out my desk.
 
-## 3824. subject ## verb
+## 3824. subject sb/sth to sth ## verb
 /ˈsʌb.dʒɪkt/ 
 [C2]to make someone or something experience something unpleasant
 - In prison, he was subjected to beatings and interrogations.
@@ -22090,13 +22090,13 @@
 [C2]to think carefully about a situation before making a decision
 - We need to pause and take stock of what still needs to be done.
 
-## 3863. take ## verb [T]
+## 3863. take in sth or take sth in ## verb [T]
 /teɪk/ 
 [C2]to understand completely the meaning or importance of something
 - I had to read the letter twice before I could take it all in.
 - It was an interesting exhibition, but there was too much to take in at once.
 
-## 3864. take ## verb [T]
+## 3864. take over ## verb [T]
 /teɪk/ 
 [C2]to become more successful or powerful than something or someone else that is involved in the same type of activity
 - Italy has taken over `from` Spain as Europe's favorite vacation destination.
@@ -22106,12 +22106,12 @@
 [C2]to think about or make plans to do something in the future
 - They're talking about building a new fire station downtown.
 
-## 3866. talk ## verb [I]
+## 3866. talk sb out of sth/doing sth ## verb [I]
 /tɔːk/ 
 [C2]to persuade someone not to do something
 - It's a ridiculous idea - I've tried to talk him out of it.
 
-## 3867. talk ## verb [I]
+## 3867. talk sth through or talk through sth ## verb [I]
 /tɔːk/ 
 [C2]to discuss all the details of something, often before making a decision
 - I'm thinking of taking out a loan, but I need to talk it through with my accountant.
@@ -22131,17 +22131,17 @@
 [C2]to be unable to decide between two choices
 - I'm torn between the apple pie and the chocolate mousse.
 
-## 3871. tear ## verb [I or T]
+## 3871. tear apart sth or tear sth apart ## verb [I or T]
 /ter/ DESTROY
 [C2]to destroy something that was united, such as a country, family or political party
 - The political situation threatened to tear the country apart.
 
-## 3872. tear ## verb [I or T]
+## 3872. tear apart sth or tear sth apart ## verb [I or T]
 /ter/ CRITICIZE
 [C2]to criticize something very strongly
 - His ideas were torn apart at the meeting.
 
-## 3873. tear ## verb [I or T]
+## 3873. tear down sth or tear sth down ## verb [I or T]
 /ter/ 
 [C2]to destroy a building or other structure because it is not being used or it is not wanted any more
 - They're going to tear down the old hospital and build a block of offices there.
@@ -22181,12 +22181,12 @@
 [C2]used to say that you have just thought of something
 - Come to think of it, I've got two batteries that you can have upstairs.
 
-## 3881. think ## verb
+## 3881. think ahead ## verb
 /θɪŋk/ 
 [C2]to think carefully about what might happen in the future, or to make plans for things you want to do in the future
 - I'm already thinking ahead `to` what I might do when my exams are over.
 
-## 3882. think ## verb
+## 3882. think back ## verb
 /θɪŋk/ 
 [C2]to think about things that happened in the past
 - I thought back `to` the time when I was living in France.
@@ -22279,7 +22279,7 @@
 [C2]to make the contents of a container fall out by holding the container in a position where this happens
 - She tipped the contents of her purse onto the table.
 
-## 3900. tip ## verb
+## 3900. tip sb off or tip off sb ## verb
 /tɪp/ 
 [C2]to warn someone secretly about something so that they can take action or prevent it happening
 - The robbery was planned for that night, but an anonymous caller tipped the police off.
@@ -22290,7 +22290,7 @@
 - She's been leading throughout the race, but it now looks like she's tiring.
 - Going up all those stairs tires me out.
 
-## 3902. tire ## verb [I or T]
+## 3902. tire of sth/sb/doing sth ## verb [I or T]
 /tɑɪr/ 
 [C2]to become bored with someone or something, or to stop enjoying an activity
 - Viewers `never` tire of nature programs.
@@ -22316,7 +22316,7 @@
 [C2]to be covered with something
 - lemon tart topped with cream
 
-## 3907. top ## verb [T]
+## 3907. top sth off or top off sth ## verb [T]
 /tɑp/ 
 [C2]to finish something in an enjoyable or successful way
 - We topped off the day with a fantastic meal at Bruno's.
@@ -22358,7 +22358,7 @@
 [C2]to record the progress or development of something over a period
 - The study tracked the careers of 1226 doctors who trained at the University of Michigan Medical School.
 
-## 3915. track ## verb [T]
+## 3915. track down sb/sth or track sb/sth down ## verb [T]
 /træk/ 
 [C2]to find someone or something after looking for them in a lot of different places
 - The man was finally tracked down by French police.
@@ -22374,7 +22374,7 @@
 [C2]to have a lower score than someone else, especially in a sports event
 - City were trailing United 1-2 at half time.
 
-## 3918. trail ## verb [I or T]
+## 3918. trail off ## verb [I or T]
 /treɪl/ 
 [C2]to gradually becomes quieter or less in amount
 - His voice trailed off weakly and we could not hear the rest.
@@ -22481,7 +22481,7 @@
 [C2]to strongly advise an action
 - Financial experts are urging `caution`.
 
-## 3939. urge ## verb [T]
+## 3939. urge sb on ## verb [T]
 /ɜrdʒ/ 
 [C2]to encourage someone to do or achieve something
 - The crowd was cheering and urging her on.
@@ -22614,7 +22614,7 @@
 [C2]to quickly close and then open one eye, in order to be friendly or to show that something is a joke
 - She smiled and winked `at` me.
 
-## 3965. wipe ## verb [T]
+## 3965. wipe sth out or wipe out sth ## verb [T]
 /wɑɪp/ 
 [C2]to destroy something completely
 - The earthquake wiped out many villages.
@@ -22639,7 +22639,7 @@
 [C2]to destroy or badly damage something
 - The explosion wrecked several cars and damaged nearby buildings.
 
-## 3970. write ## phrasal verb
+## 3970. write sb/sth off or write off sb/sth ## phrasal verb
 /rɑɪt/ 
 [C2]to decide that someone or something is not useful or important
 - They had written him off before they even met him.

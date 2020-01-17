@@ -13,11 +13,12 @@ with zipfile.ZipFile('us_words.zip','r') as zf:
         doc = requests_html.HTML(html=html)
         #doc = pyquery.PyQuery(html)
         #print(repr(doc.find('.head h1')))
-        word = doc.find('.head h1')[0].text
+        key = word = doc.find('.head h1')[0].text
+
         pron = ' '.join(list(x.text for x in doc.find('.head .pron')))
         #assert '!!' not in pron, word
         #print(word)
-        item = {'word':word}
+        #item = {'word':word}
         print(word)
         for posblock in doc.find('.posblock'):
             poses = [x.text for x in posblock.find('.posblock > .posgram')] # phrasal verb
@@ -45,11 +46,12 @@ with zipfile.ZipFile('us_words.zip','r') as zf:
                     freq = freq[0].text
                     define = sense.find('.def')[0].text
                     examples = '|'.join(x.text.strip() for x in sense.find('.examp'))
-                    items.append({'word':word,'pos':pos,'pron':pron, 'gw':gw,'freq':freq,'def':define,'example':examples})
+                    items.append({'key':key,'word':word,'pos':pos,'pron':pron, 'gw':gw,'freq':freq,'def':define,'example':examples})
+            word = key
             for gwblock in posblock.find('.posblock > .gwblock'):
                 ff(gwblock)
             oword = word
-            pos = 'phrasal verb'
+            #pos = 'phrasal verb' if re.search(r'\bverb\b',pos) else pos # hope
             for pv in posblock.find('.posblock > .phrasal_verb'):
                 word = pv.find('h3')[0].text
                 for gwblock in pv.find('.gwblock'):
@@ -58,5 +60,5 @@ with zipfile.ZipFile('us_words.zip','r') as zf:
         #items.append(item)
 
 df = pd.DataFrame(items)
-df=df.sort_values(by=['freq','word'],kind='heapsort')
+df=df.sort_values(by=['freq','key'],kind='heapsort')
 df.to_csv('words.tsv',sep="\t",index=False,quoting=3)

@@ -4,20 +4,23 @@
 
 ### prep 介词
 
+位置 名词后，句首尾
 
-
-位置名词后，句首尾
-- of (belong to)
+- to ★
+- for ★
+- of ★ 
+  - (belong to)
   - most of them
-  - a cap of 
-- ​about, talk about, a book about
-
+  - a cap of
+- ​about ★
+  -  talk about, a book about
+- with
+  - [verb+] with sb (together) 
+  - [noun+] with sth (having)
 - than ★
   - adj-er than N
   - adv-er than I do
   - than usual
-- [verb+] with sb (together) 
-- [noun+] with sth (having)
 (time)
 - after
 - before
@@ -49,7 +52,67 @@
 
 - as
 - as well
+
+
 ### adv 副词
+
+
+- again
+- also
+  - as well 
+  - too
+  - as well as
+- always
+  - never
+  - often, sometimes,
+- best
+- most
+
+
+- early
+- first
+
+- [try/work +] hard
+
+
+
+
+- [do +] not
+- not [+ n/to do]
+- together
+- only
+- very [+ adj/adv] ★
+  - very much
+  - too [+ adj]
+  - more [+ adj/adv] than
+- really ★
+  - actually 
+- [do +] well
+(number,amount)
+- about ★
+(ask)
+- how ★
+  - how many/much/often/big/old
+- when ★
+- where ★
+- why ★
+(answer)
+- yes
+- no
+(time)
+- now ★
+  - soon 
+  - then
+  - today
+  - tomorrow
+  - tonight
+  - yesterday
+(place)
+- here
+- there
+- back
+- up
+- down
 
 
 ### adj 形容词
@@ -60,33 +123,38 @@
 
 ### verb 动词
 
-- open the window
-  - close the door
-- clean the windows
-
-
-- give sb sth/give sth to sb ★
+- be ★
+  - there be
+- go ★
+  - go to school
+  - walk, run 
+  - leave
+  - stay
+- give ★
+  - give sb sth/give sth to sb 
   - send [+mail]
-- see
-  - show (=make seen)
-  - visit
-- say
-  - speak
-  - talk
-  - tell
-  - ask
-- leave
-- stay    
-- make ★ (=produce)
-- ​have ★
-  - need ★ (=must have)
-  - want [+ to do]
-  - would like (=want)
+- put
 - get
   - receive
   - buy
+  - arrive
+- let
+- make ★
+  - (=produce)
+- ​have ★
+  - need ★ (=must have)
+- want (sb) to do
+  - would like (=want)
+- say +that
+  - tell
+  - ask
+  - speak
+  - talk
+- see
+  - show (=make seen)
+  - visit
 - stop [+doing]
-
+- finish
 - think
 - know
   - understand
@@ -94,13 +162,54 @@
 
 - will
 
-buy,pay,sell
-- put [+ n. prep]
+- open the window
+- close the door
+- clean the windows
 
-- walk
- - run
- - 
+
+buy,pay,sell
+
 ### noun 名词
 
+### conjunction
 
+- and
+- because (reason)
+  - as 
+- but
+  - although
+- or
+- than
+
+- except
+- if
+  - unless
+- so
+- that
+- when
+- where
+- while
+- either ... or ...
+- neither ... nor ...
+- since
+- tough
+- even though
+- till
+- whenever
+- wherever
+- while
+- yet
+- considering
+- provided
+- now
+- once
+- albeit
+- 
+(clause)
+- whether
+(time)
+- after
+- before
+- until
+- when
 

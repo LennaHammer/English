@@ -31760,7 +31760,7 @@
 [C2]the best/last/only person or thing that can help you and make you succeed
 - Doctors say his only hope is a transplant.
 
-## 5509. hope ## noun [C or U]
+## 5509. hold out hope ## noun [C or U]
 /hoʊp/ 
 [C2]to think that something is likely to succeed or have a good result
 - Few people hold out any hope of finding more survivors.
