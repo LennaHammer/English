@@ -14,13 +14,15 @@
   - a cap of
 - ​about ★
   -  talk about, a book about
-- with
+- with ★
   - [verb+] with sb (together) 
   - [noun+] with sth (having)
 - than ★
   - adj-er than N
   - adv-er than I do
   - than usual
+- as
+  - as well ★
 (time)
 - after
 - before
@@ -31,47 +33,47 @@
 - from
 - in
 - on
-- a quarter past three, five to three
+- a quarter past three
+- five to three
 (place) 
 - at (place)
 - behind
 - from
 - near (distance)
 (positon)
-- above, below
-- under the tree
 - in, inside
 - on the desk
+- under the tree
+- above, below
 (direction)
-- look at
-- for (used)
 - go to ...
+- look at ...
+- for (used)
 (number,amount)
 - more than
 - above
-
-- as
-- as well
-
+- at least
 
 ### adv 副词
 
+- well ★
 
 - again
 - also
   - as well 
   - too
   - as well as
-- always
+- always ★
   - never
   - often, sometimes,
 - best
 - most
-
+- almost
+- nearly
 
 - early
 - first
-
+- 
 - [try/work +] hard
 
 
@@ -84,10 +86,9 @@
 - very [+ adj/adv] ★
   - very much
   - too [+ adj]
-  - more [+ adj/adv] than
+  - more adj/adv than
 - really ★
-  - actually 
-- [do +] well
+  - actually
 (number,amount)
 - about ★
 (ask)
@@ -128,13 +129,14 @@
 - go ★
   - go to school
   - walk, run 
+  - come
   - leave
   - stay
 - give ★
   - give sb sth/give sth to sb 
   - send [+mail]
 - put
-- get
+- get ★
   - receive
   - buy
   - arrive
@@ -145,6 +147,9 @@
   - need ★ (=must have)
 - want (sb) to do
   - would like (=want)
+- take 
+
+
 - say +that
   - tell
   - ask
@@ -153,8 +158,16 @@
 - see
   - show (=make seen)
   - visit
-- stop [+doing]
-- finish
+  - hear
+  - look
+
+
+- begin
+  - start
+  - change
+  - stop [+doing]
+  - finish
+  - end
 - think
 - know
   - understand
@@ -171,7 +184,7 @@ buy,pay,sell
 
 ### noun 名词
 
-### conjunction
+### conjunction 连词
 
 - and
 - because (reason)
